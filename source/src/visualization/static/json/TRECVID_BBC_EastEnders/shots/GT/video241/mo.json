@@ -1,0 +1,1 @@
+{"localisation": [{"sublocalisations": {"localisation": [{"label": "0.7149986", "tc": "01:32:51.2", "tclevel": 1}]}, "type": "keyframes", "tcin": "00:00:00.0000", "tcout": "00:00:15.0000", "tclevel": 0}], "id": "shot_gt", "type": "events", "algorithm": "demo-video-generator", "processor": "", "processed": 1421141589291, "version": 1}

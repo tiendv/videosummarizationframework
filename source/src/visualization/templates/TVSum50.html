@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>demo</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  </head>
+  <body>
+{% for hist in data_list %}
+<a target="_blank" href={{hist.video}} > 
+    <img src={{url_for('static', filename=hist.thumbnail)}} alt="{{hist}}"  ></img>
+</a>
+{% endfor %}
+
+  </body>
+
+</html>
