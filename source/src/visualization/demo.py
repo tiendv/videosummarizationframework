@@ -50,9 +50,11 @@ def create_dictionary_tvsum50(path_thumbnails,link_path,matlab_gt):
         data_list.append(dict_temp)
     return data_list
 
-def create_dictionary_bbc(path_videos,link_path):
+def create_dictionary_bbc(path_videos,path_thumbnails,link_path):
     path_videos = glob.glob(static_folder+"/"+path_videos+"/*.mp4")
     path_videos = [file[(len(static_folder)+1):] for file in path_videos]
+    path_thumbnails = glob.glob(static_folder+"/"+path_thumbnails+"*.jpg")
+
     data_list = []
     link_video = []
     for i in path_videos :
@@ -61,7 +63,7 @@ def create_dictionary_bbc(path_videos,link_path):
     for i in range(len(path_videos)):
         dict_temp = {}
         dict_temp['video'] = link_video[i]
-        dict_temp['thumbnail'] = path_videos[i]
+        dict_temp['thumbnail'] = path_thumbnails[i].replace("static/","")
         data_list.append(dict_temp)
     return data_list
 
@@ -111,5 +113,5 @@ def visual_TRECVID_BBC_EastEnders():
 
 if __name__ == "__main__":
     tvsum50_temp = create_dictionary_tvsum50(path_thumbnails_tvsum,"/visualTVSum50?file_id=",path_matlab_gt)
-    bbc_temp = create_dictionary_bbc("TRECVID_BBC_EastEnders/videos/","/visualTRECVID_BBC_EastEnders?file_id=")
+    bbc_temp = create_dictionary_bbc("TRECVID_BBC_EastEnders/videos/","thumbnails_BBC/","/visualTRECVID_BBC_EastEnders?file_id=")
     app.run(host="192.168.28.13",port=5000, debug=True)

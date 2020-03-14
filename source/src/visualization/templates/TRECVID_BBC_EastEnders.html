@@ -8,9 +8,8 @@
   </head>
   <body>
 {% for hist in data_list %}
-<a target="_blank" href={{hist.video}} > 
-    {{hist.thumbnail}}
-    <br>
+<a target="_blank" href={{hist.video}} >
+    <img src={{url_for('static', filename=hist.thumbnail)}} alt="{{hist}}" height="180" width="320" ></img>
 </a>
 {% endfor %}
 
