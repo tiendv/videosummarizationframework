@@ -114,4 +114,4 @@ def visual_TRECVID_BBC_EastEnders():
 if __name__ == "__main__":
     tvsum50_temp = create_dictionary_tvsum50(path_thumbnails_tvsum,"/visualTVSum50?file_id=",path_matlab_gt)
     bbc_temp = create_dictionary_bbc("TRECVID_BBC_EastEnders/videos/","thumbnails_BBC/","/visualTRECVID_BBC_EastEnders?file_id=")
-    app.run(host="", debug=True)
+    app.run(host="0.0.0.0", port=5000,debug=True)
