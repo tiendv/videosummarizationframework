@@ -15,9 +15,9 @@ for p in list_json:
     vidcap = cv2.VideoCapture(p)
     success,image = vidcap.read()
     count = 0
-    k = random.randint(50,500)
+    
     while success:
-        if count == k:
+        if count == 3000:
             cv2.imwrite("visualization/static/thumbnails_BBC/{}.jpg".format(file_name),image)
             break   # save frame as JPEG file
         success,image = vidcap.read()
