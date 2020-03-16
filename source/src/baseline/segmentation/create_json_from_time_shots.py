@@ -1,8 +1,8 @@
 import  json
 import sys
 import os
-# sys.path.append("../../../config")
-# from config import cfg
+
+from config.config import cfg
 
 data_json = {
                 "localisation": [
@@ -24,7 +24,14 @@ data_json = {
                 "version": 1
             }
 
-def create_json4shots(path_data,path_json):
+def create_json4shots(path_data,path_json,id="shot_gt"):
+    '''
+        This function uses to create a json file from text file for shots
+        input: path_data - path of txt file including time of shot
+               path_json - path of json being saved
+               id(optional) = id of the json file (default="shot_gt")
+        output: none
+    '''
     dicts_data = []
     with open(path_data,'r') as f:
         for line in f:
@@ -35,19 +42,28 @@ def create_json4shots(path_data,path_json):
             dict_data["tclevel"] = 1
             dicts_data.append(dict_data)
     data_json["localisation"][0]["sublocalisations"]["localisation"] = dicts_data
-    data_json["id"] = "shot_gt"
+    data_json["id"] = id
     data_json["type"] = "events"
 
     name_vid =  path_data.split("/")[-1]
     name_file = name_vid.split(".")[0]
     name_vid = path_data.split("/")[-2]
-    path_save = os.path.join(path_json,"GT/{}".format(name_vid))
+    path_save = os.path.join(path_json,name_vid)
     if not os.path.isdir(path_save):
           os.makedirs(path_save)
     with open(os.path.join(path_save,"{}.json".format(name_file)),'w+') as f:
         json.dump(data_json, f)
 
-def create_json4shots(name_vid,list_begin, list_ending,list_score,path_json):
+def create_json4shots(path_json, name_vid,list_begin, list_ending,list_score=None,id="shot_gt", ):
+    '''
+        This function uses to create a json file from input data for shots
+        input: name_vid - the name of the input video
+               list_begin - list of time begining of each shot
+               list_ending - list of time ending of each shot
+               list_score - list of score of each shot, enter "None" if it hasn't had the scores
+               id(optional) = id of the json file (default="shot_gt")
+        output: none
+    '''
     dicts_data = []
     for i in range(len(list_begin)):
         dict_data = {}
@@ -60,10 +76,10 @@ def create_json4shots(name_vid,list_begin, list_ending,list_score,path_json):
         dict_data["tclevel"] = 1
         dicts_data.append(dict_data)
     data_json["localisation"][0]["sublocalisations"]["localisation"] = dicts_data
-    data_json["id"] = "shot_gt"
+    data_json["id"] = id
     data_json["type"] = "events"
 
-    path_save = os.path.join(path_json,"GT/{}".format(name_vid))
+    path_save = os.path.join(path_json,name_vid)
     if not os.path.isdir(path_save):
           os.makedirs(path_save)
     with open(os.path.join(path_save,"{}.json".format(name_vid)),'w+') as f:
@@ -75,5 +91,4 @@ def create_multi_json(path_time_shots,path_json_shot):
         for name in files:
             create_json4shots(os.path.join(path,name),path_json_shot)
 if __name__ == '__main__':
-    # create_multi_json(cfg.PATH_TIME_SHOTS,cfg.PATH_JSON_SHOT)
-    print("AAA")
+    create_multi_json(cfg.PATH_TIME_SHOTS,cfg.PATH_JSON_SHOT)

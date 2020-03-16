@@ -19,8 +19,11 @@ function load_video(file_id){
         plugins: {
             dataServices: [
                 'json/TVSum/shots/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/shots/BL/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/kf/'+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/BL/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+
             ],
             list: [
                 {
@@ -38,7 +41,7 @@ function load_video(file_id){
                             {
                                 title: 'Shot seg[Baseline]',
                                 type: 'cuepoint',
-                                metadataId: 'events-amalia01',
+                                metadataId: 'shot_bl',
                                 color: "#3CF",
                                 pointNav: true
                             },
@@ -51,7 +54,7 @@ function load_video(file_id){
                             {
                                 title: 'Sum[Base line]',
                                 type: 'segment',
-                                metadataId: 'ball-amalia01',
+                                metadataId: 'seg_bl',
                                 color: '#F00'
                             },
                             {
@@ -60,7 +63,7 @@ function load_video(file_id){
                                 metadataId: 'kf-amalia01',
                                 pointNav: true
                             },
-                              
+
                         ]
                     }
                 }

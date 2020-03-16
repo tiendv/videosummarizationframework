@@ -1,12 +1,9 @@
 import os , sys
-sys.path.append("/home/mmlab/visual_tool/source/config")
-sys.path.append("/home/mmlab/visual_tool/source/utilities")
-
-from config import cfg
-from convert_time import time2sec
+from config.config import cfg
+from utilities.convert_time import time2sec
 import knapsack
 import json
-from multiprocessing import Process
+
 
 data_json = {
                 "localisation": [
@@ -28,7 +25,7 @@ data_json = {
                 "version": 1
             }
 
-def get_data_to_selection(path_data):
+def get_data_to_selection_file(path_data):
     shot_durations = []
     scores = []
     with open(path_data,'r') as f:
@@ -46,8 +43,8 @@ def get_data_to_selection(list_begin,list_ending):
         video_duration = round(time2sec(list_ending[i]),4)
     return shot_durations, video_duration
 
-def selection_shot_knapsack(path_data,L=0.15):
-    shot_durations,scores, video_duration = get_data_to_selection(path_data)
+def selection_shot_knapsack_file(path_data,L=0.15):
+    shot_durations,scores, video_duration = get_data_to_selection_file(path_data)
     print(video_duration*L)
     result = knapsack.knapsack(shot_durations,scores).solve(video_duration*L)
     #result is a tuple (max of sum score, sum durarion less than sum_video )
@@ -61,7 +58,7 @@ def selection_shot_knapsack(list_begin,list_ending,list_score,L=0.15):
     return result
 
 
-def create_json_selection(path_data='', result_selection=None, path_json=''):
+def create_json_selection_file(path_data, result_selection=None, path_json='',id="seg_GT"):
     with open(path_data,'r') as f:
         data = f.readlines()
     dicts_data = []
@@ -84,15 +81,26 @@ def create_json_selection(path_data='', result_selection=None, path_json=''):
     name_file = name_vid.split(".")[0]
     name_vid =  path_data.split("/")[-2]
     data_json["localisation"][0]["sublocalisations"]["localisation"] = dicts_data
-    data_json["id"] = name_file
+    data_json["id"] = id
     data_json["type"] = "segments"
-    path_save = os.path.join(path_json,"GT/{}".format(name_vid))
+    path_save = os.path.join(path_json,name_vid)
     if not os.path.isdir(path_save):
           os.makedirs(path_save)
     with open(os.path.join(path_save,"{}.json".format(name_file)),'w+') as f:
         json.dump(data_json, f)
+    print("the json file is saved at {}".format(os.path.join(path_save,"{}.json".format(name_file))))
 
-def create_json_selection(name_vid, list_begin,list_ending,result_selection, path_json):
+def create_json_selection(name_vid, list_begin,list_ending,result_selection, path_json='./',id = 'shot_GT'):
+    '''
+        This function uses to create a json for vusializing the selection
+        input: name_vid - name of the input video
+               list_begin - list the begining time of each shot
+               list_ending - list the ending time of each shot
+               result_selection - the output after using knapsack for selection. (None if not have)
+               path_json - the path of json file being saved
+        output: None
+    '''
+
     dicts_data = []
     if result_selection:
 	    for i in result_selection[1]:
@@ -110,23 +118,17 @@ def create_json_selection(name_vid, list_begin,list_ending,result_selection, pat
 		    dicts_data.append(dict_data)
 
     data_json["localisation"][0]["sublocalisations"]["localisation"] = dicts_data
-    data_json["id"] = 'shot_GT'
+    data_json["id"] = id
     data_json["type"] = "segments"
-    path_save = os.path.join(path_json,"GT/{}".format(name_vid))
+    path_save = os.path.join(path_json,name_vid)
     if not os.path.isdir(path_save):
           os.makedirs(path_save)
+
     with open(os.path.join(path_save,"{}.json".format(name_vid)),'w+') as f:
         json.dump(data_json, f)
+    print("The json file is saved at {}".format(os.path.join(path_save,"{}.json".format(name_vid))))
 
-def fusion(path_time_shots,path_save):
-    result = selection_shot_knapsack(path_time_shots)
-    create_json_selection(path_time_shots, result , path_save)
-def run_multi_process():
-    for path, subdirs, files in os.walk(cfg.PATH_TIME_SHOTS):
-        for name in files:
-            print(os.path.join(path,name))
-            pro = Process(target=fusion, args=(os.path.join(path,name),cfg.PATH_JSON_SELECT))
-            pro.start()
+
 
 if __name__ == '__main__':
     for path, subdirs, files in os.walk(cfg.PATH_TIME_SHOTS_BBC):
