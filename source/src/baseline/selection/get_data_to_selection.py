@@ -14,15 +14,15 @@ data_json = {
                         "type": "keyframes",
                         "tcin": "00:00:00.0000",
                         "tcout": "00:00:15.0000",
-                        "tclevel": 0
+                        "tclevel": "0"
                     }
                 ],
                 "id": "kf-amalia01",
                 "type": "keyframes",
                 "algorithm": "demo-video-generator",
-                "processor": "",
-                "processed": 1421141589291,
-                "version": 1
+                "processor": "mmlab",
+                "processed": "1421141589291",
+                "version": "1"
             }
 
 def get_data_to_selection_file(path_data):
@@ -58,24 +58,16 @@ def selection_shot_knapsack(list_begin,list_ending,list_score,L=0.15):
     return result
 
 
-def create_json_selection_file(path_data, result_selection=None, path_json='',id="seg_GT"):
+def create_json_selection_file(path_data, path_json='',id="seg_GT"):
     with open(path_data,'r') as f:
         data = f.readlines()
     dicts_data = []
-    if result_selection:
-	    for i in result_selection[1]:
-		    dict_data = {}
-		    dict_data["tcin"] = data[i].split()[0]
-		    dict_data["tcout"] = data[i].split()[1]
-		    dict_data["tclevel"] = i
-		    dicts_data.append(dict_data)
-    else:
-	    for d in data:
-		    dict_data = {}
-		    dict_data["tcin"] = d.split()[0]
-		    dict_data["tcout"] = d.split()[1]
-		    dict_data["tclevel"] = 1
-		    dicts_data.append(dict_data)
+    for d in data:
+	    dict_data = {}
+	    dict_data["tcin"] = d.split()[0]
+	    dict_data["tcout"] = d.split()[1]
+	    dict_data["tclevel"] = 1
+	    dicts_data.append(dict_data)
 
     name_vid =  path_data.split("/")[-1]
     name_file = name_vid.split(".")[0]
@@ -90,7 +82,7 @@ def create_json_selection_file(path_data, result_selection=None, path_json='',id
         json.dump(data_json, f)
     print("the json file is saved at {}".format(os.path.join(path_save,"{}.json".format(name_file))))
 
-def create_json_selection(name_vid, list_begin,list_ending,result_selection, path_json='./',id = 'shot_GT'):
+def create_json_selection(name_vid, list_begin,list_ending,result_selection=None, path_json='./',id = 'shot_GT'):
     '''
         This function uses to create a json for vusializing the selection
         input: name_vid - name of the input video
@@ -120,6 +112,7 @@ def create_json_selection(name_vid, list_begin,list_ending,result_selection, pat
     data_json["localisation"][0]["sublocalisations"]["localisation"] = dicts_data
     data_json["id"] = id
     data_json["type"] = "segments"
+    data_json["localisation"][0]["tclevel"]= len(list_begin)
     path_save = os.path.join(path_json,name_vid)
     if not os.path.isdir(path_save):
           os.makedirs(path_save)

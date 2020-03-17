@@ -4,9 +4,20 @@ $(function() {
      var para_title = (url.searchParams.get("para_title")).replace(/_/g," ")
      var file_id = url.searchParams.get("file_id");
      console.log(file_id);
-     console.log(para_title)
+     // console.log(para_title)
      load_video(file_id);
      document.getElementById("title").innerHTML =  para_title
+
+     $.getJSON( "evaluation/"+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json", function( data ) {
+
+        var items = [];
+        var eval_text = ""
+        $.each( data, function( key, val ) {
+             eval_text = eval_text + key + ": " + val + "     "
+        });
+        $('#eval').text(eval_text)
+
+      });
 });
 
 function load_video(file_id){

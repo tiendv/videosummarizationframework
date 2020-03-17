@@ -24,7 +24,7 @@ data_json = {
                 "version": 1
             }
 
-def create_json4shots(path_data,path_json,id="shot_gt"):
+def create_json4shots_file(path_data,path_json,id="shot_gt"):
     '''
         This function uses to create a json file from text file for shots
         input: path_data - path of txt file including time of shot
