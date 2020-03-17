@@ -67,7 +67,7 @@ def create_json_selection_file(path_data, result_selection=None, path_json='',id
 		    dict_data = {}
 		    dict_data["tcin"] = data[i].split()[0]
 		    dict_data["tcout"] = data[i].split()[1]
-		    dict_data["tclevel"] = 1
+		    dict_data["tclevel"] = i
 		    dicts_data.append(dict_data)
     else:
 	    for d in data:
@@ -107,7 +107,7 @@ def create_json_selection(name_vid, list_begin,list_ending,result_selection, pat
 		    dict_data = {}
 		    dict_data["tcin"] = list_begin[i]
 		    dict_data["tcout"] = list_ending[i]
-		    dict_data["tclevel"] = 1
+		    dict_data["tclevel"] = i
 		    dicts_data.append(dict_data)
     else:
 	    for i in range(len(list_begin)):
