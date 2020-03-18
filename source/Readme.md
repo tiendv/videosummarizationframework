@@ -1,12 +1,20 @@
 # How to run a baseline for summarizing a video
 
-### To summarize a input video using the following command
+### Summarize a input video
+To summarize a input video using the following command
 ```python
 python main_baseline.py <path_input_video> --jshot <path_json_shot> --jseg <path_json_segment>
 ```
 * <path_input_video> (required) : the path of a video you want to summarize
 * <path_json_shot> (optional) : the path that the json for visualizing the shots will be saved at (default "./")
 * <path_json_segment> (optional) : the path that the json for visualizing the shots will be saved at (default "./")
+
+### Change the method segmenting to shots
+Replace the **spli_shot** function in *main_baseline* function with your segment function
+
+### Change the method calculating the score for shots
+Replace the **calc_score** function in *main_baseline* function with your score function
+
 ### Create json for visualizing shots from file
 #### File format
 The information of each shot is written in a file with the following format
