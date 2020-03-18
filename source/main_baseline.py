@@ -6,6 +6,8 @@ from multiprocessing import Process
 
 from utilities.convert_time import sec2time
 from src.baseline.segmentation.create_json_from_time_shots import create_json4shots
+from src.baseline.segmentation.segment_video import create_segments_tvsum
+
 from src.baseline.selection.get_data_to_selection import create_json_selection_file,selection_shot_knapsack_file,get_data_to_selection,selection_shot_knapsack, create_json_selection
 from config.config import cfg
 def split_shots(path_video):
@@ -52,17 +54,27 @@ def main_baseline(path_video,path_saved_json_shot="./",path_saved_json_segment='
     '''
     #shot detection
     name_video,list_begin, list_ending = split_shots(path_video)
+    print(len(list_begin))
 
     #cacl score
-    list_score = calc_score(list_begin,list_ending)
+    list_name, list_begin_seg , list_end_seg , list_score_seg = create_segments_tvsum(cfg.PATH_GT_TVSUM50)
+    k=0
+    for i,n in enumerate(list_name):
+        if n==name_video:
+            k=i
+            break
+    list_begin = list_begin_seg[k]
+    list_ending = list_end_seg[k]
+    list_score = list_score_seg[k]
+    # list_score = calc_score(list_begin,list_ending)
 
     #create json to visual shots
-    create_json4shots(path_saved_json_shot,name_video,list_begin,list_ending,list_score,"shot_bl")
+    create_json4shots(path_saved_json_shot,name_video,list_begin,list_ending,list_score,"shot_gt")
 
     #excuting knapsack to select the shots for summarize
     result = selection_shot_knapsack(list_begin,list_ending,list_score)
 
-    create_json_selection(name_video,list_begin,list_ending,result,path_saved_json_segment,"seg_bl")
+    create_json_selection(name_video,list_begin,list_ending,result,path_saved_json_segment,"seg_gt")
 
 if __name__ == '__main__':
     #path_video = "src/visualization/static/TVSum50/ydata-tvsum50-v1_1/video/sTEELN-vY30.mp4"

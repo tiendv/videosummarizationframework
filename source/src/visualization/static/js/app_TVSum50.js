@@ -59,7 +59,7 @@ function load_video(file_id){
                             {
                                 title: 'Sum[GT]',
                                 type: 'segment',
-                                metadataId: 'seg_GT',
+                                metadataId: 'seg_gt',
                                 color: '#F00'
                             },
                             {

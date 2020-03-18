@@ -5,11 +5,8 @@ import numpy as np, h5py
 from itertools import groupby
 import datetime
 import time
-sys.path.append("../../../config")
-sys.path.append("../../../utilities")
-
-from config import cfg
-from convert_time import sec2time
+from config.config import cfg
+from utilities.convert_time import sec2time
 
 def create_segments_tvsum(path_gt_tvsum50):
     '''
@@ -61,13 +58,39 @@ def create_segments_tvsum(path_gt_tvsum50):
 
     # get length frames per shot
     list_shot = []
-    for i in range(nframes.shape[0]):
-        list_shot.append(np.array([len(list(group)) for key, group in groupby(list_gt_score[i])]))
+
+    for i in range(len(list_gt_score)):
+        nframes_per_2s = 100000
+        len_min = 1
+        for j in range(len(list_gt_score[i])):
+            if(j + 1 == len(list_gt_score[i])):
+                len_min =1
+                continue
+            if(list_gt_score[i][j] == list_gt_score[i][j+1]):
+                len_min += 1
+            else:
+                if(len_min < nframes_per_2s):
+                    nframes_per_2s = len_min
+                    len_min = 1
+        list_shot_temp = []
+        j = nframes_per_2s
+        while (True) :
+            list_shot_temp.append(nframes_per_2s)
+            j += nframes_per_2s
+            if (j > len(list_gt_score[i])):
+                list_shot_temp.append( len(list_gt_score[i]) -j + nframes_per_2s)
+                break
+        list_shot.append(np.array(list_shot_temp))
 
     # create list ground truth score parallel list_shot
     list_gt = []
-    for i in range(nframes.shape[0]):
-        list_gt.append(np.array([k for k, g in groupby(list_gt_score[i], key=lambda x: x)]))
+    for i in range(len(list_shot)):
+        list_gt_temp = []
+        gt_shot = 0
+        for j in range(len(list_shot[i])):
+                gt_shot += list_shot[i][j]
+                list_gt_temp.append(list_gt_score[i][gt_shot-1])
+        list_gt.append(np.array(list_gt_temp))
 
     #write file .txt
     for i in range(nframes.shape[0]):

@@ -9,21 +9,11 @@ from utilities.convert_time import sec2time
 from config.config import cfg
 from main_baseline import main_baseline
 
-
-def fusion(path_time_shots,path_save):
-    result = selection_shot_knapsack_file(path_data=path_time_shots,L=0.15)
-    print(result)
-    create_json_selection_file(path_time_shots, result , path_save)
-def run_multi_process():
-    for path, subdirs, files in os.walk(cfg.PATH_TIME_SHOTS_GT):
-        for name in files:
-            print(os.path.join(path,name))
-            # fusion(os.path.join(path,name),cfg.PATH_JSON_SELECT_GT)
-            pro = Process(target=fusion, args=(os.path.join(path,name),cfg.PATH_JSON_SELECT_GT))
-            pro.start()
-
-
-if __name__ == '__main__':
+def run_GT_TVSum():
     paths = glob.glob("src/visualization/static/TVSum50/ydata-tvsum50-v1_1/video/*.mp4")
     for p in paths:
-        main_baseline(p,cfg.PATH_JSON_SHOT_BL,cfg.PATH_JSON_SELECT_BL)
+        pro = Process(target=main_baseline,args=(p,cfg.PATH_JSON_SHOT_GT,cfg.PATH_JSON_SELECT_GT))
+        pro.start()
+
+if __name__ == '__main__':
+    run_GT_TVSum()
