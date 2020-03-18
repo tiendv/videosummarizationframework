@@ -1,29 +1,41 @@
 $(function() {
-    $('#submit').click(function() {
-        event.preventDefault();
-        var form_data = new FormData($('#uploadform')[0]);
-        $.ajax({
-            type: 'POST',
-            url: '/uploadajax',
-            data: form_data,
-            async: false,
-            cache: false,
-            contentType: false,
-            enctype: 'multipart/form-data',
-            processData: false,
-            success: function (response) {
-            //alert(response);
-            window.location.replace("?file_id="+response);
-            }
-           });
-
-           return false;
-     })
+    // $('#submit').click(function() {
+    //     event.preventDefault();
+    //     var form_data = new FormData($('#uploadform')[0]);
+    //     $.ajax({
+    //         type: 'POST',
+    //         url: '/uploadajax',
+    //         data: form_data,
+    //         async: false,
+    //         cache: false,
+    //         contentType: false,
+    //         enctype: 'multipart/form-data',
+    //         processData: false,
+    //         success: function (response) {
+    //         //alert(response);
+    //         window.location.replace("?file_id="+response);
+    //         }
+    //        });
+    //
+    //        return false;
+    //  })
      var url_string = window.location.href;
      var url = new URL(url_string);
      var file_id = url.searchParams.get("file_id");
      console.log(file_id);
      load_video(file_id);
+
+     $.getJSON( "TRECVID_BBC_EastEnders/metadata/"+file_id.split(".")[0]+".json", function( data ) {
+
+        var items = [];
+        var eval_text = ""
+        console.log(data["date"]);
+        // $.each( data, function( key, val ) {
+        //      eval_text = eval_text + key + ": " + val + "     "
+        // });
+        $('#date_bbc').text("Date: "+data["date"])
+
+      });
 
 });
 
