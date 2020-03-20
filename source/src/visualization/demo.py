@@ -52,8 +52,10 @@ def create_dictionary_tvsum50(path_thumbnails,link_path,matlab_gt):
 
 def create_dictionary_bbc(path_videos,path_thumbnails,link_path):
     path_videos = glob.glob(static_folder+"/"+path_videos+"/*.mp4")
-    path_videos = [file[(len(static_folder)+1):] for file in path_videos]
+    path_videos.sort(key=lambda x: float(os.path.basename(x).split(".")[0]))
+
     path_thumbnails = glob.glob(static_folder+"/"+path_thumbnails+"*.jpg")
+    path_thumbnails.sort(key=lambda x: float(os.path.basename(x).split(".")[0]))
 
     data_list = []
     link_video = []
@@ -62,7 +64,7 @@ def create_dictionary_bbc(path_videos,path_thumbnails,link_path):
         link_video.append(link)
     for i in range(len(path_videos)):
         dict_temp = {}
-        dict_temp['video'] = link_video[i]
+        dict_temp['video'] = link_video[i].replace("static/","")
         dict_temp['thumbnail'] = path_thumbnails[i].replace("static/","")
         data_list.append(dict_temp)
     return data_list
