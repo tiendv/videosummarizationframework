@@ -1,0 +1,5 @@
+smoking(0.049)
+attacking(0.041)
+discussing(0.038)
+adult+male+speaking(0.035)
+fighting(0.032)

@@ -1,0 +1,5 @@
+slapping(0.039)
+knocking(0.037)
+adult+female+singing(0.032)
+adult+male+speaking(0.027)
+filming(0.026)

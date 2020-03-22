@@ -1,0 +1,5 @@
+waking(0.160)
+cuddling(0.152)
+adult+female+speaking(0.088)
+sleeping(0.046)
+smiling(0.038)

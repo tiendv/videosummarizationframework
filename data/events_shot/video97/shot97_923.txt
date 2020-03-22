@@ -1,0 +1,5 @@
+adult+male+speaking(0.050)
+preaching(0.047)
+hugging(0.035)
+walking(0.027)
+standing(0.025)

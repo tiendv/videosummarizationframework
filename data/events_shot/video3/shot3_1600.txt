@@ -1,0 +1,5 @@
+crafting(0.043)
+sneezing(0.039)
+talking(0.037)
+painting(0.031)
+discussing(0.030)

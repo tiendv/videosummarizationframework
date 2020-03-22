@@ -1,0 +1,5 @@
+adult+female+singing(0.124)
+combing(0.039)
+shaving(0.034)
+kissing(0.022)
+adult+male+singing(0.022)

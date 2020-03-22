@@ -1,0 +1,5 @@
+hanging(0.338)
+dropping(0.035)
+drying(0.029)
+raining(0.022)
+praying(0.019)

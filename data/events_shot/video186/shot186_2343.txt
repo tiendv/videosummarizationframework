@@ -1,0 +1,5 @@
+adult+female+speaking(0.138)
+walking(0.100)
+asking(0.072)
+adult+female+singing(0.056)
+stomping(0.054)

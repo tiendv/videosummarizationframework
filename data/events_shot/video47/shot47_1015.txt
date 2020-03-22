@@ -1,0 +1,5 @@
+exiting(0.079)
+walking(0.063)
+entering(0.038)
+stealing(0.027)
+carrying(0.025)

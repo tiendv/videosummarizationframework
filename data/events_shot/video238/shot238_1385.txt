@@ -1,0 +1,5 @@
+whistling(0.868)
+standing(0.004)
+singing(0.004)
+spinning(0.004)
+pouring(0.003)

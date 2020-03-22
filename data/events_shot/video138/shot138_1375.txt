@@ -1,0 +1,5 @@
+fencing(0.272)
+walking(0.268)
+running(0.045)
+preaching(0.042)
+barking(0.034)

@@ -1,0 +1,5 @@
+telephoning(0.081)
+cramming(0.042)
+writing(0.041)
+adult+female+speaking(0.031)
+adult+male+speaking(0.031)

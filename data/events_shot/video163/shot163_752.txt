@@ -1,0 +1,5 @@
+adult+female+speaking(0.065)
+telephoning(0.062)
+dressing(0.033)
+standing(0.026)
+crying(0.026)

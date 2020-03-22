@@ -1,0 +1,5 @@
+slapping(0.067)
+hugging(0.037)
+aiming(0.031)
+cracking(0.029)
+adult+male+speaking(0.025)

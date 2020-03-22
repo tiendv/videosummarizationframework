@@ -1,0 +1,5 @@
+queuing(0.846)
+adult+male+singing(0.014)
+photographing(0.008)
+filming(0.008)
+walking(0.007)

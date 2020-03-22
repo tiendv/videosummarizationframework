@@ -1,0 +1,5 @@
+attacking(0.050)
+smashing(0.036)
+destroying(0.035)
+walking(0.033)
+adult+female+speaking(0.029)

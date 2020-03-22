@@ -1,0 +1,5 @@
+bathing(0.114)
+tattooing(0.103)
+adult+female+singing(0.066)
+washing(0.053)
+shaving(0.051)

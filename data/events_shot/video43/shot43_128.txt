@@ -1,0 +1,5 @@
+reading(0.044)
+working(0.028)
+typing(0.025)
+telephoning(0.023)
+adult+male+speaking(0.022)

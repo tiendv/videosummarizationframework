@@ -1,0 +1,5 @@
+child+singing(0.098)
+child+speaking(0.086)
+knocking(0.068)
+dusting(0.063)
+vacuuming(0.043)

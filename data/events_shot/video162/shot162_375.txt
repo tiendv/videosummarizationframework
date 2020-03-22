@@ -1,0 +1,5 @@
+sitting(0.045)
+adult+male+speaking(0.030)
+bicycling(0.024)
+filming(0.024)
+riding(0.017)

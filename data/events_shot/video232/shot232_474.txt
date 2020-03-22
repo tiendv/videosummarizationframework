@@ -1,0 +1,5 @@
+painting(0.052)
+adult+male+speaking(0.038)
+playing+videogames(0.036)
+talking(0.030)
+standing(0.027)

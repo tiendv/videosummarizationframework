@@ -1,0 +1,5 @@
+autographing(0.264)
+adult+male+speaking(0.035)
+fighting(0.029)
+selling(0.022)
+laughing(0.021)

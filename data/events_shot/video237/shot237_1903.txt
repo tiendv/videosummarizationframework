@@ -1,0 +1,5 @@
+snapping(0.192)
+pointing(0.139)
+smiling(0.093)
+winking(0.068)
+turning(0.024)

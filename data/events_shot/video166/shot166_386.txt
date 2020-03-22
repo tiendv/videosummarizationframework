@@ -1,0 +1,5 @@
+reading(0.182)
+adult+female+speaking(0.079)
+crafting(0.051)
+opening(0.044)
+knitting(0.033)

@@ -1,0 +1,5 @@
+brushing(0.343)
+combing(0.126)
+painting(0.087)
+throwing(0.034)
+spraying(0.029)

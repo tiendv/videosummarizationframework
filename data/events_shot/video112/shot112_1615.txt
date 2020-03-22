@@ -1,0 +1,5 @@
+snowing(0.079)
+laughing(0.079)
+slapping(0.049)
+asking(0.039)
+adult+male+speaking(0.035)

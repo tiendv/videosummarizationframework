@@ -1,0 +1,5 @@
+gambling(0.952)
+autographing(0.004)
+signing(0.002)
+throwing(0.001)
+teaching(0.001)

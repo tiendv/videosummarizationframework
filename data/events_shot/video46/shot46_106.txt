@@ -1,0 +1,5 @@
+adult+male+singing(0.081)
+adult+female+singing(0.065)
+playing+videogames(0.055)
+adult+male+speaking(0.050)
+dining(0.046)

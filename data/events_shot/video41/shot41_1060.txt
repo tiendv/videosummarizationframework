@@ -1,0 +1,5 @@
+adult+male+speaking(0.068)
+asking(0.067)
+walking(0.058)
+discussing(0.045)
+protesting(0.042)

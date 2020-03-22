@@ -1,0 +1,5 @@
+adult+female+speaking(0.219)
+hugging(0.075)
+asking(0.051)
+autographing(0.045)
+discussing(0.026)

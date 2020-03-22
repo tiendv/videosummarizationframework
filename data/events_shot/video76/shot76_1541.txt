@@ -1,0 +1,5 @@
+boxing(0.095)
+punching(0.064)
+slapping(0.049)
+asking(0.037)
+smiling(0.036)

@@ -1,0 +1,5 @@
+autographing(0.026)
+dining(0.025)
+adult+male+speaking(0.023)
+sitting(0.022)
+signing(0.018)

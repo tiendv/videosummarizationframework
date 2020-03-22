@@ -1,0 +1,5 @@
+lecturing(0.139)
+adult+male+speaking(0.107)
+standing(0.042)
+teaching(0.031)
+asking(0.025)

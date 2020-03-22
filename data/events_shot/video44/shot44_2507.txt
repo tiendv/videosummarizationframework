@@ -1,0 +1,5 @@
+standing(0.021)
+adult+male+singing(0.021)
+cleaning(0.017)
+walking(0.015)
+bouncing(0.015)

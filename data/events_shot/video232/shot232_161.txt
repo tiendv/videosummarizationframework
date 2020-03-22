@@ -1,0 +1,5 @@
+standing(0.045)
+talking(0.037)
+hugging(0.037)
+adult+male+singing(0.029)
+sneezing(0.029)

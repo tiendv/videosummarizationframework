@@ -1,0 +1,5 @@
+child+speaking(0.094)
+baking(0.086)
+cooking(0.075)
+inflating(0.036)
+drinking(0.034)

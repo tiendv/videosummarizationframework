@@ -1,0 +1,5 @@
+turning(0.051)
+fighting(0.044)
+spinning(0.044)
+punching(0.039)
+smoking(0.032)

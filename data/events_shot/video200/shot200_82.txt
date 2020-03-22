@@ -1,0 +1,5 @@
+fighting(0.040)
+slapping(0.040)
+eating(0.033)
+drinking(0.026)
+discussing(0.026)

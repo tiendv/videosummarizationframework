@@ -1,0 +1,5 @@
+queuing(0.146)
+adult+male+speaking(0.063)
+coaching(0.052)
+arresting(0.048)
+slapping(0.046)

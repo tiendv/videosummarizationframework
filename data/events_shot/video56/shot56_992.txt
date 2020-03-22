@@ -1,0 +1,5 @@
+fighting(0.153)
+drinking(0.087)
+eating(0.031)
+clipping(0.028)
+adult+male+speaking(0.028)

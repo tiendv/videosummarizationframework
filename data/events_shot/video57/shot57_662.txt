@@ -1,0 +1,5 @@
+dining(0.183)
+drinking(0.088)
+autographing(0.077)
+adult+male+speaking(0.052)
+asking(0.051)

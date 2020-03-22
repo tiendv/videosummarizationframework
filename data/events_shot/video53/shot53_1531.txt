@@ -1,0 +1,5 @@
+driving(0.073)
+destroying(0.037)
+playing+videogames(0.036)
+crashing(0.033)
+turning(0.029)

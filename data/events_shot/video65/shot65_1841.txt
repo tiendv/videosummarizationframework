@@ -1,0 +1,5 @@
+coughing(0.053)
+bowing(0.050)
+hugging(0.037)
+crying(0.034)
+walking(0.033)

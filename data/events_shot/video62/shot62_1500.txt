@@ -1,0 +1,5 @@
+selling(0.096)
+shopping(0.096)
+packing(0.080)
+buying(0.058)
+stealing(0.049)

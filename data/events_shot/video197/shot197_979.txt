@@ -1,0 +1,5 @@
+walking(0.376)
+exiting(0.055)
+asking(0.048)
+adult+male+speaking(0.042)
+arresting(0.035)

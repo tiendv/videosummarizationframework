@@ -1,0 +1,5 @@
+stealing(0.059)
+starting(0.048)
+fencing(0.047)
+running(0.046)
+walking(0.038)

@@ -1,0 +1,5 @@
+sliding(0.051)
+stealing(0.032)
+running(0.025)
+walking(0.024)
+riding(0.022)

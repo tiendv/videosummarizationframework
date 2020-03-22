@@ -1,0 +1,5 @@
+adult+male+singing(0.067)
+adult+male+speaking(0.061)
+standing(0.054)
+tattooing(0.043)
+walking(0.028)

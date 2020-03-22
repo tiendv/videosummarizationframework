@@ -1,0 +1,5 @@
+praying(0.077)
+officiating(0.069)
+standing(0.069)
+adult+male+singing(0.063)
+adult+male+speaking(0.055)

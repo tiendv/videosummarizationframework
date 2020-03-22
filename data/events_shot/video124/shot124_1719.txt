@@ -1,0 +1,5 @@
+arresting(0.065)
+slapping(0.050)
+adult+male+speaking(0.049)
+crying(0.039)
+squinting(0.038)

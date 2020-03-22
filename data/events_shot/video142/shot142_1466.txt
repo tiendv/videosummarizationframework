@@ -1,0 +1,5 @@
+guarding(0.026)
+filming(0.025)
+adult+male+speaking(0.024)
+winking(0.018)
+talking(0.016)

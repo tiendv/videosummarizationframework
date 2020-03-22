@@ -1,0 +1,5 @@
+crying(0.080)
+frowning(0.063)
+winking(0.063)
+hugging(0.062)
+smiling(0.056)

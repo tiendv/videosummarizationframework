@@ -1,0 +1,5 @@
+mopping(0.064)
+cleaning(0.048)
+dusting(0.036)
+talking(0.035)
+adult+female+speaking(0.031)

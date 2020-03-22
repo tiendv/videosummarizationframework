@@ -1,0 +1,5 @@
+adult+male+speaking(0.035)
+attacking(0.031)
+clipping(0.028)
+fighting(0.027)
+standing(0.023)

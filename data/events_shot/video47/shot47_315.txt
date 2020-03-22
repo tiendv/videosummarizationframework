@@ -1,0 +1,5 @@
+brushing(0.070)
+chewing(0.046)
+combing(0.041)
+sneezing(0.028)
+slapping(0.025)

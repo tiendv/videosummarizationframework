@@ -1,0 +1,5 @@
+interviewing(0.040)
+sitting(0.036)
+brushing(0.035)
+frowning(0.031)
+adult+female+speaking(0.030)

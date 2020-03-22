@@ -1,0 +1,5 @@
+walking(0.095)
+filming(0.065)
+attacking(0.030)
+photographing(0.030)
+hugging(0.028)

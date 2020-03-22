@@ -1,0 +1,5 @@
+knocking(0.125)
+coughing(0.063)
+raining(0.034)
+crying(0.025)
+cracking(0.023)

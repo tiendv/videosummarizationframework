@@ -1,0 +1,5 @@
+hugging(0.311)
+adult+female+singing(0.047)
+playing+videogames(0.041)
+kissing(0.039)
+cuddling(0.034)

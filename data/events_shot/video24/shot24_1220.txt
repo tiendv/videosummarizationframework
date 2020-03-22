@@ -1,0 +1,5 @@
+arresting(0.090)
+fencing(0.058)
+autographing(0.042)
+working(0.039)
+handcuffing(0.033)

@@ -1,0 +1,5 @@
+driving(0.114)
+fighting(0.059)
+steering(0.044)
+slapping(0.039)
+adult+male+speaking(0.039)

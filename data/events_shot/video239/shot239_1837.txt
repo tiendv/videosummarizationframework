@@ -1,0 +1,5 @@
+aiming(0.123)
+standing(0.040)
+painting(0.040)
+shooting(0.038)
+adult+male+speaking(0.032)

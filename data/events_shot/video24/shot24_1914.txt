@@ -1,0 +1,5 @@
+running(0.762)
+sprinting(0.031)
+pitching(0.029)
+playing+sports(0.023)
+catching(0.016)

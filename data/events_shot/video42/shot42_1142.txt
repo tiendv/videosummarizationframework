@@ -1,0 +1,5 @@
+sitting(0.055)
+adult+female+speaking(0.043)
+adult+male+speaking(0.037)
+filming(0.034)
+adult+male+singing(0.033)

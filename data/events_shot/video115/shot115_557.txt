@@ -1,0 +1,5 @@
+adult+female+speaking(0.039)
+standing(0.034)
+walking(0.029)
+talking(0.022)
+shaving(0.022)

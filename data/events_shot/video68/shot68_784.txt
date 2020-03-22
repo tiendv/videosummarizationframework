@@ -1,0 +1,5 @@
+adult+male+singing(0.079)
+adult+male+speaking(0.077)
+sneezing(0.048)
+squinting(0.047)
+laughing(0.038)

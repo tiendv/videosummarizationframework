@@ -1,0 +1,5 @@
+painting(0.128)
+tattooing(0.114)
+laughing(0.036)
+drinking(0.034)
+sneezing(0.028)

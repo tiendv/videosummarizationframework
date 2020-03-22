@@ -1,0 +1,5 @@
+sneezing(0.039)
+laughing(0.038)
+sitting(0.037)
+stealing(0.035)
+working(0.035)

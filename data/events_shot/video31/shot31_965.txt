@@ -1,0 +1,5 @@
+hugging(0.090)
+brushing(0.087)
+scratching(0.046)
+combing(0.045)
+walking(0.032)

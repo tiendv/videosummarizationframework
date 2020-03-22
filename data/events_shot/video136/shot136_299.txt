@@ -1,0 +1,5 @@
+fighting(0.176)
+hugging(0.153)
+kissing(0.091)
+adult+female+singing(0.035)
+adult+male+singing(0.027)

@@ -1,0 +1,5 @@
+spraying(0.091)
+combing(0.073)
+slapping(0.072)
+brushing(0.048)
+saluting(0.030)

@@ -1,0 +1,5 @@
+cleaning(0.034)
+stealing(0.034)
+mopping(0.030)
+sneezing(0.030)
+walking(0.027)

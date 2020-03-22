@@ -1,0 +1,5 @@
+adult+female+speaking(0.050)
+signing(0.045)
+standing(0.028)
+coughing(0.023)
+asking(0.020)

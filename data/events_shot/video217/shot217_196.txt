@@ -1,0 +1,5 @@
+driving(0.264)
+towing(0.090)
+steering(0.057)
+riding(0.050)
+crashing(0.038)

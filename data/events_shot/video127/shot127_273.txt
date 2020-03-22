@@ -1,0 +1,5 @@
+hugging(0.039)
+fighting(0.038)
+filming(0.026)
+talking(0.024)
+attacking(0.023)

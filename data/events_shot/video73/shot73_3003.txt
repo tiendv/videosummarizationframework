@@ -1,0 +1,5 @@
+walking(0.116)
+standing(0.063)
+running(0.062)
+playing+videogames(0.051)
+filming(0.032)

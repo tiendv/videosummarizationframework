@@ -1,0 +1,5 @@
+walking(0.848)
+standing(0.014)
+carrying(0.012)
+filming(0.006)
+singing(0.006)

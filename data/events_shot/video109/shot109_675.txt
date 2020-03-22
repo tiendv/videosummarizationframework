@@ -1,0 +1,5 @@
+adult+female+speaking(0.052)
+closing(0.050)
+opening(0.046)
+walking(0.044)
+standing(0.044)

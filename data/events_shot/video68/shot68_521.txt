@@ -1,0 +1,5 @@
+bowling(0.067)
+standing(0.046)
+talking(0.041)
+imitating(0.036)
+adult+male+speaking(0.036)

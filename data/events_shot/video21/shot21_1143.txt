@@ -1,0 +1,5 @@
+building(0.136)
+running(0.060)
+painting(0.056)
+constructing(0.049)
+walking(0.025)

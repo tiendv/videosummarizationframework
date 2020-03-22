@@ -1,0 +1,5 @@
+painting(0.075)
+slapping(0.072)
+laughing(0.051)
+adult+male+speaking(0.047)
+hugging(0.034)

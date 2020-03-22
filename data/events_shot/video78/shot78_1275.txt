@@ -1,0 +1,5 @@
+adult+female+singing(0.225)
+adult+male+singing(0.080)
+coughing(0.062)
+singing(0.060)
+fighting(0.059)

@@ -1,0 +1,5 @@
+telephoning(0.046)
+waking(0.040)
+calling(0.036)
+adult+male+speaking(0.021)
+cracking(0.021)

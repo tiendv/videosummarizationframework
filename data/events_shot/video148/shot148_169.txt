@@ -1,0 +1,5 @@
+slapping(0.048)
+opening(0.046)
+closing(0.037)
+knocking(0.031)
+smiling(0.030)

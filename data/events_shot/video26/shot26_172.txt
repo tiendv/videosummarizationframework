@@ -1,0 +1,5 @@
+adult+female+singing(0.058)
+adult+male+singing(0.055)
+stomping(0.048)
+playing+videogames(0.041)
+adult+male+speaking(0.038)

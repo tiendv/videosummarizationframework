@@ -1,0 +1,5 @@
+hiking(0.718)
+walking(0.029)
+running(0.019)
+sitting(0.011)
+climbing(0.011)

@@ -1,0 +1,5 @@
+telephoning(0.055)
+calling(0.047)
+adult+male+speaking(0.044)
+filming(0.031)
+kissing(0.020)

@@ -1,0 +1,5 @@
+driving(0.224)
+talking(0.047)
+piloting(0.037)
+riding(0.033)
+camping(0.025)

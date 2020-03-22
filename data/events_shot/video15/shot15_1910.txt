@@ -1,0 +1,5 @@
+calling(0.073)
+telephoning(0.049)
+walking(0.041)
+filming(0.032)
+adult+female+speaking(0.028)

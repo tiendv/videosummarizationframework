@@ -1,0 +1,5 @@
+autographing(0.110)
+arresting(0.070)
+exiting(0.036)
+adult+male+speaking(0.027)
+steering(0.026)

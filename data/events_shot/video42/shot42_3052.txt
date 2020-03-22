@@ -1,0 +1,5 @@
+building(0.063)
+cleaning(0.058)
+walking(0.046)
+sweeping(0.039)
+mopping(0.036)

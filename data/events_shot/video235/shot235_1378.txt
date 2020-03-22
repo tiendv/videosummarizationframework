@@ -1,0 +1,5 @@
+asking(0.294)
+adult+male+speaking(0.101)
+preaching(0.049)
+slapping(0.043)
+interviewing(0.026)

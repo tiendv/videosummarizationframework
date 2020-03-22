@@ -1,0 +1,5 @@
+adult+male+speaking(0.060)
+adult+male+singing(0.046)
+hugging(0.041)
+drinking(0.038)
+standing(0.033)

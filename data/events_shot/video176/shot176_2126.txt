@@ -1,0 +1,5 @@
+hiking(0.211)
+planting(0.141)
+sowing(0.101)
+hunting(0.054)
+digging(0.049)

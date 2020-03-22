@@ -1,0 +1,5 @@
+stealing(0.079)
+attacking(0.044)
+fighting(0.038)
+laughing(0.033)
+walking(0.031)

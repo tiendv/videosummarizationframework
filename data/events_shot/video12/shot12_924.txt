@@ -1,0 +1,5 @@
+unpacking(0.144)
+packing(0.095)
+cuddling(0.082)
+hugging(0.070)
+adult+female+speaking(0.027)

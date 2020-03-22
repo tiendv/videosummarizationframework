@@ -1,0 +1,5 @@
+falling(0.040)
+dropping(0.033)
+turning(0.031)
+shrugging(0.027)
+spinning(0.025)

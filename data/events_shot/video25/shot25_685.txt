@@ -1,0 +1,5 @@
+rising(0.118)
+ascending(0.101)
+descending(0.053)
+adult+female+singing(0.051)
+climbing(0.030)

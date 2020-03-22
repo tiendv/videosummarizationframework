@@ -1,0 +1,5 @@
+walking(0.312)
+arresting(0.069)
+exiting(0.043)
+pushing(0.042)
+coaching(0.040)

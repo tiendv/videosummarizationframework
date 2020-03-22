@@ -1,0 +1,5 @@
+bowing(0.050)
+slapping(0.043)
+giving(0.042)
+smiling(0.034)
+dressing(0.031)

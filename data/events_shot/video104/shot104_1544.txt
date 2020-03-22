@@ -1,0 +1,5 @@
+roaring(0.055)
+adult+male+singing(0.044)
+adult+male+speaking(0.042)
+adult+female+singing(0.038)
+hanging(0.037)

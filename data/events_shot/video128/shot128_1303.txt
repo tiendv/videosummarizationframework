@@ -1,0 +1,5 @@
+skipping(0.085)
+bouncing(0.062)
+adult+female+singing(0.061)
+stomping(0.059)
+running(0.047)

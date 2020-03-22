@@ -1,0 +1,5 @@
+standing(0.049)
+kicking(0.040)
+surfing(0.030)
+flipping(0.027)
+diving(0.025)

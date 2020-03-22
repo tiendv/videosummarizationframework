@@ -1,0 +1,5 @@
+bowling(0.060)
+standing(0.039)
+hugging(0.030)
+raising(0.030)
+adult+female+speaking(0.029)

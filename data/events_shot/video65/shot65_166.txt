@@ -1,0 +1,5 @@
+shredding(0.097)
+packaging(0.058)
+assembling(0.052)
+removing(0.038)
+putting(0.035)

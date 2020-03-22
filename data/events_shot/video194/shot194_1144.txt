@@ -1,0 +1,5 @@
+standing(0.036)
+walking(0.028)
+exercising(0.027)
+shopping(0.022)
+smoking(0.020)

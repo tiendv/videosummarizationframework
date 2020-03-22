@@ -1,0 +1,5 @@
+stealing(0.194)
+shopping(0.094)
+packing(0.088)
+unpacking(0.050)
+selling(0.026)

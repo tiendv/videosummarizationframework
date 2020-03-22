@@ -1,0 +1,5 @@
+queuing(0.235)
+exiting(0.042)
+walking(0.041)
+asking(0.030)
+entering(0.027)

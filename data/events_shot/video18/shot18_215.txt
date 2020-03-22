@@ -1,0 +1,5 @@
+preaching(0.114)
+adult+male+speaking(0.087)
+adult+male+singing(0.053)
+rocking(0.034)
+asking(0.031)

@@ -1,0 +1,5 @@
+queuing(0.071)
+adult+male+speaking(0.058)
+hugging(0.057)
+coaching(0.040)
+slapping(0.038)

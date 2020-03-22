@@ -1,0 +1,5 @@
+guarding(0.494)
+preaching(0.090)
+building(0.032)
+arresting(0.027)
+standing(0.019)

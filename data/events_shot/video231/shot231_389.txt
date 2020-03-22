@@ -1,0 +1,5 @@
+adult+male+speaking(0.161)
+asking(0.084)
+preaching(0.043)
+filming(0.038)
+imitating(0.036)

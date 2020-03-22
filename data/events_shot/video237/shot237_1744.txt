@@ -1,0 +1,5 @@
+dining(0.098)
+hanging(0.043)
+standing(0.024)
+gripping(0.024)
+adult+female+singing(0.020)

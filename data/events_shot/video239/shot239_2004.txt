@@ -1,0 +1,5 @@
+jogging(0.147)
+preaching(0.142)
+walking(0.069)
+leaning(0.045)
+photographing(0.030)

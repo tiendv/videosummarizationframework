@@ -1,0 +1,5 @@
+child+singing(0.158)
+child+speaking(0.110)
+brushing(0.089)
+combing(0.046)
+slapping(0.027)

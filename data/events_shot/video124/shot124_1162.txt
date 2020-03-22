@@ -1,0 +1,5 @@
+flipping(0.153)
+cooking(0.069)
+dining(0.065)
+eating(0.053)
+drinking(0.046)

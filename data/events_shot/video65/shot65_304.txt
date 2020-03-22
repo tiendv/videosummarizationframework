@@ -1,0 +1,5 @@
+adult+male+speaking(0.096)
+adult+male+singing(0.047)
+fighting(0.043)
+slapping(0.042)
+queuing(0.027)

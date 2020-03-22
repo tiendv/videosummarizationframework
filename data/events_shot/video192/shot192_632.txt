@@ -1,0 +1,5 @@
+cooking(0.169)
+vacuuming(0.037)
+gardening(0.031)
+baking(0.029)
+drying(0.026)

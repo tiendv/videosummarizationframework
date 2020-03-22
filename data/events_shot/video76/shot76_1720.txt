@@ -1,0 +1,5 @@
+packing(0.070)
+adult+female+speaking(0.063)
+unpacking(0.061)
+telephoning(0.061)
+chewing(0.047)

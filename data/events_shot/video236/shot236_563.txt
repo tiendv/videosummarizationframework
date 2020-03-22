@@ -1,0 +1,5 @@
+hiking(0.066)
+climbing(0.048)
+standing(0.042)
+adult+female+singing(0.036)
+walking(0.032)

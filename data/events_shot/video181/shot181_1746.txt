@@ -1,0 +1,5 @@
+queuing(0.766)
+walking(0.016)
+exiting(0.015)
+entering(0.011)
+arresting(0.010)

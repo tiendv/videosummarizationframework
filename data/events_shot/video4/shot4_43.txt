@@ -1,0 +1,5 @@
+crafting(0.065)
+playing(0.049)
+wrapping(0.039)
+playing+videogames(0.033)
+pouring(0.027)

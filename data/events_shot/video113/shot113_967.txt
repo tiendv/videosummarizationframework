@@ -1,0 +1,5 @@
+hugging(0.063)
+tattooing(0.059)
+adult+male+speaking(0.045)
+laughing(0.029)
+autographing(0.028)

@@ -1,0 +1,5 @@
+handcuffing(0.076)
+tying(0.056)
+dressing(0.039)
+punching(0.038)
+slapping(0.038)

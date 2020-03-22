@@ -1,0 +1,5 @@
+frowning(0.084)
+squinting(0.045)
+filming(0.040)
+slapping(0.029)
+winking(0.025)

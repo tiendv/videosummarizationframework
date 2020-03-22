@@ -1,0 +1,5 @@
+adult+male+speaking(0.071)
+painting(0.055)
+hugging(0.049)
+tattooing(0.047)
+adult+female+speaking(0.046)

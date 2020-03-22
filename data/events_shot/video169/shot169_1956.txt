@@ -1,0 +1,5 @@
+standing(0.068)
+saluting(0.045)
+filming(0.040)
+walking(0.038)
+guarding(0.033)

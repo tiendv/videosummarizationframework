@@ -1,0 +1,5 @@
+washing(0.048)
+shooting(0.027)
+fighting(0.026)
+drinking(0.025)
+filming(0.025)

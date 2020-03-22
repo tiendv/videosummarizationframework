@@ -1,0 +1,5 @@
+running(0.060)
+walking(0.043)
+fencing(0.041)
+jogging(0.034)
+hugging(0.028)

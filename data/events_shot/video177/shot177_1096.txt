@@ -1,0 +1,5 @@
+aiming(0.045)
+filming(0.042)
+playing+videogames(0.039)
+sneezing(0.026)
+adult+male+speaking(0.025)

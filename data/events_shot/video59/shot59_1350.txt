@@ -1,0 +1,5 @@
+sneezing(0.574)
+coughing(0.062)
+slapping(0.018)
+studying(0.011)
+laughing(0.011)

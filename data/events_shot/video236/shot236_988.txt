@@ -1,0 +1,5 @@
+adult+male+speaking(0.113)
+talking(0.060)
+driving(0.044)
+discussing(0.038)
+interviewing(0.037)

@@ -1,0 +1,5 @@
+reading(0.308)
+typing(0.042)
+sitting(0.039)
+sleeping(0.030)
+waking(0.027)

@@ -1,0 +1,5 @@
+walking(0.069)
+laughing(0.052)
+exiting(0.038)
+stealing(0.034)
+smiling(0.028)

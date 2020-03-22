@@ -1,0 +1,5 @@
+fighting(0.174)
+arresting(0.165)
+attacking(0.092)
+protesting(0.045)
+running(0.035)

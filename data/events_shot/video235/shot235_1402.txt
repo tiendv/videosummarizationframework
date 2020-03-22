@@ -1,0 +1,5 @@
+adult+male+speaking(0.023)
+walking(0.020)
+attacking(0.017)
+destroying(0.016)
+filming(0.015)

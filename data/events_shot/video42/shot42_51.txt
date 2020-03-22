@@ -1,0 +1,5 @@
+hanging(0.076)
+adult+male+speaking(0.047)
+standing(0.038)
+gripping(0.037)
+fighting(0.035)

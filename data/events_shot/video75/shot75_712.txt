@@ -1,0 +1,5 @@
+waving(0.155)
+walking(0.103)
+exiting(0.078)
+laughing(0.043)
+arresting(0.033)

@@ -1,0 +1,5 @@
+exiting(0.062)
+hugging(0.056)
+slapping(0.050)
+walking(0.037)
+fighting(0.030)

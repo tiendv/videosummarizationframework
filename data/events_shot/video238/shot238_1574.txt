@@ -1,0 +1,5 @@
+calling(0.144)
+telephoning(0.132)
+punching(0.041)
+slapping(0.035)
+playing+videogames(0.035)

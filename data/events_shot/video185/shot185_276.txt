@@ -1,0 +1,5 @@
+standing(0.068)
+laughing(0.066)
+dining(0.046)
+adult+male+speaking(0.042)
+adult+male+singing(0.040)

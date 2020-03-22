@@ -1,0 +1,5 @@
+hanging(0.209)
+standing(0.077)
+balancing(0.045)
+adult+male+speaking(0.030)
+squatting(0.028)

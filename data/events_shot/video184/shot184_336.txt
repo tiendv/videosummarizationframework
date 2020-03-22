@@ -1,0 +1,5 @@
+hugging(0.603)
+smiling(0.031)
+kissing(0.021)
+walking(0.019)
+playing+videogames(0.017)

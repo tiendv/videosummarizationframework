@@ -1,0 +1,5 @@
+standing(0.035)
+adult+female+speaking(0.031)
+protesting(0.030)
+fighting(0.022)
+celebrating(0.020)

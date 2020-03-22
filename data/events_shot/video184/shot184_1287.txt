@@ -1,0 +1,5 @@
+slapping(0.480)
+raining(0.056)
+turning(0.037)
+storming(0.029)
+twisting(0.028)

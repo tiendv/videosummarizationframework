@@ -1,0 +1,5 @@
+fighting(0.075)
+adult+male+singing(0.061)
+punching(0.054)
+adult+female+singing(0.034)
+boxing(0.031)

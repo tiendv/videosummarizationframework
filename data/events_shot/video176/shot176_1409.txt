@@ -1,0 +1,5 @@
+opening(0.168)
+closing(0.093)
+laughing(0.073)
+dusting(0.020)
+adult+male+speaking(0.017)

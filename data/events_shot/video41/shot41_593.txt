@@ -1,0 +1,5 @@
+aiming(0.086)
+asking(0.049)
+adult+male+speaking(0.046)
+playing+videogames(0.038)
+hiking(0.038)

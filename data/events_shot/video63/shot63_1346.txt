@@ -1,0 +1,5 @@
+dining(0.070)
+walking(0.069)
+standing(0.068)
+talking(0.041)
+adult+male+speaking(0.029)

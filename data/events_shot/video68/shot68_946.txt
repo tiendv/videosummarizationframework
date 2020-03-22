@@ -1,0 +1,5 @@
+shaving(0.124)
+drinking(0.041)
+sneezing(0.038)
+coughing(0.028)
+adult+male+speaking(0.024)

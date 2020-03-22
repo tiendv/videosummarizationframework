@@ -1,0 +1,5 @@
+smelling(0.142)
+drinking(0.088)
+knocking(0.038)
+sniffing(0.033)
+carrying(0.019)

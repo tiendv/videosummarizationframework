@@ -1,0 +1,5 @@
+sneezing(0.080)
+eating(0.073)
+adult+female+speaking(0.072)
+dining(0.056)
+laughing(0.047)

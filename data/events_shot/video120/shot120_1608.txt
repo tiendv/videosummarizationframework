@@ -1,0 +1,5 @@
+adult+female+singing(0.128)
+praying(0.080)
+adult+female+speaking(0.069)
+drinking(0.042)
+marrying(0.034)

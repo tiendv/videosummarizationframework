@@ -1,0 +1,5 @@
+flicking(0.137)
+aiming(0.081)
+throwing(0.057)
+running(0.030)
+flipping(0.027)

@@ -1,0 +1,5 @@
+adult+male+singing(0.138)
+roaring(0.057)
+standing(0.048)
+sitting(0.040)
+talking(0.039)

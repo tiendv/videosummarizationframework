@@ -1,0 +1,5 @@
+eating(0.303)
+chewing(0.257)
+drinking(0.140)
+smoking(0.036)
+spitting(0.016)

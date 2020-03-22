@@ -1,0 +1,5 @@
+child+speaking(0.186)
+adult+female+speaking(0.052)
+cheerleading(0.034)
+standing(0.029)
+imitating(0.023)

@@ -1,0 +1,5 @@
+hugging(0.063)
+sneezing(0.060)
+filming(0.033)
+asking(0.026)
+walking(0.026)

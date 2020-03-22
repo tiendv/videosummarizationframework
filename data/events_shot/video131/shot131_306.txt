@@ -1,0 +1,5 @@
+sliding(0.035)
+hunting(0.030)
+slipping(0.029)
+attacking(0.027)
+swinging(0.020)

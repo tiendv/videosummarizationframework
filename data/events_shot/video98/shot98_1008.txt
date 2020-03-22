@@ -1,0 +1,5 @@
+painting(0.075)
+adult+male+speaking(0.041)
+playing+videogames(0.037)
+adult+female+speaking(0.030)
+slapping(0.028)

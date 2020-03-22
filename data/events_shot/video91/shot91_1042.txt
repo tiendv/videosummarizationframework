@@ -1,0 +1,5 @@
+queuing(0.075)
+walking(0.063)
+exiting(0.055)
+coaching(0.044)
+filming(0.036)

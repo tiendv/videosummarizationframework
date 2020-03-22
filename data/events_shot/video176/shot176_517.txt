@@ -1,0 +1,5 @@
+drying(0.066)
+talking(0.065)
+standing(0.064)
+cooking(0.059)
+walking(0.040)

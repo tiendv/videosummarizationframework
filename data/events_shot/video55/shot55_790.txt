@@ -1,0 +1,5 @@
+raining(0.112)
+storming(0.079)
+playing+videogames(0.045)
+roaring(0.036)
+laughing(0.022)

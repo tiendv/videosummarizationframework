@@ -1,0 +1,5 @@
+driving(0.069)
+adult+male+speaking(0.054)
+arresting(0.044)
+talking(0.039)
+discussing(0.031)

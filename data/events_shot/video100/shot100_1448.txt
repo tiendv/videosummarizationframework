@@ -1,0 +1,5 @@
+cooking(0.045)
+standing(0.029)
+smelling(0.028)
+sniffing(0.027)
+walking(0.027)

@@ -1,0 +1,5 @@
+sneezing(0.138)
+shaving(0.138)
+adult+male+speaking(0.037)
+coughing(0.037)
+slapping(0.023)

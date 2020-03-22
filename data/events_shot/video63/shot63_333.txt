@@ -1,0 +1,5 @@
+walking(0.198)
+asking(0.154)
+exiting(0.034)
+interviewing(0.030)
+stealing(0.027)

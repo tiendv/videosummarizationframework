@@ -1,0 +1,5 @@
+drinking(0.053)
+fighting(0.029)
+slapping(0.028)
+filming(0.027)
+adult+female+speaking(0.020)

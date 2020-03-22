@@ -1,0 +1,5 @@
+walking(0.082)
+riding(0.057)
+standing(0.051)
+playing+videogames(0.044)
+driving(0.029)

@@ -1,0 +1,5 @@
+launching(0.070)
+sliding(0.066)
+shooting(0.061)
+aiming(0.060)
+skiing(0.039)

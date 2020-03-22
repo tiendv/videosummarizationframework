@@ -1,0 +1,5 @@
+running(0.039)
+adult+female+singing(0.038)
+playing+videogames(0.036)
+hugging(0.032)
+aiming(0.029)

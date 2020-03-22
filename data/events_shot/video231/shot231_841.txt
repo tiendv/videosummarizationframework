@@ -1,0 +1,5 @@
+adult+male+speaking(0.148)
+lecturing(0.130)
+discussing(0.109)
+applauding(0.078)
+officiating(0.056)

@@ -1,0 +1,5 @@
+sitting(0.071)
+interviewing(0.062)
+discussing(0.061)
+autographing(0.056)
+writing(0.056)

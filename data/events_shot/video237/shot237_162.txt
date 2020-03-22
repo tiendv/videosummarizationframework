@@ -1,0 +1,5 @@
+crying(0.192)
+adult+female+speaking(0.073)
+sneezing(0.058)
+coughing(0.045)
+frowning(0.038)

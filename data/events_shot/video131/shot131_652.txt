@@ -1,0 +1,5 @@
+cooking(0.343)
+stirring(0.138)
+baking(0.044)
+eating(0.031)
+frying(0.026)

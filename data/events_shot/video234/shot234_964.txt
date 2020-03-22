@@ -1,0 +1,5 @@
+frowning(0.125)
+slapping(0.111)
+hugging(0.071)
+discussing(0.052)
+arresting(0.049)

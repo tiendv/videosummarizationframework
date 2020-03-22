@@ -1,0 +1,5 @@
+hammering(0.123)
+knocking(0.113)
+smashing(0.100)
+hitting(0.075)
+breaking(0.054)

@@ -1,0 +1,5 @@
+shoveling(0.108)
+snowing(0.101)
+cleaning(0.081)
+building(0.057)
+bouncing(0.028)

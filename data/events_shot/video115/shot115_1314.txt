@@ -1,0 +1,5 @@
+running(0.122)
+chasing(0.075)
+hitchhiking(0.074)
+walking(0.063)
+driving(0.050)

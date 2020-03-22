@@ -1,0 +1,5 @@
+walking(0.140)
+slapping(0.048)
+filming(0.045)
+standing(0.031)
+clipping(0.019)

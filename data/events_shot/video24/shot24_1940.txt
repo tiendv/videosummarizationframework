@@ -1,0 +1,5 @@
+walking(0.049)
+filming(0.045)
+sneezing(0.032)
+talking(0.029)
+laughing(0.021)

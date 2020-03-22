@@ -1,0 +1,5 @@
+clipping(0.038)
+fighting(0.037)
+hitting(0.033)
+destroying(0.031)
+breaking(0.028)

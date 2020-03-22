@@ -1,0 +1,5 @@
+sitting(0.090)
+laughing(0.050)
+talking(0.048)
+sneezing(0.044)
+playing+videogames(0.026)

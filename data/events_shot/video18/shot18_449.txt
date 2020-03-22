@@ -1,0 +1,5 @@
+adult+male+speaking(0.080)
+walking(0.057)
+exiting(0.038)
+punching(0.031)
+laughing(0.025)

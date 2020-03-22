@@ -1,0 +1,5 @@
+sneezing(0.043)
+throwing(0.041)
+running(0.035)
+cooking(0.033)
+drinking(0.033)

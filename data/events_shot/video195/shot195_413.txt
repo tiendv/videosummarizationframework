@@ -1,0 +1,5 @@
+diving(0.571)
+submerging(0.162)
+jumping(0.058)
+swimming(0.051)
+plunging(0.025)

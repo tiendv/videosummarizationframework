@@ -1,0 +1,5 @@
+skiing(0.555)
+snowing(0.058)
+racing(0.029)
+flying(0.021)
+riding(0.016)

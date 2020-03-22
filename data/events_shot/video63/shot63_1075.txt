@@ -1,0 +1,5 @@
+walking(0.100)
+hiking(0.047)
+playing+videogames(0.031)
+climbing(0.026)
+running(0.024)

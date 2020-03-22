@@ -1,0 +1,5 @@
+running(0.088)
+adult+male+speaking(0.054)
+aiming(0.030)
+hammering(0.027)
+playing+videogames(0.027)

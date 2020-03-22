@@ -1,0 +1,5 @@
+adult+male+speaking(0.105)
+building(0.058)
+cracking(0.025)
+hammering(0.024)
+walking(0.023)

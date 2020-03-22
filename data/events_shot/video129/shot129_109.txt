@@ -1,0 +1,5 @@
+laughing(0.042)
+smiling(0.041)
+standing(0.032)
+walking(0.029)
+running(0.025)

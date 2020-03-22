@@ -1,0 +1,5 @@
+slapping(0.126)
+sneezing(0.041)
+eating(0.034)
+coughing(0.032)
+spitting(0.030)

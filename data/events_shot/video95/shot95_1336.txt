@@ -1,0 +1,5 @@
+hugging(0.267)
+walking(0.050)
+playing+videogames(0.040)
+carrying(0.028)
+arresting(0.021)

@@ -1,0 +1,5 @@
+spinning(0.130)
+folding(0.108)
+turning(0.102)
+mopping(0.081)
+rolling(0.038)

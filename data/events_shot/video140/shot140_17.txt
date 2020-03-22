@@ -1,0 +1,5 @@
+driving(0.105)
+hitchhiking(0.084)
+adult+female+speaking(0.036)
+asking(0.032)
+arresting(0.032)

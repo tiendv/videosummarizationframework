@@ -1,0 +1,5 @@
+adult+male+speaking(0.102)
+drinking(0.079)
+laughing(0.052)
+preaching(0.049)
+standing(0.040)

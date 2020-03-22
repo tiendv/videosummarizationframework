@@ -1,0 +1,5 @@
+adult+female+singing(0.346)
+dancing(0.059)
+adult+female+speaking(0.057)
+juggling(0.026)
+bouncing(0.025)

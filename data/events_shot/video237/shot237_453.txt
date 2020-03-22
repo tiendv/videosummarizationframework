@@ -1,0 +1,5 @@
+adult+male+speaking(0.076)
+telephoning(0.044)
+calling(0.029)
+walking(0.023)
+praying(0.023)

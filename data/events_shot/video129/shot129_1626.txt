@@ -1,0 +1,5 @@
+handcuffing(0.063)
+arresting(0.063)
+exiting(0.046)
+stealing(0.028)
+locking(0.026)

@@ -1,0 +1,5 @@
+fighting(0.105)
+clipping(0.085)
+adult+female+singing(0.048)
+adult+male+singing(0.037)
+playing+videogames(0.034)

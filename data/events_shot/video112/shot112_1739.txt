@@ -1,0 +1,5 @@
+hugging(0.201)
+pointing(0.058)
+walking(0.033)
+arresting(0.024)
+discussing(0.024)

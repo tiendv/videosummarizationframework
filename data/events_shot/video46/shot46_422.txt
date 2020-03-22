@@ -1,0 +1,5 @@
+sneezing(0.054)
+discussing(0.052)
+interviewing(0.050)
+sitting(0.048)
+asking(0.044)

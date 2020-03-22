@@ -1,0 +1,5 @@
+blocking(0.083)
+adult+male+speaking(0.079)
+plunging(0.035)
+running(0.027)
+attacking(0.026)

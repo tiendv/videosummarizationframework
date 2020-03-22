@@ -1,0 +1,5 @@
+fighting(0.054)
+snowing(0.045)
+attacking(0.036)
+playing+videogames(0.033)
+breaking(0.031)

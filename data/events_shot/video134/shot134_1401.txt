@@ -1,0 +1,5 @@
+knocking(0.195)
+locking(0.045)
+raising(0.033)
+standing(0.032)
+gripping(0.028)

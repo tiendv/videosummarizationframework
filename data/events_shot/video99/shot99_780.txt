@@ -1,0 +1,5 @@
+cooking(0.043)
+standing(0.043)
+flipping(0.038)
+selling(0.037)
+officiating(0.030)

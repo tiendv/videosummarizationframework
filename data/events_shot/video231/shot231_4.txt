@@ -1,0 +1,5 @@
+flying(0.224)
+crashing(0.094)
+piloting(0.051)
+smashing(0.043)
+destroying(0.027)

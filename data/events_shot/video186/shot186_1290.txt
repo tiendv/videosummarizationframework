@@ -1,0 +1,5 @@
+walking(0.111)
+running(0.081)
+arresting(0.057)
+stealing(0.037)
+exiting(0.036)

@@ -1,0 +1,5 @@
+slapping(0.050)
+opening(0.040)
+knocking(0.040)
+closing(0.038)
+locking(0.037)

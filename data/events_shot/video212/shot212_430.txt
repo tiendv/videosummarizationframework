@@ -1,0 +1,5 @@
+brushing(0.469)
+painting(0.383)
+eating(0.014)
+combing(0.012)
+knitting(0.012)

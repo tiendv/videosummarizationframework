@@ -1,0 +1,5 @@
+adult+male+singing(0.051)
+adult+male+speaking(0.046)
+smiling(0.044)
+filming(0.036)
+laughing(0.036)

@@ -1,0 +1,5 @@
+dining(0.187)
+celebrating(0.151)
+hugging(0.027)
+serving(0.027)
+applauding(0.019)

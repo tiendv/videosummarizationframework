@@ -1,0 +1,5 @@
+slapping(0.070)
+adult+female+speaking(0.035)
+driving(0.029)
+sitting(0.025)
+cracking(0.025)

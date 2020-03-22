@@ -1,0 +1,5 @@
+running(0.084)
+walking(0.059)
+shopping(0.046)
+slapping(0.045)
+queuing(0.033)

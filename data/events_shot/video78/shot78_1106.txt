@@ -1,0 +1,5 @@
+standing(0.099)
+walking(0.057)
+running(0.055)
+playing+videogames(0.045)
+stomping(0.033)

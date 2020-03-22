@@ -1,0 +1,5 @@
+walking(0.090)
+filming(0.055)
+slapping(0.031)
+standing(0.031)
+hiking(0.029)

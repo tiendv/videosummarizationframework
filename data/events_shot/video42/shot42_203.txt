@@ -1,0 +1,5 @@
+painting(0.183)
+adult+male+speaking(0.068)
+standing(0.025)
+fencing(0.019)
+spraying(0.019)

@@ -1,0 +1,5 @@
+jogging(0.446)
+running(0.392)
+sprinting(0.035)
+adult+female+singing(0.016)
+raining(0.008)

@@ -1,0 +1,5 @@
+asking(0.347)
+queuing(0.089)
+adult+female+speaking(0.070)
+shopping(0.052)
+hugging(0.036)

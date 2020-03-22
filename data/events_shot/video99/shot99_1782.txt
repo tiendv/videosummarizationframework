@@ -1,0 +1,5 @@
+brushing(0.121)
+combing(0.056)
+smoking(0.037)
+chewing(0.036)
+cleaning(0.025)

@@ -1,0 +1,5 @@
+lecturing(0.148)
+signing(0.055)
+applauding(0.045)
+filming(0.035)
+clapping(0.029)

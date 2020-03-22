@@ -1,0 +1,5 @@
+hugging(0.732)
+spinning(0.032)
+walking(0.026)
+carrying(0.020)
+cuddling(0.019)

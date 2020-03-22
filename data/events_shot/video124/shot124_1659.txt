@@ -1,0 +1,5 @@
+cooking(0.059)
+walking(0.041)
+asking(0.033)
+adult+male+speaking(0.033)
+running(0.030)

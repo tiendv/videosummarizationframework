@@ -1,0 +1,5 @@
+entering(0.020)
+adult+male+speaking(0.018)
+standing(0.018)
+fighting(0.018)
+fencing(0.016)

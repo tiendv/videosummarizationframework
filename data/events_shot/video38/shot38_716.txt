@@ -1,0 +1,5 @@
+guarding(0.568)
+arresting(0.222)
+handcuffing(0.033)
+extinguishing(0.017)
+hammering(0.015)

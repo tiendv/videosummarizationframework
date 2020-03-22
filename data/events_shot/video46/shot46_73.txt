@@ -1,0 +1,5 @@
+raining(0.095)
+playing+videogames(0.053)
+adult+male+speaking(0.032)
+starting(0.031)
+talking(0.030)

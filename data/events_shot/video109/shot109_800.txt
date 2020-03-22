@@ -1,0 +1,5 @@
+sleeping(0.069)
+reading(0.049)
+walking(0.040)
+pushing(0.037)
+talking(0.031)

@@ -1,0 +1,5 @@
+bowing(0.108)
+walking(0.076)
+slapping(0.072)
+filming(0.040)
+standing(0.026)

@@ -1,0 +1,5 @@
+sneezing(0.042)
+attacking(0.036)
+clipping(0.033)
+calling(0.031)
+shooting(0.023)

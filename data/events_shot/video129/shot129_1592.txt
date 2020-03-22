@@ -1,0 +1,5 @@
+adult+female+singing(0.813)
+adult+female+speaking(0.026)
+adult+male+singing(0.008)
+spinning(0.005)
+exercising(0.005)

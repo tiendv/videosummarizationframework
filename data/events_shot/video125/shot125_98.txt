@@ -1,0 +1,5 @@
+knocking(0.123)
+officiating(0.084)
+guarding(0.072)
+slapping(0.059)
+standing(0.053)

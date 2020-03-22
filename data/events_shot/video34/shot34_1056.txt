@@ -1,0 +1,5 @@
+writing(0.114)
+handwriting(0.098)
+asking(0.092)
+adult+female+speaking(0.059)
+adult+male+speaking(0.047)

@@ -1,0 +1,5 @@
+slapping(0.038)
+hammering(0.036)
+drumming(0.016)
+shaking(0.015)
+punching(0.015)

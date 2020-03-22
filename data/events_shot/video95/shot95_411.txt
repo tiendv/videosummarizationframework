@@ -1,0 +1,5 @@
+punching(0.092)
+boxing(0.044)
+sneezing(0.044)
+slapping(0.038)
+running(0.027)

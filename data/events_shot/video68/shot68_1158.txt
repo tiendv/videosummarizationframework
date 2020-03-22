@@ -1,0 +1,5 @@
+vacuuming(0.071)
+walking(0.037)
+exiting(0.037)
+entering(0.028)
+opening(0.024)

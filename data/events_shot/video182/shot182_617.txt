@@ -1,0 +1,5 @@
+fencing(0.159)
+barking(0.101)
+slapping(0.084)
+knocking(0.059)
+adult+male+speaking(0.036)

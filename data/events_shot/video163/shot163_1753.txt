@@ -1,0 +1,5 @@
+sneezing(0.245)
+coughing(0.118)
+drinking(0.087)
+eating(0.044)
+imitating(0.036)

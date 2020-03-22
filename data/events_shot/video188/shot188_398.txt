@@ -1,0 +1,5 @@
+arresting(0.078)
+adult+male+speaking(0.056)
+marrying(0.049)
+standing(0.044)
+walking(0.032)

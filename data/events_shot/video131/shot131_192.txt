@@ -1,0 +1,5 @@
+arresting(0.075)
+walking(0.073)
+guarding(0.068)
+knocking(0.051)
+standing(0.042)

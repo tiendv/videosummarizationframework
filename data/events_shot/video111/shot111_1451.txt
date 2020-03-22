@@ -1,0 +1,5 @@
+queuing(0.131)
+walking(0.105)
+standing(0.047)
+praying(0.042)
+slapping(0.033)

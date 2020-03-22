@@ -1,0 +1,5 @@
+adult+female+singing(0.247)
+adult+male+singing(0.082)
+driving(0.030)
+filming(0.026)
+singing(0.024)

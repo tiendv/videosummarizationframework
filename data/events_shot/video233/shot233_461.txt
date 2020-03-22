@@ -1,0 +1,5 @@
+knocking(0.063)
+standing(0.046)
+slapping(0.024)
+pointing(0.023)
+walking(0.020)

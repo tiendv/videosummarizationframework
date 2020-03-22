@@ -1,0 +1,5 @@
+adult+male+speaking(0.104)
+fencing(0.076)
+discussing(0.065)
+adult+female+speaking(0.054)
+squinting(0.041)

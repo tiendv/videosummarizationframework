@@ -1,0 +1,5 @@
+dining(0.525)
+sitting(0.073)
+adult+male+speaking(0.043)
+playing+videogames(0.042)
+standing(0.029)

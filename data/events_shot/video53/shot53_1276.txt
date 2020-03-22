@@ -1,0 +1,5 @@
+drinking(0.108)
+fighting(0.046)
+adult+male+speaking(0.045)
+smoking(0.029)
+blocking(0.027)

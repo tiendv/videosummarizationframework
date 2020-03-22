@@ -1,0 +1,5 @@
+cooking(0.107)
+dusting(0.041)
+cleaning(0.038)
+gardening(0.036)
+barbecuing(0.034)

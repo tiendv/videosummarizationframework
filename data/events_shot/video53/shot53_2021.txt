@@ -1,0 +1,5 @@
+hanging(0.238)
+building(0.044)
+raining(0.029)
+falling(0.020)
+fencing(0.014)

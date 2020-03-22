@@ -1,0 +1,5 @@
+queuing(0.068)
+arresting(0.049)
+driving(0.047)
+asking(0.037)
+shopping(0.030)

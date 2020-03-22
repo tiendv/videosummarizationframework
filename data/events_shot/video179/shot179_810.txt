@@ -1,0 +1,5 @@
+painting(0.042)
+drinking(0.038)
+sneezing(0.037)
+crafting(0.037)
+discussing(0.032)

@@ -1,0 +1,5 @@
+assembling(0.112)
+adult+male+speaking(0.037)
+discussing(0.029)
+gripping(0.028)
+handcuffing(0.024)

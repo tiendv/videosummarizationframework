@@ -1,0 +1,5 @@
+packing(0.123)
+assembling(0.094)
+unpacking(0.053)
+pushing(0.052)
+vacuuming(0.026)

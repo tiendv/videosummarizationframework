@@ -1,0 +1,5 @@
+painting(0.065)
+adult+male+speaking(0.056)
+crafting(0.043)
+blocking(0.040)
+fighting(0.035)

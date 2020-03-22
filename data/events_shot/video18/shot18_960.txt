@@ -1,0 +1,5 @@
+adult+male+speaking(0.125)
+playing+videogames(0.097)
+talking(0.039)
+aiming(0.036)
+sitting(0.027)

@@ -1,0 +1,5 @@
+adult+male+singing(0.052)
+cracking(0.048)
+slapping(0.041)
+smashing(0.033)
+adult+male+speaking(0.032)

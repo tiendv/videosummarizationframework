@@ -1,0 +1,5 @@
+running(0.251)
+walking(0.217)
+jogging(0.132)
+fighting(0.052)
+punching(0.050)

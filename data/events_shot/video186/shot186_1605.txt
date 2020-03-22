@@ -1,0 +1,5 @@
+drawing(0.057)
+painting(0.048)
+tattooing(0.040)
+cleaning(0.029)
+drying(0.022)

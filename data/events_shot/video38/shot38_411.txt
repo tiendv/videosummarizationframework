@@ -1,0 +1,5 @@
+running(0.124)
+walking(0.065)
+towing(0.055)
+jogging(0.044)
+driving(0.033)

@@ -1,0 +1,5 @@
+hugging(0.132)
+cracking(0.075)
+adult+male+singing(0.045)
+filming(0.045)
+adult+male+speaking(0.042)

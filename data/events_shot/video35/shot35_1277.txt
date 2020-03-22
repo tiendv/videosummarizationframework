@@ -1,0 +1,5 @@
+sitting(0.120)
+dining(0.052)
+working(0.041)
+preaching(0.026)
+talking(0.026)

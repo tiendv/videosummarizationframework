@@ -1,0 +1,5 @@
+adult+male+speaking(0.041)
+playing+music(0.034)
+adult+female+speaking(0.029)
+sneezing(0.026)
+laughing(0.024)

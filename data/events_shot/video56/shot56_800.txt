@@ -1,0 +1,5 @@
+smoking(0.122)
+drinking(0.105)
+sneezing(0.060)
+telephoning(0.044)
+calling(0.041)

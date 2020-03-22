@@ -1,0 +1,5 @@
+queuing(0.067)
+stopping(0.067)
+sneezing(0.048)
+adult+female+speaking(0.044)
+adult+male+speaking(0.035)

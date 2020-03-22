@@ -1,0 +1,5 @@
+fencing(0.798)
+adult+male+speaking(0.010)
+hanging(0.007)
+working(0.005)
+tying(0.005)

@@ -1,0 +1,5 @@
+tattooing(0.112)
+standing(0.046)
+smiling(0.041)
+adult+male+speaking(0.027)
+adult+female+speaking(0.026)

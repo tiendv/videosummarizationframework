@@ -1,0 +1,5 @@
+kissing(0.659)
+marrying(0.065)
+hugging(0.051)
+cuddling(0.033)
+smiling(0.015)

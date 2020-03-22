@@ -1,0 +1,5 @@
+stacking(0.989)
+flipping(0.001)
+loading(0.000)
+erupting(0.000)
+child+speaking(0.000)

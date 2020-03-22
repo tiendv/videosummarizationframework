@@ -1,0 +1,5 @@
+talking(0.074)
+cooking(0.069)
+baking(0.063)
+standing(0.054)
+aiming(0.032)

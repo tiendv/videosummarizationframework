@@ -1,0 +1,5 @@
+adult+female+singing(0.058)
+spinning(0.051)
+fighting(0.044)
+turning(0.034)
+standing(0.031)

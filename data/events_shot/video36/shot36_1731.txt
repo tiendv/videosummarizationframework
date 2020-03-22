@@ -1,0 +1,5 @@
+sneezing(0.198)
+hugging(0.054)
+coughing(0.040)
+playing+videogames(0.039)
+aiming(0.031)

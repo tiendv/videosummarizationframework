@@ -1,0 +1,5 @@
+walking(0.167)
+fencing(0.076)
+cleaning(0.071)
+knocking(0.046)
+entering(0.034)

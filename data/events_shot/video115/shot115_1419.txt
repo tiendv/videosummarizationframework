@@ -1,0 +1,5 @@
+adult+female+speaking(0.103)
+stretching(0.091)
+sneezing(0.080)
+adult+female+singing(0.051)
+cuddling(0.045)

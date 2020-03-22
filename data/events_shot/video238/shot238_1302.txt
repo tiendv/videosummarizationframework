@@ -1,0 +1,5 @@
+running(0.040)
+punching(0.023)
+walking(0.017)
+boxing(0.017)
+queuing(0.016)

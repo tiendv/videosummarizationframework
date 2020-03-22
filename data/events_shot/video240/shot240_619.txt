@@ -1,0 +1,5 @@
+dining(0.102)
+drinking(0.043)
+filming(0.033)
+assembling(0.032)
+painting(0.026)

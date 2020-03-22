@@ -1,0 +1,5 @@
+closing(0.218)
+locking(0.186)
+opening(0.167)
+fueling(0.062)
+knocking(0.037)

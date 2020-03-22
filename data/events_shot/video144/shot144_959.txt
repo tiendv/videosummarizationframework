@@ -1,0 +1,5 @@
+exiting(0.119)
+shopping(0.108)
+entering(0.075)
+buying(0.068)
+stealing(0.067)

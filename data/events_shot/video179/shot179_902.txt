@@ -1,0 +1,5 @@
+adult+male+speaking(0.099)
+discussing(0.047)
+talking(0.034)
+coaching(0.032)
+interviewing(0.029)

@@ -1,0 +1,5 @@
+talking(0.169)
+turning(0.052)
+discussing(0.044)
+standing(0.039)
+starting(0.037)

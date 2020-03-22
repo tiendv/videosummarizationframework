@@ -1,0 +1,5 @@
+taping(0.090)
+adult+male+speaking(0.074)
+gripping(0.045)
+handcuffing(0.033)
+putting(0.026)

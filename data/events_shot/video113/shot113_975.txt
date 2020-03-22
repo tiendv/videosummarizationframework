@@ -1,0 +1,5 @@
+running(0.070)
+sitting(0.037)
+hugging(0.037)
+tattooing(0.029)
+standing(0.025)

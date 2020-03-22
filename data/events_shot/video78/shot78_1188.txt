@@ -1,0 +1,5 @@
+eating(0.088)
+chewing(0.061)
+slapping(0.057)
+throwing(0.041)
+discussing(0.041)

@@ -1,0 +1,5 @@
+hunting(0.165)
+fishing(0.126)
+playing+videogames(0.087)
+attacking(0.036)
+running(0.033)

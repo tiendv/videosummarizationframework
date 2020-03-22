@@ -1,0 +1,5 @@
+bowing(0.395)
+tying(0.036)
+bending(0.024)
+fighting(0.018)
+attacking(0.017)

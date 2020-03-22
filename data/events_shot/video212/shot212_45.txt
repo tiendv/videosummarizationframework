@@ -1,0 +1,5 @@
+walking(0.084)
+filming(0.068)
+hugging(0.064)
+exiting(0.048)
+queuing(0.042)

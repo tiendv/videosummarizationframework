@@ -1,0 +1,5 @@
+walking(0.212)
+arresting(0.186)
+hugging(0.051)
+filming(0.027)
+handcuffing(0.025)

@@ -1,0 +1,5 @@
+shaving(0.234)
+painting(0.172)
+brushing(0.031)
+drawing(0.022)
+dusting(0.016)

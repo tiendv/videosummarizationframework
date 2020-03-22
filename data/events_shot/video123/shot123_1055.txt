@@ -1,0 +1,5 @@
+stacking(0.307)
+drinking(0.056)
+drying(0.037)
+loading(0.034)
+washing(0.034)

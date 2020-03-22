@@ -1,0 +1,5 @@
+bicycling(0.890)
+pedaling(0.049)
+riding(0.004)
+running(0.003)
+hunting(0.002)

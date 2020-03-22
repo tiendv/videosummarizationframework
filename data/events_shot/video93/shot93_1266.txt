@@ -1,0 +1,5 @@
+attacking(0.069)
+fighting(0.062)
+shooting(0.052)
+arresting(0.037)
+punching(0.033)

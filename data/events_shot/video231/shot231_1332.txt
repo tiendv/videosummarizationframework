@@ -1,0 +1,5 @@
+asking(0.265)
+arresting(0.122)
+handcuffing(0.102)
+adult+female+speaking(0.088)
+slapping(0.037)

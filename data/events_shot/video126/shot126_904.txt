@@ -1,0 +1,5 @@
+slicing(0.032)
+cooking(0.028)
+dining(0.028)
+clipping(0.027)
+drinking(0.026)

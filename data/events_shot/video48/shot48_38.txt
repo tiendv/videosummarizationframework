@@ -1,0 +1,5 @@
+sniffing(0.047)
+fighting(0.041)
+smelling(0.039)
+laughing(0.032)
+attacking(0.030)

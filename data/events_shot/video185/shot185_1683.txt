@@ -1,0 +1,5 @@
+attacking(0.083)
+crying(0.053)
+sneezing(0.045)
+waking(0.044)
+slapping(0.041)

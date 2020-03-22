@@ -1,0 +1,5 @@
+slapping(0.280)
+talking(0.038)
+child+speaking(0.036)
+adult+female+speaking(0.029)
+waving(0.027)

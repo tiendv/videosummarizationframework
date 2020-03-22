@@ -1,0 +1,5 @@
+standing(0.081)
+talking(0.044)
+knocking(0.039)
+playing+videogames(0.035)
+punching(0.035)

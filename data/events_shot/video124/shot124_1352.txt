@@ -1,0 +1,5 @@
+building(0.233)
+hanging(0.090)
+painting(0.057)
+guarding(0.054)
+working(0.040)

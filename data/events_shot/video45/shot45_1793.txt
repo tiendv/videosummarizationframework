@@ -1,0 +1,5 @@
+attacking(0.059)
+standing(0.050)
+filming(0.046)
+adult+male+singing(0.045)
+fighting(0.036)

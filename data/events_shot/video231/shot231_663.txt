@@ -1,0 +1,5 @@
+fighting(0.337)
+attacking(0.060)
+sneezing(0.019)
+roaring(0.018)
+playing+videogames(0.017)

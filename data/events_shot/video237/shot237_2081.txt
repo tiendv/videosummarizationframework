@@ -1,0 +1,5 @@
+hanging(0.051)
+rising(0.050)
+ascending(0.045)
+climbing(0.038)
+descending(0.030)

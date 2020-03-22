@@ -1,0 +1,5 @@
+talking(0.087)
+adult+male+speaking(0.083)
+walking(0.062)
+playing+videogames(0.049)
+attacking(0.032)

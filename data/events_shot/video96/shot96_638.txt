@@ -1,0 +1,5 @@
+laughing(0.065)
+cleaning(0.048)
+standing(0.029)
+shaving(0.028)
+removing(0.019)

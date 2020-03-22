@@ -1,0 +1,5 @@
+rising(0.096)
+adult+male+singing(0.077)
+playing+videogames(0.056)
+running(0.041)
+clipping(0.040)

@@ -1,0 +1,5 @@
+raining(0.060)
+talking(0.057)
+discussing(0.053)
+sitting(0.040)
+crying(0.031)

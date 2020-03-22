@@ -1,0 +1,5 @@
+adult+male+speaking(0.046)
+coaching(0.044)
+queuing(0.040)
+walking(0.036)
+hugging(0.030)

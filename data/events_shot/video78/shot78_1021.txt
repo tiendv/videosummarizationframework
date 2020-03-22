@@ -1,0 +1,5 @@
+sneezing(0.105)
+laughing(0.052)
+spitting(0.036)
+kissing(0.035)
+imitating(0.031)

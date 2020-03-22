@@ -1,0 +1,5 @@
+slapping(0.049)
+talking(0.035)
+laughing(0.032)
+cooking(0.029)
+sneezing(0.025)

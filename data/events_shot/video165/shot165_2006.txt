@@ -1,0 +1,5 @@
+waving(0.050)
+hugging(0.046)
+walking(0.043)
+kissing(0.037)
+saluting(0.032)

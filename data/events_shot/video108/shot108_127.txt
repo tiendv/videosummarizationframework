@@ -1,0 +1,5 @@
+attacking(0.040)
+punching(0.040)
+slapping(0.038)
+pointing(0.034)
+stealing(0.027)

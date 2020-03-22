@@ -1,0 +1,5 @@
+lecturing(0.104)
+signing(0.094)
+applauding(0.039)
+filming(0.035)
+autographing(0.026)

@@ -1,0 +1,5 @@
+lecturing(0.130)
+standing(0.100)
+applauding(0.039)
+talking(0.033)
+walking(0.029)

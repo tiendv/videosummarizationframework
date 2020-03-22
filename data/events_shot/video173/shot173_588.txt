@@ -1,0 +1,5 @@
+pointing(0.084)
+hugging(0.068)
+coaching(0.043)
+adult+male+speaking(0.032)
+aiming(0.023)

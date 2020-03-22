@@ -1,0 +1,5 @@
+running(0.086)
+jogging(0.076)
+walking(0.075)
+skipping(0.050)
+hugging(0.043)

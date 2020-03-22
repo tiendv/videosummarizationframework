@@ -1,0 +1,5 @@
+drinking(0.100)
+walking(0.070)
+sneezing(0.038)
+filming(0.034)
+running(0.021)

@@ -1,0 +1,5 @@
+hugging(0.320)
+sneezing(0.102)
+coughing(0.064)
+filming(0.022)
+adult+male+speaking(0.021)

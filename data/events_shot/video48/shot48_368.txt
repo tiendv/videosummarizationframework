@@ -1,0 +1,5 @@
+burning(0.122)
+destroying(0.028)
+attacking(0.025)
+standing(0.022)
+rising(0.019)

@@ -1,0 +1,5 @@
+arresting(0.425)
+hugging(0.070)
+handcuffing(0.048)
+filming(0.027)
+fighting(0.023)

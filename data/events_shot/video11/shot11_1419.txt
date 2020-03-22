@@ -1,0 +1,5 @@
+whistling(0.211)
+yawning(0.148)
+adult+male+singing(0.060)
+coughing(0.045)
+shouting(0.031)

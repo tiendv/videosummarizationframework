@@ -1,0 +1,5 @@
+discussing(0.075)
+coughing(0.072)
+eating(0.062)
+adult+female+speaking(0.041)
+chewing(0.029)

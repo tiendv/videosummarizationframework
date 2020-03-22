@@ -1,0 +1,5 @@
+drying(0.060)
+working(0.052)
+talking(0.028)
+adult+female+speaking(0.026)
+standing(0.025)

@@ -1,0 +1,5 @@
+filming(0.134)
+photographing(0.068)
+shaving(0.062)
+adult+male+speaking(0.032)
+walking(0.032)

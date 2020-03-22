@@ -1,0 +1,5 @@
+celebrating(0.050)
+slapping(0.049)
+hugging(0.041)
+laughing(0.027)
+queuing(0.023)

@@ -1,0 +1,5 @@
+hugging(0.228)
+adult+female+speaking(0.124)
+drinking(0.038)
+cuddling(0.035)
+filming(0.028)

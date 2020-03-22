@@ -1,0 +1,5 @@
+spitting(0.065)
+eating(0.038)
+pointing(0.034)
+smelling(0.032)
+coaching(0.028)

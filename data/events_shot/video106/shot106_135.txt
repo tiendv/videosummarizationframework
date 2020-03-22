@@ -1,0 +1,5 @@
+laughing(0.059)
+talking(0.042)
+sneezing(0.038)
+discussing(0.033)
+crafting(0.030)

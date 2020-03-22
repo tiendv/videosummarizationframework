@@ -1,0 +1,5 @@
+talking(0.097)
+discussing(0.078)
+sitting(0.068)
+painting(0.057)
+asking(0.054)

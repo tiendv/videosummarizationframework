@@ -1,0 +1,5 @@
+marrying(0.088)
+adult+female+speaking(0.070)
+joining(0.068)
+adult+female+singing(0.029)
+preaching(0.025)

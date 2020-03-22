@@ -1,0 +1,5 @@
+rocking(0.054)
+aiming(0.029)
+adult+male+speaking(0.025)
+playing+videogames(0.021)
+starting(0.018)

@@ -1,0 +1,5 @@
+dripping(0.141)
+pouring(0.088)
+rinsing(0.039)
+leaking(0.039)
+draining(0.032)

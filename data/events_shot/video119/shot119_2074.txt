@@ -1,0 +1,5 @@
+squatting(0.102)
+sneezing(0.048)
+hugging(0.033)
+bending(0.033)
+bowing(0.030)

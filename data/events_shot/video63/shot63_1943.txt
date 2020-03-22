@@ -1,0 +1,5 @@
+fighting(0.055)
+walking(0.043)
+attacking(0.038)
+cooking(0.036)
+eating(0.035)

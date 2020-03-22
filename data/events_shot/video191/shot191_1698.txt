@@ -1,0 +1,5 @@
+filming(0.058)
+hugging(0.057)
+adult+male+speaking(0.055)
+discussing(0.047)
+gambling(0.038)

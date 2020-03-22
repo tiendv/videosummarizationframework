@@ -1,0 +1,5 @@
+driving(0.047)
+walking(0.036)
+arresting(0.033)
+playing+videogames(0.030)
+riding(0.025)

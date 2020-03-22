@@ -1,0 +1,5 @@
+filming(0.209)
+photographing(0.088)
+aiming(0.038)
+adult+male+speaking(0.017)
+playing+videogames(0.016)

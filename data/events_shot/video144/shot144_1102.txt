@@ -1,0 +1,5 @@
+aiming(0.170)
+flicking(0.059)
+blocking(0.055)
+adult+male+speaking(0.043)
+throwing(0.031)

@@ -1,0 +1,5 @@
+slapping(0.141)
+arresting(0.077)
+walking(0.072)
+hugging(0.070)
+adult+male+speaking(0.046)

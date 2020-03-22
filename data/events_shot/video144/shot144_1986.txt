@@ -1,0 +1,5 @@
+fighting(0.057)
+attacking(0.043)
+walking(0.036)
+slapping(0.036)
+playing+videogames(0.032)

@@ -1,0 +1,5 @@
+driving(0.077)
+playing+videogames(0.037)
+towing(0.030)
+swerving(0.029)
+aiming(0.027)

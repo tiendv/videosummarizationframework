@@ -1,0 +1,5 @@
+hitchhiking(0.111)
+walking(0.091)
+talking(0.081)
+interviewing(0.061)
+asking(0.044)

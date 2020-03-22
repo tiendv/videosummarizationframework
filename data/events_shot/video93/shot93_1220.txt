@@ -1,0 +1,5 @@
+hugging(0.100)
+tattooing(0.069)
+knocking(0.067)
+adult+male+speaking(0.038)
+standing(0.031)

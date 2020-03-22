@@ -1,0 +1,5 @@
+drumming(0.046)
+telephoning(0.035)
+cooking(0.034)
+serving(0.032)
+working(0.027)

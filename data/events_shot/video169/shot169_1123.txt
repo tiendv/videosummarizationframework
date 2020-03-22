@@ -1,0 +1,5 @@
+biting(0.138)
+chewing(0.047)
+eating(0.044)
+roaring(0.042)
+feeding(0.032)

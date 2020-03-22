@@ -1,0 +1,5 @@
+signing(0.220)
+child+speaking(0.026)
+slapping(0.024)
+clapping(0.023)
+adult+female+speaking(0.020)

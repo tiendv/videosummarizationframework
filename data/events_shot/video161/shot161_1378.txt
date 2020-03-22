@@ -1,0 +1,5 @@
+working(0.067)
+standing(0.059)
+adult+male+speaking(0.048)
+shooting(0.048)
+guarding(0.037)

@@ -1,0 +1,5 @@
+driving(0.174)
+riding(0.084)
+steering(0.055)
+sitting(0.027)
+queuing(0.024)

@@ -1,0 +1,5 @@
+dining(0.121)
+tattooing(0.119)
+selling(0.069)
+shopping(0.060)
+painting(0.044)

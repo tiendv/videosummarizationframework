@@ -1,0 +1,5 @@
+walking(0.140)
+arresting(0.091)
+slapping(0.076)
+queuing(0.075)
+adult+male+speaking(0.046)

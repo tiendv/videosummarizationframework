@@ -1,0 +1,5 @@
+laughing(0.076)
+walking(0.045)
+dining(0.039)
+adult+male+speaking(0.031)
+sneezing(0.029)

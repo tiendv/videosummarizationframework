@@ -1,0 +1,5 @@
+walking(0.167)
+queuing(0.143)
+exiting(0.125)
+filming(0.050)
+arresting(0.044)

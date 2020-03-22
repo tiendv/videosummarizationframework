@@ -1,0 +1,5 @@
+asking(0.115)
+hugging(0.072)
+walking(0.060)
+filming(0.039)
+queuing(0.038)

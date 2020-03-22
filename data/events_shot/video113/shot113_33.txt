@@ -1,0 +1,5 @@
+sneezing(0.234)
+crying(0.232)
+coughing(0.112)
+dressing(0.036)
+putting(0.026)

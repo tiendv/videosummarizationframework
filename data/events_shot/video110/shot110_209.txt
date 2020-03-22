@@ -1,0 +1,5 @@
+hunting(0.115)
+walking(0.069)
+stomping(0.049)
+standing(0.047)
+hiking(0.037)

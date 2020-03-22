@@ -1,0 +1,5 @@
+dining(0.058)
+socializing(0.035)
+filming(0.034)
+adult+female+speaking(0.028)
+discussing(0.028)

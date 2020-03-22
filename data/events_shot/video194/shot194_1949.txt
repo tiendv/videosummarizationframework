@@ -1,0 +1,5 @@
+kissing(0.051)
+sneezing(0.042)
+filming(0.031)
+adult+male+speaking(0.029)
+walking(0.029)

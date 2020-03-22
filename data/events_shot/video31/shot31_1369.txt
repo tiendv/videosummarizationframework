@@ -1,0 +1,5 @@
+adult+male+speaking(0.100)
+arresting(0.078)
+discussing(0.058)
+talking(0.053)
+hugging(0.046)

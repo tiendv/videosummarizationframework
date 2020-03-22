@@ -1,0 +1,5 @@
+slapping(0.128)
+running(0.059)
+walking(0.037)
+throwing(0.028)
+sneezing(0.025)

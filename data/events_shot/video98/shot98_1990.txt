@@ -1,0 +1,5 @@
+child+speaking(0.059)
+adult+female+speaking(0.051)
+sneezing(0.050)
+laughing(0.028)
+standing(0.025)

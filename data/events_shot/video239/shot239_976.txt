@@ -1,0 +1,5 @@
+smoking(0.359)
+drinking(0.134)
+adult+male+singing(0.047)
+hiking(0.032)
+playing+music(0.026)

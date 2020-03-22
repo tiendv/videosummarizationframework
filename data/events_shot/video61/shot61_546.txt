@@ -1,0 +1,5 @@
+fencing(0.199)
+gardening(0.106)
+barbecuing(0.086)
+adult+male+speaking(0.075)
+grilling(0.037)

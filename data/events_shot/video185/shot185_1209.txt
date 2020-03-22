@@ -1,0 +1,5 @@
+driving(0.650)
+riding(0.094)
+steering(0.071)
+hitchhiking(0.038)
+adult+female+singing(0.006)

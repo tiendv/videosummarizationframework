@@ -1,0 +1,5 @@
+walking(0.088)
+filming(0.080)
+arresting(0.061)
+bowing(0.039)
+adult+male+speaking(0.036)

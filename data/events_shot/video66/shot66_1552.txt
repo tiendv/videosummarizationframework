@@ -1,0 +1,5 @@
+adult+female+singing(0.236)
+adult+female+speaking(0.181)
+filming(0.036)
+smoking(0.030)
+sneezing(0.030)

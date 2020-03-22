@@ -1,0 +1,5 @@
+slapping(0.127)
+smiling(0.042)
+hugging(0.039)
+walking(0.037)
+spitting(0.035)

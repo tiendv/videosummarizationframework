@@ -1,0 +1,5 @@
+bathing(0.615)
+adult+male+singing(0.062)
+adult+female+singing(0.054)
+wetting(0.018)
+swimming(0.016)

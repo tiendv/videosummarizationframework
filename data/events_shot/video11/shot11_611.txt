@@ -1,0 +1,5 @@
+wrestling(0.128)
+fighting(0.096)
+gripping(0.042)
+handcuffing(0.031)
+standing(0.026)

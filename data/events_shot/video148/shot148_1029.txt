@@ -1,0 +1,5 @@
+smiling(0.126)
+laughing(0.115)
+adult+female+speaking(0.055)
+drying(0.053)
+talking(0.052)

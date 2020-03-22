@@ -1,0 +1,5 @@
+standing(0.057)
+adult+male+speaking(0.054)
+dining(0.048)
+hanging(0.043)
+adult+female+speaking(0.029)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.092)
+walking(0.054)
+hugging(0.040)
+shopping(0.029)
+telephoning(0.028)

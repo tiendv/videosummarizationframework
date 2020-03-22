@@ -1,0 +1,5 @@
+driving(0.111)
+walking(0.040)
+hitchhiking(0.039)
+stopping(0.035)
+adult+male+speaking(0.031)

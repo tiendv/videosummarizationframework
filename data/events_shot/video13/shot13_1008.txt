@@ -1,0 +1,5 @@
+guarding(0.139)
+standing(0.062)
+whistling(0.045)
+knocking(0.036)
+child+speaking(0.032)

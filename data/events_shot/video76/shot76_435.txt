@@ -1,0 +1,5 @@
+calling(0.055)
+arresting(0.044)
+telephoning(0.043)
+adult+male+speaking(0.038)
+slapping(0.031)

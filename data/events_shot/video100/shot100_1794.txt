@@ -1,0 +1,5 @@
+tattooing(0.090)
+sitting(0.054)
+smiling(0.043)
+adult+male+speaking(0.040)
+painting(0.033)

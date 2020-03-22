@@ -1,0 +1,5 @@
+adult+female+speaking(0.130)
+adult+male+speaking(0.052)
+discussing(0.045)
+shrugging(0.042)
+interviewing(0.035)

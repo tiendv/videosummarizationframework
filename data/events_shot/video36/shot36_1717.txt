@@ -1,0 +1,5 @@
+dining(0.096)
+serving(0.062)
+autographing(0.045)
+discussing(0.028)
+flipping(0.028)

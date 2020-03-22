@@ -1,0 +1,5 @@
+dining(0.040)
+adult+male+speaking(0.033)
+adult+female+speaking(0.033)
+walking(0.032)
+marrying(0.025)

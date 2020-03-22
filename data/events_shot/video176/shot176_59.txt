@@ -1,0 +1,5 @@
+driving(0.296)
+steering(0.125)
+cleaning(0.038)
+washing(0.034)
+talking(0.025)

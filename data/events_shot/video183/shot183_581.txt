@@ -1,0 +1,5 @@
+starting(0.058)
+talking(0.046)
+hunting(0.046)
+playing+videogames(0.044)
+cooking(0.038)

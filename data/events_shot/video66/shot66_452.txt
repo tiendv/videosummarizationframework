@@ -1,0 +1,5 @@
+arresting(0.218)
+guarding(0.105)
+walking(0.081)
+talking(0.078)
+discussing(0.062)

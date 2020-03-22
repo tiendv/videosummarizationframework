@@ -1,0 +1,5 @@
+camping(0.110)
+cuddling(0.109)
+waking(0.078)
+sleeping(0.068)
+snuggling(0.043)

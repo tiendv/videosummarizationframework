@@ -1,0 +1,5 @@
+dancing(0.104)
+performing(0.052)
+rocking(0.048)
+jumping(0.043)
+stomping(0.035)

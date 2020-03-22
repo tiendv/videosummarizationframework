@@ -1,0 +1,5 @@
+fighting(0.061)
+attacking(0.039)
+walking(0.037)
+adult+male+speaking(0.035)
+filming(0.033)

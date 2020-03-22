@@ -1,0 +1,5 @@
+fighting(0.132)
+blocking(0.099)
+attacking(0.094)
+destroying(0.037)
+stopping(0.032)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.119)
+playing+videogames(0.107)
+aiming(0.030)
+walking(0.023)
+preaching(0.022)

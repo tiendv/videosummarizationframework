@@ -1,0 +1,5 @@
+standing(0.052)
+asking(0.048)
+child+speaking(0.039)
+walking(0.032)
+child+singing(0.032)

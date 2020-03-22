@@ -1,0 +1,5 @@
+child+speaking(0.435)
+flipping(0.022)
+child+singing(0.022)
+stacking(0.017)
+brushing(0.015)

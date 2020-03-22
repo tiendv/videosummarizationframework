@@ -1,0 +1,5 @@
+sneezing(0.058)
+fighting(0.054)
+attacking(0.037)
+slapping(0.028)
+filming(0.027)

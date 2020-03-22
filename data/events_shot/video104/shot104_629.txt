@@ -1,0 +1,5 @@
+running(0.055)
+standing(0.038)
+sitting(0.027)
+plunging(0.022)
+adult+male+speaking(0.020)

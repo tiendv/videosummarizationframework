@@ -1,0 +1,5 @@
+adult+male+speaking(0.081)
+fencing(0.055)
+standing(0.045)
+photographing(0.028)
+filming(0.026)

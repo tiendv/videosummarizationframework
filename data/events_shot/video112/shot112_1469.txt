@@ -1,0 +1,5 @@
+preaching(0.433)
+adult+male+speaking(0.115)
+gripping(0.030)
+stacking(0.015)
+signing(0.014)

@@ -1,0 +1,5 @@
+standing(0.073)
+sitting(0.044)
+adult+male+singing(0.032)
+performing(0.029)
+rocking(0.028)

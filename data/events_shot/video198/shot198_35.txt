@@ -1,0 +1,5 @@
+fencing(0.151)
+shrugging(0.137)
+squatting(0.037)
+raising(0.026)
+gripping(0.023)

@@ -1,0 +1,5 @@
+hugging(0.093)
+tattooing(0.084)
+walking(0.072)
+standing(0.032)
+talking(0.027)

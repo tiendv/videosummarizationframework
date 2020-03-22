@@ -1,0 +1,5 @@
+adult+female+speaking(0.278)
+cuddling(0.088)
+tattooing(0.046)
+waking(0.037)
+sleeping(0.035)

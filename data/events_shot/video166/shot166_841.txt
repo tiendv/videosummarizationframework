@@ -1,0 +1,5 @@
+bicycling(0.508)
+pedaling(0.116)
+riding(0.040)
+stealing(0.014)
+pushing(0.010)

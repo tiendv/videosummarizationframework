@@ -1,0 +1,5 @@
+adult+male+speaking(0.066)
+adult+male+singing(0.048)
+baptizing(0.038)
+filming(0.031)
+hugging(0.026)

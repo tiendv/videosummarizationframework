@@ -1,0 +1,5 @@
+hugging(0.145)
+smiling(0.057)
+fencing(0.037)
+standing(0.035)
+walking(0.035)

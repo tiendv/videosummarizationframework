@@ -1,0 +1,5 @@
+calling(0.211)
+telephoning(0.130)
+fighting(0.045)
+filming(0.035)
+attacking(0.033)

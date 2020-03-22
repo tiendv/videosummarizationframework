@@ -1,0 +1,5 @@
+hugging(0.083)
+adult+female+speaking(0.074)
+stealing(0.030)
+dressing(0.026)
+adult+male+speaking(0.018)

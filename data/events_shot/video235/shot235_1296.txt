@@ -1,0 +1,5 @@
+drinking(0.187)
+punching(0.041)
+bowling(0.038)
+boxing(0.037)
+spitting(0.031)

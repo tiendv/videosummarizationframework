@@ -1,0 +1,5 @@
+applauding(0.119)
+clapping(0.063)
+standing(0.040)
+drinking(0.036)
+adult+male+speaking(0.029)

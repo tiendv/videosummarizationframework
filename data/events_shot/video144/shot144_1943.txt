@@ -1,0 +1,5 @@
+spitting(0.135)
+smelling(0.122)
+drinking(0.080)
+sniffing(0.077)
+coughing(0.059)

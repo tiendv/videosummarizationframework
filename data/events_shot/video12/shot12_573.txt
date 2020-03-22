@@ -1,0 +1,5 @@
+hugging(0.106)
+pointing(0.080)
+adult+male+speaking(0.040)
+coaching(0.030)
+playing+videogames(0.021)

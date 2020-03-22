@@ -1,0 +1,5 @@
+removing(0.051)
+drinking(0.049)
+sneezing(0.035)
+cleaning(0.035)
+working(0.027)

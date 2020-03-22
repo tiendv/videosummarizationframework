@@ -1,0 +1,5 @@
+slapping(0.058)
+sneezing(0.040)
+spitting(0.035)
+attacking(0.029)
+shooting(0.021)

@@ -1,0 +1,5 @@
+slapping(0.050)
+sneezing(0.041)
+discussing(0.034)
+studying(0.033)
+asking(0.027)

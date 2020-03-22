@@ -1,0 +1,5 @@
+arresting(0.302)
+protesting(0.116)
+fighting(0.072)
+attacking(0.051)
+handcuffing(0.038)

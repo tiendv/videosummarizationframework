@@ -1,0 +1,5 @@
+queuing(0.042)
+standing(0.040)
+fighting(0.037)
+filming(0.034)
+protesting(0.033)

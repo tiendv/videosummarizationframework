@@ -1,0 +1,5 @@
+combing(0.063)
+slapping(0.054)
+hugging(0.043)
+walking(0.042)
+standing(0.035)

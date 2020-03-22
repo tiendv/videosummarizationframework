@@ -1,0 +1,5 @@
+hanging(0.534)
+building(0.047)
+fencing(0.031)
+swinging(0.018)
+knocking(0.017)

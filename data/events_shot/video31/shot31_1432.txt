@@ -1,0 +1,5 @@
+kissing(0.062)
+fighting(0.056)
+hugging(0.051)
+driving(0.049)
+steering(0.043)

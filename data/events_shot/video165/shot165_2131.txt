@@ -1,0 +1,5 @@
+crying(0.055)
+crushing(0.037)
+crawling(0.034)
+rolling(0.026)
+starting(0.021)

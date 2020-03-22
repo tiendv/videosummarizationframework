@@ -1,0 +1,5 @@
+adult+female+singing(0.073)
+cooking(0.035)
+talking(0.034)
+walking(0.032)
+standing(0.031)

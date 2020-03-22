@@ -1,0 +1,5 @@
+adult+male+speaking(0.102)
+discussing(0.060)
+interviewing(0.042)
+photographing(0.035)
+adult+female+speaking(0.027)

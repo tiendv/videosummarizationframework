@@ -1,0 +1,5 @@
+tattooing(0.305)
+dining(0.068)
+adult+female+speaking(0.045)
+drinking(0.044)
+adult+male+speaking(0.026)

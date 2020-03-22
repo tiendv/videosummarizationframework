@@ -1,0 +1,5 @@
+sitting(0.091)
+adult+male+singing(0.068)
+praying(0.054)
+singing(0.041)
+asking(0.033)

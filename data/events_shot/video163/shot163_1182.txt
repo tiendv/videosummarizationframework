@@ -1,0 +1,5 @@
+sliding(0.089)
+fencing(0.047)
+pitching(0.036)
+swinging(0.028)
+slipping(0.022)

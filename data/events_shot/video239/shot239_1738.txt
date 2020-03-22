@@ -1,0 +1,5 @@
+drinking(0.089)
+sneezing(0.045)
+sniffing(0.029)
+asking(0.025)
+adult+female+speaking(0.025)

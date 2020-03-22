@@ -1,0 +1,5 @@
+knocking(0.063)
+standing(0.060)
+smiling(0.053)
+adult+female+singing(0.046)
+adult+male+speaking(0.039)

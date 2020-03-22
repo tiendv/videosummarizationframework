@@ -1,0 +1,5 @@
+closing(0.223)
+opening(0.178)
+talking(0.035)
+fueling(0.027)
+adult+female+speaking(0.025)

@@ -1,0 +1,5 @@
+walking(0.038)
+stealing(0.023)
+sneezing(0.023)
+working(0.021)
+drinking(0.019)

@@ -1,0 +1,5 @@
+eating(0.139)
+laughing(0.048)
+playing+videogames(0.041)
+chewing(0.035)
+adult+male+speaking(0.035)

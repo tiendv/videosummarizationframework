@@ -1,0 +1,5 @@
+adult+male+speaking(0.080)
+dining(0.042)
+adult+male+singing(0.041)
+fighting(0.040)
+standing(0.034)

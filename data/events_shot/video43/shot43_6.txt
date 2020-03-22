@@ -1,0 +1,5 @@
+tickling(0.283)
+packing(0.221)
+unpacking(0.084)
+wrapping(0.059)
+waxing(0.039)

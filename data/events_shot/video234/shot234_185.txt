@@ -1,0 +1,5 @@
+drinking(0.619)
+smelling(0.078)
+sniffing(0.041)
+adult+male+speaking(0.029)
+spitting(0.026)

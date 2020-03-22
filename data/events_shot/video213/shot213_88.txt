@@ -1,0 +1,5 @@
+starting(0.164)
+talking(0.038)
+steering(0.036)
+draining(0.029)
+cooking(0.023)

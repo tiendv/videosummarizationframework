@@ -1,0 +1,5 @@
+tapping(0.101)
+child+speaking(0.054)
+brushing(0.051)
+chewing(0.043)
+scratching(0.037)

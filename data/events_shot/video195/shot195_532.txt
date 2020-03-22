@@ -1,0 +1,5 @@
+massaging(0.557)
+packing(0.335)
+unpacking(0.074)
+folding(0.008)
+drying(0.004)

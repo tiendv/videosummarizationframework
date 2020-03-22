@@ -1,0 +1,5 @@
+standing(0.078)
+adult+male+speaking(0.070)
+filming(0.069)
+officiating(0.033)
+talking(0.032)

@@ -1,0 +1,5 @@
+crying(0.077)
+laughing(0.050)
+telephoning(0.049)
+coughing(0.044)
+sneezing(0.039)

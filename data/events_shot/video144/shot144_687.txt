@@ -1,0 +1,5 @@
+adult+male+speaking(0.132)
+knocking(0.114)
+adult+female+speaking(0.061)
+lecturing(0.052)
+asking(0.041)

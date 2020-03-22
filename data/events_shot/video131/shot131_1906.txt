@@ -1,0 +1,5 @@
+jogging(0.147)
+running(0.090)
+skipping(0.056)
+sprinting(0.050)
+chasing(0.046)

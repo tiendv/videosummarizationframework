@@ -1,0 +1,5 @@
+shaving(0.528)
+painting(0.138)
+brushing(0.029)
+combing(0.014)
+removing(0.012)

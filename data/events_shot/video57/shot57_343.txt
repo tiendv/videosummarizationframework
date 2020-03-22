@@ -1,0 +1,5 @@
+adult+female+singing(0.305)
+adult+male+singing(0.238)
+singing(0.036)
+playing+videogames(0.036)
+performing(0.026)

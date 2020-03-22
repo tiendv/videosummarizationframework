@@ -1,0 +1,5 @@
+handcuffing(0.057)
+kneeling(0.049)
+arresting(0.040)
+standing(0.030)
+locking(0.029)

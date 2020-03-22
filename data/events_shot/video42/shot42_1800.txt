@@ -1,0 +1,5 @@
+slapping(0.058)
+arresting(0.049)
+fighting(0.037)
+blocking(0.029)
+discussing(0.026)

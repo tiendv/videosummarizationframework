@@ -1,0 +1,5 @@
+adult+female+speaking(0.064)
+asking(0.045)
+standing(0.035)
+talking(0.028)
+cheerleading(0.027)

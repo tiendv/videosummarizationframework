@@ -1,0 +1,5 @@
+roaring(0.495)
+barking(0.210)
+howling(0.052)
+sneezing(0.020)
+laughing(0.020)

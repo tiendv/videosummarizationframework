@@ -1,0 +1,5 @@
+slapping(0.120)
+knocking(0.104)
+pointing(0.028)
+filming(0.025)
+throwing(0.019)

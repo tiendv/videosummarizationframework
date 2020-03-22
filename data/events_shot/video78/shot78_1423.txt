@@ -1,0 +1,5 @@
+crying(0.068)
+smoking(0.052)
+adult+female+speaking(0.040)
+opening(0.026)
+hugging(0.023)

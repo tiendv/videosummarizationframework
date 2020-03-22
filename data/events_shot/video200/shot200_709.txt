@@ -1,0 +1,5 @@
+building(0.068)
+assembling(0.045)
+filming(0.042)
+aiming(0.039)
+welding(0.032)

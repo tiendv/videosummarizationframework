@@ -1,0 +1,5 @@
+exercising(0.039)
+sitting(0.037)
+squatting(0.036)
+adult+male+speaking(0.022)
+talking(0.020)

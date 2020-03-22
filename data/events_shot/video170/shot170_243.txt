@@ -1,0 +1,5 @@
+standing(0.043)
+protesting(0.036)
+parading(0.032)
+asking(0.029)
+laughing(0.024)

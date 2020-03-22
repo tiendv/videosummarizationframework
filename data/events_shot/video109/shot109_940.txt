@@ -1,0 +1,5 @@
+leaping(0.088)
+hunting(0.059)
+jumping(0.042)
+starting(0.029)
+playing+videogames(0.025)

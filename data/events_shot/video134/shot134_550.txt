@@ -1,0 +1,5 @@
+aiming(0.060)
+walking(0.057)
+driving(0.044)
+playing+videogames(0.043)
+carrying(0.033)

@@ -1,0 +1,5 @@
+walking(0.347)
+fencing(0.099)
+asking(0.083)
+adult+male+speaking(0.052)
+hiking(0.022)

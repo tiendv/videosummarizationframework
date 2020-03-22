@@ -1,0 +1,5 @@
+running(0.456)
+jogging(0.266)
+raining(0.020)
+walking(0.020)
+sprinting(0.016)

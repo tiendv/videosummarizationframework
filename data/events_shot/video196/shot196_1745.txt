@@ -1,0 +1,5 @@
+adult+female+speaking(0.100)
+opening(0.036)
+closing(0.033)
+discussing(0.032)
+smiling(0.027)

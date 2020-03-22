@@ -1,0 +1,5 @@
+shaving(0.129)
+slapping(0.106)
+knocking(0.078)
+adult+male+speaking(0.042)
+imitating(0.030)

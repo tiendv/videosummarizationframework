@@ -1,0 +1,5 @@
+adult+female+speaking(0.279)
+asking(0.183)
+hugging(0.073)
+kissing(0.061)
+slapping(0.048)

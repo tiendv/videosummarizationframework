@@ -1,0 +1,5 @@
+peeling(0.044)
+opening(0.036)
+sitting(0.029)
+tearing(0.027)
+reading(0.025)

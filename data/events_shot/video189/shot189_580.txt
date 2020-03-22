@@ -1,0 +1,5 @@
+brushing(0.097)
+child+speaking(0.087)
+adult+female+speaking(0.045)
+eating(0.025)
+talking(0.025)

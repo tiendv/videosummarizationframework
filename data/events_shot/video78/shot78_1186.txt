@@ -1,0 +1,5 @@
+stacking(0.962)
+painting(0.009)
+loading(0.002)
+playing(0.001)
+working(0.001)

@@ -1,0 +1,5 @@
+officiating(0.059)
+walking(0.045)
+standing(0.035)
+smiling(0.033)
+asking(0.031)

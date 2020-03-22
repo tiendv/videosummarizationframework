@@ -1,0 +1,5 @@
+fighting(0.039)
+slapping(0.036)
+tattooing(0.031)
+standing(0.025)
+adult+male+speaking(0.024)

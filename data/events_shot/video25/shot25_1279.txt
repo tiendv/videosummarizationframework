@@ -1,0 +1,5 @@
+standing(0.037)
+adult+male+speaking(0.031)
+preaching(0.028)
+fighting(0.024)
+giving(0.023)

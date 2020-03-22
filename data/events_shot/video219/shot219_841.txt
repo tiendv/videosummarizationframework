@@ -1,0 +1,5 @@
+saluting(0.061)
+painting(0.053)
+filming(0.042)
+standing(0.039)
+adult+male+speaking(0.036)

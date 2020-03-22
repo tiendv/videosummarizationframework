@@ -1,0 +1,5 @@
+adult+male+singing(0.171)
+fighting(0.163)
+attacking(0.048)
+standing(0.039)
+playing+videogames(0.039)

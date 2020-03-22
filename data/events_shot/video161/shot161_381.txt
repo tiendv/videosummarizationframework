@@ -1,0 +1,5 @@
+adult+female+speaking(0.110)
+baking(0.094)
+dining(0.077)
+sitting(0.057)
+eating(0.043)

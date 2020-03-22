@@ -1,0 +1,5 @@
+raining(0.067)
+hitting(0.039)
+knocking(0.038)
+reaching(0.029)
+hammering(0.027)

@@ -1,0 +1,5 @@
+standing(0.026)
+adult+male+speaking(0.020)
+applauding(0.018)
+adult+female+speaking(0.016)
+starting(0.016)

@@ -1,0 +1,5 @@
+drawing(0.150)
+sketching(0.073)
+reading(0.049)
+painting(0.035)
+studying(0.033)

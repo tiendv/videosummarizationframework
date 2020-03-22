@@ -1,0 +1,5 @@
+telephoning(0.080)
+calling(0.069)
+cooking(0.055)
+drinking(0.043)
+walking(0.036)

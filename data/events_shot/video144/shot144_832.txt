@@ -1,0 +1,5 @@
+standing(0.042)
+burying(0.025)
+starting(0.024)
+playing+music(0.022)
+stomping(0.021)

@@ -1,0 +1,5 @@
+measuring(0.229)
+handwriting(0.075)
+pointing(0.029)
+adult+male+speaking(0.024)
+lecturing(0.024)

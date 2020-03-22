@@ -1,0 +1,5 @@
+aiming(0.055)
+playing+videogames(0.039)
+squatting(0.037)
+attacking(0.031)
+smashing(0.028)

@@ -1,0 +1,5 @@
+adult+female+singing(0.338)
+marrying(0.093)
+performing(0.069)
+adult+female+speaking(0.036)
+singing(0.031)

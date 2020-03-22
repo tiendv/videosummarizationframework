@@ -1,0 +1,5 @@
+adult+female+singing(0.127)
+adult+male+singing(0.121)
+drinking(0.052)
+stomping(0.049)
+standing(0.033)

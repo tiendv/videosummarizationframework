@@ -1,0 +1,5 @@
+aiming(0.223)
+playing+videogames(0.124)
+standing(0.025)
+shooting(0.024)
+entering(0.023)

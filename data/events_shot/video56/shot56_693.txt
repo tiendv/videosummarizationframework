@@ -1,0 +1,5 @@
+adult+male+speaking(0.131)
+knocking(0.078)
+walking(0.039)
+asking(0.033)
+exiting(0.031)

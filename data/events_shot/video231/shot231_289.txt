@@ -1,0 +1,5 @@
+running(0.072)
+walking(0.053)
+shooting(0.050)
+raining(0.044)
+chasing(0.031)

@@ -1,0 +1,5 @@
+painting(0.257)
+drawing(0.029)
+hugging(0.026)
+brushing(0.025)
+filming(0.018)

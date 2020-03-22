@@ -1,0 +1,5 @@
+telephoning(0.301)
+calling(0.107)
+laughing(0.040)
+crying(0.038)
+child+speaking(0.035)

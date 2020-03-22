@@ -1,0 +1,5 @@
+fencing(0.054)
+fighting(0.029)
+running(0.024)
+walking(0.021)
+exiting(0.020)

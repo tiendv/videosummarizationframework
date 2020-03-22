@@ -1,0 +1,5 @@
+painting(0.052)
+walking(0.039)
+adult+male+speaking(0.033)
+filming(0.025)
+standing(0.023)

@@ -1,0 +1,5 @@
+starting(0.171)
+steering(0.041)
+talking(0.029)
+working(0.023)
+putting(0.019)

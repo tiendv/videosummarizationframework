@@ -1,0 +1,5 @@
+cooking(0.046)
+adult+male+speaking(0.041)
+giving(0.035)
+adult+female+speaking(0.034)
+asking(0.019)

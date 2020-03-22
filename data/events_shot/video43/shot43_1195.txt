@@ -1,0 +1,5 @@
+dining(0.215)
+serving(0.045)
+giving(0.043)
+eating(0.040)
+preaching(0.036)

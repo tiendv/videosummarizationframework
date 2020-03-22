@@ -1,0 +1,5 @@
+slapping(0.034)
+sneezing(0.033)
+walking(0.025)
+removing(0.023)
+adult+female+singing(0.022)

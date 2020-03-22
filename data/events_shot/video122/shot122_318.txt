@@ -1,0 +1,5 @@
+queuing(0.358)
+asking(0.090)
+adult+male+speaking(0.065)
+slapping(0.048)
+walking(0.027)

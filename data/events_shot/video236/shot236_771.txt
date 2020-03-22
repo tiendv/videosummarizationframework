@@ -1,0 +1,5 @@
+walking(0.159)
+carrying(0.043)
+stealing(0.041)
+running(0.039)
+hugging(0.036)

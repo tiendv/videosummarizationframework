@@ -1,0 +1,5 @@
+coaching(0.065)
+adult+male+speaking(0.055)
+slapping(0.053)
+discussing(0.041)
+arresting(0.033)

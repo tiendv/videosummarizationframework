@@ -1,0 +1,5 @@
+preaching(0.195)
+baptizing(0.169)
+adult+female+speaking(0.051)
+laughing(0.048)
+building(0.045)

@@ -1,0 +1,5 @@
+driving(0.142)
+riding(0.045)
+crashing(0.032)
+steering(0.029)
+fighting(0.026)

@@ -1,0 +1,5 @@
+sitting(0.393)
+officiating(0.036)
+praying(0.035)
+interviewing(0.034)
+discussing(0.029)

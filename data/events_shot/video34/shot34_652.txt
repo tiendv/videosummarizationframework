@@ -1,0 +1,5 @@
+autographing(0.065)
+arresting(0.063)
+attacking(0.055)
+fighting(0.042)
+filming(0.036)

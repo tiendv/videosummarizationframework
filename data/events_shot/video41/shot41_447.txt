@@ -1,0 +1,5 @@
+applauding(0.057)
+clapping(0.056)
+hugging(0.047)
+sprinting(0.044)
+pointing(0.039)

@@ -1,0 +1,5 @@
+calling(0.081)
+raining(0.063)
+telephoning(0.048)
+walking(0.042)
+adult+male+speaking(0.039)

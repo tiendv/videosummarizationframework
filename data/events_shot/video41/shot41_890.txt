@@ -1,0 +1,5 @@
+telephoning(0.157)
+adult+male+speaking(0.083)
+slapping(0.082)
+calling(0.061)
+laughing(0.042)

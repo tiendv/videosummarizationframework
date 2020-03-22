@@ -1,0 +1,5 @@
+adult+female+speaking(0.095)
+fencing(0.061)
+laughing(0.052)
+opening(0.048)
+eating(0.039)

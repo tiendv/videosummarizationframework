@@ -1,0 +1,5 @@
+talking(0.063)
+walking(0.049)
+filming(0.047)
+standing(0.043)
+arresting(0.042)

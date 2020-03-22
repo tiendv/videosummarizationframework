@@ -1,0 +1,5 @@
+adult+female+speaking(0.135)
+hugging(0.069)
+smiling(0.067)
+dining(0.055)
+sitting(0.030)

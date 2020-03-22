@@ -1,0 +1,5 @@
+telephoning(0.051)
+calling(0.051)
+filming(0.047)
+photographing(0.030)
+talking(0.023)

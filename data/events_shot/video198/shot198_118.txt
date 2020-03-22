@@ -1,0 +1,5 @@
+adult+female+speaking(0.160)
+drinking(0.088)
+discussing(0.050)
+adult+female+singing(0.035)
+talking(0.022)

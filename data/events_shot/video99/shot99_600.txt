@@ -1,0 +1,5 @@
+talking(0.114)
+discussing(0.093)
+sitting(0.085)
+adult+male+speaking(0.053)
+boating(0.047)

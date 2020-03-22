@@ -1,0 +1,5 @@
+walking(0.037)
+adult+male+singing(0.033)
+calling(0.030)
+hunting(0.025)
+sitting(0.025)

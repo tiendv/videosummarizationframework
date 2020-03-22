@@ -1,0 +1,5 @@
+cooking(0.165)
+baking(0.060)
+carving(0.054)
+crafting(0.046)
+adult+male+speaking(0.027)

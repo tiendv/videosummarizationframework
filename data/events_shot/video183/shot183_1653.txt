@@ -1,0 +1,5 @@
+sneezing(0.252)
+coughing(0.163)
+drinking(0.045)
+adult+male+speaking(0.045)
+sniffing(0.033)

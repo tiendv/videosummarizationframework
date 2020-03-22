@@ -1,0 +1,5 @@
+aiming(0.105)
+loading(0.054)
+stacking(0.036)
+running(0.030)
+adult+male+speaking(0.025)

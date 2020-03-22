@@ -1,0 +1,5 @@
+slapping(0.140)
+shaking(0.048)
+opening(0.047)
+imitating(0.044)
+standing(0.040)

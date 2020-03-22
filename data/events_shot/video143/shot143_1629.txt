@@ -1,0 +1,5 @@
+waking(0.163)
+fighting(0.102)
+sleeping(0.096)
+kissing(0.054)
+slapping(0.048)

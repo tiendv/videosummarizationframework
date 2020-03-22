@@ -1,0 +1,5 @@
+hammering(0.085)
+working(0.048)
+adult+male+speaking(0.043)
+bowing(0.042)
+eating(0.035)

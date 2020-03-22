@@ -1,0 +1,5 @@
+adult+female+speaking(0.068)
+asking(0.061)
+dining(0.051)
+giving(0.035)
+drinking(0.028)

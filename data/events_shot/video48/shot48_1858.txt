@@ -1,0 +1,5 @@
+stacking(0.092)
+building(0.083)
+loading(0.052)
+unloading(0.028)
+opening(0.023)

@@ -1,0 +1,5 @@
+running(0.165)
+slapping(0.045)
+walking(0.041)
+punching(0.033)
+asking(0.021)

@@ -1,0 +1,5 @@
+driving(0.268)
+riding(0.085)
+arresting(0.053)
+walking(0.027)
+adult+female+speaking(0.026)

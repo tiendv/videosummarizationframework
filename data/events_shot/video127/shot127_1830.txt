@@ -1,0 +1,5 @@
+eating(0.159)
+drinking(0.135)
+dining(0.055)
+praying(0.049)
+chewing(0.036)

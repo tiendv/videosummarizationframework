@@ -1,0 +1,5 @@
+wrestling(0.277)
+shooting(0.086)
+turning(0.029)
+fighting(0.024)
+tattooing(0.024)

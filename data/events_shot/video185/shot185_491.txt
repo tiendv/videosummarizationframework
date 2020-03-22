@@ -1,0 +1,5 @@
+bowing(0.035)
+laughing(0.032)
+cracking(0.025)
+slapping(0.021)
+punching(0.017)

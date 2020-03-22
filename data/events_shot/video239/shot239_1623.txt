@@ -1,0 +1,5 @@
+roaring(0.081)
+standing(0.064)
+adult+male+speaking(0.040)
+stomping(0.040)
+fighting(0.027)

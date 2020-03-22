@@ -1,0 +1,5 @@
+adult+female+speaking(0.045)
+raining(0.041)
+fighting(0.038)
+adult+female+singing(0.034)
+walking(0.032)

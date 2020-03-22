@@ -1,0 +1,5 @@
+stacking(0.994)
+flipping(0.001)
+crafting(0.000)
+balancing(0.000)
+drinking(0.000)

@@ -1,0 +1,5 @@
+eating(0.130)
+dining(0.095)
+smelling(0.081)
+stirring(0.080)
+cooking(0.072)

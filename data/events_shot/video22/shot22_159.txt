@@ -1,0 +1,5 @@
+adult+male+speaking(0.151)
+asking(0.100)
+adult+female+speaking(0.063)
+slapping(0.045)
+drinking(0.033)

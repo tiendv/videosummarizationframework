@@ -1,0 +1,5 @@
+hugging(0.182)
+smiling(0.174)
+winking(0.045)
+slapping(0.032)
+filming(0.032)

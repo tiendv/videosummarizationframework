@@ -1,0 +1,5 @@
+cooking(0.110)
+drinking(0.031)
+putting(0.029)
+baking(0.026)
+playing+videogames(0.020)

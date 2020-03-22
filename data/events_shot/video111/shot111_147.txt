@@ -1,0 +1,5 @@
+filming(0.111)
+photographing(0.041)
+standing(0.023)
+walking(0.022)
+protesting(0.019)

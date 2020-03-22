@@ -1,0 +1,5 @@
+adult+male+speaking(0.169)
+aiming(0.063)
+adult+male+singing(0.058)
+hunting(0.055)
+gripping(0.052)

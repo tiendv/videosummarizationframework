@@ -1,0 +1,5 @@
+sneezing(0.055)
+tattooing(0.050)
+walking(0.042)
+slapping(0.036)
+drinking(0.023)

@@ -1,0 +1,5 @@
+slapping(0.053)
+running(0.051)
+adult+male+speaking(0.037)
+fighting(0.037)
+punching(0.035)

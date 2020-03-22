@@ -1,0 +1,5 @@
+sneezing(0.081)
+walking(0.059)
+coughing(0.058)
+imitating(0.025)
+standing(0.023)

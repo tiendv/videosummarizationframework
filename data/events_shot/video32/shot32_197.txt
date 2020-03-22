@@ -1,0 +1,5 @@
+hugging(0.137)
+boxing(0.123)
+fighting(0.098)
+punching(0.075)
+coaching(0.050)

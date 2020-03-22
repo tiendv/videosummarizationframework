@@ -1,0 +1,5 @@
+sneezing(0.239)
+adult+male+singing(0.108)
+coughing(0.095)
+adult+male+speaking(0.045)
+cracking(0.041)

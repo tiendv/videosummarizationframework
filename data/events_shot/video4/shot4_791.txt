@@ -1,0 +1,5 @@
+filming(0.098)
+walking(0.055)
+asking(0.045)
+photographing(0.038)
+playing+videogames(0.034)

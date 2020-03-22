@@ -1,0 +1,5 @@
+driving(0.199)
+towing(0.155)
+riding(0.136)
+steering(0.092)
+bicycling(0.050)

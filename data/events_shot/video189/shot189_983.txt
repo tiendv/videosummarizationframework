@@ -1,0 +1,5 @@
+adult+male+speaking(0.138)
+asking(0.044)
+punching(0.042)
+fencing(0.030)
+discussing(0.024)

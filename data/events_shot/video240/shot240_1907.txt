@@ -1,0 +1,5 @@
+adult+male+speaking(0.045)
+walking(0.037)
+driving(0.028)
+talking(0.024)
+stealing(0.021)

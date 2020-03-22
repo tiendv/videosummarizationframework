@@ -1,0 +1,5 @@
+selling(0.044)
+adult+male+speaking(0.042)
+standing(0.028)
+asking(0.027)
+queuing(0.026)

@@ -1,0 +1,5 @@
+hugging(0.105)
+celebrating(0.085)
+jumping(0.080)
+cheerleading(0.050)
+cheering(0.024)

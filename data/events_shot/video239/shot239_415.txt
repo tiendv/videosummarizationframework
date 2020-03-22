@@ -1,0 +1,5 @@
+burning(0.055)
+walking(0.041)
+adult+female+singing(0.038)
+filming(0.025)
+attacking(0.021)

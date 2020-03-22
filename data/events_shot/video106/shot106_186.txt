@@ -1,0 +1,5 @@
+raining(0.130)
+adult+female+singing(0.079)
+filming(0.038)
+adult+male+singing(0.034)
+adult+female+speaking(0.029)

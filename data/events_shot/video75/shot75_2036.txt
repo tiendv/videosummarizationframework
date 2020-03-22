@@ -1,0 +1,5 @@
+adult+female+speaking(0.072)
+asking(0.054)
+adult+male+speaking(0.043)
+standing(0.036)
+stealing(0.032)

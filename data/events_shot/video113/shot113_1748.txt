@@ -1,0 +1,5 @@
+guarding(0.207)
+standing(0.086)
+dining(0.071)
+talking(0.037)
+laughing(0.028)

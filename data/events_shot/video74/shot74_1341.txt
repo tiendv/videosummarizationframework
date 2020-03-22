@@ -1,0 +1,5 @@
+raining(0.086)
+crying(0.077)
+talking(0.035)
+walking(0.032)
+filming(0.025)

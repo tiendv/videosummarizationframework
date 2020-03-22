@@ -1,0 +1,5 @@
+calling(0.050)
+cracking(0.035)
+telephoning(0.033)
+breaking(0.033)
+fighting(0.027)

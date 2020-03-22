@@ -1,0 +1,5 @@
+walking(0.052)
+running(0.043)
+boating(0.040)
+arresting(0.030)
+standing(0.023)

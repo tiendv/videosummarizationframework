@@ -1,0 +1,5 @@
+kissing(0.250)
+hugging(0.068)
+drinking(0.052)
+calling(0.048)
+telephoning(0.040)

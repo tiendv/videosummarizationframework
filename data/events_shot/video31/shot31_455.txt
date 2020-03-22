@@ -1,0 +1,5 @@
+adult+female+singing(0.241)
+adult+female+speaking(0.029)
+knocking(0.029)
+roaring(0.022)
+starting(0.019)

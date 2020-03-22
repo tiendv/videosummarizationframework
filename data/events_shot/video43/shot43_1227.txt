@@ -1,0 +1,5 @@
+smiling(0.121)
+tattooing(0.118)
+adult+female+speaking(0.090)
+hugging(0.061)
+grinning(0.036)

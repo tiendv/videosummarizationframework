@@ -1,0 +1,5 @@
+asking(0.041)
+walking(0.039)
+queuing(0.036)
+standing(0.034)
+arresting(0.031)

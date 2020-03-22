@@ -1,0 +1,5 @@
+bowing(0.084)
+adult+male+speaking(0.082)
+talking(0.063)
+standing(0.059)
+walking(0.034)

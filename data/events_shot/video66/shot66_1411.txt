@@ -1,0 +1,5 @@
+running(0.157)
+loading(0.043)
+walking(0.039)
+chasing(0.030)
+carrying(0.029)

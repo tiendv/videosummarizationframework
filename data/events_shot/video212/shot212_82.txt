@@ -1,0 +1,5 @@
+reading(0.180)
+child+speaking(0.114)
+teaching(0.087)
+autographing(0.046)
+adult+female+speaking(0.045)

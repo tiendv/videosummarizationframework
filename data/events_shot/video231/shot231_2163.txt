@@ -1,0 +1,5 @@
+hugging(0.154)
+asking(0.108)
+adult+male+speaking(0.041)
+preaching(0.041)
+queuing(0.028)

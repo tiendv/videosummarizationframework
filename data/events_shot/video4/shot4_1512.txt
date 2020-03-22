@@ -1,0 +1,5 @@
+queuing(0.095)
+hugging(0.044)
+walking(0.028)
+filming(0.026)
+slapping(0.025)

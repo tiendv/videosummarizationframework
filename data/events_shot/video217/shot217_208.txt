@@ -1,0 +1,5 @@
+drinking(0.185)
+smiling(0.060)
+laughing(0.038)
+grinning(0.031)
+filming(0.027)

@@ -1,0 +1,5 @@
+walking(0.071)
+leaning(0.068)
+playing+videogames(0.053)
+hanging(0.051)
+drawing(0.046)

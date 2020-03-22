@@ -1,0 +1,5 @@
+building(0.221)
+hanging(0.071)
+leaning(0.057)
+constructing(0.044)
+spinning(0.040)

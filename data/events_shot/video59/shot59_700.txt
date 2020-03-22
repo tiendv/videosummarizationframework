@@ -1,0 +1,5 @@
+drinking(0.078)
+standing(0.044)
+laughing(0.039)
+smelling(0.020)
+talking(0.017)

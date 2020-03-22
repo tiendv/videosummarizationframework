@@ -1,0 +1,5 @@
+adult+female+speaking(0.123)
+tattooing(0.052)
+sleeping(0.045)
+cuddling(0.043)
+reading(0.036)

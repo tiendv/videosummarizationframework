@@ -1,0 +1,5 @@
+interviewing(0.124)
+discussing(0.089)
+talking(0.084)
+adult+male+speaking(0.078)
+camping(0.049)

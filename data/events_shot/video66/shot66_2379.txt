@@ -1,0 +1,5 @@
+marrying(0.061)
+applauding(0.038)
+standing(0.033)
+walking(0.028)
+queuing(0.024)

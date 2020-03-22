@@ -1,0 +1,5 @@
+laughing(0.164)
+sneezing(0.124)
+coughing(0.057)
+dusting(0.055)
+knocking(0.034)

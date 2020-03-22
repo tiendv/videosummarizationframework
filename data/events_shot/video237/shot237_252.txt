@@ -1,0 +1,5 @@
+adult+female+singing(0.155)
+playing+videogames(0.124)
+adult+female+speaking(0.070)
+drinking(0.059)
+hugging(0.044)

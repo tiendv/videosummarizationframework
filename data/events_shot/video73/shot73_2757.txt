@@ -1,0 +1,5 @@
+carving(0.369)
+leaning(0.101)
+hanging(0.060)
+building(0.030)
+tattooing(0.027)

@@ -1,0 +1,5 @@
+snowing(0.270)
+skiing(0.031)
+hiking(0.024)
+standing(0.021)
+hugging(0.017)

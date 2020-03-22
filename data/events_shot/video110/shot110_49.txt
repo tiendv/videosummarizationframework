@@ -1,0 +1,5 @@
+adult+male+speaking(0.091)
+blocking(0.043)
+aiming(0.032)
+fighting(0.028)
+filming(0.027)

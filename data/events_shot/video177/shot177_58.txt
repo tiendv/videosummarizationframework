@@ -1,0 +1,5 @@
+walking(0.050)
+adult+female+singing(0.039)
+child+singing(0.038)
+asking(0.038)
+sneezing(0.038)

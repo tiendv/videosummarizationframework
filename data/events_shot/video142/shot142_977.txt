@@ -1,0 +1,5 @@
+talking(0.067)
+adult+male+speaking(0.045)
+starting(0.033)
+whistling(0.032)
+coughing(0.032)

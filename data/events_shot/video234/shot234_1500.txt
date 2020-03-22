@@ -1,0 +1,5 @@
+unloading(0.062)
+loading(0.055)
+packaging(0.048)
+stacking(0.037)
+exiting(0.032)

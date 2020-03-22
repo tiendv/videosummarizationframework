@@ -1,0 +1,5 @@
+waking(0.583)
+cuddling(0.154)
+kissing(0.069)
+tickling(0.044)
+sleeping(0.034)

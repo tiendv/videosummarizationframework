@@ -1,0 +1,5 @@
+adult+male+speaking(0.053)
+standing(0.049)
+playing+videogames(0.047)
+sniffing(0.024)
+giving(0.022)

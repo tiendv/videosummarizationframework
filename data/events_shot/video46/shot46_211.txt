@@ -1,0 +1,5 @@
+flooding(0.705)
+raining(0.143)
+shopping(0.014)
+storming(0.014)
+drenching(0.009)

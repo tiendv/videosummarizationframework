@@ -1,0 +1,6 @@
+cooking(0.125)
+adult+male+speaking(0.068)
+coughing(0.043)
+talking(0.032)
+telephoning(0.029)
+ng(0.034)

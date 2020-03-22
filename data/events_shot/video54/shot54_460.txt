@@ -1,0 +1,5 @@
+hanging(0.230)
+swinging(0.227)
+spinning(0.031)
+gripping(0.015)
+turning(0.012)

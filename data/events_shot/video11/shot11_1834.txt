@@ -1,0 +1,5 @@
+adult+male+speaking(0.142)
+dining(0.037)
+sitting(0.032)
+cracking(0.032)
+slapping(0.028)

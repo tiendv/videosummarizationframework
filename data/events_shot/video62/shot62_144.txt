@@ -1,0 +1,5 @@
+dining(0.193)
+eating(0.104)
+cooking(0.058)
+serving(0.043)
+fighting(0.034)

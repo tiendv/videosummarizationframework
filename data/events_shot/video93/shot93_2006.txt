@@ -1,0 +1,5 @@
+flicking(0.045)
+throwing(0.028)
+standing(0.023)
+pointing(0.016)
+running(0.015)

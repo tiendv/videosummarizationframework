@@ -1,0 +1,5 @@
+adult+male+speaking(0.105)
+sneezing(0.093)
+talking(0.065)
+coughing(0.062)
+standing(0.056)

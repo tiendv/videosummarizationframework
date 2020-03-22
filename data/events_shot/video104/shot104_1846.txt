@@ -1,0 +1,5 @@
+queuing(0.248)
+standing(0.039)
+asking(0.039)
+slapping(0.036)
+guarding(0.031)

@@ -1,0 +1,5 @@
+running(0.172)
+jogging(0.158)
+asking(0.119)
+kissing(0.042)
+hugging(0.028)

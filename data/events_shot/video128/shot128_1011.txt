@@ -1,0 +1,5 @@
+adult+female+singing(0.045)
+adult+female+speaking(0.036)
+packing(0.034)
+sneezing(0.033)
+slapping(0.028)

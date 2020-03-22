@@ -1,0 +1,5 @@
+dining(0.575)
+eating(0.304)
+blowing(0.017)
+chewing(0.013)
+drinking(0.011)

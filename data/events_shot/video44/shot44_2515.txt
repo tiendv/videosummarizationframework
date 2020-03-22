@@ -1,0 +1,5 @@
+removing(0.085)
+placing(0.044)
+unpacking(0.042)
+packing(0.041)
+working(0.040)

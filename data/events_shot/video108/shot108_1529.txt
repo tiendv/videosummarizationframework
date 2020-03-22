@@ -1,0 +1,5 @@
+sitting(0.078)
+discussing(0.064)
+adult+male+speaking(0.048)
+signing(0.044)
+writing(0.039)

@@ -1,0 +1,5 @@
+adult+male+singing(0.153)
+adult+female+singing(0.087)
+stomping(0.067)
+standing(0.052)
+rocking(0.037)

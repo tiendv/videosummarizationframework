@@ -1,0 +1,5 @@
+stacking(0.826)
+drinking(0.006)
+hugging(0.005)
+coughing(0.004)
+adult+male+speaking(0.003)

@@ -1,0 +1,5 @@
+lecturing(0.166)
+signing(0.065)
+writing(0.045)
+filming(0.026)
+sitting(0.021)

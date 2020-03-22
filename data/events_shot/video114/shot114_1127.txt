@@ -1,0 +1,5 @@
+sitting(0.061)
+licking(0.059)
+adult+male+speaking(0.053)
+laughing(0.039)
+cuddling(0.038)

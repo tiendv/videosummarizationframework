@@ -1,0 +1,5 @@
+shaving(0.567)
+adult+male+singing(0.024)
+sneezing(0.020)
+drinking(0.018)
+slapping(0.016)

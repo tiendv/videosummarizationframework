@@ -1,0 +1,5 @@
+spinning(0.435)
+walking(0.111)
+turning(0.107)
+slapping(0.034)
+standing(0.013)

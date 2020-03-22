@@ -1,0 +1,5 @@
+hugging(0.088)
+selling(0.066)
+adult+male+speaking(0.042)
+dressing(0.038)
+adult+female+speaking(0.037)

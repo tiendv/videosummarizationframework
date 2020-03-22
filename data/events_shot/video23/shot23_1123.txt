@@ -1,0 +1,5 @@
+laughing(0.234)
+talking(0.038)
+hugging(0.037)
+standing(0.033)
+preaching(0.032)

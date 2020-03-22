@@ -1,0 +1,5 @@
+boxing(0.063)
+punching(0.058)
+playing+videogames(0.051)
+slapping(0.035)
+sneezing(0.028)

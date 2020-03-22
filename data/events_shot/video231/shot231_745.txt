@@ -1,0 +1,5 @@
+handcuffing(0.177)
+arresting(0.119)
+cracking(0.028)
+stealing(0.017)
+attacking(0.016)

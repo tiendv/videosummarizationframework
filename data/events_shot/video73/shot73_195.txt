@@ -1,0 +1,5 @@
+baking(0.427)
+cooking(0.167)
+stirring(0.049)
+blowing(0.041)
+sprinkling(0.033)

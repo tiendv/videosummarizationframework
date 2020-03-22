@@ -1,0 +1,5 @@
+walking(0.058)
+asking(0.056)
+filming(0.054)
+hitchhiking(0.047)
+adult+male+speaking(0.038)

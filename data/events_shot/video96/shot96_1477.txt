@@ -1,0 +1,5 @@
+spinning(0.171)
+turning(0.082)
+building(0.035)
+drying(0.031)
+talking(0.026)

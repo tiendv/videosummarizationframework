@@ -1,0 +1,5 @@
+gripping(0.086)
+handcuffing(0.061)
+adult+female+singing(0.030)
+arresting(0.030)
+standing(0.026)

@@ -1,0 +1,5 @@
+kissing(0.072)
+hugging(0.054)
+bathing(0.047)
+adult+male+speaking(0.028)
+rinsing(0.025)

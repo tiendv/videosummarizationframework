@@ -1,0 +1,5 @@
+hunting(0.161)
+walking(0.072)
+guarding(0.059)
+standing(0.043)
+shooting(0.038)

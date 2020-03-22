@@ -1,0 +1,5 @@
+adult+male+singing(0.038)
+standing(0.036)
+arresting(0.029)
+talking(0.021)
+filming(0.017)

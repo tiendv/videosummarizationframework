@@ -1,0 +1,5 @@
+standing(0.101)
+walking(0.098)
+talking(0.049)
+snowing(0.034)
+arresting(0.027)

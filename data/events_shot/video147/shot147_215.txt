@@ -1,0 +1,5 @@
+filming(0.081)
+talking(0.050)
+starting(0.029)
+hanging(0.029)
+shrugging(0.028)

@@ -1,0 +1,5 @@
+kissing(0.201)
+eating(0.058)
+coughing(0.049)
+sneezing(0.047)
+licking(0.040)

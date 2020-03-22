@@ -1,0 +1,5 @@
+protesting(0.107)
+standing(0.075)
+guarding(0.036)
+adult+male+speaking(0.031)
+arresting(0.029)

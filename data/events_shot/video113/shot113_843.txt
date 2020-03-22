@@ -1,0 +1,5 @@
+adult+female+speaking(0.115)
+discussing(0.040)
+standing(0.039)
+shopping(0.033)
+fighting(0.032)

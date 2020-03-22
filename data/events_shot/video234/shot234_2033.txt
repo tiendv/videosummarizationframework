@@ -1,0 +1,5 @@
+preaching(0.045)
+hugging(0.045)
+baptizing(0.037)
+stomping(0.036)
+adult+male+speaking(0.034)

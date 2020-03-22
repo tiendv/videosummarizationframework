@@ -1,0 +1,5 @@
+laughing(0.045)
+hiking(0.034)
+running(0.028)
+adult+male+speaking(0.027)
+stealing(0.025)

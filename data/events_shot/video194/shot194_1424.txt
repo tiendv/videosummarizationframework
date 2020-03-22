@@ -1,0 +1,5 @@
+stirring(0.052)
+adult+female+speaking(0.036)
+cooking(0.033)
+brushing(0.029)
+standing(0.024)

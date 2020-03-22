@@ -1,0 +1,5 @@
+loading(0.048)
+reading(0.046)
+adult+male+speaking(0.046)
+operating(0.040)
+working(0.034)

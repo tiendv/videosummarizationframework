@@ -1,0 +1,5 @@
+smoking(0.234)
+sneezing(0.088)
+coughing(0.079)
+drinking(0.059)
+adult+male+singing(0.044)

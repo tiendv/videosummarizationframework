@@ -1,0 +1,5 @@
+cooking(0.097)
+dining(0.043)
+shopping(0.036)
+packaging(0.030)
+unpacking(0.023)

@@ -1,0 +1,5 @@
+hanging(0.074)
+fencing(0.051)
+standing(0.044)
+spinning(0.028)
+exercising(0.018)

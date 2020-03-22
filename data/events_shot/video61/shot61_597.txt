@@ -1,0 +1,5 @@
+standing(0.041)
+slapping(0.036)
+coughing(0.025)
+cracking(0.023)
+adult+male+singing(0.023)

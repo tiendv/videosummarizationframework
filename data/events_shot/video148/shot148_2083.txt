@@ -1,0 +1,5 @@
+preaching(0.406)
+painting(0.088)
+adult+male+speaking(0.027)
+stealing(0.027)
+standing(0.023)

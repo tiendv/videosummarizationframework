@@ -1,0 +1,5 @@
+adult+male+speaking(0.065)
+asking(0.040)
+standing(0.038)
+pointing(0.028)
+juggling(0.027)

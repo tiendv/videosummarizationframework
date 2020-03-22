@@ -1,0 +1,5 @@
+hiking(0.667)
+walking(0.039)
+running(0.031)
+sitting(0.012)
+stealing(0.010)

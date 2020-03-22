@@ -1,0 +1,5 @@
+drinking(0.373)
+eating(0.103)
+dining(0.032)
+sneezing(0.030)
+playing+videogames(0.017)

@@ -1,0 +1,5 @@
+folding(0.077)
+tying(0.056)
+painting(0.053)
+dressing(0.044)
+adult+male+speaking(0.034)

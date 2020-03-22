@@ -1,0 +1,5 @@
+hiking(0.105)
+skiing(0.049)
+climbing(0.048)
+playing+videogames(0.044)
+running(0.044)

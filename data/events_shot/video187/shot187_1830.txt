@@ -1,0 +1,5 @@
+fishing(0.647)
+boating(0.123)
+sailing(0.055)
+rowing(0.033)
+catching(0.019)

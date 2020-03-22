@@ -1,0 +1,5 @@
+hunting(0.097)
+roaring(0.090)
+standing(0.047)
+adult+male+singing(0.034)
+walking(0.027)

@@ -1,0 +1,5 @@
+jumping(0.092)
+leaping(0.061)
+roaring(0.043)
+running(0.039)
+adult+female+singing(0.023)

@@ -1,0 +1,5 @@
+fighting(0.060)
+walking(0.048)
+adult+male+singing(0.040)
+playing+videogames(0.039)
+mowing(0.039)

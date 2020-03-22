@@ -1,0 +1,5 @@
+smoking(0.056)
+painting(0.051)
+stacking(0.037)
+brushing(0.031)
+vacuuming(0.026)

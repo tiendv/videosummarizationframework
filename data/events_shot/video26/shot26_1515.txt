@@ -1,0 +1,5 @@
+waving(0.060)
+building(0.050)
+walking(0.045)
+crying(0.032)
+filming(0.023)

@@ -1,0 +1,5 @@
+adult+female+singing(0.106)
+hugging(0.064)
+slapping(0.032)
+kissing(0.025)
+filming(0.022)

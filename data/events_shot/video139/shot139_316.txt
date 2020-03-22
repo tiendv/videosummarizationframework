@@ -1,0 +1,5 @@
+filming(0.056)
+adult+male+singing(0.051)
+adult+female+singing(0.050)
+adult+male+speaking(0.030)
+clipping(0.029)

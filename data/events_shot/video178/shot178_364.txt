@@ -1,0 +1,5 @@
+exiting(0.126)
+entering(0.064)
+boarding(0.064)
+walking(0.021)
+queuing(0.021)

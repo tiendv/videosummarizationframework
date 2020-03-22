@@ -1,0 +1,5 @@
+sneezing(0.091)
+coughing(0.078)
+eating(0.043)
+sitting(0.038)
+dining(0.035)

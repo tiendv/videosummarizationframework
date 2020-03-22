@@ -1,0 +1,5 @@
+protesting(0.030)
+standing(0.026)
+marching(0.021)
+adult+female+singing(0.020)
+fighting(0.017)

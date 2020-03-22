@@ -1,0 +1,5 @@
+praying(0.143)
+sitting(0.062)
+discussing(0.048)
+bowing(0.045)
+queuing(0.035)

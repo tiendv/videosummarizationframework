@@ -1,0 +1,5 @@
+aiming(0.104)
+shooting(0.090)
+driving(0.050)
+pointing(0.033)
+arresting(0.031)

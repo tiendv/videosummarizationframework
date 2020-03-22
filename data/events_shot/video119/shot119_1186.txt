@@ -1,0 +1,5 @@
+cracking(0.053)
+adult+male+speaking(0.046)
+smiling(0.039)
+talking(0.036)
+starting(0.025)

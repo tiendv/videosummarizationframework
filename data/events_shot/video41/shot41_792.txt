@@ -1,0 +1,5 @@
+hugging(0.045)
+bowling(0.044)
+drinking(0.042)
+smiling(0.028)
+adult+female+speaking(0.025)

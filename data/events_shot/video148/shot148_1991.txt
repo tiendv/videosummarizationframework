@@ -1,0 +1,5 @@
+adult+female+speaking(0.138)
+interviewing(0.077)
+asking(0.053)
+telephoning(0.050)
+walking(0.041)

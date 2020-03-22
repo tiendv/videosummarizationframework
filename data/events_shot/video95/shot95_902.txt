@@ -1,0 +1,5 @@
+driving(0.537)
+steering(0.124)
+riding(0.072)
+piloting(0.013)
+drinking(0.011)

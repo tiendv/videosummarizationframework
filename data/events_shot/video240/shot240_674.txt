@@ -1,0 +1,5 @@
+adult+female+speaking(0.044)
+sitting(0.037)
+adult+male+speaking(0.034)
+telephoning(0.033)
+sneezing(0.032)

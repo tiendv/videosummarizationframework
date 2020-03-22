@@ -1,0 +1,5 @@
+protesting(0.338)
+arresting(0.210)
+queuing(0.102)
+walking(0.066)
+hugging(0.017)

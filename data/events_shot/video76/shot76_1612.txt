@@ -1,0 +1,5 @@
+walking(0.080)
+bicycling(0.075)
+riding(0.062)
+driving(0.060)
+running(0.044)

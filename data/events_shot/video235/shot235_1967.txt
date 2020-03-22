@@ -1,0 +1,5 @@
+adult+female+speaking(0.067)
+discussing(0.062)
+barking(0.051)
+asking(0.047)
+adult+male+speaking(0.045)

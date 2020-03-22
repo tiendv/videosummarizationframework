@@ -1,0 +1,5 @@
+fighting(0.189)
+attacking(0.049)
+slapping(0.031)
+punching(0.029)
+filming(0.028)

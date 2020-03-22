@@ -1,0 +1,5 @@
+fighting(0.083)
+drinking(0.060)
+hugging(0.039)
+adult+male+speaking(0.032)
+celebrating(0.032)

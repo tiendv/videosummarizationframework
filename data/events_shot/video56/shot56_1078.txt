@@ -1,0 +1,5 @@
+talking(0.116)
+hugging(0.103)
+discussing(0.075)
+arresting(0.056)
+standing(0.044)

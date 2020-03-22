@@ -1,0 +1,5 @@
+throwing(0.716)
+flicking(0.062)
+flipping(0.018)
+shooting(0.013)
+hitting(0.010)

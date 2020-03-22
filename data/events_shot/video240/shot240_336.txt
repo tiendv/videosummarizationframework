@@ -1,0 +1,5 @@
+opening(0.057)
+closing(0.039)
+locking(0.035)
+pressing(0.031)
+drawing(0.022)

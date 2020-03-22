@@ -1,0 +1,5 @@
+hanging(0.358)
+swinging(0.053)
+climbing(0.046)
+guarding(0.038)
+standing(0.026)

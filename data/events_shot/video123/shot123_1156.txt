@@ -1,0 +1,5 @@
+queuing(0.100)
+walking(0.067)
+adult+male+speaking(0.061)
+running(0.049)
+working(0.030)

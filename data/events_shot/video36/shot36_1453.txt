@@ -1,0 +1,5 @@
+discussing(0.057)
+shrugging(0.053)
+interviewing(0.045)
+smelling(0.025)
+adult+male+speaking(0.024)

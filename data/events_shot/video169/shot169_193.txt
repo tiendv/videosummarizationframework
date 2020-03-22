@@ -1,0 +1,5 @@
+clipping(0.091)
+adult+male+speaking(0.036)
+adult+female+singing(0.031)
+adult+male+singing(0.028)
+talking(0.028)

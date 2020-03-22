@@ -1,0 +1,5 @@
+fighting(0.184)
+burning(0.135)
+attacking(0.111)
+slapping(0.034)
+roaring(0.023)

@@ -1,0 +1,5 @@
+adult+male+singing(0.206)
+rocking(0.070)
+performing(0.064)
+preaching(0.055)
+smoking(0.045)

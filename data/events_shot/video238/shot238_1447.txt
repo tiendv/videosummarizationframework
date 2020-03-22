@@ -1,0 +1,5 @@
+slapping(0.042)
+calling(0.026)
+throwing(0.025)
+walking(0.025)
+punching(0.023)

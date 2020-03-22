@@ -1,0 +1,5 @@
+eating(0.201)
+sneezing(0.069)
+dining(0.062)
+discussing(0.045)
+autographing(0.036)

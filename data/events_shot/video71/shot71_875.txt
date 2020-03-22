@@ -1,0 +1,5 @@
+sneezing(0.041)
+bowing(0.039)
+adult+male+speaking(0.032)
+slapping(0.032)
+handcuffing(0.027)

@@ -1,0 +1,5 @@
+squatting(0.352)
+sitting(0.167)
+kneeling(0.064)
+crouching(0.049)
+stretching(0.021)

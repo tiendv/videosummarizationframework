@@ -1,0 +1,5 @@
+child+singing(0.105)
+walking(0.085)
+child+speaking(0.063)
+standing(0.058)
+queuing(0.053)

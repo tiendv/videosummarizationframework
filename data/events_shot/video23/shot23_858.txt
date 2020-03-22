@@ -1,0 +1,5 @@
+walking(0.030)
+standing(0.028)
+talking(0.028)
+adult+female+speaking(0.024)
+dusting(0.023)

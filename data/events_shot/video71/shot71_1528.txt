@@ -1,0 +1,5 @@
+adult+male+singing(0.050)
+sitting(0.040)
+adult+male+speaking(0.038)
+clapping(0.019)
+standing(0.019)

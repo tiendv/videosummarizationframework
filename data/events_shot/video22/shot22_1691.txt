@@ -1,0 +1,5 @@
+flipping(0.172)
+cooking(0.083)
+cleaning(0.072)
+flicking(0.050)
+baking(0.046)

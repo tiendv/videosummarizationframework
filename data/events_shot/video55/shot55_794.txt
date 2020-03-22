@@ -1,0 +1,5 @@
+adult+female+speaking(0.069)
+playing+videogames(0.064)
+standing(0.032)
+asking(0.029)
+walking(0.022)

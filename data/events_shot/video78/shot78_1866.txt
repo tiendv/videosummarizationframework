@@ -1,0 +1,5 @@
+walking(0.067)
+hiking(0.067)
+hunting(0.046)
+filming(0.029)
+bicycling(0.028)

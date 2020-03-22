@@ -1,0 +1,5 @@
+barking(0.772)
+howling(0.096)
+guarding(0.012)
+hugging(0.005)
+walking(0.005)

@@ -1,0 +1,5 @@
+hunting(0.109)
+guarding(0.049)
+fighting(0.040)
+attacking(0.038)
+adult+male+speaking(0.037)

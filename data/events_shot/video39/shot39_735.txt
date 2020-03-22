@@ -1,0 +1,5 @@
+asking(0.149)
+adult+male+speaking(0.069)
+adult+female+speaking(0.057)
+hugging(0.039)
+preaching(0.031)

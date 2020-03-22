@@ -1,0 +1,5 @@
+reading(0.133)
+adult+female+speaking(0.061)
+teaching(0.049)
+discussing(0.046)
+painting(0.042)

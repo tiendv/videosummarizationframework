@@ -1,0 +1,5 @@
+standing(0.060)
+walking(0.050)
+adult+male+speaking(0.042)
+stealing(0.032)
+sitting(0.026)

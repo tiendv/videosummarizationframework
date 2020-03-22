@@ -1,0 +1,5 @@
+drinking(0.163)
+telephoning(0.102)
+calling(0.072)
+filming(0.030)
+smoking(0.024)

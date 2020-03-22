@@ -1,0 +1,5 @@
+mopping(0.026)
+cooking(0.026)
+adult+female+speaking(0.023)
+adult+male+speaking(0.023)
+baking(0.022)

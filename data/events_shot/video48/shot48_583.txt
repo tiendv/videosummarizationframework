@@ -1,0 +1,5 @@
+adult+female+speaking(0.173)
+fencing(0.078)
+laughing(0.067)
+sneezing(0.036)
+adult+male+speaking(0.034)

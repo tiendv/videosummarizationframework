@@ -1,0 +1,5 @@
+kissing(0.342)
+hugging(0.103)
+arresting(0.044)
+handcuffing(0.032)
+cuddling(0.022)

@@ -1,0 +1,5 @@
+hiking(0.072)
+walking(0.056)
+climbing(0.051)
+standing(0.051)
+stomping(0.046)

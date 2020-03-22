@@ -1,0 +1,5 @@
+building(0.113)
+running(0.077)
+talking(0.069)
+adult+male+speaking(0.039)
+sitting(0.029)

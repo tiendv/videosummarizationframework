@@ -1,0 +1,5 @@
+talking(0.085)
+adult+male+speaking(0.068)
+filming(0.055)
+adult+male+singing(0.041)
+sitting(0.038)

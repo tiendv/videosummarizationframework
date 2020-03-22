@@ -1,0 +1,5 @@
+drinking(0.152)
+telephoning(0.115)
+calling(0.088)
+filming(0.029)
+stealing(0.018)

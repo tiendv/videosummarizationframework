@@ -1,0 +1,5 @@
+tuning(0.122)
+driving(0.094)
+washing(0.029)
+buying(0.025)
+fueling(0.025)

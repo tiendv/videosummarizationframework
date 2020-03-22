@@ -1,0 +1,5 @@
+laughing(0.052)
+marrying(0.050)
+hugging(0.048)
+adult+male+singing(0.046)
+smiling(0.039)

@@ -1,0 +1,5 @@
+queuing(0.097)
+frowning(0.089)
+saluting(0.063)
+adult+male+speaking(0.050)
+arresting(0.039)

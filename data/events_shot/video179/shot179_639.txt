@@ -1,0 +1,5 @@
+queuing(0.054)
+adult+male+speaking(0.036)
+filming(0.032)
+hugging(0.031)
+smiling(0.023)

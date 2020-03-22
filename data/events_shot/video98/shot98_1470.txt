@@ -1,0 +1,5 @@
+kissing(0.154)
+marrying(0.096)
+hugging(0.069)
+slapping(0.060)
+fighting(0.051)

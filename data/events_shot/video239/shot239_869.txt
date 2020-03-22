@@ -1,0 +1,5 @@
+drying(0.028)
+adult+male+speaking(0.020)
+discussing(0.016)
+gardening(0.016)
+sniffing(0.015)

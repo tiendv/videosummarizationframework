@@ -1,0 +1,5 @@
+driving(0.131)
+hitchhiking(0.066)
+talking(0.058)
+arresting(0.036)
+steering(0.036)

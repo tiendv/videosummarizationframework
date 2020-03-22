@@ -1,0 +1,5 @@
+mopping(0.155)
+drawing(0.099)
+dusting(0.036)
+painting(0.031)
+sketching(0.028)

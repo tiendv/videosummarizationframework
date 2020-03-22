@@ -1,0 +1,5 @@
+climbing(0.138)
+walking(0.040)
+running(0.037)
+dressing(0.034)
+crafting(0.025)

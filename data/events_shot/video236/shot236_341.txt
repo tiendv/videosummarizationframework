@@ -1,0 +1,5 @@
+knocking(0.075)
+talking(0.058)
+slapping(0.037)
+sitting(0.031)
+clipping(0.029)

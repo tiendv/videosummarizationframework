@@ -1,0 +1,5 @@
+adult+male+speaking(0.181)
+talking(0.095)
+playing+videogames(0.062)
+discussing(0.053)
+praying(0.047)

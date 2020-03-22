@@ -1,0 +1,5 @@
+slapping(0.100)
+preaching(0.100)
+imitating(0.093)
+adult+male+speaking(0.027)
+laughing(0.026)

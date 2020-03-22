@@ -1,0 +1,5 @@
+adult+female+speaking(0.112)
+talking(0.099)
+adult+female+singing(0.078)
+sneezing(0.059)
+tattooing(0.055)

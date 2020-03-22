@@ -1,0 +1,5 @@
+bowing(0.039)
+hammering(0.029)
+crying(0.027)
+washing(0.026)
+bathing(0.026)

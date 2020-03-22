@@ -1,0 +1,5 @@
+telephoning(0.197)
+calling(0.138)
+coughing(0.040)
+fighting(0.026)
+sneezing(0.024)

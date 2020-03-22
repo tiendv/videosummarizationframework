@@ -1,0 +1,5 @@
+slapping(0.143)
+fencing(0.109)
+walking(0.065)
+asking(0.058)
+queuing(0.043)

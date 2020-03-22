@@ -1,0 +1,5 @@
+tattooing(0.098)
+hugging(0.053)
+queuing(0.046)
+walking(0.036)
+adult+female+speaking(0.028)

@@ -1,0 +1,5 @@
+blowing(0.313)
+sneezing(0.103)
+coughing(0.077)
+sniffing(0.031)
+smelling(0.027)

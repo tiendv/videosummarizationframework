@@ -1,0 +1,5 @@
+adult+female+singing(0.135)
+adult+male+singing(0.059)
+tattooing(0.040)
+roaring(0.037)
+adult+male+speaking(0.037)

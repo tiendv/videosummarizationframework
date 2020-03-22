@@ -1,0 +1,5 @@
+bowing(0.050)
+adult+male+speaking(0.041)
+kissing(0.037)
+handcuffing(0.028)
+laughing(0.025)

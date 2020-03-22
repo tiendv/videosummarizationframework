@@ -1,0 +1,5 @@
+walking(0.184)
+sneezing(0.108)
+coughing(0.045)
+slapping(0.033)
+exiting(0.032)

@@ -1,0 +1,5 @@
+painting(0.056)
+asking(0.048)
+slapping(0.040)
+laughing(0.036)
+pointing(0.030)

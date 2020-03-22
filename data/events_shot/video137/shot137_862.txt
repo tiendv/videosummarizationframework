@@ -1,0 +1,5 @@
+driving(0.123)
+adult+female+singing(0.058)
+attacking(0.050)
+riding(0.043)
+fighting(0.040)

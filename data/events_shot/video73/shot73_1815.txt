@@ -1,0 +1,5 @@
+fencing(0.178)
+adult+male+speaking(0.090)
+standing(0.054)
+sitting(0.043)
+playing+videogames(0.043)

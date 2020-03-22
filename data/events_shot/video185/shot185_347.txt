@@ -1,0 +1,5 @@
+sleeping(0.275)
+waking(0.119)
+resting(0.084)
+camping(0.028)
+adult+male+speaking(0.027)

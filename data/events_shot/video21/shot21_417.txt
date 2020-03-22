@@ -1,0 +1,5 @@
+spinning(0.205)
+fighting(0.093)
+running(0.076)
+turning(0.061)
+walking(0.041)

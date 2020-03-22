@@ -1,0 +1,5 @@
+baptizing(0.727)
+handcuffing(0.015)
+praying(0.011)
+adult+male+speaking(0.010)
+arresting(0.009)

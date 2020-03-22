@@ -1,0 +1,5 @@
+sneezing(0.459)
+coughing(0.095)
+slapping(0.040)
+adult+female+speaking(0.026)
+imitating(0.016)

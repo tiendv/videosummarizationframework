@@ -1,0 +1,5 @@
+discussing(0.150)
+adult+male+speaking(0.088)
+talking(0.063)
+frowning(0.044)
+squinting(0.035)

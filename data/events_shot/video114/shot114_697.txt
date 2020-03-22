@@ -1,0 +1,5 @@
+dining(0.143)
+eating(0.070)
+drinking(0.070)
+autographing(0.039)
+chewing(0.021)

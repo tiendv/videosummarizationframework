@@ -1,0 +1,5 @@
+child+singing(0.452)
+brushing(0.283)
+child+speaking(0.170)
+combing(0.013)
+adult+female+singing(0.009)

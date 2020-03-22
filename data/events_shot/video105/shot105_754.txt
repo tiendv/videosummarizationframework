@@ -1,0 +1,5 @@
+sitting(0.040)
+reading(0.037)
+working(0.034)
+painting(0.032)
+drawing(0.019)

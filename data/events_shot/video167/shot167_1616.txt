@@ -1,0 +1,5 @@
+aiming(0.050)
+adult+male+speaking(0.048)
+shooting(0.041)
+drinking(0.032)
+bowing(0.030)

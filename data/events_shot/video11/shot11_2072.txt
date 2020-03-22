@@ -1,0 +1,5 @@
+folding(0.030)
+cracking(0.027)
+starting(0.019)
+adult+male+speaking(0.016)
+flipping(0.016)

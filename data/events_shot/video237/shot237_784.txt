@@ -1,0 +1,5 @@
+adult+female+singing(0.098)
+adult+male+speaking(0.057)
+adult+male+singing(0.052)
+fencing(0.042)
+standing(0.037)

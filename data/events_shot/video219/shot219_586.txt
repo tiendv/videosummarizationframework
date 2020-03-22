@@ -1,0 +1,5 @@
+sitting(0.087)
+talking(0.069)
+adult+female+speaking(0.035)
+laughing(0.032)
+standing(0.032)

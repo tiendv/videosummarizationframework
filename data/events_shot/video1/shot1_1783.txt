@@ -1,0 +1,5 @@
+walking(0.086)
+camping(0.043)
+queuing(0.035)
+adult+female+speaking(0.031)
+standing(0.025)

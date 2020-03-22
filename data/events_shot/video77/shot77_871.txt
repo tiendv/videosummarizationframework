@@ -1,0 +1,5 @@
+sitting(0.128)
+talking(0.102)
+walking(0.058)
+sneezing(0.044)
+hugging(0.043)

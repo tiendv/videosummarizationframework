@@ -1,0 +1,5 @@
+adult+female+singing(0.347)
+adult+male+singing(0.194)
+standing(0.046)
+marrying(0.031)
+officiating(0.023)

@@ -1,0 +1,5 @@
+walking(0.175)
+running(0.102)
+playing+videogames(0.075)
+standing(0.054)
+adult+male+speaking(0.044)

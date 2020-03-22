@@ -1,0 +1,5 @@
+launching(0.099)
+hanging(0.077)
+jumping(0.047)
+adult+male+singing(0.045)
+flying(0.038)

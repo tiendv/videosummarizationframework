@@ -1,0 +1,5 @@
+studying(0.255)
+reading(0.106)
+discussing(0.094)
+cramming(0.065)
+writing(0.045)

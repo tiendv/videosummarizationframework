@@ -1,0 +1,5 @@
+chewing(0.070)
+smoking(0.059)
+eating(0.056)
+discussing(0.035)
+calling(0.032)

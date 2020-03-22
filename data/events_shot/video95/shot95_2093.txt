@@ -1,0 +1,5 @@
+knocking(0.228)
+slapping(0.090)
+arresting(0.083)
+handcuffing(0.061)
+locking(0.041)

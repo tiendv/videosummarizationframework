@@ -1,0 +1,5 @@
+attacking(0.193)
+destroying(0.139)
+burning(0.112)
+combusting(0.077)
+launching(0.039)

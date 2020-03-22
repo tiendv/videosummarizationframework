@@ -1,0 +1,5 @@
+hugging(0.062)
+dining(0.054)
+cuddling(0.047)
+talking(0.035)
+kissing(0.033)

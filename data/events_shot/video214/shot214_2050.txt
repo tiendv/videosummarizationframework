@@ -1,0 +1,5 @@
+sitting(0.043)
+boarding(0.038)
+working(0.031)
+driving(0.030)
+standing(0.028)

@@ -1,0 +1,5 @@
+chewing(0.122)
+adult+female+speaking(0.066)
+camping(0.045)
+slapping(0.033)
+adult+male+speaking(0.032)

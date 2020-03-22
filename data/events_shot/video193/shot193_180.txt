@@ -1,0 +1,5 @@
+giving(0.042)
+reading(0.042)
+hugging(0.032)
+cuddling(0.031)
+adult+female+speaking(0.029)

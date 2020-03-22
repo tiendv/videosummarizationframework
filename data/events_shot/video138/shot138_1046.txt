@@ -1,0 +1,5 @@
+calling(0.415)
+telephoning(0.379)
+crying(0.031)
+walking(0.010)
+coughing(0.007)

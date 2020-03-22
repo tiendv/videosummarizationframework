@@ -1,0 +1,5 @@
+hugging(0.180)
+kissing(0.158)
+sneezing(0.098)
+smelling(0.068)
+slapping(0.043)

@@ -1,0 +1,5 @@
+cooking(0.050)
+eating(0.042)
+talking(0.038)
+drinking(0.026)
+spitting(0.025)

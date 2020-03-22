@@ -1,0 +1,5 @@
+telephoning(0.073)
+adult+male+speaking(0.061)
+calling(0.052)
+paying(0.048)
+playing+videogames(0.027)

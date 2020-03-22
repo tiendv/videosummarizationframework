@@ -1,0 +1,5 @@
+dining(0.117)
+adult+male+speaking(0.053)
+playing+videogames(0.048)
+barbecuing(0.020)
+starting(0.019)

@@ -1,0 +1,5 @@
+adult+female+singing(0.213)
+turning(0.058)
+talking(0.043)
+adult+female+speaking(0.034)
+driving(0.030)

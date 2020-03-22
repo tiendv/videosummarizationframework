@@ -1,0 +1,5 @@
+adult+female+speaking(0.178)
+adult+female+singing(0.091)
+marrying(0.039)
+smiling(0.029)
+discussing(0.028)

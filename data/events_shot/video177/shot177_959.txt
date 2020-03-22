@@ -1,0 +1,5 @@
+slapping(0.174)
+fighting(0.039)
+driving(0.037)
+sneezing(0.033)
+adult+male+speaking(0.023)

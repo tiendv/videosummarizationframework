@@ -44,7 +44,7 @@ def calc_score(list_begin,list_ending):
     return list_score
 
 
-def main_baseline(path_video,path_saved_json_shot="./",path_saved_json_segment='./'):
+def main_baseline(path_video,path_saved_json_shot="./",path_saved_json_segment='./',id_shot="shot_gt",id_seg="seg_gt"):
     '''
         This function uses to summarize a video and export json files for visualization
         input: path_save - path of a input video_duration
@@ -54,7 +54,6 @@ def main_baseline(path_video,path_saved_json_shot="./",path_saved_json_segment='
     '''
     #shot detection
     name_video,list_begin, list_ending = split_shots(path_video)
-    print(len(list_begin))
 
     #cacl score
     list_name, list_begin_seg , list_end_seg , list_score_seg = create_segments_tvsum(cfg.PATH_GT_TVSUM50)
@@ -65,16 +64,22 @@ def main_baseline(path_video,path_saved_json_shot="./",path_saved_json_segment='
             break
     list_begin = list_begin_seg[k]
     list_ending = list_end_seg[k]
-    list_score = list_score_seg[k]
-    # list_score = calc_score(list_begin,list_ending)
+
+    list_score = list_score_seg[k] ##list score for GT
+
+    # list_score = calc_score(list_begin,list_ending) ##list score for BL
+
+    if os.path.isdir(os.path.join(path_saved_json_segment,name_video)):
+        print("Done shot and segment for video{}".format(name_video))
+        return
 
     #create json to visual shots
-    create_json4shots(path_saved_json_shot,name_video,list_begin,list_ending,list_score,"shot_gt")
+    create_json4shots(path_saved_json_shot,name_video,list_begin,list_ending,list_score, id_shot)
 
     #excuting knapsack to select the shots for summarize
     result = selection_shot_knapsack(list_begin,list_ending,list_score)
-
-    create_json_selection(name_video,list_begin,list_ending,result,path_saved_json_segment,"seg_gt")
+    create_json_selection(name_video,list_begin,list_ending,result,path_saved_json_segment,id_seg)
+    print("Done shot and segment for video{}".format(name_video))
 
 if __name__ == '__main__':
     #path_video = "src/visualization/static/TVSum50/ydata-tvsum50-v1_1/video/sTEELN-vY30.mp4"

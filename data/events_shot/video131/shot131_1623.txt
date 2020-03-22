@@ -1,0 +1,5 @@
+rising(0.191)
+shooting(0.069)
+attacking(0.064)
+ascending(0.050)
+aiming(0.047)

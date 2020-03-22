@@ -1,0 +1,5 @@
+roaring(0.248)
+hunting(0.124)
+burying(0.098)
+attacking(0.088)
+digging(0.055)

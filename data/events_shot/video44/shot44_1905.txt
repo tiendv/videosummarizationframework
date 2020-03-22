@@ -1,0 +1,5 @@
+carrying(0.152)
+calling(0.088)
+telephoning(0.076)
+walking(0.076)
+filming(0.042)

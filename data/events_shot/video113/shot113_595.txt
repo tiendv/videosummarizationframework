@@ -1,0 +1,5 @@
+sneezing(0.062)
+smoking(0.042)
+playing+videogames(0.042)
+coughing(0.037)
+chewing(0.028)

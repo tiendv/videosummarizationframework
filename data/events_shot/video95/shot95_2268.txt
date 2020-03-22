@@ -1,0 +1,5 @@
+shopping(0.433)
+buying(0.108)
+stealing(0.097)
+paying(0.029)
+picking(0.024)

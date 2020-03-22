@@ -1,0 +1,5 @@
+child+speaking(0.228)
+laughing(0.038)
+standing(0.033)
+brushing(0.022)
+sitting(0.022)

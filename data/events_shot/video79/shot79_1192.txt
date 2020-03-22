@@ -1,0 +1,5 @@
+drying(0.181)
+walking(0.080)
+shopping(0.030)
+hanging(0.029)
+standing(0.021)

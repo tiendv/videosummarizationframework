@@ -1,0 +1,5 @@
+aiming(0.112)
+stacking(0.039)
+running(0.037)
+flicking(0.029)
+loading(0.025)

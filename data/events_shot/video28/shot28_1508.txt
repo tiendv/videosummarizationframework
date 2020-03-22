@@ -1,0 +1,5 @@
+arresting(0.049)
+talking(0.037)
+driving(0.033)
+boating(0.030)
+standing(0.029)

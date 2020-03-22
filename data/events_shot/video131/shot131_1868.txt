@@ -1,0 +1,5 @@
+roaring(0.076)
+sitting(0.045)
+adult+male+singing(0.039)
+standing(0.030)
+howling(0.027)

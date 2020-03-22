@@ -1,0 +1,5 @@
+walking(0.075)
+filming(0.041)
+running(0.040)
+queuing(0.028)
+working(0.028)

@@ -1,0 +1,5 @@
+slapping(0.075)
+tattooing(0.063)
+laughing(0.035)
+sneezing(0.031)
+adult+female+speaking(0.031)

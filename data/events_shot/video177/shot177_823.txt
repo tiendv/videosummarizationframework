@@ -1,0 +1,5 @@
+adult+male+speaking(0.142)
+officiating(0.095)
+reading(0.059)
+standing(0.054)
+talking(0.036)

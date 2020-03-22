@@ -1,0 +1,5 @@
+adult+female+speaking(0.037)
+mopping(0.029)
+laughing(0.026)
+adult+female+singing(0.025)
+sneezing(0.025)

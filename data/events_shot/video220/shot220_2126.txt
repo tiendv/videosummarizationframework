@@ -1,0 +1,5 @@
+drinking(0.151)
+pouring(0.035)
+brushing(0.032)
+painting(0.027)
+stirring(0.027)

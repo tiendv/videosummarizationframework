@@ -1,0 +1,5 @@
+filming(0.057)
+sneezing(0.023)
+talking(0.020)
+cracking(0.020)
+adult+male+speaking(0.019)

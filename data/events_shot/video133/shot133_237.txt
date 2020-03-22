@@ -1,0 +1,5 @@
+standing(0.059)
+walking(0.056)
+adult+male+singing(0.052)
+marching(0.042)
+celebrating(0.039)

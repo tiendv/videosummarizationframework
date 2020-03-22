@@ -1,0 +1,5 @@
+fencing(0.591)
+opening(0.169)
+closing(0.087)
+guarding(0.020)
+hanging(0.011)

@@ -1,0 +1,5 @@
+slapping(0.082)
+shopping(0.073)
+selling(0.038)
+adult+male+speaking(0.027)
+adult+female+speaking(0.024)

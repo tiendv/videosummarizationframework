@@ -1,0 +1,5 @@
+running(0.191)
+jogging(0.129)
+walking(0.088)
+standing(0.020)
+slapping(0.019)

@@ -1,0 +1,5 @@
+cuddling(0.086)
+hugging(0.084)
+kissing(0.076)
+sleeping(0.073)
+camping(0.044)

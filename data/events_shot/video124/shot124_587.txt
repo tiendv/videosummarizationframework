@@ -1,0 +1,5 @@
+brushing(0.042)
+slapping(0.040)
+combing(0.036)
+rubbing(0.034)
+hugging(0.027)

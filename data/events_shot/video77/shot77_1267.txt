@@ -1,0 +1,5 @@
+dancing(0.184)
+performing(0.069)
+cheering(0.052)
+clapping(0.046)
+applauding(0.032)

@@ -1,0 +1,5 @@
+slapping(0.291)
+laughing(0.223)
+sneezing(0.021)
+spitting(0.016)
+fighting(0.013)

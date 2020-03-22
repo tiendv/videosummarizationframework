@@ -1,0 +1,5 @@
+shooting(0.107)
+slapping(0.042)
+smoking(0.031)
+pointing(0.029)
+attacking(0.026)

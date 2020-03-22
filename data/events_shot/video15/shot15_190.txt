@@ -1,0 +1,5 @@
+adult+female+speaking(0.125)
+handcuffing(0.065)
+dressing(0.053)
+hugging(0.039)
+arresting(0.031)

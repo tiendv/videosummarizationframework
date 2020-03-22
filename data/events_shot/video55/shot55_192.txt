@@ -1,0 +1,5 @@
+adult+female+speaking(0.197)
+asking(0.116)
+drinking(0.035)
+inflating(0.029)
+adult+male+speaking(0.025)

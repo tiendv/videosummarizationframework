@@ -1,0 +1,5 @@
+walking(0.302)
+standing(0.052)
+shopping(0.035)
+asking(0.028)
+slapping(0.023)

@@ -1,0 +1,5 @@
+building(0.114)
+constructing(0.061)
+painting(0.046)
+running(0.033)
+crafting(0.027)

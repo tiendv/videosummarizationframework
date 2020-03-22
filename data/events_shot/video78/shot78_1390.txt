@@ -1,0 +1,5 @@
+sneezing(0.187)
+laughing(0.074)
+coughing(0.035)
+tattooing(0.022)
+sniffing(0.022)

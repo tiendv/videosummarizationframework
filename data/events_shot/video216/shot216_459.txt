@@ -1,0 +1,5 @@
+driving(0.330)
+turning(0.100)
+riding(0.055)
+steering(0.038)
+spinning(0.035)

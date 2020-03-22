@@ -1,0 +1,5 @@
+laughing(0.105)
+smiling(0.057)
+performing(0.042)
+winking(0.034)
+standing(0.031)

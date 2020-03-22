@@ -1,0 +1,5 @@
+squatting(0.225)
+adult+female+speaking(0.055)
+adult+female+singing(0.036)
+sneezing(0.023)
+crouching(0.020)

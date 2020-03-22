@@ -1,0 +1,5 @@
+punching(0.067)
+aiming(0.034)
+sneezing(0.031)
+boxing(0.029)
+shooting(0.028)

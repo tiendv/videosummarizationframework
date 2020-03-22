@@ -1,0 +1,5 @@
+shrugging(0.078)
+gripping(0.038)
+standing(0.030)
+adult+male+speaking(0.029)
+leaning(0.029)

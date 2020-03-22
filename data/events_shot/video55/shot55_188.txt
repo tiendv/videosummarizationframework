@@ -1,0 +1,5 @@
+sneezing(0.616)
+coughing(0.066)
+laughing(0.050)
+adult+male+speaking(0.047)
+discussing(0.022)

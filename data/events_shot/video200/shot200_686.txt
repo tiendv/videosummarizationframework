@@ -1,0 +1,5 @@
+coaching(0.128)
+adult+male+speaking(0.055)
+walking(0.050)
+hugging(0.042)
+standing(0.038)

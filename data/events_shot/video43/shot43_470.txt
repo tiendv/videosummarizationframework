@@ -1,0 +1,5 @@
+tapping(0.130)
+discussing(0.094)
+slapping(0.083)
+sitting(0.072)
+interviewing(0.067)

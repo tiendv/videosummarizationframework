@@ -1,0 +1,5 @@
+building(0.762)
+constructing(0.200)
+repairing(0.007)
+carving(0.006)
+hanging(0.004)

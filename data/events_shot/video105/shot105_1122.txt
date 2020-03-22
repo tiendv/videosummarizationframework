@@ -1,0 +1,5 @@
+bowling(0.663)
+boxing(0.043)
+punching(0.033)
+inflating(0.014)
+playing+videogames(0.006)

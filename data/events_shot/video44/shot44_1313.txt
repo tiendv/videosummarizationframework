@@ -1,0 +1,5 @@
+walking(0.297)
+running(0.092)
+jogging(0.031)
+standing(0.030)
+asking(0.018)

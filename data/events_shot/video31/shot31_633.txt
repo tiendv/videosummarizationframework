@@ -1,0 +1,5 @@
+walking(0.119)
+asking(0.093)
+protesting(0.090)
+filming(0.052)
+preaching(0.040)

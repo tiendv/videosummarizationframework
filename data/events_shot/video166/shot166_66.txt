@@ -1,0 +1,5 @@
+inflating(0.031)
+vacuuming(0.025)
+adult+female+speaking(0.020)
+hugging(0.017)
+sneezing(0.015)

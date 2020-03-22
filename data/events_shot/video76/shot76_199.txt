@@ -1,0 +1,5 @@
+adult+male+singing(0.063)
+rocking(0.050)
+jumping(0.049)
+standing(0.046)
+leaping(0.028)

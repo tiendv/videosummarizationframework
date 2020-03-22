@@ -1,0 +1,5 @@
+fighting(0.058)
+attacking(0.037)
+walking(0.035)
+shooting(0.033)
+adult+male+singing(0.024)

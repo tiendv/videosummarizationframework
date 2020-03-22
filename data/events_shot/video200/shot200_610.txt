@@ -1,0 +1,5 @@
+lifting(0.073)
+sneezing(0.055)
+coughing(0.043)
+exercising(0.029)
+raising(0.027)

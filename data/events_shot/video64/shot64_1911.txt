@@ -1,0 +1,5 @@
+adult+female+singing(0.078)
+adult+male+singing(0.063)
+hugging(0.043)
+standing(0.032)
+fencing(0.022)

@@ -1,0 +1,5 @@
+sneezing(0.275)
+coughing(0.165)
+playing+videogames(0.041)
+talking(0.029)
+filming(0.027)

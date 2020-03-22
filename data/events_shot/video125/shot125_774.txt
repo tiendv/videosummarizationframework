@@ -1,0 +1,5 @@
+hugging(0.377)
+running(0.043)
+punching(0.038)
+spinning(0.035)
+carrying(0.034)

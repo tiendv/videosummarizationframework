@@ -1,0 +1,5 @@
+autographing(0.157)
+driving(0.078)
+boating(0.049)
+piloting(0.045)
+steering(0.032)

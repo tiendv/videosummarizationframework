@@ -1,0 +1,5 @@
+bicycling(0.915)
+pedaling(0.049)
+riding(0.003)
+raining(0.002)
+flooding(0.002)

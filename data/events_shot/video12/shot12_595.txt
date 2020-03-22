@@ -1,0 +1,5 @@
+baking(0.044)
+cooking(0.038)
+carving(0.029)
+crafting(0.027)
+hammering(0.024)

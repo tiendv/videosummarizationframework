@@ -1,0 +1,5 @@
+talking(0.036)
+adult+male+speaking(0.029)
+walking(0.024)
+closing(0.023)
+dropping(0.021)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.044)
+waking(0.030)
+talking(0.026)
+hugging(0.025)
+adult+male+speaking(0.023)

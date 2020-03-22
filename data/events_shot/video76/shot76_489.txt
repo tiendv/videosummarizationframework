@@ -1,0 +1,5 @@
+cooking(0.094)
+drinking(0.037)
+adult+female+singing(0.033)
+sneezing(0.032)
+baking(0.020)

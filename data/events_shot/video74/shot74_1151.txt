@@ -1,0 +1,5 @@
+walking(0.161)
+adult+male+speaking(0.083)
+asking(0.073)
+stealing(0.059)
+exiting(0.045)

@@ -1,0 +1,5 @@
+chewing(0.155)
+tapping(0.084)
+scratching(0.081)
+eating(0.046)
+rubbing(0.045)

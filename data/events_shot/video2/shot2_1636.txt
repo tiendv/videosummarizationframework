@@ -1,0 +1,5 @@
+dining(0.045)
+adult+male+speaking(0.028)
+flipping(0.026)
+flicking(0.025)
+stealing(0.023)

@@ -1,0 +1,5 @@
+fueling(0.195)
+towing(0.168)
+loading(0.053)
+unloading(0.047)
+stealing(0.029)

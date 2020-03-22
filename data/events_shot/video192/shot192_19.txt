@@ -1,0 +1,5 @@
+hanging(0.053)
+raising(0.033)
+lifting(0.027)
+filming(0.019)
+standing(0.018)

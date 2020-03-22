@@ -1,0 +1,5 @@
+arresting(0.047)
+fighting(0.043)
+aiming(0.030)
+attacking(0.028)
+filming(0.026)

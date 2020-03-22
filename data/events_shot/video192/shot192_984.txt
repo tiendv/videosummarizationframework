@@ -1,0 +1,5 @@
+fighting(0.063)
+boxing(0.059)
+punching(0.052)
+coaching(0.052)
+adult+male+speaking(0.048)

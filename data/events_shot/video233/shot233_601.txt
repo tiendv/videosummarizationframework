@@ -1,0 +1,5 @@
+driving(0.102)
+queuing(0.051)
+arresting(0.041)
+steering(0.026)
+stopping(0.026)

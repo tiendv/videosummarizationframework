@@ -1,0 +1,5 @@
+adult+female+singing(0.202)
+adult+female+speaking(0.092)
+playing+videogames(0.053)
+standing(0.028)
+tattooing(0.026)

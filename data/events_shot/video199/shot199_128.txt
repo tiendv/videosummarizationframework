@@ -1,0 +1,5 @@
+stomping(0.097)
+attacking(0.094)
+fighting(0.063)
+roaring(0.035)
+burying(0.030)

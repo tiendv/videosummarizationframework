@@ -1,0 +1,5 @@
+hugging(0.080)
+drinking(0.072)
+kissing(0.062)
+adult+male+speaking(0.050)
+filming(0.042)

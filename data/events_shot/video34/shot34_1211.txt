@@ -1,0 +1,5 @@
+dining(0.285)
+eating(0.183)
+drinking(0.108)
+hugging(0.023)
+chewing(0.020)

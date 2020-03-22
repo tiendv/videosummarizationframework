@@ -1,0 +1,5 @@
+arresting(0.262)
+exiting(0.067)
+fueling(0.047)
+guarding(0.032)
+queuing(0.029)

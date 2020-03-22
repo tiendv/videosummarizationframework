@@ -1,0 +1,5 @@
+stomping(0.103)
+fighting(0.087)
+smashing(0.077)
+slapping(0.061)
+crushing(0.036)

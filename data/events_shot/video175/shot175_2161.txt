@@ -1,0 +1,5 @@
+asking(0.092)
+adult+male+speaking(0.070)
+slapping(0.049)
+running(0.039)
+discussing(0.035)

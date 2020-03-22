@@ -1,0 +1,5 @@
+smiling(0.104)
+slapping(0.094)
+painting(0.054)
+walking(0.044)
+spraying(0.041)

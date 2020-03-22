@@ -1,0 +1,5 @@
+slapping(0.060)
+applauding(0.028)
+spraying(0.026)
+saluting(0.024)
+hugging(0.022)

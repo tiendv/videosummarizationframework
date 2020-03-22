@@ -1,0 +1,5 @@
+crying(0.533)
+waking(0.038)
+frowning(0.023)
+coughing(0.022)
+sneezing(0.019)

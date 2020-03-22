@@ -1,0 +1,5 @@
+talking(0.282)
+adult+female+speaking(0.077)
+standing(0.077)
+walking(0.054)
+discussing(0.038)

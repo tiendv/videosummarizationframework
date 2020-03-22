@@ -1,0 +1,5 @@
+coaching(0.038)
+asking(0.038)
+teaching(0.034)
+instructing(0.031)
+adult+female+speaking(0.030)

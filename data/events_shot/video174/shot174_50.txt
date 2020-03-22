@@ -1,0 +1,5 @@
+exiting(0.047)
+hugging(0.039)
+chasing(0.031)
+running(0.029)
+walking(0.029)

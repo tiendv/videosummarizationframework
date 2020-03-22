@@ -1,0 +1,5 @@
+slapping(0.049)
+cracking(0.031)
+roaring(0.029)
+adult+female+singing(0.026)
+fighting(0.026)

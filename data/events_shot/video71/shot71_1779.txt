@@ -1,0 +1,5 @@
+fighting(0.066)
+adult+male+speaking(0.044)
+queuing(0.039)
+slapping(0.034)
+standing(0.027)

@@ -1,0 +1,5 @@
+walking(0.036)
+sneezing(0.032)
+running(0.024)
+adult+male+speaking(0.022)
+coughing(0.021)

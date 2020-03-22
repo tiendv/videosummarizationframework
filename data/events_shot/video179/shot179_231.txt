@@ -1,0 +1,5 @@
+driving(0.070)
+chasing(0.057)
+bicycling(0.049)
+hitchhiking(0.043)
+walking(0.041)

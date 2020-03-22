@@ -1,0 +1,5 @@
+adult+female+singing(0.160)
+walking(0.078)
+adult+male+singing(0.065)
+hitchhiking(0.035)
+running(0.029)

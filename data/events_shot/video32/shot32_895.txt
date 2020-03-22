@@ -1,0 +1,5 @@
+aiming(0.242)
+hunting(0.129)
+shooting(0.119)
+guarding(0.075)
+saluting(0.052)

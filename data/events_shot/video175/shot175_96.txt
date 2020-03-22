@@ -1,0 +1,5 @@
+sitting(0.085)
+cuddling(0.066)
+discussing(0.033)
+smoking(0.026)
+adult+female+speaking(0.023)

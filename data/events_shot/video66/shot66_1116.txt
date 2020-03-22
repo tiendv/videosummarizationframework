@@ -1,0 +1,5 @@
+typing(0.210)
+loading(0.043)
+paying(0.039)
+locking(0.034)
+reading(0.027)

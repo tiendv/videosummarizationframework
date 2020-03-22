@@ -1,0 +1,5 @@
+officiating(0.092)
+knocking(0.089)
+entering(0.081)
+walking(0.059)
+exiting(0.043)

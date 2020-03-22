@@ -1,0 +1,5 @@
+attacking(0.065)
+arresting(0.062)
+slapping(0.059)
+barking(0.043)
+gardening(0.036)

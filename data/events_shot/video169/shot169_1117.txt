@@ -1,0 +1,5 @@
+walking(0.104)
+slapping(0.039)
+hugging(0.035)
+filming(0.033)
+adult+female+speaking(0.030)

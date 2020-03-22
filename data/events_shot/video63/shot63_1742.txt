@@ -1,0 +1,5 @@
+running(0.117)
+walking(0.104)
+asking(0.051)
+stealing(0.034)
+standing(0.028)

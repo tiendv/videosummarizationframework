@@ -1,0 +1,5 @@
+walking(0.067)
+adult+female+singing(0.061)
+adult+female+speaking(0.053)
+jogging(0.052)
+hugging(0.049)

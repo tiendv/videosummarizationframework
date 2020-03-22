@@ -1,0 +1,5 @@
+walking(0.073)
+hugging(0.068)
+sneezing(0.041)
+filming(0.039)
+throwing(0.032)

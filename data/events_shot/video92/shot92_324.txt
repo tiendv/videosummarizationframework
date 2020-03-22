@@ -1,0 +1,5 @@
+camping(0.060)
+hiking(0.057)
+climbing(0.051)
+standing(0.022)
+boating(0.022)

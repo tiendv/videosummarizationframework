@@ -1,0 +1,5 @@
+roaring(0.063)
+standing(0.026)
+walking(0.025)
+shooting(0.025)
+filming(0.024)

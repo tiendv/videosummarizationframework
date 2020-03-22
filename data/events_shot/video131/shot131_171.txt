@@ -1,0 +1,5 @@
+sliding(0.092)
+launching(0.090)
+crashing(0.048)
+slipping(0.036)
+shooting(0.034)

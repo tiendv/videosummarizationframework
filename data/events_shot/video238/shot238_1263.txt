@@ -1,0 +1,5 @@
+drinking(0.085)
+hugging(0.078)
+filming(0.058)
+photographing(0.034)
+slapping(0.024)

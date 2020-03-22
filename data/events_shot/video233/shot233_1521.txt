@@ -1,0 +1,5 @@
+sneezing(0.054)
+clipping(0.051)
+coughing(0.025)
+filming(0.025)
+talking(0.023)

@@ -1,0 +1,5 @@
+driving(0.092)
+attacking(0.063)
+playing+videogames(0.047)
+fighting(0.045)
+aiming(0.040)

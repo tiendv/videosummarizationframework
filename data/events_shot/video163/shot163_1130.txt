@@ -1,0 +1,5 @@
+selling(0.102)
+adult+female+speaking(0.095)
+shopping(0.091)
+queuing(0.071)
+adult+male+speaking(0.063)

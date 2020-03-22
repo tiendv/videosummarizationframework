@@ -1,0 +1,5 @@
+aiming(0.195)
+punching(0.136)
+shooting(0.097)
+boxing(0.060)
+hammering(0.041)

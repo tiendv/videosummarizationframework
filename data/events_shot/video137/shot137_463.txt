@@ -1,0 +1,5 @@
+running(0.080)
+walking(0.036)
+stealing(0.036)
+jogging(0.029)
+slapping(0.028)

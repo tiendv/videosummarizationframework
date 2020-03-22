@@ -1,0 +1,5 @@
+kissing(0.225)
+bowing(0.094)
+praying(0.028)
+bending(0.022)
+crying(0.021)

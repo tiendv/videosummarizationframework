@@ -1,0 +1,5 @@
+teaching(0.161)
+lecturing(0.097)
+cramming(0.068)
+studying(0.064)
+handwriting(0.043)

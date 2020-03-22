@@ -1,0 +1,5 @@
+opening(0.152)
+closing(0.088)
+dusting(0.048)
+standing(0.026)
+laughing(0.025)

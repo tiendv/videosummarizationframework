@@ -1,0 +1,5 @@
+adult+female+singing(0.124)
+knocking(0.052)
+hitting(0.045)
+adult+female+speaking(0.033)
+adult+male+speaking(0.032)

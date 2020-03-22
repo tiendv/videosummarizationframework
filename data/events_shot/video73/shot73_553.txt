@@ -1,0 +1,5 @@
+adult+male+speaking(0.060)
+fighting(0.047)
+standing(0.037)
+filming(0.036)
+giving(0.034)

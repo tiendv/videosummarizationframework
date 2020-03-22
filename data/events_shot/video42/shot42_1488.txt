@@ -1,0 +1,5 @@
+spinning(0.044)
+scratching(0.042)
+gripping(0.031)
+crafting(0.025)
+clawing(0.022)

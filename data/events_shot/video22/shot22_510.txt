@@ -1,0 +1,5 @@
+hiking(0.134)
+walking(0.115)
+climbing(0.069)
+fishing(0.059)
+adult+male+singing(0.035)

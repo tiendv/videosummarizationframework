@@ -1,0 +1,5 @@
+painting(0.129)
+brushing(0.047)
+slapping(0.034)
+adult+female+speaking(0.022)
+walking(0.019)

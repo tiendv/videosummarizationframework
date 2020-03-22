@@ -1,0 +1,5 @@
+queuing(0.134)
+celebrating(0.104)
+applauding(0.083)
+adult+male+speaking(0.043)
+asking(0.042)

@@ -1,0 +1,5 @@
+roaring(0.645)
+barking(0.177)
+howling(0.100)
+attacking(0.008)
+yawning(0.006)

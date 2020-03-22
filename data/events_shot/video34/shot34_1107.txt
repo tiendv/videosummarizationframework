@@ -1,0 +1,5 @@
+slapping(0.088)
+hugging(0.069)
+smiling(0.040)
+standing(0.038)
+talking(0.035)

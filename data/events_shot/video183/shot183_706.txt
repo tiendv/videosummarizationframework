@@ -1,0 +1,5 @@
+eating(0.158)
+dining(0.072)
+cooking(0.069)
+sneezing(0.063)
+chewing(0.043)

@@ -1,0 +1,5 @@
+roaring(0.030)
+standing(0.029)
+laughing(0.027)
+knocking(0.027)
+playing+videogames(0.025)

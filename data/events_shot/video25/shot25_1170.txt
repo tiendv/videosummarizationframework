@@ -1,0 +1,5 @@
+bathing(0.210)
+slapping(0.037)
+washing(0.032)
+laughing(0.022)
+splashing(0.020)

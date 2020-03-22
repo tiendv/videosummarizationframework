@@ -1,0 +1,5 @@
+drinking(0.037)
+standing(0.017)
+cleaning(0.015)
+emptying(0.015)
+dipping(0.015)

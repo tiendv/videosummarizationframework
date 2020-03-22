@@ -1,0 +1,5 @@
+hugging(0.142)
+standing(0.055)
+smiling(0.041)
+celebrating(0.036)
+applauding(0.030)

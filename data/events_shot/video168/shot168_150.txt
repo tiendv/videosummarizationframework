@@ -1,0 +1,5 @@
+tattooing(0.080)
+hanging(0.040)
+standing(0.039)
+gripping(0.038)
+painting(0.026)

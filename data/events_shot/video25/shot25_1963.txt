@@ -1,0 +1,5 @@
+closing(0.191)
+opening(0.178)
+entering(0.153)
+aiming(0.083)
+locking(0.071)

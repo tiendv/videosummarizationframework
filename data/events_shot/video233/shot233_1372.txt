@@ -1,0 +1,5 @@
+drinking(0.192)
+sneezing(0.047)
+eating(0.036)
+hugging(0.029)
+fighting(0.029)

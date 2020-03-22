@@ -1,0 +1,5 @@
+packing(0.168)
+waking(0.112)
+sleeping(0.090)
+unpacking(0.047)
+laughing(0.038)

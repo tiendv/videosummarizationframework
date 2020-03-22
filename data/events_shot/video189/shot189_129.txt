@@ -1,0 +1,5 @@
+fighting(0.117)
+running(0.106)
+attacking(0.039)
+knocking(0.033)
+fencing(0.024)

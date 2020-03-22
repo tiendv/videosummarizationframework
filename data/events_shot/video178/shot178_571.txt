@@ -1,0 +1,5 @@
+smoking(0.033)
+adult+female+singing(0.028)
+aiming(0.024)
+playing+videogames(0.022)
+turning(0.020)

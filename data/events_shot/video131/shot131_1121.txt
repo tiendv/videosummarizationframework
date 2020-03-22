@@ -1,0 +1,5 @@
+spraying(0.159)
+slapping(0.133)
+washing(0.068)
+brushing(0.041)
+combing(0.034)

@@ -1,0 +1,5 @@
+fueling(0.439)
+washing(0.189)
+arresting(0.033)
+stealing(0.032)
+rinsing(0.020)

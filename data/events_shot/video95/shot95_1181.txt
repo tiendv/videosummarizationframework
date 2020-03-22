@@ -1,0 +1,5 @@
+cooking(0.065)
+putting(0.030)
+pressing(0.023)
+placing(0.021)
+baking(0.019)

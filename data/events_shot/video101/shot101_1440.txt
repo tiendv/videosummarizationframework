@@ -1,0 +1,5 @@
+telephoning(0.072)
+calling(0.042)
+slapping(0.027)
+walking(0.026)
+hammering(0.026)

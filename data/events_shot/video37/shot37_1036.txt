@@ -1,0 +1,5 @@
+sneezing(0.659)
+coughing(0.143)
+slapping(0.029)
+adult+male+singing(0.012)
+adult+female+singing(0.012)

@@ -1,0 +1,5 @@
+rising(0.104)
+adult+male+singing(0.094)
+adult+female+singing(0.077)
+playing+videogames(0.074)
+tattooing(0.041)

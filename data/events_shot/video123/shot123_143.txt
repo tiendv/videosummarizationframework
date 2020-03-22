@@ -1,0 +1,5 @@
+sneezing(0.177)
+drinking(0.152)
+coughing(0.045)
+adult+male+singing(0.028)
+manicuring(0.021)

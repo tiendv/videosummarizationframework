@@ -1,0 +1,5 @@
+mowing(0.046)
+starting(0.042)
+playing+videogames(0.033)
+steering(0.031)
+bulldozing(0.027)

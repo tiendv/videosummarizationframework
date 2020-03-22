@@ -1,0 +1,5 @@
+applauding(0.047)
+walking(0.038)
+adult+male+speaking(0.032)
+standing(0.031)
+celebrating(0.027)

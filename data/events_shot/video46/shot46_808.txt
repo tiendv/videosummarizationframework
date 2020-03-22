@@ -1,0 +1,5 @@
+sleeping(0.242)
+waking(0.183)
+driving(0.098)
+camping(0.039)
+resting(0.022)

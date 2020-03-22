@@ -1,0 +1,5 @@
+sneezing(0.168)
+asking(0.044)
+filming(0.044)
+coughing(0.039)
+photographing(0.029)

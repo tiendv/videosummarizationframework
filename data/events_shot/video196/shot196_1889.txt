@@ -1,0 +1,5 @@
+tickling(0.060)
+crying(0.043)
+handcuffing(0.042)
+laughing(0.026)
+arresting(0.015)

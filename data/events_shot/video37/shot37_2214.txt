@@ -1,0 +1,5 @@
+shopping(0.240)
+adult+female+speaking(0.115)
+asking(0.049)
+buying(0.040)
+smiling(0.039)

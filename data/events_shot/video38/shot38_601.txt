@@ -1,0 +1,5 @@
+reading(0.103)
+hugging(0.053)
+adult+female+speaking(0.043)
+studying(0.042)
+autographing(0.038)

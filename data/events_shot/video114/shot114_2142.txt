@@ -1,0 +1,5 @@
+hammering(0.167)
+shooting(0.095)
+attacking(0.081)
+slapping(0.056)
+waking(0.050)

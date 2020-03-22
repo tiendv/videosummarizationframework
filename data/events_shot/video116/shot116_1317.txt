@@ -1,0 +1,5 @@
+crying(0.277)
+laughing(0.052)
+adult+female+speaking(0.037)
+adult+female+singing(0.032)
+drinking(0.030)

@@ -1,0 +1,5 @@
+slapping(0.081)
+adult+female+speaking(0.057)
+adult+male+speaking(0.025)
+sneezing(0.024)
+selling(0.023)

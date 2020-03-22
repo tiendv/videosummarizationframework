@@ -1,0 +1,5 @@
+squatting(0.126)
+standing(0.080)
+shrugging(0.037)
+bowing(0.034)
+laughing(0.030)

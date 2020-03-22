@@ -1,0 +1,5 @@
+cooking(0.041)
+asking(0.035)
+standing(0.033)
+shopping(0.032)
+laughing(0.027)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.131)
+painting(0.083)
+smiling(0.039)
+pointing(0.036)
+discussing(0.021)

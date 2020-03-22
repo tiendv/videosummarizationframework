@@ -1,0 +1,5 @@
+slapping(0.038)
+drinking(0.037)
+adult+female+speaking(0.035)
+attacking(0.034)
+fighting(0.032)

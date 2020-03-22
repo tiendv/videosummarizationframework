@@ -1,0 +1,5 @@
+arresting(0.108)
+queuing(0.073)
+walking(0.054)
+slapping(0.046)
+hugging(0.042)

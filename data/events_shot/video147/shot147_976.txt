@@ -1,0 +1,5 @@
+tattooing(0.327)
+adult+male+singing(0.048)
+adult+female+singing(0.042)
+shaving(0.027)
+standing(0.021)

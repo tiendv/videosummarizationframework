@@ -1,0 +1,5 @@
+opening(0.061)
+closing(0.041)
+laughing(0.032)
+playing(0.031)
+adult+male+speaking(0.029)

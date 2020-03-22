@@ -1,0 +1,5 @@
+sneezing(0.125)
+adult+male+speaking(0.067)
+playing+videogames(0.056)
+slapping(0.048)
+laughing(0.043)

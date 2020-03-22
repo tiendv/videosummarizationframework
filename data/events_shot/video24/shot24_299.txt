@@ -1,0 +1,5 @@
+standing(0.062)
+adult+male+speaking(0.044)
+cheering(0.041)
+applauding(0.038)
+hugging(0.037)

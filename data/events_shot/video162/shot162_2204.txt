@@ -1,0 +1,5 @@
+shoveling(0.149)
+snowing(0.132)
+cleaning(0.130)
+building(0.064)
+constructing(0.025)

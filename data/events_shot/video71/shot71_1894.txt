@@ -1,0 +1,5 @@
+fighting(0.150)
+driving(0.094)
+blocking(0.083)
+attacking(0.065)
+destroying(0.053)

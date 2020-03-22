@@ -1,0 +1,5 @@
+hiking(0.133)
+walking(0.044)
+adult+male+speaking(0.041)
+hitchhiking(0.037)
+jogging(0.029)

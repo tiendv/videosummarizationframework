@@ -1,0 +1,5 @@
+bowing(0.319)
+clipping(0.033)
+attacking(0.023)
+walking(0.023)
+slapping(0.020)

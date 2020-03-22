@@ -1,0 +1,5 @@
+drinking(0.111)
+crafting(0.052)
+tattooing(0.043)
+talking(0.037)
+working(0.033)

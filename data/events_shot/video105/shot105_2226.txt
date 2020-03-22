@@ -1,0 +1,5 @@
+spinning(0.409)
+mopping(0.356)
+cleaning(0.018)
+dusting(0.016)
+vacuuming(0.012)

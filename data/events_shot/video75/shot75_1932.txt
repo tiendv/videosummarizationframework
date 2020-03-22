@@ -1,0 +1,5 @@
+shaving(0.202)
+adult+male+speaking(0.075)
+painting(0.035)
+cooking(0.034)
+brushing(0.021)

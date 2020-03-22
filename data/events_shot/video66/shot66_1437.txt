@@ -1,0 +1,5 @@
+sneezing(0.043)
+tattooing(0.035)
+coughing(0.025)
+adult+male+speaking(0.024)
+slapping(0.022)

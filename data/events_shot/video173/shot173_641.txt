@@ -1,0 +1,5 @@
+asking(0.115)
+adult+male+speaking(0.112)
+fencing(0.084)
+discussing(0.058)
+adult+female+speaking(0.057)

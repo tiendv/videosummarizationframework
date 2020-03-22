@@ -1,0 +1,5 @@
+burning(0.060)
+blowing(0.025)
+adult+female+singing(0.023)
+adult+female+speaking(0.023)
+roaring(0.023)

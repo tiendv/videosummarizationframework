@@ -1,0 +1,5 @@
+celebrating(0.068)
+hugging(0.049)
+standing(0.031)
+fighting(0.030)
+reaching(0.029)

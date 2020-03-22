@@ -1,0 +1,5 @@
+fighting(0.187)
+hugging(0.171)
+adult+male+speaking(0.050)
+fencing(0.046)
+kissing(0.029)

@@ -1,0 +1,5 @@
+sneezing(0.093)
+praying(0.050)
+bowing(0.034)
+attacking(0.033)
+standing(0.031)

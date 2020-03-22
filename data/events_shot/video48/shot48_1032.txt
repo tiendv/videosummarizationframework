@@ -1,0 +1,5 @@
+assembling(0.088)
+drawing(0.065)
+painting(0.050)
+taping(0.039)
+crafting(0.037)

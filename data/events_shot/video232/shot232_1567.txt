@@ -1,0 +1,5 @@
+stacking(0.714)
+drying(0.027)
+washing(0.016)
+rinsing(0.012)
+cleaning(0.010)

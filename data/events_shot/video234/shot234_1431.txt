@@ -1,0 +1,5 @@
+standing(0.047)
+signing(0.036)
+hugging(0.034)
+adult+female+speaking(0.029)
+adult+male+speaking(0.020)

@@ -1,0 +1,5 @@
+combing(0.083)
+drying(0.057)
+brushing(0.050)
+sitting(0.036)
+discussing(0.033)

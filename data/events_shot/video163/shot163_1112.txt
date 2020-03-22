@@ -1,0 +1,5 @@
+adult+male+speaking(0.050)
+standing(0.045)
+crafting(0.038)
+officiating(0.034)
+discussing(0.031)

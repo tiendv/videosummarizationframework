@@ -1,0 +1,5 @@
+building(0.086)
+walking(0.061)
+hanging(0.056)
+shopping(0.027)
+carrying(0.022)

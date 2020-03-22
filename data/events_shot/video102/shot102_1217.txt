@@ -1,0 +1,5 @@
+reading(0.171)
+pointing(0.054)
+sitting(0.029)
+opening(0.027)
+playing+videogames(0.023)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.418)
+standing(0.054)
+drying(0.048)
+talking(0.041)
+discussing(0.026)

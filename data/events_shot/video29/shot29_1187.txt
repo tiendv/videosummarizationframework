@@ -1,0 +1,5 @@
+drinking(0.222)
+adult+male+speaking(0.038)
+filming(0.035)
+discussing(0.028)
+dining(0.025)

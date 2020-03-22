@@ -1,0 +1,5 @@
+spinning(0.214)
+walking(0.148)
+turning(0.089)
+entering(0.041)
+hugging(0.036)

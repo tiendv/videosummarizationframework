@@ -1,0 +1,5 @@
+pointing(0.090)
+waving(0.046)
+saluting(0.041)
+filming(0.036)
+smiling(0.030)

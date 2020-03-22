@@ -1,0 +1,5 @@
+adult+male+speaking(0.060)
+adult+male+singing(0.041)
+sneezing(0.037)
+preaching(0.033)
+laughing(0.027)

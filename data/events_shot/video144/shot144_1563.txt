@@ -1,0 +1,5 @@
+opening(0.086)
+adult+female+speaking(0.072)
+closing(0.055)
+adult+female+singing(0.042)
+giving(0.037)

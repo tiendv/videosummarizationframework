@@ -1,0 +1,5 @@
+climbing(0.572)
+hanging(0.039)
+hiking(0.023)
+knocking(0.020)
+running(0.016)

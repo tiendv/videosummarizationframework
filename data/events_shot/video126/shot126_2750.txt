@@ -1,0 +1,5 @@
+camping(0.171)
+calling(0.022)
+walking(0.018)
+sneezing(0.016)
+talking(0.014)

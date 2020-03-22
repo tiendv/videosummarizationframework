@@ -1,0 +1,5 @@
+washing(0.032)
+adult+female+speaking(0.030)
+cleaning(0.026)
+bathing(0.025)
+sneezing(0.024)

@@ -1,0 +1,5 @@
+talking(0.057)
+standing(0.056)
+walking(0.043)
+adult+female+singing(0.034)
+raining(0.033)

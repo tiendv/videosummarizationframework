@@ -1,0 +1,5 @@
+hunting(0.184)
+climbing(0.107)
+hiking(0.079)
+walking(0.079)
+playing+videogames(0.026)

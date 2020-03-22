@@ -1,0 +1,5 @@
+chasing(0.245)
+running(0.116)
+playing+videogames(0.060)
+swerving(0.035)
+driving(0.032)

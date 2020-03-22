@@ -1,0 +1,5 @@
+hunting(0.442)
+shooting(0.045)
+roaring(0.043)
+attacking(0.034)
+filming(0.031)

@@ -1,0 +1,5 @@
+dining(0.359)
+stacking(0.140)
+eating(0.077)
+serving(0.041)
+drinking(0.036)

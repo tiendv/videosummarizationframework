@@ -1,0 +1,5 @@
+drinking(0.067)
+telephoning(0.062)
+calling(0.041)
+stealing(0.027)
+adult+female+speaking(0.021)

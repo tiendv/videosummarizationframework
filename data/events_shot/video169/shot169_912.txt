@@ -1,0 +1,5 @@
+tying(0.880)
+buttoning(0.019)
+dressing(0.016)
+knitting(0.012)
+adult+male+speaking(0.007)

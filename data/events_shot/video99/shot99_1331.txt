@@ -1,0 +1,5 @@
+sneezing(0.091)
+filming(0.045)
+praying(0.043)
+coughing(0.038)
+adult+female+singing(0.029)

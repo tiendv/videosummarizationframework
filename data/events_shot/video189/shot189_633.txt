@@ -1,0 +1,5 @@
+asking(0.586)
+adult+male+speaking(0.091)
+selling(0.038)
+adult+female+speaking(0.035)
+preaching(0.029)

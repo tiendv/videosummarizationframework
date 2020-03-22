@@ -1,0 +1,5 @@
+dining(0.186)
+drinking(0.064)
+socializing(0.045)
+adult+male+speaking(0.040)
+filming(0.026)

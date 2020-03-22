@@ -1,0 +1,5 @@
+throwing(0.086)
+walking(0.075)
+standing(0.053)
+adult+male+speaking(0.046)
+talking(0.033)

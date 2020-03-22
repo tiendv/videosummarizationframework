@@ -1,0 +1,5 @@
+autographing(0.387)
+shopping(0.053)
+paying(0.047)
+dining(0.038)
+serving(0.030)

@@ -1,0 +1,5 @@
+adult+male+singing(0.082)
+adult+female+singing(0.076)
+frowning(0.058)
+crying(0.033)
+standing(0.032)

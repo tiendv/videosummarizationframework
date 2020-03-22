@@ -1,0 +1,5 @@
+attacking(0.097)
+hunting(0.042)
+crashing(0.031)
+flying(0.027)
+standing(0.027)

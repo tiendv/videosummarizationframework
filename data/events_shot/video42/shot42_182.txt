@@ -1,0 +1,5 @@
+roaring(0.075)
+hunting(0.053)
+standing(0.051)
+fighting(0.033)
+hugging(0.032)

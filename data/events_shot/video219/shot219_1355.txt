@@ -1,0 +1,5 @@
+guarding(0.057)
+punching(0.052)
+knocking(0.042)
+standing(0.038)
+adult+male+speaking(0.036)

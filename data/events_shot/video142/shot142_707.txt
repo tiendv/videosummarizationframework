@@ -1,0 +1,5 @@
+adult+female+speaking(0.260)
+protesting(0.082)
+arresting(0.062)
+asking(0.058)
+queuing(0.052)

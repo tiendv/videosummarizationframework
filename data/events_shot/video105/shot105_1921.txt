@@ -1,0 +1,5 @@
+hugging(0.325)
+slapping(0.063)
+fighting(0.056)
+walking(0.042)
+filming(0.035)

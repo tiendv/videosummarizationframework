@@ -1,0 +1,5 @@
+adult+female+speaking(0.378)
+adult+female+singing(0.183)
+applauding(0.021)
+asking(0.021)
+standing(0.021)

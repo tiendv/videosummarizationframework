@@ -1,0 +1,5 @@
+dressing(0.049)
+massaging(0.029)
+adult+female+speaking(0.028)
+stretching(0.022)
+smiling(0.022)

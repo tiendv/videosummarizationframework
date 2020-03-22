@@ -1,0 +1,5 @@
+cooking(0.269)
+baking(0.099)
+eating(0.051)
+dining(0.027)
+stacking(0.023)

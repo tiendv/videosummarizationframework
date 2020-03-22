@@ -1,0 +1,5 @@
+drying(0.306)
+cooking(0.102)
+washing(0.093)
+rinsing(0.053)
+baking(0.038)

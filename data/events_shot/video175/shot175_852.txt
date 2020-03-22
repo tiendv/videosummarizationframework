@@ -1,0 +1,5 @@
+slapping(0.099)
+fighting(0.075)
+adult+male+speaking(0.040)
+playing+videogames(0.028)
+standing(0.028)

@@ -1,0 +1,5 @@
+sneezing(0.174)
+coughing(0.161)
+starting(0.032)
+talking(0.028)
+pointing(0.018)

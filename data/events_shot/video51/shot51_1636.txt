@@ -1,0 +1,5 @@
+fighting(0.080)
+drinking(0.059)
+smelling(0.038)
+sniffing(0.033)
+discussing(0.031)

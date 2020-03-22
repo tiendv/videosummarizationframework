@@ -1,0 +1,5 @@
+cuddling(0.033)
+chewing(0.031)
+hugging(0.026)
+filming(0.025)
+adult+female+speaking(0.024)

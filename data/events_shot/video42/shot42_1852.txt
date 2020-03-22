@@ -1,0 +1,5 @@
+fighting(0.148)
+eating(0.052)
+attacking(0.040)
+smashing(0.030)
+dining(0.029)

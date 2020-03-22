@@ -1,0 +1,5 @@
+jogging(0.071)
+adult+female+speaking(0.069)
+fighting(0.061)
+running(0.038)
+slapping(0.033)

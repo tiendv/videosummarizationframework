@@ -1,0 +1,5 @@
+arresting(0.063)
+exiting(0.051)
+stealing(0.033)
+hitchhiking(0.030)
+driving(0.023)

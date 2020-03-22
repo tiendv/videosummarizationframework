@@ -1,0 +1,5 @@
+filming(0.090)
+walking(0.090)
+standing(0.033)
+photographing(0.030)
+entering(0.029)

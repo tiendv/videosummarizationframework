@@ -1,0 +1,5 @@
+carrying(0.061)
+walking(0.058)
+standing(0.050)
+shopping(0.044)
+selling(0.028)

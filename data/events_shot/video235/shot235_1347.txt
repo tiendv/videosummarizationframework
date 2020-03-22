@@ -1,0 +1,5 @@
+talking(0.051)
+clipping(0.050)
+slapping(0.039)
+walking(0.033)
+carrying(0.029)

@@ -1,0 +1,5 @@
+hunting(0.096)
+filming(0.065)
+guarding(0.055)
+photographing(0.051)
+walking(0.043)

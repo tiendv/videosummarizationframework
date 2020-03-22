@@ -1,0 +1,5 @@
+baptizing(0.145)
+marrying(0.095)
+officiating(0.038)
+hugging(0.037)
+adult+male+singing(0.034)

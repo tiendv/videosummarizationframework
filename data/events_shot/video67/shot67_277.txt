@@ -1,0 +1,5 @@
+hanging(0.095)
+standing(0.044)
+opening(0.042)
+singing(0.040)
+closing(0.031)

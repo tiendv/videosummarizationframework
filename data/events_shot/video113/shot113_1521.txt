@@ -1,0 +1,5 @@
+sneezing(0.076)
+walking(0.069)
+crying(0.062)
+drinking(0.061)
+hugging(0.047)

@@ -1,0 +1,5 @@
+tying(0.766)
+dressing(0.084)
+buttoning(0.040)
+handcuffing(0.006)
+putting(0.006)

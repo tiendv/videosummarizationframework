@@ -1,0 +1,5 @@
+adult+male+speaking(0.075)
+adult+male+singing(0.055)
+sitting(0.043)
+playing+music(0.041)
+gambling(0.039)

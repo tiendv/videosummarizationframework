@@ -1,0 +1,5 @@
+autographing(0.140)
+fighting(0.110)
+punching(0.055)
+slapping(0.054)
+playing+videogames(0.050)

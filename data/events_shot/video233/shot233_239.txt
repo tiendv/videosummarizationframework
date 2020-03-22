@@ -1,0 +1,5 @@
+drinking(0.410)
+dining(0.181)
+eating(0.038)
+sitting(0.020)
+dipping(0.014)

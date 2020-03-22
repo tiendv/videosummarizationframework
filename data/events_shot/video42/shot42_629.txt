@@ -1,0 +1,5 @@
+slapping(0.072)
+smiling(0.044)
+laughing(0.038)
+talking(0.028)
+manicuring(0.027)

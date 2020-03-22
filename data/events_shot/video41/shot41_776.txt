@@ -1,0 +1,5 @@
+sneezing(0.058)
+laughing(0.056)
+signing(0.051)
+adult+female+speaking(0.044)
+standing(0.030)

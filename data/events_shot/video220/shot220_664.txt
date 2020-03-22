@@ -1,0 +1,5 @@
+knocking(0.223)
+slapping(0.194)
+fighting(0.038)
+saluting(0.032)
+guarding(0.028)

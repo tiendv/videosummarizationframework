@@ -1,0 +1,5 @@
+talking(0.079)
+shrugging(0.055)
+slapping(0.053)
+turning(0.033)
+sitting(0.033)

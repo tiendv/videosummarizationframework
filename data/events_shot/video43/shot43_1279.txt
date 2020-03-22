@@ -1,0 +1,5 @@
+knocking(0.075)
+fighting(0.042)
+locking(0.031)
+attacking(0.030)
+opening(0.025)

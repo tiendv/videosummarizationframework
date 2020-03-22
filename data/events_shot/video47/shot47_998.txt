@@ -1,0 +1,5 @@
+colliding(0.053)
+crashing(0.049)
+starting(0.029)
+spinning(0.025)
+snapping(0.024)

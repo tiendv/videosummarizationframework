@@ -1,0 +1,5 @@
+fighting(0.118)
+attacking(0.067)
+drinking(0.027)
+running(0.023)
+walking(0.023)

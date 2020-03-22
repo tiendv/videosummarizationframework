@@ -1,0 +1,5 @@
+hanging(0.030)
+adult+female+singing(0.030)
+rising(0.025)
+ascending(0.023)
+standing(0.019)

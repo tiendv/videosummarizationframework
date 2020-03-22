@@ -1,0 +1,5 @@
+talking(0.073)
+carrying(0.070)
+walking(0.055)
+hugging(0.053)
+raining(0.036)

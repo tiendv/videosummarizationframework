@@ -1,0 +1,5 @@
+discussing(0.084)
+laughing(0.059)
+coughing(0.048)
+painting(0.037)
+adult+female+speaking(0.034)

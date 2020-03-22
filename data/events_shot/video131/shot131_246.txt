@@ -1,0 +1,5 @@
+spinning(0.300)
+turning(0.143)
+flying(0.121)
+hanging(0.093)
+attacking(0.025)

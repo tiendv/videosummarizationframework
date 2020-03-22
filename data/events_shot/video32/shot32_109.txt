@@ -1,0 +1,5 @@
+calling(0.235)
+telephoning(0.152)
+driving(0.026)
+sneezing(0.021)
+crying(0.020)

@@ -1,0 +1,5 @@
+smoking(0.044)
+handcuffing(0.043)
+arresting(0.036)
+filming(0.035)
+adult+female+speaking(0.032)

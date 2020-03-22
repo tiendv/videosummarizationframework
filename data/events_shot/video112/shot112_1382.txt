@@ -1,0 +1,5 @@
+dressing(0.090)
+standing(0.042)
+walking(0.039)
+marrying(0.039)
+hugging(0.039)

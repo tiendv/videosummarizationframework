@@ -1,0 +1,5 @@
+roaring(0.069)
+fighting(0.046)
+attacking(0.045)
+adult+male+speaking(0.039)
+clipping(0.038)

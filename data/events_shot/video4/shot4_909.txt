@@ -1,0 +1,5 @@
+kissing(0.051)
+hugging(0.045)
+smiling(0.040)
+filming(0.033)
+laughing(0.030)

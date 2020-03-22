@@ -1,0 +1,5 @@
+gripping(0.097)
+squatting(0.067)
+stretching(0.051)
+handcuffing(0.049)
+smoking(0.029)

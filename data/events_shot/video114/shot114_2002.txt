@@ -1,0 +1,5 @@
+slapping(0.065)
+attacking(0.060)
+shopping(0.058)
+fighting(0.044)
+stealing(0.043)

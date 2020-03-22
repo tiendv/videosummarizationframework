@@ -1,0 +1,5 @@
+sitting(0.154)
+whistling(0.112)
+adult+male+speaking(0.080)
+talking(0.077)
+standing(0.073)

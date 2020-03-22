@@ -1,0 +1,5 @@
+kissing(0.424)
+hugging(0.094)
+laughing(0.088)
+smiling(0.022)
+giggling(0.020)

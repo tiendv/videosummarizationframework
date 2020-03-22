@@ -1,0 +1,5 @@
+painting(0.047)
+tattooing(0.046)
+adult+male+speaking(0.032)
+discussing(0.032)
+adult+female+speaking(0.025)

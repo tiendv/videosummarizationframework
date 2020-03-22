@@ -1,0 +1,5 @@
+climbing(0.231)
+throwing(0.088)
+ascending(0.039)
+flipping(0.033)
+flicking(0.025)

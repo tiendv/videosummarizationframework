@@ -1,0 +1,5 @@
+singing(0.093)
+child+speaking(0.080)
+child+singing(0.066)
+adult+female+singing(0.055)
+whistling(0.052)

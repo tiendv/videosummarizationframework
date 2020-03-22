@@ -1,0 +1,5 @@
+cooking(0.045)
+slapping(0.044)
+talking(0.044)
+fighting(0.035)
+adult+male+speaking(0.033)

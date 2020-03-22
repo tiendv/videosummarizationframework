@@ -1,0 +1,5 @@
+tattooing(0.214)
+dining(0.122)
+sitting(0.033)
+adult+male+speaking(0.031)
+talking(0.019)

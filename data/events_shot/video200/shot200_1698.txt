@@ -1,0 +1,5 @@
+asking(0.115)
+slapping(0.073)
+adult+male+speaking(0.065)
+adult+female+speaking(0.061)
+tattooing(0.055)

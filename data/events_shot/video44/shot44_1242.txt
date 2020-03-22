@@ -1,0 +1,5 @@
+adult+male+speaking(0.030)
+playing+videogames(0.025)
+chewing(0.019)
+dressing(0.017)
+smiling(0.017)

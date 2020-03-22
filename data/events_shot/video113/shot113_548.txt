@@ -1,0 +1,5 @@
+adult+female+speaking(0.152)
+adult+female+singing(0.126)
+child+singing(0.065)
+asking(0.050)
+queuing(0.049)

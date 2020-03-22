@@ -1,0 +1,5 @@
+fueling(0.094)
+discussing(0.092)
+talking(0.048)
+working(0.046)
+starting(0.038)

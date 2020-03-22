@@ -1,0 +1,5 @@
+manicuring(0.225)
+discussing(0.115)
+sneezing(0.092)
+coughing(0.046)
+sitting(0.041)

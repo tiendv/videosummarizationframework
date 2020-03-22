@@ -1,0 +1,5 @@
+burning(0.903)
+combusting(0.014)
+extinguishing(0.012)
+roaring(0.011)
+destroying(0.005)

@@ -1,0 +1,5 @@
+walking(0.264)
+adult+male+speaking(0.108)
+knocking(0.045)
+standing(0.039)
+coaching(0.034)

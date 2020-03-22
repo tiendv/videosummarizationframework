@@ -1,0 +1,5 @@
+hitchhiking(0.130)
+walking(0.082)
+filming(0.053)
+driving(0.032)
+starting(0.031)

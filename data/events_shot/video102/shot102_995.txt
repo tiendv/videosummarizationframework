@@ -1,0 +1,5 @@
+walking(0.094)
+cooking(0.042)
+climbing(0.033)
+spinning(0.028)
+hanging(0.025)

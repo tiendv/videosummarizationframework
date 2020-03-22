@@ -1,0 +1,5 @@
+drinking(0.139)
+painting(0.072)
+stacking(0.053)
+flipping(0.029)
+slapping(0.025)

@@ -1,0 +1,5 @@
+smiling(0.061)
+child+singing(0.058)
+adult+female+singing(0.047)
+adult+female+speaking(0.045)
+waving(0.031)

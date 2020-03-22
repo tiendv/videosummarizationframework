@@ -1,0 +1,5 @@
+eating(0.094)
+drinking(0.074)
+chewing(0.072)
+adult+male+speaking(0.069)
+sneezing(0.055)

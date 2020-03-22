@@ -1,0 +1,5 @@
+starting(0.076)
+spinning(0.057)
+turning(0.048)
+sliding(0.033)
+playing+videogames(0.032)

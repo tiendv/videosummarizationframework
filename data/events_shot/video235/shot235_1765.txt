@@ -1,0 +1,5 @@
+clipping(0.115)
+fighting(0.052)
+cutting(0.052)
+sawing(0.040)
+shooting(0.039)

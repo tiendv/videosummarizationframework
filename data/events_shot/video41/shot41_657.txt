@@ -1,0 +1,5 @@
+stomping(0.368)
+walking(0.147)
+standing(0.095)
+adult+male+singing(0.089)
+hiking(0.034)

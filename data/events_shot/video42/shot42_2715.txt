@@ -1,0 +1,5 @@
+sneezing(0.152)
+reading(0.102)
+studying(0.066)
+coughing(0.048)
+cramming(0.046)

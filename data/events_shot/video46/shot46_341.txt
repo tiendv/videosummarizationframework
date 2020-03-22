@@ -1,0 +1,5 @@
+adult+female+singing(0.108)
+slapping(0.081)
+sneezing(0.062)
+adult+male+singing(0.043)
+fighting(0.037)

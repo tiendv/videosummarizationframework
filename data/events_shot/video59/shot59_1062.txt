@@ -1,0 +1,5 @@
+standing(0.056)
+filming(0.051)
+guarding(0.045)
+walking(0.044)
+slapping(0.043)

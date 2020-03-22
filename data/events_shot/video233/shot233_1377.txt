@@ -1,0 +1,5 @@
+baking(0.453)
+cooking(0.156)
+sprinkling(0.075)
+eating(0.040)
+blowing(0.032)

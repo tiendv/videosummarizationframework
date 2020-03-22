@@ -1,0 +1,5 @@
+aiming(0.386)
+playing+videogames(0.060)
+flicking(0.032)
+shooting(0.023)
+standing(0.018)

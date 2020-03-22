@@ -1,0 +1,5 @@
+coughing(0.333)
+blowing(0.211)
+whistling(0.115)
+sneezing(0.051)
+sniffing(0.029)

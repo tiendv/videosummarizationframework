@@ -1,0 +1,5 @@
+sitting(0.063)
+standing(0.046)
+running(0.042)
+talking(0.027)
+sprinting(0.027)

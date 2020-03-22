@@ -1,0 +1,5 @@
+marrying(0.053)
+dancing(0.037)
+adult+female+singing(0.033)
+hugging(0.029)
+fighting(0.025)

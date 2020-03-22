@@ -1,0 +1,5 @@
+slapping(0.144)
+drying(0.068)
+walking(0.037)
+adult+male+speaking(0.035)
+adult+female+speaking(0.025)

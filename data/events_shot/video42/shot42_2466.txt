@@ -1,0 +1,5 @@
+adult+female+singing(0.354)
+adult+female+speaking(0.093)
+fighting(0.021)
+filming(0.020)
+smiling(0.014)

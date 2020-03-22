@@ -1,0 +1,5 @@
+adult+female+singing(0.176)
+adult+male+singing(0.063)
+adult+female+speaking(0.042)
+snowing(0.028)
+clipping(0.024)

@@ -1,0 +1,5 @@
+fighting(0.128)
+adult+male+singing(0.080)
+punching(0.061)
+smashing(0.042)
+hitting(0.038)

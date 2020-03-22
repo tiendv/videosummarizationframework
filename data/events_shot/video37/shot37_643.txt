@@ -1,0 +1,5 @@
+standing(0.070)
+adult+female+singing(0.049)
+adult+male+singing(0.037)
+attacking(0.035)
+rising(0.033)

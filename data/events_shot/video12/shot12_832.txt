@@ -1,0 +1,5 @@
+walking(0.075)
+crying(0.045)
+arresting(0.035)
+slapping(0.029)
+knocking(0.026)

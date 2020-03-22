@@ -1,0 +1,5 @@
+punching(0.048)
+hanging(0.044)
+boxing(0.041)
+gripping(0.035)
+spinning(0.033)

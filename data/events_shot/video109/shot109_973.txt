@@ -1,0 +1,5 @@
+walking(0.391)
+crying(0.091)
+playing+videogames(0.032)
+attacking(0.022)
+standing(0.018)

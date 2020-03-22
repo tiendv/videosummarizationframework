@@ -1,0 +1,5 @@
+folding(0.551)
+peeling(0.117)
+tearing(0.048)
+crafting(0.030)
+shredding(0.016)

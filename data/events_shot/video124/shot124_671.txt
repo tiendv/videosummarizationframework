@@ -1,0 +1,5 @@
+standing(0.055)
+sitting(0.036)
+running(0.032)
+adult+male+speaking(0.027)
+adult+female+speaking(0.019)

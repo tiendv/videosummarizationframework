@@ -1,0 +1,5 @@
+singing(0.108)
+adult+male+singing(0.070)
+adult+female+singing(0.066)
+shooting(0.055)
+performing(0.023)

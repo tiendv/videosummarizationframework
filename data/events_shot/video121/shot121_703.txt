@@ -1,0 +1,5 @@
+biting(0.350)
+attacking(0.076)
+eating(0.067)
+sitting(0.035)
+fighting(0.033)

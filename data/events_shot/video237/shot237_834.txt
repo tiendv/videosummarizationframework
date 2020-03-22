@@ -1,0 +1,5 @@
+painting(0.186)
+aiming(0.149)
+shooting(0.124)
+playing+videogames(0.042)
+pointing(0.037)

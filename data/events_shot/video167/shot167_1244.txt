@@ -1,0 +1,5 @@
+drinking(0.885)
+eating(0.016)
+dining(0.014)
+spitting(0.005)
+socializing(0.004)

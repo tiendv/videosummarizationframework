@@ -1,0 +1,5 @@
+shaving(0.061)
+smashing(0.032)
+hitting(0.031)
+adult+male+speaking(0.029)
+adult+female+singing(0.029)

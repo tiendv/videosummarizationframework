@@ -1,0 +1,5 @@
+telephoning(0.548)
+calling(0.400)
+driving(0.006)
+singing(0.003)
+adult+female+speaking(0.003)

@@ -1,0 +1,5 @@
+spinning(0.798)
+turning(0.062)
+cleaning(0.006)
+drying(0.004)
+talking(0.003)

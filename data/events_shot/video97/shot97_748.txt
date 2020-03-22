@@ -1,0 +1,5 @@
+stomping(0.716)
+walking(0.019)
+standing(0.015)
+crushing(0.012)
+burying(0.011)

@@ -1,0 +1,5 @@
+adult+male+singing(0.248)
+adult+female+singing(0.105)
+drinking(0.088)
+singing(0.067)
+adult+male+speaking(0.047)

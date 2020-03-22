@@ -1,0 +1,5 @@
+walking(0.193)
+running(0.091)
+arresting(0.058)
+queuing(0.044)
+fighting(0.040)

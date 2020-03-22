@@ -1,0 +1,5 @@
+autographing(0.148)
+eating(0.083)
+reading(0.080)
+asking(0.067)
+adult+female+speaking(0.065)

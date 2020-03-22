@@ -1,0 +1,5 @@
+arresting(0.211)
+handcuffing(0.078)
+stealing(0.038)
+attacking(0.036)
+hitchhiking(0.030)

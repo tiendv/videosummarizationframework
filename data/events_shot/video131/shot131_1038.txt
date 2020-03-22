@@ -1,0 +1,5 @@
+fighting(0.246)
+hugging(0.041)
+arresting(0.040)
+driving(0.038)
+attacking(0.031)

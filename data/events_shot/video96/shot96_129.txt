@@ -1,0 +1,5 @@
+standing(0.065)
+adult+male+speaking(0.045)
+celebrating(0.039)
+walking(0.035)
+adult+female+speaking(0.033)

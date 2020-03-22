@@ -1,0 +1,5 @@
+telephoning(0.206)
+calling(0.126)
+filming(0.066)
+slapping(0.047)
+adult+female+speaking(0.046)

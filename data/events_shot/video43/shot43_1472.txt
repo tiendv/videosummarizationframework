@@ -1,0 +1,5 @@
+bowing(0.038)
+adult+male+speaking(0.035)
+crying(0.034)
+crawling(0.031)
+kneeling(0.023)

@@ -1,0 +1,5 @@
+tattooing(0.685)
+adult+male+speaking(0.054)
+adult+female+speaking(0.028)
+discussing(0.014)
+injecting(0.011)

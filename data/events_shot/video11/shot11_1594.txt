@@ -1,0 +1,5 @@
+brushing(0.109)
+painting(0.068)
+licking(0.032)
+hugging(0.022)
+tying(0.019)

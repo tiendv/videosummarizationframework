@@ -1,0 +1,5 @@
+selling(0.075)
+asking(0.061)
+juggling(0.055)
+shopping(0.048)
+preaching(0.045)

@@ -1,0 +1,5 @@
+throwing(0.115)
+walking(0.072)
+filming(0.062)
+standing(0.041)
+adult+male+speaking(0.032)

@@ -1,0 +1,5 @@
+slapping(0.151)
+hugging(0.064)
+pointing(0.050)
+smiling(0.044)
+discussing(0.044)

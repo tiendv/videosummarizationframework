@@ -1,0 +1,5 @@
+drinking(0.200)
+playing+videogames(0.105)
+filming(0.040)
+adult+male+speaking(0.032)
+aiming(0.025)

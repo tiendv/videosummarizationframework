@@ -1,0 +1,5 @@
+adult+male+speaking(0.123)
+interviewing(0.068)
+discussing(0.068)
+officiating(0.060)
+praying(0.050)

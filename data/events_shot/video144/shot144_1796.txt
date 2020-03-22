@@ -1,0 +1,5 @@
+sitting(0.101)
+camping(0.047)
+laughing(0.033)
+child+speaking(0.027)
+playing(0.027)

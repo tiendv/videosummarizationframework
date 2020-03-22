@@ -1,0 +1,5 @@
+standing(0.058)
+drinking(0.035)
+saluting(0.033)
+adult+female+singing(0.031)
+filming(0.026)

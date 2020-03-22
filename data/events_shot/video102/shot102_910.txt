@@ -1,0 +1,5 @@
+adult+male+singing(0.139)
+standing(0.092)
+walking(0.059)
+playing+videogames(0.049)
+hitchhiking(0.045)

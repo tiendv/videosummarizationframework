@@ -1,0 +1,5 @@
+walking(0.172)
+carrying(0.051)
+exiting(0.048)
+adult+male+speaking(0.027)
+talking(0.023)

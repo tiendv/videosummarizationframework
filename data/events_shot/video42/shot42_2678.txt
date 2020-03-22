@@ -1,0 +1,5 @@
+burning(0.081)
+talking(0.068)
+adult+male+speaking(0.060)
+playing+videogames(0.046)
+discussing(0.027)

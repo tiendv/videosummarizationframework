@@ -1,0 +1,5 @@
+adult+male+speaking(0.038)
+stealing(0.034)
+discussing(0.028)
+selling(0.025)
+dining(0.025)

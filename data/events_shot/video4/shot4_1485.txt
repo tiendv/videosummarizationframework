@@ -1,0 +1,5 @@
+talking(0.071)
+locking(0.060)
+starting(0.056)
+discussing(0.053)
+working(0.044)

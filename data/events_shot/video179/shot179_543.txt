@@ -1,0 +1,5 @@
+roaring(0.164)
+adult+female+singing(0.097)
+hunting(0.030)
+singing(0.027)
+adult+female+speaking(0.020)

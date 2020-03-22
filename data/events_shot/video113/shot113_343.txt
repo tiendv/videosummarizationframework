@@ -1,0 +1,5 @@
+eating(0.154)
+discussing(0.105)
+chewing(0.087)
+sitting(0.046)
+adult+male+speaking(0.046)

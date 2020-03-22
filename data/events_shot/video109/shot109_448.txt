@@ -1,0 +1,5 @@
+exercising(0.152)
+adult+female+singing(0.143)
+squatting(0.051)
+lifting(0.038)
+gripping(0.034)

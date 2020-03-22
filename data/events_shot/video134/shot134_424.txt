@@ -1,0 +1,5 @@
+squatting(0.052)
+tattooing(0.048)
+adult+female+speaking(0.039)
+adult+female+singing(0.033)
+standing(0.025)

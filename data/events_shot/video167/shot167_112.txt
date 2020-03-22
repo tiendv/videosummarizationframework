@@ -1,0 +1,5 @@
+playing+videogames(0.117)
+queuing(0.040)
+walking(0.040)
+aiming(0.031)
+standing(0.031)

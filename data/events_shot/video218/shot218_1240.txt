@@ -1,0 +1,5 @@
+bowling(0.088)
+boxing(0.080)
+punching(0.056)
+fighting(0.044)
+hugging(0.020)

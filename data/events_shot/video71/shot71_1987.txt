@@ -1,0 +1,5 @@
+hanging(0.465)
+swinging(0.134)
+cleaning(0.031)
+stealing(0.018)
+sliding(0.014)

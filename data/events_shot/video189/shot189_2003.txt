@@ -1,0 +1,5 @@
+driving(0.354)
+racing(0.267)
+steering(0.115)
+riding(0.104)
+dragging(0.016)

@@ -1,0 +1,5 @@
+crying(0.343)
+telephoning(0.161)
+calling(0.114)
+adult+female+speaking(0.030)
+walking(0.025)

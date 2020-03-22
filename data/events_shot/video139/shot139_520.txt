@@ -1,0 +1,5 @@
+adult+female+singing(0.115)
+kissing(0.078)
+adult+male+singing(0.072)
+fighting(0.044)
+playing+videogames(0.032)

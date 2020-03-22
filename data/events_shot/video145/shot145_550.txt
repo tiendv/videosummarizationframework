@@ -1,0 +1,5 @@
+dragging(0.177)
+fighting(0.081)
+squatting(0.050)
+rising(0.047)
+pulling(0.046)

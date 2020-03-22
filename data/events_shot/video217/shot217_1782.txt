@@ -1,0 +1,5 @@
+planting(0.055)
+cleaning(0.038)
+sowing(0.035)
+injecting(0.031)
+bowing(0.030)

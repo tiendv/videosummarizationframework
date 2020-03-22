@@ -1,0 +1,5 @@
+driving(0.136)
+walking(0.058)
+riding(0.051)
+running(0.030)
+raining(0.028)

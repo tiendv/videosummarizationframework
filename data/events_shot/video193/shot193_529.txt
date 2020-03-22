@@ -1,0 +1,5 @@
+breaking(0.063)
+raining(0.057)
+colliding(0.051)
+snowing(0.046)
+turning(0.036)

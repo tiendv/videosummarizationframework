@@ -1,0 +1,5 @@
+storming(0.059)
+flooding(0.042)
+raining(0.040)
+playing+videogames(0.030)
+adult+male+speaking(0.028)

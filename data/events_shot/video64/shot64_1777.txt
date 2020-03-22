@@ -1,0 +1,5 @@
+pointing(0.228)
+adult+male+speaking(0.132)
+coaching(0.093)
+asking(0.039)
+fencing(0.028)

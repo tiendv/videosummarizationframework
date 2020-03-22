@@ -1,0 +1,5 @@
+stealing(0.133)
+arresting(0.112)
+running(0.074)
+walking(0.069)
+asking(0.038)

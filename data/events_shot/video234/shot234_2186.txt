@@ -1,0 +1,5 @@
+adult+male+speaking(0.241)
+standing(0.072)
+lecturing(0.066)
+walking(0.051)
+opening(0.034)

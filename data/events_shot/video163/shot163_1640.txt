@@ -1,0 +1,5 @@
+painting(0.120)
+tattooing(0.069)
+adult+male+speaking(0.025)
+gripping(0.023)
+hanging(0.019)

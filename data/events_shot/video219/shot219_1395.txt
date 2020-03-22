@@ -1,0 +1,5 @@
+telephoning(0.215)
+calling(0.124)
+crying(0.060)
+sneezing(0.049)
+slapping(0.029)

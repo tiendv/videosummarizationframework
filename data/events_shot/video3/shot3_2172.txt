@@ -1,0 +1,5 @@
+diving(0.102)
+jumping(0.085)
+climbing(0.081)
+adult+female+singing(0.038)
+hiking(0.037)

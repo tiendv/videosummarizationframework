@@ -1,0 +1,5 @@
+bicycling(0.160)
+pedaling(0.033)
+rolling(0.025)
+walking(0.024)
+standing(0.021)

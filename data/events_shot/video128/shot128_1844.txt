@@ -1,0 +1,5 @@
+exiting(0.239)
+walking(0.090)
+entering(0.079)
+stealing(0.067)
+queuing(0.028)

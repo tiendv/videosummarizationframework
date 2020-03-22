@@ -1,0 +1,5 @@
+fighting(0.023)
+standing(0.022)
+hugging(0.021)
+filming(0.021)
+arresting(0.017)

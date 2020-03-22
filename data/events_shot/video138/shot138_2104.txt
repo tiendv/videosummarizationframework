@@ -1,0 +1,5 @@
+folding(0.068)
+hammering(0.040)
+packaging(0.035)
+wrapping(0.032)
+building(0.028)

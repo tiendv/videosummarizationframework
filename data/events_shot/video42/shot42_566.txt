@@ -1,0 +1,5 @@
+hammering(0.165)
+sneezing(0.056)
+coughing(0.032)
+praying(0.023)
+studying(0.018)

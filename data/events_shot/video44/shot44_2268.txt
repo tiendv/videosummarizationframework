@@ -1,0 +1,5 @@
+adult+female+speaking(0.050)
+asking(0.041)
+gripping(0.035)
+smoking(0.034)
+standing(0.030)

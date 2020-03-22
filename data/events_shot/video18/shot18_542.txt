@@ -1,0 +1,5 @@
+adult+male+speaking(0.049)
+adult+female+speaking(0.048)
+stealing(0.037)
+knocking(0.036)
+starting(0.029)

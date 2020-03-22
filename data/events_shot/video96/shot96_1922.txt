@@ -1,0 +1,5 @@
+standing(0.046)
+camping(0.037)
+eating(0.028)
+smiling(0.025)
+laughing(0.020)

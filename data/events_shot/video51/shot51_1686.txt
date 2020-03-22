@@ -1,0 +1,5 @@
+adult+female+singing(0.137)
+adult+female+speaking(0.038)
+sneezing(0.037)
+rocking(0.028)
+filming(0.021)

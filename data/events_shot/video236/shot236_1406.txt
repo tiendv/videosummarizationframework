@@ -1,0 +1,5 @@
+drinking(0.032)
+opening(0.026)
+working(0.022)
+hugging(0.021)
+exiting(0.020)

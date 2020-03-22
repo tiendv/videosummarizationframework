@@ -1,0 +1,5 @@
+slapping(0.054)
+painting(0.042)
+knocking(0.033)
+throwing(0.033)
+adult+female+speaking(0.023)

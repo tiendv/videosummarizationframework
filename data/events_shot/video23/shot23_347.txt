@@ -1,0 +1,5 @@
+walking(0.033)
+running(0.028)
+stealing(0.024)
+working(0.018)
+loading(0.015)

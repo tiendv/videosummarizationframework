@@ -1,0 +1,5 @@
+fighting(0.148)
+punching(0.103)
+boxing(0.064)
+slapping(0.061)
+running(0.061)

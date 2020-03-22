@@ -1,0 +1,5 @@
+crying(0.131)
+roaring(0.061)
+sneezing(0.055)
+talking(0.040)
+yawning(0.035)

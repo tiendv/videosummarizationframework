@@ -1,0 +1,5 @@
+arresting(0.158)
+slapping(0.084)
+asking(0.081)
+discussing(0.046)
+handcuffing(0.027)

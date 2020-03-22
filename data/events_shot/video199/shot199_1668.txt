@@ -1,0 +1,5 @@
+shooting(0.040)
+pointing(0.039)
+aiming(0.034)
+working(0.029)
+hammering(0.026)

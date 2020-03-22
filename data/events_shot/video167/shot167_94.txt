@@ -1,0 +1,5 @@
+drying(0.966)
+painting(0.006)
+hanging(0.002)
+brushing(0.001)
+building(0.001)

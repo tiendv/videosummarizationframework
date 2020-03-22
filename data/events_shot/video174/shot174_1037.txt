@@ -1,0 +1,5 @@
+eating(0.203)
+drinking(0.117)
+dining(0.077)
+sneezing(0.076)
+chewing(0.043)

@@ -1,0 +1,5 @@
+sneezing(0.042)
+walking(0.035)
+playing+videogames(0.029)
+squinting(0.021)
+spinning(0.020)

@@ -1,0 +1,5 @@
+sneezing(0.110)
+drinking(0.063)
+adult+female+speaking(0.053)
+standing(0.050)
+adult+male+speaking(0.046)

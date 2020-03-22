@@ -1,0 +1,5 @@
+hugging(0.102)
+adult+female+speaking(0.076)
+asking(0.068)
+drinking(0.046)
+tattooing(0.044)

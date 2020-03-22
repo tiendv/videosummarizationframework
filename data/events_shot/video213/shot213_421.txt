@@ -1,0 +1,5 @@
+spinning(0.166)
+stacking(0.055)
+shaking(0.032)
+sneezing(0.030)
+drying(0.028)

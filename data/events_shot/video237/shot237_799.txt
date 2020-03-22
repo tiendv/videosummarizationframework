@@ -1,0 +1,5 @@
+hugging(0.086)
+arresting(0.035)
+filming(0.034)
+adult+male+speaking(0.034)
+adult+male+singing(0.025)

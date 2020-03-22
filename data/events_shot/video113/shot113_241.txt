@@ -1,0 +1,5 @@
+coaching(0.039)
+smiling(0.037)
+asking(0.030)
+teaching(0.030)
+adult+male+speaking(0.027)

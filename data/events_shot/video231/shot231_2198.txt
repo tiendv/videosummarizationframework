@@ -1,0 +1,5 @@
+drinking(0.059)
+hugging(0.054)
+cooking(0.050)
+coughing(0.036)
+talking(0.035)

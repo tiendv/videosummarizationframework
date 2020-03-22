@@ -1,0 +1,5 @@
+queuing(0.037)
+asking(0.036)
+selling(0.029)
+walking(0.029)
+autographing(0.025)

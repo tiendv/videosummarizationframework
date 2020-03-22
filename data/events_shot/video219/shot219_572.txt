@@ -1,0 +1,5 @@
+running(0.093)
+walking(0.089)
+painting(0.051)
+queuing(0.019)
+hugging(0.018)

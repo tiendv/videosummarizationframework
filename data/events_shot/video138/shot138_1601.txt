@@ -1,0 +1,5 @@
+marrying(0.132)
+kissing(0.123)
+officiating(0.055)
+praying(0.045)
+adult+male+speaking(0.040)

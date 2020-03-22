@@ -1,0 +1,5 @@
+running(0.130)
+slapping(0.107)
+jogging(0.093)
+adult+male+singing(0.048)
+hugging(0.042)

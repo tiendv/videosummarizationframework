@@ -1,0 +1,5 @@
+slapping(0.090)
+raining(0.029)
+knocking(0.023)
+pointing(0.022)
+punching(0.021)

@@ -1,0 +1,5 @@
+drinking(0.174)
+driving(0.068)
+towing(0.044)
+standing(0.032)
+talking(0.023)

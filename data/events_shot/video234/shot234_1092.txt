@@ -1,0 +1,5 @@
+adult+female+speaking(0.086)
+asking(0.039)
+baking(0.036)
+washing(0.034)
+cooking(0.031)

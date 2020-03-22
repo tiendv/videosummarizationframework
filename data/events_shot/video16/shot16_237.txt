@@ -1,0 +1,5 @@
+fencing(0.055)
+raining(0.045)
+smoking(0.030)
+crying(0.024)
+queuing(0.023)

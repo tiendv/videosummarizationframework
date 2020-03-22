@@ -1,0 +1,5 @@
+handcuffing(0.094)
+dressing(0.052)
+slapping(0.037)
+standing(0.036)
+arresting(0.035)

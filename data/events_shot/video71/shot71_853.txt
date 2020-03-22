@@ -1,0 +1,5 @@
+slapping(0.420)
+spitting(0.047)
+punching(0.032)
+pointing(0.022)
+smiling(0.022)

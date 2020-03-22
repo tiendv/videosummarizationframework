@@ -1,0 +1,5 @@
+walking(0.126)
+arresting(0.062)
+standing(0.052)
+hugging(0.048)
+guarding(0.038)

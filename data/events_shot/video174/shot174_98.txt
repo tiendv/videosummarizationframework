@@ -1,0 +1,5 @@
+fighting(0.053)
+walking(0.046)
+arresting(0.040)
+filming(0.037)
+standing(0.037)

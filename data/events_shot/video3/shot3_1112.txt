@@ -1,0 +1,5 @@
+stomping(0.033)
+slapping(0.031)
+cooking(0.029)
+talking(0.022)
+eating(0.021)

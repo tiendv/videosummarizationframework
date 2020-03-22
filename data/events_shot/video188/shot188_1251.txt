@@ -1,0 +1,5 @@
+aiming(0.065)
+loading(0.046)
+playing+videogames(0.034)
+inflating(0.026)
+starting(0.024)

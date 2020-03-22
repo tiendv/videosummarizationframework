@@ -1,0 +1,5 @@
+crying(0.150)
+frowning(0.103)
+playing+videogames(0.073)
+talking(0.055)
+discussing(0.037)

@@ -1,0 +1,5 @@
+shrugging(0.123)
+smiling(0.096)
+standing(0.065)
+adult+male+speaking(0.043)
+asking(0.030)

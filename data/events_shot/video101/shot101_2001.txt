@@ -1,0 +1,5 @@
+filming(0.245)
+sneezing(0.083)
+photographing(0.075)
+walking(0.033)
+coughing(0.025)

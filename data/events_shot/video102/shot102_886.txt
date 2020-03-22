@@ -1,0 +1,5 @@
+smelling(0.082)
+discussing(0.074)
+drinking(0.069)
+sniffing(0.068)
+coughing(0.041)

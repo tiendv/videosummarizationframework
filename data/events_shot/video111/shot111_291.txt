@@ -1,0 +1,5 @@
+fighting(0.214)
+knocking(0.140)
+punching(0.049)
+adult+female+singing(0.043)
+hitting(0.043)

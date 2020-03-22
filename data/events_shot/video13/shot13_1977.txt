@@ -1,0 +1,5 @@
+autographing(0.152)
+walking(0.058)
+fighting(0.048)
+arresting(0.040)
+adult+male+speaking(0.032)

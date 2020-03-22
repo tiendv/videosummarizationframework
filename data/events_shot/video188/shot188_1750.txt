@@ -1,0 +1,5 @@
+adult+male+singing(0.123)
+running(0.084)
+adult+male+speaking(0.053)
+jogging(0.037)
+cracking(0.036)

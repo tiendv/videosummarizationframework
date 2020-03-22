@@ -1,0 +1,5 @@
+hugging(0.050)
+adult+male+speaking(0.021)
+tattooing(0.020)
+laughing(0.019)
+walking(0.019)

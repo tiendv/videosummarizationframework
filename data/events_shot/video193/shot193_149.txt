@@ -1,0 +1,5 @@
+skipping(0.111)
+mopping(0.067)
+stomping(0.058)
+sweeping(0.055)
+bowing(0.043)

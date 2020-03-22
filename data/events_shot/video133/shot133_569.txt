@@ -1,0 +1,5 @@
+cooking(0.049)
+adult+female+speaking(0.040)
+baking(0.039)
+packing(0.038)
+unpacking(0.023)

@@ -1,0 +1,5 @@
+walking(0.086)
+skating(0.042)
+standing(0.041)
+sitting(0.041)
+running(0.025)

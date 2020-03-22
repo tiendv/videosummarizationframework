@@ -1,0 +1,5 @@
+chewing(0.057)
+brushing(0.042)
+talking(0.033)
+adult+female+speaking(0.030)
+discussing(0.029)

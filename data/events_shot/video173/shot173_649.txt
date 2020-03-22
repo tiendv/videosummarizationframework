@@ -1,0 +1,5 @@
+sitting(0.070)
+sneezing(0.052)
+laughing(0.048)
+talking(0.041)
+stealing(0.033)

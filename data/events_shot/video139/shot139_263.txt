@@ -1,0 +1,5 @@
+talking(0.040)
+adult+female+speaking(0.035)
+manicuring(0.032)
+adult+male+speaking(0.031)
+sitting(0.031)

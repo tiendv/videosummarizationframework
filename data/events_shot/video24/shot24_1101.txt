@@ -1,0 +1,5 @@
+painting(0.125)
+standing(0.029)
+protesting(0.029)
+playing+videogames(0.027)
+hugging(0.026)

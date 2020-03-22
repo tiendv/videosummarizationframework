@@ -1,0 +1,5 @@
+driving(0.233)
+riding(0.172)
+piloting(0.169)
+sitting(0.031)
+steering(0.029)

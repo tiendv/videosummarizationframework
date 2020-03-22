@@ -1,0 +1,5 @@
+adult+male+singing(0.247)
+adult+female+singing(0.222)
+rocking(0.029)
+driving(0.023)
+singing(0.017)

@@ -1,0 +1,5 @@
+fighting(0.249)
+clipping(0.083)
+attacking(0.061)
+cutting(0.030)
+talking(0.025)

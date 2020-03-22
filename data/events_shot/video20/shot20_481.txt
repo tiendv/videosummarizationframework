@@ -1,0 +1,5 @@
+reading(0.166)
+paying(0.039)
+gripping(0.032)
+crafting(0.027)
+opening(0.027)

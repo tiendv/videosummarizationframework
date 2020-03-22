@@ -1,0 +1,5 @@
+sneezing(0.160)
+coughing(0.123)
+eating(0.053)
+child+speaking(0.048)
+laughing(0.046)

@@ -1,0 +1,5 @@
+drinking(0.062)
+giving(0.028)
+interviewing(0.023)
+adult+female+speaking(0.023)
+putting(0.022)

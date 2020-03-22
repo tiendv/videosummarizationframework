@@ -1,0 +1,5 @@
+stacking(0.045)
+painting(0.032)
+slapping(0.027)
+punching(0.019)
+spraying(0.019)

@@ -1,0 +1,5 @@
+driving(0.406)
+steering(0.112)
+riding(0.097)
+sitting(0.027)
+towing(0.022)

@@ -1,0 +1,5 @@
+cleaning(0.078)
+packing(0.038)
+cooking(0.027)
+laughing(0.027)
+working(0.024)

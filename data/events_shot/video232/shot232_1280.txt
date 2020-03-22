@@ -1,0 +1,5 @@
+talking(0.110)
+sitting(0.106)
+tattooing(0.077)
+adult+male+speaking(0.066)
+discussing(0.060)

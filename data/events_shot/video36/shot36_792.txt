@@ -1,0 +1,5 @@
+talking(0.064)
+knocking(0.052)
+slapping(0.026)
+starting(0.026)
+standing(0.026)

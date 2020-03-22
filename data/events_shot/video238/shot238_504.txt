@@ -1,0 +1,5 @@
+cheerleading(0.205)
+adult+female+singing(0.075)
+adult+female+speaking(0.049)
+cheering(0.022)
+standing(0.020)

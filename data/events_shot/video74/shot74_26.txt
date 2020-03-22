@@ -1,0 +1,5 @@
+entering(0.213)
+exiting(0.106)
+aiming(0.075)
+closing(0.062)
+sliding(0.045)

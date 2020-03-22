@@ -1,0 +1,5 @@
+mowing(0.067)
+standing(0.051)
+walking(0.042)
+fencing(0.032)
+balancing(0.024)

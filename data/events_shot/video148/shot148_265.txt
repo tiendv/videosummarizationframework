@@ -1,0 +1,5 @@
+loading(0.165)
+aiming(0.063)
+hitchhiking(0.043)
+gripping(0.032)
+fueling(0.022)

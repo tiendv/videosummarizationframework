@@ -1,0 +1,5 @@
+queuing(0.147)
+walking(0.089)
+slapping(0.059)
+shaking(0.033)
+standing(0.031)

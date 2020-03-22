@@ -1,0 +1,5 @@
+frowning(0.050)
+knocking(0.049)
+crying(0.048)
+whistling(0.048)
+slapping(0.034)

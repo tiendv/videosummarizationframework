@@ -1,0 +1,5 @@
+mopping(0.299)
+stomping(0.122)
+sweeping(0.104)
+crushing(0.055)
+cleaning(0.021)

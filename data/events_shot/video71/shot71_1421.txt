@@ -1,0 +1,5 @@
+fencing(0.377)
+knocking(0.094)
+building(0.045)
+fighting(0.033)
+smashing(0.024)

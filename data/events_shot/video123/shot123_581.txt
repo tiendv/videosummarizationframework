@@ -1,0 +1,5 @@
+rising(0.097)
+colliding(0.043)
+breaking(0.034)
+hanging(0.034)
+adult+male+singing(0.030)

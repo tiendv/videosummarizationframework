@@ -1,0 +1,5 @@
+punching(0.049)
+boxing(0.048)
+taping(0.039)
+adult+male+speaking(0.026)
+filming(0.018)

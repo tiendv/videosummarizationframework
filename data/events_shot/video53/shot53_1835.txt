@@ -1,0 +1,5 @@
+slapping(0.038)
+drinking(0.034)
+sneezing(0.032)
+filming(0.029)
+walking(0.019)

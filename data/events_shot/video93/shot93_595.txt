@@ -1,0 +1,5 @@
+stealing(0.167)
+fueling(0.111)
+asking(0.091)
+arresting(0.090)
+walking(0.061)

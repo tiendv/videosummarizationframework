@@ -1,0 +1,5 @@
+standing(0.061)
+fighting(0.052)
+adult+male+speaking(0.046)
+adult+female+speaking(0.038)
+talking(0.033)

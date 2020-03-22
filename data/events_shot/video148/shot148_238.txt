@@ -1,0 +1,5 @@
+crying(0.456)
+frowning(0.090)
+opening(0.070)
+closing(0.066)
+winking(0.024)

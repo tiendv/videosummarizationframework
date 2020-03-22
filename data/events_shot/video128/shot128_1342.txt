@@ -1,0 +1,5 @@
+adult+male+speaking(0.037)
+adult+female+singing(0.033)
+stopping(0.027)
+hitchhiking(0.019)
+starting(0.019)

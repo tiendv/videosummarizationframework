@@ -1,0 +1,5 @@
+adult+female+speaking(0.028)
+walking(0.028)
+talking(0.026)
+driving(0.023)
+cleaning(0.021)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.109)
+selling(0.090)
+shopping(0.085)
+talking(0.040)
+laughing(0.040)

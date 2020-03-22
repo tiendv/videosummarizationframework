@@ -1,0 +1,5 @@
+bowing(0.115)
+sneezing(0.108)
+drinking(0.089)
+eating(0.066)
+playing+videogames(0.045)

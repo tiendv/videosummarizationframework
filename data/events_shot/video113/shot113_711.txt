@@ -1,0 +1,5 @@
+storming(0.642)
+flooding(0.203)
+raining(0.071)
+drenching(0.006)
+flowing(0.006)

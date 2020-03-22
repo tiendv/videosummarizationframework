@@ -1,0 +1,5 @@
+drinking(0.101)
+sneezing(0.039)
+filming(0.036)
+adult+male+speaking(0.026)
+standing(0.022)

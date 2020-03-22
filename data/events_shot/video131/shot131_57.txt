@@ -1,0 +1,5 @@
+pouring(0.069)
+dining(0.052)
+cooking(0.043)
+shopping(0.025)
+selling(0.021)

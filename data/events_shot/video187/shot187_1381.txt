@@ -1,0 +1,5 @@
+drinking(0.038)
+filming(0.035)
+spitting(0.028)
+knocking(0.028)
+walking(0.025)

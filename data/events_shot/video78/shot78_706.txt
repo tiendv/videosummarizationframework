@@ -1,0 +1,5 @@
+fencing(0.083)
+knocking(0.057)
+standing(0.041)
+adult+male+speaking(0.039)
+walking(0.030)

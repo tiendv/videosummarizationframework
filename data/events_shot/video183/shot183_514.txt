@@ -1,0 +1,5 @@
+piloting(0.246)
+riding(0.131)
+driving(0.067)
+flying(0.061)
+fighting(0.033)

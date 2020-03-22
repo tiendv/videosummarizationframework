@@ -1,0 +1,5 @@
+sneezing(0.048)
+slapping(0.037)
+laughing(0.036)
+dining(0.033)
+painting(0.031)

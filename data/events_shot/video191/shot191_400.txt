@@ -1,0 +1,5 @@
+slapping(0.051)
+filming(0.039)
+attacking(0.033)
+sneezing(0.025)
+punching(0.023)

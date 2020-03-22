@@ -1,0 +1,5 @@
+adult+female+speaking(0.078)
+adult+male+speaking(0.073)
+hitchhiking(0.050)
+smiling(0.044)
+stopping(0.044)

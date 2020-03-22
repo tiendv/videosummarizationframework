@@ -1,0 +1,5 @@
+spinning(0.194)
+storming(0.076)
+flying(0.039)
+juggling(0.029)
+raining(0.025)

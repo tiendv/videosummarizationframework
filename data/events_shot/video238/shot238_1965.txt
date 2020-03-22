@@ -1,0 +1,5 @@
+raining(0.037)
+adult+male+singing(0.036)
+adult+male+speaking(0.034)
+calling(0.034)
+roaring(0.032)

@@ -1,0 +1,5 @@
+walking(0.121)
+sneezing(0.094)
+filming(0.059)
+coughing(0.054)
+slapping(0.042)

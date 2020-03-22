@@ -1,0 +1,5 @@
+arresting(0.044)
+stealing(0.040)
+exiting(0.033)
+fueling(0.031)
+washing(0.025)

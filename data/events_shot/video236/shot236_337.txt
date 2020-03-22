@@ -1,0 +1,5 @@
+praying(0.161)
+bowing(0.086)
+sneezing(0.057)
+adult+male+speaking(0.036)
+filming(0.030)

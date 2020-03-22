@@ -1,0 +1,5 @@
+frowning(0.569)
+aiming(0.045)
+squinting(0.037)
+shrugging(0.030)
+saluting(0.024)

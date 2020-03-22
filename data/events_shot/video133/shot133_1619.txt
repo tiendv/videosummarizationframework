@@ -1,0 +1,5 @@
+adult+female+singing(0.101)
+fighting(0.088)
+talking(0.051)
+walking(0.036)
+clipping(0.033)

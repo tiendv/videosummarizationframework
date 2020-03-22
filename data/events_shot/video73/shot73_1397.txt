@@ -1,0 +1,5 @@
+fighting(0.041)
+raining(0.033)
+talking(0.027)
+attacking(0.025)
+adult+female+speaking(0.024)

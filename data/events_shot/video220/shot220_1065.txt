@@ -1,0 +1,5 @@
+coaching(0.136)
+walking(0.084)
+adult+male+speaking(0.064)
+filming(0.045)
+standing(0.045)

@@ -1,0 +1,5 @@
+standing(0.075)
+adult+female+speaking(0.032)
+talking(0.030)
+adult+female+singing(0.024)
+dusting(0.019)

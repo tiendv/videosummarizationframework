@@ -1,0 +1,5 @@
+standing(0.058)
+adult+male+speaking(0.050)
+walking(0.035)
+asking(0.032)
+hitchhiking(0.028)

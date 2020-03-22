@@ -1,0 +1,5 @@
+dining(0.066)
+adult+male+speaking(0.044)
+laughing(0.040)
+autographing(0.038)
+baptizing(0.038)

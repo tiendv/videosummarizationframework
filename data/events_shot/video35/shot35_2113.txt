@@ -1,0 +1,5 @@
+filming(0.575)
+photographing(0.251)
+aiming(0.012)
+sneezing(0.011)
+playing+videogames(0.005)

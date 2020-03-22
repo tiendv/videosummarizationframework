@@ -1,0 +1,5 @@
+adult+male+speaking(0.168)
+talking(0.162)
+selling(0.056)
+standing(0.056)
+starting(0.036)

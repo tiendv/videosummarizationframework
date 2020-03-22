@@ -1,0 +1,5 @@
+painting(0.090)
+tattooing(0.081)
+talking(0.081)
+sitting(0.034)
+playing+videogames(0.032)

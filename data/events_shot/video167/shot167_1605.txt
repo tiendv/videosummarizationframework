@@ -1,0 +1,5 @@
+reading(0.313)
+sitting(0.047)
+studying(0.040)
+working(0.029)
+inflating(0.024)

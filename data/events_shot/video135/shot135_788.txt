@@ -1,0 +1,5 @@
+talking(0.131)
+adult+female+speaking(0.078)
+playing+videogames(0.066)
+interviewing(0.037)
+child+speaking(0.036)

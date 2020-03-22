@@ -1,0 +1,5 @@
+telephoning(0.091)
+calling(0.078)
+discussing(0.044)
+fighting(0.043)
+adult+male+speaking(0.035)

@@ -1,0 +1,5 @@
+signing(0.129)
+autographing(0.127)
+discussing(0.091)
+interviewing(0.062)
+talking(0.050)

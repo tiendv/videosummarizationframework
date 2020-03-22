@@ -1,0 +1,5 @@
+laughing(0.318)
+crying(0.036)
+giggling(0.033)
+adult+male+singing(0.024)
+adult+female+singing(0.023)

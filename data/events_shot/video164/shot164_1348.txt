@@ -1,0 +1,5 @@
+standing(0.095)
+walking(0.085)
+talking(0.045)
+officiating(0.033)
+guarding(0.032)

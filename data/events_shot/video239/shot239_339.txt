@@ -1,0 +1,5 @@
+folding(0.737)
+stacking(0.122)
+flipping(0.022)
+reading(0.018)
+wrapping(0.015)

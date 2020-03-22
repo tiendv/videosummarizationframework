@@ -1,0 +1,5 @@
+filming(0.046)
+photographing(0.027)
+adult+male+speaking(0.024)
+walking(0.020)
+stealing(0.017)

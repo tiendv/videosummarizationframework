@@ -1,0 +1,5 @@
+sitting(0.050)
+leaning(0.026)
+talking(0.023)
+filming(0.021)
+adult+male+speaking(0.020)

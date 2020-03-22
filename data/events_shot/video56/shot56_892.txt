@@ -1,0 +1,5 @@
+standing(0.040)
+hugging(0.037)
+walking(0.036)
+adult+female+singing(0.029)
+filming(0.028)

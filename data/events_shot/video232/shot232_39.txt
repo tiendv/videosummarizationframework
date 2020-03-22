@@ -1,0 +1,5 @@
+adult+female+speaking(0.091)
+sitting(0.063)
+injecting(0.055)
+manicuring(0.051)
+telephoning(0.037)

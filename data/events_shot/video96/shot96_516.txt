@@ -1,0 +1,5 @@
+reading(0.438)
+studying(0.050)
+writing(0.041)
+working(0.030)
+telephoning(0.029)

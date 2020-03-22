@@ -1,0 +1,5 @@
+hugging(0.117)
+queuing(0.112)
+adult+female+speaking(0.074)
+walking(0.046)
+smiling(0.030)

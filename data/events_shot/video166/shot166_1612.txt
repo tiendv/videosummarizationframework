@@ -1,0 +1,5 @@
+hugging(0.057)
+adult+female+speaking(0.043)
+painting(0.026)
+sniffing(0.026)
+filming(0.020)

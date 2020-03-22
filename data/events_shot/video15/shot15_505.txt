@@ -1,0 +1,5 @@
+adult+male+singing(0.052)
+exercising(0.037)
+adult+female+singing(0.034)
+slapping(0.033)
+punching(0.028)

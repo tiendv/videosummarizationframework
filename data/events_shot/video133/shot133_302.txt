@@ -1,0 +1,5 @@
+drinking(0.056)
+smoking(0.038)
+adult+female+speaking(0.027)
+coughing(0.027)
+hugging(0.025)

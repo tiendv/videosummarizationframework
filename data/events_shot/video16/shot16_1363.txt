@@ -1,0 +1,5 @@
+walking(0.050)
+cooking(0.046)
+baking(0.032)
+standing(0.032)
+talking(0.027)

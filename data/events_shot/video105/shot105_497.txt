@@ -1,0 +1,5 @@
+studying(0.579)
+reading(0.229)
+cramming(0.127)
+writing(0.008)
+pointing(0.007)

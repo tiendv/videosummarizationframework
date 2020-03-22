@@ -1,0 +1,5 @@
+burning(0.083)
+juggling(0.031)
+performing(0.026)
+dancing(0.024)
+standing(0.024)

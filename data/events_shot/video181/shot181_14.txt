@@ -1,0 +1,5 @@
+filming(0.047)
+fighting(0.044)
+hugging(0.038)
+adult+female+singing(0.035)
+photographing(0.032)

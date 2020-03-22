@@ -1,0 +1,5 @@
+walking(0.032)
+knocking(0.029)
+slapping(0.025)
+starting(0.022)
+burning(0.022)

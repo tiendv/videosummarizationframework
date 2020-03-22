@@ -1,0 +1,5 @@
+plugging(0.244)
+starting(0.053)
+locking(0.042)
+draining(0.034)
+handcuffing(0.026)

@@ -1,0 +1,5 @@
+fighting(0.134)
+attacking(0.053)
+running(0.035)
+hugging(0.031)
+aiming(0.025)

@@ -1,0 +1,5 @@
+filming(0.081)
+hanging(0.054)
+smiling(0.040)
+chewing(0.039)
+photographing(0.037)

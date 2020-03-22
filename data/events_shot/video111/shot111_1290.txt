@@ -1,0 +1,5 @@
+asking(0.086)
+adult+female+speaking(0.073)
+slapping(0.068)
+autographing(0.047)
+interviewing(0.036)

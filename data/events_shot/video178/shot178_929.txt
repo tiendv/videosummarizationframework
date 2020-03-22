@@ -1,0 +1,5 @@
+walking(0.032)
+cracking(0.029)
+smashing(0.027)
+working(0.027)
+drinking(0.026)

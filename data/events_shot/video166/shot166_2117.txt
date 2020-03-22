@@ -1,0 +1,5 @@
+filming(0.039)
+photographing(0.036)
+sitting(0.027)
+standing(0.024)
+painting(0.019)

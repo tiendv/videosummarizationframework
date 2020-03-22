@@ -1,0 +1,5 @@
+spinning(0.076)
+adult+male+singing(0.073)
+starting(0.063)
+talking(0.045)
+aiming(0.030)

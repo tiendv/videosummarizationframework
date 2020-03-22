@@ -1,0 +1,5 @@
+slapping(0.111)
+washing(0.076)
+rinsing(0.043)
+bathing(0.033)
+adult+female+speaking(0.031)

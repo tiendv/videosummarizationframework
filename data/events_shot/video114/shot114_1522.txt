@@ -1,0 +1,5 @@
+bicycling(0.122)
+playing+videogames(0.105)
+skating(0.037)
+driving(0.037)
+adult+male+speaking(0.030)

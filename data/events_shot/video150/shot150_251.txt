@@ -1,0 +1,5 @@
+smiling(0.037)
+laughing(0.033)
+standing(0.033)
+walking(0.026)
+marrying(0.025)

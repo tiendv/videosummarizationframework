@@ -1,0 +1,5 @@
+attacking(0.224)
+burning(0.109)
+destroying(0.106)
+shooting(0.087)
+smashing(0.041)

@@ -1,0 +1,5 @@
+painting(0.043)
+telephoning(0.040)
+drawing(0.039)
+brushing(0.034)
+combing(0.027)

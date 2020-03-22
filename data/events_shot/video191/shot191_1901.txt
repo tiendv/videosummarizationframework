@@ -1,0 +1,5 @@
+dining(0.292)
+eating(0.018)
+cooking(0.017)
+protesting(0.017)
+serving(0.015)

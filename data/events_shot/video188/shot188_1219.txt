@@ -1,0 +1,5 @@
+raising(0.115)
+adult+male+singing(0.040)
+fighting(0.036)
+lifting(0.032)
+adult+female+singing(0.031)

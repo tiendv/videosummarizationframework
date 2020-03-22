@@ -1,0 +1,5 @@
+filming(0.093)
+photographing(0.036)
+walking(0.027)
+standing(0.026)
+punching(0.020)

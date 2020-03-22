@@ -1,0 +1,5 @@
+child+speaking(0.109)
+child+singing(0.058)
+working(0.035)
+painting(0.035)
+imitating(0.033)

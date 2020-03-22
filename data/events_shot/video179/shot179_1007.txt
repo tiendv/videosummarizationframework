@@ -1,0 +1,5 @@
+talking(0.100)
+standing(0.096)
+playing+videogames(0.072)
+walking(0.060)
+arresting(0.054)

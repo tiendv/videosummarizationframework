@@ -1,0 +1,5 @@
+sneezing(0.310)
+coughing(0.109)
+unpacking(0.067)
+packing(0.050)
+kissing(0.036)

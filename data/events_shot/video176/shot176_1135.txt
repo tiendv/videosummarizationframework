@@ -1,0 +1,5 @@
+fighting(0.053)
+hitchhiking(0.051)
+arresting(0.037)
+swerving(0.031)
+driving(0.031)

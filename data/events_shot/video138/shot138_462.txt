@@ -1,0 +1,5 @@
+guarding(0.118)
+filming(0.092)
+asking(0.090)
+walking(0.069)
+running(0.051)

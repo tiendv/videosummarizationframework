@@ -1,0 +1,5 @@
+knitting(0.075)
+manicuring(0.064)
+painting(0.052)
+autographing(0.036)
+discussing(0.035)

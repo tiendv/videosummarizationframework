@@ -1,0 +1,5 @@
+filming(0.714)
+photographing(0.283)
+telephoning(0.001)
+aiming(0.001)
+calling(0.000)

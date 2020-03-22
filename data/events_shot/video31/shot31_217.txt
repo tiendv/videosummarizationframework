@@ -1,0 +1,5 @@
+sneezing(0.204)
+drinking(0.195)
+coughing(0.043)
+tattooing(0.017)
+adult+female+singing(0.017)

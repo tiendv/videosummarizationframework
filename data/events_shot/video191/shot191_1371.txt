@@ -1,0 +1,5 @@
+whistling(0.090)
+adult+male+speaking(0.048)
+adult+female+speaking(0.030)
+frowning(0.028)
+talking(0.024)

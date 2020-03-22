@@ -1,0 +1,5 @@
+fighting(0.063)
+arresting(0.054)
+driving(0.037)
+adult+female+speaking(0.033)
+attacking(0.033)

@@ -1,0 +1,5 @@
+driving(0.431)
+riding(0.120)
+steering(0.087)
+kissing(0.015)
+talking(0.012)

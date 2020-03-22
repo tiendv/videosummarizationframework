@@ -1,0 +1,5 @@
+cooking(0.123)
+stirring(0.111)
+drinking(0.062)
+tattooing(0.047)
+eating(0.032)

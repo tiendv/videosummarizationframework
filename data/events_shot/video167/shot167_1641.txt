@@ -1,0 +1,5 @@
+pointing(0.121)
+adult+male+speaking(0.062)
+talking(0.037)
+laughing(0.035)
+adult+male+singing(0.032)

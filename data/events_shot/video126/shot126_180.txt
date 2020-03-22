@@ -1,0 +1,5 @@
+queuing(0.029)
+adult+male+speaking(0.028)
+adult+male+singing(0.027)
+giving(0.023)
+walking(0.023)

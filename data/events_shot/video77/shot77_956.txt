@@ -1,0 +1,5 @@
+adult+female+singing(0.078)
+sneezing(0.053)
+hugging(0.044)
+adult+female+speaking(0.037)
+filming(0.033)

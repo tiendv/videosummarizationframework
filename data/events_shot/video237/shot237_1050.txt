@@ -1,0 +1,5 @@
+slapping(0.101)
+adult+male+speaking(0.099)
+laughing(0.085)
+discussing(0.035)
+smiling(0.030)

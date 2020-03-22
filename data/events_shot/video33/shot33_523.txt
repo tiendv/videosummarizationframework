@@ -1,0 +1,5 @@
+adult+male+speaking(0.128)
+painting(0.069)
+tapping(0.037)
+drawing(0.032)
+playing+videogames(0.031)

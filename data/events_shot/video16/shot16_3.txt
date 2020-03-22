@@ -1,0 +1,5 @@
+running(0.079)
+raining(0.060)
+piloting(0.058)
+flying(0.032)
+filming(0.025)

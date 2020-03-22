@@ -1,0 +1,5 @@
+chewing(0.080)
+scratching(0.057)
+rubbing(0.051)
+eating(0.036)
+adult+female+speaking(0.033)

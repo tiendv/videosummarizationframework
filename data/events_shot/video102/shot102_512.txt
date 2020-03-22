@@ -1,0 +1,5 @@
+laughing(0.127)
+standing(0.045)
+raising(0.041)
+building(0.023)
+stacking(0.016)

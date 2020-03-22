@@ -1,0 +1,5 @@
+drinking(0.098)
+stacking(0.071)
+pouring(0.023)
+working(0.022)
+serving(0.017)

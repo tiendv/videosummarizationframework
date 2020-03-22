@@ -1,0 +1,5 @@
+filming(0.120)
+adult+female+singing(0.103)
+drinking(0.066)
+photographing(0.051)
+walking(0.025)

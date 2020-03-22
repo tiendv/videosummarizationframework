@@ -1,0 +1,5 @@
+walking(0.104)
+running(0.073)
+playing+videogames(0.046)
+exiting(0.024)
+hugging(0.022)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.079)
+asking(0.049)
+adult+male+speaking(0.043)
+hitchhiking(0.029)
+driving(0.023)

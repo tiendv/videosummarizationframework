@@ -1,0 +1,5 @@
+drinking(0.027)
+sneezing(0.023)
+adult+female+speaking(0.021)
+adult+male+speaking(0.021)
+shaving(0.019)

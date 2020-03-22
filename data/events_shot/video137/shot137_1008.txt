@@ -1,0 +1,5 @@
+stomping(0.433)
+standing(0.041)
+adult+female+singing(0.036)
+adult+female+speaking(0.019)
+adult+male+singing(0.019)

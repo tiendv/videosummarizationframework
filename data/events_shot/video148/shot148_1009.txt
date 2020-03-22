@@ -1,0 +1,5 @@
+camping(0.132)
+driving(0.105)
+hitchhiking(0.053)
+filming(0.045)
+arresting(0.041)

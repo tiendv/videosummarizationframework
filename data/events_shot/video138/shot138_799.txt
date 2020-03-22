@@ -1,0 +1,5 @@
+painting(0.060)
+putting(0.032)
+packing(0.027)
+unpacking(0.019)
+drawing(0.018)

@@ -1,0 +1,5 @@
+laughing(0.353)
+smiling(0.163)
+interviewing(0.105)
+squinting(0.091)
+grinning(0.054)

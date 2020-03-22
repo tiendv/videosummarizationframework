@@ -1,0 +1,5 @@
+crying(0.357)
+laughing(0.201)
+reading(0.022)
+child+speaking(0.019)
+frowning(0.018)

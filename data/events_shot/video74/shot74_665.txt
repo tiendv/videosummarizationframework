@@ -1,0 +1,5 @@
+queuing(0.110)
+arresting(0.077)
+discussing(0.049)
+stopping(0.041)
+talking(0.038)

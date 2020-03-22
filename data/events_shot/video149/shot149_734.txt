@@ -1,0 +1,5 @@
+standing(0.031)
+destroying(0.020)
+adult+male+speaking(0.018)
+attacking(0.016)
+aiming(0.016)

@@ -1,0 +1,5 @@
+roaring(0.065)
+laughing(0.051)
+talking(0.033)
+adult+female+singing(0.030)
+discussing(0.030)

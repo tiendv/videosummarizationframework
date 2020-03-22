@@ -1,0 +1,5 @@
+baking(0.041)
+standing(0.040)
+cooking(0.040)
+talking(0.036)
+drumming(0.030)

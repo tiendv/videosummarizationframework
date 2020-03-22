@@ -1,0 +1,5 @@
+adult+female+speaking(0.066)
+walking(0.056)
+telephoning(0.038)
+hugging(0.035)
+stealing(0.022)

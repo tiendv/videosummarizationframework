@@ -1,0 +1,5 @@
+talking(0.042)
+arresting(0.031)
+filming(0.027)
+slapping(0.027)
+adult+male+speaking(0.026)

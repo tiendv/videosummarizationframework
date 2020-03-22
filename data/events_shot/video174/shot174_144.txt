@@ -1,0 +1,5 @@
+walking(0.095)
+standing(0.039)
+guarding(0.030)
+adult+male+speaking(0.029)
+entering(0.025)

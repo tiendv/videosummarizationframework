@@ -1,0 +1,5 @@
+adult+male+speaking(0.055)
+bowing(0.033)
+playing+videogames(0.027)
+laughing(0.024)
+drinking(0.019)

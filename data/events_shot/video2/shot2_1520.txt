@@ -1,0 +1,5 @@
+filming(0.127)
+fighting(0.063)
+walking(0.059)
+running(0.052)
+adult+male+singing(0.048)

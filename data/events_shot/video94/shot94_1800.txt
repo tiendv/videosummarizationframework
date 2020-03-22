@@ -1,0 +1,5 @@
+hitchhiking(0.169)
+adult+male+speaking(0.078)
+walking(0.067)
+arresting(0.037)
+standing(0.030)

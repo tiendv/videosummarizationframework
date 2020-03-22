@@ -1,0 +1,5 @@
+adult+male+speaking(0.094)
+adult+female+speaking(0.072)
+discussing(0.048)
+slapping(0.047)
+laughing(0.040)

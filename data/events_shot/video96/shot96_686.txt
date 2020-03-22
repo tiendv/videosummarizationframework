@@ -1,0 +1,5 @@
+hugging(0.173)
+drinking(0.056)
+lifting(0.047)
+standing(0.033)
+blowing(0.025)

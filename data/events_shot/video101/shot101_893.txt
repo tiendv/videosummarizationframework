@@ -1,0 +1,5 @@
+playing+videogames(0.128)
+hanging(0.087)
+guarding(0.083)
+walking(0.069)
+standing(0.045)

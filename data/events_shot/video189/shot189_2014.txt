@@ -1,0 +1,5 @@
+hugging(0.080)
+driving(0.056)
+drinking(0.056)
+smoking(0.048)
+raining(0.032)

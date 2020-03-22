@@ -1,0 +1,5 @@
+climbing(0.112)
+picking(0.070)
+gardening(0.041)
+hiking(0.035)
+planting(0.032)

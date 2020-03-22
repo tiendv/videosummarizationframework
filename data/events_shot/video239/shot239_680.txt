@@ -1,0 +1,5 @@
+adult+female+speaking(0.048)
+standing(0.028)
+asking(0.027)
+hugging(0.026)
+dancing(0.026)

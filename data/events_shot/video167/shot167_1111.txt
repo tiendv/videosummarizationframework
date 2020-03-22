@@ -1,0 +1,5 @@
+frowning(0.236)
+crying(0.098)
+scratching(0.048)
+hugging(0.041)
+brushing(0.031)

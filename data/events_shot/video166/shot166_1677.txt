@@ -1,0 +1,5 @@
+sneezing(0.117)
+slapping(0.112)
+coughing(0.033)
+filming(0.021)
+fighting(0.019)

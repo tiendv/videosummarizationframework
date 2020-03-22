@@ -1,0 +1,5 @@
+child+singing(0.265)
+child+speaking(0.253)
+chewing(0.148)
+eating(0.033)
+biting(0.019)

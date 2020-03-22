@@ -1,0 +1,5 @@
+adult+male+singing(0.085)
+adult+female+singing(0.081)
+performing(0.051)
+standing(0.050)
+dining(0.025)

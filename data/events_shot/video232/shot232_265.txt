@@ -1,0 +1,5 @@
+applauding(0.217)
+clapping(0.118)
+standing(0.096)
+celebrating(0.048)
+adult+male+singing(0.032)

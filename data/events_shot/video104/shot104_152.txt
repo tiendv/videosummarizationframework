@@ -1,0 +1,5 @@
+adult+male+speaking(0.067)
+running(0.039)
+smiling(0.038)
+hugging(0.038)
+dining(0.033)

@@ -1,0 +1,5 @@
+dining(0.063)
+serving(0.031)
+sitting(0.029)
+gambling(0.025)
+adult+male+speaking(0.020)

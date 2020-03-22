@@ -1,0 +1,5 @@
+assembling(0.044)
+putting(0.039)
+unpacking(0.035)
+folding(0.029)
+packing(0.027)

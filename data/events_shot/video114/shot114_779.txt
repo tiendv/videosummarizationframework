@@ -1,0 +1,5 @@
+adult+female+singing(0.100)
+singing(0.041)
+adult+male+singing(0.034)
+telephoning(0.033)
+rocking(0.031)

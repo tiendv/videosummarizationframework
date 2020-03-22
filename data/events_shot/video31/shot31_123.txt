@@ -1,0 +1,5 @@
+hugging(0.077)
+talking(0.054)
+sitting(0.042)
+adult+female+speaking(0.036)
+walking(0.035)

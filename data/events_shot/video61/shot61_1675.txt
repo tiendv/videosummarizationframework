@@ -1,0 +1,5 @@
+sneezing(0.102)
+coughing(0.032)
+filming(0.029)
+running(0.028)
+hugging(0.021)

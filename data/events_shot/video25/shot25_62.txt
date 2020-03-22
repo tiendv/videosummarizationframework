@@ -1,0 +1,5 @@
+dressing(0.063)
+tying(0.060)
+handcuffing(0.047)
+buttoning(0.020)
+gripping(0.019)

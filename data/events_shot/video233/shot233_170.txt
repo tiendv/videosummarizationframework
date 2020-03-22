@@ -1,0 +1,5 @@
+packaging(0.133)
+selling(0.109)
+packing(0.093)
+giving(0.088)
+unpacking(0.087)

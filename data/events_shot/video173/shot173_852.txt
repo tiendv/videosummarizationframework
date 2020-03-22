@@ -1,0 +1,5 @@
+sneezing(0.080)
+adult+female+speaking(0.063)
+hugging(0.040)
+cramming(0.037)
+autographing(0.035)

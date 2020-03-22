@@ -1,0 +1,5 @@
+drinking(0.042)
+standing(0.041)
+walking(0.026)
+filming(0.025)
+running(0.021)

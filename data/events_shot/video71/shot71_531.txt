@@ -1,0 +1,5 @@
+adult+female+speaking(0.026)
+adult+female+singing(0.026)
+stretching(0.025)
+dressing(0.025)
+massaging(0.021)

@@ -1,0 +1,5 @@
+attacking(0.066)
+fighting(0.049)
+destroying(0.042)
+breaking(0.035)
+talking(0.031)

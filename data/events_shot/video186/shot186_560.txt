@@ -1,0 +1,5 @@
+autographing(0.123)
+signing(0.069)
+writing(0.063)
+handwriting(0.056)
+sitting(0.045)

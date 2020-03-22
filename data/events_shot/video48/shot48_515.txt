@@ -1,0 +1,5 @@
+kissing(0.364)
+hugging(0.311)
+slapping(0.043)
+adult+male+speaking(0.018)
+cuddling(0.017)

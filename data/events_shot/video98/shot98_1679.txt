@@ -1,0 +1,5 @@
+sneezing(0.094)
+shrugging(0.047)
+adult+male+speaking(0.037)
+talking(0.035)
+squinting(0.034)

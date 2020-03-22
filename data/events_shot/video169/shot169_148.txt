@@ -1,0 +1,5 @@
+drinking(0.218)
+adult+female+speaking(0.032)
+bathing(0.030)
+washing(0.028)
+filming(0.026)

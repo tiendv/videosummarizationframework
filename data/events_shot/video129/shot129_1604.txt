@@ -1,0 +1,5 @@
+adult+female+singing(0.075)
+walking(0.065)
+filming(0.040)
+raining(0.038)
+kissing(0.036)

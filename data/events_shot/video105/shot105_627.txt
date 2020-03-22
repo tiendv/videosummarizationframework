@@ -1,0 +1,5 @@
+fencing(0.178)
+barking(0.103)
+slapping(0.076)
+walking(0.064)
+knocking(0.037)

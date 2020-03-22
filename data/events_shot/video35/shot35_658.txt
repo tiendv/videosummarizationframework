@@ -1,0 +1,5 @@
+rowing(0.026)
+slapping(0.024)
+pulling(0.020)
+adult+male+speaking(0.019)
+sitting(0.017)

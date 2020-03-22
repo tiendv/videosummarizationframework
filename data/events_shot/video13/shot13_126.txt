@@ -1,0 +1,5 @@
+filming(0.050)
+adult+male+speaking(0.049)
+fighting(0.029)
+sitting(0.026)
+talking(0.026)

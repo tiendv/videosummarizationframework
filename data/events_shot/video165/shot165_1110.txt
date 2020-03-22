@@ -1,0 +1,5 @@
+running(0.045)
+driving(0.038)
+jogging(0.030)
+fighting(0.030)
+hitchhiking(0.025)

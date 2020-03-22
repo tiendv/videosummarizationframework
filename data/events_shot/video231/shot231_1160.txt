@@ -1,0 +1,5 @@
+sneezing(0.092)
+standing(0.057)
+walking(0.046)
+singing(0.042)
+drinking(0.042)

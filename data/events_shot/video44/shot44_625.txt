@@ -1,0 +1,6 @@
+driving(0.121)
+aiming(0.067)
+adult+male+speaking(0.056)
+talking(0.040)
+steering(0.034)
+hing(0.035)

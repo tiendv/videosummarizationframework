@@ -1,0 +1,5 @@
+walking(0.040)
+asking(0.034)
+adult+male+speaking(0.032)
+playing+videogames(0.029)
+slapping(0.028)

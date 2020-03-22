@@ -1,0 +1,5 @@
+pressing(0.073)
+crafting(0.036)
+gripping(0.032)
+assembling(0.031)
+plugging(0.024)

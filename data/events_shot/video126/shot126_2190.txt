@@ -1,0 +1,5 @@
+adult+female+singing(0.107)
+fighting(0.084)
+standing(0.047)
+attacking(0.042)
+walking(0.036)

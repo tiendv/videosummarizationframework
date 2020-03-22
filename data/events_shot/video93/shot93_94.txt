@@ -1,0 +1,5 @@
+laughing(0.068)
+hanging(0.043)
+smiling(0.033)
+standing(0.032)
+talking(0.029)

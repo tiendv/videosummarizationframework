@@ -1,0 +1,5 @@
+sitting(0.046)
+adult+male+speaking(0.041)
+discussing(0.031)
+photographing(0.028)
+adult+female+speaking(0.026)

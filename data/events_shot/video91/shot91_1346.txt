@@ -1,0 +1,5 @@
+arresting(0.046)
+handcuffing(0.023)
+queuing(0.022)
+walking(0.019)
+tattooing(0.019)

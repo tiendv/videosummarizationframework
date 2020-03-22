@@ -1,0 +1,5 @@
+slapping(0.075)
+sneezing(0.058)
+kissing(0.034)
+attacking(0.032)
+coughing(0.029)

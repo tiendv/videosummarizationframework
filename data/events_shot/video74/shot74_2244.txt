@@ -1,0 +1,5 @@
+talking(0.043)
+adult+male+speaking(0.040)
+sleeping(0.026)
+discussing(0.024)
+filming(0.023)

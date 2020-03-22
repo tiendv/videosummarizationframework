@@ -1,0 +1,5 @@
+fighting(0.118)
+eating(0.073)
+adult+female+singing(0.038)
+adult+female+speaking(0.038)
+slapping(0.034)

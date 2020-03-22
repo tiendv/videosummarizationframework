@@ -1,0 +1,5 @@
+bicycling(0.181)
+pedaling(0.063)
+sitting(0.048)
+riding(0.033)
+adult+male+speaking(0.028)

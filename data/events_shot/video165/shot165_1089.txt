@@ -1,0 +1,5 @@
+adult+male+speaking(0.094)
+tapping(0.042)
+smiling(0.032)
+playing+videogames(0.024)
+interviewing(0.022)

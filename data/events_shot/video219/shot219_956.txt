@@ -1,0 +1,5 @@
+sitting(0.093)
+adult+female+speaking(0.052)
+adult+male+speaking(0.042)
+sneezing(0.031)
+tattooing(0.026)

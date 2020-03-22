@@ -1,0 +1,5 @@
+arresting(0.070)
+crying(0.046)
+walking(0.040)
+calling(0.040)
+raining(0.029)

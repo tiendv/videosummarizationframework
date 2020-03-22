@@ -1,0 +1,5 @@
+pointing(0.055)
+adult+male+speaking(0.047)
+signing(0.040)
+autographing(0.038)
+crafting(0.026)

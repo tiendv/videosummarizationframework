@@ -1,0 +1,5 @@
+running(0.067)
+walking(0.049)
+standing(0.028)
+hugging(0.026)
+asking(0.023)

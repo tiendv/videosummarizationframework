@@ -1,0 +1,5 @@
+assembling(0.364)
+attacking(0.121)
+fighting(0.083)
+bowing(0.026)
+adult+male+speaking(0.019)

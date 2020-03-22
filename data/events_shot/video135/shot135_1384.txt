@@ -1,0 +1,5 @@
+boxing(0.051)
+punching(0.043)
+fighting(0.036)
+celebrating(0.033)
+laughing(0.033)

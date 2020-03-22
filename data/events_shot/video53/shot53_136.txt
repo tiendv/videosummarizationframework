@@ -1,0 +1,5 @@
+slapping(0.104)
+knocking(0.031)
+hugging(0.030)
+pointing(0.023)
+shrugging(0.023)

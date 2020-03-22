@@ -1,0 +1,5 @@
+slapping(0.035)
+adult+male+singing(0.031)
+fighting(0.031)
+adult+female+singing(0.027)
+tattooing(0.024)

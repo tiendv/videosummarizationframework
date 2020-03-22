@@ -1,0 +1,5 @@
+walking(0.505)
+hiking(0.305)
+hitchhiking(0.057)
+standing(0.013)
+adult+male+singing(0.009)

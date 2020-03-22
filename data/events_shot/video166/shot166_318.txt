@@ -1,0 +1,5 @@
+clapping(0.048)
+filming(0.040)
+applauding(0.036)
+praying(0.030)
+adult+male+singing(0.029)

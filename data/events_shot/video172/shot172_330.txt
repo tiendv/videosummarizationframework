@@ -1,0 +1,5 @@
+attacking(0.132)
+fighting(0.107)
+stomping(0.045)
+hunting(0.036)
+colliding(0.031)

@@ -1,0 +1,5 @@
+walking(0.054)
+slapping(0.035)
+raining(0.030)
+stomping(0.023)
+fighting(0.021)

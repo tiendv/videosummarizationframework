@@ -1,0 +1,5 @@
+camping(0.169)
+running(0.069)
+sliding(0.066)
+adult+male+singing(0.061)
+adult+female+singing(0.053)

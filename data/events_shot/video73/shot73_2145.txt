@@ -1,0 +1,5 @@
+blowing(0.085)
+standing(0.043)
+laughing(0.033)
+adult+female+speaking(0.028)
+discussing(0.022)

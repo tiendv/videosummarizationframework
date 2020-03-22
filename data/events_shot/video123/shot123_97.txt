@@ -1,0 +1,5 @@
+standing(0.060)
+playing+videogames(0.051)
+talking(0.043)
+sitting(0.024)
+smiling(0.023)

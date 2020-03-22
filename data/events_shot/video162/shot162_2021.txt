@@ -1,0 +1,5 @@
+turning(0.059)
+talking(0.049)
+sneezing(0.047)
+flicking(0.044)
+pointing(0.030)

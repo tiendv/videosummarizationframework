@@ -1,0 +1,5 @@
+fighting(0.216)
+slapping(0.073)
+punching(0.056)
+adult+female+singing(0.047)
+attacking(0.034)

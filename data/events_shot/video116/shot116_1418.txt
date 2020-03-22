@@ -1,0 +1,5 @@
+sneezing(0.082)
+slapping(0.073)
+coughing(0.036)
+spitting(0.031)
+filming(0.028)

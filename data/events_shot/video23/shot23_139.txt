@@ -1,0 +1,5 @@
+walking(0.316)
+filming(0.057)
+carrying(0.042)
+knocking(0.034)
+exiting(0.032)

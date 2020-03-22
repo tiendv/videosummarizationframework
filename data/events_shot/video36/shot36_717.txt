@@ -1,0 +1,5 @@
+bicycling(0.116)
+walking(0.038)
+filming(0.032)
+laughing(0.031)
+riding(0.022)

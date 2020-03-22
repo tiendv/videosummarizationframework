@@ -1,0 +1,5 @@
+hunting(0.324)
+climbing(0.114)
+hiking(0.057)
+attacking(0.036)
+walking(0.034)

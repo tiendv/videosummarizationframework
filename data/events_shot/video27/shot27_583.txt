@@ -1,0 +1,5 @@
+fighting(0.061)
+raining(0.052)
+talking(0.029)
+attacking(0.027)
+starting(0.026)

@@ -1,0 +1,5 @@
+officiating(0.253)
+marrying(0.245)
+praying(0.196)
+adult+female+speaking(0.034)
+preaching(0.032)

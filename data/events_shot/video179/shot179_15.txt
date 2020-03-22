@@ -1,0 +1,5 @@
+sneezing(0.061)
+telephoning(0.058)
+fueling(0.036)
+talking(0.024)
+working(0.023)

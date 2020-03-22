@@ -1,0 +1,5 @@
+smiling(0.082)
+winking(0.070)
+waving(0.048)
+slapping(0.042)
+marrying(0.035)

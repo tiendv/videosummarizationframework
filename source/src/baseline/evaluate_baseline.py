@@ -39,7 +39,7 @@ def write_evaluated_result(name,pr,rc,f1,path_evaluate_dir):
     with open(path_save,'w+') as f:
         json.dump(data,f)
     print("The result file is saved at {}".format(path_save))
-if __name__ == '__main__':
+def main():
     for path, subdirs, files in os.walk("../visualization/static/json/TVSum/selected/BL"):
         for name in files:
             print(os.path.join(path,name))
@@ -50,3 +50,7 @@ if __name__ == '__main__':
                 write_evaluated_result(name_vid,pr,rc,f1,"../visualization/static/evaluation/{}/".format(name_vid))
             except Exception as e:
                 break
+if __name__ == '__main__':
+    main()
+    # n,pr,rc,fs = evaluate_baseline("../visualization/static/json/TVSum/selected/BL/EE-bNr36nyA/EE-bNr36nyA.json", "../visualization/static/json/TVSum/selected/GT/EE-bNr36nyA/EE-bNr36nyA.json")
+    # print(pr,rc,fs)

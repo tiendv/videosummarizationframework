@@ -1,0 +1,5 @@
+kissing(0.154)
+hanging(0.111)
+hugging(0.080)
+adult+male+speaking(0.042)
+shaving(0.035)

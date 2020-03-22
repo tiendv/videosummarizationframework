@@ -1,0 +1,5 @@
+reading(0.464)
+studying(0.051)
+sitting(0.035)
+sneezing(0.024)
+eating(0.021)

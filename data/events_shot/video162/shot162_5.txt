@@ -1,0 +1,5 @@
+frying(0.299)
+dropping(0.156)
+stirring(0.075)
+cooking(0.069)
+talking(0.034)

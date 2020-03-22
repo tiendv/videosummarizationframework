@@ -1,0 +1,5 @@
+giving(0.059)
+sneezing(0.057)
+adult+female+speaking(0.049)
+laughing(0.045)
+manicuring(0.035)

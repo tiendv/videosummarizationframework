@@ -1,0 +1,5 @@
+arresting(0.193)
+guarding(0.173)
+protesting(0.119)
+queuing(0.115)
+standing(0.051)

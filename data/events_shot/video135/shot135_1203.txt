@@ -1,0 +1,5 @@
+shaking(0.207)
+fighting(0.098)
+discussing(0.088)
+adult+male+speaking(0.075)
+giving(0.049)

@@ -1,0 +1,5 @@
+walking(0.047)
+standing(0.040)
+drinking(0.036)
+sneezing(0.032)
+eating(0.030)

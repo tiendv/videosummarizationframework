@@ -1,0 +1,5 @@
+cooking(0.119)
+drying(0.056)
+slapping(0.029)
+stirring(0.025)
+drinking(0.024)

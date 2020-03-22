@@ -1,0 +1,5 @@
+laughing(0.062)
+walking(0.050)
+smiling(0.048)
+filming(0.039)
+standing(0.033)

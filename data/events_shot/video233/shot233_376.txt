@@ -1,0 +1,5 @@
+adult+female+singing(0.264)
+playing+videogames(0.121)
+adult+female+speaking(0.041)
+walking(0.032)
+adult+male+singing(0.031)

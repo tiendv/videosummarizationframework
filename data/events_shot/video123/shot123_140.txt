@@ -1,0 +1,5 @@
+adult+female+singing(0.063)
+squatting(0.056)
+adult+male+singing(0.053)
+standing(0.021)
+rising(0.020)

@@ -1,0 +1,5 @@
+cooking(0.167)
+adult+male+speaking(0.135)
+talking(0.043)
+stirring(0.041)
+laughing(0.035)

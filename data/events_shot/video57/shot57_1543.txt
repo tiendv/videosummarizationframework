@@ -1,0 +1,5 @@
+taping(0.088)
+handcuffing(0.086)
+adult+male+speaking(0.037)
+injecting(0.035)
+cracking(0.025)

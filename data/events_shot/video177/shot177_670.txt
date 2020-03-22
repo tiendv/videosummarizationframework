@@ -1,0 +1,5 @@
+guarding(0.087)
+standing(0.073)
+cleaning(0.044)
+selling(0.040)
+walking(0.040)

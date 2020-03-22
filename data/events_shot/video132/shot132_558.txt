@@ -1,0 +1,5 @@
+standing(0.067)
+saluting(0.046)
+guarding(0.033)
+adult+female+singing(0.030)
+playing+videogames(0.024)

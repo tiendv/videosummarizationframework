@@ -1,0 +1,5 @@
+tying(0.080)
+tapping(0.076)
+handcuffing(0.045)
+autographing(0.020)
+taping(0.019)

@@ -1,0 +1,5 @@
+running(0.066)
+walking(0.052)
+standing(0.047)
+playing+sports(0.042)
+officiating(0.030)

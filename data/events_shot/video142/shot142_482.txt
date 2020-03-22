@@ -1,0 +1,5 @@
+lecturing(0.051)
+adult+male+speaking(0.041)
+slapping(0.041)
+standing(0.037)
+asking(0.035)

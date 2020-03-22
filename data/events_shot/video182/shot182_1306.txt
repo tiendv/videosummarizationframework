@@ -1,0 +1,5 @@
+knocking(0.293)
+locking(0.076)
+adult+male+speaking(0.055)
+playing+videogames(0.029)
+starting(0.029)

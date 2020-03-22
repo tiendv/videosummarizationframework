@@ -1,0 +1,5 @@
+mopping(0.103)
+walking(0.045)
+playing+videogames(0.039)
+working(0.024)
+sweeping(0.023)

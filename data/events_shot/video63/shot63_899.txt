@@ -1,0 +1,5 @@
+fencing(0.480)
+fighting(0.087)
+attacking(0.039)
+slapping(0.023)
+knocking(0.021)

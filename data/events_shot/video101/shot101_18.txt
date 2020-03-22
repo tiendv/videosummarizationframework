@@ -1,0 +1,5 @@
+slapping(0.089)
+fighting(0.078)
+asking(0.049)
+attacking(0.047)
+protesting(0.046)

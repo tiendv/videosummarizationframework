@@ -1,0 +1,5 @@
+roaring(0.419)
+slapping(0.040)
+knocking(0.037)
+attacking(0.027)
+adult+male+speaking(0.026)

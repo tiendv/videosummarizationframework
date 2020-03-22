@@ -1,0 +1,6 @@
+adult+male+speaking(0.061)
+hugging(0.050)
+talking(0.029)
+sleeping(0.028)
+slapping(0.024)
+g(0.041)

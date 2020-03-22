@@ -1,0 +1,5 @@
+driving(0.846)
+steering(0.083)
+riding(0.038)
+crashing(0.007)
+raining(0.002)

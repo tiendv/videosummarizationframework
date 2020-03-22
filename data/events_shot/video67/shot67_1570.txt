@@ -1,0 +1,5 @@
+adult+male+speaking(0.118)
+standing(0.048)
+smiling(0.039)
+filming(0.031)
+talking(0.030)

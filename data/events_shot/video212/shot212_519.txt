@@ -1,0 +1,5 @@
+tattooing(0.039)
+punching(0.025)
+gripping(0.021)
+fighting(0.020)
+hugging(0.016)

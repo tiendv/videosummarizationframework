@@ -1,0 +1,5 @@
+talking(0.069)
+standing(0.039)
+sitting(0.035)
+slapping(0.026)
+shopping(0.024)

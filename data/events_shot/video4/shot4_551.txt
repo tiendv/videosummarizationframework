@@ -1,0 +1,5 @@
+sneezing(0.136)
+coughing(0.100)
+talking(0.058)
+slapping(0.031)
+reaching(0.026)

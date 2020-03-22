@@ -1,0 +1,5 @@
+working(0.053)
+walking(0.043)
+sneezing(0.041)
+slapping(0.039)
+drinking(0.024)

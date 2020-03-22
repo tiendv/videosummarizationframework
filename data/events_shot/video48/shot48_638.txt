@@ -1,0 +1,5 @@
+shooting(0.314)
+opening(0.196)
+closing(0.119)
+aiming(0.072)
+pointing(0.026)

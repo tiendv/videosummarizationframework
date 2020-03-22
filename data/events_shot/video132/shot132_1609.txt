@@ -1,0 +1,5 @@
+queuing(0.207)
+slapping(0.151)
+walking(0.070)
+arresting(0.041)
+filming(0.038)

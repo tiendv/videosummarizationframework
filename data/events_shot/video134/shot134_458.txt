@@ -1,0 +1,5 @@
+dining(0.033)
+hugging(0.033)
+filming(0.033)
+adult+female+speaking(0.030)
+photographing(0.030)

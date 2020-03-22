@@ -1,0 +1,5 @@
+driving(0.050)
+steering(0.030)
+piloting(0.023)
+adult+male+speaking(0.023)
+starting(0.023)

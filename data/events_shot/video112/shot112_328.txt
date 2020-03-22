@@ -1,0 +1,5 @@
+hugging(0.081)
+walking(0.080)
+asking(0.054)
+adult+male+speaking(0.039)
+fighting(0.034)

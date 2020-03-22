@@ -1,0 +1,5 @@
+adult+female+speaking(0.089)
+adult+female+singing(0.080)
+asking(0.066)
+queuing(0.063)
+walking(0.039)

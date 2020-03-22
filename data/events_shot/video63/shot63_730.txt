@@ -1,0 +1,5 @@
+shooting(0.076)
+filming(0.055)
+aiming(0.043)
+playing+videogames(0.033)
+pointing(0.026)

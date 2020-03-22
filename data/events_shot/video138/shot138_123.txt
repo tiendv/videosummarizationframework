@@ -1,0 +1,5 @@
+talking(0.022)
+drinking(0.022)
+dropping(0.021)
+sitting(0.018)
+dining(0.018)

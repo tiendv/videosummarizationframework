@@ -1,0 +1,5 @@
+adult+male+speaking(0.083)
+camping(0.072)
+hiking(0.051)
+starting(0.050)
+discussing(0.050)

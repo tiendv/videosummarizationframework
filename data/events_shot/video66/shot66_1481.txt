@@ -1,0 +1,5 @@
+marrying(0.141)
+officiating(0.119)
+adult+female+speaking(0.063)
+hugging(0.056)
+dressing(0.037)

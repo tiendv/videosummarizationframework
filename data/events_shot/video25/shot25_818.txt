@@ -1,0 +1,5 @@
+adult+female+singing(0.154)
+adult+female+speaking(0.083)
+cooking(0.027)
+fighting(0.024)
+standing(0.023)

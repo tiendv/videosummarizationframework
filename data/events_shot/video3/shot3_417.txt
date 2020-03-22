@@ -1,0 +1,5 @@
+driving(0.281)
+hitchhiking(0.062)
+adult+male+singing(0.047)
+riding(0.045)
+fighting(0.031)

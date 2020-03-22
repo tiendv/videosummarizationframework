@@ -1,0 +1,5 @@
+filming(0.050)
+talking(0.042)
+slapping(0.041)
+standing(0.036)
+adult+male+speaking(0.028)

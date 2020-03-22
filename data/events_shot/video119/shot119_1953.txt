@@ -1,0 +1,5 @@
+frowning(0.045)
+squinting(0.040)
+drying(0.038)
+filming(0.027)
+cracking(0.023)

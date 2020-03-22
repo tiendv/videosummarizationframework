@@ -1,0 +1,5 @@
+hiking(0.069)
+jumping(0.062)
+running(0.040)
+walking(0.029)
+jogging(0.029)

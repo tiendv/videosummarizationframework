@@ -1,0 +1,5 @@
+driving(0.186)
+crashing(0.067)
+riding(0.055)
+rolling(0.049)
+chasing(0.030)

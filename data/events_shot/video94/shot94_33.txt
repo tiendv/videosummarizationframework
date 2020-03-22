@@ -1,0 +1,5 @@
+parading(0.285)
+clawing(0.145)
+celebrating(0.112)
+marching(0.058)
+protesting(0.025)

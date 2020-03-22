@@ -1,0 +1,5 @@
+jumping(0.127)
+leaping(0.056)
+adult+male+singing(0.052)
+rising(0.049)
+adult+female+singing(0.045)

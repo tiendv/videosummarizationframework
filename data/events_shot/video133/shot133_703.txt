@@ -1,0 +1,5 @@
+talking(0.083)
+adult+male+speaking(0.078)
+cracking(0.039)
+starting(0.037)
+clipping(0.030)

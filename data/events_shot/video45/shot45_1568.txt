@@ -1,0 +1,5 @@
+burying(0.051)
+walking(0.036)
+slapping(0.036)
+digging(0.032)
+attacking(0.028)

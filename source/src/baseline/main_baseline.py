@@ -17,7 +17,7 @@ def main_baseline(path_video,path_saved_json_shot="./",path_saved_json_segment='
     list_score = calc_score(list_begin,list_ending)
 
     #create json to visual shots
-    create_json4shots(path_saved_json_shot,name_video,list_begin,list_ending,list_score,"shot_bl")
+    create_json4shots(path_saved_json_shot,name_video,list_begin,list_score,"shot_bl")
 
     #excuting knapsack to select the shots for summarize
     result = selection_shot_knapsack(list_begin,list_ending,list_score)

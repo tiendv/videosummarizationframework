@@ -1,0 +1,5 @@
+adult+male+speaking(0.140)
+talking(0.068)
+coaching(0.048)
+playing+sports(0.047)
+playing+videogames(0.044)

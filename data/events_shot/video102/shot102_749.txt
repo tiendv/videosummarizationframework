@@ -1,0 +1,5 @@
+asking(0.156)
+adult+male+speaking(0.091)
+handcuffing(0.077)
+guarding(0.072)
+standing(0.054)

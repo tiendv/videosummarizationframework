@@ -1,0 +1,5 @@
+cuddling(0.424)
+snuggling(0.129)
+hugging(0.121)
+discussing(0.038)
+sitting(0.037)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.049)
+standing(0.039)
+filming(0.035)
+queuing(0.029)
+walking(0.027)

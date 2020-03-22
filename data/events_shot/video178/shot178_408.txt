@@ -1,0 +1,5 @@
+hiking(0.170)
+walking(0.158)
+standing(0.044)
+adult+female+speaking(0.043)
+asking(0.036)

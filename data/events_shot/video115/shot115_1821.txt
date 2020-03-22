@@ -1,0 +1,5 @@
+talking(0.040)
+dropping(0.031)
+gambling(0.023)
+sitting(0.022)
+rising(0.019)

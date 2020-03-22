@@ -1,0 +1,5 @@
+crying(0.059)
+attacking(0.035)
+fighting(0.029)
+playing+videogames(0.021)
+frowning(0.019)

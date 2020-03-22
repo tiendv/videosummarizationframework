@@ -1,0 +1,5 @@
+hitchhiking(0.950)
+driving(0.029)
+towing(0.003)
+adult+male+singing(0.002)
+riding(0.001)

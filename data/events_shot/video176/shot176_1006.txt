@@ -1,0 +1,5 @@
+dining(0.203)
+tattooing(0.118)
+adult+male+speaking(0.043)
+playing+music(0.026)
+discussing(0.024)

@@ -1,0 +1,5 @@
+squatting(0.050)
+shooting(0.036)
+standing(0.030)
+lifting(0.022)
+aiming(0.018)

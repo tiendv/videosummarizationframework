@@ -1,0 +1,5 @@
+crying(0.050)
+raining(0.031)
+filming(0.030)
+opening(0.025)
+photographing(0.023)

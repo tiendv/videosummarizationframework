@@ -1,0 +1,5 @@
+rising(0.042)
+rocking(0.039)
+cracking(0.032)
+filming(0.023)
+adult+female+singing(0.021)

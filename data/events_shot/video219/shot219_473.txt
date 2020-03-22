@@ -1,0 +1,5 @@
+walking(0.075)
+crying(0.031)
+adult+female+singing(0.029)
+fighting(0.028)
+carrying(0.027)

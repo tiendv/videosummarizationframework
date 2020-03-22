@@ -1,0 +1,5 @@
+spinning(0.036)
+turning(0.036)
+colliding(0.034)
+destroying(0.033)
+crashing(0.032)

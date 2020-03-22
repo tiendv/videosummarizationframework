@@ -1,0 +1,5 @@
+adult+female+speaking(0.064)
+aiming(0.038)
+blocking(0.033)
+knocking(0.027)
+flicking(0.026)

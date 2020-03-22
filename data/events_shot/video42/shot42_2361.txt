@@ -1,0 +1,5 @@
+asking(0.296)
+adult+female+speaking(0.139)
+adult+male+speaking(0.063)
+smiling(0.033)
+hitchhiking(0.030)

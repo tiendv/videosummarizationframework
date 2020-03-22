@@ -1,0 +1,5 @@
+queuing(0.181)
+fueling(0.123)
+arresting(0.083)
+washing(0.074)
+stopping(0.046)

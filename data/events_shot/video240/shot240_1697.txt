@@ -1,0 +1,5 @@
+crying(0.106)
+frowning(0.053)
+waking(0.029)
+punching(0.028)
+painting(0.028)

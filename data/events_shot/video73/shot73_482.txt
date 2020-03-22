@@ -1,0 +1,5 @@
+slapping(0.255)
+queuing(0.062)
+exiting(0.037)
+coaching(0.032)
+walking(0.028)

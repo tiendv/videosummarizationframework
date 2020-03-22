@@ -1,0 +1,5 @@
+running(0.143)
+adult+female+singing(0.091)
+playing+videogames(0.052)
+slapping(0.046)
+adult+male+singing(0.040)

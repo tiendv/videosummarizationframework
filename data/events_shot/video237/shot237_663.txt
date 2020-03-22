@@ -1,0 +1,5 @@
+walking(0.159)
+standing(0.052)
+pointing(0.049)
+carrying(0.038)
+talking(0.038)

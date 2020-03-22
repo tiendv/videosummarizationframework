@@ -1,0 +1,5 @@
+adult+female+speaking(0.112)
+reading(0.061)
+sleeping(0.048)
+cuddling(0.042)
+resting(0.034)

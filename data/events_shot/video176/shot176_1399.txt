@@ -1,0 +1,5 @@
+stomping(0.445)
+crushing(0.153)
+eating(0.025)
+frying(0.019)
+smashing(0.019)

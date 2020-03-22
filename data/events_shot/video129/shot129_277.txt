@@ -1,0 +1,5 @@
+walking(0.184)
+dressing(0.059)
+standing(0.048)
+drying(0.031)
+adult+female+singing(0.017)

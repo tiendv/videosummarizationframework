@@ -1,0 +1,5 @@
+running(0.310)
+jogging(0.055)
+sprinting(0.045)
+hammering(0.019)
+adult+male+speaking(0.019)

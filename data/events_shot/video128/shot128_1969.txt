@@ -1,0 +1,5 @@
+adult+female+singing(0.277)
+adult+female+speaking(0.090)
+asking(0.029)
+raining(0.029)
+singing(0.025)

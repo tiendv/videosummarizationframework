@@ -1,0 +1,5 @@
+crafting(0.097)
+cooking(0.096)
+adult+female+speaking(0.067)
+sneezing(0.043)
+working(0.040)

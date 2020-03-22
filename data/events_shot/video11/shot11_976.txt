@@ -1,0 +1,5 @@
+adult+male+speaking(0.082)
+adult+male+singing(0.064)
+raining(0.059)
+talking(0.058)
+squinting(0.056)

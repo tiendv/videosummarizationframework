@@ -1,0 +1,5 @@
+adult+female+speaking(0.111)
+eating(0.048)
+walking(0.047)
+adult+male+speaking(0.046)
+slapping(0.031)

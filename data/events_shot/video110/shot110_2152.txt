@@ -1,0 +1,5 @@
+stirring(0.045)
+cooking(0.035)
+boiling(0.033)
+stomping(0.032)
+bathing(0.030)

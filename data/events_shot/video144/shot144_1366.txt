@@ -1,0 +1,5 @@
+crafting(0.056)
+tattooing(0.054)
+adult+male+speaking(0.019)
+talking(0.018)
+asking(0.018)

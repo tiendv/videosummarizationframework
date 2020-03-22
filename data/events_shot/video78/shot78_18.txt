@@ -1,0 +1,5 @@
+adult+female+singing(0.109)
+adult+female+speaking(0.093)
+tattooing(0.089)
+brushing(0.027)
+coughing(0.025)

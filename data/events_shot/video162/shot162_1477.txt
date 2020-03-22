@@ -1,0 +1,5 @@
+fighting(0.085)
+attacking(0.069)
+roaring(0.045)
+punching(0.043)
+clipping(0.040)

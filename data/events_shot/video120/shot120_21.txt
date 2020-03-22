@@ -1,0 +1,5 @@
+drinking(0.052)
+adult+male+speaking(0.048)
+sneezing(0.040)
+adult+male+singing(0.033)
+cleaning(0.025)

@@ -1,0 +1,5 @@
+driving(0.183)
+camping(0.167)
+crashing(0.127)
+destroying(0.032)
+riding(0.026)

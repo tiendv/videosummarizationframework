@@ -1,0 +1,5 @@
+adult+male+singing(0.100)
+adult+female+singing(0.040)
+standing(0.032)
+spinning(0.029)
+singing(0.027)

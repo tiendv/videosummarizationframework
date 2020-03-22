@@ -1,0 +1,5 @@
+adult+male+speaking(0.139)
+discussing(0.101)
+standing(0.058)
+talking(0.057)
+walking(0.038)

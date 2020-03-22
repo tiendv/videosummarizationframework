@@ -1,0 +1,5 @@
+telephoning(0.158)
+calling(0.151)
+talking(0.039)
+sneezing(0.026)
+discussing(0.025)

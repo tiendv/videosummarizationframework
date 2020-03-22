@@ -1,0 +1,5 @@
+running(0.086)
+walking(0.048)
+sneezing(0.037)
+throwing(0.030)
+jogging(0.024)

@@ -1,0 +1,5 @@
+kissing(0.906)
+hugging(0.052)
+cuddling(0.007)
+adult+female+singing(0.002)
+raining(0.002)

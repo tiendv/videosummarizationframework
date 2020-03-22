@@ -1,0 +1,6 @@
+raising(0.085)
+laughing(0.080)
+shrugging(0.057)
+standing(0.042)
+building(0.027)
+ing(0.040)

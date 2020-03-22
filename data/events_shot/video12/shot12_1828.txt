@@ -1,0 +1,5 @@
+sitting(0.041)
+driving(0.040)
+adult+male+speaking(0.036)
+standing(0.029)
+arresting(0.029)

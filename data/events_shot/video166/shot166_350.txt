@@ -1,0 +1,5 @@
+fighting(0.078)
+talking(0.060)
+slapping(0.060)
+raining(0.056)
+playing+videogames(0.050)

@@ -1,0 +1,5 @@
+raining(0.101)
+crying(0.076)
+shooting(0.041)
+walking(0.031)
+sneezing(0.031)

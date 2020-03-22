@@ -1,0 +1,5 @@
+fueling(0.185)
+driving(0.129)
+steering(0.055)
+riding(0.051)
+queuing(0.037)

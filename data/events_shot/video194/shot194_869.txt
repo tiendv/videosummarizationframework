@@ -1,0 +1,5 @@
+bouncing(0.134)
+jumping(0.058)
+dancing(0.027)
+adult+female+singing(0.021)
+shaking(0.019)

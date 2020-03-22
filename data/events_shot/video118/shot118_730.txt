@@ -1,0 +1,5 @@
+sneezing(0.717)
+coughing(0.085)
+drinking(0.021)
+laughing(0.013)
+spitting(0.011)

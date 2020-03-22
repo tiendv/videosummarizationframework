@@ -1,0 +1,5 @@
+filming(0.098)
+queuing(0.049)
+walking(0.039)
+photographing(0.038)
+adult+female+singing(0.036)

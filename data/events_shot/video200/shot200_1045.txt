@@ -1,0 +1,5 @@
+arresting(0.488)
+handcuffing(0.069)
+autographing(0.039)
+protesting(0.030)
+guarding(0.029)

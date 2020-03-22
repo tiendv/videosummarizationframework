@@ -1,0 +1,5 @@
+shaving(0.047)
+adult+male+speaking(0.032)
+bathing(0.030)
+asking(0.028)
+washing(0.022)

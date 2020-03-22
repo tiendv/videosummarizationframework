@@ -1,0 +1,5 @@
+stacking(0.101)
+drinking(0.064)
+opening(0.030)
+giving(0.025)
+smiling(0.024)

@@ -1,0 +1,5 @@
+frowning(0.173)
+discussing(0.056)
+talking(0.054)
+clipping(0.043)
+adult+male+speaking(0.030)

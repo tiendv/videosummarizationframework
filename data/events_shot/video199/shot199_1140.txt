@@ -1,0 +1,5 @@
+painting(0.377)
+reading(0.093)
+drawing(0.059)
+shopping(0.021)
+sketching(0.016)

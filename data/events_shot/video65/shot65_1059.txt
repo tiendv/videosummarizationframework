@@ -1,0 +1,5 @@
+bowing(0.147)
+shoveling(0.056)
+sneezing(0.056)
+sweeping(0.044)
+coughing(0.031)

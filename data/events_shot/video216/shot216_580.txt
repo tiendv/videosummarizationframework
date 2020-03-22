@@ -1,0 +1,5 @@
+walking(0.153)
+adult+male+speaking(0.041)
+standing(0.028)
+pushing(0.023)
+knocking(0.023)

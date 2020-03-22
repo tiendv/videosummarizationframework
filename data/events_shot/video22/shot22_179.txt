@@ -1,0 +1,5 @@
+drinking(0.117)
+adult+female+speaking(0.066)
+adult+female+singing(0.061)
+slapping(0.051)
+fighting(0.045)

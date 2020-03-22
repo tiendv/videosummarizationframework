@@ -1,0 +1,5 @@
+walking(0.126)
+sneezing(0.047)
+standing(0.032)
+entering(0.029)
+laughing(0.028)

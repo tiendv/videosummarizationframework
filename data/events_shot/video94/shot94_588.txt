@@ -1,0 +1,5 @@
+unpacking(0.065)
+packing(0.055)
+hugging(0.025)
+fighting(0.022)
+slapping(0.018)

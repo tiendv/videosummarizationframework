@@ -1,0 +1,5 @@
+crafting(0.120)
+wrapping(0.094)
+praying(0.084)
+bowing(0.048)
+reading(0.035)

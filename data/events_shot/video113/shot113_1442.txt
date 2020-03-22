@@ -1,0 +1,5 @@
+hitchhiking(0.048)
+walking(0.038)
+asking(0.034)
+riding(0.029)
+interviewing(0.027)

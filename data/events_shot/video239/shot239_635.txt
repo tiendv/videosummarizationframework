@@ -1,0 +1,5 @@
+eating(0.084)
+slapping(0.042)
+dining(0.040)
+drinking(0.039)
+smoking(0.032)

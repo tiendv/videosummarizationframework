@@ -1,0 +1,5 @@
+adult+female+speaking(0.079)
+opening(0.061)
+closing(0.051)
+locking(0.050)
+fencing(0.038)

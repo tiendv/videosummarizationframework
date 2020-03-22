@@ -1,0 +1,5 @@
+crying(0.178)
+hugging(0.050)
+yawning(0.048)
+sneezing(0.033)
+giggling(0.028)

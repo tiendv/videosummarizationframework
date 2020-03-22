@@ -1,0 +1,5 @@
+standing(0.030)
+hugging(0.029)
+adult+male+speaking(0.028)
+playing+music(0.028)
+combing(0.027)

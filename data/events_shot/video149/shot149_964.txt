@@ -1,0 +1,5 @@
+clipping(0.048)
+cutting(0.028)
+attacking(0.025)
+chopping(0.021)
+adult+female+singing(0.017)

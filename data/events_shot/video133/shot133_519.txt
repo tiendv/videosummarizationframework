@@ -1,0 +1,5 @@
+eating(0.149)
+dining(0.089)
+drinking(0.044)
+flipping(0.038)
+chewing(0.036)

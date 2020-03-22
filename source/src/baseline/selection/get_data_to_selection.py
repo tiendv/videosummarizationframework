@@ -45,14 +45,14 @@ def get_data_to_selection(list_begin,list_ending):
 
 def selection_shot_knapsack_file(path_data,L=0.15):
     shot_durations,scores, video_duration = get_data_to_selection_file(path_data)
-    print(video_duration*L)
+    # print(video_duration*L)
     result = knapsack.knapsack(shot_durations,scores).solve(video_duration*L)
     #result is a tuple (max of sum score, sum durarion less than sum_video )
     return result
 
 def selection_shot_knapsack(list_begin,list_ending,list_score,L=0.15):
     shot_durations, video_duration = get_data_to_selection(list_begin,list_ending)
-    print(video_duration*L)
+    # print(video_duration*L)
     result = knapsack.knapsack(shot_durations,list_score).solve(video_duration*L)
     #result is a tuple (max of sum score, index of shot having sum durarion less than sum_video )
     return result

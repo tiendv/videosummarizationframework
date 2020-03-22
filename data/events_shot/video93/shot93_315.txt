@@ -1,0 +1,5 @@
+stealing(0.222)
+packing(0.097)
+unpacking(0.068)
+shopping(0.047)
+attacking(0.020)

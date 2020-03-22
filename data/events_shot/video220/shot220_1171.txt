@@ -1,0 +1,5 @@
+discussing(0.085)
+sitting(0.074)
+guarding(0.071)
+arresting(0.066)
+standing(0.052)

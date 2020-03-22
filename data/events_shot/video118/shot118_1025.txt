@@ -1,0 +1,5 @@
+crying(0.094)
+calling(0.060)
+frowning(0.049)
+telephoning(0.043)
+arresting(0.042)

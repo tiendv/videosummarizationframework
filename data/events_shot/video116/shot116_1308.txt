@@ -1,0 +1,5 @@
+kissing(0.057)
+fighting(0.056)
+slapping(0.048)
+sneezing(0.045)
+adult+female+speaking(0.032)

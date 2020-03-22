@@ -1,0 +1,5 @@
+selling(0.048)
+protesting(0.029)
+shopping(0.027)
+tattooing(0.025)
+adult+male+speaking(0.022)

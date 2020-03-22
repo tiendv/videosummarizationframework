@@ -1,0 +1,5 @@
+preaching(0.167)
+applauding(0.133)
+standing(0.090)
+clapping(0.060)
+adult+male+singing(0.050)

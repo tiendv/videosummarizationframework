@@ -1,0 +1,5 @@
+cheering(0.299)
+cheerleading(0.129)
+raising(0.111)
+celebrating(0.098)
+lifting(0.051)

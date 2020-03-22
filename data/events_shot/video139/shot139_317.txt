@@ -1,0 +1,5 @@
+bowling(0.095)
+sniffing(0.027)
+smelling(0.021)
+hugging(0.017)
+coaching(0.015)

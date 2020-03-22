@@ -1,0 +1,5 @@
+clipping(0.049)
+hammering(0.032)
+telephoning(0.025)
+sawing(0.025)
+calling(0.024)

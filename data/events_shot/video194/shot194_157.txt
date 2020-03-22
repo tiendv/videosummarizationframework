@@ -1,0 +1,5 @@
+adult+male+speaking(0.057)
+telephoning(0.053)
+calling(0.038)
+playing+videogames(0.036)
+walking(0.030)

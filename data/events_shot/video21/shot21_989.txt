@@ -1,0 +1,5 @@
+coughing(0.331)
+sneezing(0.102)
+yawning(0.086)
+eating(0.084)
+adult+male+singing(0.031)

@@ -1,0 +1,5 @@
+sneezing(0.055)
+drinking(0.049)
+standing(0.034)
+adult+male+speaking(0.030)
+playing+videogames(0.028)

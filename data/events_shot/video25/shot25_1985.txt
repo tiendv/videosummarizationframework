@@ -1,0 +1,5 @@
+adult+female+singing(0.106)
+fighting(0.047)
+attacking(0.039)
+smashing(0.033)
+hitting(0.030)

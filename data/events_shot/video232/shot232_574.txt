@@ -1,0 +1,5 @@
+adult+female+speaking(0.137)
+slapping(0.027)
+asking(0.021)
+adult+male+speaking(0.021)
+mopping(0.020)

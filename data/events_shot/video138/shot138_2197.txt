@@ -1,0 +1,5 @@
+sitting(0.089)
+asking(0.032)
+preaching(0.029)
+adult+male+speaking(0.024)
+reading(0.023)

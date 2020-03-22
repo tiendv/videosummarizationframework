@@ -1,0 +1,5 @@
+adult+female+speaking(0.127)
+asking(0.106)
+smelling(0.094)
+sniffing(0.071)
+interviewing(0.031)

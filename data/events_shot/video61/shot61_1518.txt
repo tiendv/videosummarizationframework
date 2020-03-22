@@ -1,0 +1,5 @@
+painting(0.106)
+climbing(0.039)
+roaring(0.039)
+opening(0.037)
+brushing(0.032)

@@ -1,0 +1,5 @@
+smelling(0.350)
+sniffing(0.310)
+gardening(0.029)
+adult+female+speaking(0.018)
+dining(0.015)

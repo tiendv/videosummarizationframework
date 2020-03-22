@@ -1,0 +1,5 @@
+working(0.032)
+sneezing(0.021)
+adult+male+speaking(0.018)
+talking(0.016)
+turning(0.015)

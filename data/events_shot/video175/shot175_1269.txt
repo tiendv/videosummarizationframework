@@ -1,0 +1,5 @@
+officiating(0.063)
+parading(0.060)
+standing(0.053)
+walking(0.051)
+guarding(0.049)

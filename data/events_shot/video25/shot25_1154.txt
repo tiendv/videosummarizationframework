@@ -1,0 +1,5 @@
+crashing(0.066)
+walking(0.065)
+attacking(0.048)
+running(0.048)
+filming(0.037)

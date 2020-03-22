@@ -1,0 +1,5 @@
+bowing(0.064)
+filming(0.040)
+laughing(0.032)
+walking(0.030)
+sitting(0.025)

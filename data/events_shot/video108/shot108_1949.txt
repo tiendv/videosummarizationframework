@@ -1,0 +1,5 @@
+talking(0.149)
+standing(0.055)
+discussing(0.050)
+interviewing(0.043)
+walking(0.037)

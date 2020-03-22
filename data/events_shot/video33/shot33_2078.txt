@@ -1,0 +1,5 @@
+adult+female+singing(0.075)
+adult+female+speaking(0.038)
+packing(0.028)
+adult+male+speaking(0.024)
+adult+male+singing(0.021)

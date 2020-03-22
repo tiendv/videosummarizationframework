@@ -1,0 +1,5 @@
+running(0.113)
+walking(0.105)
+entering(0.055)
+exiting(0.041)
+sneezing(0.041)

@@ -1,0 +1,5 @@
+filming(0.119)
+painting(0.040)
+photographing(0.039)
+pointing(0.027)
+shooting(0.027)

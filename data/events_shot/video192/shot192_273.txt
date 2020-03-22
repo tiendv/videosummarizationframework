@@ -1,0 +1,5 @@
+dining(0.088)
+eating(0.073)
+playing+videogames(0.049)
+aiming(0.042)
+slicing(0.038)

@@ -1,0 +1,5 @@
+talking(0.068)
+adult+male+speaking(0.064)
+adult+male+singing(0.063)
+playing+videogames(0.054)
+tattooing(0.039)

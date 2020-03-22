@@ -1,0 +1,5 @@
+leaning(0.123)
+sketching(0.054)
+building(0.045)
+adult+male+speaking(0.025)
+adult+female+speaking(0.020)

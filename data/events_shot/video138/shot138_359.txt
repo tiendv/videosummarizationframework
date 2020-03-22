@@ -1,0 +1,5 @@
+adult+female+singing(0.085)
+kissing(0.048)
+roaring(0.044)
+adult+male+singing(0.038)
+standing(0.035)

@@ -1,0 +1,5 @@
+trimming(0.122)
+clipping(0.108)
+hanging(0.039)
+flying(0.032)
+dropping(0.024)

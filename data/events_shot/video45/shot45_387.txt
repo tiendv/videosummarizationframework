@@ -1,0 +1,5 @@
+playing+videogames(0.210)
+running(0.091)
+walking(0.044)
+standing(0.030)
+raining(0.028)

@@ -1,0 +1,5 @@
+shopping(0.054)
+giving(0.041)
+selling(0.039)
+hugging(0.034)
+stealing(0.032)

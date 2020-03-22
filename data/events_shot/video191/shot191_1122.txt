@@ -1,0 +1,5 @@
+shaking(0.293)
+walking(0.102)
+slapping(0.086)
+smiling(0.031)
+knocking(0.025)

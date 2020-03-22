@@ -1,0 +1,5 @@
+fighting(0.123)
+raining(0.092)
+shooting(0.069)
+attacking(0.060)
+playing+videogames(0.043)

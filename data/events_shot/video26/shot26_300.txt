@@ -1,0 +1,5 @@
+adult+female+speaking(0.051)
+cleaning(0.039)
+asking(0.035)
+painting(0.029)
+adult+male+speaking(0.025)

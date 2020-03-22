@@ -1,0 +1,5 @@
+drinking(0.259)
+filming(0.061)
+photographing(0.036)
+telephoning(0.023)
+calling(0.023)

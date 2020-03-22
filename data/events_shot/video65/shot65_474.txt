@@ -1,0 +1,5 @@
+imitating(0.095)
+slapping(0.071)
+sneezing(0.053)
+rocking(0.038)
+adult+female+singing(0.037)

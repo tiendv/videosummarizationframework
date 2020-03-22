@@ -1,0 +1,5 @@
+driving(0.148)
+waking(0.137)
+sleeping(0.100)
+talking(0.032)
+resting(0.030)

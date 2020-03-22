@@ -1,0 +1,5 @@
+hammering(0.051)
+fighting(0.044)
+punching(0.034)
+clipping(0.033)
+hitting(0.030)

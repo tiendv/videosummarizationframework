@@ -1,0 +1,5 @@
+opening(0.104)
+entering(0.079)
+walking(0.052)
+exiting(0.047)
+closing(0.046)

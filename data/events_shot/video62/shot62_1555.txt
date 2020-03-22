@@ -1,0 +1,5 @@
+adult+male+speaking(0.150)
+coaching(0.095)
+playing+sports(0.044)
+talking(0.032)
+standing(0.031)

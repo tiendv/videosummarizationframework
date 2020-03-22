@@ -1,0 +1,5 @@
+drawing(0.507)
+painting(0.128)
+autographing(0.057)
+sketching(0.036)
+crafting(0.016)

@@ -1,0 +1,5 @@
+slapping(0.537)
+asking(0.091)
+laughing(0.051)
+smiling(0.046)
+adult+female+speaking(0.042)

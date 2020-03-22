@@ -1,0 +1,5 @@
+handcuffing(0.061)
+arresting(0.039)
+locking(0.028)
+slapping(0.028)
+smoking(0.024)

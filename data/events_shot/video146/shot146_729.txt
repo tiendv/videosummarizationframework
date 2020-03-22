@@ -1,0 +1,5 @@
+fencing(0.537)
+walking(0.225)
+shrugging(0.064)
+adult+male+speaking(0.012)
+gardening(0.009)

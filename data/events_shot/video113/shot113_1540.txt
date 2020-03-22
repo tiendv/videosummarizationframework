@@ -1,0 +1,5 @@
+walking(0.090)
+sneezing(0.056)
+drinking(0.046)
+coughing(0.034)
+knocking(0.030)

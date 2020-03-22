@@ -1,0 +1,5 @@
+adult+male+singing(0.179)
+adult+male+speaking(0.121)
+playing+videogames(0.109)
+standing(0.029)
+knocking(0.027)

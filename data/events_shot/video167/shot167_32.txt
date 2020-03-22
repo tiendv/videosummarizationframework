@@ -1,0 +1,5 @@
+standing(0.084)
+officiating(0.073)
+interviewing(0.041)
+asking(0.037)
+adult+female+speaking(0.030)

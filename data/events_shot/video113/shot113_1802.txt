@@ -1,0 +1,5 @@
+smashing(0.040)
+destroying(0.040)
+attacking(0.036)
+cracking(0.031)
+running(0.028)

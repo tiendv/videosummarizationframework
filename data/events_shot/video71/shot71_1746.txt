@@ -1,0 +1,5 @@
+working(0.055)
+adult+male+speaking(0.044)
+hammering(0.025)
+bowing(0.024)
+building(0.022)

@@ -1,0 +1,5 @@
+laughing(0.052)
+assembling(0.047)
+running(0.034)
+standing(0.033)
+working(0.032)

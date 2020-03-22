@@ -1,0 +1,5 @@
+sitting(0.040)
+standing(0.033)
+adult+male+speaking(0.030)
+fighting(0.030)
+attacking(0.023)

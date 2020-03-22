@@ -1,0 +1,5 @@
+adult+male+speaking(0.153)
+hugging(0.064)
+adult+male+singing(0.062)
+playing+videogames(0.039)
+arresting(0.038)

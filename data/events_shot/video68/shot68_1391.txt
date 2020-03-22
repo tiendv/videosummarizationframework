@@ -1,0 +1,5 @@
+bicycling(0.086)
+laughing(0.041)
+sitting(0.035)
+asking(0.030)
+standing(0.025)

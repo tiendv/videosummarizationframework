@@ -1,0 +1,5 @@
+eating(0.102)
+crying(0.086)
+bowing(0.063)
+sneezing(0.053)
+praying(0.038)

@@ -1,0 +1,5 @@
+drinking(0.942)
+telephoning(0.004)
+watering(0.003)
+calling(0.003)
+spitting(0.003)

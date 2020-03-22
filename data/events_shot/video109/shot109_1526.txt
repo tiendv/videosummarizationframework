@@ -1,0 +1,5 @@
+telephoning(0.397)
+calling(0.354)
+adult+male+speaking(0.022)
+cracking(0.007)
+bowing(0.006)

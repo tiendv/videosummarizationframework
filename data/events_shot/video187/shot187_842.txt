@@ -1,0 +1,5 @@
+telephoning(0.064)
+discussing(0.061)
+asking(0.059)
+eating(0.047)
+adult+female+speaking(0.045)

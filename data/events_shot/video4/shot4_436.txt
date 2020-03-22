@@ -1,0 +1,5 @@
+adult+female+singing(0.150)
+sneezing(0.077)
+adult+male+singing(0.054)
+praying(0.037)
+adult+female+speaking(0.037)

@@ -1,0 +1,5 @@
+squatting(0.065)
+fighting(0.063)
+slapping(0.061)
+adult+female+speaking(0.051)
+adult+male+speaking(0.050)

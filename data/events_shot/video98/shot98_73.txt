@@ -1,0 +1,5 @@
+cooking(0.186)
+dining(0.180)
+baking(0.149)
+barbecuing(0.084)
+grilling(0.076)

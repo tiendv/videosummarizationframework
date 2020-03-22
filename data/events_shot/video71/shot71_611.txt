@@ -1,0 +1,5 @@
+slapping(0.058)
+reaching(0.028)
+knocking(0.027)
+pointing(0.017)
+hugging(0.017)

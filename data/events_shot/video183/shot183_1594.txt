@@ -1,0 +1,5 @@
+sneezing(0.029)
+fighting(0.029)
+attacking(0.028)
+coughing(0.028)
+sitting(0.023)

@@ -1,0 +1,5 @@
+eating(0.067)
+dining(0.063)
+drinking(0.059)
+laughing(0.044)
+sitting(0.041)

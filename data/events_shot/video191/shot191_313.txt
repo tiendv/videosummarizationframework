@@ -1,0 +1,5 @@
+jogging(0.130)
+running(0.126)
+sprinting(0.059)
+asking(0.039)
+adult+male+speaking(0.027)

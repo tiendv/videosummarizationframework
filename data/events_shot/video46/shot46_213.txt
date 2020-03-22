@@ -1,0 +1,5 @@
+flooding(0.173)
+guarding(0.036)
+raining(0.034)
+shopping(0.025)
+walking(0.025)

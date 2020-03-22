@@ -1,0 +1,5 @@
+adult+male+speaking(0.066)
+dining(0.061)
+talking(0.050)
+discussing(0.043)
+shopping(0.042)

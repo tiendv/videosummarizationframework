@@ -1,0 +1,5 @@
+adult+female+singing(0.250)
+roaring(0.073)
+adult+male+singing(0.050)
+adult+female+speaking(0.021)
+sitting(0.020)

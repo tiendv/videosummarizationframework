@@ -1,0 +1,5 @@
+protesting(0.030)
+standing(0.025)
+autographing(0.025)
+adult+male+speaking(0.023)
+walking(0.021)

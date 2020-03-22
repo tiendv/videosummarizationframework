@@ -1,0 +1,5 @@
+walking(0.062)
+shooting(0.045)
+aiming(0.041)
+running(0.033)
+drying(0.029)

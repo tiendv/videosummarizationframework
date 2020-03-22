@@ -1,0 +1,5 @@
+crying(0.137)
+knocking(0.049)
+raining(0.046)
+walking(0.033)
+removing(0.023)

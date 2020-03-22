@@ -1,0 +1,5 @@
+bowling(0.423)
+knocking(0.046)
+slapping(0.031)
+laughing(0.019)
+bowing(0.017)

@@ -1,0 +1,5 @@
+bowing(0.042)
+climbing(0.025)
+praying(0.019)
+adult+male+speaking(0.018)
+cracking(0.018)

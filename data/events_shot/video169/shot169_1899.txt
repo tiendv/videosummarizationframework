@@ -1,0 +1,5 @@
+adult+female+speaking(0.048)
+attacking(0.027)
+stealing(0.026)
+handcuffing(0.026)
+tickling(0.022)

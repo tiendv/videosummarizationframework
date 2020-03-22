@@ -1,0 +1,5 @@
+standing(0.053)
+baptizing(0.048)
+stomping(0.041)
+walking(0.021)
+bathing(0.018)

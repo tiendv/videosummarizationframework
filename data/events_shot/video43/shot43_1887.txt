@@ -1,0 +1,5 @@
+adult+male+speaking(0.082)
+adult+male+singing(0.067)
+standing(0.066)
+protesting(0.046)
+officiating(0.029)

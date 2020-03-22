@@ -1,0 +1,5 @@
+drinking(0.142)
+sneezing(0.030)
+punching(0.028)
+spitting(0.021)
+walking(0.020)

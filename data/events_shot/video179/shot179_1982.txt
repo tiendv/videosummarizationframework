@@ -1,0 +1,5 @@
+fighting(0.196)
+hugging(0.076)
+arresting(0.073)
+handcuffing(0.053)
+playing+videogames(0.050)

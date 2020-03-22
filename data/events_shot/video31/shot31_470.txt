@@ -1,0 +1,5 @@
+dining(0.083)
+drinking(0.073)
+eating(0.070)
+autographing(0.051)
+signing(0.044)

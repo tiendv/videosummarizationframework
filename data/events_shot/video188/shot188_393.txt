@@ -1,0 +1,5 @@
+smoking(0.138)
+adult+male+speaking(0.116)
+crying(0.079)
+sneezing(0.070)
+interviewing(0.055)

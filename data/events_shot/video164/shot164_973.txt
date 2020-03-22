@@ -1,0 +1,5 @@
+adult+male+speaking(0.118)
+slapping(0.114)
+discussing(0.055)
+asking(0.041)
+coaching(0.028)

@@ -1,0 +1,5 @@
+applauding(0.250)
+stomping(0.212)
+cheering(0.112)
+clapping(0.065)
+performing(0.061)

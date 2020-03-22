@@ -1,0 +1,5 @@
+fencing(0.056)
+adult+female+singing(0.050)
+adult+female+speaking(0.042)
+adult+male+speaking(0.036)
+queuing(0.034)

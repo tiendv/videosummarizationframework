@@ -1,0 +1,5 @@
+sneezing(0.149)
+coughing(0.076)
+yawning(0.055)
+roaring(0.023)
+adult+female+singing(0.021)

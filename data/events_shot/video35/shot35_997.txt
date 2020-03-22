@@ -1,0 +1,5 @@
+adult+female+speaking(0.124)
+smiling(0.067)
+talking(0.048)
+slapping(0.038)
+hugging(0.037)

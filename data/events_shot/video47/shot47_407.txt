@@ -1,0 +1,5 @@
+camping(0.100)
+barbecuing(0.057)
+autographing(0.055)
+grilling(0.027)
+serving(0.022)

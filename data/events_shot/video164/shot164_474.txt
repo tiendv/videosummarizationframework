@@ -1,0 +1,5 @@
+bowling(0.031)
+loading(0.029)
+serving(0.025)
+aiming(0.024)
+cramming(0.022)

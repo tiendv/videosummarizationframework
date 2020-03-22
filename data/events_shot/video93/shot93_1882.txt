@@ -1,0 +1,5 @@
+ascending(0.125)
+rising(0.081)
+descending(0.072)
+climbing(0.065)
+bicycling(0.029)

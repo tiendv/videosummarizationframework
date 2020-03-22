@@ -1,0 +1,5 @@
+kissing(0.142)
+hugging(0.067)
+adult+female+singing(0.039)
+cuddling(0.026)
+roaring(0.024)

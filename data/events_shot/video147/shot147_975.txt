@@ -1,0 +1,5 @@
+painting(0.061)
+brushing(0.053)
+slapping(0.053)
+spraying(0.051)
+punching(0.042)

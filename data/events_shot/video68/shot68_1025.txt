@@ -1,0 +1,5 @@
+sneezing(0.096)
+laughing(0.046)
+smashing(0.032)
+coughing(0.030)
+attacking(0.026)

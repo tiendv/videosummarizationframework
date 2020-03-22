@@ -1,0 +1,5 @@
+filming(0.109)
+playing+videogames(0.070)
+walking(0.063)
+standing(0.039)
+aiming(0.031)

@@ -1,0 +1,5 @@
+hugging(0.079)
+adult+male+speaking(0.061)
+slapping(0.025)
+filming(0.023)
+tattooing(0.023)

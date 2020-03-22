@@ -1,0 +1,5 @@
+dressing(0.069)
+tying(0.049)
+hugging(0.043)
+walking(0.035)
+handcuffing(0.019)

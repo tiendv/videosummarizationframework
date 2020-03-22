@@ -1,0 +1,5 @@
+standing(0.044)
+cleaning(0.028)
+entering(0.027)
+driving(0.026)
+talking(0.023)

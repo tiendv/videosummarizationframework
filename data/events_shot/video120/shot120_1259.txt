@@ -1,0 +1,5 @@
+opening(0.146)
+closing(0.137)
+locking(0.117)
+handcuffing(0.082)
+working(0.021)

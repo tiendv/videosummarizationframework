@@ -1,0 +1,5 @@
+adult+female+singing(0.102)
+adult+male+singing(0.058)
+attacking(0.049)
+fighting(0.048)
+filming(0.030)

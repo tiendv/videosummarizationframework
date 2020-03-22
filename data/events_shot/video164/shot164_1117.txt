@@ -1,0 +1,5 @@
+dining(0.228)
+walking(0.029)
+standing(0.027)
+serving(0.024)
+sitting(0.022)

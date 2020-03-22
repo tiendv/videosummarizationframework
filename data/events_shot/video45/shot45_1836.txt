@@ -1,0 +1,5 @@
+combusting(0.215)
+measuring(0.064)
+burning(0.055)
+starting(0.036)
+vacuuming(0.024)

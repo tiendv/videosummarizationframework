@@ -1,0 +1,5 @@
+tattooing(0.890)
+drawing(0.014)
+sketching(0.006)
+autographing(0.006)
+painting(0.006)

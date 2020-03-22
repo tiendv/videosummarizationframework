@@ -1,0 +1,5 @@
+walking(0.358)
+guarding(0.107)
+filming(0.076)
+exiting(0.055)
+waving(0.032)

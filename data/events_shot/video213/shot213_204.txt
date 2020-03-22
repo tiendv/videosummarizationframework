@@ -1,0 +1,5 @@
+fighting(0.093)
+shooting(0.057)
+attacking(0.056)
+throwing(0.032)
+standing(0.032)

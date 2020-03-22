@@ -1,0 +1,5 @@
+telephoning(0.499)
+calling(0.260)
+typing(0.046)
+handwriting(0.012)
+filming(0.009)

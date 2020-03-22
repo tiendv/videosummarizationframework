@@ -1,0 +1,5 @@
+studying(0.246)
+reading(0.114)
+writing(0.087)
+cramming(0.057)
+handwriting(0.053)

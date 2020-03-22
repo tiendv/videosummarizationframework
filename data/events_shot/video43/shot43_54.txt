@@ -1,0 +1,6 @@
+hugging(0.040)
+adult+female+singing(0.026)
+playing+videogames(0.025)
+adult+female+speaking(0.025)
+standing(0.021)
+)

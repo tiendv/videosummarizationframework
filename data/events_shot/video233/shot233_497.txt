@@ -1,0 +1,5 @@
+hanging(0.271)
+walking(0.032)
+swinging(0.028)
+exiting(0.026)
+guarding(0.022)

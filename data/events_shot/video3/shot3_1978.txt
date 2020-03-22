@@ -1,0 +1,5 @@
+bowling(0.469)
+drinking(0.055)
+asking(0.039)
+discussing(0.031)
+sniffing(0.018)

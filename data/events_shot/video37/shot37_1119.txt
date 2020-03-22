@@ -1,0 +1,5 @@
+driving(0.031)
+sitting(0.028)
+attacking(0.025)
+fighting(0.025)
+smashing(0.025)

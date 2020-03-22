@@ -1,0 +1,5 @@
+talking(0.065)
+adult+male+speaking(0.064)
+discussing(0.044)
+sneezing(0.042)
+fighting(0.030)

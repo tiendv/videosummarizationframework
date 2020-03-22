@@ -1,0 +1,5 @@
+arresting(0.593)
+handcuffing(0.118)
+guarding(0.066)
+packing(0.048)
+unpacking(0.015)

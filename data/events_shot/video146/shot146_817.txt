@@ -1,0 +1,5 @@
+painting(0.071)
+adult+male+speaking(0.065)
+filming(0.055)
+aiming(0.035)
+playing+videogames(0.029)

@@ -1,0 +1,5 @@
+hiking(0.206)
+climbing(0.153)
+photographing(0.047)
+hanging(0.039)
+filming(0.017)

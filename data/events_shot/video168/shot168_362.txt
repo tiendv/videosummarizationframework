@@ -1,0 +1,5 @@
+adult+female+singing(0.103)
+burning(0.045)
+adult+male+singing(0.036)
+playing+videogames(0.035)
+walking(0.032)

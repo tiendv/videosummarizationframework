@@ -1,0 +1,5 @@
+eating(0.104)
+dining(0.085)
+discussing(0.075)
+adult+female+speaking(0.065)
+cooking(0.043)

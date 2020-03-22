@@ -1,0 +1,5 @@
+talking(0.056)
+pointing(0.033)
+aiming(0.033)
+cracking(0.031)
+playing+videogames(0.026)

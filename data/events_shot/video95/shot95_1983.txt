@@ -1,0 +1,5 @@
+walking(0.145)
+slapping(0.078)
+filming(0.052)
+arresting(0.038)
+adult+male+speaking(0.032)

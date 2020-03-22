@@ -1,0 +1,5 @@
+playing(0.632)
+child+speaking(0.059)
+reading(0.056)
+talking(0.055)
+playing+videogames(0.031)

@@ -1,0 +1,5 @@
+drinking(0.075)
+adult+female+singing(0.042)
+washing(0.039)
+covering(0.027)
+rubbing(0.026)

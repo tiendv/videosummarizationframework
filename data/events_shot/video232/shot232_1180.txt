@@ -1,0 +1,5 @@
+knocking(0.208)
+adult+male+speaking(0.100)
+talking(0.048)
+slapping(0.045)
+starting(0.045)

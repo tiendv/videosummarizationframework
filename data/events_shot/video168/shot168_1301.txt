@@ -1,0 +1,5 @@
+adult+female+speaking(0.278)
+adult+male+speaking(0.042)
+talking(0.039)
+crafting(0.029)
+drinking(0.026)

@@ -1,0 +1,5 @@
+drinking(0.964)
+shaving(0.003)
+adult+male+speaking(0.002)
+spitting(0.002)
+smelling(0.001)

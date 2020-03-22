@@ -1,0 +1,5 @@
+fencing(0.128)
+asking(0.036)
+adult+female+speaking(0.035)
+handcuffing(0.028)
+slapping(0.026)

@@ -1,0 +1,5 @@
+walking(0.342)
+exiting(0.099)
+entering(0.042)
+running(0.029)
+fencing(0.025)

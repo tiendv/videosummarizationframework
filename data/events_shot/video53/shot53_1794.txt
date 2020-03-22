@@ -1,0 +1,5 @@
+dressing(0.051)
+bowing(0.030)
+giving(0.030)
+smiling(0.029)
+adult+female+speaking(0.025)

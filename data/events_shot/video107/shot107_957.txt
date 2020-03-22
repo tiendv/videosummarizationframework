@@ -1,0 +1,5 @@
+spinning(0.638)
+starting(0.044)
+turning(0.037)
+mopping(0.012)
+playing+videogames(0.009)

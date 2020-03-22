@@ -1,0 +1,5 @@
+raining(0.181)
+snowing(0.084)
+storming(0.032)
+boating(0.031)
+sailing(0.025)

@@ -1,0 +1,5 @@
+stealing(0.093)
+exiting(0.079)
+arresting(0.079)
+hugging(0.042)
+adult+female+speaking(0.040)

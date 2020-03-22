@@ -1,0 +1,5 @@
+snapping(0.061)
+pointing(0.034)
+slapping(0.023)
+brushing(0.021)
+pushing(0.019)

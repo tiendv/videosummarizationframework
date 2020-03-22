@@ -1,0 +1,5 @@
+eating(0.169)
+dining(0.088)
+baptizing(0.049)
+laughing(0.044)
+drinking(0.036)

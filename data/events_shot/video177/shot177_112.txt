@@ -1,0 +1,5 @@
+drinking(0.807)
+sneezing(0.012)
+brushing(0.012)
+removing(0.010)
+smelling(0.009)

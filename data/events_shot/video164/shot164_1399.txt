@@ -1,0 +1,5 @@
+fencing(0.109)
+guarding(0.059)
+walking(0.056)
+turning(0.041)
+entering(0.033)

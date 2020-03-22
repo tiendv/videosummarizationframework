@@ -1,0 +1,5 @@
+roaring(0.048)
+sitting(0.043)
+talking(0.042)
+hugging(0.039)
+standing(0.036)

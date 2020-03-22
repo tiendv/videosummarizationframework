@@ -1,0 +1,5 @@
+calling(0.232)
+telephoning(0.169)
+walking(0.033)
+talking(0.032)
+adult+male+speaking(0.028)

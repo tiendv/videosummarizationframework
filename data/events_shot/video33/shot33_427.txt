@@ -1,0 +1,5 @@
+asking(0.080)
+adult+male+speaking(0.076)
+discussing(0.075)
+talking(0.071)
+tattooing(0.062)

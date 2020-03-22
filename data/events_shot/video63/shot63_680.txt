@@ -1,0 +1,5 @@
+adult+male+speaking(0.050)
+playing+videogames(0.040)
+giving(0.027)
+crafting(0.020)
+playing(0.020)

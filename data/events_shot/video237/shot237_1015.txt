@@ -1,0 +1,5 @@
+arresting(0.071)
+stealing(0.063)
+asking(0.059)
+slapping(0.055)
+adult+male+speaking(0.048)

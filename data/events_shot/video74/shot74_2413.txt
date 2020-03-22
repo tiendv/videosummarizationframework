@@ -1,0 +1,5 @@
+lecturing(0.124)
+adult+male+speaking(0.119)
+teaching(0.105)
+talking(0.071)
+coaching(0.049)

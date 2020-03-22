@@ -1,0 +1,5 @@
+walking(0.557)
+standing(0.094)
+entering(0.018)
+officiating(0.014)
+exiting(0.013)

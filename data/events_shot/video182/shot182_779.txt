@@ -1,0 +1,5 @@
+bowing(0.079)
+squatting(0.060)
+adult+male+speaking(0.026)
+falling(0.025)
+dropping(0.022)

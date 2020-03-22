@@ -1,0 +1,5 @@
+hanging(0.058)
+protesting(0.053)
+standing(0.049)
+squatting(0.044)
+fighting(0.015)

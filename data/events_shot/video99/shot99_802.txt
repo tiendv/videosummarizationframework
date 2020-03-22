@@ -1,0 +1,5 @@
+driving(0.107)
+fighting(0.077)
+attacking(0.077)
+adult+female+singing(0.057)
+playing+videogames(0.044)

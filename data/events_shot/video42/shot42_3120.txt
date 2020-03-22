@@ -1,0 +1,5 @@
+rising(0.032)
+adult+female+singing(0.030)
+balancing(0.024)
+standing(0.021)
+crafting(0.017)

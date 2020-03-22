@@ -1,0 +1,5 @@
+hugging(0.058)
+walking(0.051)
+adult+female+singing(0.036)
+waving(0.026)
+standing(0.026)

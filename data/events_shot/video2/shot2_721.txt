@@ -1,0 +1,5 @@
+slapping(0.105)
+laughing(0.076)
+sneezing(0.044)
+sitting(0.037)
+adult+male+singing(0.036)

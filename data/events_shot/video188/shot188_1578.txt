@@ -1,0 +1,5 @@
+asking(0.091)
+hugging(0.087)
+slapping(0.041)
+queuing(0.033)
+shaking(0.029)

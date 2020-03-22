@@ -1,0 +1,5 @@
+bicycling(0.632)
+running(0.064)
+pedaling(0.050)
+jogging(0.027)
+sprinting(0.018)

@@ -1,0 +1,5 @@
+telephoning(0.379)
+calling(0.341)
+filming(0.029)
+photographing(0.013)
+adult+male+speaking(0.009)

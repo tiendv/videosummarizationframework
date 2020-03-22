@@ -1,0 +1,5 @@
+walking(0.106)
+stealing(0.081)
+packing(0.033)
+unpacking(0.031)
+running(0.027)

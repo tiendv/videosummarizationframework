@@ -1,0 +1,5 @@
+adult+male+singing(0.144)
+fighting(0.077)
+attacking(0.048)
+adult+male+speaking(0.046)
+standing(0.046)

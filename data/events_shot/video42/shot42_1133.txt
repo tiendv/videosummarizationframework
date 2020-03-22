@@ -1,0 +1,5 @@
+slapping(0.091)
+kicking(0.035)
+handcuffing(0.029)
+laughing(0.028)
+adult+female+speaking(0.024)

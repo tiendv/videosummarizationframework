@@ -1,0 +1,5 @@
+dining(0.047)
+shopping(0.033)
+rinsing(0.028)
+serving(0.022)
+eating(0.021)

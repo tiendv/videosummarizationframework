@@ -1,0 +1,5 @@
+entering(0.134)
+exiting(0.095)
+arresting(0.067)
+smiling(0.055)
+adult+male+speaking(0.046)

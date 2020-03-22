@@ -1,0 +1,5 @@
+child+singing(0.283)
+child+speaking(0.116)
+crying(0.053)
+playing+videogames(0.036)
+frowning(0.019)

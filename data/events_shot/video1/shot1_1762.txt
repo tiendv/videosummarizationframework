@@ -1,0 +1,5 @@
+filming(0.049)
+standing(0.044)
+adult+male+speaking(0.038)
+playing+videogames(0.035)
+punching(0.035)

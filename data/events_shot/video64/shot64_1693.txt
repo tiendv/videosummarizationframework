@@ -1,0 +1,5 @@
+cleaning(0.060)
+packing(0.042)
+unpacking(0.038)
+walking(0.032)
+laughing(0.028)

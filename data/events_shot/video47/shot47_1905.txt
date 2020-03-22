@@ -1,0 +1,5 @@
+slapping(0.070)
+walking(0.063)
+hugging(0.063)
+exiting(0.036)
+queuing(0.033)

@@ -1,0 +1,5 @@
+stacking(0.306)
+loading(0.024)
+adult+male+speaking(0.021)
+gripping(0.018)
+assembling(0.017)

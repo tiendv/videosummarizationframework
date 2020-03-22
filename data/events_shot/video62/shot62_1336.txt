@@ -1,0 +1,5 @@
+bowing(0.042)
+walking(0.032)
+shopping(0.023)
+standing(0.022)
+raising(0.018)

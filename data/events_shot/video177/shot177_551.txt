@@ -1,0 +1,5 @@
+roaring(0.682)
+yawning(0.085)
+eating(0.071)
+feeding(0.047)
+hunting(0.016)

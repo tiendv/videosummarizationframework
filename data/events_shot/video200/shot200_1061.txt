@@ -1,0 +1,5 @@
+asking(0.043)
+eating(0.040)
+chewing(0.035)
+adult+male+speaking(0.031)
+sneezing(0.026)

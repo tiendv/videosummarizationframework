@@ -1,0 +1,5 @@
+building(0.237)
+constructing(0.149)
+driving(0.084)
+riding(0.040)
+unloading(0.021)

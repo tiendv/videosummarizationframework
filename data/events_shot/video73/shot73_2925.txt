@@ -1,0 +1,5 @@
+sneezing(0.124)
+stacking(0.051)
+drinking(0.043)
+coughing(0.038)
+hugging(0.020)

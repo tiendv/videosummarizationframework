@@ -1,0 +1,5 @@
+brushing(0.314)
+sneezing(0.206)
+coughing(0.068)
+combing(0.060)
+drying(0.018)

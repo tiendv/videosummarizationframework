@@ -1,0 +1,5 @@
+laughing(0.212)
+sneezing(0.129)
+smiling(0.073)
+standing(0.030)
+imitating(0.028)

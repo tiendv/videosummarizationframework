@@ -1,0 +1,5 @@
+driving(0.176)
+raining(0.108)
+storming(0.104)
+crashing(0.047)
+steering(0.037)

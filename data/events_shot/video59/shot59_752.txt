@@ -1,0 +1,5 @@
+telephoning(0.376)
+calling(0.363)
+piloting(0.018)
+adult+male+speaking(0.017)
+discussing(0.013)

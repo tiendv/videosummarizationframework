@@ -1,0 +1,5 @@
+gripping(0.073)
+adult+male+speaking(0.071)
+aiming(0.045)
+starting(0.036)
+pointing(0.032)

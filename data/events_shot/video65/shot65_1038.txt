@@ -1,0 +1,5 @@
+hanging(0.172)
+opening(0.115)
+knocking(0.107)
+closing(0.062)
+painting(0.041)

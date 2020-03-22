@@ -1,0 +1,5 @@
+eating(0.107)
+drinking(0.105)
+asking(0.052)
+laughing(0.049)
+dining(0.047)

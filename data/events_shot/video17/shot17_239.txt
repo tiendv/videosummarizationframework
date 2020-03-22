@@ -1,0 +1,5 @@
+sneezing(0.132)
+drinking(0.055)
+coughing(0.044)
+praying(0.043)
+bowing(0.038)

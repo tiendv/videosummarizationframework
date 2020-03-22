@@ -1,0 +1,5 @@
+hugging(0.097)
+fighting(0.086)
+standing(0.027)
+bowing(0.025)
+slapping(0.025)

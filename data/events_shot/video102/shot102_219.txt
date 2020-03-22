@@ -1,0 +1,5 @@
+assembling(0.270)
+repairing(0.135)
+plugging(0.043)
+putting(0.038)
+measuring(0.026)

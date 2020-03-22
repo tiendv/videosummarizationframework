@@ -1,0 +1,5 @@
+sneezing(0.308)
+coughing(0.066)
+tattooing(0.034)
+slapping(0.029)
+adult+female+singing(0.026)

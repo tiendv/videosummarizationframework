@@ -1,0 +1,5 @@
+fencing(0.216)
+roaring(0.061)
+attacking(0.047)
+walking(0.030)
+adult+female+singing(0.026)

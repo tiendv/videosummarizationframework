@@ -1,0 +1,5 @@
+cleaning(0.184)
+washing(0.046)
+spraying(0.027)
+scrubbing(0.027)
+stacking(0.022)

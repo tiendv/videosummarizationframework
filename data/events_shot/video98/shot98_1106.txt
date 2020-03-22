@@ -1,0 +1,5 @@
+playing+videogames(0.052)
+aiming(0.036)
+walking(0.033)
+attacking(0.031)
+running(0.028)

@@ -1,0 +1,5 @@
+cleaning(0.278)
+arresting(0.183)
+handcuffing(0.032)
+washing(0.031)
+removing(0.027)

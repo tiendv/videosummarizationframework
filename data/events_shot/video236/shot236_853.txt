@@ -1,0 +1,5 @@
+fencing(0.759)
+riding(0.030)
+driving(0.029)
+chasing(0.023)
+raining(0.007)

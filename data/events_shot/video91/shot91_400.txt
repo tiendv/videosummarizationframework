@@ -1,0 +1,5 @@
+autographing(0.084)
+queuing(0.072)
+hugging(0.057)
+adult+male+speaking(0.035)
+protesting(0.031)

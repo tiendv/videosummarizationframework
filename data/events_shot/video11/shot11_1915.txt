@@ -1,0 +1,5 @@
+waving(0.064)
+riding(0.038)
+exiting(0.025)
+boarding(0.024)
+sitting(0.020)

@@ -1,0 +1,5 @@
+walking(0.157)
+talking(0.037)
+filming(0.033)
+shrugging(0.031)
+standing(0.027)

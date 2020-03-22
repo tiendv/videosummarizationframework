@@ -1,0 +1,5 @@
+driving(0.251)
+steering(0.140)
+riding(0.120)
+exiting(0.023)
+boarding(0.020)

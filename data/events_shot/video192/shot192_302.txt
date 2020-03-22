@@ -1,0 +1,5 @@
+driving(0.070)
+filming(0.065)
+steering(0.046)
+walking(0.035)
+hitchhiking(0.030)

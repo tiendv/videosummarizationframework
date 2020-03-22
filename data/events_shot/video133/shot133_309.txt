@@ -1,0 +1,5 @@
+gripping(0.046)
+chewing(0.032)
+cracking(0.032)
+licking(0.026)
+drying(0.026)

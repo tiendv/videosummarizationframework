@@ -1,0 +1,5 @@
+slapping(0.237)
+walking(0.150)
+filming(0.037)
+standing(0.029)
+punching(0.029)

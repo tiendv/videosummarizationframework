@@ -1,0 +1,5 @@
+filming(0.058)
+drinking(0.044)
+cooking(0.031)
+smoking(0.030)
+eating(0.030)

@@ -1,0 +1,5 @@
+packaging(0.147)
+hugging(0.057)
+carrying(0.049)
+running(0.038)
+building(0.036)

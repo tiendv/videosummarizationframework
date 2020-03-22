@@ -1,0 +1,5 @@
+adult+female+singing(0.078)
+running(0.056)
+spinning(0.026)
+walking(0.025)
+standing(0.022)

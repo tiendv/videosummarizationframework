@@ -1,0 +1,5 @@
+queuing(0.084)
+fighting(0.076)
+attacking(0.034)
+walking(0.031)
+playing+videogames(0.027)

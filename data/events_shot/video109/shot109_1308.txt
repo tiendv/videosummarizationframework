@@ -1,0 +1,5 @@
+sitting(0.054)
+painting(0.040)
+hammering(0.028)
+dining(0.026)
+adult+male+speaking(0.022)

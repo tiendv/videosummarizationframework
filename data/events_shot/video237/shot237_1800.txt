@@ -1,0 +1,5 @@
+tapping(0.082)
+chewing(0.048)
+sleeping(0.044)
+tattooing(0.043)
+slapping(0.034)

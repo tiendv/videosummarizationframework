@@ -1,0 +1,5 @@
+walking(0.091)
+adult+male+singing(0.089)
+raining(0.055)
+standing(0.038)
+rocking(0.029)

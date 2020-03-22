@@ -1,0 +1,5 @@
+drinking(0.050)
+fighting(0.048)
+filming(0.039)
+walking(0.031)
+slapping(0.024)

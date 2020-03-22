@@ -1,0 +1,5 @@
+hugging(0.091)
+smiling(0.029)
+reaching(0.029)
+adult+female+speaking(0.027)
+celebrating(0.022)

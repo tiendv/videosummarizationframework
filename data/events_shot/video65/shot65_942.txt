@@ -1,0 +1,5 @@
+sneezing(0.238)
+stacking(0.075)
+coughing(0.063)
+adult+female+singing(0.058)
+adult+male+singing(0.044)

@@ -1,0 +1,5 @@
+sneezing(0.055)
+telephoning(0.049)
+studying(0.047)
+throwing(0.031)
+calling(0.031)

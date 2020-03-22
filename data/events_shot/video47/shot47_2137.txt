@@ -1,0 +1,5 @@
+sitting(0.163)
+adult+male+speaking(0.121)
+adult+male+singing(0.053)
+asking(0.044)
+chewing(0.043)

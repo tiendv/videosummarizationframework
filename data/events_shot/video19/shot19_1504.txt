@@ -1,0 +1,5 @@
+fencing(0.240)
+hanging(0.088)
+clawing(0.072)
+picking(0.063)
+feeding(0.058)

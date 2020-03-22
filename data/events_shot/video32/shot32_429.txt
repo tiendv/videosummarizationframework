@@ -1,0 +1,5 @@
+telephoning(0.288)
+calling(0.233)
+filming(0.055)
+walking(0.022)
+sneezing(0.022)

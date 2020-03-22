@@ -1,0 +1,5 @@
+bowing(0.054)
+smiling(0.048)
+dressing(0.047)
+marrying(0.036)
+giving(0.030)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.045)
+standing(0.041)
+walking(0.032)
+laughing(0.030)
+removing(0.030)

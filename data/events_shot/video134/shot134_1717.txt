@@ -1,0 +1,5 @@
+smiling(0.096)
+adult+female+speaking(0.077)
+crying(0.056)
+calling(0.048)
+laughing(0.047)

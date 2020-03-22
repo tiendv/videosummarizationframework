@@ -1,0 +1,5 @@
+laughing(0.371)
+smiling(0.223)
+grinning(0.095)
+giggling(0.055)
+winking(0.036)

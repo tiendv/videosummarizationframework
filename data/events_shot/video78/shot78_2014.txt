@@ -1,0 +1,5 @@
+drying(0.206)
+blowing(0.049)
+combing(0.041)
+cleaning(0.030)
+folding(0.027)

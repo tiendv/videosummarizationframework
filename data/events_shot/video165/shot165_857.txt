@@ -1,0 +1,5 @@
+painting(0.070)
+adult+female+speaking(0.043)
+smiling(0.041)
+drawing(0.041)
+tattooing(0.039)

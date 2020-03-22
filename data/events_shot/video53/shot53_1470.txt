@@ -1,0 +1,5 @@
+sneezing(0.092)
+coughing(0.062)
+telephoning(0.027)
+filming(0.024)
+laughing(0.021)

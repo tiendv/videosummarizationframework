@@ -1,0 +1,5 @@
+pointing(0.080)
+slapping(0.066)
+adult+male+speaking(0.056)
+discussing(0.048)
+coaching(0.047)

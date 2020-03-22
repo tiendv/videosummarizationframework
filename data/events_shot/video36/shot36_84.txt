@@ -1,0 +1,5 @@
+running(0.052)
+attacking(0.052)
+fighting(0.049)
+walking(0.047)
+filming(0.041)

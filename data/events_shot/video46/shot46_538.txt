@@ -1,0 +1,5 @@
+walking(0.157)
+running(0.111)
+knocking(0.040)
+exiting(0.024)
+entering(0.022)

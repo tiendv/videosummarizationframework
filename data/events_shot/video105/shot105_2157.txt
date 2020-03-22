@@ -1,0 +1,5 @@
+adult+female+singing(0.152)
+bowling(0.068)
+adult+male+speaking(0.063)
+adult+female+speaking(0.052)
+standing(0.039)

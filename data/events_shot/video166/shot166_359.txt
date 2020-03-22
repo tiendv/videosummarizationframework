@@ -1,0 +1,5 @@
+queuing(0.100)
+hugging(0.066)
+adult+male+speaking(0.062)
+slapping(0.049)
+playing+videogames(0.033)

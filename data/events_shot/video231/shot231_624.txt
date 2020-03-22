@@ -1,0 +1,5 @@
+exercising(0.040)
+slapping(0.031)
+fighting(0.026)
+reaching(0.023)
+standing(0.019)

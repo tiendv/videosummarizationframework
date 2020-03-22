@@ -1,0 +1,5 @@
+adult+female+singing(0.176)
+adult+male+singing(0.055)
+sneezing(0.052)
+adult+female+speaking(0.052)
+hugging(0.040)

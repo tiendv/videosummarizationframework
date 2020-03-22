@@ -54,12 +54,11 @@ def create_json4shots_file(path_data,path_json,id="shot_gt"):
     with open(os.path.join(path_save,"{}.json".format(name_file)),'w+') as f:
         json.dump(data_json, f)
 
-def create_json4shots(path_json, name_vid,list_begin, list_ending,list_score=None,id="shot_gt", ):
+def create_json4shots(path_json, name_vid,list_begin,list_score=None,id="shot_gt", ):
     '''
         This function uses to create a json file from input data for shots
         input: name_vid - the name of the input video
                list_begin - list of time begining of each shot
-               list_ending - list of time ending of each shot
                list_score - list of score of each shot, enter "None" if it hasn't had the scores
                id(optional) = id of the json file (default="shot_gt")
         output: none

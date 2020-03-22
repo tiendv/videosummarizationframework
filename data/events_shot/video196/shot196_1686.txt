@@ -1,0 +1,5 @@
+coaching(0.382)
+instructing(0.173)
+adult+male+speaking(0.129)
+teaching(0.044)
+punching(0.032)

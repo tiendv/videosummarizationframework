@@ -1,0 +1,5 @@
+adult+male+speaking(0.042)
+talking(0.041)
+praying(0.036)
+walking(0.032)
+coughing(0.030)

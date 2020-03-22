@@ -1,0 +1,5 @@
+drinking(0.069)
+throwing(0.040)
+slapping(0.039)
+asking(0.027)
+standing(0.026)

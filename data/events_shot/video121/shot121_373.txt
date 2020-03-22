@@ -1,0 +1,5 @@
+bowling(0.053)
+adult+female+singing(0.039)
+hugging(0.036)
+smiling(0.034)
+slapping(0.024)

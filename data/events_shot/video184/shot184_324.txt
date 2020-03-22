@@ -1,0 +1,5 @@
+walking(0.080)
+pointing(0.048)
+clipping(0.044)
+playing+videogames(0.042)
+talking(0.032)

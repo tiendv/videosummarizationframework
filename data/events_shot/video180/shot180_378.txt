@@ -1,0 +1,5 @@
+rising(0.132)
+snowing(0.088)
+talking(0.082)
+raining(0.057)
+celebrating(0.033)

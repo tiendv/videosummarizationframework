@@ -1,0 +1,5 @@
+telephoning(0.068)
+calling(0.066)
+walking(0.061)
+carrying(0.026)
+talking(0.024)

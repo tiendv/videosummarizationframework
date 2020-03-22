@@ -1,0 +1,5 @@
+adult+male+singing(0.121)
+walking(0.104)
+running(0.070)
+jogging(0.052)
+arresting(0.040)

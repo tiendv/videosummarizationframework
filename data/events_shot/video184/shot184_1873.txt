@@ -1,0 +1,5 @@
+punching(0.049)
+knocking(0.047)
+running(0.034)
+walking(0.030)
+adult+male+singing(0.030)

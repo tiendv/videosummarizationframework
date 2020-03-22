@@ -1,0 +1,5 @@
+hugging(0.080)
+walking(0.072)
+standing(0.051)
+entering(0.041)
+guarding(0.040)

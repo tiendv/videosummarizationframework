@@ -1,0 +1,5 @@
+queuing(0.117)
+adult+female+speaking(0.047)
+sitting(0.041)
+walking(0.039)
+adult+male+speaking(0.037)

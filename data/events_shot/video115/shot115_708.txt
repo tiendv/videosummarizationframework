@@ -1,0 +1,5 @@
+kissing(0.230)
+hugging(0.084)
+slapping(0.080)
+handcuffing(0.038)
+laughing(0.030)

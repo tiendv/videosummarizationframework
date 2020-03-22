@@ -1,0 +1,5 @@
+adult+male+speaking(0.116)
+running(0.055)
+walking(0.050)
+jogging(0.047)
+standing(0.034)

@@ -1,0 +1,5 @@
+adult+female+singing(0.085)
+calling(0.052)
+telephoning(0.040)
+attacking(0.030)
+walking(0.027)

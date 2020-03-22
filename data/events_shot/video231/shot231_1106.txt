@@ -1,0 +1,5 @@
+running(0.085)
+hugging(0.068)
+jogging(0.067)
+slapping(0.055)
+adult+female+speaking(0.047)

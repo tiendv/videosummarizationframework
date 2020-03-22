@@ -1,0 +1,5 @@
+fighting(0.094)
+attacking(0.069)
+playing+videogames(0.064)
+shooting(0.052)
+punching(0.047)

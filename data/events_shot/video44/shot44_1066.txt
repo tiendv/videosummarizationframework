@@ -1,0 +1,5 @@
+reading(0.131)
+sitting(0.037)
+eating(0.035)
+studying(0.033)
+cooking(0.023)

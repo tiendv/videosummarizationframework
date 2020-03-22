@@ -1,0 +1,5 @@
+selling(0.036)
+adult+male+speaking(0.030)
+painting(0.023)
+crafting(0.020)
+adult+female+speaking(0.020)

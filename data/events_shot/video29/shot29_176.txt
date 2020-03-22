@@ -1,0 +1,5 @@
+driving(0.079)
+adult+male+singing(0.056)
+riding(0.055)
+boating(0.037)
+attacking(0.030)

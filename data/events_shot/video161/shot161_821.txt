@@ -1,0 +1,5 @@
+drinking(0.410)
+dining(0.199)
+eating(0.107)
+tattooing(0.027)
+sitting(0.023)

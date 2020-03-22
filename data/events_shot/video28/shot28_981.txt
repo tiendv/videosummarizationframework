@@ -1,0 +1,5 @@
+knocking(0.073)
+fighting(0.049)
+adult+male+speaking(0.047)
+standing(0.040)
+blocking(0.034)

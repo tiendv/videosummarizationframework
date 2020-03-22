@@ -1,0 +1,5 @@
+adult+female+singing(0.347)
+adult+male+singing(0.027)
+punching(0.023)
+fighting(0.022)
+performing(0.021)

@@ -1,0 +1,5 @@
+knocking(0.285)
+shooting(0.154)
+throwing(0.112)
+aiming(0.079)
+fencing(0.061)

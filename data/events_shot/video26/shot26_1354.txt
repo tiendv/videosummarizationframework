@@ -1,0 +1,5 @@
+autographing(0.037)
+painting(0.025)
+cooking(0.023)
+dining(0.021)
+adult+male+speaking(0.019)

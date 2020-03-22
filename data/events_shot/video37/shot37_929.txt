@@ -1,0 +1,5 @@
+fishing(0.103)
+diving(0.065)
+frying(0.052)
+hunting(0.052)
+stirring(0.038)

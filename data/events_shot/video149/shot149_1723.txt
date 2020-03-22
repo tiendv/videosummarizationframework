@@ -1,0 +1,5 @@
+turning(0.093)
+adult+female+singing(0.073)
+talking(0.066)
+roaring(0.060)
+playing+videogames(0.048)

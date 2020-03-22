@@ -1,0 +1,5 @@
+kissing(0.156)
+hugging(0.031)
+adult+female+speaking(0.025)
+filming(0.025)
+adult+female+singing(0.023)

@@ -1,0 +1,5 @@
+cleaning(0.042)
+spinning(0.037)
+painting(0.036)
+mopping(0.034)
+drawing(0.033)

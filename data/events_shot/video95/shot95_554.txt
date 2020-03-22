@@ -1,0 +1,5 @@
+fencing(0.114)
+standing(0.039)
+walking(0.024)
+guarding(0.023)
+waving(0.018)

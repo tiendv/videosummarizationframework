@@ -1,0 +1,5 @@
+asking(0.139)
+walking(0.135)
+hitchhiking(0.099)
+protesting(0.057)
+interviewing(0.049)

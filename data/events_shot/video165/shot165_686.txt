@@ -1,0 +1,5 @@
+talking(0.100)
+discussing(0.052)
+sitting(0.049)
+standing(0.035)
+filming(0.032)

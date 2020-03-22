@@ -1,0 +1,5 @@
+tattooing(0.872)
+adult+female+speaking(0.015)
+manicuring(0.015)
+sneezing(0.005)
+adult+female+singing(0.005)

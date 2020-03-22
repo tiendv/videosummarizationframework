@@ -1,0 +1,5 @@
+climbing(0.173)
+standing(0.044)
+rising(0.039)
+talking(0.027)
+roaring(0.027)

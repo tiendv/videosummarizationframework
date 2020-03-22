@@ -1,0 +1,5 @@
+driving(0.071)
+sitting(0.061)
+riding(0.056)
+laughing(0.054)
+discussing(0.049)

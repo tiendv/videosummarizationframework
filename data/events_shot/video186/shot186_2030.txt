@@ -1,0 +1,5 @@
+attacking(0.066)
+crashing(0.040)
+standing(0.037)
+walking(0.023)
+flying(0.021)

@@ -1,0 +1,5 @@
+talking(0.069)
+driving(0.043)
+fighting(0.042)
+sitting(0.038)
+standing(0.037)

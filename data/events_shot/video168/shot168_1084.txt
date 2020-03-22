@@ -1,0 +1,5 @@
+sliding(0.408)
+walking(0.055)
+fencing(0.039)
+running(0.037)
+exiting(0.028)

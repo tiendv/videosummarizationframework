@@ -1,0 +1,5 @@
+bicycling(0.579)
+pedaling(0.104)
+slapping(0.027)
+queuing(0.018)
+riding(0.014)

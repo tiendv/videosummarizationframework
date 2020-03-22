@@ -1,0 +1,5 @@
+adult+female+singing(0.080)
+adult+female+speaking(0.072)
+crying(0.037)
+hugging(0.026)
+kissing(0.026)

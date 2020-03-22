@@ -1,0 +1,5 @@
+protesting(0.111)
+closing(0.065)
+shouting(0.050)
+opening(0.046)
+handwriting(0.020)

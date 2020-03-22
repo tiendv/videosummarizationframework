@@ -1,0 +1,5 @@
+adult+male+speaking(0.073)
+coaching(0.042)
+asking(0.036)
+hugging(0.025)
+preaching(0.025)

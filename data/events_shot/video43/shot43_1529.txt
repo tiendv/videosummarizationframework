@@ -1,0 +1,5 @@
+slapping(0.100)
+filming(0.056)
+smiling(0.052)
+shrugging(0.045)
+asking(0.043)

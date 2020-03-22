@@ -1,0 +1,5 @@
+filming(0.061)
+clipping(0.040)
+talking(0.036)
+discussing(0.030)
+smiling(0.029)

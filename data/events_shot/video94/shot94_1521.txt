@@ -1,0 +1,5 @@
+asking(0.109)
+walking(0.101)
+stealing(0.067)
+shopping(0.042)
+standing(0.029)

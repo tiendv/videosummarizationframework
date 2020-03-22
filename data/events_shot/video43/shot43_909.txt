@@ -1,0 +1,5 @@
+driving(0.359)
+crashing(0.100)
+washing(0.086)
+riding(0.028)
+steering(0.025)

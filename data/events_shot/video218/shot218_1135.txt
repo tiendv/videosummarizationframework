@@ -1,0 +1,5 @@
+adult+female+singing(0.137)
+adult+male+singing(0.049)
+playing+videogames(0.034)
+colliding(0.027)
+smashing(0.023)

@@ -1,0 +1,5 @@
+talking(0.067)
+telephoning(0.056)
+adult+male+speaking(0.053)
+asking(0.038)
+sitting(0.032)

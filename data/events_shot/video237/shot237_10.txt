@@ -1,0 +1,5 @@
+packing(0.148)
+unpacking(0.091)
+tattooing(0.042)
+adult+male+speaking(0.040)
+playing+videogames(0.036)

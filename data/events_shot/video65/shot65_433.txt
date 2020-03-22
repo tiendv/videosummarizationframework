@@ -1,0 +1,5 @@
+gambling(0.065)
+drinking(0.045)
+playing+videogames(0.038)
+sneezing(0.030)
+reading(0.029)

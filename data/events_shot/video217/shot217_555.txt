@@ -1,0 +1,5 @@
+brushing(0.108)
+carving(0.083)
+chewing(0.032)
+baking(0.024)
+cooking(0.020)

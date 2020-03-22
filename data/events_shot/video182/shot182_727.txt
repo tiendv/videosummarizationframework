@@ -1,0 +1,5 @@
+hiking(0.111)
+running(0.083)
+hunting(0.042)
+camping(0.035)
+filming(0.025)

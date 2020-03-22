@@ -1,0 +1,5 @@
+adult+male+speaking(0.038)
+fueling(0.033)
+stacking(0.020)
+punching(0.020)
+slapping(0.018)

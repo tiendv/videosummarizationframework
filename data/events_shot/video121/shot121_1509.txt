@@ -1,0 +1,5 @@
+tattooing(0.665)
+painting(0.094)
+drawing(0.034)
+smiling(0.010)
+laughing(0.009)

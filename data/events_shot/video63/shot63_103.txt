@@ -1,0 +1,5 @@
+sneezing(0.069)
+talking(0.048)
+sitting(0.031)
+slapping(0.031)
+breaking(0.027)

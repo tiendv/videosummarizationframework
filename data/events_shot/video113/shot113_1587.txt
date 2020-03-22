@@ -1,0 +1,5 @@
+packing(0.055)
+baking(0.051)
+unpacking(0.046)
+hugging(0.033)
+cuddling(0.030)

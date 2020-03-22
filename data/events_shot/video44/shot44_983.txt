@@ -1,0 +1,5 @@
+adult+female+speaking(0.165)
+adult+female+singing(0.067)
+drying(0.046)
+talking(0.030)
+standing(0.029)

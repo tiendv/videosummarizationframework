@@ -1,0 +1,5 @@
+spinning(0.797)
+pressing(0.026)
+turning(0.025)
+pushing(0.010)
+playing(0.008)

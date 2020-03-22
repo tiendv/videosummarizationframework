@@ -1,0 +1,5 @@
+walking(0.080)
+sneezing(0.039)
+running(0.037)
+attacking(0.029)
+carrying(0.027)

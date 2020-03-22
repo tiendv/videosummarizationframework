@@ -1,0 +1,5 @@
+raining(0.077)
+playing+videogames(0.065)
+storming(0.063)
+running(0.043)
+climbing(0.025)

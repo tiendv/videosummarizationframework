@@ -1,0 +1,5 @@
+arresting(0.473)
+handcuffing(0.061)
+guarding(0.028)
+protesting(0.025)
+hugging(0.024)

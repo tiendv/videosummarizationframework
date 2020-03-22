@@ -1,0 +1,5 @@
+hugging(0.085)
+laughing(0.040)
+talking(0.037)
+smiling(0.031)
+sneezing(0.027)

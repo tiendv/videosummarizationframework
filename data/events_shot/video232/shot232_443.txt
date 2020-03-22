@@ -1,0 +1,5 @@
+hitchhiking(0.397)
+towing(0.047)
+driving(0.031)
+bicycling(0.028)
+riding(0.025)

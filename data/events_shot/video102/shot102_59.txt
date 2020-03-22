@@ -1,0 +1,5 @@
+punching(0.052)
+hammering(0.050)
+adult+male+speaking(0.042)
+aiming(0.040)
+boxing(0.031)

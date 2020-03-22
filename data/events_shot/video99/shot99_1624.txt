@@ -1,0 +1,5 @@
+adult+male+singing(0.127)
+bathing(0.069)
+smoking(0.047)
+singing(0.042)
+slapping(0.041)

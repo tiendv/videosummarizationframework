@@ -1,0 +1,5 @@
+dining(0.082)
+walking(0.075)
+standing(0.043)
+drinking(0.041)
+running(0.039)

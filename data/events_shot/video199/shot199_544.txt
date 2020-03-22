@@ -1,0 +1,5 @@
+interviewing(0.072)
+manicuring(0.070)
+discussing(0.050)
+adult+female+speaking(0.048)
+sitting(0.043)

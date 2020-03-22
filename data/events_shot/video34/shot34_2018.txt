@@ -1,0 +1,5 @@
+marrying(0.177)
+officiating(0.170)
+adult+male+speaking(0.053)
+smiling(0.044)
+standing(0.026)

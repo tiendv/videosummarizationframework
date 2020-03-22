@@ -1,0 +1,5 @@
+manicuring(0.298)
+crafting(0.078)
+sitting(0.035)
+adult+female+speaking(0.029)
+discussing(0.026)

@@ -1,0 +1,5 @@
+stacking(0.068)
+packaging(0.035)
+packing(0.034)
+unpacking(0.030)
+working(0.027)

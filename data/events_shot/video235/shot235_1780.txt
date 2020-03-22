@@ -1,0 +1,5 @@
+cooking(0.134)
+talking(0.061)
+baking(0.040)
+stirring(0.036)
+sneezing(0.034)

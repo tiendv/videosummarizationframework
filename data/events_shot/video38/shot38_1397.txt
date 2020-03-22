@@ -1,0 +1,5 @@
+burning(0.499)
+destroying(0.049)
+combusting(0.037)
+extinguishing(0.034)
+attacking(0.017)

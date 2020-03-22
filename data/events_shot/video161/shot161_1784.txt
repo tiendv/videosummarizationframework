@@ -1,0 +1,5 @@
+drinking(0.216)
+sneezing(0.049)
+filming(0.044)
+spitting(0.029)
+coughing(0.028)

@@ -1,0 +1,5 @@
+pointing(0.044)
+slapping(0.039)
+crying(0.035)
+smelling(0.028)
+knocking(0.025)

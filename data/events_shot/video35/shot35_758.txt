@@ -1,0 +1,5 @@
+working(0.033)
+stacking(0.022)
+hammering(0.020)
+gripping(0.018)
+smashing(0.016)

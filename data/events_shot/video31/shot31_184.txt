@@ -1,0 +1,5 @@
+marrying(0.057)
+dining(0.055)
+drinking(0.039)
+adult+female+speaking(0.036)
+kissing(0.034)

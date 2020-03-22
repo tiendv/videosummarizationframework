@@ -1,0 +1,5 @@
+painting(0.199)
+tattooing(0.130)
+spraying(0.058)
+sanding(0.045)
+aiming(0.026)

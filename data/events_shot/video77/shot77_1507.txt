@@ -1,0 +1,5 @@
+cooking(0.086)
+fighting(0.056)
+drinking(0.046)
+standing(0.023)
+adult+female+singing(0.023)

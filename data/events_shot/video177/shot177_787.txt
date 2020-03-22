@@ -1,0 +1,5 @@
+hugging(0.070)
+adult+male+speaking(0.042)
+crying(0.040)
+calling(0.037)
+playing+videogames(0.035)

@@ -1,0 +1,5 @@
+driving(0.055)
+steering(0.034)
+filming(0.025)
+adult+male+speaking(0.022)
+walking(0.021)

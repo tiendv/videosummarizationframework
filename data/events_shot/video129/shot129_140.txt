@@ -1,0 +1,5 @@
+chewing(0.073)
+tattooing(0.070)
+eating(0.060)
+sneezing(0.046)
+sitting(0.030)

@@ -1,0 +1,5 @@
+bowling(0.476)
+adult+female+singing(0.028)
+kicking(0.024)
+playing+videogames(0.021)
+competing(0.015)

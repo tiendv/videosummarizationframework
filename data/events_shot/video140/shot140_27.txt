@@ -1,0 +1,5 @@
+hanging(0.417)
+guarding(0.037)
+entering(0.021)
+adult+female+speaking(0.017)
+locking(0.017)

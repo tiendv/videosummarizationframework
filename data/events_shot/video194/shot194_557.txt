@@ -1,0 +1,5 @@
+standing(0.059)
+adult+male+singing(0.052)
+walking(0.047)
+marching(0.046)
+running(0.038)

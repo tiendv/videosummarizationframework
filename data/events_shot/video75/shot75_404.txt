@@ -1,0 +1,5 @@
+telephoning(0.120)
+calling(0.053)
+hugging(0.038)
+coughing(0.026)
+sneezing(0.023)

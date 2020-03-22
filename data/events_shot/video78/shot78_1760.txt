@@ -1,0 +1,5 @@
+hugging(0.077)
+adult+male+speaking(0.037)
+giving(0.031)
+autographing(0.027)
+asking(0.021)

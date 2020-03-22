@@ -1,0 +1,5 @@
+digging(0.122)
+removing(0.073)
+cleaning(0.056)
+hammering(0.049)
+burying(0.034)

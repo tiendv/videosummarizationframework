@@ -1,0 +1,5 @@
+sniffing(0.479)
+smelling(0.297)
+opening(0.024)
+closing(0.015)
+sneezing(0.010)

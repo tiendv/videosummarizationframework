@@ -1,0 +1,5 @@
+sneezing(0.117)
+laughing(0.103)
+dressing(0.047)
+shopping(0.043)
+drying(0.023)

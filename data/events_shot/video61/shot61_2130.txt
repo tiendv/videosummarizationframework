@@ -1,0 +1,5 @@
+hugging(0.057)
+adult+male+speaking(0.034)
+coughing(0.032)
+laughing(0.030)
+painting(0.026)

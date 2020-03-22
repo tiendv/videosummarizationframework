@@ -1,0 +1,5 @@
+asking(0.176)
+adult+male+speaking(0.084)
+adult+female+speaking(0.081)
+arresting(0.059)
+autographing(0.047)

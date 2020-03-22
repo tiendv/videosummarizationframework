@@ -1,0 +1,5 @@
+slapping(0.135)
+driving(0.041)
+fighting(0.040)
+sneezing(0.032)
+laughing(0.025)

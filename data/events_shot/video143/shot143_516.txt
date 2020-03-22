@@ -1,0 +1,5 @@
+praying(0.076)
+bowing(0.040)
+adult+male+speaking(0.038)
+kissing(0.033)
+tattooing(0.030)

@@ -60,6 +60,7 @@ function load_video(file_id){
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/zainab.json",
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/jane.json",
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/jack.json",
+                'json/TRECVID_BBC_EastEnders/events/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
 
             ],
             list: [
@@ -68,80 +69,81 @@ function load_video(file_id){
                     'container': '#myplayer-timeline-timeline',
                     'parameters': {
                         listOfLines: [
-				{
+				                    {
                                 title: 'chelsea-INS-Score',
                                 type: 'segment',
                                 metadataId: 'chelsea',
                                 color: '#F00'
                             },
-				{
+				                    {
                                 title: 'darrin-INS-Score',
                                 type: 'segment',
                                 metadataId: 'darrin',
                                 color: '#F00'
                             },
-				{
+				                    {
                                 title: 'garry-INS-Score',
                                 type: 'segment',
                                 metadataId: 'garry',
                                 color: '#F00'
                             },
-				{
+				                    {
                                 title: 'heather-INS-Score',
                                 type: 'segment',
                                 metadataId: 'heather',
                                 color: '#F00'
                             },
-				{
+				                    {
                                 title: 'max-INS-Score',
                                 type: 'segment',
                                 metadataId: 'max',
                                 color: '#F00'
                             },
-				{
+				                    {
                                 title: 'minty-INS-Score',
                                 type: 'segment',
                                 metadataId: 'minty',
                                 color: '#F00'
                             },
-				{
+				                    {
                                 title: 'mo-INS-Score',
                                 type: 'segment',
                                 metadataId: 'mo',
                                 color: '#F00'
                             },
-				{
+				                    {
                                 title: 'zainab-INS-Score',
                                 type: 'segment',
                                 metadataId: 'zainab',
                                 color: '#F00'
                             },
-				{
+				                    {
                                 title: 'jane-INS-Score',
                                 type: 'segment',
                                 metadataId: 'jane',
                                 color: '#F00'
                             },
-				{
+				                    {
                                 title: 'jack-INS-Score',
                                 type: 'segment',
                                 metadataId: 'jack',
                                 color: '#F00'
                             },
                             {
-                                title: 'Key',
-                                type: 'image',
-                                metadataId: 'kf-amalia01',
+                                title: 'Events',
+                                type: 'cuepoint',
+                                metadataId: 'event_bbc',
+                                color: "#3CF",
                                 pointNav: true
                             },
-{
+                            {
                                 title: 'Shot[GT]',
                                 type: 'cuepoint',
                                 metadataId: 'events-amalia01',
                                 color: "#3CF",
                                 pointNav: true
                             },
-				{
+				                    {
                                 title: 'Sum[GT]',
                                 type: 'segment',
                                 metadataId: 'seg_GT',

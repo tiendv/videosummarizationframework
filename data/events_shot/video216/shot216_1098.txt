@@ -1,0 +1,5 @@
+juggling(0.397)
+bouncing(0.058)
+running(0.024)
+mopping(0.021)
+cleaning(0.021)

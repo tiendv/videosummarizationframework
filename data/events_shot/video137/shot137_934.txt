@@ -1,0 +1,5 @@
+slapping(0.068)
+sneezing(0.038)
+adult+male+speaking(0.036)
+asking(0.031)
+painting(0.030)

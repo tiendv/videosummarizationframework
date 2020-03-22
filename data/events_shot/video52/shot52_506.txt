@@ -1,0 +1,5 @@
+standing(0.056)
+adult+female+speaking(0.055)
+applauding(0.046)
+queuing(0.034)
+smiling(0.032)

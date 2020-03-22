@@ -1,0 +1,5 @@
+cooking(0.503)
+baking(0.088)
+stirring(0.041)
+coughing(0.012)
+cleaning(0.012)

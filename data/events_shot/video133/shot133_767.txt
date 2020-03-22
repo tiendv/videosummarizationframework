@@ -1,0 +1,5 @@
+fighting(0.332)
+drawing(0.055)
+punching(0.049)
+attacking(0.043)
+painting(0.040)

@@ -1,0 +1,5 @@
+drinking(0.115)
+adult+male+speaking(0.042)
+standing(0.027)
+playing+videogames(0.027)
+talking(0.024)

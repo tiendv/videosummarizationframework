@@ -1,0 +1,5 @@
+cleaning(0.089)
+raining(0.062)
+flooding(0.051)
+storming(0.051)
+washing(0.044)

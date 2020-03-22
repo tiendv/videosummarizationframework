@@ -1,0 +1,5 @@
+slapping(0.048)
+adult+female+singing(0.046)
+adult+female+speaking(0.035)
+fighting(0.032)
+playing+videogames(0.029)

@@ -1,0 +1,5 @@
+slapping(0.180)
+walking(0.112)
+exiting(0.044)
+asking(0.041)
+discussing(0.025)

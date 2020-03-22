@@ -1,0 +1,5 @@
+sitting(0.126)
+dining(0.037)
+adult+female+speaking(0.022)
+standing(0.022)
+adult+female+singing(0.021)

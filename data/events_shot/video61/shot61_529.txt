@@ -1,0 +1,5 @@
+painting(0.064)
+running(0.035)
+building(0.030)
+fighting(0.028)
+drawing(0.027)

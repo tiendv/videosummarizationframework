@@ -1,0 +1,5 @@
+dining(0.103)
+sitting(0.055)
+queuing(0.050)
+adult+female+speaking(0.044)
+walking(0.029)

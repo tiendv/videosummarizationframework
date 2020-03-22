@@ -1,0 +1,5 @@
+autographing(0.089)
+walking(0.077)
+adult+male+speaking(0.054)
+arresting(0.047)
+running(0.031)

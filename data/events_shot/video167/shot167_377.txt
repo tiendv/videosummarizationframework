@@ -1,0 +1,5 @@
+knocking(0.250)
+locking(0.041)
+plugging(0.025)
+fencing(0.021)
+painting(0.018)

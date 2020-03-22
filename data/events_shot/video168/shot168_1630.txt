@@ -1,0 +1,5 @@
+discussing(0.055)
+interviewing(0.047)
+talking(0.043)
+crying(0.037)
+shrugging(0.030)

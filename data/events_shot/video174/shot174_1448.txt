@@ -1,0 +1,5 @@
+tattooing(0.916)
+painting(0.017)
+drawing(0.006)
+crafting(0.005)
+cooking(0.003)

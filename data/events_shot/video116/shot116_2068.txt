@@ -1,0 +1,5 @@
+crying(0.711)
+removing(0.028)
+frowning(0.020)
+coughing(0.010)
+yawning(0.010)

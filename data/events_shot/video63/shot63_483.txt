@@ -1,0 +1,5 @@
+talking(0.131)
+snowing(0.091)
+raining(0.071)
+plunging(0.065)
+standing(0.053)

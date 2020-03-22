@@ -1,0 +1,5 @@
+adult+female+singing(0.128)
+adult+male+singing(0.067)
+walking(0.055)
+dancing(0.045)
+arresting(0.029)

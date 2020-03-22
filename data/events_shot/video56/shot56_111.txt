@@ -1,0 +1,5 @@
+hammering(0.090)
+packing(0.068)
+unpacking(0.063)
+playing+videogames(0.043)
+smashing(0.028)

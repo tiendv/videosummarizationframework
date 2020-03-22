@@ -1,0 +1,5 @@
+child+speaking(0.163)
+whistling(0.091)
+barking(0.054)
+child+singing(0.052)
+singing(0.051)

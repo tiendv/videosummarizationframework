@@ -1,0 +1,5 @@
+sitting(0.069)
+playing+videogames(0.050)
+waking(0.036)
+crying(0.033)
+adult+male+speaking(0.031)

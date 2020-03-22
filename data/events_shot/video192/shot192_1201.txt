@@ -1,0 +1,5 @@
+cooking(0.114)
+baking(0.079)
+flipping(0.040)
+adult+female+speaking(0.028)
+packing(0.026)

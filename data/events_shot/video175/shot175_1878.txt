@@ -1,0 +1,5 @@
+slapping(0.092)
+crying(0.057)
+sneezing(0.047)
+walking(0.045)
+shooting(0.043)

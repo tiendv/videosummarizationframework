@@ -1,0 +1,5 @@
+buying(0.121)
+shopping(0.075)
+calling(0.056)
+paying(0.040)
+shaving(0.035)

@@ -1,0 +1,5 @@
+sitting(0.081)
+teaching(0.069)
+adult+female+speaking(0.068)
+asking(0.066)
+dining(0.066)

@@ -1,0 +1,5 @@
+squatting(0.041)
+rocking(0.030)
+bowing(0.029)
+laughing(0.029)
+stomping(0.026)

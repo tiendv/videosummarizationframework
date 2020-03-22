@@ -1,0 +1,5 @@
+selling(0.038)
+shopping(0.032)
+tattooing(0.024)
+standing(0.024)
+talking(0.022)

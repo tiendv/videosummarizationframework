@@ -1,0 +1,5 @@
+selling(0.034)
+stacking(0.024)
+stealing(0.023)
+shopping(0.019)
+standing(0.018)

@@ -1,0 +1,5 @@
+hugging(0.060)
+walking(0.054)
+playing+videogames(0.045)
+locking(0.042)
+knocking(0.041)

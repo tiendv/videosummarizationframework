@@ -1,0 +1,5 @@
+cooking(0.115)
+baking(0.098)
+bowling(0.061)
+hugging(0.050)
+talking(0.036)

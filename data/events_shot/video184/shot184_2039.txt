@@ -1,0 +1,5 @@
+adult+male+speaking(0.095)
+giving(0.094)
+officiating(0.052)
+interviewing(0.044)
+shaking(0.034)

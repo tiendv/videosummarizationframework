@@ -1,0 +1,5 @@
+bicycling(0.116)
+asking(0.081)
+filming(0.068)
+walking(0.060)
+adult+female+speaking(0.038)

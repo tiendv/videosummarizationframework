@@ -1,0 +1,5 @@
+boating(0.192)
+surfing(0.124)
+rowing(0.063)
+boarding(0.052)
+skating(0.041)

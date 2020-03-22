@@ -1,0 +1,5 @@
+cooking(0.116)
+fighting(0.067)
+drinking(0.038)
+standing(0.029)
+attacking(0.028)

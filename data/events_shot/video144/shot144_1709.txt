@@ -1,0 +1,5 @@
+punching(0.459)
+boxing(0.334)
+slapping(0.033)
+knocking(0.018)
+drying(0.007)

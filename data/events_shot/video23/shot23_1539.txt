@@ -1,0 +1,5 @@
+adult+male+singing(0.065)
+punching(0.031)
+slapping(0.030)
+walking(0.025)
+filming(0.022)

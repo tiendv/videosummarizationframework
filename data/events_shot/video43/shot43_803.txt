@@ -1,0 +1,5 @@
+fighting(0.224)
+smashing(0.105)
+attacking(0.080)
+breaking(0.067)
+hitting(0.051)

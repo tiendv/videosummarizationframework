@@ -1,0 +1,5 @@
+adult+female+singing(0.107)
+attacking(0.051)
+roaring(0.044)
+slapping(0.041)
+adult+male+singing(0.040)

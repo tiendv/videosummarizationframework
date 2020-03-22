@@ -1,0 +1,5 @@
+telephoning(0.265)
+calling(0.233)
+fighting(0.024)
+shooting(0.018)
+playing+videogames(0.016)

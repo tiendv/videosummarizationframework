@@ -1,0 +1,5 @@
+queuing(0.117)
+walking(0.057)
+slapping(0.055)
+stealing(0.026)
+standing(0.024)

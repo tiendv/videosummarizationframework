@@ -1,0 +1,5 @@
+adult+male+speaking(0.059)
+boxing(0.038)
+driving(0.030)
+discussing(0.027)
+punching(0.027)

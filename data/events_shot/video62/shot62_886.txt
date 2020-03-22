@@ -1,0 +1,5 @@
+drinking(0.052)
+hugging(0.051)
+sneezing(0.028)
+slapping(0.027)
+adult+female+singing(0.022)

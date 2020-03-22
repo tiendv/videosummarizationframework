@@ -1,0 +1,5 @@
+laughing(0.054)
+hugging(0.026)
+sneezing(0.023)
+child+speaking(0.022)
+cleaning(0.020)

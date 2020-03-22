@@ -1,0 +1,5 @@
+slapping(0.035)
+fighting(0.022)
+giving(0.021)
+filming(0.020)
+adult+male+speaking(0.020)

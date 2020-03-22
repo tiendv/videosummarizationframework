@@ -1,0 +1,5 @@
+walking(0.047)
+standing(0.043)
+queuing(0.042)
+entering(0.031)
+praying(0.018)

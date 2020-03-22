@@ -1,0 +1,5 @@
+queuing(0.167)
+selling(0.059)
+shopping(0.054)
+guarding(0.031)
+adult+male+speaking(0.024)

@@ -1,0 +1,5 @@
+drinking(0.081)
+knocking(0.036)
+adult+male+speaking(0.029)
+fighting(0.027)
+walking(0.023)

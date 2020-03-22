@@ -1,0 +1,5 @@
+adult+male+speaking(0.049)
+putting(0.030)
+unpacking(0.023)
+cleaning(0.022)
+dusting(0.018)

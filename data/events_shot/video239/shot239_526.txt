@@ -1,0 +1,5 @@
+asking(0.062)
+interviewing(0.047)
+discussing(0.044)
+marrying(0.042)
+standing(0.034)

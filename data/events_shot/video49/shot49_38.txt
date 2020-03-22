@@ -1,0 +1,5 @@
+fighting(0.084)
+standing(0.024)
+smiling(0.020)
+discussing(0.020)
+walking(0.020)

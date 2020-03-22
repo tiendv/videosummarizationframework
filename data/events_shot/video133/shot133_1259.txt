@@ -1,0 +1,5 @@
+rising(0.093)
+running(0.083)
+walking(0.048)
+ascending(0.046)
+playing+videogames(0.029)

@@ -1,0 +1,5 @@
+eating(0.283)
+drinking(0.089)
+sniffing(0.074)
+coughing(0.069)
+chewing(0.046)

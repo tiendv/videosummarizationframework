@@ -1,0 +1,5 @@
+celebrating(0.055)
+raising(0.047)
+packing(0.033)
+unpacking(0.031)
+drinking(0.030)

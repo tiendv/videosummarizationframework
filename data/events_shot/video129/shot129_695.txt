@@ -1,0 +1,5 @@
+dining(0.258)
+serving(0.107)
+giving(0.069)
+socializing(0.069)
+shaking(0.042)

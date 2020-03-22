@@ -1,0 +1,5 @@
+laughing(0.092)
+standing(0.071)
+mopping(0.070)
+sneezing(0.060)
+talking(0.049)

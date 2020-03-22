@@ -1,0 +1,5 @@
+slicing(0.132)
+chopping(0.120)
+clipping(0.115)
+hugging(0.095)
+cutting(0.083)

@@ -1,0 +1,5 @@
+walking(0.128)
+playing+videogames(0.098)
+standing(0.063)
+adult+female+singing(0.058)
+singing(0.035)

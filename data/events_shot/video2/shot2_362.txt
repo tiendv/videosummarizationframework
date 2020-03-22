@@ -1,0 +1,5 @@
+adult+male+speaking(0.103)
+queuing(0.057)
+stopping(0.032)
+slapping(0.027)
+filming(0.025)

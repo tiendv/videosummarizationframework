@@ -1,0 +1,5 @@
+slapping(0.149)
+knocking(0.093)
+pointing(0.043)
+spraying(0.039)
+throwing(0.028)

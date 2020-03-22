@@ -1,0 +1,5 @@
+teaching(0.114)
+sitting(0.085)
+child+speaking(0.057)
+child+singing(0.052)
+cramming(0.040)

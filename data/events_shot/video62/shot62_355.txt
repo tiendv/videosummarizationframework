@@ -1,0 +1,5 @@
+adult+female+speaking(0.081)
+talking(0.078)
+discussing(0.068)
+sneezing(0.043)
+playing+videogames(0.035)

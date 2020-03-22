@@ -1,0 +1,5 @@
+standing(0.036)
+sitting(0.033)
+starting(0.031)
+roaring(0.031)
+welding(0.020)

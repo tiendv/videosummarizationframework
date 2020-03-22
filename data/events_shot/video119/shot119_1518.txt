@@ -1,0 +1,5 @@
+bowling(0.053)
+hugging(0.050)
+slapping(0.034)
+smelling(0.025)
+sneezing(0.023)

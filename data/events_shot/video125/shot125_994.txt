@@ -1,0 +1,5 @@
+mopping(0.054)
+adult+male+speaking(0.051)
+cleaning(0.035)
+standing(0.033)
+hugging(0.021)

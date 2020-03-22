@@ -1,0 +1,5 @@
+fencing(0.055)
+asking(0.045)
+adult+male+speaking(0.039)
+bouncing(0.035)
+selling(0.035)

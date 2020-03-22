@@ -1,0 +1,5 @@
+measuring(0.180)
+locking(0.040)
+standing(0.038)
+knocking(0.032)
+adult+female+speaking(0.030)

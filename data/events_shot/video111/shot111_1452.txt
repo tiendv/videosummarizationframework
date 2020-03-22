@@ -1,0 +1,5 @@
+adult+male+speaking(0.147)
+coaching(0.039)
+saluting(0.026)
+shrugging(0.020)
+smiling(0.019)

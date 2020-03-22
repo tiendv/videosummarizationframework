@@ -1,0 +1,5 @@
+adult+male+singing(0.052)
+running(0.052)
+adult+female+singing(0.043)
+roaring(0.032)
+standing(0.029)

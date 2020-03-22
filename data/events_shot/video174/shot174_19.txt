@@ -1,0 +1,5 @@
+loading(0.188)
+working(0.049)
+closing(0.033)
+opening(0.031)
+talking(0.030)

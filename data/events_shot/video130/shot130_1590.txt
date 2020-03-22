@@ -1,0 +1,5 @@
+walking(0.044)
+crying(0.042)
+carrying(0.042)
+exiting(0.031)
+closing(0.022)

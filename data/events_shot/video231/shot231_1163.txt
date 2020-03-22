@@ -1,0 +1,5 @@
+slapping(0.154)
+frowning(0.061)
+pointing(0.057)
+shooting(0.040)
+crying(0.035)

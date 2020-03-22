@@ -1,0 +1,5 @@
+talking(0.139)
+adult+male+speaking(0.068)
+selling(0.056)
+walking(0.038)
+cooking(0.031)

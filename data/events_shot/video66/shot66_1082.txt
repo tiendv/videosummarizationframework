@@ -1,0 +1,5 @@
+officiating(0.064)
+standing(0.045)
+walking(0.032)
+bowing(0.026)
+queuing(0.022)

@@ -1,0 +1,5 @@
+punching(0.168)
+dancing(0.053)
+boxing(0.035)
+standing(0.030)
+exercising(0.028)

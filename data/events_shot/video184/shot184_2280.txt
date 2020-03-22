@@ -1,0 +1,5 @@
+asking(0.132)
+queuing(0.028)
+adult+female+speaking(0.028)
+adult+male+speaking(0.028)
+filming(0.025)

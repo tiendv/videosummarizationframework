@@ -1,0 +1,5 @@
+slapping(0.114)
+smelling(0.056)
+spitting(0.054)
+sniffing(0.030)
+drinking(0.029)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.094)
+sitting(0.042)
+sneezing(0.042)
+playing+videogames(0.042)
+discussing(0.028)

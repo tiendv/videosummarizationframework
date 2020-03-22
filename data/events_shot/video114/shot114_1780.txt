@@ -1,0 +1,5 @@
+running(0.153)
+walking(0.142)
+chasing(0.027)
+turning(0.026)
+filming(0.019)

@@ -1,0 +1,5 @@
+cleaning(0.055)
+working(0.052)
+drinking(0.033)
+adult+male+speaking(0.023)
+walking(0.023)

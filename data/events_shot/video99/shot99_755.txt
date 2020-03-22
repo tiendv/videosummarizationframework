@@ -1,0 +1,5 @@
+painting(0.106)
+fighting(0.040)
+attacking(0.025)
+stealing(0.024)
+tattooing(0.023)

@@ -1,0 +1,5 @@
+cleaning(0.144)
+painting(0.092)
+mopping(0.047)
+dusting(0.047)
+building(0.047)

@@ -1,0 +1,5 @@
+discussing(0.075)
+fencing(0.051)
+adult+male+speaking(0.050)
+interviewing(0.042)
+preaching(0.035)

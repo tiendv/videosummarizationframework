@@ -1,0 +1,5 @@
+snapping(0.066)
+brushing(0.057)
+tapping(0.022)
+pointing(0.022)
+telephoning(0.022)

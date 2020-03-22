@@ -1,0 +1,5 @@
+carrying(0.043)
+hugging(0.023)
+walking(0.022)
+adult+male+speaking(0.021)
+standing(0.019)

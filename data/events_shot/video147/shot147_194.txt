@@ -1,0 +1,5 @@
+playing+videogames(0.094)
+entering(0.084)
+guarding(0.042)
+walking(0.040)
+standing(0.038)

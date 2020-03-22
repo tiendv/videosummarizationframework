@@ -1,0 +1,5 @@
+cooking(0.120)
+drying(0.067)
+walking(0.043)
+baking(0.029)
+cleaning(0.020)

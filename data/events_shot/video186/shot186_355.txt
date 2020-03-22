@@ -1,0 +1,5 @@
+bicycling(0.709)
+pedaling(0.063)
+measuring(0.009)
+swerving(0.008)
+locking(0.007)

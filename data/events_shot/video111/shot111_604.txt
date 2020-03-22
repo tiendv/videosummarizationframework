@@ -1,0 +1,5 @@
+marrying(0.076)
+standing(0.048)
+adult+female+singing(0.047)
+walking(0.027)
+smiling(0.023)

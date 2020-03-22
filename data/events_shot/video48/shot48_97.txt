@@ -1,0 +1,5 @@
+hanging(0.261)
+waving(0.076)
+walking(0.055)
+guarding(0.053)
+standing(0.027)

@@ -1,0 +1,5 @@
+sneezing(0.047)
+talking(0.047)
+sitting(0.029)
+adult+male+speaking(0.026)
+filming(0.025)

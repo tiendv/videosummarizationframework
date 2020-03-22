@@ -1,0 +1,5 @@
+drinking(0.041)
+adult+male+speaking(0.032)
+adult+female+speaking(0.031)
+slapping(0.030)
+giving(0.023)

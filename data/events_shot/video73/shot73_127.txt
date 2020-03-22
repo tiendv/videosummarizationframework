@@ -1,0 +1,5 @@
+running(0.105)
+leaping(0.060)
+exiting(0.049)
+jumping(0.041)
+falling(0.033)
