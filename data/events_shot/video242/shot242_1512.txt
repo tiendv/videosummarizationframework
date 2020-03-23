@@ -1,0 +1,5 @@
+dining(0.099)
+standing(0.052)
+walking(0.042)
+slapping(0.029)
+adult+male+speaking(0.027)

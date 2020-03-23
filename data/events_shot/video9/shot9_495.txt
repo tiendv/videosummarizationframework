@@ -1,0 +1,5 @@
+smoking(0.973)
+coughing(0.003)
+eating(0.002)
+chewing(0.002)
+burning(0.002)

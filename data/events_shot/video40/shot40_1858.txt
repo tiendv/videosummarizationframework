@@ -1,0 +1,5 @@
+adult+female+singing(0.055)
+adult+male+singing(0.042)
+standing(0.036)
+fighting(0.034)
+stealing(0.030)

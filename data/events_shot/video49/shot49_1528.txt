@@ -1,0 +1,5 @@
+adult+female+singing(0.372)
+fighting(0.072)
+adult+male+singing(0.036)
+walking(0.030)
+filming(0.024)

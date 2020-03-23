@@ -1,0 +1,5 @@
+smoking(0.055)
+playing+videogames(0.038)
+adult+male+speaking(0.030)
+sitting(0.022)
+playing+music(0.020)

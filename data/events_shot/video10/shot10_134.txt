@@ -1,0 +1,5 @@
+painting(0.274)
+drawing(0.121)
+sketching(0.046)
+putting(0.020)
+handwriting(0.019)

@@ -1,0 +1,5 @@
+hugging(0.338)
+kissing(0.156)
+crying(0.130)
+laughing(0.035)
+smiling(0.027)

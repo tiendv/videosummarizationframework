@@ -1,0 +1,5 @@
+walking(0.071)
+calling(0.061)
+raining(0.049)
+carrying(0.046)
+telephoning(0.042)

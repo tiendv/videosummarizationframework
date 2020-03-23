@@ -1,0 +1,5 @@
+calling(0.190)
+telephoning(0.140)
+running(0.039)
+walking(0.036)
+jogging(0.030)

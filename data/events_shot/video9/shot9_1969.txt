@@ -1,0 +1,5 @@
+talking(0.080)
+standing(0.043)
+tattooing(0.040)
+sitting(0.035)
+singing(0.028)

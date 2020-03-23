@@ -1,0 +1,5 @@
+sneezing(0.161)
+crying(0.151)
+coughing(0.066)
+eating(0.057)
+spitting(0.040)

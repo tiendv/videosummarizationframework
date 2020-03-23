@@ -1,0 +1,5 @@
+bowling(0.997)
+aiming(0.001)
+rolling(0.000)
+gambling(0.000)
+bouncing(0.000)

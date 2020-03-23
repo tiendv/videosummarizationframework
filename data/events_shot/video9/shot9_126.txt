@@ -1,0 +1,5 @@
+kneeling(0.161)
+bowing(0.077)
+laughing(0.046)
+mopping(0.033)
+baptizing(0.025)

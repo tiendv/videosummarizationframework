@@ -1,0 +1,5 @@
+drinking(0.486)
+shaving(0.072)
+smoking(0.060)
+tattooing(0.031)
+adult+male+speaking(0.020)

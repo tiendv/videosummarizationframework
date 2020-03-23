@@ -1,0 +1,5 @@
+packaging(0.128)
+packing(0.115)
+cooking(0.057)
+working(0.046)
+drying(0.042)

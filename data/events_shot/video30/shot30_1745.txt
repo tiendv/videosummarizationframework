@@ -1,0 +1,5 @@
+adult+male+speaking(0.101)
+talking(0.057)
+standing(0.032)
+selling(0.032)
+stealing(0.026)

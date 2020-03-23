@@ -1,0 +1,5 @@
+officiating(0.815)
+coaching(0.039)
+adult+male+speaking(0.016)
+baptizing(0.011)
+preaching(0.010)

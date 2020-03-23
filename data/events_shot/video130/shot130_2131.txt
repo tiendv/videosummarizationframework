@@ -1,0 +1,5 @@
+hugging(0.179)
+asking(0.058)
+queuing(0.051)
+coaching(0.045)
+smiling(0.042)

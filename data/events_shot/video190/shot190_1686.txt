@@ -1,0 +1,5 @@
+fighting(0.129)
+eating(0.060)
+sneezing(0.059)
+drinking(0.054)
+adult+female+speaking(0.043)

@@ -1,0 +1,5 @@
+kissing(0.218)
+hugging(0.138)
+cuddling(0.027)
+arresting(0.023)
+adult+female+singing(0.020)

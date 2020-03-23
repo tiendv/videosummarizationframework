@@ -1,0 +1,5 @@
+sanding(0.094)
+vacuuming(0.060)
+shaving(0.041)
+whistling(0.032)
+pushing(0.029)

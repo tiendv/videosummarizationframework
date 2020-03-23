@@ -1,0 +1,5 @@
+lecturing(0.131)
+coaching(0.049)
+pointing(0.047)
+standing(0.029)
+shrugging(0.024)

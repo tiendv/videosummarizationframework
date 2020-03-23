@@ -1,0 +1,5 @@
+driving(0.363)
+chasing(0.091)
+steering(0.063)
+riding(0.062)
+racing(0.045)

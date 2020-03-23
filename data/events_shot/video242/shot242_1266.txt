@@ -1,0 +1,5 @@
+driving(0.158)
+washing(0.090)
+closing(0.085)
+opening(0.082)
+steering(0.033)

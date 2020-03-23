@@ -1,0 +1,5 @@
+stealing(0.061)
+arresting(0.054)
+slapping(0.050)
+throwing(0.024)
+fighting(0.024)

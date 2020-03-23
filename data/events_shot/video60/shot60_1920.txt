@@ -1,0 +1,5 @@
+bowing(0.059)
+drinking(0.044)
+hugging(0.040)
+fighting(0.030)
+burning(0.024)

@@ -1,0 +1,5 @@
+sneezing(0.123)
+coughing(0.056)
+packing(0.043)
+drinking(0.041)
+unpacking(0.037)

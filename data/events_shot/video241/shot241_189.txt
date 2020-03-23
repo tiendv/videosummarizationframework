@@ -1,0 +1,5 @@
+driving(0.234)
+adult+female+singing(0.076)
+riding(0.058)
+steering(0.042)
+raining(0.035)

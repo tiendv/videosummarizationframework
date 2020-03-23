@@ -1,0 +1,5 @@
+adult+male+singing(0.100)
+adult+male+speaking(0.092)
+imitating(0.090)
+standing(0.076)
+asking(0.039)

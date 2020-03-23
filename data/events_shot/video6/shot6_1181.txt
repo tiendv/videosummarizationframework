@@ -1,0 +1,5 @@
+walking(0.049)
+eating(0.037)
+dining(0.037)
+drinking(0.025)
+filming(0.021)

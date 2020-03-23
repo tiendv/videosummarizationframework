@@ -1,0 +1,5 @@
+slapping(0.345)
+hugging(0.040)
+arresting(0.023)
+smelling(0.021)
+walking(0.019)

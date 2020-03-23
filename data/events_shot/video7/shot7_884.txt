@@ -1,0 +1,5 @@
+walking(0.142)
+rising(0.035)
+exiting(0.033)
+climbing(0.026)
+hanging(0.021)

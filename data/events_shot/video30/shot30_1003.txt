@@ -1,0 +1,5 @@
+slapping(0.135)
+telephoning(0.058)
+punching(0.046)
+calling(0.046)
+fighting(0.031)

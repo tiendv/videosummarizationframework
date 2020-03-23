@@ -1,0 +1,5 @@
+adult+female+speaking(0.043)
+slapping(0.036)
+aiming(0.036)
+sneezing(0.034)
+playing+videogames(0.034)

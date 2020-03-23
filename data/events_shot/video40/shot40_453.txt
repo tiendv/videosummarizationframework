@@ -1,0 +1,5 @@
+kissing(0.232)
+drinking(0.205)
+hugging(0.055)
+fighting(0.024)
+standing(0.023)

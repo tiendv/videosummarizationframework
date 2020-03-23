@@ -1,0 +1,5 @@
+walking(0.191)
+arresting(0.125)
+exiting(0.038)
+queuing(0.031)
+running(0.030)

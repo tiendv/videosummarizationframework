@@ -1,0 +1,5 @@
+adult+female+speaking(0.058)
+shopping(0.057)
+smelling(0.039)
+sniffing(0.034)
+hugging(0.032)

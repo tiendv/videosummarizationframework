@@ -1,0 +1,5 @@
+slapping(0.096)
+hugging(0.067)
+spinning(0.052)
+turning(0.046)
+walking(0.040)

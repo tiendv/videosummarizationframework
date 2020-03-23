@@ -1,0 +1,5 @@
+painting(0.058)
+dusting(0.043)
+knocking(0.025)
+measuring(0.024)
+standing(0.019)

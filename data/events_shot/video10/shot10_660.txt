@@ -1,0 +1,5 @@
+exiting(0.057)
+driving(0.055)
+riding(0.050)
+washing(0.042)
+walking(0.040)

@@ -1,0 +1,5 @@
+handcuffing(0.060)
+cracking(0.040)
+taping(0.026)
+snapping(0.025)
+slapping(0.025)

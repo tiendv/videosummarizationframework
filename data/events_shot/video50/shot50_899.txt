@@ -1,0 +1,5 @@
+walking(0.183)
+slapping(0.063)
+sneezing(0.056)
+coughing(0.039)
+hugging(0.039)

@@ -1,0 +1,5 @@
+shaking(0.133)
+officiating(0.094)
+bowing(0.054)
+walking(0.045)
+exiting(0.038)

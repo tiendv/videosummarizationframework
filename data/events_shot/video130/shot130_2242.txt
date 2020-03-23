@@ -1,0 +1,5 @@
+adult+female+singing(0.131)
+walking(0.040)
+filming(0.031)
+sneezing(0.026)
+coughing(0.024)

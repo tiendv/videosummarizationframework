@@ -1,0 +1,5 @@
+raining(0.265)
+adult+female+singing(0.064)
+standing(0.028)
+adult+female+speaking(0.024)
+smiling(0.017)

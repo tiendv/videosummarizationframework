@@ -1,0 +1,5 @@
+performing(0.223)
+singing(0.202)
+adult+male+singing(0.145)
+standing(0.137)
+child+singing(0.047)

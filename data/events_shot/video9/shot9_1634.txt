@@ -1,0 +1,5 @@
+raining(0.619)
+snowing(0.090)
+storming(0.038)
+drenching(0.033)
+crying(0.027)

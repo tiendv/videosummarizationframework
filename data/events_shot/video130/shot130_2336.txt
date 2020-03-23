@@ -1,0 +1,5 @@
+stacking(0.081)
+adult+female+singing(0.063)
+adult+female+speaking(0.048)
+starting(0.025)
+fueling(0.024)

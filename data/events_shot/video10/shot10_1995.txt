@@ -1,0 +1,5 @@
+telephoning(0.659)
+calling(0.165)
+packing(0.036)
+unpacking(0.030)
+adult+female+speaking(0.007)

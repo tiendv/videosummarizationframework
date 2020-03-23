@@ -1,0 +1,5 @@
+adult+male+speaking(0.096)
+fencing(0.057)
+standing(0.055)
+preaching(0.042)
+asking(0.031)

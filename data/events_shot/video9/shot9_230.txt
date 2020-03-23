@@ -1,0 +1,5 @@
+child+singing(0.240)
+child+speaking(0.132)
+singing(0.060)
+telephoning(0.052)
+talking(0.048)

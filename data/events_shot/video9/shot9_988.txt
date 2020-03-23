@@ -1,0 +1,5 @@
+kissing(0.061)
+raining(0.037)
+drinking(0.034)
+giving(0.025)
+talking(0.025)

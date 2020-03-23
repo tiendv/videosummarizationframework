@@ -1,0 +1,5 @@
+waking(0.252)
+resting(0.082)
+sleeping(0.081)
+playing+videogames(0.072)
+fighting(0.033)

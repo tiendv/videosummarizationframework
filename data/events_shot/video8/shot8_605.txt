@@ -1,0 +1,5 @@
+mowing(0.120)
+asking(0.062)
+squinting(0.058)
+gardening(0.050)
+starting(0.043)

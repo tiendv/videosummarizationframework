@@ -1,0 +1,5 @@
+knocking(0.370)
+running(0.184)
+punching(0.033)
+sliding(0.027)
+entering(0.024)

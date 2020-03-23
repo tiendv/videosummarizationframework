@@ -1,0 +1,5 @@
+standing(0.077)
+hunting(0.047)
+guarding(0.032)
+raining(0.025)
+attacking(0.022)

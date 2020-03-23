@@ -1,0 +1,5 @@
+filming(0.104)
+photographing(0.060)
+hanging(0.025)
+adult+male+speaking(0.018)
+gripping(0.018)

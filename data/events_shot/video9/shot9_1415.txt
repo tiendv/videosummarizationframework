@@ -1,0 +1,5 @@
+hugging(0.313)
+fighting(0.053)
+walking(0.033)
+cuddling(0.026)
+talking(0.025)

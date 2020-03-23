@@ -1,0 +1,5 @@
+sneezing(0.060)
+laughing(0.046)
+coughing(0.028)
+walking(0.027)
+putting(0.025)

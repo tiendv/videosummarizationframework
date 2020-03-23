@@ -1,0 +1,5 @@
+assembling(0.101)
+repairing(0.097)
+crafting(0.080)
+working(0.074)
+constructing(0.062)

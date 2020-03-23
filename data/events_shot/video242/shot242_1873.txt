@@ -1,0 +1,5 @@
+eating(0.146)
+yawning(0.104)
+licking(0.071)
+roaring(0.067)
+biting(0.064)

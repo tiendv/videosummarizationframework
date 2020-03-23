@@ -1,0 +1,5 @@
+adult+female+singing(0.080)
+hugging(0.036)
+dancing(0.028)
+stomping(0.027)
+filming(0.024)

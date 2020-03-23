@@ -1,0 +1,5 @@
+standing(0.028)
+sniffing(0.025)
+knocking(0.023)
+smelling(0.023)
+giving(0.021)

@@ -1,0 +1,5 @@
+talking(0.109)
+standing(0.097)
+fencing(0.091)
+adult+male+speaking(0.072)
+cracking(0.059)

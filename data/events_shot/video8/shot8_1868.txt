@@ -1,0 +1,5 @@
+adult+male+speaking(0.069)
+throwing(0.059)
+stacking(0.034)
+punching(0.034)
+taping(0.033)

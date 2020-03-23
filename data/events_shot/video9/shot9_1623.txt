@@ -1,0 +1,5 @@
+praying(0.105)
+queuing(0.059)
+marrying(0.046)
+photographing(0.040)
+standing(0.031)

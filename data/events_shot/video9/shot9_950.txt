@@ -1,0 +1,5 @@
+adult+female+speaking(0.054)
+kneeling(0.036)
+packing(0.031)
+opening(0.030)
+unpacking(0.028)

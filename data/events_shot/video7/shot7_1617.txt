@@ -1,0 +1,5 @@
+rolling(0.216)
+aiming(0.094)
+bowling(0.089)
+putting(0.023)
+placing(0.014)

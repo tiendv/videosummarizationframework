@@ -1,0 +1,5 @@
+hugging(0.065)
+walking(0.037)
+tying(0.036)
+filming(0.029)
+pointing(0.027)

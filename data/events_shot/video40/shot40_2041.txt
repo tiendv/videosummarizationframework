@@ -1,0 +1,5 @@
+stacking(0.953)
+flipping(0.006)
+cleaning(0.001)
+flicking(0.001)
+serving(0.001)

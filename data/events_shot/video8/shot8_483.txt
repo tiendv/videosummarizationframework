@@ -1,0 +1,5 @@
+opening(0.070)
+closing(0.056)
+entering(0.042)
+slapping(0.042)
+knocking(0.033)

@@ -1,0 +1,5 @@
+whistling(0.112)
+tapping(0.058)
+slapping(0.054)
+scratching(0.050)
+walking(0.047)

@@ -1,0 +1,5 @@
+frowning(0.170)
+crying(0.115)
+slapping(0.051)
+rubbing(0.048)
+chewing(0.042)

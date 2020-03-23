@@ -1,0 +1,5 @@
+opening(0.110)
+shaking(0.078)
+closing(0.056)
+singing(0.050)
+performing(0.049)

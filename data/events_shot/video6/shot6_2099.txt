@@ -1,0 +1,5 @@
+kissing(0.554)
+telephoning(0.081)
+calling(0.042)
+hugging(0.033)
+cuddling(0.022)

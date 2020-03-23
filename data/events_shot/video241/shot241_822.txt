@@ -1,0 +1,5 @@
+queuing(0.126)
+smiling(0.037)
+arresting(0.035)
+adult+female+speaking(0.035)
+asking(0.029)

@@ -1,0 +1,5 @@
+dining(0.220)
+drinking(0.176)
+eating(0.067)
+celebrating(0.031)
+standing(0.020)

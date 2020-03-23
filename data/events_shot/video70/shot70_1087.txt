@@ -1,0 +1,5 @@
+washing(0.030)
+adult+female+speaking(0.029)
+slapping(0.026)
+smiling(0.023)
+asking(0.023)

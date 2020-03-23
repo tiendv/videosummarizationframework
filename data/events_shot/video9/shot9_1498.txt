@@ -1,0 +1,5 @@
+tattooing(0.325)
+manicuring(0.234)
+massaging(0.121)
+adult+female+speaking(0.027)
+shaving(0.023)

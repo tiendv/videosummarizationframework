@@ -1,0 +1,5 @@
+autographing(0.135)
+asking(0.084)
+adult+male+speaking(0.051)
+adult+female+speaking(0.046)
+sniffing(0.021)

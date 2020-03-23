@@ -1,0 +1,5 @@
+knocking(0.483)
+entering(0.069)
+hanging(0.048)
+saluting(0.041)
+guarding(0.028)

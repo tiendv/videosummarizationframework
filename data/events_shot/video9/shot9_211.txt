@@ -1,0 +1,5 @@
+walking(0.036)
+autographing(0.035)
+entering(0.027)
+sitting(0.025)
+exiting(0.025)

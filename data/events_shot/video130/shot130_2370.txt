@@ -1,0 +1,5 @@
+sneezing(0.049)
+imitating(0.046)
+squinting(0.040)
+adult+female+speaking(0.037)
+smiling(0.035)

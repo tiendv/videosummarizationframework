@@ -1,0 +1,5 @@
+chewing(0.081)
+adult+male+speaking(0.048)
+bowing(0.025)
+praying(0.024)
+sneezing(0.024)

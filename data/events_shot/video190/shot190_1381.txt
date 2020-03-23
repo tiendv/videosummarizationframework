@@ -1,0 +1,5 @@
+adult+female+singing(0.167)
+adult+female+speaking(0.050)
+knocking(0.044)
+standing(0.038)
+filming(0.032)

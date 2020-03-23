@@ -1,0 +1,5 @@
+fencing(0.120)
+eating(0.080)
+laughing(0.049)
+chewing(0.026)
+biting(0.022)

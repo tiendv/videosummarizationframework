@@ -1,0 +1,5 @@
+arresting(0.059)
+driving(0.037)
+snowing(0.032)
+walking(0.030)
+filming(0.023)

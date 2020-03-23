@@ -1,0 +1,5 @@
+filming(0.056)
+talking(0.034)
+hanging(0.030)
+discussing(0.030)
+piloting(0.025)

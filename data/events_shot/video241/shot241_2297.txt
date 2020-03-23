@@ -1,0 +1,5 @@
+hanging(0.103)
+standing(0.036)
+rising(0.032)
+walking(0.028)
+turning(0.027)

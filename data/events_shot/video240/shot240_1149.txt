@@ -1,0 +1,5 @@
+filming(0.116)
+loading(0.076)
+photographing(0.036)
+walking(0.029)
+squatting(0.028)

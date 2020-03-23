@@ -1,0 +1,5 @@
+talking(0.173)
+turning(0.058)
+laughing(0.049)
+smiling(0.046)
+discussing(0.035)

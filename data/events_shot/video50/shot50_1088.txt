@@ -1,0 +1,5 @@
+working(0.043)
+baking(0.035)
+standing(0.025)
+talking(0.025)
+pointing(0.023)

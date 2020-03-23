@@ -1,0 +1,5 @@
+slapping(0.088)
+spraying(0.050)
+brushing(0.039)
+washing(0.032)
+rubbing(0.030)

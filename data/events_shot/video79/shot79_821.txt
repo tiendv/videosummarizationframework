@@ -1,0 +1,5 @@
+fencing(0.199)
+sitting(0.027)
+riding(0.027)
+driving(0.027)
+raining(0.024)

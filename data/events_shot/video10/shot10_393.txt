@@ -1,0 +1,5 @@
+adult+male+speaking(0.025)
+exiting(0.024)
+dressing(0.024)
+entering(0.022)
+walking(0.021)

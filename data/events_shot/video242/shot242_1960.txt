@@ -1,0 +1,5 @@
+starting(0.091)
+knocking(0.075)
+sitting(0.031)
+talking(0.029)
+tattooing(0.022)

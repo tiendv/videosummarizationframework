@@ -1,0 +1,5 @@
+adult+female+singing(0.096)
+adult+female+speaking(0.052)
+cooking(0.032)
+adult+male+singing(0.021)
+drumming(0.019)

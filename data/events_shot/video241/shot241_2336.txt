@@ -1,0 +1,5 @@
+plugging(0.110)
+assembling(0.083)
+repairing(0.073)
+fueling(0.045)
+removing(0.024)

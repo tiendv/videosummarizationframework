@@ -1,0 +1,5 @@
+child+speaking(0.071)
+sneezing(0.067)
+coughing(0.053)
+sitting(0.048)
+painting(0.046)

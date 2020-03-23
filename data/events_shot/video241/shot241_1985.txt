@@ -1,0 +1,5 @@
+drinking(0.064)
+walking(0.061)
+talking(0.057)
+slapping(0.042)
+standing(0.033)

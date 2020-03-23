@@ -1,0 +1,5 @@
+hanging(0.308)
+walking(0.077)
+carrying(0.032)
+adult+male+speaking(0.023)
+swinging(0.021)

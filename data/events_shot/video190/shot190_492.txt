@@ -1,0 +1,5 @@
+fencing(0.615)
+hugging(0.038)
+fighting(0.020)
+throwing(0.014)
+running(0.010)

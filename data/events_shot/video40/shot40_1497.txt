@@ -1,0 +1,5 @@
+driving(0.189)
+frowning(0.063)
+piloting(0.053)
+talking(0.032)
+playing+videogames(0.031)

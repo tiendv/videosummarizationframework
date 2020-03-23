@@ -1,0 +1,5 @@
+standing(0.066)
+boating(0.063)
+adult+female+speaking(0.048)
+walking(0.048)
+rowing(0.045)

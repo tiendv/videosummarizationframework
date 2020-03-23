@@ -1,0 +1,5 @@
+aiming(0.124)
+arresting(0.077)
+filming(0.061)
+walking(0.029)
+exiting(0.028)

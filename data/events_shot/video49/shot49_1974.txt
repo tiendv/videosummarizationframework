@@ -1,0 +1,5 @@
+dining(0.165)
+playing+videogames(0.157)
+drinking(0.042)
+aiming(0.027)
+serving(0.020)

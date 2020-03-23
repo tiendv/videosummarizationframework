@@ -1,0 +1,5 @@
+calling(0.109)
+telephoning(0.084)
+eating(0.066)
+tapping(0.065)
+drinking(0.056)

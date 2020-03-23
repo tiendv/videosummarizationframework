@@ -1,0 +1,5 @@
+hiking(0.063)
+snowing(0.053)
+flying(0.047)
+riding(0.042)
+driving(0.038)

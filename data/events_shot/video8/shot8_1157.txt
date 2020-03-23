@@ -1,0 +1,5 @@
+hugging(0.053)
+queuing(0.045)
+standing(0.033)
+adult+male+speaking(0.022)
+talking(0.021)

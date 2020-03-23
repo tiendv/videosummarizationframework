@@ -1,0 +1,5 @@
+stretching(0.060)
+stomping(0.032)
+standing(0.032)
+dancing(0.031)
+mopping(0.024)

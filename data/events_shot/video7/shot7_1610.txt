@@ -1,0 +1,5 @@
+adult+male+singing(0.225)
+rocking(0.061)
+performing(0.051)
+punching(0.048)
+singing(0.045)

@@ -1,0 +1,5 @@
+smiling(0.047)
+tattooing(0.045)
+painting(0.029)
+slapping(0.027)
+winking(0.023)

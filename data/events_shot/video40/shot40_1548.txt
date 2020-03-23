@@ -1,0 +1,5 @@
+fueling(0.133)
+exiting(0.040)
+piloting(0.026)
+stopping(0.020)
+loading(0.019)

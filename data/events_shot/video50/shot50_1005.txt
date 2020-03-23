@@ -1,0 +1,5 @@
+walking(0.279)
+filming(0.045)
+standing(0.033)
+kissing(0.030)
+photographing(0.024)

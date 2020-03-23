@@ -1,0 +1,5 @@
+praying(0.128)
+officiating(0.068)
+aiming(0.068)
+entering(0.039)
+adult+male+speaking(0.027)

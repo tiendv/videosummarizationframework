@@ -1,0 +1,5 @@
+hugging(0.706)
+kissing(0.092)
+cuddling(0.065)
+queuing(0.014)
+snuggling(0.010)

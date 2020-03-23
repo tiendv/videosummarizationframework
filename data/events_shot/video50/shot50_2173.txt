@@ -1,0 +1,5 @@
+imitating(0.045)
+laughing(0.044)
+adult+female+singing(0.040)
+adult+female+speaking(0.040)
+reaching(0.025)

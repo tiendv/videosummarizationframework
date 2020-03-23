@@ -1,0 +1,5 @@
+cooking(0.167)
+baking(0.086)
+stirring(0.046)
+rinsing(0.023)
+bathing(0.020)

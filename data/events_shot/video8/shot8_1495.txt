@@ -1,0 +1,5 @@
+tattooing(0.049)
+walking(0.040)
+hiking(0.026)
+standing(0.023)
+laughing(0.023)

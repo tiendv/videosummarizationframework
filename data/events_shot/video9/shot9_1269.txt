@@ -1,0 +1,5 @@
+adult+male+singing(0.050)
+crying(0.048)
+starting(0.047)
+talking(0.045)
+smiling(0.044)

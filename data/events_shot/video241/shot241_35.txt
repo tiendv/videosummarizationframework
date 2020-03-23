@@ -1,0 +1,5 @@
+coughing(0.080)
+adult+male+singing(0.046)
+sneezing(0.043)
+performing(0.042)
+singing(0.035)

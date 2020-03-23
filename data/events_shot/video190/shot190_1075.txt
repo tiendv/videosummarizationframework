@@ -1,0 +1,5 @@
+adult+male+speaking(0.049)
+dining(0.042)
+sitting(0.037)
+filming(0.036)
+adult+female+speaking(0.034)

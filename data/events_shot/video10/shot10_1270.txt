@@ -1,0 +1,5 @@
+standing(0.032)
+pointing(0.024)
+slapping(0.023)
+walking(0.019)
+shooting(0.017)

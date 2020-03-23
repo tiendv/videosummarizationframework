@@ -1,0 +1,5 @@
+sneezing(0.174)
+fighting(0.105)
+slapping(0.099)
+coughing(0.062)
+crying(0.043)

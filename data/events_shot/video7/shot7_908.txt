@@ -1,0 +1,5 @@
+tapping(0.194)
+handcuffing(0.132)
+chewing(0.123)
+brushing(0.038)
+tattooing(0.015)

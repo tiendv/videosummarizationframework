@@ -1,0 +1,5 @@
+cooking(0.412)
+baking(0.186)
+stirring(0.025)
+crafting(0.023)
+cleaning(0.015)

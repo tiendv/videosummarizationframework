@@ -1,0 +1,5 @@
+standing(0.057)
+sitting(0.034)
+adult+male+singing(0.026)
+preaching(0.025)
+adult+male+speaking(0.025)

@@ -1,0 +1,5 @@
+talking(0.118)
+sitting(0.061)
+snowing(0.040)
+adult+male+speaking(0.040)
+calling(0.026)

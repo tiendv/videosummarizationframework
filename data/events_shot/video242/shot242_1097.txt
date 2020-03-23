@@ -1,0 +1,5 @@
+feeding(0.199)
+eating(0.089)
+sleeping(0.050)
+biting(0.039)
+pressing(0.025)

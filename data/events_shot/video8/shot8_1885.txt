@@ -1,0 +1,5 @@
+adult+male+speaking(0.067)
+gambling(0.057)
+discussing(0.047)
+drinking(0.032)
+asking(0.025)

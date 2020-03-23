@@ -1,0 +1,5 @@
+hugging(0.187)
+starting(0.048)
+smiling(0.035)
+talking(0.033)
+adult+female+speaking(0.031)

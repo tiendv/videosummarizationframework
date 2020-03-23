@@ -1,0 +1,5 @@
+cracking(0.040)
+massaging(0.036)
+hugging(0.032)
+adult+male+speaking(0.029)
+walking(0.029)

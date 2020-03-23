@@ -1,0 +1,5 @@
+running(0.141)
+walking(0.102)
+chasing(0.079)
+carrying(0.030)
+stealing(0.025)

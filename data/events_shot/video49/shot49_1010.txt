@@ -1,0 +1,5 @@
+walking(0.221)
+running(0.134)
+filming(0.044)
+jogging(0.040)
+adult+female+singing(0.038)

@@ -1,0 +1,5 @@
+discussing(0.069)
+talking(0.050)
+shrugging(0.046)
+frowning(0.041)
+sitting(0.039)

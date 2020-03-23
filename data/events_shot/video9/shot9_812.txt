@@ -1,0 +1,5 @@
+knocking(0.154)
+standing(0.086)
+walking(0.045)
+dressing(0.044)
+talking(0.030)

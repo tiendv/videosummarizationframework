@@ -1,0 +1,5 @@
+walking(0.208)
+jogging(0.049)
+slapping(0.044)
+running(0.041)
+pointing(0.035)

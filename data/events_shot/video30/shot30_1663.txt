@@ -1,0 +1,5 @@
+vacuuming(0.079)
+mopping(0.045)
+sneezing(0.043)
+cleaning(0.030)
+laughing(0.028)

@@ -1,0 +1,5 @@
+throwing(0.054)
+standing(0.032)
+hugging(0.032)
+punching(0.025)
+walking(0.024)

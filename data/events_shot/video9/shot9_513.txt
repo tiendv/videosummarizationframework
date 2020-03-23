@@ -1,0 +1,5 @@
+smiling(0.066)
+child+speaking(0.040)
+asking(0.039)
+interviewing(0.036)
+winking(0.033)

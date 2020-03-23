@@ -1,0 +1,5 @@
+crafting(0.032)
+buying(0.030)
+shopping(0.026)
+serving(0.025)
+selling(0.025)

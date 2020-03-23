@@ -1,0 +1,5 @@
+knocking(0.182)
+spraying(0.078)
+extinguishing(0.056)
+fighting(0.047)
+guarding(0.038)

@@ -1,0 +1,5 @@
+child+speaking(0.060)
+baking(0.025)
+taping(0.023)
+crafting(0.020)
+poking(0.019)

@@ -1,0 +1,5 @@
+arresting(0.069)
+fighting(0.058)
+handcuffing(0.057)
+slapping(0.048)
+hugging(0.040)

@@ -1,0 +1,5 @@
+waking(0.079)
+talking(0.060)
+sitting(0.037)
+reaching(0.030)
+sleeping(0.027)

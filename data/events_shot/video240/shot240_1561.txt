@@ -1,0 +1,5 @@
+dusting(0.077)
+baking(0.051)
+mopping(0.044)
+cleaning(0.037)
+cooking(0.033)

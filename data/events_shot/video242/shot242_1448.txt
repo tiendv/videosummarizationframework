@@ -1,0 +1,5 @@
+adult+female+singing(0.346)
+adult+male+singing(0.054)
+clipping(0.052)
+sitting(0.041)
+singing(0.035)

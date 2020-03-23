@@ -1,0 +1,5 @@
+sneezing(0.043)
+crying(0.042)
+adult+female+speaking(0.036)
+slapping(0.035)
+discussing(0.032)

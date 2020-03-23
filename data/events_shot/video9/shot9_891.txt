@@ -1,0 +1,5 @@
+walking(0.189)
+performing(0.030)
+rocking(0.023)
+exiting(0.021)
+carrying(0.021)

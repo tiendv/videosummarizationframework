@@ -1,0 +1,5 @@
+painting(0.158)
+autographing(0.134)
+adult+male+speaking(0.096)
+discussing(0.057)
+signing(0.040)

@@ -1,0 +1,5 @@
+sneezing(0.039)
+child+speaking(0.023)
+adult+female+singing(0.023)
+driving(0.022)
+talking(0.021)

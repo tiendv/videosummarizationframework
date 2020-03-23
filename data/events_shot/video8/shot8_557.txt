@@ -1,0 +1,5 @@
+sneezing(0.076)
+dressing(0.068)
+coughing(0.054)
+cooking(0.037)
+putting(0.036)

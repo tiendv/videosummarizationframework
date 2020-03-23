@@ -1,0 +1,5 @@
+drinking(0.161)
+dining(0.048)
+celebrating(0.026)
+sniffing(0.021)
+hugging(0.020)

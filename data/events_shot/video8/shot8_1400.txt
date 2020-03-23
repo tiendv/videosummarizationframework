@@ -1,0 +1,5 @@
+child+speaking(0.031)
+squatting(0.030)
+standing(0.026)
+sliding(0.025)
+sitting(0.023)

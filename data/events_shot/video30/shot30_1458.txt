@@ -1,0 +1,5 @@
+adult+male+singing(0.175)
+standing(0.065)
+walking(0.055)
+preaching(0.047)
+juggling(0.045)

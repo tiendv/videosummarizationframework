@@ -1,0 +1,5 @@
+bowling(0.706)
+bouncing(0.021)
+exercising(0.014)
+slicing(0.012)
+pushing(0.012)

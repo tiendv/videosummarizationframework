@@ -1,0 +1,5 @@
+laughing(0.095)
+crying(0.082)
+adult+male+speaking(0.062)
+filming(0.061)
+adult+male+singing(0.053)

@@ -1,0 +1,5 @@
+preaching(0.149)
+praying(0.034)
+adult+male+speaking(0.028)
+shrugging(0.025)
+rocking(0.023)

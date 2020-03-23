@@ -1,0 +1,5 @@
+removing(0.109)
+plugging(0.084)
+vacuuming(0.071)
+cleaning(0.066)
+putting(0.032)

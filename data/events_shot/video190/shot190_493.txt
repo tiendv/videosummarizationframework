@@ -1,0 +1,5 @@
+hugging(0.176)
+smiling(0.084)
+adult+female+speaking(0.071)
+slapping(0.071)
+exiting(0.035)

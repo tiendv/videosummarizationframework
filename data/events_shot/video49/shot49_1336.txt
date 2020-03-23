@@ -1,0 +1,5 @@
+laughing(0.162)
+crying(0.060)
+child+speaking(0.054)
+giggling(0.048)
+tickling(0.044)

@@ -1,0 +1,5 @@
+adult+female+singing(0.122)
+roaring(0.112)
+laughing(0.058)
+singing(0.043)
+standing(0.041)

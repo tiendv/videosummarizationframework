@@ -1,0 +1,5 @@
+flying(0.076)
+hunting(0.055)
+floating(0.048)
+burning(0.048)
+cooking(0.046)

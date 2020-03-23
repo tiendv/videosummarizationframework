@@ -1,0 +1,5 @@
+snowing(0.028)
+raining(0.027)
+standing(0.026)
+starting(0.024)
+shaving(0.023)

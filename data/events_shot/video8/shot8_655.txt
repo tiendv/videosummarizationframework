@@ -1,0 +1,5 @@
+unpacking(0.293)
+packing(0.166)
+packaging(0.080)
+adult+male+speaking(0.040)
+wrapping(0.016)

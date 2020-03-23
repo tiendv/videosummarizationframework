@@ -1,0 +1,5 @@
+talking(0.046)
+pointing(0.038)
+chewing(0.038)
+asking(0.035)
+slapping(0.033)

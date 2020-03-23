@@ -1,0 +1,5 @@
+asking(0.102)
+queuing(0.087)
+preaching(0.068)
+hugging(0.055)
+slapping(0.044)

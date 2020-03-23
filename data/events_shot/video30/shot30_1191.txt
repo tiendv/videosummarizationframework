@@ -1,0 +1,5 @@
+filming(0.092)
+guarding(0.052)
+walking(0.047)
+standing(0.046)
+aiming(0.034)

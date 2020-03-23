@@ -1,0 +1,5 @@
+roaring(0.989)
+running(0.002)
+hunting(0.001)
+burning(0.001)
+attacking(0.001)

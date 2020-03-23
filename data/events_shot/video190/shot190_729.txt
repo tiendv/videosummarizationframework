@@ -1,0 +1,5 @@
+standing(0.096)
+talking(0.047)
+shopping(0.036)
+pointing(0.036)
+guarding(0.029)

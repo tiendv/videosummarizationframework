@@ -1,0 +1,5 @@
+dining(0.084)
+asking(0.039)
+eating(0.033)
+smiling(0.025)
+adult+male+speaking(0.020)

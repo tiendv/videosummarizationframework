@@ -1,0 +1,5 @@
+filming(0.052)
+walking(0.040)
+giving(0.030)
+slapping(0.027)
+standing(0.025)

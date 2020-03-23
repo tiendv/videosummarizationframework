@@ -1,0 +1,6 @@
+shooting(0.045)
+sawing(0.037)
+running(0.032)
+standing(0.030)
+walking(0.030)
+king(0.033)

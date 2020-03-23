@@ -1,0 +1,5 @@
+filming(0.100)
+photographing(0.056)
+walking(0.049)
+marrying(0.029)
+saluting(0.028)

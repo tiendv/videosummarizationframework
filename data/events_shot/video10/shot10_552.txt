@@ -1,0 +1,5 @@
+smiling(0.036)
+hugging(0.034)
+celebrating(0.034)
+drinking(0.030)
+standing(0.028)

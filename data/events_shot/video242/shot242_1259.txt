@@ -1,0 +1,5 @@
+adult+female+singing(0.059)
+adult+male+singing(0.040)
+singing(0.035)
+standing(0.031)
+smoking(0.031)

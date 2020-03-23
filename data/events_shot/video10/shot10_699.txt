@@ -1,0 +1,5 @@
+bowling(0.047)
+painting(0.030)
+talking(0.022)
+crafting(0.020)
+throwing(0.019)

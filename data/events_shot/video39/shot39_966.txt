@@ -1,0 +1,5 @@
+arresting(0.342)
+guarding(0.107)
+handcuffing(0.044)
+protesting(0.033)
+extinguishing(0.032)

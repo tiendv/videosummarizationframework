@@ -1,0 +1,5 @@
+adult+male+speaking(0.041)
+discussing(0.031)
+drying(0.027)
+adult+female+speaking(0.027)
+standing(0.020)

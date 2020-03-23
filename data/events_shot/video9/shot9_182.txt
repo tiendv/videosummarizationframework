@@ -1,0 +1,5 @@
+vacuuming(0.094)
+raining(0.074)
+barking(0.070)
+mopping(0.061)
+howling(0.052)

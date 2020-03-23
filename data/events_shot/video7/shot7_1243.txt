@@ -1,0 +1,5 @@
+adult+male+speaking(0.236)
+bowling(0.088)
+bowing(0.037)
+standing(0.037)
+lecturing(0.033)

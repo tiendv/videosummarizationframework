@@ -1,0 +1,5 @@
+bowling(0.728)
+adult+male+speaking(0.035)
+juggling(0.013)
+bowing(0.013)
+inflating(0.009)

@@ -1,0 +1,5 @@
+shooting(0.069)
+saluting(0.064)
+pointing(0.059)
+guarding(0.044)
+hanging(0.043)

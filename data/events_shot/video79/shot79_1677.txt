@@ -1,0 +1,5 @@
+rowing(0.584)
+swimming(0.088)
+diving(0.049)
+plunging(0.034)
+floating(0.015)

@@ -1,0 +1,5 @@
+adult+female+singing(0.092)
+clipping(0.071)
+adult+female+speaking(0.035)
+adult+male+singing(0.030)
+hugging(0.026)

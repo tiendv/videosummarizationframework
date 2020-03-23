@@ -1,0 +1,5 @@
+crying(0.131)
+waking(0.055)
+sneezing(0.044)
+sleeping(0.044)
+massaging(0.038)

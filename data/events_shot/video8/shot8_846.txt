@@ -1,0 +1,5 @@
+sitting(0.102)
+dining(0.083)
+smiling(0.052)
+marrying(0.050)
+discussing(0.033)

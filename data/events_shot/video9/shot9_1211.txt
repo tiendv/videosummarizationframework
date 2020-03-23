@@ -1,0 +1,5 @@
+raining(0.040)
+talking(0.032)
+hammering(0.030)
+working(0.026)
+sitting(0.025)

@@ -1,0 +1,5 @@
+coaching(0.196)
+arresting(0.083)
+handcuffing(0.069)
+adult+male+speaking(0.047)
+instructing(0.038)

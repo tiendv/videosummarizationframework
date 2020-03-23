@@ -1,0 +1,5 @@
+driving(0.121)
+hanging(0.105)
+riding(0.058)
+adult+female+singing(0.046)
+swinging(0.036)

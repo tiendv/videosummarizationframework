@@ -1,0 +1,5 @@
+bowing(0.299)
+praying(0.090)
+officiating(0.041)
+reaching(0.022)
+standing(0.020)

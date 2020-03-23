@@ -1,0 +1,5 @@
+chewing(0.186)
+eating(0.101)
+telephoning(0.082)
+drinking(0.055)
+sneezing(0.049)

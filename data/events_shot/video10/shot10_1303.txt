@@ -1,0 +1,5 @@
+laughing(0.056)
+walking(0.056)
+standing(0.036)
+rocking(0.028)
+shaking(0.027)

@@ -1,0 +1,5 @@
+racing(0.417)
+plunging(0.113)
+starting(0.039)
+skiing(0.031)
+splashing(0.025)

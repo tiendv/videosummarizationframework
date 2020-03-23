@@ -1,0 +1,5 @@
+brushing(0.162)
+steering(0.042)
+drying(0.041)
+painting(0.036)
+drawing(0.032)

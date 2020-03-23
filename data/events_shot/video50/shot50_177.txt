@@ -1,0 +1,5 @@
+marrying(0.316)
+adult+female+singing(0.063)
+adult+male+singing(0.050)
+tattooing(0.040)
+performing(0.029)

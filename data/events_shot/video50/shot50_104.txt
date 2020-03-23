@@ -1,0 +1,5 @@
+tattooing(0.721)
+painting(0.020)
+shaving(0.012)
+drawing(0.010)
+waxing(0.009)

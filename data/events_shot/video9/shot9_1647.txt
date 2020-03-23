@@ -1,0 +1,5 @@
+shaving(0.969)
+crying(0.004)
+sneezing(0.002)
+combing(0.001)
+brushing(0.001)

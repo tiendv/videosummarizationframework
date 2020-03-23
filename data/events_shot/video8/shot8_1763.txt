@@ -1,0 +1,5 @@
+diving(0.080)
+flipping(0.048)
+rising(0.030)
+bouncing(0.027)
+jumping(0.025)

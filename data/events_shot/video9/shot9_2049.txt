@@ -1,0 +1,5 @@
+walking(0.158)
+shopping(0.037)
+standing(0.035)
+dancing(0.026)
+talking(0.020)

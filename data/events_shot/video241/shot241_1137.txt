@@ -1,0 +1,5 @@
+leaning(0.886)
+smiling(0.005)
+pointing(0.004)
+shrugging(0.004)
+calling(0.003)

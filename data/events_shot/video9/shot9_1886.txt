@@ -1,0 +1,5 @@
+adult+male+speaking(0.151)
+adult+male+singing(0.087)
+talking(0.047)
+knocking(0.033)
+discussing(0.033)

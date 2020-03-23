@@ -1,0 +1,5 @@
+hugging(0.225)
+arresting(0.057)
+adult+male+speaking(0.038)
+handcuffing(0.025)
+cuddling(0.022)

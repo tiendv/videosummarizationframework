@@ -1,0 +1,5 @@
+drinking(0.230)
+blowing(0.179)
+coughing(0.132)
+sneezing(0.129)
+inflating(0.091)

@@ -1,0 +1,5 @@
+driving(0.398)
+steering(0.162)
+riding(0.038)
+hitchhiking(0.026)
+closing(0.022)

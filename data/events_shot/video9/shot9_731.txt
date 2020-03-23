@@ -1,0 +1,5 @@
+standing(0.044)
+talking(0.038)
+working(0.033)
+shopping(0.024)
+arresting(0.022)

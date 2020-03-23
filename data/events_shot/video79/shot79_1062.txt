@@ -1,0 +1,5 @@
+drinking(0.094)
+spitting(0.061)
+laughing(0.046)
+adult+male+speaking(0.038)
+sneezing(0.030)

@@ -1,0 +1,5 @@
+hugging(0.183)
+walking(0.052)
+smiling(0.034)
+adult+male+speaking(0.032)
+exiting(0.027)

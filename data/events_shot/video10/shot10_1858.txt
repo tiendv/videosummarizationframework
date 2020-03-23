@@ -1,0 +1,5 @@
+crying(0.342)
+hugging(0.052)
+talking(0.037)
+carrying(0.033)
+adult+female+speaking(0.022)

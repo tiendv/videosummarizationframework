@@ -1,0 +1,5 @@
+drinking(0.055)
+chewing(0.035)
+cracking(0.022)
+eating(0.021)
+smoking(0.020)

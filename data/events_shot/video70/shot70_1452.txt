@@ -1,0 +1,5 @@
+knocking(0.116)
+running(0.062)
+walking(0.058)
+punching(0.026)
+drumming(0.024)

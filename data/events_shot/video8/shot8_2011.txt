@@ -1,0 +1,5 @@
+child+speaking(0.418)
+talking(0.055)
+sitting(0.025)
+squinting(0.023)
+standing(0.022)

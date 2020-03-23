@@ -1,0 +1,5 @@
+fencing(0.060)
+manicuring(0.043)
+drinking(0.043)
+fighting(0.033)
+adult+male+speaking(0.033)

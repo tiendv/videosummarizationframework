@@ -1,0 +1,5 @@
+laughing(0.088)
+sneezing(0.069)
+drinking(0.033)
+talking(0.025)
+shopping(0.021)

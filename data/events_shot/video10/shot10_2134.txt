@@ -1,0 +1,5 @@
+bowing(0.315)
+bending(0.080)
+kneeling(0.025)
+adult+male+speaking(0.023)
+squatting(0.023)

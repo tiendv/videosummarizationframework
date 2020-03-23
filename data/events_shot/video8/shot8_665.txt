@@ -1,0 +1,5 @@
+spraying(0.109)
+sanding(0.048)
+painting(0.040)
+crafting(0.039)
+dusting(0.031)

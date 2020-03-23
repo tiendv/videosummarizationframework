@@ -1,0 +1,5 @@
+fighting(0.055)
+raining(0.044)
+hitting(0.044)
+attacking(0.041)
+smashing(0.036)

@@ -1,0 +1,5 @@
+closing(0.109)
+opening(0.097)
+exiting(0.051)
+guarding(0.033)
+adult+male+speaking(0.029)

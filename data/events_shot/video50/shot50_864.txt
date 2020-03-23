@@ -1,0 +1,5 @@
+adult+female+singing(0.136)
+arresting(0.063)
+driving(0.047)
+autographing(0.035)
+steering(0.027)

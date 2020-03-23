@@ -1,0 +1,5 @@
+rowing(0.185)
+adult+female+singing(0.058)
+crafting(0.043)
+punting(0.039)
+adult+female+speaking(0.035)

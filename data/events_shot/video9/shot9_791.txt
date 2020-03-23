@@ -1,0 +1,5 @@
+slapping(0.095)
+pointing(0.042)
+imitating(0.036)
+coaching(0.034)
+punching(0.029)

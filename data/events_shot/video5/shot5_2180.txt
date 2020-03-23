@@ -1,0 +1,5 @@
+squatting(0.065)
+bowing(0.051)
+loading(0.038)
+lifting(0.026)
+working(0.025)

@@ -1,0 +1,5 @@
+telephoning(0.214)
+calling(0.191)
+adult+male+speaking(0.017)
+filming(0.017)
+drinking(0.013)

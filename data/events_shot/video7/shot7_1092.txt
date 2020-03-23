@@ -1,0 +1,5 @@
+aiming(0.226)
+bowling(0.131)
+putting(0.042)
+playing(0.022)
+playing+videogames(0.020)

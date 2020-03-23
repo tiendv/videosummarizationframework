@@ -1,0 +1,5 @@
+drawing(0.256)
+sketching(0.125)
+painting(0.070)
+smiling(0.024)
+hugging(0.023)

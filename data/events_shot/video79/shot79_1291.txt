@@ -1,0 +1,5 @@
+filming(0.061)
+photographing(0.059)
+adult+male+speaking(0.052)
+discussing(0.040)
+camping(0.034)

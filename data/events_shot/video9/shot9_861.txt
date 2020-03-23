@@ -1,0 +1,5 @@
+adult+male+speaking(0.035)
+smoking(0.025)
+sleeping(0.025)
+starting(0.022)
+talking(0.022)

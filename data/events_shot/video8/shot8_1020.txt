@@ -1,0 +1,5 @@
+walking(0.046)
+adult+male+speaking(0.034)
+standing(0.026)
+sneezing(0.025)
+stealing(0.025)

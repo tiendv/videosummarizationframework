@@ -1,0 +1,5 @@
+packing(0.487)
+unpacking(0.255)
+packaging(0.016)
+adult+female+speaking(0.015)
+stealing(0.012)

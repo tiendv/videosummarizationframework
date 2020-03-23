@@ -1,0 +1,5 @@
+bowling(0.110)
+asking(0.078)
+sniffing(0.065)
+slapping(0.047)
+smelling(0.043)

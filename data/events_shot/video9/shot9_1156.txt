@@ -1,0 +1,5 @@
+eating(0.067)
+cooking(0.044)
+coughing(0.038)
+dipping(0.036)
+drinking(0.035)

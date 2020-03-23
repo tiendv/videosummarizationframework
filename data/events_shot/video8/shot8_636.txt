@@ -1,0 +1,5 @@
+driving(0.092)
+steering(0.060)
+riding(0.024)
+turning(0.023)
+adult+male+singing(0.022)

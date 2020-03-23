@@ -1,0 +1,5 @@
+hugging(0.696)
+cuddling(0.103)
+snuggling(0.042)
+adult+female+speaking(0.018)
+adult+male+speaking(0.014)

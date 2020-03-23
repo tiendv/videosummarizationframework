@@ -1,0 +1,5 @@
+measuring(0.950)
+paying(0.006)
+locking(0.006)
+pressing(0.003)
+tuning(0.002)

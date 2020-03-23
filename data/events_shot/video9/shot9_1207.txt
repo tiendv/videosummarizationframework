@@ -1,0 +1,5 @@
+stitching(0.375)
+tattooing(0.102)
+drawing(0.098)
+knitting(0.055)
+painting(0.043)

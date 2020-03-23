@@ -1,0 +1,5 @@
+walking(0.100)
+adult+male+singing(0.057)
+adult+female+singing(0.052)
+standing(0.048)
+joining(0.045)

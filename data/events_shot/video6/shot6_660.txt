@@ -1,0 +1,5 @@
+sneezing(0.764)
+coughing(0.164)
+crying(0.005)
+slapping(0.004)
+removing(0.003)

@@ -1,0 +1,5 @@
+autographing(0.738)
+signing(0.030)
+reading(0.019)
+sitting(0.017)
+asking(0.010)

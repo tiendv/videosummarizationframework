@@ -1,0 +1,5 @@
+drinking(0.028)
+laughing(0.023)
+sneezing(0.020)
+cooking(0.017)
+putting(0.016)

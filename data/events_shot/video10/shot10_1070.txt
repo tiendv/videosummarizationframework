@@ -1,0 +1,5 @@
+dining(0.060)
+hanging(0.033)
+sitting(0.030)
+gripping(0.028)
+eating(0.027)

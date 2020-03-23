@@ -1,0 +1,5 @@
+laughing(0.036)
+sitting(0.035)
+sneezing(0.024)
+adult+female+speaking(0.023)
+cuddling(0.019)

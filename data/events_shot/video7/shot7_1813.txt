@@ -1,0 +1,5 @@
+reading(0.118)
+drawing(0.101)
+sketching(0.071)
+painting(0.048)
+crafting(0.033)

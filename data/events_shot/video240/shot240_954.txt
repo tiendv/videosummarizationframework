@@ -1,0 +1,5 @@
+sneezing(0.067)
+coughing(0.040)
+packing(0.033)
+unpacking(0.030)
+cracking(0.024)

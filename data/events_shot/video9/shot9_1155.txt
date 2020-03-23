@@ -1,0 +1,5 @@
+slapping(0.342)
+coughing(0.033)
+shrugging(0.025)
+smelling(0.023)
+pointing(0.021)

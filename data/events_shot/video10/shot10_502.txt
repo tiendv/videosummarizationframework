@@ -1,0 +1,5 @@
+dressing(0.087)
+hugging(0.055)
+adult+female+speaking(0.046)
+sneezing(0.036)
+standing(0.031)

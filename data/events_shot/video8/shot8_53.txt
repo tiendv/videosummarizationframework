@@ -1,0 +1,5 @@
+standing(0.056)
+walking(0.049)
+hugging(0.045)
+adult+male+singing(0.032)
+arresting(0.028)

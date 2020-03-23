@@ -1,0 +1,5 @@
+adult+female+singing(0.058)
+adult+male+singing(0.027)
+stealing(0.026)
+adult+male+speaking(0.018)
+adult+female+speaking(0.018)

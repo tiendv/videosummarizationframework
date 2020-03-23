@@ -1,0 +1,5 @@
+filming(0.055)
+adult+female+speaking(0.048)
+calling(0.048)
+talking(0.041)
+playing+videogames(0.034)

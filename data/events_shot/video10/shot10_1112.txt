@@ -1,0 +1,5 @@
+hanging(0.144)
+clawing(0.072)
+gripping(0.052)
+swinging(0.050)
+clinging(0.019)

@@ -1,0 +1,5 @@
+arresting(0.199)
+guarding(0.074)
+handcuffing(0.060)
+filming(0.060)
+autographing(0.038)

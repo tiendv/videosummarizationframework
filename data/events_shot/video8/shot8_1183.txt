@@ -1,0 +1,5 @@
+measuring(0.136)
+vacuuming(0.128)
+mopping(0.084)
+sweeping(0.033)
+hammering(0.030)

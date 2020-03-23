@@ -1,0 +1,5 @@
+driving(0.139)
+hitchhiking(0.052)
+sneezing(0.034)
+riding(0.033)
+steering(0.030)

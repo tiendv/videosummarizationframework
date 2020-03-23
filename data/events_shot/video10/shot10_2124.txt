@@ -1,0 +1,5 @@
+bouncing(0.329)
+jumping(0.079)
+flying(0.033)
+twisting(0.023)
+floating(0.019)

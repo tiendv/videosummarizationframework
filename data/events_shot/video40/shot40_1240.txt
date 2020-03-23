@@ -1,0 +1,5 @@
+walking(0.084)
+standing(0.074)
+guarding(0.051)
+turning(0.028)
+whistling(0.023)

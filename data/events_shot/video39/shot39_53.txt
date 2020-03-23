@@ -1,0 +1,5 @@
+asking(0.075)
+filming(0.053)
+photographing(0.045)
+adult+male+speaking(0.043)
+standing(0.038)

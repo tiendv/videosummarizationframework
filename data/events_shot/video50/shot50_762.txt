@@ -1,0 +1,5 @@
+laughing(0.707)
+giggling(0.103)
+smiling(0.023)
+grinning(0.019)
+eating(0.013)

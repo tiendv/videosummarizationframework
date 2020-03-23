@@ -1,0 +1,5 @@
+bowling(0.959)
+bowing(0.004)
+kicking(0.001)
+aiming(0.001)
+dropping(0.001)

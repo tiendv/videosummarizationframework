@@ -1,0 +1,5 @@
+walking(0.101)
+slapping(0.061)
+entering(0.054)
+marrying(0.052)
+exiting(0.045)

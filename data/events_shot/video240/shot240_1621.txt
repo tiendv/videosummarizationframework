@@ -1,0 +1,5 @@
+crying(0.239)
+slapping(0.201)
+frowning(0.050)
+sneezing(0.038)
+pointing(0.029)

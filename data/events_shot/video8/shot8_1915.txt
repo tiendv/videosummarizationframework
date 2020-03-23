@@ -1,0 +1,5 @@
+reading(0.828)
+tapping(0.013)
+studying(0.010)
+tearing(0.005)
+discussing(0.005)

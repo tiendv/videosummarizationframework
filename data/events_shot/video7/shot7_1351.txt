@@ -1,0 +1,5 @@
+opening(0.325)
+closing(0.150)
+wrapping(0.045)
+sneezing(0.039)
+unpacking(0.037)

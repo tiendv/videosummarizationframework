@@ -1,0 +1,5 @@
+filming(0.073)
+slapping(0.059)
+punching(0.056)
+fighting(0.046)
+adult+male+speaking(0.044)

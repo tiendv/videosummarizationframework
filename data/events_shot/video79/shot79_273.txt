@@ -1,0 +1,5 @@
+clipping(0.109)
+hugging(0.069)
+fighting(0.050)
+adult+male+speaking(0.042)
+sleeping(0.033)

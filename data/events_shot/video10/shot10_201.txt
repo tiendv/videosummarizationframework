@@ -1,0 +1,5 @@
+locking(0.592)
+knocking(0.138)
+repairing(0.046)
+hanging(0.031)
+opening(0.022)

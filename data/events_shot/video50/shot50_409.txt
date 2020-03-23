@@ -1,0 +1,5 @@
+filming(0.050)
+sitting(0.043)
+smiling(0.034)
+standing(0.022)
+walking(0.022)

@@ -1,0 +1,5 @@
+slapping(0.669)
+hugging(0.051)
+punching(0.044)
+carrying(0.020)
+shrugging(0.018)

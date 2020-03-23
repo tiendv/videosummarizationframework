@@ -1,0 +1,5 @@
+hugging(0.091)
+filming(0.081)
+pointing(0.057)
+aiming(0.053)
+walking(0.040)

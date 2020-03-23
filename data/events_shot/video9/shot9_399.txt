@@ -1,0 +1,5 @@
+adult+female+singing(0.214)
+adult+male+singing(0.041)
+smoking(0.033)
+attacking(0.024)
+playing+videogames(0.024)

@@ -1,0 +1,5 @@
+sneezing(0.223)
+smoking(0.154)
+coughing(0.100)
+crying(0.073)
+praying(0.042)

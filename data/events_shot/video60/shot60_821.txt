@@ -1,0 +1,5 @@
+adult+male+speaking(0.160)
+adult+female+speaking(0.070)
+laughing(0.056)
+smiling(0.049)
+telephoning(0.041)

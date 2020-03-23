@@ -1,0 +1,5 @@
+adult+male+speaking(0.204)
+tapping(0.175)
+reaching(0.029)
+stretching(0.026)
+rubbing(0.019)

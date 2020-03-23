@@ -1,0 +1,5 @@
+walking(0.156)
+slapping(0.045)
+standing(0.042)
+raining(0.025)
+smiling(0.023)

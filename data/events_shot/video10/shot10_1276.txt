@@ -1,0 +1,5 @@
+slapping(0.052)
+adult+female+speaking(0.045)
+sneezing(0.025)
+drinking(0.024)
+spraying(0.017)

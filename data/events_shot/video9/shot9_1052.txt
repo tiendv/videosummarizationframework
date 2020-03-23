@@ -1,0 +1,5 @@
+fighting(0.292)
+punching(0.048)
+knocking(0.045)
+arresting(0.038)
+blocking(0.032)

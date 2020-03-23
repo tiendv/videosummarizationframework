@@ -1,0 +1,5 @@
+bowing(0.303)
+hugging(0.076)
+kissing(0.066)
+walking(0.020)
+sleeping(0.019)

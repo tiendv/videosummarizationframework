@@ -1,0 +1,5 @@
+knocking(0.959)
+locking(0.005)
+punching(0.001)
+opening(0.001)
+screwing(0.001)

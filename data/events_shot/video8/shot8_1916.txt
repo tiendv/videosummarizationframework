@@ -1,0 +1,5 @@
+reading(0.130)
+tearing(0.096)
+adult+female+speaking(0.067)
+discussing(0.046)
+sitting(0.022)

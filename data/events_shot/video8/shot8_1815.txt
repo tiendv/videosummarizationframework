@@ -1,0 +1,5 @@
+adult+male+speaking(0.060)
+loading(0.045)
+blocking(0.032)
+stacking(0.024)
+standing(0.017)

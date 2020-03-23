@@ -1,0 +1,5 @@
+asking(0.100)
+interviewing(0.093)
+discussing(0.077)
+adult+male+speaking(0.061)
+throwing(0.039)

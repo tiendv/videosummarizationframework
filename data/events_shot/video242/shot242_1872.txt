@@ -1,0 +1,5 @@
+reading(0.068)
+turning(0.045)
+hugging(0.043)
+talking(0.031)
+sleeping(0.029)

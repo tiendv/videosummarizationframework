@@ -1,0 +1,5 @@
+waking(0.048)
+kissing(0.044)
+hugging(0.036)
+cuddling(0.031)
+filming(0.028)

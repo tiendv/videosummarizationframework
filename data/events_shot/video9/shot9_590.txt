@@ -1,0 +1,5 @@
+guarding(0.052)
+steering(0.049)
+arresting(0.034)
+talking(0.032)
+driving(0.029)

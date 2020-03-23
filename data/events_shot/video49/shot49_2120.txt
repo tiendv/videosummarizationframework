@@ -1,0 +1,5 @@
+adult+female+singing(0.111)
+burning(0.070)
+adult+female+speaking(0.063)
+covering(0.053)
+talking(0.041)

@@ -1,0 +1,5 @@
+handwriting(0.250)
+gripping(0.130)
+telephoning(0.051)
+calling(0.042)
+writing(0.039)

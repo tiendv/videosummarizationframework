@@ -1,0 +1,5 @@
+queuing(0.092)
+adult+female+speaking(0.061)
+discussing(0.034)
+hugging(0.031)
+sitting(0.025)

@@ -1,0 +1,5 @@
+painting(0.090)
+brushing(0.049)
+adult+male+speaking(0.045)
+pointing(0.041)
+knocking(0.030)

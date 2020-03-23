@@ -1,0 +1,5 @@
+adult+male+speaking(0.032)
+blocking(0.030)
+asking(0.027)
+measuring(0.025)
+hammering(0.022)

@@ -1,0 +1,5 @@
+building(0.195)
+storming(0.059)
+constructing(0.046)
+cleaning(0.038)
+fencing(0.035)

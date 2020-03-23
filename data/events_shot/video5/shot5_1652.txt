@@ -1,0 +1,5 @@
+punching(0.087)
+aiming(0.050)
+shooting(0.044)
+adult+male+speaking(0.044)
+playing+videogames(0.038)

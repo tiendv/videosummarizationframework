@@ -1,0 +1,5 @@
+hanging(0.082)
+standing(0.037)
+preaching(0.028)
+filming(0.022)
+adult+male+speaking(0.022)

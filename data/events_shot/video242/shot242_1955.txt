@@ -1,0 +1,5 @@
+selling(0.043)
+cracking(0.032)
+wrestling(0.029)
+buying(0.025)
+gambling(0.024)

@@ -1,0 +1,5 @@
+walking(0.387)
+slapping(0.046)
+standing(0.037)
+kissing(0.032)
+filming(0.029)

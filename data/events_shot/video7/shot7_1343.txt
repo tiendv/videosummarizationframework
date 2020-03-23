@@ -1,0 +1,5 @@
+spinning(0.236)
+slapping(0.136)
+turning(0.075)
+kissing(0.048)
+punching(0.048)

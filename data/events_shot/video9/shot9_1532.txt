@@ -1,0 +1,5 @@
+slapping(0.280)
+sneezing(0.053)
+adult+female+speaking(0.039)
+asking(0.027)
+standing(0.019)

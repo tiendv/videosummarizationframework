@@ -1,0 +1,5 @@
+cracking(0.123)
+adult+male+speaking(0.049)
+laughing(0.036)
+slapping(0.031)
+hugging(0.021)

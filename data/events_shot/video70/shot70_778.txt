@@ -1,0 +1,5 @@
+adult+male+speaking(0.119)
+guarding(0.070)
+discussing(0.055)
+arresting(0.041)
+standing(0.036)

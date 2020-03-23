@@ -1,0 +1,5 @@
+cleaning(0.397)
+washing(0.062)
+scrubbing(0.054)
+rinsing(0.033)
+tattooing(0.025)

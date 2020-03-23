@@ -1,0 +1,5 @@
+autographing(0.286)
+signing(0.132)
+writing(0.099)
+handwriting(0.079)
+asking(0.031)

@@ -1,0 +1,5 @@
+hugging(0.043)
+packing(0.026)
+dipping(0.024)
+unpacking(0.022)
+drinking(0.021)

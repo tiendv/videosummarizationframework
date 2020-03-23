@@ -1,0 +1,5 @@
+opening(0.059)
+cooking(0.052)
+stirring(0.038)
+closing(0.026)
+baking(0.024)

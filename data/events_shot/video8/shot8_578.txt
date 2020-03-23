@@ -1,0 +1,5 @@
+adult+female+singing(0.076)
+driving(0.047)
+singing(0.046)
+riding(0.038)
+adult+male+singing(0.037)

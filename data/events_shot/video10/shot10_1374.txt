@@ -1,0 +1,5 @@
+talking(0.063)
+chewing(0.059)
+scratching(0.058)
+rubbing(0.048)
+brushing(0.045)

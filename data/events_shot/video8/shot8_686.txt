@@ -1,0 +1,5 @@
+raining(0.047)
+flooding(0.046)
+storming(0.033)
+walking(0.030)
+laughing(0.024)

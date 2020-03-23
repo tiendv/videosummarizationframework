@@ -1,0 +1,5 @@
+pointing(0.050)
+aiming(0.033)
+sitting(0.026)
+shooting(0.022)
+discussing(0.022)

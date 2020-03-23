@@ -1,0 +1,5 @@
+queuing(0.222)
+hugging(0.100)
+filming(0.046)
+arresting(0.042)
+walking(0.038)

@@ -1,0 +1,5 @@
+sitting(0.058)
+standing(0.041)
+performing(0.036)
+adult+female+singing(0.030)
+reading(0.027)

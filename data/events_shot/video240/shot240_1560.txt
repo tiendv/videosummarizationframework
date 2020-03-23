@@ -1,0 +1,5 @@
+brushing(0.143)
+child+speaking(0.098)
+slapping(0.072)
+clapping(0.050)
+snapping(0.028)

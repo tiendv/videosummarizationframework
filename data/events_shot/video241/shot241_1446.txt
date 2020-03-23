@@ -1,0 +1,5 @@
+frowning(0.130)
+discussing(0.044)
+slapping(0.035)
+asking(0.031)
+interviewing(0.030)

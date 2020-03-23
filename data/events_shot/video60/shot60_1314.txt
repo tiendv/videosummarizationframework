@@ -1,0 +1,5 @@
+flying(0.072)
+spinning(0.046)
+climbing(0.042)
+piloting(0.041)
+landing(0.041)

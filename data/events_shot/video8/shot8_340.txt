@@ -1,0 +1,5 @@
+hanging(0.078)
+standing(0.039)
+laughing(0.029)
+climbing(0.023)
+walking(0.023)

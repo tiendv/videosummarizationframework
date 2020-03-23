@@ -1,0 +1,5 @@
+adult+female+speaking(0.105)
+laughing(0.094)
+standing(0.061)
+adult+female+singing(0.048)
+preaching(0.045)

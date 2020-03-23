@@ -1,0 +1,5 @@
+slapping(0.393)
+pointing(0.085)
+snapping(0.055)
+adult+male+speaking(0.036)
+punching(0.021)

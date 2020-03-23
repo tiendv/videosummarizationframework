@@ -1,0 +1,5 @@
+walking(0.085)
+kissing(0.042)
+entering(0.036)
+placing(0.032)
+rolling(0.027)

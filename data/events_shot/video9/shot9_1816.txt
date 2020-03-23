@@ -1,0 +1,5 @@
+walking(0.605)
+pushing(0.065)
+playing+videogames(0.038)
+running(0.031)
+knocking(0.030)

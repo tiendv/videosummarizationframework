@@ -1,0 +1,5 @@
+child+speaking(0.131)
+child+singing(0.117)
+bowing(0.066)
+kneeling(0.054)
+opening(0.033)

@@ -1,0 +1,5 @@
+hugging(0.095)
+calling(0.038)
+photographing(0.036)
+standing(0.035)
+drinking(0.035)

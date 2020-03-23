@@ -1,0 +1,5 @@
+hanging(0.054)
+filming(0.051)
+pointing(0.035)
+adult+male+speaking(0.035)
+talking(0.031)

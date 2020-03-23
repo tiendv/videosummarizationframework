@@ -1,0 +1,5 @@
+discussing(0.055)
+painting(0.040)
+sitting(0.036)
+adult+male+speaking(0.031)
+dusting(0.027)

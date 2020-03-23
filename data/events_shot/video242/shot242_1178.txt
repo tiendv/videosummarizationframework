@@ -1,0 +1,7 @@
+walking(0.078)
+crying(0.051)
+drinking(0.047)
+smiling(0.038)
+hugging(0.031)
+
+starting(0.036)

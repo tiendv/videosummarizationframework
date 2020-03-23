@@ -1,0 +1,5 @@
+walking(0.239)
+fencing(0.096)
+standing(0.081)
+bowing(0.075)
+officiating(0.029)

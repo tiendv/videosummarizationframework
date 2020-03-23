@@ -1,0 +1,5 @@
+painting(0.330)
+tattooing(0.046)
+drawing(0.042)
+filming(0.022)
+standing(0.019)

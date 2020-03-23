@@ -1,0 +1,5 @@
+stacking(0.052)
+slapping(0.036)
+laughing(0.036)
+sneezing(0.032)
+coughing(0.019)

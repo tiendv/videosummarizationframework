@@ -1,0 +1,5 @@
+coaching(0.389)
+officiating(0.096)
+adult+male+speaking(0.080)
+throwing(0.067)
+playing+sports(0.043)

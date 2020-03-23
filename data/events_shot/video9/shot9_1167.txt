@@ -1,0 +1,5 @@
+dining(0.301)
+discussing(0.106)
+adult+male+speaking(0.059)
+talking(0.041)
+gambling(0.035)

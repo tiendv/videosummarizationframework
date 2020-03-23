@@ -1,0 +1,5 @@
+tapping(0.134)
+hugging(0.125)
+brushing(0.121)
+combing(0.043)
+discussing(0.023)

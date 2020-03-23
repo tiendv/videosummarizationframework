@@ -1,0 +1,5 @@
+adult+female+speaking(0.083)
+telephoning(0.060)
+standing(0.036)
+talking(0.032)
+imitating(0.028)

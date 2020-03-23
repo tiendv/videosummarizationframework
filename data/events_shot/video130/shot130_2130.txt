@@ -1,0 +1,5 @@
+flicking(0.058)
+slapping(0.056)
+throwing(0.042)
+walking(0.041)
+hugging(0.037)

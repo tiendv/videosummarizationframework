@@ -1,0 +1,5 @@
+rising(0.235)
+playing+videogames(0.101)
+ascending(0.092)
+descending(0.037)
+adult+male+speaking(0.036)

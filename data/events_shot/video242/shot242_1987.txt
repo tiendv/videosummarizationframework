@@ -1,0 +1,5 @@
+pointing(0.064)
+starting(0.034)
+stealing(0.032)
+hitchhiking(0.032)
+adult+male+speaking(0.029)

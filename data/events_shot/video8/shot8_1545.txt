@@ -1,0 +1,5 @@
+sneezing(0.275)
+coughing(0.164)
+imitating(0.084)
+child+speaking(0.038)
+laughing(0.027)

@@ -1,0 +1,5 @@
+cleaning(0.167)
+painting(0.048)
+cooking(0.039)
+washing(0.035)
+dusting(0.031)

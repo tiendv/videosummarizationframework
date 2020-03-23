@@ -1,0 +1,5 @@
+waking(0.655)
+sleeping(0.216)
+resting(0.054)
+sneezing(0.011)
+yawning(0.009)

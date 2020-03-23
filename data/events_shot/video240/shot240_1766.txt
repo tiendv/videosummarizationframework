@@ -1,0 +1,5 @@
+adult+female+speaking(0.592)
+adult+female+singing(0.041)
+reading(0.031)
+bowling(0.013)
+asking(0.013)

@@ -1,0 +1,5 @@
+clipping(0.065)
+slapping(0.048)
+frowning(0.042)
+winking(0.031)
+talking(0.027)

@@ -1,0 +1,5 @@
+gambling(0.761)
+discussing(0.021)
+adult+male+speaking(0.013)
+aiming(0.012)
+dining(0.010)

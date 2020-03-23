@@ -1,0 +1,5 @@
+smoking(0.120)
+adult+female+singing(0.081)
+baptizing(0.068)
+lifting(0.046)
+adult+male+singing(0.046)

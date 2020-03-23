@@ -1,0 +1,5 @@
+bowling(0.116)
+adult+male+speaking(0.092)
+lecturing(0.080)
+aiming(0.071)
+coaching(0.025)

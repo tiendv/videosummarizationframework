@@ -1,0 +1,5 @@
+adult+male+speaking(0.113)
+coaching(0.089)
+discussing(0.089)
+arresting(0.047)
+smiling(0.033)

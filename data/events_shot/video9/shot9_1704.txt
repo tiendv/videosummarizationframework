@@ -1,0 +1,5 @@
+filming(0.083)
+discussing(0.079)
+interviewing(0.055)
+talking(0.046)
+calling(0.043)

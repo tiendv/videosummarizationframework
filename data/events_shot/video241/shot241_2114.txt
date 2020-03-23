@@ -1,0 +1,5 @@
+adult+male+speaking(0.061)
+driving(0.033)
+talking(0.026)
+aiming(0.022)
+standing(0.021)

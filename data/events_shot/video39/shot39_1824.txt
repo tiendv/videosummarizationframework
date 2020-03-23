@@ -1,0 +1,5 @@
+drinking(0.923)
+sneezing(0.006)
+spitting(0.005)
+smelling(0.004)
+eating(0.003)

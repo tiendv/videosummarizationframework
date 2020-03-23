@@ -1,0 +1,5 @@
+asking(0.196)
+walking(0.121)
+jogging(0.106)
+hiking(0.099)
+slapping(0.061)

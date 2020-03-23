@@ -1,0 +1,5 @@
+fighting(0.206)
+gambling(0.116)
+punching(0.080)
+knocking(0.071)
+throwing(0.044)

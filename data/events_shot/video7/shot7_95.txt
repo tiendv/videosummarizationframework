@@ -1,0 +1,5 @@
+performing(0.161)
+standing(0.139)
+dancing(0.071)
+singing(0.056)
+walking(0.054)

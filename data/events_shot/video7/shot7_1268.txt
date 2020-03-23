@@ -1,0 +1,5 @@
+bowling(0.814)
+aiming(0.075)
+competing(0.010)
+gambling(0.010)
+adult+male+speaking(0.009)

@@ -1,0 +1,5 @@
+clapping(0.050)
+adult+male+speaking(0.045)
+running(0.040)
+knocking(0.039)
+standing(0.039)

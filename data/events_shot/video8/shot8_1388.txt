@@ -1,0 +1,5 @@
+adult+female+speaking(0.100)
+asking(0.085)
+adult+male+speaking(0.035)
+giving(0.022)
+taping(0.021)

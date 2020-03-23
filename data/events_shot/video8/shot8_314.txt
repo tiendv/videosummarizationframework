@@ -1,0 +1,5 @@
+walking(0.160)
+marrying(0.075)
+hugging(0.067)
+carrying(0.032)
+exiting(0.030)

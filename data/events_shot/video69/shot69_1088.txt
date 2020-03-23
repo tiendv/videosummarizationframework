@@ -1,0 +1,5 @@
+walking(0.057)
+running(0.046)
+working(0.035)
+building(0.024)
+talking(0.020)

@@ -1,0 +1,5 @@
+dining(0.059)
+laughing(0.043)
+officiating(0.040)
+standing(0.036)
+serving(0.025)

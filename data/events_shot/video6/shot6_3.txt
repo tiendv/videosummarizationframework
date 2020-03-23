@@ -1,0 +1,5 @@
+spinning(0.461)
+rolling(0.038)
+playing+music(0.037)
+roaring(0.030)
+turning(0.027)

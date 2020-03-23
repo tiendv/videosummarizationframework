@@ -1,0 +1,5 @@
+adult+male+speaking(0.092)
+laughing(0.037)
+adult+female+speaking(0.023)
+standing(0.021)
+shaving(0.020)

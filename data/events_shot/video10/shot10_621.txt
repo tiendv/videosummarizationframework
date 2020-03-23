@@ -1,0 +1,5 @@
+squatting(0.035)
+gripping(0.034)
+raising(0.033)
+lifting(0.023)
+adult+male+speaking(0.022)

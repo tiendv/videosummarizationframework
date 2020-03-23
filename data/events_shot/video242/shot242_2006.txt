@@ -1,0 +1,5 @@
+aiming(0.072)
+pointing(0.053)
+spitting(0.039)
+smelling(0.035)
+coaching(0.033)

@@ -1,0 +1,5 @@
+waking(0.150)
+calling(0.101)
+telephoning(0.059)
+snowing(0.054)
+sleeping(0.041)

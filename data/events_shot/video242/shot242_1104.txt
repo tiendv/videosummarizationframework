@@ -1,0 +1,5 @@
+pointing(0.081)
+talking(0.081)
+walking(0.053)
+adult+male+speaking(0.042)
+playing+videogames(0.040)

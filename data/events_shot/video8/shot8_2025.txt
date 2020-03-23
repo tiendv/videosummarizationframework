@@ -1,0 +1,5 @@
+adult+female+singing(0.203)
+drying(0.133)
+adult+male+singing(0.071)
+kissing(0.050)
+reaching(0.018)

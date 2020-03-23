@@ -1,0 +1,5 @@
+adult+male+speaking(0.040)
+laughing(0.030)
+sitting(0.026)
+handcuffing(0.020)
+walking(0.020)

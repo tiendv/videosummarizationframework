@@ -1,0 +1,5 @@
+running(0.083)
+building(0.039)
+fighting(0.033)
+bouncing(0.031)
+walking(0.030)

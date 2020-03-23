@@ -1,0 +1,5 @@
+slapping(0.331)
+walking(0.215)
+waving(0.042)
+exiting(0.036)
+sneezing(0.030)

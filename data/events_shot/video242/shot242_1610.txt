@@ -1,0 +1,6 @@
+filming(0.037)
+aiming(0.034)
+discussing(0.034)
+queuing(0.033)
+talking(0.024)
+peaking(0.047)

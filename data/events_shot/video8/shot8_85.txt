@@ -1,0 +1,5 @@
+whistling(0.121)
+knocking(0.061)
+slapping(0.056)
+tying(0.046)
+standing(0.029)

@@ -1,0 +1,5 @@
+pressing(0.081)
+coaching(0.075)
+smiling(0.072)
+shrugging(0.067)
+pushing(0.057)

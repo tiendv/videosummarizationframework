@@ -1,0 +1,5 @@
+bowling(0.774)
+adult+male+speaking(0.017)
+hitting(0.009)
+smashing(0.008)
+aiming(0.008)

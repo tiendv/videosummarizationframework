@@ -1,0 +1,5 @@
+hammering(0.083)
+adult+male+speaking(0.072)
+sneezing(0.031)
+crying(0.027)
+slapping(0.026)

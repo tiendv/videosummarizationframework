@@ -1,0 +1,5 @@
+walking(0.308)
+exiting(0.043)
+sliding(0.034)
+entering(0.029)
+climbing(0.025)

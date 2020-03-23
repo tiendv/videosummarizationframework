@@ -1,0 +1,5 @@
+standing(0.060)
+cooking(0.057)
+baking(0.033)
+shopping(0.028)
+adult+male+speaking(0.020)

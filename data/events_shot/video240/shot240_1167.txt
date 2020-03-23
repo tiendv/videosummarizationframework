@@ -1,0 +1,5 @@
+hugging(0.135)
+smiling(0.048)
+talking(0.046)
+discussing(0.027)
+filming(0.027)

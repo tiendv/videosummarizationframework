@@ -1,0 +1,5 @@
+frowning(0.076)
+arresting(0.056)
+aiming(0.048)
+pointing(0.047)
+discussing(0.043)

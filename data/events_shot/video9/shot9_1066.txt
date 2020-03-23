@@ -1,0 +1,5 @@
+adult+male+speaking(0.472)
+gripping(0.040)
+discussing(0.039)
+officiating(0.022)
+asking(0.020)

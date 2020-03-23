@@ -1,0 +1,5 @@
+adult+male+speaking(0.223)
+talking(0.045)
+arresting(0.044)
+cracking(0.032)
+slapping(0.027)

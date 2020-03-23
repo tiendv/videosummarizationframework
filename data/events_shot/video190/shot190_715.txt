@@ -1,0 +1,5 @@
+smoking(0.570)
+burning(0.063)
+sneezing(0.040)
+spitting(0.016)
+coughing(0.012)

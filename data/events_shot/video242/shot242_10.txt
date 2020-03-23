@@ -1,0 +1,5 @@
+arresting(0.412)
+closing(0.093)
+fueling(0.070)
+exiting(0.062)
+opening(0.061)

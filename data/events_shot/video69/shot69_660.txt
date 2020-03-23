@@ -1,0 +1,5 @@
+applauding(0.055)
+protesting(0.052)
+standing(0.046)
+interviewing(0.033)
+hugging(0.031)

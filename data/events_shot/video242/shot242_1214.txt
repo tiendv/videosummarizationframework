@@ -1,0 +1,6 @@
+dining(0.244)
+drinking(0.180)
+eating(0.083)
+sitting(0.020)
+fighting(0.018)
+rising(0.029)

@@ -1,0 +1,5 @@
+kissing(0.049)
+hugging(0.040)
+calling(0.028)
+walking(0.025)
+photographing(0.025)

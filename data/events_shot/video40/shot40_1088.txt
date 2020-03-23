@@ -1,0 +1,5 @@
+fencing(0.593)
+adult+male+speaking(0.025)
+asking(0.021)
+slapping(0.014)
+throwing(0.012)

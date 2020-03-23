@@ -1,0 +1,5 @@
+child+speaking(0.048)
+painting(0.029)
+sneezing(0.024)
+shaving(0.024)
+spraying(0.023)

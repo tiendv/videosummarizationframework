@@ -1,0 +1,5 @@
+drinking(0.089)
+spitting(0.029)
+laughing(0.026)
+adult+male+speaking(0.024)
+hugging(0.021)

@@ -1,0 +1,5 @@
+saluting(0.044)
+standing(0.034)
+inflating(0.031)
+whistling(0.027)
+drinking(0.027)

@@ -1,0 +1,5 @@
+bowling(0.915)
+aiming(0.014)
+rolling(0.013)
+bouncing(0.004)
+smashing(0.003)

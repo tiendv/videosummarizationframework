@@ -1,0 +1,5 @@
+telephoning(0.617)
+calling(0.241)
+photographing(0.073)
+filming(0.054)
+smiling(0.001)

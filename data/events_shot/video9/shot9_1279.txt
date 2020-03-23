@@ -1,0 +1,5 @@
+smoking(0.077)
+asking(0.069)
+hugging(0.055)
+adult+female+singing(0.039)
+adult+female+speaking(0.034)

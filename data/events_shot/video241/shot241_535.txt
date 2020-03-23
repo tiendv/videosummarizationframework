@@ -1,0 +1,5 @@
+adult+male+speaking(0.044)
+clipping(0.025)
+talking(0.025)
+starting(0.022)
+smiling(0.021)

@@ -1,0 +1,5 @@
+cleaning(0.160)
+dusting(0.055)
+removing(0.052)
+painting(0.049)
+working(0.033)

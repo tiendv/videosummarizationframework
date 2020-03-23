@@ -1,0 +1,5 @@
+hugging(0.303)
+autographing(0.037)
+adult+male+speaking(0.029)
+slapping(0.029)
+coaching(0.028)

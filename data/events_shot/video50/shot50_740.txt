@@ -1,0 +1,5 @@
+marrying(0.031)
+walking(0.023)
+turning(0.022)
+standing(0.017)
+filming(0.016)

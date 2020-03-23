@@ -1,0 +1,5 @@
+carrying(0.038)
+talking(0.037)
+raising(0.036)
+adult+male+speaking(0.035)
+playing+videogames(0.034)

@@ -1,0 +1,5 @@
+driving(0.086)
+arresting(0.048)
+exiting(0.042)
+piloting(0.039)
+closing(0.038)

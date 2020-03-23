@@ -1,0 +1,5 @@
+marrying(0.165)
+walking(0.128)
+adult+female+speaking(0.042)
+smiling(0.032)
+exiting(0.030)

@@ -1,0 +1,5 @@
+adult+male+singing(0.050)
+sneezing(0.048)
+adult+male+speaking(0.026)
+stacking(0.026)
+standing(0.026)

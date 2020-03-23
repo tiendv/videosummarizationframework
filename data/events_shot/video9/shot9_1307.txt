@@ -1,0 +1,5 @@
+standing(0.046)
+filming(0.033)
+adult+male+speaking(0.031)
+drying(0.026)
+walking(0.020)

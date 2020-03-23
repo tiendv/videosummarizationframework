@@ -1,0 +1,5 @@
+punching(0.110)
+boxing(0.039)
+painting(0.024)
+spraying(0.020)
+shopping(0.018)

@@ -1,0 +1,5 @@
+boating(0.095)
+landing(0.079)
+fishing(0.070)
+painting(0.056)
+rising(0.056)

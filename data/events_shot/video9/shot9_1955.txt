@@ -1,0 +1,5 @@
+kissing(0.499)
+hugging(0.104)
+arresting(0.062)
+walking(0.031)
+slapping(0.018)

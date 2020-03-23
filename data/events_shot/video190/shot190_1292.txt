@@ -1,0 +1,5 @@
+exiting(0.314)
+closing(0.089)
+opening(0.084)
+entering(0.057)
+fueling(0.055)

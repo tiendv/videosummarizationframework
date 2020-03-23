@@ -1,0 +1,5 @@
+adult+male+speaking(0.075)
+fencing(0.069)
+bowing(0.054)
+adult+male+singing(0.046)
+standing(0.042)

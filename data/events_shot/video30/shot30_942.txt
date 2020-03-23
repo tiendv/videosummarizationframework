@@ -1,0 +1,5 @@
+shaving(0.068)
+drinking(0.052)
+roaring(0.051)
+attacking(0.050)
+adult+male+singing(0.036)

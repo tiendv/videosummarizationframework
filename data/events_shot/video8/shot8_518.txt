@@ -1,0 +1,5 @@
+applauding(0.084)
+marrying(0.081)
+shaking(0.050)
+adult+male+speaking(0.048)
+officiating(0.044)

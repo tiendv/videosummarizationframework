@@ -1,0 +1,5 @@
+slapping(0.234)
+punching(0.069)
+pointing(0.053)
+knocking(0.036)
+shooting(0.033)

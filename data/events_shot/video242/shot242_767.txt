@@ -1,0 +1,5 @@
+walking(0.066)
+guarding(0.063)
+opening(0.063)
+closing(0.057)
+exiting(0.045)

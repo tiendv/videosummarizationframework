@@ -1,0 +1,5 @@
+adult+female+speaking(0.151)
+hitchhiking(0.085)
+asking(0.053)
+drying(0.037)
+washing(0.028)

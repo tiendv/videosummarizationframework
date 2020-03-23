@@ -1,0 +1,5 @@
+slapping(0.217)
+punching(0.045)
+hugging(0.039)
+coaching(0.036)
+asking(0.036)

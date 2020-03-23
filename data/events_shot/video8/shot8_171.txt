@@ -1,0 +1,5 @@
+exiting(0.058)
+adult+female+speaking(0.053)
+fencing(0.040)
+standing(0.036)
+adult+male+speaking(0.035)

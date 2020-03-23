@@ -1,0 +1,5 @@
+adult+female+singing(0.123)
+marrying(0.049)
+adult+female+speaking(0.046)
+hanging(0.039)
+roaring(0.037)

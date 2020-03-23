@@ -1,0 +1,5 @@
+adult+female+speaking(0.056)
+mopping(0.025)
+painting(0.022)
+discussing(0.021)
+talking(0.021)

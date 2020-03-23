@@ -1,0 +1,5 @@
+starting(0.043)
+sitting(0.039)
+filming(0.025)
+adult+male+singing(0.024)
+standing(0.023)

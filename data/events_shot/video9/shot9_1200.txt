@@ -1,0 +1,5 @@
+arresting(0.419)
+handcuffing(0.069)
+exiting(0.061)
+asking(0.056)
+walking(0.029)

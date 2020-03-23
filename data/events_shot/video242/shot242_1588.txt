@@ -1,0 +1,5 @@
+sitting(0.052)
+discussing(0.036)
+adult+male+speaking(0.028)
+painting(0.024)
+leaning(0.021)

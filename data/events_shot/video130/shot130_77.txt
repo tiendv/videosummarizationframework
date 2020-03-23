@@ -1,0 +1,5 @@
+painting(0.246)
+tattooing(0.062)
+drawing(0.041)
+standing(0.021)
+adult+female+singing(0.020)

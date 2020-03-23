@@ -1,0 +1,5 @@
+crafting(0.047)
+sketching(0.046)
+taping(0.034)
+writing(0.031)
+painting(0.026)

@@ -1,0 +1,5 @@
+crying(0.298)
+slapping(0.048)
+walking(0.035)
+carrying(0.029)
+bowing(0.019)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.047)
+raising(0.040)
+standing(0.035)
+shrugging(0.030)
+adult+female+speaking(0.029)

@@ -1,0 +1,5 @@
+hugging(0.066)
+spinning(0.060)
+walking(0.032)
+filming(0.032)
+cuddling(0.030)

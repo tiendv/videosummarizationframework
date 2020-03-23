@@ -1,0 +1,5 @@
+kissing(0.071)
+telephoning(0.040)
+hugging(0.040)
+sitting(0.026)
+laughing(0.024)

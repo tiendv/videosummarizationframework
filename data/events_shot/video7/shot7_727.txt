@@ -1,0 +1,5 @@
+stacking(0.083)
+walking(0.066)
+running(0.052)
+adult+male+speaking(0.042)
+asking(0.041)

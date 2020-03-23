@@ -1,0 +1,5 @@
+waking(0.046)
+filming(0.031)
+snowing(0.023)
+photographing(0.022)
+sneezing(0.020)

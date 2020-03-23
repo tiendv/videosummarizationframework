@@ -1,0 +1,5 @@
+hugging(0.117)
+mopping(0.057)
+standing(0.037)
+adult+male+speaking(0.036)
+adult+female+speaking(0.029)

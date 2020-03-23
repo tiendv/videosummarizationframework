@@ -1,0 +1,5 @@
+kissing(0.271)
+hugging(0.186)
+marrying(0.035)
+filming(0.035)
+smiling(0.028)

@@ -1,0 +1,5 @@
+rolling(0.063)
+hanging(0.059)
+putting(0.055)
+drying(0.054)
+placing(0.048)

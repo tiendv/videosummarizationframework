@@ -1,0 +1,5 @@
+arresting(0.098)
+protesting(0.082)
+guarding(0.063)
+marching(0.048)
+stealing(0.031)

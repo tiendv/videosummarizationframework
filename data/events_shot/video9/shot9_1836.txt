@@ -1,0 +1,5 @@
+dining(0.057)
+clapping(0.042)
+standing(0.038)
+sitting(0.034)
+discussing(0.033)

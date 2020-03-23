@@ -1,0 +1,5 @@
+stealing(0.157)
+working(0.080)
+arresting(0.071)
+standing(0.044)
+walking(0.043)

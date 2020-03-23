@@ -1,0 +1,5 @@
+climbing(0.471)
+running(0.211)
+jumping(0.049)
+bicycling(0.038)
+ascending(0.022)

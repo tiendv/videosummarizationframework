@@ -1,0 +1,5 @@
+telephoning(0.740)
+calling(0.235)
+waking(0.002)
+adult+male+speaking(0.002)
+sleeping(0.001)

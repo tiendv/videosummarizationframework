@@ -1,0 +1,5 @@
+walking(0.335)
+exiting(0.123)
+arresting(0.061)
+filming(0.060)
+entering(0.040)

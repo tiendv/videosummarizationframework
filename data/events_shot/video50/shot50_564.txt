@@ -1,0 +1,5 @@
+handcuffing(0.054)
+locking(0.052)
+knocking(0.032)
+arresting(0.030)
+fighting(0.028)

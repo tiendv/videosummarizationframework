@@ -1,0 +1,5 @@
+drinking(0.198)
+shaving(0.047)
+tattooing(0.036)
+cooking(0.031)
+smoking(0.024)

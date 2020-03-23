@@ -1,0 +1,5 @@
+walking(0.086)
+drying(0.071)
+loading(0.058)
+unloading(0.042)
+washing(0.035)

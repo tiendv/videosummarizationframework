@@ -1,0 +1,5 @@
+selling(0.210)
+shopping(0.130)
+talking(0.109)
+sitting(0.050)
+standing(0.050)

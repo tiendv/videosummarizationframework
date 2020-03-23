@@ -1,0 +1,5 @@
+clipping(0.123)
+snowing(0.095)
+talking(0.069)
+playing+videogames(0.047)
+raining(0.041)

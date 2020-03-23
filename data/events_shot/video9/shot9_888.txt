@@ -1,0 +1,5 @@
+adult+male+speaking(0.096)
+discussing(0.072)
+fighting(0.068)
+dining(0.063)
+talking(0.058)

@@ -1,0 +1,5 @@
+knocking(0.059)
+smiling(0.050)
+saluting(0.042)
+pointing(0.041)
+standing(0.036)

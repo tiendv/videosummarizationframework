@@ -1,0 +1,5 @@
+signing(0.097)
+snapping(0.051)
+adult+female+speaking(0.048)
+slapping(0.032)
+interviewing(0.030)

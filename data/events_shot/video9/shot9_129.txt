@@ -1,0 +1,5 @@
+marrying(0.077)
+dressing(0.059)
+standing(0.053)
+laughing(0.038)
+adult+female+speaking(0.034)

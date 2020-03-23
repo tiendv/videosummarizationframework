@@ -1,0 +1,5 @@
+officiating(0.100)
+bowing(0.082)
+praying(0.047)
+adult+male+speaking(0.041)
+queuing(0.040)

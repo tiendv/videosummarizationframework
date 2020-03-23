@@ -1,0 +1,5 @@
+adult+male+speaking(0.147)
+discussing(0.066)
+praying(0.059)
+sitting(0.046)
+coughing(0.036)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.082)
+talking(0.074)
+sitting(0.060)
+coaching(0.057)
+starting(0.038)

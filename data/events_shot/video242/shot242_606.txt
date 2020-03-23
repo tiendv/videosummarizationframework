@@ -1,0 +1,5 @@
+talking(0.033)
+adult+male+speaking(0.028)
+sneezing(0.026)
+laughing(0.025)
+hugging(0.023)

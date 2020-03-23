@@ -1,0 +1,5 @@
+arresting(0.089)
+driving(0.061)
+stealing(0.052)
+asking(0.046)
+hitchhiking(0.042)

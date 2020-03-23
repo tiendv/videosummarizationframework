@@ -1,0 +1,5 @@
+sneezing(0.093)
+adult+female+speaking(0.062)
+kissing(0.061)
+laughing(0.060)
+hugging(0.058)

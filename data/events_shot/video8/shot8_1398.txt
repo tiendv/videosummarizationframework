@@ -1,0 +1,5 @@
+cooking(0.211)
+baking(0.170)
+talking(0.042)
+child+speaking(0.028)
+standing(0.023)

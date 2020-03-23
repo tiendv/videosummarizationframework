@@ -1,0 +1,5 @@
+laughing(0.707)
+giggling(0.026)
+adult+male+speaking(0.026)
+discussing(0.012)
+standing(0.012)

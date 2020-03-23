@@ -1,0 +1,5 @@
+adult+female+speaking(0.082)
+packing(0.072)
+unpacking(0.059)
+folding(0.023)
+adult+female+singing(0.023)

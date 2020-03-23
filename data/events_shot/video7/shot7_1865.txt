@@ -1,0 +1,5 @@
+working(0.081)
+talking(0.062)
+sitting(0.031)
+turning(0.030)
+starting(0.029)

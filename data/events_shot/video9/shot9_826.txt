@@ -1,0 +1,5 @@
+painting(0.103)
+tapping(0.063)
+brushing(0.056)
+adult+female+speaking(0.034)
+scratching(0.033)

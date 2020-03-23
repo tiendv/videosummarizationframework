@@ -1,0 +1,5 @@
+snapping(0.196)
+calling(0.155)
+telephoning(0.094)
+poking(0.063)
+pressing(0.040)

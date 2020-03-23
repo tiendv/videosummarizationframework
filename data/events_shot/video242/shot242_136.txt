@@ -1,0 +1,5 @@
+talking(0.120)
+discussing(0.108)
+interviewing(0.050)
+adult+male+speaking(0.049)
+shrugging(0.040)

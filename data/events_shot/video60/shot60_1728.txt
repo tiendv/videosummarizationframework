@@ -1,0 +1,5 @@
+dipping(0.089)
+putting(0.069)
+cleaning(0.042)
+baking(0.040)
+placing(0.034)

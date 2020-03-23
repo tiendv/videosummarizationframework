@@ -1,0 +1,5 @@
+adult+female+speaking(0.110)
+laughing(0.046)
+smelling(0.045)
+sneezing(0.041)
+sniffing(0.039)

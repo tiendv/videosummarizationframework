@@ -1,0 +1,5 @@
+mopping(0.088)
+working(0.050)
+bending(0.030)
+measuring(0.025)
+vacuuming(0.024)

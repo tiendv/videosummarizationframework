@@ -1,0 +1,5 @@
+marrying(0.354)
+smiling(0.030)
+standing(0.028)
+swinging(0.017)
+gardening(0.016)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.144)
+saluting(0.045)
+standing(0.037)
+cracking(0.029)
+squinting(0.021)

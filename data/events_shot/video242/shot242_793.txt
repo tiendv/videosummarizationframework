@@ -1,0 +1,5 @@
+slapping(0.080)
+adult+male+speaking(0.055)
+snapping(0.043)
+frowning(0.039)
+squinting(0.035)

@@ -1,0 +1,5 @@
+shooting(0.037)
+pointing(0.036)
+painting(0.031)
+aiming(0.030)
+adult+male+speaking(0.027)

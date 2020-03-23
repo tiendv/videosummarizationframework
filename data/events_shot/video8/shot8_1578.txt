@@ -1,0 +1,5 @@
+slapping(0.161)
+queuing(0.086)
+asking(0.049)
+walking(0.029)
+arresting(0.025)

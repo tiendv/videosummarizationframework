@@ -1,0 +1,5 @@
+shooting(0.037)
+filming(0.036)
+drinking(0.035)
+adult+female+singing(0.032)
+slapping(0.030)

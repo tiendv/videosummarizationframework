@@ -1,0 +1,5 @@
+exiting(0.040)
+adult+male+speaking(0.030)
+sneezing(0.027)
+working(0.027)
+slapping(0.023)

@@ -1,0 +1,5 @@
+baptizing(0.125)
+dining(0.120)
+praying(0.092)
+sitting(0.056)
+eating(0.040)

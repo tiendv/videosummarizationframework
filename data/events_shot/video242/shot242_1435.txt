@@ -1,0 +1,7 @@
+punching(0.171)
+fighting(0.167)
+knocking(0.128)
+hitting(0.069)
+boxing(0.063)
+male+singing(0.028)
+singing(0.024)

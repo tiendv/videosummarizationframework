@@ -1,0 +1,5 @@
+aiming(0.094)
+shooting(0.087)
+closing(0.056)
+steering(0.047)
+opening(0.038)

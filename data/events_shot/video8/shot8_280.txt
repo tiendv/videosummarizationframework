@@ -1,0 +1,5 @@
+dining(0.094)
+walking(0.047)
+hugging(0.038)
+fighting(0.035)
+celebrating(0.026)

@@ -1,0 +1,5 @@
+hunting(0.481)
+playing+videogames(0.048)
+guarding(0.041)
+standing(0.035)
+sitting(0.030)

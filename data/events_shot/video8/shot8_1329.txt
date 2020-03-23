@@ -1,0 +1,5 @@
+raining(0.116)
+knocking(0.065)
+talking(0.030)
+hanging(0.029)
+adult+male+speaking(0.026)

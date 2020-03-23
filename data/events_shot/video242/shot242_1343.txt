@@ -1,0 +1,5 @@
+drinking(0.151)
+crying(0.066)
+adult+female+singing(0.052)
+sneezing(0.035)
+coughing(0.029)

@@ -1,0 +1,5 @@
+waking(0.527)
+sleeping(0.072)
+resting(0.044)
+kissing(0.037)
+telephoning(0.014)

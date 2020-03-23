@@ -1,0 +1,5 @@
+slapping(0.180)
+drinking(0.057)
+sneezing(0.045)
+adult+female+singing(0.044)
+fighting(0.042)

@@ -1,0 +1,5 @@
+rising(0.038)
+plunging(0.031)
+playing+videogames(0.025)
+climbing(0.024)
+adult+female+singing(0.023)

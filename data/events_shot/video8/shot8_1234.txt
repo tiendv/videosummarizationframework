@@ -1,0 +1,5 @@
+standing(0.065)
+dressing(0.060)
+adult+male+speaking(0.037)
+bowing(0.034)
+shrugging(0.029)

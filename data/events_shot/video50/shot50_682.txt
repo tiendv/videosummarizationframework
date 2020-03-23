@@ -1,0 +1,5 @@
+walking(0.085)
+filming(0.040)
+slapping(0.038)
+working(0.035)
+attacking(0.031)

@@ -1,0 +1,5 @@
+sprinting(0.294)
+jogging(0.210)
+running(0.124)
+skipping(0.056)
+playing+sports(0.026)

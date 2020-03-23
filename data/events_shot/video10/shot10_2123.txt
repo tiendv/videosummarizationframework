@@ -1,0 +1,5 @@
+child+speaking(0.167)
+skating(0.165)
+jumping(0.040)
+standing(0.036)
+bouncing(0.033)

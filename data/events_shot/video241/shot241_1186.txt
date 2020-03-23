@@ -1,0 +1,5 @@
+combing(0.036)
+filming(0.034)
+frowning(0.026)
+adult+female+speaking(0.022)
+winking(0.022)

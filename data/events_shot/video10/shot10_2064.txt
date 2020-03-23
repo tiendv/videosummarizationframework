@@ -1,0 +1,5 @@
+walking(0.051)
+hugging(0.048)
+slapping(0.042)
+running(0.040)
+stealing(0.038)

@@ -1,0 +1,5 @@
+sneezing(0.076)
+adult+female+singing(0.067)
+coughing(0.055)
+drinking(0.048)
+playing+videogames(0.032)

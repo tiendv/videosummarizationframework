@@ -1,0 +1,5 @@
+cleaning(0.033)
+hugging(0.032)
+packing(0.023)
+washing(0.023)
+unpacking(0.019)

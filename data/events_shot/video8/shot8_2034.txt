@@ -1,0 +1,5 @@
+turning(0.160)
+steering(0.137)
+playing+videogames(0.078)
+piloting(0.064)
+aiming(0.057)

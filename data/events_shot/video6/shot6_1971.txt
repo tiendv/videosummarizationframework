@@ -1,0 +1,5 @@
+inflating(0.225)
+howling(0.069)
+barking(0.068)
+cuddling(0.066)
+bathing(0.033)

@@ -1,0 +1,5 @@
+clipping(0.067)
+talking(0.065)
+discussing(0.063)
+adult+male+speaking(0.044)
+sitting(0.031)

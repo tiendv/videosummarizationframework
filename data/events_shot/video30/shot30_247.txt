@@ -1,0 +1,5 @@
+cooking(0.088)
+pouring(0.039)
+crafting(0.023)
+laughing(0.022)
+drinking(0.021)

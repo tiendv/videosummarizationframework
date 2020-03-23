@@ -1,0 +1,5 @@
+gambling(0.767)
+playing(0.126)
+playing+videogames(0.100)
+talking(0.001)
+starting(0.001)

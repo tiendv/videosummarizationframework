@@ -1,0 +1,5 @@
+reading(0.075)
+eating(0.053)
+pointing(0.027)
+autographing(0.027)
+giving(0.026)

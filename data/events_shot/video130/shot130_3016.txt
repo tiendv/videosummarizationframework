@@ -1,0 +1,5 @@
+rowing(0.171)
+plunging(0.069)
+talking(0.056)
+starting(0.046)
+standing(0.044)

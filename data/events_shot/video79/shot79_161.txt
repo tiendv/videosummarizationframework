@@ -1,0 +1,5 @@
+hitchhiking(0.408)
+adult+male+singing(0.055)
+driving(0.047)
+adult+female+singing(0.036)
+kissing(0.036)

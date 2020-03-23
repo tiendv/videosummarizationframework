@@ -1,0 +1,5 @@
+adult+female+singing(0.082)
+adult+male+singing(0.059)
+kissing(0.045)
+filming(0.041)
+raining(0.031)

@@ -1,0 +1,5 @@
+carrying(0.028)
+exiting(0.024)
+walking(0.020)
+hanging(0.019)
+closing(0.019)

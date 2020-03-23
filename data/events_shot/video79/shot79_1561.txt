@@ -1,0 +1,5 @@
+slapping(0.031)
+child+speaking(0.030)
+standing(0.024)
+smiling(0.021)
+throwing(0.018)

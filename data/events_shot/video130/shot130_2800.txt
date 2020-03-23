@@ -1,0 +1,5 @@
+filming(0.040)
+slapping(0.037)
+talking(0.036)
+adult+female+speaking(0.031)
+starting(0.026)

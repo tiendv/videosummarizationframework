@@ -1,0 +1,5 @@
+talking(0.061)
+working(0.057)
+standing(0.043)
+adult+male+speaking(0.034)
+teaching(0.033)

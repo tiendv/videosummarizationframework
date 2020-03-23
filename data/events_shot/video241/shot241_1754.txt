@@ -1,0 +1,5 @@
+talking(0.061)
+discussing(0.043)
+shooting(0.042)
+crying(0.037)
+adult+male+speaking(0.030)

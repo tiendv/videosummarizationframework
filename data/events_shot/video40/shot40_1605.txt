@@ -1,0 +1,5 @@
+painting(0.102)
+working(0.060)
+climbing(0.057)
+crafting(0.055)
+bowing(0.053)

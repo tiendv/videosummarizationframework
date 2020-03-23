@@ -1,0 +1,5 @@
+pointing(0.095)
+teaching(0.064)
+talking(0.057)
+coaching(0.050)
+adult+male+speaking(0.039)

@@ -1,0 +1,5 @@
+carving(0.122)
+hammering(0.082)
+crafting(0.069)
+smashing(0.031)
+kneeling(0.020)

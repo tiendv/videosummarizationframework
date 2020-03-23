@@ -1,0 +1,5 @@
+driving(0.341)
+towing(0.106)
+hitchhiking(0.072)
+rolling(0.045)
+talking(0.042)

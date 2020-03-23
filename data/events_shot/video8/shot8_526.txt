@@ -1,0 +1,5 @@
+walking(0.118)
+marrying(0.079)
+standing(0.042)
+sneezing(0.034)
+bowing(0.024)

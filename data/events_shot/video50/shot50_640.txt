@@ -1,0 +1,5 @@
+adult+male+speaking(0.105)
+discussing(0.082)
+interviewing(0.049)
+camping(0.047)
+sitting(0.044)

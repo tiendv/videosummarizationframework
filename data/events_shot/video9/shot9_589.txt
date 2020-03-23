@@ -1,0 +1,5 @@
+arresting(0.580)
+fueling(0.080)
+handcuffing(0.079)
+guarding(0.042)
+towing(0.026)

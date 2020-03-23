@@ -1,0 +1,5 @@
+opening(0.228)
+closing(0.145)
+walking(0.105)
+hugging(0.034)
+knocking(0.031)

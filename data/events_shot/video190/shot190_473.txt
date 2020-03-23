@@ -1,0 +1,5 @@
+waking(0.287)
+sleeping(0.190)
+resting(0.061)
+adult+male+speaking(0.024)
+coughing(0.016)

@@ -1,0 +1,5 @@
+adult+female+singing(0.078)
+hugging(0.065)
+walking(0.056)
+playing+videogames(0.052)
+fighting(0.048)

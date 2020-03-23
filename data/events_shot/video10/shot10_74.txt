@@ -1,0 +1,5 @@
+adult+female+singing(0.042)
+adult+male+speaking(0.031)
+cracking(0.028)
+drying(0.025)
+standing(0.021)

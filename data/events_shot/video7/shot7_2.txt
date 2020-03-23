@@ -1,0 +1,5 @@
+diving(0.083)
+flying(0.050)
+jumping(0.047)
+landing(0.032)
+climbing(0.032)

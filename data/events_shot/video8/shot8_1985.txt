@@ -1,0 +1,5 @@
+spinning(0.611)
+turning(0.054)
+flipping(0.049)
+bouncing(0.036)
+ascending(0.019)

@@ -1,0 +1,5 @@
+knocking(0.091)
+adult+female+singing(0.088)
+adult+female+speaking(0.063)
+starting(0.046)
+filming(0.033)

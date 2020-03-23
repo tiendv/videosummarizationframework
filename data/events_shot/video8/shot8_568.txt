@@ -1,0 +1,5 @@
+eating(0.068)
+cooking(0.053)
+smelling(0.048)
+adult+female+speaking(0.046)
+spitting(0.033)

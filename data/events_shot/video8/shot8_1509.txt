@@ -1,0 +1,5 @@
+baking(0.347)
+cooking(0.303)
+packaging(0.017)
+packing(0.016)
+putting(0.015)

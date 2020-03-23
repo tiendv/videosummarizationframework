@@ -1,0 +1,5 @@
+crafting(0.080)
+talking(0.074)
+mopping(0.039)
+baking(0.039)
+working(0.039)

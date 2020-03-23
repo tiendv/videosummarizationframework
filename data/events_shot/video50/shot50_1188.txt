@@ -1,0 +1,5 @@
+pointing(0.074)
+knocking(0.070)
+guarding(0.039)
+adult+male+speaking(0.036)
+throwing(0.027)

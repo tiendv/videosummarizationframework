@@ -1,0 +1,5 @@
+adult+male+speaking(0.121)
+asking(0.086)
+protesting(0.074)
+marching(0.068)
+preaching(0.055)

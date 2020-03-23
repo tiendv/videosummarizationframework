@@ -1,0 +1,5 @@
+adult+female+singing(0.235)
+child+singing(0.169)
+crying(0.153)
+singing(0.118)
+coughing(0.044)

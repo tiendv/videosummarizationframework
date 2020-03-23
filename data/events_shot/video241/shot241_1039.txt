@@ -1,0 +1,5 @@
+sprinting(0.273)
+running(0.167)
+mopping(0.145)
+kicking(0.088)
+playing+sports(0.022)

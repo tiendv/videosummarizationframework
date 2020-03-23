@@ -1,0 +1,5 @@
+camping(0.810)
+sitting(0.022)
+boating(0.012)
+fishing(0.006)
+reading(0.005)

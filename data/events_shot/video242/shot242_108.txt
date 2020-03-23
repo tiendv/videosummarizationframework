@@ -1,0 +1,5 @@
+sneezing(0.198)
+coughing(0.132)
+filming(0.035)
+adult+male+singing(0.031)
+walking(0.029)

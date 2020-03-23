@@ -1,0 +1,5 @@
+asking(0.055)
+tattooing(0.052)
+coughing(0.049)
+adult+female+speaking(0.045)
+adult+male+singing(0.043)

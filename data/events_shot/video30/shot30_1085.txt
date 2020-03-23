@@ -1,0 +1,5 @@
+waking(0.061)
+adult+male+singing(0.037)
+adult+male+speaking(0.036)
+pressing(0.027)
+squinting(0.023)

@@ -1,0 +1,5 @@
+talking(0.077)
+sneezing(0.053)
+laughing(0.053)
+tattooing(0.053)
+adult+male+speaking(0.045)

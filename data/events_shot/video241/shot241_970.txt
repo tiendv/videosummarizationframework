@@ -1,0 +1,5 @@
+talking(0.059)
+sitting(0.049)
+clipping(0.036)
+frowning(0.035)
+discussing(0.034)

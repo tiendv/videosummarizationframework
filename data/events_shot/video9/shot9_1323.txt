@@ -1,0 +1,5 @@
+drinking(0.162)
+manicuring(0.102)
+sneezing(0.050)
+tattooing(0.025)
+coughing(0.022)

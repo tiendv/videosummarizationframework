@@ -1,0 +1,5 @@
+hanging(0.304)
+adult+male+speaking(0.129)
+slapping(0.059)
+standing(0.024)
+discussing(0.020)

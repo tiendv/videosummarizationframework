@@ -1,0 +1,5 @@
+adult+male+speaking(0.069)
+talking(0.048)
+discussing(0.037)
+telephoning(0.037)
+crying(0.036)

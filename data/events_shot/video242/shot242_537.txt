@@ -1,0 +1,5 @@
+talking(0.131)
+turning(0.107)
+sitting(0.071)
+combing(0.034)
+discussing(0.027)

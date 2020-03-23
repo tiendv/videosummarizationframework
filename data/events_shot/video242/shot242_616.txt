@@ -1,0 +1,5 @@
+crafting(0.100)
+playing+videogames(0.058)
+painting(0.036)
+walking(0.027)
+working(0.025)

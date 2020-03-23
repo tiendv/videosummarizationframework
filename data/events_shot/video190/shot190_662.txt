@@ -1,0 +1,5 @@
+adult+male+speaking(0.097)
+adult+male+singing(0.050)
+slapping(0.043)
+filming(0.034)
+telephoning(0.034)

@@ -1,0 +1,5 @@
+removing(0.054)
+digging(0.054)
+repairing(0.052)
+handcuffing(0.051)
+cracking(0.041)

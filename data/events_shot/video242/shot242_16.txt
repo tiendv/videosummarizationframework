@@ -1,0 +1,5 @@
+smoking(0.048)
+slapping(0.040)
+attacking(0.039)
+fighting(0.029)
+playing+videogames(0.027)

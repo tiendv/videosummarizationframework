@@ -1,0 +1,5 @@
+knocking(0.068)
+adult+male+speaking(0.067)
+adult+female+singing(0.050)
+adult+female+speaking(0.046)
+locking(0.026)

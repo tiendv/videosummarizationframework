@@ -1,0 +1,5 @@
+queuing(0.080)
+arresting(0.056)
+protesting(0.047)
+child+speaking(0.031)
+standing(0.031)

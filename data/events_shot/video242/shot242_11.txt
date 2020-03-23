@@ -1,0 +1,5 @@
+drinking(0.801)
+sniffing(0.017)
+filming(0.017)
+smoking(0.016)
+smelling(0.013)

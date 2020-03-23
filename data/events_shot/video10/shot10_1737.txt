@@ -1,0 +1,5 @@
+smoking(0.043)
+adult+male+speaking(0.037)
+crying(0.020)
+slapping(0.019)
+playing+videogames(0.017)

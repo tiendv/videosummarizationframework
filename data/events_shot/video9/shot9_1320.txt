@@ -1,0 +1,5 @@
+eating(0.086)
+cooking(0.041)
+sniffing(0.035)
+baking(0.032)
+chewing(0.028)

@@ -1,0 +1,5 @@
+kissing(0.670)
+hugging(0.114)
+arresting(0.020)
+marrying(0.014)
+cuddling(0.012)

@@ -1,0 +1,5 @@
+adult+female+singing(0.132)
+adult+female+speaking(0.105)
+hugging(0.046)
+marrying(0.046)
+baptizing(0.039)

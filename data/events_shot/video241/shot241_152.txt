@@ -1,0 +1,5 @@
+painting(0.138)
+adult+male+speaking(0.032)
+slapping(0.031)
+spraying(0.022)
+talking(0.021)

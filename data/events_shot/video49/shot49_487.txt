@@ -1,0 +1,5 @@
+crying(0.045)
+tapping(0.029)
+scratching(0.028)
+filming(0.028)
+drinking(0.019)

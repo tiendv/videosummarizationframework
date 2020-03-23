@@ -1,0 +1,5 @@
+putting(0.060)
+talking(0.057)
+loading(0.055)
+placing(0.045)
+playing(0.044)

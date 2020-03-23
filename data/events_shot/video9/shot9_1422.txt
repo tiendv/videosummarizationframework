@@ -1,0 +1,5 @@
+smoking(0.080)
+asking(0.065)
+discussing(0.060)
+playing+videogames(0.050)
+adult+female+speaking(0.032)

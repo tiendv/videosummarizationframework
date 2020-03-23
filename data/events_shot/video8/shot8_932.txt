@@ -1,0 +1,5 @@
+dining(0.558)
+drinking(0.269)
+eating(0.058)
+smelling(0.020)
+sniffing(0.013)

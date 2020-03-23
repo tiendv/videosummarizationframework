@@ -1,0 +1,5 @@
+stirring(0.085)
+cooking(0.045)
+slapping(0.031)
+running(0.028)
+shaking(0.025)

@@ -1,0 +1,5 @@
+running(0.201)
+walking(0.078)
+raining(0.028)
+standing(0.025)
+filming(0.020)

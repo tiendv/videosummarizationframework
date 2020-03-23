@@ -1,0 +1,5 @@
+flipping(0.126)
+crushing(0.069)
+dropping(0.067)
+smashing(0.064)
+bouncing(0.064)

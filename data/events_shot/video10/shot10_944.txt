@@ -1,0 +1,5 @@
+fighting(0.133)
+attacking(0.039)
+steering(0.033)
+lifting(0.029)
+gripping(0.025)

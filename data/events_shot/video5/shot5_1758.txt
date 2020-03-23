@@ -1,0 +1,5 @@
+filming(0.086)
+photographing(0.051)
+walking(0.039)
+talking(0.029)
+hanging(0.025)

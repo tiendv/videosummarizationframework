@@ -1,0 +1,5 @@
+adult+male+speaking(0.337)
+lecturing(0.087)
+adult+female+speaking(0.045)
+talking(0.040)
+playing+videogames(0.036)

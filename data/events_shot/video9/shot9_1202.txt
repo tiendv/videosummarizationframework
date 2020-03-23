@@ -1,0 +1,5 @@
+juggling(0.046)
+stealing(0.027)
+arresting(0.023)
+towing(0.023)
+catching(0.020)

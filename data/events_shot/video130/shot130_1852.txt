@@ -1,0 +1,5 @@
+discussing(0.108)
+talking(0.086)
+interviewing(0.080)
+adult+male+speaking(0.065)
+asking(0.027)

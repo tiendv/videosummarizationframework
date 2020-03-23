@@ -1,0 +1,5 @@
+adult+male+speaking(0.128)
+preaching(0.066)
+discussing(0.047)
+playing+videogames(0.036)
+eating(0.036)

@@ -1,0 +1,5 @@
+tattooing(0.491)
+painting(0.110)
+drawing(0.036)
+adult+male+speaking(0.023)
+playing+videogames(0.022)

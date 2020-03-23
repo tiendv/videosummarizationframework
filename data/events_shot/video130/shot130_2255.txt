@@ -1,0 +1,5 @@
+stitching(0.111)
+sewing(0.058)
+packing(0.057)
+crying(0.047)
+cutting(0.044)

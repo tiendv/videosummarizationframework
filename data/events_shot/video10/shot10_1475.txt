@@ -1,0 +1,5 @@
+talking(0.033)
+adult+female+speaking(0.031)
+locking(0.030)
+opening(0.029)
+walking(0.025)

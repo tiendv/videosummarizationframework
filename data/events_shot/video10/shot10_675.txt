@@ -1,0 +1,5 @@
+slapping(0.040)
+packing(0.032)
+asking(0.020)
+unpacking(0.018)
+vacuuming(0.016)

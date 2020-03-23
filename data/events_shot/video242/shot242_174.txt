@@ -1,0 +1,5 @@
+talking(0.201)
+discussing(0.102)
+sitting(0.088)
+interviewing(0.075)
+shrugging(0.063)

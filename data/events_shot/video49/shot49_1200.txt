@@ -1,0 +1,5 @@
+brushing(0.127)
+tickling(0.060)
+child+speaking(0.054)
+laughing(0.051)
+slapping(0.050)

@@ -1,0 +1,5 @@
+walking(0.063)
+arresting(0.043)
+talking(0.040)
+entering(0.036)
+standing(0.035)

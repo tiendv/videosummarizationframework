@@ -1,0 +1,5 @@
+sitting(0.057)
+walking(0.051)
+preaching(0.043)
+photographing(0.040)
+standing(0.039)

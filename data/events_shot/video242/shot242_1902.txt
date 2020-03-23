@@ -1,0 +1,5 @@
+walking(0.045)
+filming(0.044)
+clipping(0.035)
+talking(0.028)
+fighting(0.028)

@@ -1,0 +1,5 @@
+dining(0.058)
+eating(0.050)
+laughing(0.040)
+stealing(0.034)
+drinking(0.022)

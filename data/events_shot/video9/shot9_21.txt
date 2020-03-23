@@ -1,0 +1,5 @@
+adult+male+speaking(0.118)
+adult+female+speaking(0.036)
+playing+videogames(0.030)
+handcuffing(0.025)
+laughing(0.023)

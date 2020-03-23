@@ -1,0 +1,5 @@
+waking(0.303)
+sleeping(0.105)
+resting(0.038)
+crying(0.035)
+adult+male+singing(0.019)

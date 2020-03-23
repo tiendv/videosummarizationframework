@@ -1,0 +1,5 @@
+adult+female+speaking(0.097)
+adult+female+singing(0.089)
+smiling(0.050)
+slapping(0.041)
+asking(0.031)

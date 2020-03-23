@@ -1,0 +1,5 @@
+adult+male+speaking(0.114)
+shrugging(0.062)
+smiling(0.055)
+squinting(0.054)
+flicking(0.045)

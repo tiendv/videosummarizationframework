@@ -1,0 +1,5 @@
+kissing(0.081)
+chewing(0.054)
+adult+female+speaking(0.050)
+licking(0.042)
+eating(0.038)

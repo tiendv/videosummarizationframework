@@ -1,0 +1,5 @@
+playing+music(0.162)
+sitting(0.059)
+opening(0.046)
+performing(0.038)
+standing(0.031)

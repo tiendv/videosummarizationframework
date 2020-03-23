@@ -1,0 +1,5 @@
+kissing(0.128)
+hugging(0.055)
+dressing(0.025)
+licking(0.023)
+smelling(0.022)

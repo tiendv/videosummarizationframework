@@ -1,0 +1,5 @@
+talking(0.096)
+discussing(0.083)
+arresting(0.059)
+raining(0.054)
+snowing(0.036)

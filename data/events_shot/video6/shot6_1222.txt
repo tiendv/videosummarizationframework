@@ -1,0 +1,5 @@
+waking(0.115)
+sleeping(0.093)
+resting(0.066)
+sitting(0.036)
+adult+female+speaking(0.030)

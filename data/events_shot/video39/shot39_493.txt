@@ -1,0 +1,5 @@
+kissing(0.721)
+hugging(0.069)
+asking(0.026)
+adult+female+speaking(0.024)
+marrying(0.021)

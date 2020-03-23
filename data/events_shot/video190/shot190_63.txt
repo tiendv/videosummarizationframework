@@ -1,0 +1,5 @@
+adult+female+speaking(0.188)
+adult+female+singing(0.123)
+slapping(0.085)
+kissing(0.046)
+tattooing(0.043)

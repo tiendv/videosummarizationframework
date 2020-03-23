@@ -1,0 +1,5 @@
+fighting(0.068)
+attacking(0.046)
+filming(0.032)
+running(0.030)
+celebrating(0.026)

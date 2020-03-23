@@ -1,0 +1,5 @@
+calling(0.257)
+telephoning(0.224)
+drinking(0.087)
+kissing(0.028)
+adult+male+speaking(0.015)

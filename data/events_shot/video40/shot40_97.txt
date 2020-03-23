@@ -1,0 +1,5 @@
+racing(0.382)
+driving(0.085)
+steering(0.044)
+playing+videogames(0.032)
+crashing(0.023)

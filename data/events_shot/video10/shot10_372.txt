@@ -1,0 +1,5 @@
+running(0.085)
+walking(0.055)
+jogging(0.047)
+adult+male+speaking(0.025)
+sneezing(0.019)

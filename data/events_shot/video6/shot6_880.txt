@@ -1,0 +1,5 @@
+asking(0.070)
+adult+male+speaking(0.048)
+sitting(0.041)
+discussing(0.029)
+smiling(0.028)

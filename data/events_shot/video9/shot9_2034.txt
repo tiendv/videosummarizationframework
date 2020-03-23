@@ -1,0 +1,5 @@
+spinning(0.057)
+bouncing(0.040)
+dripping(0.032)
+raining(0.027)
+plunging(0.023)

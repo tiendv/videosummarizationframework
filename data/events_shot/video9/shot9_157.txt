@@ -1,0 +1,5 @@
+asking(0.060)
+standing(0.047)
+protesting(0.042)
+slapping(0.036)
+queuing(0.033)

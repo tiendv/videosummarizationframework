@@ -1,0 +1,5 @@
+queuing(0.335)
+walking(0.044)
+joining(0.024)
+shopping(0.017)
+smiling(0.016)

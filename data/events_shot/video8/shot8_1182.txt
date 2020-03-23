@@ -1,0 +1,5 @@
+vacuuming(0.219)
+mopping(0.098)
+sweeping(0.058)
+destroying(0.045)
+crushing(0.026)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.035)
+cracking(0.030)
+knocking(0.025)
+laughing(0.025)
+standing(0.016)

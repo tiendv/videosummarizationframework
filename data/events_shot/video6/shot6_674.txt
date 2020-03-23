@@ -1,0 +1,5 @@
+packing(0.201)
+tickling(0.160)
+unpacking(0.102)
+sneezing(0.037)
+cuddling(0.030)

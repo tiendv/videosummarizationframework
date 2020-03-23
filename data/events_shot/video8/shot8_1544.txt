@@ -1,0 +1,5 @@
+tapping(0.541)
+adult+female+speaking(0.052)
+smiling(0.027)
+discussing(0.024)
+cuddling(0.022)

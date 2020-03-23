@@ -1,0 +1,5 @@
+adult+male+speaking(0.124)
+slapping(0.108)
+fighting(0.080)
+punching(0.071)
+coaching(0.045)

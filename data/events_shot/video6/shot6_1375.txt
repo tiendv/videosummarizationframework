@@ -1,0 +1,5 @@
+drinking(0.075)
+adult+male+speaking(0.036)
+fighting(0.026)
+standing(0.017)
+cooking(0.017)

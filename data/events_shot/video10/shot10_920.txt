@@ -1,0 +1,5 @@
+sitting(0.112)
+autographing(0.103)
+reading(0.102)
+child+speaking(0.093)
+laughing(0.065)

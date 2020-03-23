@@ -1,0 +1,5 @@
+building(0.067)
+loading(0.060)
+fighting(0.049)
+blocking(0.045)
+slapping(0.041)

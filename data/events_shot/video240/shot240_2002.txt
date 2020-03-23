@@ -1,0 +1,5 @@
+raining(0.643)
+storming(0.031)
+crying(0.022)
+drenching(0.019)
+adult+male+singing(0.011)

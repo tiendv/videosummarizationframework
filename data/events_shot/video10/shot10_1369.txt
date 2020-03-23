@@ -1,0 +1,5 @@
+adult+male+speaking(0.084)
+hiking(0.070)
+standing(0.052)
+squinting(0.048)
+adult+male+singing(0.037)

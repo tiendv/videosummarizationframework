@@ -1,0 +1,5 @@
+packing(0.179)
+inflating(0.157)
+vacuuming(0.099)
+unpacking(0.094)
+telephoning(0.026)

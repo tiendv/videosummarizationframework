@@ -1,0 +1,5 @@
+telephoning(0.043)
+asking(0.035)
+smoking(0.032)
+discussing(0.030)
+smiling(0.030)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.057)
+hugging(0.048)
+protesting(0.048)
+walking(0.044)
+arresting(0.038)

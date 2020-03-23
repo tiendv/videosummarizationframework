@@ -1,0 +1,5 @@
+reading(0.425)
+cramming(0.071)
+studying(0.056)
+asking(0.043)
+adult+female+speaking(0.026)

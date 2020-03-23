@@ -1,0 +1,5 @@
+howling(0.440)
+barking(0.404)
+sneezing(0.013)
+chewing(0.010)
+cuddling(0.009)

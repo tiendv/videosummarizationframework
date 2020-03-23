@@ -1,0 +1,5 @@
+cooking(0.389)
+stirring(0.152)
+baking(0.136)
+frying(0.034)
+tattooing(0.020)

@@ -1,0 +1,5 @@
+walking(0.088)
+carrying(0.053)
+removing(0.021)
+filming(0.020)
+knocking(0.020)

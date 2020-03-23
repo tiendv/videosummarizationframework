@@ -1,0 +1,5 @@
+walking(0.138)
+sneezing(0.042)
+filming(0.034)
+entering(0.032)
+exiting(0.031)

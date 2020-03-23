@@ -1,0 +1,5 @@
+exiting(0.086)
+entering(0.047)
+adult+male+speaking(0.031)
+guarding(0.029)
+arresting(0.022)

@@ -1,0 +1,5 @@
+brushing(0.121)
+taping(0.079)
+massaging(0.061)
+shaving(0.052)
+rubbing(0.037)

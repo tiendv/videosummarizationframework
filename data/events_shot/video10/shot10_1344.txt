@@ -1,0 +1,5 @@
+tattooing(0.886)
+drawing(0.011)
+adult+female+speaking(0.008)
+smiling(0.004)
+autographing(0.004)

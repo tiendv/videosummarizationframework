@@ -1,0 +1,5 @@
+opening(0.066)
+knocking(0.060)
+smoking(0.058)
+closing(0.046)
+crying(0.024)

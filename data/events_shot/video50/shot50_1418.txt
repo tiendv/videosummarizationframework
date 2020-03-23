@@ -1,0 +1,5 @@
+adult+male+speaking(0.057)
+dining(0.054)
+queuing(0.047)
+discussing(0.045)
+hugging(0.028)

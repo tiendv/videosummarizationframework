@@ -1,0 +1,5 @@
+squatting(0.038)
+repairing(0.032)
+assembling(0.026)
+bending(0.026)
+hammering(0.026)

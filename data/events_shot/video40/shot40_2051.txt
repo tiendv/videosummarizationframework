@@ -1,0 +1,5 @@
+sneezing(0.070)
+sitting(0.030)
+queuing(0.029)
+standing(0.027)
+talking(0.026)

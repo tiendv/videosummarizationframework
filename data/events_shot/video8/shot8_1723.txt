@@ -1,0 +1,5 @@
+loading(0.047)
+packaging(0.045)
+fueling(0.035)
+stacking(0.035)
+selling(0.033)

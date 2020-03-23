@@ -1,0 +1,5 @@
+painting(0.911)
+drawing(0.059)
+sketching(0.009)
+spraying(0.007)
+reading(0.002)

@@ -1,0 +1,5 @@
+frowning(0.101)
+talking(0.075)
+squinting(0.041)
+slapping(0.034)
+turning(0.031)

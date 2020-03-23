@@ -1,0 +1,5 @@
+hanging(0.171)
+diving(0.039)
+jumping(0.018)
+flipping(0.018)
+leaping(0.016)

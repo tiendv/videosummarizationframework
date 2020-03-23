@@ -1,0 +1,5 @@
+asking(0.028)
+adult+male+speaking(0.027)
+sitting(0.026)
+telephoning(0.025)
+studying(0.024)

@@ -1,0 +1,5 @@
+carving(0.065)
+cooking(0.062)
+cracking(0.062)
+climbing(0.031)
+diving(0.030)

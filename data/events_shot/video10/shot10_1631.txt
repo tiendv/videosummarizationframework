@@ -1,0 +1,5 @@
+telephoning(0.726)
+calling(0.210)
+smoking(0.012)
+welding(0.009)
+filming(0.003)

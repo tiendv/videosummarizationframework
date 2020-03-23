@@ -1,0 +1,5 @@
+kissing(0.141)
+drinking(0.073)
+dining(0.062)
+adult+female+speaking(0.035)
+asking(0.034)

@@ -1,0 +1,5 @@
+drying(0.080)
+dressing(0.056)
+combing(0.027)
+whistling(0.027)
+standing(0.024)

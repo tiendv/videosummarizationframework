@@ -1,0 +1,5 @@
+laughing(0.052)
+standing(0.047)
+adult+male+speaking(0.046)
+hunting(0.035)
+asking(0.032)

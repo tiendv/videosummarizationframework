@@ -1,0 +1,5 @@
+arresting(0.045)
+protesting(0.035)
+adult+male+speaking(0.032)
+fencing(0.030)
+slapping(0.029)

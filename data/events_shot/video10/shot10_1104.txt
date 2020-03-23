@@ -1,0 +1,5 @@
+sneezing(0.210)
+coughing(0.070)
+painting(0.048)
+adult+female+speaking(0.036)
+tattooing(0.028)

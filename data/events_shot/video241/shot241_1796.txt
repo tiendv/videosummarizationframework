@@ -1,0 +1,5 @@
+steering(0.045)
+pressing(0.044)
+sitting(0.039)
+working(0.033)
+piloting(0.032)

@@ -1,0 +1,5 @@
+cooking(0.128)
+slicing(0.085)
+chopping(0.032)
+slapping(0.029)
+cutting(0.027)

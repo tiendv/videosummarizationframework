@@ -1,0 +1,5 @@
+hanging(0.192)
+drying(0.041)
+leaning(0.021)
+adult+male+speaking(0.018)
+filming(0.014)

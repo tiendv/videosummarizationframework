@@ -1,0 +1,5 @@
+adult+female+speaking(0.070)
+talking(0.036)
+painting(0.029)
+child+speaking(0.026)
+crafting(0.025)

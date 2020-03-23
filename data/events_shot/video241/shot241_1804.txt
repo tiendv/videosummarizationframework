@@ -1,0 +1,6 @@
+walking(0.050)
+adult+male+speaking(0.039)
+fighting(0.036)
+drinking(0.029)
+standing(0.029)
+male+singing(0.046)

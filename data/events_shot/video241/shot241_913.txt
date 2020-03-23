@@ -1,0 +1,5 @@
+climbing(0.082)
+bicycling(0.053)
+rafting(0.049)
+putting(0.038)
+placing(0.027)

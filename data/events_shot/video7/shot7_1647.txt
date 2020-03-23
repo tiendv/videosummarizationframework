@@ -1,0 +1,5 @@
+adult+female+singing(0.202)
+howling(0.073)
+slapping(0.055)
+coughing(0.051)
+sneezing(0.048)

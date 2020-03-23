@@ -1,0 +1,5 @@
+praying(0.082)
+opening(0.033)
+closing(0.024)
+bowing(0.021)
+officiating(0.021)

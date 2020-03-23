@@ -1,0 +1,5 @@
+adult+male+speaking(0.426)
+talking(0.050)
+discussing(0.031)
+playing+videogames(0.018)
+interviewing(0.018)

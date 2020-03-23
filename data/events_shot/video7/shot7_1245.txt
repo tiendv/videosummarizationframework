@@ -1,0 +1,5 @@
+aiming(0.112)
+bowling(0.108)
+adult+male+speaking(0.107)
+discussing(0.031)
+talking(0.029)

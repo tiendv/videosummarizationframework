@@ -1,0 +1,5 @@
+combing(0.048)
+dressing(0.040)
+adult+female+speaking(0.038)
+walking(0.033)
+drinking(0.030)

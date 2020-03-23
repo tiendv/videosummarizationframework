@@ -1,0 +1,6 @@
+dining(0.066)
+eating(0.060)
+drinking(0.060)
+talking(0.050)
+spitting(0.043)
+aking(0.044)

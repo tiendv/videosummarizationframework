@@ -1,0 +1,5 @@
+walking(0.108)
+removing(0.024)
+sneezing(0.023)
+exiting(0.018)
+hugging(0.018)

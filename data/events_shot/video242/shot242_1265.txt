@@ -1,0 +1,5 @@
+snowing(0.238)
+shoveling(0.052)
+crashing(0.027)
+driving(0.023)
+clearing(0.022)

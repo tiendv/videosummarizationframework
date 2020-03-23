@@ -1,0 +1,5 @@
+shopping(0.372)
+selling(0.056)
+buying(0.053)
+talking(0.048)
+smiling(0.041)

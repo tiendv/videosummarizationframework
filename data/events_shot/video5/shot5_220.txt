@@ -1,0 +1,5 @@
+smiling(0.063)
+dining(0.062)
+adult+female+speaking(0.040)
+queuing(0.032)
+hugging(0.028)

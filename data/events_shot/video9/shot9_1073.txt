@@ -1,0 +1,5 @@
+hugging(0.142)
+baptizing(0.122)
+adult+male+singing(0.063)
+adult+male+speaking(0.063)
+cuddling(0.039)

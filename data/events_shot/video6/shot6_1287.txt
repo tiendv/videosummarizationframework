@@ -1,0 +1,5 @@
+adult+male+speaking(0.056)
+building(0.047)
+loading(0.047)
+packing(0.040)
+packaging(0.040)

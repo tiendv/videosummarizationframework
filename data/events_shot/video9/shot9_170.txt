@@ -1,0 +1,5 @@
+guarding(0.157)
+arresting(0.134)
+protesting(0.060)
+attacking(0.056)
+fighting(0.036)

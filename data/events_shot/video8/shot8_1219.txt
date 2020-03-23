@@ -1,0 +1,5 @@
+crafting(0.275)
+painting(0.051)
+telephoning(0.041)
+working(0.039)
+reading(0.036)

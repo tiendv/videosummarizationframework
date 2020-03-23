@@ -1,0 +1,5 @@
+steering(0.062)
+pressing(0.053)
+filming(0.039)
+starting(0.032)
+driving(0.029)

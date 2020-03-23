@@ -1,0 +1,5 @@
+crying(0.147)
+carrying(0.051)
+walking(0.046)
+knocking(0.029)
+pointing(0.026)

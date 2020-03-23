@@ -1,0 +1,5 @@
+painting(0.103)
+autographing(0.049)
+guarding(0.033)
+standing(0.029)
+walking(0.028)

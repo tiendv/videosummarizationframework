@@ -1,0 +1,5 @@
+adult+male+speaking(0.097)
+laughing(0.092)
+shaving(0.045)
+cleaning(0.028)
+adult+female+speaking(0.023)

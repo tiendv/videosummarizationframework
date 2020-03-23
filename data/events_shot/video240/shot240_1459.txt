@@ -1,0 +1,5 @@
+kissing(0.596)
+hugging(0.046)
+marrying(0.042)
+telephoning(0.019)
+adult+male+singing(0.018)

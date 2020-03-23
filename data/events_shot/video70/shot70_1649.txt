@@ -1,0 +1,5 @@
+climbing(0.122)
+building(0.081)
+cleaning(0.032)
+gripping(0.027)
+hanging(0.024)

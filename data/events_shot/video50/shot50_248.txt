@@ -1,0 +1,5 @@
+washing(0.382)
+hitchhiking(0.215)
+camping(0.080)
+rinsing(0.047)
+raining(0.022)

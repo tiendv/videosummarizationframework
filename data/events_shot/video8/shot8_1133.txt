@@ -1,0 +1,5 @@
+adult+male+speaking(0.200)
+asking(0.110)
+laughing(0.060)
+discussing(0.039)
+smiling(0.028)

@@ -1,0 +1,5 @@
+walking(0.291)
+standing(0.097)
+talking(0.043)
+knocking(0.032)
+carrying(0.028)

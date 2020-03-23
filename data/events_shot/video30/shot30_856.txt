@@ -1,0 +1,5 @@
+hugging(0.132)
+adult+male+speaking(0.077)
+knocking(0.060)
+arresting(0.054)
+fighting(0.033)

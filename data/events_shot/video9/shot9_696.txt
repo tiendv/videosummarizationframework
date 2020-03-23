@@ -1,0 +1,5 @@
+preaching(0.166)
+adult+male+speaking(0.113)
+laughing(0.055)
+adult+female+speaking(0.045)
+talking(0.040)

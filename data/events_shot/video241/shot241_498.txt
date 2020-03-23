@@ -1,0 +1,5 @@
+adult+male+speaking(0.092)
+chewing(0.084)
+eating(0.035)
+putting(0.027)
+tying(0.023)

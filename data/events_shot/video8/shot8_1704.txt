@@ -1,0 +1,5 @@
+fighting(0.095)
+attacking(0.048)
+sneezing(0.042)
+slapping(0.042)
+barking(0.036)

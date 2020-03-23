@@ -1,0 +1,5 @@
+dressing(0.040)
+smiling(0.039)
+imitating(0.034)
+putting(0.030)
+grinning(0.024)

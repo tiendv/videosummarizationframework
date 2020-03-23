@@ -1,0 +1,5 @@
+driving(0.117)
+riding(0.050)
+cooking(0.049)
+steering(0.041)
+baking(0.033)

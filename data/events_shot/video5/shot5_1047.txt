@@ -1,0 +1,5 @@
+bowing(0.067)
+kissing(0.045)
+sneezing(0.032)
+bending(0.023)
+crying(0.023)

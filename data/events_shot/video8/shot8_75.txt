@@ -1,0 +1,5 @@
+adult+male+speaking(0.095)
+telephoning(0.047)
+preaching(0.038)
+calling(0.029)
+reading(0.024)

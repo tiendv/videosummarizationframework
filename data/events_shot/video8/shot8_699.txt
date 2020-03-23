@@ -1,0 +1,5 @@
+marrying(0.075)
+dressing(0.064)
+kissing(0.034)
+fencing(0.028)
+standing(0.025)

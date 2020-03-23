@@ -1,0 +1,5 @@
+fencing(0.483)
+guarding(0.023)
+walking(0.018)
+filming(0.015)
+fighting(0.014)

@@ -1,0 +1,5 @@
+cheerleading(0.116)
+sitting(0.040)
+standing(0.029)
+adult+female+speaking(0.023)
+interviewing(0.022)

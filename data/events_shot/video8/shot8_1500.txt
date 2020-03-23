@@ -1,0 +1,5 @@
+sitting(0.109)
+stretching(0.091)
+massaging(0.090)
+hugging(0.062)
+squatting(0.058)

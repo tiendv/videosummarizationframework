@@ -1,0 +1,5 @@
+slapping(0.205)
+smoking(0.088)
+smelling(0.048)
+spitting(0.047)
+adult+female+speaking(0.036)

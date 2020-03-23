@@ -1,0 +1,5 @@
+preaching(0.161)
+adult+female+speaking(0.069)
+standing(0.039)
+adult+female+singing(0.029)
+lecturing(0.020)

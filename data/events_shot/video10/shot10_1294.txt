@@ -1,0 +1,5 @@
+adult+male+speaking(0.087)
+adult+female+speaking(0.083)
+slapping(0.058)
+cuddling(0.023)
+crying(0.021)

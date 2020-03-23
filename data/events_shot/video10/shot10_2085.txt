@@ -1,0 +1,5 @@
+pointing(0.091)
+hugging(0.066)
+standing(0.046)
+slapping(0.038)
+imitating(0.037)

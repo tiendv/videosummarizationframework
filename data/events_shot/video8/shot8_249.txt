@@ -1,0 +1,5 @@
+filming(0.092)
+walking(0.080)
+adult+female+speaking(0.069)
+photographing(0.056)
+telephoning(0.050)

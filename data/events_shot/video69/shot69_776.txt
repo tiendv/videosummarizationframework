@@ -1,0 +1,5 @@
+marrying(0.174)
+sneezing(0.093)
+giving(0.035)
+adult+female+speaking(0.033)
+sitting(0.027)

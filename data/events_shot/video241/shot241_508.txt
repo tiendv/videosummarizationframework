@@ -1,0 +1,5 @@
+filming(0.150)
+photographing(0.047)
+hanging(0.037)
+adult+male+speaking(0.030)
+leaning(0.030)

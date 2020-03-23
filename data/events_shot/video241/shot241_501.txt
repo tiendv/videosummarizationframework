@@ -1,0 +1,5 @@
+filming(0.046)
+adult+female+speaking(0.036)
+adult+male+speaking(0.036)
+drinking(0.036)
+sneezing(0.035)

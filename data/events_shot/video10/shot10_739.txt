@@ -1,0 +1,5 @@
+laughing(0.089)
+sneezing(0.030)
+fighting(0.028)
+walking(0.026)
+adult+male+speaking(0.025)

@@ -1,0 +1,5 @@
+slapping(0.157)
+punching(0.083)
+adult+male+speaking(0.072)
+bowing(0.047)
+shooting(0.031)

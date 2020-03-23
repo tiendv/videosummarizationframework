@@ -1,0 +1,5 @@
+marrying(0.170)
+adult+female+speaking(0.069)
+walking(0.063)
+slapping(0.051)
+kissing(0.049)

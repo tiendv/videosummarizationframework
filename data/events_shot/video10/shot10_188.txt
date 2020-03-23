@@ -1,0 +1,5 @@
+baking(0.066)
+cooking(0.063)
+flipping(0.057)
+working(0.024)
+talking(0.022)

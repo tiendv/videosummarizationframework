@@ -1,0 +1,5 @@
+filming(0.055)
+crying(0.039)
+adult+female+singing(0.036)
+fighting(0.036)
+attacking(0.032)

@@ -1,0 +1,5 @@
+baking(0.056)
+cooking(0.037)
+adult+female+singing(0.033)
+dining(0.029)
+adult+female+speaking(0.027)

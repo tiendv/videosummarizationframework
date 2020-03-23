@@ -1,0 +1,5 @@
+eating(0.038)
+swinging(0.034)
+standing(0.033)
+wetting(0.026)
+bicycling(0.026)

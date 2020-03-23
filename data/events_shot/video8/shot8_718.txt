@@ -1,0 +1,5 @@
+drying(0.030)
+frying(0.019)
+queuing(0.018)
+stirring(0.018)
+cooking(0.016)

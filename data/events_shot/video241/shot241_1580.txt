@@ -1,0 +1,5 @@
+tapping(0.481)
+slapping(0.107)
+scratching(0.078)
+pointing(0.040)
+rubbing(0.022)

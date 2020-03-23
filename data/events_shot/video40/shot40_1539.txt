@@ -1,0 +1,5 @@
+running(0.091)
+walking(0.078)
+arresting(0.028)
+jogging(0.024)
+attacking(0.023)

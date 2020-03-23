@@ -1,0 +1,5 @@
+arresting(0.162)
+walking(0.099)
+adult+male+speaking(0.059)
+hugging(0.056)
+talking(0.051)

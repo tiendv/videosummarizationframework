@@ -1,0 +1,5 @@
+drinking(0.034)
+fighting(0.034)
+slapping(0.030)
+attacking(0.029)
+sneezing(0.028)

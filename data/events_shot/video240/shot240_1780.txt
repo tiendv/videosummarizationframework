@@ -1,0 +1,5 @@
+biting(0.225)
+tearing(0.086)
+licking(0.067)
+peeling(0.033)
+adult+male+speaking(0.032)

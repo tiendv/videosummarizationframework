@@ -1,0 +1,5 @@
+burning(0.251)
+extinguishing(0.197)
+combusting(0.191)
+smoking(0.056)
+spraying(0.033)

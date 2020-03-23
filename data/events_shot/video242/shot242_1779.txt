@@ -1,0 +1,5 @@
+protesting(0.040)
+lecturing(0.034)
+flooding(0.031)
+adult+male+speaking(0.030)
+queuing(0.028)

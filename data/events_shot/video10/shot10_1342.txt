@@ -1,0 +1,5 @@
+autographing(0.124)
+signing(0.085)
+taping(0.063)
+asking(0.025)
+adult+female+speaking(0.021)

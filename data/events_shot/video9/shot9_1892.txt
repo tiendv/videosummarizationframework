@@ -1,0 +1,5 @@
+sneezing(0.132)
+bowing(0.065)
+hugging(0.061)
+waking(0.044)
+crying(0.042)

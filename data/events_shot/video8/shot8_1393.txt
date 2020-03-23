@@ -1,0 +1,5 @@
+taping(0.092)
+sanding(0.035)
+inflating(0.033)
+gripping(0.026)
+cleaning(0.025)

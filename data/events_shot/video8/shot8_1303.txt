@@ -1,0 +1,5 @@
+crying(0.148)
+painting(0.089)
+eating(0.086)
+brushing(0.040)
+laughing(0.040)

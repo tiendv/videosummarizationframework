@@ -1,0 +1,5 @@
+talking(0.079)
+sitting(0.049)
+reading(0.030)
+telephoning(0.028)
+starting(0.023)

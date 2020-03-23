@@ -1,0 +1,5 @@
+adult+male+speaking(0.155)
+coaching(0.070)
+pointing(0.048)
+shrugging(0.047)
+frowning(0.046)

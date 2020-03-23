@@ -1,0 +1,5 @@
+cuddling(0.299)
+hugging(0.224)
+sleeping(0.099)
+snuggling(0.086)
+waking(0.039)

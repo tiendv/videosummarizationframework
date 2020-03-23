@@ -1,0 +1,5 @@
+kissing(0.070)
+hugging(0.044)
+squatting(0.023)
+adult+female+singing(0.023)
+playing+videogames(0.023)

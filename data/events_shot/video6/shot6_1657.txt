@@ -1,0 +1,5 @@
+dining(0.357)
+mopping(0.147)
+eating(0.033)
+playing+videogames(0.031)
+sitting(0.025)

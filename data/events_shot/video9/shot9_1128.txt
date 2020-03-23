@@ -1,0 +1,5 @@
+talking(0.043)
+standing(0.039)
+walking(0.039)
+turning(0.032)
+knocking(0.025)

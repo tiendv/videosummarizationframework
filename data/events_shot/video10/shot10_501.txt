@@ -1,0 +1,5 @@
+dressing(0.136)
+inflating(0.066)
+adult+female+speaking(0.056)
+handcuffing(0.052)
+hugging(0.049)

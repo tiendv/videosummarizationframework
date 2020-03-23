@@ -1,0 +1,6 @@
+dining(0.191)
+painting(0.147)
+cooking(0.048)
+carving(0.040)
+serving(0.033)
+painting(0.047)

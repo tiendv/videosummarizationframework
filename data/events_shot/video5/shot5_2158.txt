@@ -1,0 +1,5 @@
+vacuuming(0.242)
+mowing(0.055)
+playing+videogames(0.032)
+starting(0.022)
+weeding(0.022)

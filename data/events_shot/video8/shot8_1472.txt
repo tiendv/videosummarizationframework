@@ -1,0 +1,5 @@
+handcuffing(0.029)
+fighting(0.027)
+arresting(0.026)
+smoking(0.021)
+playing+videogames(0.020)

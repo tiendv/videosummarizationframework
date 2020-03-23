@@ -1,0 +1,5 @@
+painting(0.330)
+talking(0.049)
+drawing(0.026)
+discussing(0.026)
+crafting(0.025)

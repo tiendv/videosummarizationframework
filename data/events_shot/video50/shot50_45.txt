@@ -1,0 +1,5 @@
+aiming(0.211)
+hitting(0.163)
+smashing(0.097)
+fighting(0.087)
+throwing(0.024)

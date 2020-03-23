@@ -1,0 +1,5 @@
+crying(0.270)
+laughing(0.243)
+tickling(0.062)
+giggling(0.049)
+waking(0.021)

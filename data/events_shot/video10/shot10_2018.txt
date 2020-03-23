@@ -1,0 +1,5 @@
+adult+female+speaking(0.035)
+selling(0.033)
+cleaning(0.030)
+talking(0.027)
+tattooing(0.027)

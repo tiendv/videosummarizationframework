@@ -1,0 +1,5 @@
+crafting(0.058)
+painting(0.057)
+adult+female+speaking(0.046)
+smiling(0.042)
+standing(0.039)

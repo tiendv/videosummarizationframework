@@ -1,0 +1,5 @@
+frowning(0.140)
+painting(0.039)
+pointing(0.030)
+adult+male+speaking(0.029)
+aiming(0.028)

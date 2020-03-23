@@ -1,0 +1,5 @@
+packing(0.082)
+unpacking(0.074)
+slapping(0.040)
+sneezing(0.032)
+asking(0.027)

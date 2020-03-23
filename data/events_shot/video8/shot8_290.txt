@@ -1,0 +1,5 @@
+drinking(0.217)
+dining(0.183)
+eating(0.116)
+cooking(0.034)
+smelling(0.029)

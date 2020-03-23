@@ -1,0 +1,5 @@
+hunting(0.085)
+talking(0.044)
+adult+male+speaking(0.033)
+roaring(0.030)
+burying(0.030)

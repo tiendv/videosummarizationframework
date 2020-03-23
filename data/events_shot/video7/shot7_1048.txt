@@ -1,0 +1,5 @@
+telephoning(0.303)
+typing(0.133)
+adult+female+speaking(0.107)
+calling(0.084)
+adult+female+singing(0.041)

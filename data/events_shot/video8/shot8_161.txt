@@ -1,0 +1,5 @@
+slapping(0.037)
+bathing(0.033)
+shaving(0.028)
+frowning(0.026)
+adult+male+speaking(0.024)

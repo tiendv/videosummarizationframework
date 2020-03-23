@@ -1,0 +1,5 @@
+standing(0.050)
+shrugging(0.049)
+talking(0.038)
+slapping(0.036)
+raising(0.032)

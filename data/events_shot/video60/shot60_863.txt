@@ -1,0 +1,5 @@
+adult+male+singing(0.065)
+standing(0.065)
+adult+female+singing(0.031)
+cleaning(0.025)
+raining(0.023)

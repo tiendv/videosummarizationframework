@@ -1,0 +1,5 @@
+sitting(0.049)
+adult+female+speaking(0.041)
+giving(0.037)
+discussing(0.034)
+asking(0.032)

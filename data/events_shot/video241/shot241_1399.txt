@@ -1,0 +1,5 @@
+walking(0.106)
+raining(0.077)
+slapping(0.046)
+knocking(0.033)
+running(0.032)

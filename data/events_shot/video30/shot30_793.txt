@@ -1,0 +1,5 @@
+whistling(0.417)
+talking(0.053)
+frowning(0.028)
+guarding(0.024)
+adult+male+speaking(0.024)

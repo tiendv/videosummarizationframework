@@ -1,0 +1,5 @@
+fighting(0.161)
+attacking(0.065)
+hugging(0.046)
+filming(0.041)
+playing+videogames(0.026)

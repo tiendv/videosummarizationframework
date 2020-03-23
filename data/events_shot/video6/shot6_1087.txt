@@ -1,0 +1,5 @@
+smiling(0.101)
+knocking(0.096)
+walking(0.058)
+filming(0.038)
+entering(0.038)

@@ -1,0 +1,5 @@
+crying(0.080)
+laughing(0.055)
+sleeping(0.026)
+handcuffing(0.025)
+waking(0.024)

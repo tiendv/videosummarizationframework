@@ -1,0 +1,5 @@
+adult+female+speaking(0.039)
+sitting(0.032)
+asking(0.026)
+protesting(0.024)
+hugging(0.022)

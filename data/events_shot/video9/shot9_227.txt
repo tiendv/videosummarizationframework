@@ -1,0 +1,5 @@
+opening(0.172)
+child+speaking(0.069)
+closing(0.059)
+sitting(0.052)
+giving(0.042)

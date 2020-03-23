@@ -1,0 +1,5 @@
+attacking(0.133)
+fighting(0.053)
+roaring(0.040)
+flying(0.025)
+shooting(0.023)

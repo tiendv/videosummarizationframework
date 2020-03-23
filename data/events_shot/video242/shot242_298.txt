@@ -1,0 +1,5 @@
+aiming(0.817)
+adult+male+speaking(0.044)
+pointing(0.020)
+hitting(0.013)
+putting(0.012)

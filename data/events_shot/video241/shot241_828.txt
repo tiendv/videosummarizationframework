@@ -1,0 +1,5 @@
+shooting(0.084)
+guarding(0.068)
+playing+videogames(0.046)
+saluting(0.043)
+filming(0.042)

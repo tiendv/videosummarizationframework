@@ -1,0 +1,5 @@
+queuing(0.037)
+filming(0.037)
+standing(0.029)
+sitting(0.025)
+talking(0.023)

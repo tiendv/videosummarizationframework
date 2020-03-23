@@ -1,0 +1,5 @@
+painting(0.300)
+brushing(0.109)
+climbing(0.075)
+combing(0.046)
+frowning(0.029)

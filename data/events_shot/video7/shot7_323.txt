@@ -1,0 +1,5 @@
+discussing(0.109)
+talking(0.079)
+queuing(0.056)
+walking(0.054)
+sitting(0.042)

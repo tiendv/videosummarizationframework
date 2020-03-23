@@ -1,0 +1,5 @@
+drying(0.030)
+cleaning(0.025)
+adult+female+speaking(0.020)
+boxing(0.020)
+adult+female+singing(0.019)

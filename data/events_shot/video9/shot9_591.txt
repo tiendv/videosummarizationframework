@@ -1,0 +1,5 @@
+guarding(0.055)
+removing(0.039)
+snowing(0.031)
+arresting(0.030)
+gripping(0.023)

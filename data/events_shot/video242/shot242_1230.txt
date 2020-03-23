@@ -1,0 +1,5 @@
+walking(0.055)
+standing(0.049)
+saluting(0.046)
+guarding(0.043)
+adult+male+singing(0.026)

@@ -1,0 +1,5 @@
+cleaning(0.094)
+brushing(0.037)
+talking(0.032)
+removing(0.026)
+drying(0.026)

@@ -1,0 +1,5 @@
+cleaning(0.034)
+flipping(0.032)
+cooking(0.028)
+baking(0.028)
+sitting(0.026)

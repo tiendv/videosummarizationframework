@@ -1,0 +1,5 @@
+fencing(0.203)
+building(0.177)
+constructing(0.059)
+squatting(0.050)
+assembling(0.048)

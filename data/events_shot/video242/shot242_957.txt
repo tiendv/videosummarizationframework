@@ -1,0 +1,5 @@
+bowing(0.076)
+walking(0.063)
+standing(0.058)
+adult+male+singing(0.047)
+slapping(0.039)

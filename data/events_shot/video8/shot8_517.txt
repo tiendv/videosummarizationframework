@@ -1,0 +1,5 @@
+waving(0.082)
+driving(0.063)
+steering(0.062)
+guarding(0.044)
+saluting(0.043)

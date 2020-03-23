@@ -1,0 +1,5 @@
+selling(0.133)
+shopping(0.063)
+assembling(0.036)
+carving(0.031)
+working(0.029)

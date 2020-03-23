@@ -1,0 +1,5 @@
+spinning(0.593)
+folding(0.112)
+turning(0.048)
+walking(0.006)
+joining(0.006)

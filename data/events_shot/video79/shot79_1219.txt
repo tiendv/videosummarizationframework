@@ -1,0 +1,5 @@
+adult+male+speaking(0.141)
+putting(0.053)
+adult+female+speaking(0.052)
+aiming(0.043)
+squatting(0.030)

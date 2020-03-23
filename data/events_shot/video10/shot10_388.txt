@@ -1,0 +1,5 @@
+fencing(0.086)
+walking(0.051)
+arresting(0.037)
+standing(0.027)
+adult+male+speaking(0.025)

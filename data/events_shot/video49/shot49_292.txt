@@ -1,0 +1,5 @@
+running(0.052)
+walking(0.049)
+laughing(0.030)
+mopping(0.030)
+fueling(0.026)

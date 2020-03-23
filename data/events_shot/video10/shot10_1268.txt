@@ -1,0 +1,5 @@
+cleaning(0.061)
+packing(0.045)
+shooting(0.041)
+stacking(0.039)
+pointing(0.035)

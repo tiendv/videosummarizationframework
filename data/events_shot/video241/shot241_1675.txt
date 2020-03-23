@@ -1,0 +1,5 @@
+cooking(0.048)
+slicing(0.033)
+frowning(0.033)
+cutting(0.030)
+crying(0.028)

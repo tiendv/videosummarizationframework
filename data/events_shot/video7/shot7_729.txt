@@ -1,0 +1,5 @@
+exiting(0.068)
+pointing(0.063)
+walking(0.042)
+discussing(0.026)
+asking(0.025)

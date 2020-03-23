@@ -1,0 +1,5 @@
+adult+female+speaking(0.066)
+discussing(0.064)
+interviewing(0.055)
+asking(0.051)
+dining(0.033)

@@ -1,0 +1,5 @@
+raising(0.090)
+shrugging(0.050)
+lifting(0.042)
+tattooing(0.025)
+dressing(0.022)

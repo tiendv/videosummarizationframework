@@ -1,0 +1,5 @@
+waving(0.321)
+clapping(0.092)
+adult+female+speaking(0.084)
+laughing(0.042)
+smiling(0.041)

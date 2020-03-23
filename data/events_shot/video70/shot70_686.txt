@@ -1,0 +1,5 @@
+walking(0.286)
+pushing(0.085)
+slapping(0.035)
+spinning(0.019)
+crying(0.018)

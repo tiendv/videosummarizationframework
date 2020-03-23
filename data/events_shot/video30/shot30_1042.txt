@@ -1,0 +1,5 @@
+drinking(0.063)
+working(0.033)
+adult+male+speaking(0.031)
+flicking(0.026)
+painting(0.021)

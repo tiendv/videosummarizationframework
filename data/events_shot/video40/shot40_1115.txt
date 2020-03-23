@@ -1,0 +1,5 @@
+tying(0.405)
+knitting(0.055)
+assembling(0.043)
+repairing(0.023)
+crafting(0.014)

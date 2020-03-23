@@ -1,0 +1,5 @@
+slapping(0.052)
+sneezing(0.035)
+attacking(0.034)
+roaring(0.031)
+adult+male+speaking(0.028)

@@ -1,0 +1,5 @@
+opening(0.355)
+giving(0.121)
+closing(0.102)
+wrapping(0.093)
+unpacking(0.042)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.145)
+guarding(0.052)
+building(0.042)
+discussing(0.039)
+blocking(0.027)

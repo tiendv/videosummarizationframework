@@ -1,0 +1,5 @@
+dining(0.072)
+adult+female+speaking(0.061)
+stirring(0.046)
+asking(0.036)
+painting(0.033)

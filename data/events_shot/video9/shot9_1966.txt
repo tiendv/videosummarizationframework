@@ -1,0 +1,5 @@
+painting(0.150)
+drawing(0.055)
+slapping(0.054)
+tattooing(0.038)
+punching(0.024)

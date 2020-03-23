@@ -1,0 +1,5 @@
+talking(0.102)
+adult+female+speaking(0.075)
+selling(0.050)
+standing(0.041)
+shopping(0.041)

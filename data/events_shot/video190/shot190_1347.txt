@@ -1,0 +1,5 @@
+walking(0.137)
+running(0.049)
+slapping(0.046)
+exiting(0.031)
+standing(0.030)

@@ -1,0 +1,5 @@
+walking(0.045)
+shooting(0.040)
+filming(0.040)
+adult+male+speaking(0.037)
+crying(0.037)

@@ -1,0 +1,5 @@
+drinking(0.087)
+adult+female+speaking(0.050)
+filming(0.036)
+adult+male+speaking(0.031)
+photographing(0.025)

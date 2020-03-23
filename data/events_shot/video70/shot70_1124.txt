@@ -1,0 +1,5 @@
+hugging(0.417)
+carrying(0.051)
+walking(0.046)
+crying(0.044)
+filming(0.024)

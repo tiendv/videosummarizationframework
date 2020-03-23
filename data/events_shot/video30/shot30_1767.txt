@@ -1,0 +1,5 @@
+punching(0.107)
+aiming(0.057)
+slapping(0.046)
+pointing(0.036)
+hitting(0.029)

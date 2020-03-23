@@ -1,0 +1,5 @@
+walking(0.214)
+carrying(0.047)
+talking(0.043)
+slapping(0.036)
+shrugging(0.032)

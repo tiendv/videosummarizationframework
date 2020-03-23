@@ -1,0 +1,5 @@
+walking(0.030)
+laughing(0.030)
+attacking(0.023)
+working(0.020)
+cleaning(0.019)

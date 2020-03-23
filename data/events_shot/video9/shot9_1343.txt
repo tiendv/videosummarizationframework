@@ -1,0 +1,5 @@
+smoking(0.071)
+adult+male+speaking(0.049)
+slapping(0.047)
+discussing(0.027)
+asking(0.021)

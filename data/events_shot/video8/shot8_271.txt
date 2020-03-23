@@ -1,0 +1,5 @@
+walking(0.170)
+knocking(0.053)
+standing(0.050)
+child+speaking(0.041)
+pushing(0.035)

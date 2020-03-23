@@ -1,0 +1,5 @@
+sneezing(0.288)
+coughing(0.080)
+crafting(0.020)
+flicking(0.019)
+laughing(0.018)

@@ -1,0 +1,5 @@
+mopping(0.108)
+baking(0.073)
+dusting(0.046)
+child+speaking(0.041)
+crafting(0.027)

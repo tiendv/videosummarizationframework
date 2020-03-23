@@ -1,0 +1,5 @@
+signing(0.135)
+brushing(0.122)
+adult+female+speaking(0.061)
+interviewing(0.037)
+combing(0.030)

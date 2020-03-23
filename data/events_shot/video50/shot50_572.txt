@@ -1,0 +1,5 @@
+fencing(0.222)
+adult+male+speaking(0.145)
+discussing(0.108)
+adult+female+speaking(0.062)
+socializing(0.038)

@@ -1,0 +1,5 @@
+walking(0.063)
+standing(0.056)
+arresting(0.044)
+adult+female+singing(0.034)
+playing+music(0.034)

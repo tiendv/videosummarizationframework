@@ -1,0 +1,5 @@
+adult+female+speaking(0.091)
+resting(0.080)
+smiling(0.077)
+cuddling(0.060)
+laughing(0.051)

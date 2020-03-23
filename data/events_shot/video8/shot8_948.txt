@@ -1,0 +1,5 @@
+drinking(0.250)
+smelling(0.043)
+dining(0.043)
+adult+female+speaking(0.037)
+eating(0.031)

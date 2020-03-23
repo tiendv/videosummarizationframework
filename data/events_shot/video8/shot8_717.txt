@@ -1,0 +1,5 @@
+drying(0.086)
+dusting(0.027)
+cleaning(0.027)
+spraying(0.026)
+rinsing(0.018)

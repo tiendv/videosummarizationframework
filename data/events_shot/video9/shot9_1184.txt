@@ -1,0 +1,5 @@
+adult+male+speaking(0.094)
+preaching(0.040)
+hammering(0.025)
+laughing(0.024)
+working(0.022)

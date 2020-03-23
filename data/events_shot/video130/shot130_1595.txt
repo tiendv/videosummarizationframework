@@ -1,0 +1,5 @@
+waking(0.066)
+adult+male+speaking(0.052)
+sneezing(0.041)
+playing+videogames(0.033)
+resting(0.032)

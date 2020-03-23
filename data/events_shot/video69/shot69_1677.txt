@@ -1,0 +1,5 @@
+adult+female+singing(0.313)
+adult+male+singing(0.193)
+playing+videogames(0.062)
+raining(0.038)
+running(0.024)

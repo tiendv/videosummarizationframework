@@ -1,0 +1,5 @@
+stealing(0.320)
+mopping(0.029)
+bowing(0.029)
+sweeping(0.022)
+pushing(0.016)

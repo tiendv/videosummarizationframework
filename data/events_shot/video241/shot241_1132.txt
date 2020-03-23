@@ -1,0 +1,5 @@
+adult+male+speaking(0.093)
+asking(0.051)
+knocking(0.050)
+discussing(0.031)
+pointing(0.030)

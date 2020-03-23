@@ -1,0 +1,5 @@
+painting(0.157)
+adult+male+speaking(0.114)
+discussing(0.027)
+drinking(0.023)
+standing(0.022)

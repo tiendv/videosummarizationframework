@@ -1,0 +1,5 @@
+cuddling(0.048)
+camping(0.040)
+hugging(0.039)
+adult+female+speaking(0.039)
+adult+female+singing(0.029)

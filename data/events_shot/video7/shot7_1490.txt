@@ -1,0 +1,5 @@
+slapping(0.212)
+punching(0.114)
+discussing(0.082)
+fighting(0.069)
+pointing(0.061)

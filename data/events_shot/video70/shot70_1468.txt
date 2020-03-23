@@ -1,0 +1,5 @@
+drinking(0.049)
+smelling(0.040)
+sniffing(0.035)
+tapping(0.031)
+balancing(0.020)

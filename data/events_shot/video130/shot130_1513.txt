@@ -1,0 +1,5 @@
+cuddling(0.085)
+adult+male+speaking(0.047)
+resting(0.045)
+adult+male+singing(0.043)
+waking(0.041)

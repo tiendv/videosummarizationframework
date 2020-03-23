@@ -1,0 +1,5 @@
+frowning(0.100)
+saluting(0.041)
+squinting(0.037)
+aiming(0.035)
+winking(0.035)

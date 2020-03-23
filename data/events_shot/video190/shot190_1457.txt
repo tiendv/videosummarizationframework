@@ -1,0 +1,5 @@
+fighting(0.052)
+running(0.038)
+shooting(0.037)
+attacking(0.037)
+adult+male+speaking(0.030)

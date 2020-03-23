@@ -1,0 +1,5 @@
+peeling(0.827)
+slicing(0.009)
+picking(0.007)
+cutting(0.005)
+chopping(0.004)

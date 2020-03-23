@@ -1,0 +1,5 @@
+exiting(0.081)
+arresting(0.053)
+driving(0.046)
+fueling(0.044)
+stopping(0.032)

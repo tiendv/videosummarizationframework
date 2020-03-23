@@ -1,0 +1,5 @@
+sprinting(0.266)
+running(0.109)
+cheering(0.040)
+cheerleading(0.030)
+playing+videogames(0.024)

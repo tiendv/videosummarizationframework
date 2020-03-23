@@ -1,0 +1,5 @@
+telephoning(0.615)
+calling(0.110)
+cracking(0.022)
+adult+male+speaking(0.010)
+smoking(0.007)

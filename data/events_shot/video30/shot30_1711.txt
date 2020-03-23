@@ -1,0 +1,5 @@
+walking(0.077)
+closing(0.050)
+opening(0.042)
+arresting(0.042)
+exiting(0.041)

@@ -1,0 +1,5 @@
+smoking(0.066)
+pointing(0.035)
+combing(0.029)
+brushing(0.029)
+blowing(0.026)

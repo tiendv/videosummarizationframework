@@ -1,0 +1,5 @@
+laughing(0.063)
+sneezing(0.049)
+smiling(0.027)
+brushing(0.026)
+slapping(0.026)

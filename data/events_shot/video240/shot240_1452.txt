@@ -1,0 +1,5 @@
+cooking(0.209)
+dining(0.037)
+cleaning(0.027)
+laughing(0.025)
+baking(0.024)

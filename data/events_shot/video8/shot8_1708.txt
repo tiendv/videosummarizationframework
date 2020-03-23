@@ -1,0 +1,5 @@
+fighting(0.097)
+walking(0.066)
+slapping(0.034)
+asking(0.030)
+adult+female+speaking(0.030)

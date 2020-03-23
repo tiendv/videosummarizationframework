@@ -1,0 +1,5 @@
+slapping(0.192)
+clapping(0.032)
+washing(0.032)
+talking(0.030)
+standing(0.028)

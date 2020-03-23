@@ -1,0 +1,5 @@
+slapping(0.151)
+walking(0.078)
+knocking(0.074)
+adult+female+speaking(0.027)
+standing(0.026)

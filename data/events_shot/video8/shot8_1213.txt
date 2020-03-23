@@ -1,0 +1,5 @@
+drinking(0.040)
+dining(0.032)
+filming(0.031)
+standing(0.030)
+cooking(0.020)

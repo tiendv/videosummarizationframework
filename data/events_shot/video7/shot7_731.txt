@@ -1,0 +1,5 @@
+painting(0.132)
+crafting(0.074)
+drawing(0.036)
+sketching(0.029)
+adult+male+speaking(0.026)

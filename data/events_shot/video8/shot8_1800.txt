@@ -1,0 +1,5 @@
+dining(0.078)
+discussing(0.066)
+standing(0.044)
+queuing(0.035)
+asking(0.030)

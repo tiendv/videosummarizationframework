@@ -1,0 +1,5 @@
+opening(0.189)
+closing(0.086)
+child+speaking(0.025)
+adult+female+speaking(0.024)
+adult+female+singing(0.020)

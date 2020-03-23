@@ -1,0 +1,5 @@
+drinking(0.503)
+cooking(0.028)
+laughing(0.025)
+spitting(0.023)
+dipping(0.021)

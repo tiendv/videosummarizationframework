@@ -1,0 +1,5 @@
+turning(0.062)
+pointing(0.052)
+opening(0.051)
+aiming(0.043)
+standing(0.040)

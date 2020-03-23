@@ -1,0 +1,5 @@
+adult+female+singing(0.521)
+adult+female+speaking(0.093)
+bouncing(0.042)
+kissing(0.026)
+singing(0.015)

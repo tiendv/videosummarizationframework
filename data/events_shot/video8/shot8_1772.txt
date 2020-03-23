@@ -1,0 +1,5 @@
+adult+male+speaking(0.095)
+discussing(0.052)
+asking(0.038)
+smelling(0.029)
+sniffing(0.028)

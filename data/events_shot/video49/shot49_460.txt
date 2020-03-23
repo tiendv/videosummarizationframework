@@ -1,0 +1,5 @@
+driving(0.030)
+sneezing(0.029)
+filming(0.026)
+discussing(0.025)
+sitting(0.024)

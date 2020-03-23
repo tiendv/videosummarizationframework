@@ -1,0 +1,5 @@
+adult+male+speaking(0.096)
+standing(0.066)
+officiating(0.063)
+guarding(0.060)
+knocking(0.058)

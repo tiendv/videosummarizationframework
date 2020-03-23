@@ -1,0 +1,5 @@
+talking(0.025)
+combusting(0.022)
+standing(0.020)
+whistling(0.019)
+starting(0.018)

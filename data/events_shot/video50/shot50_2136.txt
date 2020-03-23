@@ -1,0 +1,5 @@
+walking(0.167)
+filming(0.044)
+standing(0.040)
+asking(0.028)
+photographing(0.021)

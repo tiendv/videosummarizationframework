@@ -1,0 +1,5 @@
+tapping(0.101)
+scratching(0.080)
+slapping(0.034)
+chewing(0.032)
+hugging(0.031)

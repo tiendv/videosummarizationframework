@@ -1,0 +1,5 @@
+smelling(0.110)
+sniffing(0.058)
+chewing(0.051)
+adult+male+speaking(0.042)
+biting(0.036)

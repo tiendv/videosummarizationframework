@@ -1,0 +1,5 @@
+walking(0.066)
+stealing(0.043)
+adult+female+speaking(0.032)
+standing(0.024)
+adult+female+singing(0.021)

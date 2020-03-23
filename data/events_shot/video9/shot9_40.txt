@@ -1,0 +1,5 @@
+typing(0.297)
+telephoning(0.085)
+writing(0.064)
+discussing(0.031)
+sitting(0.031)

@@ -1,0 +1,5 @@
+talking(0.245)
+discussing(0.063)
+working(0.047)
+cooking(0.037)
+pointing(0.035)

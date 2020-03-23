@@ -1,0 +1,5 @@
+adult+male+speaking(0.063)
+queuing(0.048)
+chewing(0.035)
+slapping(0.032)
+adult+female+speaking(0.032)

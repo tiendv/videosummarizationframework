@@ -1,0 +1,5 @@
+standing(0.082)
+cooking(0.040)
+smiling(0.039)
+baking(0.038)
+imitating(0.035)

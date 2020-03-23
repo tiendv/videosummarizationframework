@@ -1,0 +1,5 @@
+standing(0.026)
+applauding(0.021)
+filming(0.021)
+rocking(0.020)
+sitting(0.018)

@@ -1,0 +1,5 @@
+cooking(0.276)
+baking(0.151)
+stirring(0.088)
+knitting(0.080)
+crafting(0.037)

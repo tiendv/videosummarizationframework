@@ -1,0 +1,5 @@
+adult+female+speaking(0.103)
+laughing(0.054)
+massaging(0.044)
+crying(0.033)
+sneezing(0.029)

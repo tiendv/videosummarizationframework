@@ -1,0 +1,5 @@
+queuing(0.134)
+bowling(0.071)
+stopping(0.036)
+standing(0.029)
+adult+male+speaking(0.020)

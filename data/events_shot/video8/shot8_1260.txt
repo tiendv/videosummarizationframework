@@ -1,0 +1,5 @@
+painting(0.049)
+adult+female+speaking(0.046)
+adult+female+singing(0.029)
+adult+male+speaking(0.019)
+standing(0.019)

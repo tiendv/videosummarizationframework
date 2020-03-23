@@ -1,0 +1,5 @@
+opening(0.078)
+painting(0.059)
+closing(0.036)
+folding(0.034)
+crafting(0.023)

@@ -1,0 +1,5 @@
+child+singing(0.108)
+cheerleading(0.078)
+adult+female+singing(0.063)
+dancing(0.045)
+child+speaking(0.041)

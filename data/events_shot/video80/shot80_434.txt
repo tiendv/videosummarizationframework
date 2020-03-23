@@ -1,0 +1,5 @@
+playing+videogames(0.050)
+aiming(0.033)
+shooting(0.031)
+walking(0.029)
+talking(0.026)

@@ -1,0 +1,5 @@
+baptizing(0.311)
+officiating(0.222)
+praying(0.078)
+adult+male+speaking(0.028)
+preaching(0.020)

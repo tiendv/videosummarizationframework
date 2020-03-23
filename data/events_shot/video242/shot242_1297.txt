@@ -1,0 +1,6 @@
+arresting(0.081)
+asking(0.074)
+fueling(0.046)
+adult+male+speaking(0.042)
+talking(0.039)
+ng(0.052)

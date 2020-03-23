@@ -1,0 +1,5 @@
+standing(0.071)
+breaking(0.031)
+walking(0.025)
+talking(0.024)
+attacking(0.023)

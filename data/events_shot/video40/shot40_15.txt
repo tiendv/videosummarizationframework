@@ -1,0 +1,5 @@
+adult+female+speaking(0.110)
+discussing(0.058)
+talking(0.049)
+hugging(0.034)
+eating(0.023)

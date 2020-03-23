@@ -1,0 +1,5 @@
+gambling(0.103)
+praying(0.083)
+bowing(0.047)
+adult+male+speaking(0.033)
+reading(0.031)

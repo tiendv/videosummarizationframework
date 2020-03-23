@@ -1,0 +1,5 @@
+sleeping(0.077)
+sitting(0.068)
+adult+male+speaking(0.045)
+resting(0.042)
+waking(0.024)

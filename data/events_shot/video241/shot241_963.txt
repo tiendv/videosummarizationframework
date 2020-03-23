@@ -1,0 +1,5 @@
+hitchhiking(0.518)
+adult+female+speaking(0.184)
+asking(0.072)
+adult+female+singing(0.020)
+kissing(0.012)

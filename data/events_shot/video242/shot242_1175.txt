@@ -1,0 +1,5 @@
+adult+male+speaking(0.033)
+filming(0.027)
+carrying(0.027)
+walking(0.026)
+pointing(0.025)

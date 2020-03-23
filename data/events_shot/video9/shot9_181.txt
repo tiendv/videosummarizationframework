@@ -1,0 +1,5 @@
+vacuuming(0.279)
+tattooing(0.120)
+cleaning(0.039)
+massaging(0.036)
+mopping(0.025)

@@ -1,0 +1,5 @@
+raining(0.165)
+snowing(0.061)
+clipping(0.033)
+falling(0.030)
+turning(0.029)

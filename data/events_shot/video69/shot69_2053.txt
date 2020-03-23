@@ -1,0 +1,5 @@
+juggling(0.159)
+standing(0.063)
+adult+female+speaking(0.038)
+adult+female+singing(0.033)
+adult+male+singing(0.027)

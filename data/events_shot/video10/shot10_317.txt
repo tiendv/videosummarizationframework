@@ -1,0 +1,5 @@
+dressing(0.037)
+drying(0.035)
+talking(0.032)
+putting(0.031)
+tying(0.025)

@@ -1,0 +1,5 @@
+sitting(0.108)
+praying(0.093)
+adult+female+speaking(0.052)
+talking(0.051)
+dining(0.042)

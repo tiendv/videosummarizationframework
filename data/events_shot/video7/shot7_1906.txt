@@ -1,0 +1,5 @@
+eating(0.170)
+dining(0.067)
+coughing(0.046)
+cooking(0.033)
+painting(0.032)

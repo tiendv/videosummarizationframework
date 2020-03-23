@@ -1,0 +1,5 @@
+child+speaking(0.086)
+stacking(0.063)
+shaking(0.061)
+chewing(0.052)
+sniffing(0.051)

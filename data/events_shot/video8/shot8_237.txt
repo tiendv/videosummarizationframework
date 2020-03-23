@@ -1,0 +1,5 @@
+dining(0.101)
+shaking(0.027)
+marrying(0.025)
+sitting(0.024)
+standing(0.022)

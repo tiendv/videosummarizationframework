@@ -1,0 +1,5 @@
+building(0.180)
+painting(0.048)
+constructing(0.042)
+spraying(0.039)
+running(0.032)

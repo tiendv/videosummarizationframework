@@ -1,0 +1,5 @@
+drinking(0.419)
+stacking(0.136)
+laughing(0.030)
+spitting(0.020)
+smelling(0.019)

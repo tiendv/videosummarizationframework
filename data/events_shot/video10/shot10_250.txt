@@ -1,0 +1,5 @@
+filming(0.044)
+pointing(0.037)
+exiting(0.034)
+guarding(0.034)
+slapping(0.031)

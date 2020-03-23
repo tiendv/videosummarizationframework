@@ -1,0 +1,5 @@
+adult+female+singing(0.241)
+adult+male+singing(0.144)
+singing(0.118)
+opening(0.049)
+closing(0.034)

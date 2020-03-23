@@ -1,0 +1,5 @@
+sitting(0.243)
+whistling(0.130)
+talking(0.123)
+interviewing(0.063)
+discussing(0.049)

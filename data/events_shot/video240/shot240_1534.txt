@@ -1,0 +1,5 @@
+walking(0.071)
+attacking(0.048)
+raining(0.046)
+fighting(0.036)
+clipping(0.035)

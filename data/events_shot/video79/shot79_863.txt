@@ -1,0 +1,5 @@
+sneezing(0.066)
+coughing(0.058)
+working(0.036)
+discussing(0.032)
+cooking(0.026)
