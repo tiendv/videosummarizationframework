@@ -1,0 +1,5 @@
+fighting(0.220)
+attacking(0.052)
+playing+videogames(0.046)
+adult+male+speaking(0.032)
+clipping(0.032)

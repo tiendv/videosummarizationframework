@@ -1,0 +1,5 @@
+reading(0.242)
+steering(0.084)
+driving(0.074)
+sitting(0.070)
+riding(0.044)

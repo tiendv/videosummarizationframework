@@ -1,0 +1,5 @@
+guarding(0.104)
+adult+male+speaking(0.071)
+filming(0.041)
+standing(0.039)
+officiating(0.033)

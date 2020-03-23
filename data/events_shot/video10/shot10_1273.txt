@@ -1,0 +1,5 @@
+juggling(0.169)
+stacking(0.040)
+flipping(0.034)
+snapping(0.021)
+slapping(0.020)

@@ -1,0 +1,5 @@
+stacking(0.101)
+slapping(0.075)
+blocking(0.028)
+taping(0.024)
+shaking(0.024)

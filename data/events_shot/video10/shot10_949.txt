@@ -1,0 +1,5 @@
+autographing(0.229)
+asking(0.123)
+adult+male+speaking(0.121)
+discussing(0.052)
+eating(0.042)

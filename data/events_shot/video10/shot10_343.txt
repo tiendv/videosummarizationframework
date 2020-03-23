@@ -1,0 +1,5 @@
+adult+female+speaking(0.189)
+bouncing(0.108)
+smiling(0.076)
+laughing(0.055)
+sneezing(0.026)

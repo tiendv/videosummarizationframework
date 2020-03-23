@@ -1,0 +1,5 @@
+slapping(0.267)
+hanging(0.075)
+opening(0.038)
+knocking(0.031)
+pointing(0.030)

@@ -1,0 +1,5 @@
+gardening(0.121)
+fencing(0.069)
+planting(0.059)
+bowing(0.034)
+starting(0.032)

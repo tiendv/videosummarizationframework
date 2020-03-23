@@ -1,0 +1,5 @@
+chewing(0.051)
+brushing(0.033)
+drinking(0.033)
+smoking(0.027)
+tapping(0.025)

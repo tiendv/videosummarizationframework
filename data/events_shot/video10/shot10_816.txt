@@ -1,0 +1,5 @@
+talking(0.119)
+pointing(0.086)
+smiling(0.055)
+adult+female+speaking(0.044)
+working(0.033)

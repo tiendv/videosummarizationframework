@@ -1,0 +1,5 @@
+building(0.056)
+constructing(0.048)
+crafting(0.027)
+cleaning(0.025)
+sanding(0.022)

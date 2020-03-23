@@ -1,0 +1,5 @@
+aiming(0.248)
+putting(0.176)
+piloting(0.087)
+placing(0.056)
+playing+videogames(0.043)

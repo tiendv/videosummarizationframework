@@ -1,0 +1,5 @@
+sitting(0.156)
+painting(0.112)
+discussing(0.056)
+reading(0.056)
+teaching(0.042)

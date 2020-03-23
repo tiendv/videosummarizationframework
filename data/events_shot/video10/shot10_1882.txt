@@ -1,0 +1,5 @@
+waking(0.147)
+sleeping(0.062)
+reading(0.038)
+resting(0.034)
+folding(0.020)

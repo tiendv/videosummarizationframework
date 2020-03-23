@@ -1,0 +1,5 @@
+adult+male+speaking(0.125)
+discussing(0.088)
+coaching(0.058)
+slapping(0.048)
+starting(0.037)

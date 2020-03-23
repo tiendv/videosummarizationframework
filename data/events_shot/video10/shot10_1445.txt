@@ -1,0 +1,5 @@
+adult+male+speaking(0.091)
+asking(0.061)
+stealing(0.046)
+slapping(0.036)
+punching(0.031)

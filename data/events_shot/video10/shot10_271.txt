@@ -1,0 +1,5 @@
+fencing(0.182)
+painting(0.149)
+drying(0.053)
+spraying(0.031)
+hanging(0.030)

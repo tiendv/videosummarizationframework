@@ -1,0 +1,5 @@
+manicuring(0.639)
+painting(0.160)
+brushing(0.051)
+crafting(0.012)
+dipping(0.010)
