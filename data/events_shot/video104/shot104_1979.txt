@@ -1,0 +1,5 @@
+adult+male+speaking(0.040)
+cracking(0.027)
+working(0.027)
+telephoning(0.022)
+aiming(0.018)

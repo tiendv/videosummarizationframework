@@ -1,0 +1,5 @@
+driving(0.863)
+steering(0.043)
+raining(0.036)
+riding(0.019)
+smoking(0.008)

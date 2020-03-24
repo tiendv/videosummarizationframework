@@ -1,5 +1,0 @@
-walking(0.079)
-standing(0.054)
-fencing(0.054)
-stomping(0.029)
-camping(0.027)

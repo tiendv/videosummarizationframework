@@ -1,5 +1,0 @@
-driving(0.129)
-riding(0.104)
-queuing(0.100)
-steering(0.050)
-walking(0.049)

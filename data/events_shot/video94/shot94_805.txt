@@ -1,0 +1,5 @@
+drying(0.074)
+shaving(0.046)
+dressing(0.041)
+packing(0.031)
+putting(0.030)

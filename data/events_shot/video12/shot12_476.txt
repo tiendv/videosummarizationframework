@@ -1,0 +1,5 @@
+crying(0.115)
+laughing(0.087)
+kissing(0.073)
+slapping(0.060)
+cracking(0.025)

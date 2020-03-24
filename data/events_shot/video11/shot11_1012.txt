@@ -1,0 +1,5 @@
+running(0.040)
+walking(0.034)
+building(0.032)
+standing(0.018)
+slipping(0.018)

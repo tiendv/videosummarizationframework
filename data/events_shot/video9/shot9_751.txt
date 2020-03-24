@@ -1,5 +1,0 @@
-sitting(0.069)
-chewing(0.058)
-smoking(0.040)
-eating(0.032)
-whistling(0.030)

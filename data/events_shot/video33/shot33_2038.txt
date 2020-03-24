@@ -1,0 +1,5 @@
+handcuffing(0.631)
+arresting(0.086)
+gripping(0.034)
+taping(0.017)
+discussing(0.009)

@@ -1,0 +1,5 @@
+tapping(0.179)
+playing+music(0.096)
+sleeping(0.042)
+adult+female+speaking(0.040)
+scratching(0.025)

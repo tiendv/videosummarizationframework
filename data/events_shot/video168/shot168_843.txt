@@ -1,5 +1,0 @@
-shopping(0.178)
-smelling(0.056)
-smiling(0.045)
-sniffing(0.039)
-adult+female+speaking(0.039)

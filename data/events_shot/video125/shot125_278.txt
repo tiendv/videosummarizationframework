@@ -1,0 +1,5 @@
+cooking(0.069)
+talking(0.033)
+baking(0.028)
+discussing(0.027)
+stealing(0.022)

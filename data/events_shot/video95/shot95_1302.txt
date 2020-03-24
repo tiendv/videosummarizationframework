@@ -1,0 +1,5 @@
+pointing(0.058)
+discussing(0.058)
+frowning(0.055)
+adult+male+speaking(0.049)
+crying(0.047)

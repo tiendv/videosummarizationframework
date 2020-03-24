@@ -1,0 +1,5 @@
+fencing(0.633)
+gardening(0.081)
+planting(0.052)
+hiking(0.010)
+hunting(0.009)

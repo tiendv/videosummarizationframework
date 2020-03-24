@@ -1,0 +1,5 @@
+bowing(0.216)
+standing(0.050)
+dressing(0.045)
+shaving(0.027)
+inflating(0.024)

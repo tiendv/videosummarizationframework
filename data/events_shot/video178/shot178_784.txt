@@ -1,5 +1,0 @@
-standing(0.021)
-carrying(0.020)
-preaching(0.018)
-walking(0.017)
-adult+female+singing(0.015)

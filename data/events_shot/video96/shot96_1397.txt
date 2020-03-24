@@ -1,5 +1,0 @@
-adult+female+speaking(0.085)
-adult+female+singing(0.051)
-handcuffing(0.039)
-arresting(0.037)
-drying(0.037)

@@ -1,0 +1,5 @@
+marrying(0.047)
+standing(0.046)
+adult+female+speaking(0.033)
+interviewing(0.032)
+talking(0.030)

@@ -1,0 +1,5 @@
+brushing(0.132)
+stitching(0.109)
+combing(0.050)
+painting(0.043)
+knitting(0.041)

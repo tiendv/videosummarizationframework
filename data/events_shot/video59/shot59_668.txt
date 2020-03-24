@@ -1,5 +1,0 @@
-bicycling(0.040)
-standing(0.030)
-starting(0.022)
-squatting(0.021)
-filming(0.021)

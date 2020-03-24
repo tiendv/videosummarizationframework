@@ -1,0 +1,5 @@
+adult+female+speaking(0.086)
+discussing(0.058)
+adult+male+speaking(0.050)
+drying(0.037)
+cooking(0.035)

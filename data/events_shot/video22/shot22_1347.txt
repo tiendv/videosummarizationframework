@@ -1,0 +1,5 @@
+calling(0.230)
+telephoning(0.212)
+adult+male+speaking(0.136)
+arresting(0.029)
+handcuffing(0.024)

@@ -1,0 +1,5 @@
+arresting(0.120)
+asking(0.070)
+adult+male+speaking(0.060)
+discussing(0.059)
+autographing(0.055)

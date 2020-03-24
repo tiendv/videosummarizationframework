@@ -1,5 +1,0 @@
-tapping(0.749)
-adult+male+speaking(0.025)
-scratching(0.019)
-rubbing(0.011)
-chewing(0.010)

@@ -1,0 +1,5 @@
+cleaning(0.322)
+working(0.067)
+washing(0.038)
+feeding(0.035)
+removing(0.034)

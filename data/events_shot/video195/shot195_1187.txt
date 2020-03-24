@@ -1,5 +1,0 @@
-telephoning(0.188)
-calling(0.157)
-sleeping(0.053)
-waking(0.030)
-filming(0.023)

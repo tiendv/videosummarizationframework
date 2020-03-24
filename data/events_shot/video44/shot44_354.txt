@@ -1,0 +1,5 @@
+drinking(0.037)
+cooking(0.036)
+adult+female+singing(0.036)
+playing+videogames(0.030)
+dining(0.021)

@@ -1,0 +1,5 @@
+cooking(0.158)
+eating(0.063)
+baking(0.045)
+drinking(0.042)
+hugging(0.029)

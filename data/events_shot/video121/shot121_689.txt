@@ -1,0 +1,5 @@
+walking(0.537)
+standing(0.060)
+talking(0.038)
+interviewing(0.036)
+hiking(0.027)

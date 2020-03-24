@@ -1,5 +1,0 @@
-fueling(0.309)
-queuing(0.068)
-riding(0.036)
-walking(0.034)
-driving(0.032)

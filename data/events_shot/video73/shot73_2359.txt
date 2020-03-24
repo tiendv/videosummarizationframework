@@ -1,0 +1,5 @@
+stitching(0.332)
+tying(0.214)
+sewing(0.126)
+knitting(0.076)
+crafting(0.021)

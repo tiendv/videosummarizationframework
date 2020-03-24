@@ -1,0 +1,5 @@
+adult+male+speaking(0.067)
+cooking(0.063)
+stealing(0.043)
+barbecuing(0.029)
+spitting(0.029)

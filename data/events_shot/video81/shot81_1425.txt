@@ -1,0 +1,5 @@
+flipping(0.035)
+folding(0.032)
+cleaning(0.027)
+taping(0.019)
+sliding(0.019)

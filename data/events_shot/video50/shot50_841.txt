@@ -1,5 +1,0 @@
-driving(0.564)
-steering(0.119)
-riding(0.049)
-exiting(0.033)
-closing(0.027)

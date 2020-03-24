@@ -1,0 +1,5 @@
+drinking(0.055)
+dining(0.029)
+slapping(0.024)
+serving(0.019)
+discussing(0.019)

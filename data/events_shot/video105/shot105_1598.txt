@@ -1,0 +1,5 @@
+feeding(0.137)
+eating(0.114)
+brushing(0.075)
+chewing(0.028)
+sitting(0.023)

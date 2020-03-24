@@ -1,0 +1,5 @@
+hugging(0.154)
+smiling(0.078)
+tattooing(0.044)
+standing(0.031)
+adult+female+singing(0.018)

@@ -1,0 +1,5 @@
+fencing(0.401)
+barking(0.052)
+howling(0.032)
+spitting(0.020)
+roaring(0.019)

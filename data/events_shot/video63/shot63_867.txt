@@ -1,0 +1,5 @@
+reading(0.769)
+studying(0.069)
+adult+male+speaking(0.015)
+cramming(0.014)
+handwriting(0.009)

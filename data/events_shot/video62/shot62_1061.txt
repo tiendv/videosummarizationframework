@@ -1,0 +1,5 @@
+crying(0.109)
+frowning(0.056)
+walking(0.044)
+talking(0.028)
+opening(0.022)

@@ -1,0 +1,5 @@
+sleeping(0.307)
+waking(0.161)
+driving(0.031)
+cuddling(0.029)
+resting(0.026)

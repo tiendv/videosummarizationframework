@@ -1,5 +1,0 @@
-closing(0.023)
-opening(0.022)
-adult+male+speaking(0.021)
-drying(0.018)
-hanging(0.015)

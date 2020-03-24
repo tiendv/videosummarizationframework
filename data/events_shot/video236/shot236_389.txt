@@ -1,5 +1,0 @@
-cleaning(0.061)
-spinning(0.048)
-mopping(0.039)
-turning(0.039)
-dusting(0.032)

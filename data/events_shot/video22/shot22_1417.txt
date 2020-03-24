@@ -1,0 +1,5 @@
+slapping(0.100)
+pointing(0.069)
+adult+male+speaking(0.066)
+hugging(0.053)
+filming(0.040)

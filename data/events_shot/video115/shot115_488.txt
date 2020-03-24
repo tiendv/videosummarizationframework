@@ -1,5 +1,0 @@
-child+speaking(0.070)
-sneezing(0.047)
-laughing(0.025)
-putting(0.020)
-opening(0.018)

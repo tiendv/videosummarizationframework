@@ -1,0 +1,5 @@
+adult+male+speaking(0.070)
+crying(0.049)
+talking(0.042)
+shrugging(0.040)
+discussing(0.038)

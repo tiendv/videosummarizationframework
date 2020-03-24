@@ -1,0 +1,5 @@
+smiling(0.135)
+winking(0.087)
+talking(0.060)
+shrugging(0.042)
+squinting(0.041)

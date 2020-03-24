@@ -1,0 +1,5 @@
+brushing(0.065)
+adult+female+speaking(0.063)
+drying(0.055)
+talking(0.042)
+sitting(0.030)

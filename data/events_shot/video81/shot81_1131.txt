@@ -1,0 +1,5 @@
+shouting(0.057)
+singing(0.052)
+performing(0.046)
+driving(0.045)
+cheering(0.042)

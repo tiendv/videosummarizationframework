@@ -1,0 +1,5 @@
+bowing(0.238)
+sneezing(0.052)
+slapping(0.039)
+coughing(0.038)
+lifting(0.030)

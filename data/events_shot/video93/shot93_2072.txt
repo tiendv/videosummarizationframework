@@ -1,0 +1,5 @@
+flying(0.209)
+storming(0.135)
+raining(0.066)
+dropping(0.046)
+juggling(0.031)

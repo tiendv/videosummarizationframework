@@ -1,0 +1,5 @@
+adult+male+singing(0.607)
+adult+female+singing(0.135)
+child+singing(0.048)
+baptizing(0.028)
+singing(0.025)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.207)
+whistling(0.082)
+talking(0.056)
+standing(0.040)
+singing(0.027)

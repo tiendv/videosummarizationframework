@@ -1,0 +1,5 @@
+fighting(0.242)
+attacking(0.118)
+hugging(0.092)
+smashing(0.027)
+hitting(0.021)

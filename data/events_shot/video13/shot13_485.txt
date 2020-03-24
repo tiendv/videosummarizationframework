@@ -1,0 +1,5 @@
+adult+male+speaking(0.033)
+sitting(0.027)
+raining(0.022)
+talking(0.016)
+starting(0.015)

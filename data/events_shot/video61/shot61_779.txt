@@ -1,0 +1,5 @@
+walking(0.148)
+talking(0.063)
+standing(0.056)
+turning(0.052)
+singing(0.033)

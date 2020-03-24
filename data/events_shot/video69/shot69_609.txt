@@ -1,5 +1,0 @@
-adult+male+speaking(0.043)
-standing(0.040)
-squatting(0.033)
-painting(0.033)
-lifting(0.023)

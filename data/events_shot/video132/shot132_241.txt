@@ -1,0 +1,5 @@
+drinking(0.052)
+fighting(0.049)
+playing+videogames(0.028)
+sneezing(0.028)
+attacking(0.027)

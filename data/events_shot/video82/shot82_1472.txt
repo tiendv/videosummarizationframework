@@ -1,0 +1,5 @@
+stacking(0.147)
+pressing(0.121)
+building(0.032)
+constructing(0.025)
+crushing(0.023)

@@ -1,0 +1,5 @@
+bicycling(0.448)
+pedaling(0.098)
+spinning(0.077)
+rocking(0.023)
+riding(0.022)

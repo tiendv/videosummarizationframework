@@ -1,0 +1,5 @@
+crying(0.607)
+frowning(0.042)
+sneezing(0.031)
+slapping(0.013)
+coughing(0.012)

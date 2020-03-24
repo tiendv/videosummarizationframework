@@ -1,0 +1,5 @@
+filming(0.170)
+photographing(0.040)
+standing(0.032)
+adult+male+speaking(0.028)
+hugging(0.028)

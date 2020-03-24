@@ -1,0 +1,5 @@
+clipping(0.064)
+snowing(0.034)
+climbing(0.031)
+talking(0.026)
+standing(0.021)

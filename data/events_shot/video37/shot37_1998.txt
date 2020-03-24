@@ -1,5 +1,0 @@
-frowning(0.123)
-adult+male+speaking(0.034)
-painting(0.034)
-aiming(0.032)
-discussing(0.030)

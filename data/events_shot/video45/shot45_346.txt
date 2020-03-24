@@ -1,5 +1,0 @@
-gambling(0.080)
-reading(0.043)
-gripping(0.035)
-stacking(0.034)
-chewing(0.027)

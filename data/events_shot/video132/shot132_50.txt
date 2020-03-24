@@ -1,0 +1,5 @@
+measuring(0.964)
+operating(0.008)
+pointing(0.006)
+piloting(0.001)
+typing(0.001)

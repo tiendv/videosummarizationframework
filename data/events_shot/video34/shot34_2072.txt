@@ -1,0 +1,5 @@
+walking(0.093)
+boating(0.084)
+rafting(0.053)
+stomping(0.048)
+running(0.046)

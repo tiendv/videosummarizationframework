@@ -1,0 +1,5 @@
+adult+male+speaking(0.062)
+playing+videogames(0.049)
+drinking(0.038)
+giving(0.038)
+discussing(0.033)

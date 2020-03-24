@@ -1,0 +1,5 @@
+asking(0.068)
+standing(0.061)
+chewing(0.041)
+eating(0.031)
+officiating(0.030)

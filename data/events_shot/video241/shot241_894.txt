@@ -1,5 +1,0 @@
-child+speaking(0.060)
-slapping(0.055)
-child+singing(0.018)
-hugging(0.017)
-fighting(0.017)

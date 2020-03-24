@@ -1,5 +1,0 @@
-cooking(0.047)
-baking(0.035)
-adult+male+speaking(0.030)
-bowing(0.028)
-sneezing(0.023)

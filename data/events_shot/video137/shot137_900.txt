@@ -1,5 +1,0 @@
-opening(0.100)
-closing(0.081)
-gripping(0.022)
-aiming(0.021)
-locking(0.019)

@@ -1,5 +1,0 @@
-sneezing(0.390)
-coughing(0.095)
-eating(0.023)
-autographing(0.020)
-signing(0.019)

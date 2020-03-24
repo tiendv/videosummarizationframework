@@ -1,0 +1,5 @@
+tying(0.494)
+dressing(0.146)
+buttoning(0.110)
+calling(0.030)
+telephoning(0.020)

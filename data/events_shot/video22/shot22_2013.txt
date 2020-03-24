@@ -1,0 +1,5 @@
+smiling(0.483)
+adult+female+speaking(0.088)
+winking(0.081)
+grinning(0.072)
+marrying(0.063)

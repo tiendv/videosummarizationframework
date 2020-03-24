@@ -1,5 +1,0 @@
-child+speaking(0.125)
-squinting(0.053)
-talking(0.046)
-starting(0.042)
-adult+female+speaking(0.027)

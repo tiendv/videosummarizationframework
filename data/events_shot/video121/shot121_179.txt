@@ -1,0 +1,5 @@
+frowning(0.174)
+crying(0.126)
+adult+male+speaking(0.046)
+arresting(0.040)
+squinting(0.028)

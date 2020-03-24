@@ -1,5 +1,0 @@
-laughing(0.125)
-slapping(0.030)
-smiling(0.024)
-sneezing(0.022)
-standing(0.019)

@@ -1,0 +1,5 @@
+saluting(0.179)
+frowning(0.105)
+shrugging(0.066)
+guarding(0.052)
+standing(0.035)

@@ -1,0 +1,5 @@
+crying(0.374)
+frowning(0.119)
+shaving(0.040)
+brushing(0.039)
+slapping(0.034)

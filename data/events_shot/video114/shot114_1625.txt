@@ -1,0 +1,5 @@
+drinking(0.490)
+adult+female+speaking(0.048)
+bathing(0.035)
+adult+female+singing(0.030)
+playing+videogames(0.022)

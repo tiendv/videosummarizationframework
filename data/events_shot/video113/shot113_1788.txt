@@ -1,0 +1,5 @@
+dipping(0.495)
+mopping(0.174)
+cleaning(0.083)
+dunking(0.021)
+stealing(0.016)

@@ -1,0 +1,5 @@
+waking(0.258)
+cracking(0.098)
+sleeping(0.059)
+frowning(0.051)
+slapping(0.037)

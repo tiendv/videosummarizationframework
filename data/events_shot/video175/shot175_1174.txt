@@ -1,5 +1,0 @@
-climbing(0.090)
-standing(0.054)
-rising(0.033)
-playing+videogames(0.031)
-walking(0.023)

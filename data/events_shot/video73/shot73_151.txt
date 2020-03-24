@@ -1,0 +1,5 @@
+slapping(0.029)
+telephoning(0.023)
+adult+female+speaking(0.021)
+hugging(0.020)
+pointing(0.019)

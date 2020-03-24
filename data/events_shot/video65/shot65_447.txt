@@ -1,5 +1,0 @@
-stacking(0.064)
-walking(0.044)
-running(0.044)
-playing+videogames(0.039)
-loading(0.024)

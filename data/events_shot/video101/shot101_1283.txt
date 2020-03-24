@@ -1,0 +1,5 @@
+queuing(0.068)
+sitting(0.053)
+kneeling(0.029)
+adult+male+speaking(0.025)
+playing+videogames(0.024)

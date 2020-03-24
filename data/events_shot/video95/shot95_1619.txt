@@ -1,0 +1,5 @@
+adult+female+speaking(0.307)
+jogging(0.102)
+adult+female+singing(0.089)
+bouncing(0.041)
+stretching(0.018)

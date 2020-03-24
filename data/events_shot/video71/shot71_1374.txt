@@ -1,0 +1,5 @@
+squatting(0.263)
+rising(0.105)
+climbing(0.090)
+shrugging(0.081)
+lifting(0.070)

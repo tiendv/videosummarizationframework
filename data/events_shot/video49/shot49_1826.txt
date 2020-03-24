@@ -1,5 +1,0 @@
-smoking(0.189)
-asking(0.116)
-adult+male+speaking(0.054)
-adult+female+speaking(0.049)
-barbecuing(0.045)

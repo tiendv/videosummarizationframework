@@ -1,0 +1,5 @@
+adult+female+singing(0.212)
+bouncing(0.121)
+adult+male+singing(0.055)
+jumping(0.054)
+roaring(0.039)

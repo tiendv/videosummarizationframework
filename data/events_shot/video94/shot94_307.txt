@@ -1,0 +1,5 @@
+working(0.077)
+exiting(0.061)
+walking(0.047)
+cooking(0.042)
+entering(0.033)

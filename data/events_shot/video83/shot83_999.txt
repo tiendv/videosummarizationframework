@@ -1,0 +1,5 @@
+standing(0.039)
+smoking(0.029)
+adult+male+speaking(0.029)
+filming(0.028)
+aiming(0.021)

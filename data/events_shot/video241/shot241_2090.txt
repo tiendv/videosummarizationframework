@@ -1,5 +1,0 @@
-waking(0.043)
-rising(0.028)
-adult+female+singing(0.027)
-crying(0.024)
-adult+male+singing(0.024)

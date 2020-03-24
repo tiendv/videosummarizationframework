@@ -1,0 +1,5 @@
+tattooing(0.831)
+painting(0.026)
+vacuuming(0.013)
+waxing(0.009)
+spraying(0.008)

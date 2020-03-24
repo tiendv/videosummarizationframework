@@ -1,0 +1,5 @@
+blowing(0.767)
+inflating(0.101)
+coughing(0.020)
+sneezing(0.013)
+child+speaking(0.005)

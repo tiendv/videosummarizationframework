@@ -1,0 +1,5 @@
+vacuuming(0.408)
+inflating(0.111)
+sowing(0.049)
+drying(0.049)
+dusting(0.029)

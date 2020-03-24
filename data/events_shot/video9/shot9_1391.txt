@@ -1,5 +1,0 @@
-arresting(0.071)
-handcuffing(0.043)
-fighting(0.041)
-dragging(0.035)
-working(0.034)

@@ -1,0 +1,5 @@
+punching(0.106)
+drying(0.062)
+boxing(0.055)
+slapping(0.027)
+child+singing(0.024)

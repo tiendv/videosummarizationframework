@@ -1,0 +1,5 @@
+standing(0.048)
+adult+male+singing(0.035)
+adult+male+speaking(0.031)
+performing(0.029)
+aiming(0.024)

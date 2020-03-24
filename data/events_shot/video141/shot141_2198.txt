@@ -1,5 +1,0 @@
-cleaning(0.257)
-mopping(0.134)
-draining(0.085)
-removing(0.066)
-scrubbing(0.066)

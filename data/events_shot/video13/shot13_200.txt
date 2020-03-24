@@ -1,0 +1,5 @@
+adult+male+speaking(0.154)
+protesting(0.128)
+interviewing(0.125)
+discussing(0.057)
+standing(0.037)

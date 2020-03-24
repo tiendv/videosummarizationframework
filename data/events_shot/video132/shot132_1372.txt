@@ -1,0 +1,5 @@
+kissing(0.279)
+hugging(0.242)
+telephoning(0.030)
+calling(0.021)
+autographing(0.021)

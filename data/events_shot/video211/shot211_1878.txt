@@ -1,5 +1,0 @@
-adult+female+speaking(0.230)
-interviewing(0.152)
-discussing(0.106)
-asking(0.073)
-laughing(0.041)

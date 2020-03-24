@@ -1,0 +1,5 @@
+discussing(0.110)
+hugging(0.100)
+smiling(0.055)
+asking(0.047)
+adult+male+speaking(0.045)

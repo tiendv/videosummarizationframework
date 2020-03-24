@@ -1,0 +1,5 @@
+discussing(0.245)
+interviewing(0.215)
+asking(0.122)
+adult+male+speaking(0.045)
+dining(0.039)

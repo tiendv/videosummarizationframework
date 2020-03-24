@@ -1,0 +1,5 @@
+hugging(0.219)
+shopping(0.124)
+adult+female+speaking(0.099)
+buying(0.049)
+combing(0.036)

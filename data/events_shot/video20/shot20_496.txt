@@ -1,5 +1,0 @@
-yawning(0.101)
-laughing(0.068)
-roaring(0.052)
-coughing(0.051)
-adult+male+speaking(0.040)

@@ -1,0 +1,5 @@
+cooking(0.401)
+baking(0.091)
+drying(0.083)
+stirring(0.023)
+dusting(0.018)

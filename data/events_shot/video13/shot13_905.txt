@@ -1,0 +1,5 @@
+bouncing(0.190)
+adult+female+speaking(0.162)
+asking(0.101)
+adult+female+singing(0.051)
+standing(0.016)

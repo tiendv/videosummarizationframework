@@ -1,5 +1,0 @@
-filming(0.056)
-adult+female+singing(0.043)
-standing(0.039)
-walking(0.039)
-adult+male+singing(0.038)

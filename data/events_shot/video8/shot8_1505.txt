@@ -1,5 +1,0 @@
-manicuring(0.122)
-shaving(0.071)
-adult+female+speaking(0.031)
-brushing(0.021)
-tattooing(0.020)

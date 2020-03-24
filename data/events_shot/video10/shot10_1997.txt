@@ -1,5 +1,0 @@
-giving(0.053)
-packing(0.047)
-selling(0.037)
-adult+female+speaking(0.032)
-knitting(0.024)

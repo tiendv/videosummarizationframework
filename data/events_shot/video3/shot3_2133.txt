@@ -1,0 +1,5 @@
+adult+male+speaking(0.039)
+resting(0.024)
+starting(0.022)
+burying(0.021)
+asking(0.016)

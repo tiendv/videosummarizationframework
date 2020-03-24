@@ -1,0 +1,5 @@
+cooking(0.154)
+baking(0.110)
+crafting(0.022)
+standing(0.021)
+stirring(0.016)

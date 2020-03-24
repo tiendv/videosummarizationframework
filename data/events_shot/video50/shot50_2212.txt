@@ -1,5 +1,0 @@
-talking(0.065)
-child+speaking(0.046)
-adult+female+speaking(0.037)
-smiling(0.031)
-playing(0.030)

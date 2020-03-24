@@ -1,0 +1,5 @@
+singing(0.288)
+child+singing(0.124)
+opening(0.106)
+adult+female+singing(0.052)
+performing(0.051)

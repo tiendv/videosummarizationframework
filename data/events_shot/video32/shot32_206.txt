@@ -1,0 +1,5 @@
+driving(0.283)
+racing(0.093)
+riding(0.074)
+rolling(0.042)
+steering(0.026)

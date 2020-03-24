@@ -1,0 +1,5 @@
+crafting(0.050)
+adult+female+speaking(0.048)
+opening(0.045)
+manicuring(0.028)
+stitching(0.027)

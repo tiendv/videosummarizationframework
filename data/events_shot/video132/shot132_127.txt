@@ -1,0 +1,5 @@
+talking(0.042)
+asking(0.042)
+adult+female+speaking(0.039)
+sitting(0.026)
+selling(0.025)

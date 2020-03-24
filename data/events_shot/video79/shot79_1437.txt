@@ -1,5 +1,0 @@
-crying(0.096)
-sneezing(0.052)
-walking(0.047)
-coughing(0.041)
-filming(0.031)

@@ -1,5 +1,0 @@
-walking(0.072)
-knocking(0.065)
-crying(0.064)
-punching(0.050)
-sneezing(0.032)

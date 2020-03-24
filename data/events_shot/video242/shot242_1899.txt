@@ -1,5 +1,0 @@
-driving(0.249)
-playing+videogames(0.112)
-steering(0.054)
-talking(0.037)
-adult+male+singing(0.030)

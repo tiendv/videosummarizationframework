@@ -1,0 +1,5 @@
+guarding(0.092)
+standing(0.062)
+saluting(0.060)
+adult+male+speaking(0.044)
+officiating(0.040)

@@ -1,0 +1,5 @@
+walking(0.208)
+running(0.155)
+exiting(0.097)
+queuing(0.030)
+jogging(0.028)

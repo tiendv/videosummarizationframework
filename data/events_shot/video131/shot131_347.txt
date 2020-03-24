@@ -1,0 +1,5 @@
+walking(0.318)
+arresting(0.068)
+filming(0.042)
+sneezing(0.033)
+slapping(0.033)

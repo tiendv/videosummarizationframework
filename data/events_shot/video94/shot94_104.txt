@@ -1,0 +1,5 @@
+crafting(0.171)
+drawing(0.102)
+handwriting(0.049)
+sketching(0.044)
+working(0.037)

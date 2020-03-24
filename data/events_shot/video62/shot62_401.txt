@@ -1,0 +1,5 @@
+cuddling(0.120)
+photographing(0.069)
+telephoning(0.063)
+sitting(0.050)
+sleeping(0.041)

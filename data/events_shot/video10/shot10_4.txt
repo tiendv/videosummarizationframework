@@ -1,5 +1,0 @@
-gardening(0.068)
-draining(0.031)
-weeding(0.028)
-planting(0.027)
-measuring(0.024)

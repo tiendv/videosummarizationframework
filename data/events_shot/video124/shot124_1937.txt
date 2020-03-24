@@ -1,0 +1,5 @@
+filming(0.075)
+autographing(0.063)
+adult+female+singing(0.035)
+photographing(0.031)
+walking(0.027)

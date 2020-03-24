@@ -1,0 +1,5 @@
+walking(0.155)
+bowing(0.059)
+sneezing(0.038)
+praying(0.035)
+filming(0.033)

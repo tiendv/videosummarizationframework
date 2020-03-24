@@ -1,0 +1,5 @@
+stacking(0.287)
+packing(0.036)
+unpacking(0.028)
+loading(0.019)
+cleaning(0.017)

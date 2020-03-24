@@ -1,5 +1,0 @@
-hunting(0.937)
-roaring(0.016)
-aiming(0.008)
-guarding(0.006)
-adult+male+speaking(0.005)

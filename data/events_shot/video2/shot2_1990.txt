@@ -1,0 +1,5 @@
+arresting(0.060)
+walking(0.059)
+standing(0.056)
+interviewing(0.029)
+pointing(0.024)

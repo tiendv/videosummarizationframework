@@ -1,0 +1,5 @@
+queuing(0.092)
+filming(0.043)
+arresting(0.041)
+protesting(0.036)
+walking(0.034)

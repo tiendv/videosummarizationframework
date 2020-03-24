@@ -1,0 +1,5 @@
+queuing(0.173)
+hugging(0.128)
+asking(0.061)
+adult+male+speaking(0.048)
+photographing(0.040)

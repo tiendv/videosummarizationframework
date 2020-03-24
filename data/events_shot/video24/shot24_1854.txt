@@ -1,5 +1,0 @@
-smoking(0.044)
-attacking(0.035)
-fighting(0.034)
-adult+male+speaking(0.024)
-asking(0.023)

@@ -1,0 +1,5 @@
+slapping(0.088)
+locking(0.082)
+carrying(0.042)
+guarding(0.039)
+clipping(0.039)

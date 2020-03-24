@@ -1,0 +1,5 @@
+slapping(0.155)
+knocking(0.033)
+storming(0.033)
+barking(0.032)
+adult+male+speaking(0.029)

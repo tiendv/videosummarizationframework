@@ -1,0 +1,5 @@
+smoking(0.404)
+laughing(0.078)
+adult+female+speaking(0.076)
+crying(0.042)
+coughing(0.037)

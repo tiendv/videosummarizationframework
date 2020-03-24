@@ -1,5 +1,0 @@
-walking(0.045)
-cooking(0.042)
-boiling(0.021)
-climbing(0.019)
-stirring(0.017)

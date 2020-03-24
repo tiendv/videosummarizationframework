@@ -1,0 +1,5 @@
+walking(0.254)
+knocking(0.065)
+exiting(0.040)
+dressing(0.039)
+carrying(0.028)

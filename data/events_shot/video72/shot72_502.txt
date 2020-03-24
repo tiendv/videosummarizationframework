@@ -1,0 +1,5 @@
+feeding(0.396)
+howling(0.130)
+barking(0.071)
+stealing(0.051)
+eating(0.039)

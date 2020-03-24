@@ -1,0 +1,5 @@
+preaching(0.088)
+adult+male+speaking(0.050)
+officiating(0.038)
+marrying(0.037)
+standing(0.029)

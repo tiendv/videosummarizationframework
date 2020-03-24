@@ -1,5 +1,0 @@
-talking(0.042)
-dropping(0.031)
-raining(0.030)
-adult+male+speaking(0.024)
-starting(0.024)

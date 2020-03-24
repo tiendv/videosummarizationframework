@@ -1,5 +1,0 @@
-walking(0.067)
-reaching(0.053)
-laughing(0.041)
-hiking(0.022)
-jogging(0.020)

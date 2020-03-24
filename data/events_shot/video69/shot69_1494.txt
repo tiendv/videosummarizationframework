@@ -1,5 +1,0 @@
-talking(0.135)
-starting(0.061)
-aiming(0.044)
-standing(0.036)
-knocking(0.032)

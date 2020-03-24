@@ -1,0 +1,5 @@
+hunting(0.218)
+walking(0.109)
+hiking(0.100)
+mowing(0.089)
+weeding(0.024)

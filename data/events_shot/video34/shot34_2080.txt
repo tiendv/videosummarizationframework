@@ -1,0 +1,5 @@
+preaching(0.207)
+blocking(0.088)
+adult+male+speaking(0.078)
+protesting(0.065)
+asking(0.060)

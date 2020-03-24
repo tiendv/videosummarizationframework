@@ -1,0 +1,5 @@
+reading(0.130)
+selling(0.024)
+adult+male+speaking(0.023)
+adult+female+speaking(0.023)
+cramming(0.022)

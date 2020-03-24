@@ -1,5 +1,0 @@
-laughing(0.168)
-smiling(0.106)
-discussing(0.101)
-adult+female+speaking(0.069)
-dining(0.068)

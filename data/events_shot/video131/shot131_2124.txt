@@ -1,0 +1,5 @@
+child+singing(0.141)
+adult+male+singing(0.088)
+parading(0.086)
+dancing(0.073)
+marching(0.072)

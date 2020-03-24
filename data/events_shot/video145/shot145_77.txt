@@ -1,5 +1,0 @@
-fencing(0.663)
-adult+male+speaking(0.070)
-adult+female+speaking(0.017)
-standing(0.017)
-adult+male+singing(0.013)

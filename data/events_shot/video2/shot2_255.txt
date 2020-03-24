@@ -1,0 +1,5 @@
+drinking(0.121)
+smelling(0.099)
+sniffing(0.073)
+tying(0.041)
+spitting(0.032)

@@ -1,0 +1,5 @@
+telephoning(0.063)
+calling(0.053)
+slapping(0.049)
+adult+female+speaking(0.041)
+fighting(0.028)

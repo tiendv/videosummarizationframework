@@ -1,5 +1,0 @@
-bouncing(0.116)
-playing+videogames(0.101)
-flipping(0.030)
-aiming(0.022)
-swerving(0.020)

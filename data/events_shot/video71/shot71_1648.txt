@@ -1,0 +1,5 @@
+asking(0.076)
+gripping(0.050)
+adult+male+speaking(0.048)
+adult+female+speaking(0.030)
+rocking(0.026)

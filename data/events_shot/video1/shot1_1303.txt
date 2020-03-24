@@ -1,0 +1,5 @@
+queuing(0.668)
+hugging(0.015)
+arresting(0.015)
+guarding(0.015)
+walking(0.012)

@@ -1,0 +1,5 @@
+smiling(0.090)
+asking(0.071)
+discussing(0.062)
+squinting(0.060)
+frowning(0.051)

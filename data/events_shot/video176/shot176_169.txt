@@ -1,5 +1,0 @@
-vacuuming(0.223)
-walking(0.052)
-steering(0.039)
-cleaning(0.038)
-riding(0.033)

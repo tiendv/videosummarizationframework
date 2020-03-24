@@ -1,0 +1,5 @@
+pushing(0.082)
+hugging(0.055)
+walking(0.048)
+laughing(0.046)
+kissing(0.035)

@@ -1,0 +1,5 @@
+exiting(0.214)
+entering(0.113)
+shopping(0.065)
+buying(0.062)
+boarding(0.056)

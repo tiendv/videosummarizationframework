@@ -1,0 +1,5 @@
+tying(0.815)
+dressing(0.024)
+handcuffing(0.017)
+putting(0.012)
+taping(0.007)

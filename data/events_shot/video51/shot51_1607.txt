@@ -1,0 +1,5 @@
+inflating(0.063)
+vacuuming(0.049)
+packing(0.031)
+stitching(0.027)
+walking(0.022)

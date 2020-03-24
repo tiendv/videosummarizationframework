@@ -1,0 +1,5 @@
+clipping(0.059)
+adult+male+speaking(0.036)
+slapping(0.025)
+playing+videogames(0.020)
+talking(0.018)

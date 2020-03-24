@@ -1,5 +1,0 @@
-starting(0.050)
-hunting(0.046)
-standing(0.043)
-talking(0.036)
-fencing(0.027)

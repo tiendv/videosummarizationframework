@@ -1,0 +1,5 @@
+tattooing(0.904)
+painting(0.012)
+manicuring(0.008)
+adult+female+singing(0.004)
+cooking(0.003)

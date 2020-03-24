@@ -1,0 +1,5 @@
+standing(0.046)
+smiling(0.045)
+tattooing(0.030)
+slapping(0.028)
+adult+male+speaking(0.027)

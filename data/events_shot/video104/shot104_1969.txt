@@ -1,0 +1,5 @@
+walking(0.320)
+carrying(0.146)
+playing+videogames(0.051)
+standing(0.026)
+filming(0.024)

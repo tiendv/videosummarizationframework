@@ -1,0 +1,5 @@
+slapping(0.252)
+knocking(0.154)
+snapping(0.075)
+pointing(0.065)
+waving(0.047)

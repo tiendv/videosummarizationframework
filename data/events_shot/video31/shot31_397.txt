@@ -1,0 +1,5 @@
+fighting(0.097)
+hugging(0.056)
+wrestling(0.036)
+autographing(0.030)
+boxing(0.030)

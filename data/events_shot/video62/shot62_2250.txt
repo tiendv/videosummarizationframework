@@ -1,0 +1,5 @@
+arresting(0.123)
+locking(0.048)
+slapping(0.041)
+handcuffing(0.028)
+filming(0.026)

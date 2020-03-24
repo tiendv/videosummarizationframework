@@ -1,5 +1,0 @@
-adult+female+speaking(0.043)
-adult+male+speaking(0.033)
-sitting(0.032)
-adult+male+singing(0.032)
-drinking(0.030)

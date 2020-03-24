@@ -1,0 +1,5 @@
+biting(0.167)
+feeding(0.152)
+attacking(0.123)
+swimming(0.070)
+hunting(0.063)

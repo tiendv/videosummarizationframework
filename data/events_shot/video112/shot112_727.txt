@@ -1,0 +1,5 @@
+laughing(0.033)
+kissing(0.031)
+telephoning(0.025)
+stealing(0.023)
+adult+male+speaking(0.022)

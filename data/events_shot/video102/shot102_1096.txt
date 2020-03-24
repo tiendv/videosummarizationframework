@@ -1,0 +1,5 @@
+coughing(0.512)
+whistling(0.164)
+smelling(0.024)
+slapping(0.024)
+howling(0.022)

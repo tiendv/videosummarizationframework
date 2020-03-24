@@ -1,5 +1,0 @@
-sitting(0.038)
-stealing(0.035)
-walking(0.028)
-adult+female+speaking(0.026)
-cleaning(0.023)

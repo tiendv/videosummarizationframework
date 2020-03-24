@@ -1,5 +1,0 @@
-gripping(0.035)
-shopping(0.034)
-adult+male+speaking(0.032)
-standing(0.031)
-asking(0.030)

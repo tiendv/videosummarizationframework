@@ -1,0 +1,5 @@
+adult+male+singing(0.089)
+knocking(0.065)
+adult+female+singing(0.063)
+yawning(0.039)
+singing(0.032)

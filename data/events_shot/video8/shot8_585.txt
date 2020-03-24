@@ -1,5 +1,0 @@
-steering(0.431)
-driving(0.182)
-dragging(0.106)
-riding(0.073)
-pulling(0.039)

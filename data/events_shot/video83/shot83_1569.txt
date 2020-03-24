@@ -1,0 +1,5 @@
+adult+male+speaking(0.063)
+praying(0.059)
+standing(0.048)
+sitting(0.042)
+baptizing(0.039)

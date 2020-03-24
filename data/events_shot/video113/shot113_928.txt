@@ -1,0 +1,5 @@
+gripping(0.149)
+lifting(0.045)
+pulling(0.044)
+exercising(0.035)
+balancing(0.030)

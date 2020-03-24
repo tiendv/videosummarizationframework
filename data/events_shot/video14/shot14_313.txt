@@ -1,0 +1,5 @@
+running(0.387)
+walking(0.195)
+standing(0.027)
+fighting(0.027)
+attacking(0.018)

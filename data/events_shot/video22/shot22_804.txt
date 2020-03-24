@@ -1,0 +1,5 @@
+stacking(0.984)
+painting(0.001)
+loading(0.001)
+clapping(0.001)
+flipping(0.001)

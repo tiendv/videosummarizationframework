@@ -1,5 +1,0 @@
-handcuffing(0.055)
-arresting(0.052)
-dragging(0.030)
-pulling(0.030)
-autographing(0.025)

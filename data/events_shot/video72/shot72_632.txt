@@ -1,0 +1,5 @@
+raining(0.082)
+adult+male+speaking(0.075)
+adult+male+singing(0.069)
+talking(0.059)
+playing+videogames(0.041)

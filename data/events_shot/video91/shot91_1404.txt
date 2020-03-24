@@ -1,0 +1,5 @@
+drawing(0.151)
+sketching(0.085)
+painting(0.055)
+building(0.041)
+playing+videogames(0.033)

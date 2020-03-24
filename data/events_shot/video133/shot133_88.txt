@@ -1,0 +1,5 @@
+talking(0.050)
+adult+female+speaking(0.036)
+slapping(0.032)
+sneezing(0.026)
+sitting(0.023)

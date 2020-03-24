@@ -1,0 +1,5 @@
+baptizing(0.202)
+handcuffing(0.109)
+arresting(0.057)
+adult+female+speaking(0.027)
+adult+male+speaking(0.025)

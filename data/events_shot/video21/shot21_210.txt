@@ -1,0 +1,5 @@
+driving(0.438)
+riding(0.101)
+steering(0.098)
+exiting(0.031)
+sitting(0.027)

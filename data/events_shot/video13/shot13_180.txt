@@ -1,0 +1,5 @@
+officiating(0.704)
+marrying(0.073)
+adult+male+speaking(0.035)
+discussing(0.024)
+interviewing(0.020)

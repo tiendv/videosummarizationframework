@@ -1,0 +1,5 @@
+vacuuming(0.245)
+carving(0.037)
+sanding(0.035)
+unpacking(0.032)
+cleaning(0.030)

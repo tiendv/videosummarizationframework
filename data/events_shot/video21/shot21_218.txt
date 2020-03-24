@@ -1,0 +1,5 @@
+driving(0.309)
+riding(0.059)
+steering(0.042)
+adult+female+speaking(0.032)
+slapping(0.028)

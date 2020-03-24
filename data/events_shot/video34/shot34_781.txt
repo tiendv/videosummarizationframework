@@ -1,0 +1,5 @@
+dragging(0.048)
+marching(0.035)
+pulling(0.032)
+rising(0.027)
+falling(0.024)

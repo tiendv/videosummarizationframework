@@ -1,0 +1,5 @@
+arresting(0.423)
+handcuffing(0.103)
+guarding(0.048)
+hugging(0.035)
+officiating(0.021)

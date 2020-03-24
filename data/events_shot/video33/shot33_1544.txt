@@ -1,0 +1,5 @@
+smiling(0.205)
+adult+female+speaking(0.115)
+crying(0.102)
+talking(0.068)
+squinting(0.043)

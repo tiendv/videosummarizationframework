@@ -1,0 +1,5 @@
+working(0.195)
+sawing(0.063)
+sitting(0.033)
+pressing(0.021)
+filming(0.019)

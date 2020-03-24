@@ -1,0 +1,5 @@
+standing(0.090)
+protesting(0.051)
+talking(0.047)
+guarding(0.046)
+discussing(0.033)

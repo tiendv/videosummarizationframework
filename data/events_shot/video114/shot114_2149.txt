@@ -1,0 +1,5 @@
+gripping(0.293)
+playing+videogames(0.075)
+shooting(0.042)
+aiming(0.035)
+attacking(0.024)

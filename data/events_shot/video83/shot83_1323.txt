@@ -1,0 +1,5 @@
+painting(0.108)
+talking(0.042)
+standing(0.038)
+discussing(0.037)
+filming(0.031)

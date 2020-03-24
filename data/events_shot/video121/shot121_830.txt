@@ -1,0 +1,5 @@
+drinking(0.093)
+talking(0.071)
+sitting(0.052)
+tattooing(0.046)
+laughing(0.030)

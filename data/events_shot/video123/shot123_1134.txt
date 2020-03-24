@@ -1,0 +1,5 @@
+saluting(0.328)
+guarding(0.199)
+walking(0.097)
+waving(0.037)
+arresting(0.032)

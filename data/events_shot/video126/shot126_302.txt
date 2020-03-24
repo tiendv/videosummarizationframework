@@ -1,5 +1,0 @@
-dining(0.055)
-cooking(0.052)
-working(0.040)
-baking(0.037)
-standing(0.027)

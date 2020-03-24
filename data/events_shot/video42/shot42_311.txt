@@ -1,0 +1,5 @@
+fencing(0.358)
+barking(0.046)
+laughing(0.036)
+opening(0.024)
+waving(0.023)

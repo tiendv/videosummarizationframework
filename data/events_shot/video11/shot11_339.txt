@@ -1,0 +1,5 @@
+fencing(0.191)
+shooting(0.074)
+slapping(0.067)
+fighting(0.033)
+pointing(0.032)

@@ -1,0 +1,5 @@
+knocking(0.076)
+dusting(0.065)
+slapping(0.059)
+adult+male+speaking(0.031)
+mopping(0.029)

@@ -1,0 +1,5 @@
+whistling(0.736)
+howling(0.012)
+talking(0.012)
+coughing(0.010)
+standing(0.009)

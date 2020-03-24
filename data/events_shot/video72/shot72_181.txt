@@ -1,0 +1,5 @@
+guarding(0.055)
+talking(0.048)
+adult+male+speaking(0.046)
+standing(0.043)
+fencing(0.040)

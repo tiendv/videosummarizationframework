@@ -1,5 +1,0 @@
-gambling(0.905)
-bowling(0.009)
-aiming(0.006)
-dining(0.004)
-adult+male+speaking(0.003)

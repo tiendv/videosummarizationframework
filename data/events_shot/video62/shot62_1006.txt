@@ -1,0 +1,5 @@
+adult+male+speaking(0.042)
+painting(0.034)
+squinting(0.027)
+standing(0.023)
+brushing(0.023)

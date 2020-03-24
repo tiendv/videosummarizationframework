@@ -1,5 +1,0 @@
-standing(0.042)
-adult+male+singing(0.032)
-walking(0.026)
-adult+male+speaking(0.025)
-smoking(0.022)

@@ -1,0 +1,5 @@
+arresting(0.073)
+handcuffing(0.039)
+standing(0.039)
+smiling(0.033)
+slapping(0.030)

@@ -1,5 +1,0 @@
-smoking(0.126)
-adult+female+singing(0.081)
-fighting(0.043)
-attacking(0.039)
-playing+videogames(0.039)

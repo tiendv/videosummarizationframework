@@ -1,0 +1,5 @@
+crying(0.438)
+frowning(0.032)
+opening(0.021)
+coughing(0.017)
+smelling(0.015)

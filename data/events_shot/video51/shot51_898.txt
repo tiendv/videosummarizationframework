@@ -1,0 +1,5 @@
+reading(0.913)
+adult+female+speaking(0.006)
+drawing(0.004)
+studying(0.004)
+typing(0.003)

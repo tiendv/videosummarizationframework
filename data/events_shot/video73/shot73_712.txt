@@ -1,0 +1,5 @@
+standing(0.046)
+hugging(0.024)
+asking(0.022)
+adult+male+speaking(0.022)
+handcuffing(0.021)

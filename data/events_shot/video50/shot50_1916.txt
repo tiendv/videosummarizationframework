@@ -1,5 +1,0 @@
-walking(0.078)
-building(0.052)
-standing(0.047)
-fencing(0.043)
-preaching(0.036)

@@ -1,5 +1,0 @@
-climbing(0.188)
-attacking(0.053)
-jumping(0.045)
-crashing(0.040)
-laughing(0.034)

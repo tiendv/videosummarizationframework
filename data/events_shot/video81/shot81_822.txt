@@ -1,0 +1,5 @@
+adult+female+speaking(0.120)
+asking(0.059)
+brushing(0.042)
+discussing(0.032)
+painting(0.030)

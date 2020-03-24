@@ -1,5 +1,0 @@
-laughing(0.060)
-yawning(0.041)
-crying(0.034)
-adult+male+speaking(0.029)
-bathing(0.027)

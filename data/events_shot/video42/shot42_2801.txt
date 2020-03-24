@@ -1,0 +1,5 @@
+talking(0.075)
+adult+male+speaking(0.062)
+discussing(0.044)
+frowning(0.037)
+pointing(0.037)

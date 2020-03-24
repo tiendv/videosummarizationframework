@@ -1,5 +1,0 @@
-driving(0.039)
-exiting(0.037)
-fueling(0.034)
-smiling(0.032)
-hitchhiking(0.031)

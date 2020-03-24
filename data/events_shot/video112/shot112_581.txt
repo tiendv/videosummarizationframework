@@ -1,0 +1,5 @@
+manicuring(0.118)
+cooking(0.062)
+eating(0.056)
+painting(0.051)
+tattooing(0.034)

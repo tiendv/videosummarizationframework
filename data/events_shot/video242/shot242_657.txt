@@ -1,5 +1,0 @@
-sitting(0.091)
-dining(0.050)
-reading(0.033)
-talking(0.032)
-wrestling(0.032)

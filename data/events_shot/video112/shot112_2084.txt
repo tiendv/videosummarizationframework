@@ -1,0 +1,5 @@
+crafting(0.535)
+talking(0.034)
+playing(0.025)
+folding(0.024)
+stitching(0.017)

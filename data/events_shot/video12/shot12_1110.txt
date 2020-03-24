@@ -1,0 +1,5 @@
+sitting(0.096)
+dining(0.047)
+discussing(0.042)
+chewing(0.031)
+asking(0.024)

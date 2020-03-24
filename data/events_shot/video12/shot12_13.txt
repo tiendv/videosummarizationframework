@@ -1,0 +1,5 @@
+fencing(0.232)
+hugging(0.095)
+child+speaking(0.052)
+laughing(0.033)
+slapping(0.021)

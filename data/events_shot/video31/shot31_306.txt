@@ -1,0 +1,5 @@
+smiling(0.049)
+hugging(0.038)
+arresting(0.025)
+walking(0.021)
+handcuffing(0.020)

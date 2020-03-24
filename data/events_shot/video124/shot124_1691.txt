@@ -1,0 +1,5 @@
+whistling(0.257)
+coughing(0.138)
+singing(0.096)
+yawning(0.059)
+imitating(0.021)

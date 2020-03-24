@@ -1,0 +1,5 @@
+fueling(0.092)
+adult+male+speaking(0.049)
+asking(0.041)
+arresting(0.039)
+fighting(0.030)

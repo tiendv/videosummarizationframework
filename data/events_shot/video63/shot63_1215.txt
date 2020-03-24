@@ -1,0 +1,5 @@
+smiling(0.049)
+telephoning(0.040)
+filming(0.036)
+calling(0.033)
+adult+male+speaking(0.031)

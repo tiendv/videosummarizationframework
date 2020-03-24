@@ -1,0 +1,5 @@
+knocking(0.150)
+talking(0.085)
+standing(0.064)
+discussing(0.030)
+laughing(0.027)

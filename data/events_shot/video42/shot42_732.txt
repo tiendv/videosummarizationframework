@@ -1,0 +1,5 @@
+frowning(0.060)
+whistling(0.048)
+calling(0.033)
+adult+male+speaking(0.033)
+crying(0.025)

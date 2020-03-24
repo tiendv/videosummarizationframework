@@ -1,5 +1,0 @@
-jogging(0.193)
-running(0.083)
-sprinting(0.068)
-adult+female+speaking(0.059)
-starting(0.026)

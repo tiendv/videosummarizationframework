@@ -1,0 +1,5 @@
+crying(0.054)
+smiling(0.049)
+winking(0.047)
+frowning(0.046)
+spraying(0.044)

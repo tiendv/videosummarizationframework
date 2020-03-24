@@ -1,0 +1,5 @@
+arresting(0.167)
+filming(0.058)
+guarding(0.034)
+smelling(0.027)
+handcuffing(0.026)

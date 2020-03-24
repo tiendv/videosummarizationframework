@@ -1,0 +1,5 @@
+sneezing(0.084)
+painting(0.059)
+smiling(0.051)
+slapping(0.036)
+spraying(0.024)

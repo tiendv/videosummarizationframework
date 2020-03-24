@@ -1,0 +1,5 @@
+adult+male+singing(0.154)
+adult+female+singing(0.113)
+adult+male+speaking(0.040)
+laughing(0.035)
+talking(0.033)

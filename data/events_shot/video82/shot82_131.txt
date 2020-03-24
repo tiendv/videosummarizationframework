@@ -1,0 +1,5 @@
+taping(0.078)
+fencing(0.044)
+painting(0.041)
+spraying(0.025)
+autographing(0.019)

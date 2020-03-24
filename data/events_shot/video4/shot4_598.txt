@@ -1,0 +1,5 @@
+preaching(0.104)
+adult+male+singing(0.091)
+playing+music(0.055)
+standing(0.048)
+performing(0.048)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.047)
-coughing(0.039)
-praying(0.033)
-adult+female+speaking(0.026)
-chewing(0.026)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.148)
+reading(0.122)
+laughing(0.042)
+adult+male+speaking(0.038)
+cuddling(0.023)

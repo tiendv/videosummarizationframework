@@ -1,0 +1,5 @@
+cooking(0.103)
+drinking(0.091)
+adult+female+singing(0.051)
+baking(0.039)
+playing+videogames(0.030)

@@ -1,0 +1,5 @@
+smiling(0.082)
+interviewing(0.068)
+crying(0.053)
+winking(0.050)
+discussing(0.041)

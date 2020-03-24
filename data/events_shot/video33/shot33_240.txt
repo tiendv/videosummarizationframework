@@ -1,0 +1,5 @@
+waking(0.175)
+slapping(0.078)
+fighting(0.052)
+adult+female+singing(0.034)
+attacking(0.031)

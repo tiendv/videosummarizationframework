@@ -1,0 +1,5 @@
+opening(0.069)
+closing(0.057)
+inflating(0.043)
+adult+male+speaking(0.042)
+cracking(0.024)

@@ -1,0 +1,5 @@
+filming(0.079)
+drinking(0.064)
+standing(0.056)
+laughing(0.045)
+adult+male+singing(0.035)

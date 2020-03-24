@@ -1,0 +1,5 @@
+telephoning(0.453)
+calling(0.169)
+adult+male+speaking(0.046)
+discussing(0.044)
+arresting(0.013)

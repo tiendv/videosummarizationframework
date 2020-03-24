@@ -1,0 +1,5 @@
+jumping(0.079)
+running(0.043)
+standing(0.032)
+bouncing(0.022)
+sliding(0.022)

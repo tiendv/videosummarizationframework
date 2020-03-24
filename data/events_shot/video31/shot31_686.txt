@@ -1,0 +1,5 @@
+hunting(0.255)
+interviewing(0.157)
+discussing(0.129)
+talking(0.079)
+sitting(0.047)

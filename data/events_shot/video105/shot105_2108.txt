@@ -1,0 +1,5 @@
+child+singing(0.143)
+child+speaking(0.137)
+asking(0.116)
+preaching(0.097)
+adult+female+speaking(0.065)

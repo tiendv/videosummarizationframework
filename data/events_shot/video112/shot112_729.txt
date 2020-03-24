@@ -1,0 +1,5 @@
+telephoning(0.210)
+kissing(0.125)
+calling(0.077)
+adult+female+speaking(0.063)
+marrying(0.025)

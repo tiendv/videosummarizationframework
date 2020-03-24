@@ -1,0 +1,5 @@
+dipping(0.886)
+mopping(0.051)
+cleaning(0.032)
+baptizing(0.004)
+washing(0.004)

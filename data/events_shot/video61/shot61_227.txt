@@ -1,0 +1,5 @@
+drinking(0.084)
+shaving(0.044)
+cooking(0.040)
+baking(0.032)
+stirring(0.025)

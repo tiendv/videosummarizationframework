@@ -1,0 +1,5 @@
+reading(0.102)
+tapping(0.085)
+adult+male+speaking(0.052)
+asking(0.038)
+adult+female+speaking(0.031)

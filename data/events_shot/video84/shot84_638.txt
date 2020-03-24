@@ -1,0 +1,5 @@
+gardening(0.196)
+planting(0.138)
+adult+male+speaking(0.055)
+discussing(0.031)
+dining(0.024)

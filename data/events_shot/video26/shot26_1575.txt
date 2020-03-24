@@ -1,5 +1,0 @@
-stealing(0.099)
-fencing(0.066)
-walking(0.059)
-pushing(0.058)
-shopping(0.022)

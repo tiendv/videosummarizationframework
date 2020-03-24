@@ -1,0 +1,5 @@
+lecturing(0.222)
+pointing(0.198)
+preaching(0.098)
+reading(0.048)
+standing(0.033)

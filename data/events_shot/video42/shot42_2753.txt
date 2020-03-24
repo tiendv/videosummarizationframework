@@ -1,0 +1,5 @@
+hugging(0.365)
+smiling(0.167)
+walking(0.045)
+grinning(0.032)
+exiting(0.027)

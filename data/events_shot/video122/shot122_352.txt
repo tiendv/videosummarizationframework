@@ -1,0 +1,5 @@
+inflating(0.122)
+walking(0.072)
+carrying(0.037)
+exiting(0.024)
+guarding(0.019)

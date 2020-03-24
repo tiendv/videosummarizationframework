@@ -1,0 +1,5 @@
+cleaning(0.058)
+walking(0.035)
+removing(0.023)
+dusting(0.023)
+punching(0.021)

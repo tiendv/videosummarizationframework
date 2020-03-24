@@ -1,0 +1,5 @@
+coughing(0.181)
+sneezing(0.041)
+asking(0.035)
+talking(0.035)
+discussing(0.034)

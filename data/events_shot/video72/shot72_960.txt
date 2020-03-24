@@ -1,0 +1,5 @@
+marrying(0.329)
+dressing(0.152)
+shaving(0.038)
+buttoning(0.030)
+putting(0.021)

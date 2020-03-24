@@ -1,0 +1,5 @@
+swinging(0.076)
+flipping(0.058)
+bouncing(0.056)
+laughing(0.033)
+flicking(0.030)

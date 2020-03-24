@@ -1,5 +1,0 @@
-fighting(0.177)
-raining(0.064)
-fencing(0.057)
-running(0.047)
-attacking(0.047)

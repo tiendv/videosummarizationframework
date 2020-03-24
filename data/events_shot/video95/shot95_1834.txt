@@ -1,0 +1,5 @@
+autographing(0.372)
+walking(0.135)
+arresting(0.069)
+exiting(0.053)
+hugging(0.038)

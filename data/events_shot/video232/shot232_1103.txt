@@ -1,5 +1,0 @@
-running(0.109)
-talking(0.067)
-sitting(0.045)
-flying(0.041)
-turning(0.034)

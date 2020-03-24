@@ -1,5 +1,0 @@
-hugging(0.069)
-fighting(0.048)
-walking(0.036)
-adult+female+singing(0.036)
-knocking(0.033)

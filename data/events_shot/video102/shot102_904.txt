@@ -1,0 +1,5 @@
+shaking(0.055)
+turning(0.040)
+slapping(0.038)
+pointing(0.029)
+covering(0.028)

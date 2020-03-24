@@ -1,5 +1,0 @@
-handcuffing(0.035)
-stealing(0.031)
-walking(0.030)
-building(0.025)
-laughing(0.024)

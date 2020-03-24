@@ -1,0 +1,5 @@
+reading(0.203)
+telephoning(0.089)
+calling(0.063)
+smoking(0.021)
+pointing(0.019)

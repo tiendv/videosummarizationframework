@@ -1,0 +1,5 @@
+boating(0.117)
+asking(0.090)
+adult+male+speaking(0.042)
+standing(0.037)
+discussing(0.027)

@@ -1,0 +1,5 @@
+walking(0.126)
+mowing(0.082)
+building(0.061)
+running(0.060)
+selling(0.057)

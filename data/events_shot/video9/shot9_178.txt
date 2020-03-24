@@ -1,5 +1,0 @@
-adult+female+singing(0.185)
-adult+male+singing(0.084)
-singing(0.065)
-rocking(0.023)
-bowing(0.022)

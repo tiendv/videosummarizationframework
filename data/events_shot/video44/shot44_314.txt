@@ -1,0 +1,5 @@
+crying(0.259)
+raining(0.094)
+smoking(0.064)
+coughing(0.028)
+clipping(0.020)

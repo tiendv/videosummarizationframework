@@ -1,0 +1,5 @@
+crying(0.192)
+laughing(0.155)
+smiling(0.046)
+giggling(0.031)
+tattooing(0.030)

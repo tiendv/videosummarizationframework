@@ -1,0 +1,5 @@
+smiling(0.083)
+knocking(0.039)
+winking(0.029)
+opening(0.023)
+laughing(0.022)

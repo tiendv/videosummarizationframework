@@ -1,0 +1,5 @@
+bowing(0.065)
+shoveling(0.050)
+autographing(0.035)
+burying(0.034)
+sneezing(0.029)

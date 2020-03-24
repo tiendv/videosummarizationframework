@@ -1,5 +1,0 @@
-hugging(0.070)
-packing(0.062)
-unpacking(0.048)
-adult+male+speaking(0.029)
-stealing(0.020)

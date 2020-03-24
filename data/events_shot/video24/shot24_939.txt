@@ -1,0 +1,5 @@
+knocking(0.436)
+walking(0.054)
+poking(0.050)
+locking(0.032)
+whistling(0.015)

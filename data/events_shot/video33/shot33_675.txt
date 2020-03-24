@@ -1,0 +1,5 @@
+packing(0.348)
+unpacking(0.321)
+packaging(0.151)
+assembling(0.028)
+building(0.008)

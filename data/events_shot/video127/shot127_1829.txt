@@ -1,5 +1,0 @@
-adult+female+speaking(0.172)
-adult+female+singing(0.121)
-shopping(0.048)
-slapping(0.037)
-smiling(0.024)

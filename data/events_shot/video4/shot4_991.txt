@@ -1,0 +1,5 @@
+standing(0.069)
+walking(0.063)
+punching(0.033)
+running(0.028)
+protesting(0.023)

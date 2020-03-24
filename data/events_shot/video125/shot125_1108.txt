@@ -1,0 +1,5 @@
+drinking(0.471)
+smelling(0.051)
+sniffing(0.034)
+licking(0.021)
+eating(0.013)

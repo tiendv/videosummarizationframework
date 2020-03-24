@@ -1,0 +1,5 @@
+discussing(0.069)
+adult+male+speaking(0.060)
+adult+female+speaking(0.050)
+smelling(0.034)
+coughing(0.033)

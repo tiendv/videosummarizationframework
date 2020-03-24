@@ -1,0 +1,5 @@
+closing(0.108)
+adult+male+speaking(0.104)
+opening(0.087)
+squinting(0.036)
+locking(0.034)

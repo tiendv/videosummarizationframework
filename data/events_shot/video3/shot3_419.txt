@@ -1,0 +1,5 @@
+rolling(0.047)
+adult+male+speaking(0.029)
+asking(0.027)
+arresting(0.026)
+filming(0.024)

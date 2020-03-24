@@ -1,5 +1,0 @@
-walking(0.217)
-arresting(0.085)
-queuing(0.071)
-running(0.048)
-protesting(0.036)

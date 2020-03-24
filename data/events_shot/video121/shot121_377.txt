@@ -1,0 +1,5 @@
+sneezing(0.031)
+stacking(0.030)
+running(0.023)
+walking(0.020)
+adult+male+speaking(0.018)

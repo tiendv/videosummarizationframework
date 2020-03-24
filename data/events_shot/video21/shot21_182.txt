@@ -1,0 +1,5 @@
+spraying(0.060)
+standing(0.030)
+walking(0.025)
+hugging(0.024)
+adult+male+speaking(0.019)

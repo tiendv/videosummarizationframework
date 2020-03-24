@@ -1,0 +1,5 @@
+standing(0.028)
+plunging(0.027)
+adult+male+speaking(0.027)
+adult+female+speaking(0.023)
+saluting(0.022)

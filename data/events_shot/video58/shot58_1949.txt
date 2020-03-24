@@ -1,5 +1,0 @@
-hugging(0.110)
-queuing(0.081)
-adult+female+speaking(0.040)
-tattooing(0.033)
-slapping(0.029)

@@ -1,0 +1,5 @@
+arresting(0.106)
+walking(0.084)
+handcuffing(0.060)
+filming(0.055)
+standing(0.045)

@@ -1,0 +1,5 @@
+shrugging(0.114)
+smiling(0.066)
+squinting(0.042)
+walking(0.037)
+frowning(0.029)

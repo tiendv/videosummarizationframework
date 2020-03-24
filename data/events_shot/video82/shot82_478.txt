@@ -1,0 +1,5 @@
+stacking(0.089)
+adult+male+speaking(0.081)
+hugging(0.029)
+drinking(0.026)
+discussing(0.018)

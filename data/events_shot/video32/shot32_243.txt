@@ -1,0 +1,5 @@
+tickling(0.124)
+crying(0.103)
+inflating(0.067)
+waking(0.041)
+coughing(0.037)

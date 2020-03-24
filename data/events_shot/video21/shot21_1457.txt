@@ -1,0 +1,5 @@
+drying(0.063)
+peeling(0.057)
+rubbing(0.049)
+manicuring(0.045)
+carving(0.037)

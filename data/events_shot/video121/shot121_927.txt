@@ -1,0 +1,5 @@
+tickling(0.146)
+laughing(0.099)
+adult+female+speaking(0.073)
+smiling(0.065)
+steering(0.063)

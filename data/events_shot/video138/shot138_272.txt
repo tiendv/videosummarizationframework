@@ -1,5 +1,0 @@
-eating(0.052)
-painting(0.038)
-tattooing(0.035)
-drinking(0.023)
-adult+male+speaking(0.021)

@@ -1,0 +1,5 @@
+walking(0.102)
+running(0.068)
+sneezing(0.029)
+stealing(0.021)
+chasing(0.019)

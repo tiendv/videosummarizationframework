@@ -1,0 +1,5 @@
+adult+female+speaking(0.068)
+crying(0.056)
+sneezing(0.037)
+adult+male+speaking(0.035)
+asking(0.033)

@@ -1,5 +1,0 @@
-queuing(0.621)
-entering(0.028)
-dining(0.018)
-walking(0.017)
-shopping(0.015)

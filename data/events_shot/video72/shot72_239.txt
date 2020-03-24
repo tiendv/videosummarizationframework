@@ -1,0 +1,5 @@
+inflating(0.239)
+vacuuming(0.055)
+adult+female+speaking(0.033)
+packing(0.033)
+adult+female+singing(0.030)

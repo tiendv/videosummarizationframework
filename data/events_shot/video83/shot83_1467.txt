@@ -1,0 +1,5 @@
+arresting(0.294)
+guarding(0.061)
+queuing(0.047)
+handcuffing(0.047)
+standing(0.045)

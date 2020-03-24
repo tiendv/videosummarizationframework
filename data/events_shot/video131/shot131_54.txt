@@ -1,0 +1,5 @@
+flipping(0.103)
+opening(0.079)
+throwing(0.077)
+closing(0.075)
+flicking(0.039)

@@ -1,5 +1,0 @@
-snowing(0.080)
-raining(0.054)
-hanging(0.036)
-clearing(0.021)
-raising(0.020)

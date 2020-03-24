@@ -1,0 +1,5 @@
+driving(0.108)
+riding(0.060)
+walking(0.058)
+pushing(0.039)
+arresting(0.021)

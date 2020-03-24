@@ -1,0 +1,5 @@
+fencing(0.460)
+walking(0.088)
+baptizing(0.048)
+preaching(0.035)
+adult+male+speaking(0.029)

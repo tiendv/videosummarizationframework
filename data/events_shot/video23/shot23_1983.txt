@@ -1,0 +1,5 @@
+crying(0.234)
+calling(0.081)
+telephoning(0.039)
+raining(0.020)
+frowning(0.019)

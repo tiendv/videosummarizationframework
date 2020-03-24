@@ -1,5 +1,0 @@
-crying(0.499)
-frowning(0.085)
-slapping(0.063)
-fighting(0.037)
-punching(0.031)

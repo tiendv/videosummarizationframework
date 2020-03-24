@@ -1,0 +1,5 @@
+walking(0.069)
+filming(0.058)
+photographing(0.026)
+sitting(0.026)
+playing+videogames(0.022)

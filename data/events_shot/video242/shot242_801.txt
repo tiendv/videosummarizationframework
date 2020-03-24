@@ -1,5 +1,0 @@
-tapping(0.197)
-signing(0.137)
-adult+female+speaking(0.042)
-sitting(0.034)
-asking(0.032)

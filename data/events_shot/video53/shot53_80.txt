@@ -1,0 +1,5 @@
+adult+male+speaking(0.055)
+slapping(0.047)
+adult+female+speaking(0.041)
+talking(0.030)
+spitting(0.029)

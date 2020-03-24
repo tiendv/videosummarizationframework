@@ -1,0 +1,5 @@
+dining(0.155)
+marrying(0.089)
+sitting(0.071)
+adult+male+speaking(0.062)
+officiating(0.045)

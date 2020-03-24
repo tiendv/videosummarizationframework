@@ -1,5 +1,0 @@
-applauding(0.106)
-standing(0.058)
-lecturing(0.040)
-clapping(0.036)
-adult+male+speaking(0.033)

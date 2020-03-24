@@ -1,5 +1,0 @@
-walking(0.104)
-locking(0.071)
-knocking(0.061)
-talking(0.047)
-closing(0.035)

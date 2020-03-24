@@ -1,5 +1,0 @@
-stomping(0.129)
-walking(0.083)
-adult+male+singing(0.045)
-standing(0.043)
-adult+male+speaking(0.040)

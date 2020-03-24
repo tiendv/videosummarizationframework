@@ -1,5 +1,0 @@
-bowing(0.086)
-praying(0.057)
-adult+male+singing(0.053)
-fighting(0.047)
-walking(0.040)

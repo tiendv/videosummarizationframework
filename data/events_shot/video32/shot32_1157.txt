@@ -1,0 +1,5 @@
+crafting(0.066)
+pointing(0.046)
+working(0.036)
+drawing(0.029)
+putting(0.029)

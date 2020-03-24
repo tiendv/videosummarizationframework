@@ -1,5 +1,0 @@
-telephoning(0.224)
-calling(0.193)
-fighting(0.027)
-coughing(0.022)
-walking(0.021)

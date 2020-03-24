@@ -1,0 +1,5 @@
+roaring(0.063)
+discussing(0.057)
+sitting(0.049)
+adult+female+speaking(0.046)
+starting(0.038)

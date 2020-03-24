@@ -1,0 +1,5 @@
+slapping(0.085)
+adult+male+speaking(0.040)
+sneezing(0.033)
+talking(0.028)
+discussing(0.019)

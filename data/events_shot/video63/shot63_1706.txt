@@ -1,0 +1,5 @@
+adult+female+speaking(0.124)
+adult+female+singing(0.112)
+drinking(0.040)
+filming(0.036)
+kissing(0.034)

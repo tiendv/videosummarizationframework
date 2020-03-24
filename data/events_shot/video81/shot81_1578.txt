@@ -1,0 +1,5 @@
+walking(0.062)
+hugging(0.061)
+queuing(0.058)
+slapping(0.053)
+kissing(0.025)

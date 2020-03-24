@@ -1,0 +1,5 @@
+asking(0.526)
+adult+female+speaking(0.130)
+adult+male+speaking(0.117)
+hiking(0.049)
+discussing(0.026)

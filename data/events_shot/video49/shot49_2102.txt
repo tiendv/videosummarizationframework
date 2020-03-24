@@ -1,5 +1,0 @@
-bowling(0.098)
-adult+female+speaking(0.074)
-playing+videogames(0.055)
-adult+male+speaking(0.024)
-paying(0.018)

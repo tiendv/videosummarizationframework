@@ -1,0 +1,5 @@
+hunting(0.048)
+attacking(0.039)
+aiming(0.038)
+destroying(0.033)
+eating(0.027)

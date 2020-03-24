@@ -1,0 +1,5 @@
+drinking(0.093)
+slapping(0.046)
+knocking(0.043)
+talking(0.036)
+discussing(0.035)

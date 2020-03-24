@@ -1,0 +1,5 @@
+adult+male+speaking(0.046)
+playing+videogames(0.026)
+sleeping(0.017)
+resting(0.017)
+adult+female+singing(0.016)

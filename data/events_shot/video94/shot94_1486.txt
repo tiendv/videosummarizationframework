@@ -1,0 +1,5 @@
+hitchhiking(0.072)
+towing(0.041)
+unloading(0.036)
+loading(0.034)
+filming(0.018)

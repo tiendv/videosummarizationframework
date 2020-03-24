@@ -1,0 +1,5 @@
+adult+female+speaking(0.087)
+adult+female+singing(0.059)
+performing(0.027)
+hanging(0.024)
+playing+music(0.023)

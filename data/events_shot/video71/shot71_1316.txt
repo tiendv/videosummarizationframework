@@ -1,0 +1,5 @@
+child+singing(0.423)
+child+speaking(0.151)
+singing(0.021)
+whistling(0.017)
+standing(0.016)

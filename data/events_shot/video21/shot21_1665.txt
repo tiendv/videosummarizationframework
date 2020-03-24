@@ -1,0 +1,5 @@
+driving(0.354)
+riding(0.130)
+steering(0.092)
+stopping(0.031)
+blocking(0.024)

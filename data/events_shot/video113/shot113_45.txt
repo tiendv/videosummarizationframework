@@ -1,0 +1,5 @@
+skating(0.933)
+balancing(0.034)
+boarding(0.021)
+flipping(0.004)
+sliding(0.001)

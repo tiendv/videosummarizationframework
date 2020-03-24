@@ -1,0 +1,5 @@
+filming(0.099)
+adult+male+speaking(0.026)
+dressing(0.025)
+locking(0.025)
+talking(0.024)

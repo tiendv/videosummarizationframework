@@ -1,0 +1,5 @@
+kissing(0.265)
+squatting(0.139)
+lifting(0.089)
+exercising(0.072)
+bending(0.024)

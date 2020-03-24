@@ -1,5 +1,0 @@
-sitting(0.065)
-riding(0.027)
-driving(0.024)
-standing(0.022)
-fighting(0.019)

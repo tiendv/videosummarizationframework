@@ -1,0 +1,5 @@
+cooking(0.174)
+serving(0.095)
+baking(0.056)
+giving(0.038)
+flipping(0.034)

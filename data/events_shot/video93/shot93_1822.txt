@@ -1,0 +1,5 @@
+queuing(0.110)
+officiating(0.077)
+standing(0.064)
+applauding(0.055)
+praying(0.052)

@@ -1,0 +1,5 @@
+shrugging(0.158)
+slapping(0.083)
+smiling(0.049)
+standing(0.036)
+adult+male+speaking(0.035)

@@ -1,0 +1,5 @@
+fighting(0.060)
+arresting(0.049)
+adult+male+speaking(0.046)
+boxing(0.045)
+coaching(0.039)

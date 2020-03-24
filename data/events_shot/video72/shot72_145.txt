@@ -1,0 +1,5 @@
+sleeping(0.279)
+waking(0.200)
+resting(0.083)
+opening(0.042)
+closing(0.035)

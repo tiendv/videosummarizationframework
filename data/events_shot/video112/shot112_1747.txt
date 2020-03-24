@@ -1,0 +1,5 @@
+dining(0.354)
+sitting(0.107)
+discussing(0.082)
+telephoning(0.033)
+lecturing(0.031)

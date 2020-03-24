@@ -1,0 +1,5 @@
+fueling(0.099)
+talking(0.065)
+interviewing(0.053)
+sitting(0.040)
+adult+male+speaking(0.037)

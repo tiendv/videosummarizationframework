@@ -1,5 +1,0 @@
-fencing(0.960)
-adult+female+singing(0.005)
-adult+male+singing(0.003)
-standing(0.002)
-marrying(0.002)

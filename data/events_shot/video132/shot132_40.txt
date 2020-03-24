@@ -1,0 +1,5 @@
+autographing(0.163)
+adult+male+speaking(0.044)
+standing(0.041)
+talking(0.032)
+working(0.032)

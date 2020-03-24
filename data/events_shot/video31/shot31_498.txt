@@ -1,0 +1,5 @@
+queuing(0.070)
+adult+male+speaking(0.063)
+frowning(0.056)
+stopping(0.046)
+starting(0.043)

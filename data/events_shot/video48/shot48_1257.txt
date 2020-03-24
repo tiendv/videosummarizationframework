@@ -1,5 +1,0 @@
-drinking(0.051)
-eating(0.038)
-smoking(0.028)
-walking(0.025)
-queuing(0.023)

@@ -1,0 +1,5 @@
+child+speaking(0.106)
+fencing(0.106)
+standing(0.049)
+roaring(0.048)
+guarding(0.042)

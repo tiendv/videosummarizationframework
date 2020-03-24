@@ -1,0 +1,5 @@
+telephoning(0.675)
+calling(0.272)
+crying(0.006)
+coughing(0.004)
+adult+female+speaking(0.003)

@@ -1,5 +1,0 @@
-child+speaking(0.069)
-sitting(0.037)
-painting(0.034)
-laughing(0.024)
-standing(0.016)

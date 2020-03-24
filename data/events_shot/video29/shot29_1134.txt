@@ -1,5 +1,0 @@
-drinking(0.330)
-pouring(0.280)
-emptying(0.031)
-cooking(0.024)
-boiling(0.023)

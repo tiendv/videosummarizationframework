@@ -1,0 +1,5 @@
+burying(0.061)
+measuring(0.042)
+gardening(0.036)
+locking(0.036)
+adult+male+speaking(0.027)

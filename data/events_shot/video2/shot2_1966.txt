@@ -1,0 +1,5 @@
+combusting(0.429)
+welding(0.153)
+burning(0.092)
+bending(0.017)
+diving(0.017)

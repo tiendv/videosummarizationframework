@@ -1,0 +1,5 @@
+laughing(0.103)
+sneezing(0.036)
+standing(0.029)
+walking(0.027)
+guarding(0.023)

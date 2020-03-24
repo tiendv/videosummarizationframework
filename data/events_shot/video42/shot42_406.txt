@@ -1,0 +1,5 @@
+dining(0.242)
+eating(0.123)
+tattooing(0.042)
+drinking(0.041)
+manicuring(0.036)

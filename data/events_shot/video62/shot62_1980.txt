@@ -1,0 +1,5 @@
+adult+female+singing(0.068)
+adult+female+speaking(0.024)
+stealing(0.018)
+cracking(0.017)
+handcuffing(0.016)

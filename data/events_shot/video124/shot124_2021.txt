@@ -1,0 +1,5 @@
+jumping(0.093)
+inflating(0.087)
+bouncing(0.076)
+hanging(0.063)
+swinging(0.056)

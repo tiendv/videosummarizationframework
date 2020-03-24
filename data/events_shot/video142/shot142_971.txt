@@ -1,5 +1,0 @@
-bicycling(0.436)
-pedaling(0.049)
-laughing(0.029)
-adult+male+speaking(0.022)
-walking(0.014)

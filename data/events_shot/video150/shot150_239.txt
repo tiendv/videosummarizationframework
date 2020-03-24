@@ -1,5 +1,0 @@
-driving(0.122)
-aiming(0.114)
-bicycling(0.065)
-swerving(0.048)
-towing(0.043)

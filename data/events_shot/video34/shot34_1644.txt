@@ -1,0 +1,5 @@
+washing(0.120)
+cleaning(0.050)
+bathing(0.048)
+rinsing(0.043)
+pressing(0.021)

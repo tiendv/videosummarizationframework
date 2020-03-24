@@ -1,0 +1,5 @@
+interviewing(0.109)
+walking(0.078)
+discussing(0.061)
+standing(0.053)
+protesting(0.047)

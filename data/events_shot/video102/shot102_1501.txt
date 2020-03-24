@@ -1,0 +1,5 @@
+running(0.079)
+walking(0.074)
+hugging(0.034)
+hiking(0.031)
+standing(0.030)

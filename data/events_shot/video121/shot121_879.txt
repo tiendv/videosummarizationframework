@@ -1,0 +1,5 @@
+waking(0.111)
+tickling(0.104)
+laughing(0.104)
+sneezing(0.043)
+adult+female+speaking(0.039)

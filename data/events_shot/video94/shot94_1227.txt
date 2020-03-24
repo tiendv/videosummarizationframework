@@ -1,0 +1,5 @@
+driving(0.197)
+steering(0.091)
+closing(0.065)
+opening(0.063)
+riding(0.027)

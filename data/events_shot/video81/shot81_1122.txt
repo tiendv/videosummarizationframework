@@ -1,0 +1,5 @@
+raining(0.177)
+storming(0.129)
+hunting(0.099)
+mowing(0.073)
+fishing(0.033)

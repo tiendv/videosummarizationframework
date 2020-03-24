@@ -1,0 +1,5 @@
+standing(0.125)
+child+singing(0.106)
+adult+female+singing(0.079)
+singing(0.070)
+walking(0.064)

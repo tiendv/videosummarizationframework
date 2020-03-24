@@ -1,5 +1,0 @@
-shooting(0.052)
-drinking(0.042)
-crying(0.039)
-playing+videogames(0.027)
-attacking(0.024)

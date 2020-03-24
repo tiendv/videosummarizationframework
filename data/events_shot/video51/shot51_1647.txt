@@ -1,0 +1,5 @@
+adult+male+speaking(0.070)
+arresting(0.061)
+frowning(0.053)
+shrugging(0.038)
+saluting(0.035)

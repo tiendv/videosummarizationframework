@@ -1,0 +1,5 @@
+crying(0.183)
+discussing(0.065)
+frowning(0.053)
+sitting(0.046)
+slapping(0.041)

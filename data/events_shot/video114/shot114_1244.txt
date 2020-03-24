@@ -1,0 +1,5 @@
+child+speaking(0.070)
+child+singing(0.058)
+standing(0.057)
+adult+female+singing(0.054)
+brushing(0.037)

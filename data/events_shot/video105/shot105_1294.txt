@@ -1,0 +1,5 @@
+stacking(0.997)
+flipping(0.000)
+drinking(0.000)
+loading(0.000)
+paying(0.000)

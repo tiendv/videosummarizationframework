@@ -1,0 +1,5 @@
+knocking(0.174)
+cleaning(0.166)
+dusting(0.100)
+combing(0.057)
+shaving(0.047)

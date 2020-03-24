@@ -1,0 +1,5 @@
+adult+female+speaking(0.155)
+blowing(0.075)
+laughing(0.067)
+inflating(0.061)
+adult+female+singing(0.050)

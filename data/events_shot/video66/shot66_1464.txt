@@ -1,5 +1,0 @@
-walking(0.049)
-stealing(0.031)
-adult+female+singing(0.026)
-standing(0.026)
-hugging(0.023)

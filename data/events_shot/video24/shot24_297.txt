@@ -1,0 +1,5 @@
+crying(0.662)
+hugging(0.025)
+frowning(0.015)
+carrying(0.010)
+waking(0.010)

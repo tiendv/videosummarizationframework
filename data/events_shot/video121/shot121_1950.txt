@@ -1,0 +1,5 @@
+hugging(0.049)
+spitting(0.035)
+smelling(0.033)
+sneezing(0.032)
+coughing(0.031)

@@ -1,0 +1,5 @@
+child+speaking(0.271)
+imitating(0.098)
+slapping(0.081)
+sneezing(0.072)
+shaking(0.038)

@@ -1,0 +1,5 @@
+lecturing(0.339)
+coaching(0.054)
+adult+female+speaking(0.035)
+adult+male+speaking(0.034)
+asking(0.034)

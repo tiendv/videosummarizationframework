@@ -1,0 +1,5 @@
+driving(0.098)
+riding(0.080)
+arresting(0.041)
+steering(0.039)
+hugging(0.037)

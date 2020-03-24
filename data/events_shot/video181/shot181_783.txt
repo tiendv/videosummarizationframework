@@ -1,5 +1,0 @@
-climbing(0.249)
-hiking(0.086)
-jumping(0.045)
-running(0.040)
-stomping(0.027)

@@ -1,0 +1,5 @@
+adult+male+singing(0.075)
+adult+male+speaking(0.068)
+marrying(0.045)
+photographing(0.038)
+filming(0.038)

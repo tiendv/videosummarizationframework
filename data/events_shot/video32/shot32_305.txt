@@ -1,0 +1,5 @@
+sleeping(0.114)
+waking(0.084)
+calling(0.060)
+eating(0.048)
+telephoning(0.033)

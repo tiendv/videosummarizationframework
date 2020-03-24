@@ -1,0 +1,5 @@
+reading(0.118)
+camping(0.077)
+adult+female+speaking(0.063)
+smoking(0.044)
+resting(0.031)

@@ -1,0 +1,5 @@
+jogging(0.161)
+fencing(0.119)
+running(0.098)
+adult+male+speaking(0.071)
+hitchhiking(0.068)

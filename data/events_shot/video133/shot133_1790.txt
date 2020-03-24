@@ -1,0 +1,5 @@
+adult+female+speaking(0.121)
+discussing(0.118)
+sitting(0.037)
+slapping(0.035)
+frowning(0.029)

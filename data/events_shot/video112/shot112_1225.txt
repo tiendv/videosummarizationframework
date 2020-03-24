@@ -1,0 +1,5 @@
+exiting(0.123)
+walking(0.100)
+hugging(0.057)
+plunging(0.035)
+queuing(0.032)

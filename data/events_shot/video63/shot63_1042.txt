@@ -1,0 +1,5 @@
+hanging(0.082)
+spinning(0.036)
+standing(0.025)
+walking(0.024)
+fighting(0.022)

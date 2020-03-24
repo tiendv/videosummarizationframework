@@ -1,0 +1,5 @@
+pointing(0.065)
+filming(0.065)
+photographing(0.037)
+telephoning(0.029)
+playing+videogames(0.027)

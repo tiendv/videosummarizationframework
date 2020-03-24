@@ -1,0 +1,5 @@
+yawning(0.127)
+adult+female+singing(0.049)
+sneezing(0.048)
+adult+female+speaking(0.046)
+crying(0.033)

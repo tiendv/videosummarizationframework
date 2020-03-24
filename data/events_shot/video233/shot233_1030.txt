@@ -1,5 +1,0 @@
-talking(0.091)
-fighting(0.049)
-attacking(0.039)
-slapping(0.039)
-breaking(0.030)

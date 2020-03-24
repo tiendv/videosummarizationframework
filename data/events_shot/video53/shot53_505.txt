@@ -1,0 +1,5 @@
+adult+female+speaking(0.095)
+discussing(0.078)
+fighting(0.040)
+kissing(0.035)
+talking(0.035)

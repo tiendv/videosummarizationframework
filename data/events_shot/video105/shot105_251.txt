@@ -1,0 +1,5 @@
+punching(0.100)
+boxing(0.090)
+tattooing(0.055)
+fighting(0.042)
+slapping(0.037)

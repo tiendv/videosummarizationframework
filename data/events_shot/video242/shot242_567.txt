@@ -1,5 +1,0 @@
-hammering(0.080)
-crafting(0.042)
-cleaning(0.033)
-flipping(0.025)
-stacking(0.023)

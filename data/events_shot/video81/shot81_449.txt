@@ -1,0 +1,5 @@
+adult+male+speaking(0.041)
+reading(0.040)
+adult+female+speaking(0.026)
+tattooing(0.024)
+crying(0.022)

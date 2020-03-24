@@ -1,0 +1,5 @@
+coaching(0.127)
+queuing(0.105)
+arresting(0.053)
+adult+male+speaking(0.041)
+discussing(0.038)

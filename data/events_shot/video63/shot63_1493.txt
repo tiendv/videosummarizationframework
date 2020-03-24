@@ -1,0 +1,5 @@
+talking(0.048)
+turning(0.045)
+marrying(0.044)
+discussing(0.042)
+hugging(0.042)

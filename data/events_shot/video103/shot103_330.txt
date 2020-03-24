@@ -1,0 +1,5 @@
+adult+female+speaking(0.129)
+crying(0.071)
+adult+female+singing(0.065)
+walking(0.025)
+eating(0.023)

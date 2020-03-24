@@ -1,0 +1,5 @@
+gripping(0.029)
+handcuffing(0.024)
+crafting(0.017)
+mopping(0.015)
+adult+male+speaking(0.015)

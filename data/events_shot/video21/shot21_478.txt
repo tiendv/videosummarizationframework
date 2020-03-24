@@ -1,0 +1,5 @@
+drinking(0.092)
+cooking(0.052)
+smelling(0.047)
+baking(0.044)
+sniffing(0.040)

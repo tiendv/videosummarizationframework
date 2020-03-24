@@ -1,5 +1,0 @@
-painting(0.043)
-fighting(0.037)
-smashing(0.034)
-stealing(0.027)
-attacking(0.022)

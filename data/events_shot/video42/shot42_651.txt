@@ -1,0 +1,5 @@
+crafting(0.435)
+putting(0.080)
+dressing(0.078)
+working(0.056)
+placing(0.035)

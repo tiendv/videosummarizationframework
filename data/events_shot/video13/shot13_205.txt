@@ -1,0 +1,5 @@
+autographing(0.080)
+pointing(0.058)
+adult+male+speaking(0.055)
+protesting(0.036)
+coaching(0.032)

@@ -1,5 +1,0 @@
-fighting(0.137)
-dining(0.046)
-standing(0.040)
-attacking(0.033)
-playing+videogames(0.022)

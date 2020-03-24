@@ -1,5 +1,0 @@
-walking(0.091)
-slapping(0.082)
-standing(0.035)
-arresting(0.033)
-queuing(0.033)

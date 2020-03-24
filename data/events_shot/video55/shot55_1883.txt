@@ -1,5 +1,0 @@
-punching(0.055)
-handcuffing(0.037)
-taping(0.027)
-crafting(0.025)
-walking(0.023)

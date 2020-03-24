@@ -1,0 +1,5 @@
+guarding(0.240)
+saluting(0.163)
+carrying(0.046)
+arresting(0.043)
+adult+male+speaking(0.028)

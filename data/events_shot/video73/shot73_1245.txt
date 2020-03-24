@@ -1,0 +1,5 @@
+drinking(0.270)
+laughing(0.170)
+smoking(0.033)
+smiling(0.032)
+spitting(0.025)

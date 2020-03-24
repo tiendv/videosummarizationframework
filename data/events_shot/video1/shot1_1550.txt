@@ -1,0 +1,5 @@
+packing(0.055)
+adult+female+speaking(0.029)
+cramming(0.025)
+unpacking(0.024)
+sitting(0.023)

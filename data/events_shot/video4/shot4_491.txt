@@ -1,0 +1,5 @@
+shrugging(0.050)
+talking(0.042)
+slapping(0.042)
+crying(0.039)
+discussing(0.038)

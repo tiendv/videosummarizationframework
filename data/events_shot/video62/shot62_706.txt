@@ -1,0 +1,5 @@
+packaging(0.217)
+packing(0.199)
+unpacking(0.177)
+shopping(0.138)
+buying(0.038)

@@ -1,0 +1,5 @@
+drying(0.128)
+tying(0.083)
+barbecuing(0.030)
+grilling(0.027)
+washing(0.023)

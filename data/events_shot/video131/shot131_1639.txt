@@ -1,0 +1,5 @@
+slapping(0.067)
+knocking(0.063)
+blocking(0.056)
+building(0.049)
+joining(0.045)

@@ -1,0 +1,5 @@
+dining(0.278)
+smoking(0.056)
+drinking(0.039)
+sitting(0.029)
+playing+music(0.021)

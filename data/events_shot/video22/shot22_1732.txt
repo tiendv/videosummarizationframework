@@ -1,0 +1,5 @@
+burning(0.813)
+combusting(0.096)
+camping(0.047)
+destroying(0.010)
+smoking(0.005)

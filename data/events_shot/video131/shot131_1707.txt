@@ -1,0 +1,5 @@
+knocking(0.048)
+locking(0.027)
+shaving(0.027)
+adult+male+speaking(0.027)
+walking(0.022)

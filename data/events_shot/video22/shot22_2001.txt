@@ -1,0 +1,5 @@
+bowing(0.407)
+sitting(0.029)
+praying(0.029)
+standing(0.028)
+talking(0.022)

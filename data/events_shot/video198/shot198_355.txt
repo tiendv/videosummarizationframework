@@ -1,5 +1,0 @@
-carrying(0.025)
-preaching(0.024)
-walking(0.023)
-standing(0.022)
-working(0.022)

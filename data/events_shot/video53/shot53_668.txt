@@ -1,0 +1,5 @@
+eating(0.059)
+dining(0.055)
+painting(0.055)
+laughing(0.035)
+slapping(0.027)

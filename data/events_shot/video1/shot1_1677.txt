@@ -1,0 +1,5 @@
+working(0.077)
+lecturing(0.047)
+sitting(0.041)
+talking(0.040)
+standing(0.030)

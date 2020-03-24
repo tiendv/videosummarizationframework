@@ -1,0 +1,5 @@
+gardening(0.334)
+sniffing(0.145)
+planting(0.116)
+smelling(0.092)
+picking(0.043)

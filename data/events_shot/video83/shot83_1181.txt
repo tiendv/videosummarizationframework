@@ -1,0 +1,5 @@
+sneezing(0.087)
+adult+male+speaking(0.040)
+coughing(0.040)
+playing+videogames(0.025)
+laughing(0.022)

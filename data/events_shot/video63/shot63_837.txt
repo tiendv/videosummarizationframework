@@ -1,0 +1,5 @@
+raining(0.085)
+hugging(0.062)
+walking(0.052)
+filming(0.050)
+adult+female+singing(0.043)

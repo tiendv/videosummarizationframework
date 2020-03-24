@@ -1,0 +1,5 @@
+sneezing(0.121)
+asking(0.037)
+hugging(0.036)
+queuing(0.035)
+coughing(0.032)

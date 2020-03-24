@@ -1,5 +1,0 @@
-adult+female+singing(0.787)
-adult+male+singing(0.019)
-adult+female+speaking(0.016)
-marrying(0.011)
-filming(0.008)

@@ -1,5 +1,0 @@
-knocking(0.045)
-removing(0.041)
-walking(0.037)
-cleaning(0.035)
-standing(0.024)

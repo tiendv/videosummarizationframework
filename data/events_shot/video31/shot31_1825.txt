@@ -1,0 +1,5 @@
+fighting(0.180)
+talking(0.062)
+knocking(0.053)
+arresting(0.053)
+standing(0.047)

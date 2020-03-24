@@ -1,0 +1,5 @@
+adult+female+speaking(0.217)
+knitting(0.098)
+sneezing(0.084)
+chewing(0.059)
+stitching(0.042)

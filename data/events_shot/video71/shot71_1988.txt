@@ -1,0 +1,5 @@
+throwing(0.701)
+punching(0.055)
+shooting(0.034)
+flicking(0.023)
+slapping(0.020)

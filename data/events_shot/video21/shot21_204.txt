@@ -1,0 +1,5 @@
+asking(0.069)
+raining(0.055)
+hugging(0.043)
+spraying(0.037)
+adult+female+speaking(0.034)

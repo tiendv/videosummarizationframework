@@ -1,0 +1,5 @@
+fencing(0.711)
+walking(0.021)
+coaching(0.013)
+boxing(0.011)
+fighting(0.010)

@@ -1,5 +1,0 @@
-filming(0.050)
-entering(0.043)
-adult+male+speaking(0.040)
-exiting(0.039)
-standing(0.037)

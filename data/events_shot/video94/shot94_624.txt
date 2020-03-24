@@ -1,0 +1,5 @@
+handcuffing(0.094)
+hugging(0.061)
+adult+male+speaking(0.058)
+kissing(0.044)
+crying(0.043)

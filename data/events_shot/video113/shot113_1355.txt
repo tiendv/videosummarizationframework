@@ -1,0 +1,5 @@
+tattooing(0.102)
+drying(0.083)
+hanging(0.046)
+fencing(0.036)
+adult+male+speaking(0.027)

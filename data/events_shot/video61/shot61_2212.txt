@@ -1,0 +1,5 @@
+adult+female+singing(0.555)
+adult+male+singing(0.127)
+bouncing(0.077)
+dancing(0.017)
+singing(0.012)

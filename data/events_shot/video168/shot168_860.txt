@@ -1,5 +1,0 @@
-raining(0.049)
-adult+female+singing(0.043)
-kissing(0.037)
-hugging(0.034)
-slapping(0.032)

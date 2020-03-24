@@ -1,0 +1,5 @@
+fencing(0.084)
+hugging(0.041)
+standing(0.035)
+walking(0.034)
+throwing(0.024)

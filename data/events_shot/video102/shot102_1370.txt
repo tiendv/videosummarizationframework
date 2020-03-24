@@ -1,0 +1,5 @@
+standing(0.030)
+bowing(0.026)
+adult+female+singing(0.024)
+fighting(0.024)
+walking(0.021)

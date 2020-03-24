@@ -1,0 +1,5 @@
+tapping(0.781)
+drinking(0.046)
+scratching(0.009)
+discussing(0.008)
+smelling(0.008)

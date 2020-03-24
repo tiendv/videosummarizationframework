@@ -1,0 +1,5 @@
+barbecuing(0.210)
+cooking(0.134)
+grilling(0.084)
+dining(0.066)
+selling(0.027)

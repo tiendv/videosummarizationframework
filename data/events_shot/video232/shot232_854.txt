@@ -1,5 +1,0 @@
-whistling(0.075)
-walking(0.040)
-standing(0.027)
-slapping(0.026)
-talking(0.026)

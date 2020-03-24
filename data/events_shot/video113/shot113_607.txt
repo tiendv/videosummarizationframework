@@ -1,0 +1,5 @@
+adult+female+speaking(0.063)
+manicuring(0.056)
+talking(0.047)
+smiling(0.043)
+cooking(0.035)

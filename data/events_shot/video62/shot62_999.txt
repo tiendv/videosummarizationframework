@@ -1,0 +1,5 @@
+shaving(0.061)
+adult+male+speaking(0.061)
+laughing(0.059)
+painting(0.045)
+slapping(0.022)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.091)
+discussing(0.066)
+painting(0.057)
+interviewing(0.056)
+working(0.048)

@@ -1,0 +1,5 @@
+arresting(0.242)
+handcuffing(0.081)
+kissing(0.033)
+gripping(0.031)
+cracking(0.031)

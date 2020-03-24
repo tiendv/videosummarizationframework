@@ -1,0 +1,5 @@
+fueling(0.140)
+assembling(0.064)
+cleaning(0.048)
+inflating(0.042)
+riding(0.035)

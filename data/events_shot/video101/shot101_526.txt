@@ -1,0 +1,5 @@
+stacking(0.279)
+walking(0.069)
+running(0.057)
+stealing(0.040)
+jogging(0.036)

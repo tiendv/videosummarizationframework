@@ -1,0 +1,5 @@
+entering(0.142)
+closing(0.127)
+opening(0.117)
+playing+videogames(0.077)
+exiting(0.056)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.380)
+aiming(0.077)
+talking(0.060)
+adult+male+singing(0.059)
+sneezing(0.035)

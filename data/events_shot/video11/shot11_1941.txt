@@ -1,0 +1,5 @@
+slapping(0.255)
+crying(0.139)
+frowning(0.053)
+coughing(0.029)
+squinting(0.028)

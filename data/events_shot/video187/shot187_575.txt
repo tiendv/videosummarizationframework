@@ -1,5 +1,0 @@
-fighting(0.069)
-punching(0.031)
-attacking(0.027)
-boxing(0.024)
-adult+male+speaking(0.020)

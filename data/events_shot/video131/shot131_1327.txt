@@ -1,0 +1,5 @@
+smoking(0.180)
+drinking(0.147)
+dining(0.143)
+eating(0.060)
+spitting(0.029)

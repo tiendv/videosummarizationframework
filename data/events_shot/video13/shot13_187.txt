@@ -1,0 +1,5 @@
+planting(0.201)
+gardening(0.110)
+sniffing(0.072)
+sowing(0.056)
+smelling(0.039)

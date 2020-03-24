@@ -1,0 +1,5 @@
+squinting(0.061)
+sneezing(0.045)
+frowning(0.032)
+crying(0.031)
+adult+male+speaking(0.031)

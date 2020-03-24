@@ -1,5 +1,0 @@
-fighting(0.087)
-shooting(0.052)
-sneezing(0.047)
-running(0.044)
-smashing(0.043)

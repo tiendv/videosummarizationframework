@@ -1,5 +1,0 @@
-adult+female+singing(0.535)
-adult+male+singing(0.052)
-singing(0.016)
-knocking(0.015)
-tattooing(0.015)

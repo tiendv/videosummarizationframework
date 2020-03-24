@@ -1,0 +1,5 @@
+talking(0.069)
+standing(0.050)
+adult+female+speaking(0.037)
+signing(0.026)
+pointing(0.024)

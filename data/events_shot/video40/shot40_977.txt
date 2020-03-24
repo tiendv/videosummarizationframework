@@ -1,5 +1,0 @@
-driving(0.366)
-washing(0.175)
-hitchhiking(0.047)
-rinsing(0.043)
-steering(0.025)

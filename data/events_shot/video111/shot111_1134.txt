@@ -1,0 +1,5 @@
+camping(0.856)
+hitchhiking(0.008)
+driving(0.008)
+painting(0.007)
+riding(0.004)

@@ -1,0 +1,5 @@
+dancing(0.258)
+adult+male+singing(0.102)
+stomping(0.091)
+adult+female+singing(0.063)
+performing(0.045)

@@ -1,5 +1,0 @@
-child+speaking(0.225)
-child+singing(0.179)
-slapping(0.054)
-snapping(0.029)
-imitating(0.027)

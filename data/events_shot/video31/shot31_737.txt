@@ -1,0 +1,5 @@
+sitting(0.168)
+adult+male+speaking(0.063)
+discussing(0.054)
+coaching(0.037)
+asking(0.037)

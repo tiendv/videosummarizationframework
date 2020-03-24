@@ -1,0 +1,5 @@
+opening(0.509)
+closing(0.421)
+discussing(0.005)
+exiting(0.003)
+interviewing(0.003)

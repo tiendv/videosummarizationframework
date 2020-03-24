@@ -1,0 +1,5 @@
+saluting(0.131)
+guarding(0.112)
+fighting(0.053)
+standing(0.052)
+adult+male+speaking(0.039)

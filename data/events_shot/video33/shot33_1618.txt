@@ -1,0 +1,5 @@
+slapping(0.047)
+tickling(0.038)
+attacking(0.022)
+laughing(0.022)
+gripping(0.020)

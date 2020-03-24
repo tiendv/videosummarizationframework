@@ -1,5 +1,0 @@
-applauding(0.333)
-adult+male+speaking(0.079)
-clapping(0.033)
-adult+male+singing(0.032)
-adult+female+speaking(0.031)

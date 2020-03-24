@@ -1,0 +1,5 @@
+hugging(0.098)
+dressing(0.097)
+kissing(0.071)
+handcuffing(0.050)
+adult+female+singing(0.032)

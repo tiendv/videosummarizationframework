@@ -1,0 +1,5 @@
+arresting(0.116)
+frowning(0.108)
+adult+male+speaking(0.102)
+squinting(0.038)
+handcuffing(0.036)

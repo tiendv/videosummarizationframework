@@ -1,0 +1,5 @@
+reading(0.799)
+studying(0.051)
+cramming(0.012)
+writing(0.007)
+sitting(0.006)

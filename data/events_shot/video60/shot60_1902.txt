@@ -1,5 +1,0 @@
-hugging(0.289)
-adult+male+singing(0.044)
-sneezing(0.040)
-cracking(0.038)
-coughing(0.034)

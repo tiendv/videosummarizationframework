@@ -1,0 +1,5 @@
+walking(0.194)
+stealing(0.085)
+carrying(0.043)
+sniffing(0.031)
+hitchhiking(0.031)

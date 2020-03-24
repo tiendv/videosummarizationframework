@@ -1,0 +1,5 @@
+massaging(0.350)
+cracking(0.148)
+sneezing(0.068)
+slapping(0.031)
+coughing(0.030)

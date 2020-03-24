@@ -1,0 +1,5 @@
+laughing(0.075)
+tickling(0.050)
+yawning(0.049)
+coughing(0.040)
+sneezing(0.034)

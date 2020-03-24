@@ -1,0 +1,5 @@
+adult+male+speaking(0.030)
+pouring(0.027)
+emptying(0.027)
+adult+female+speaking(0.025)
+plunging(0.025)

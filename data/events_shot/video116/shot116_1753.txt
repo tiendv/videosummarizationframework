@@ -1,5 +1,0 @@
-coughing(0.083)
-sneezing(0.081)
-attacking(0.049)
-fighting(0.025)
-adult+male+speaking(0.025)

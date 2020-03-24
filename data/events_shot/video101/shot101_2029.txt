@@ -1,0 +1,5 @@
+mowing(0.068)
+adult+male+speaking(0.041)
+hunting(0.034)
+standing(0.031)
+steering(0.027)

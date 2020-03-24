@@ -1,0 +1,5 @@
+drying(0.136)
+stacking(0.035)
+washing(0.034)
+loading(0.030)
+tickling(0.029)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.146)
+standing(0.080)
+adult+female+singing(0.056)
+adult+male+speaking(0.035)
+talking(0.028)

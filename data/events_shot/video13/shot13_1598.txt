@@ -1,0 +1,5 @@
+arresting(0.206)
+running(0.091)
+walking(0.087)
+slapping(0.060)
+fighting(0.059)

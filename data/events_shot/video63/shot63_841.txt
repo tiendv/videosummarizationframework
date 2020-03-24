@@ -1,0 +1,5 @@
+crying(0.253)
+frowning(0.061)
+locking(0.030)
+knocking(0.026)
+shrugging(0.023)

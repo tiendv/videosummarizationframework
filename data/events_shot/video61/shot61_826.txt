@@ -1,0 +1,5 @@
+assembling(0.147)
+drawing(0.089)
+painting(0.077)
+repairing(0.048)
+constructing(0.041)

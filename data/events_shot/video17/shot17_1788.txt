@@ -1,5 +1,0 @@
-adult+male+speaking(0.077)
-aiming(0.063)
-guarding(0.038)
-sniffing(0.030)
-dining(0.029)

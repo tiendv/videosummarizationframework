@@ -1,5 +1,0 @@
-arresting(0.094)
-walking(0.051)
-adult+male+speaking(0.040)
-coaching(0.035)
-queuing(0.031)

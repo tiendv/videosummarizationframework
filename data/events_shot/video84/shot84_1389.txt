@@ -1,0 +1,5 @@
+stretching(0.118)
+pressing(0.069)
+lifting(0.054)
+stitching(0.039)
+falling(0.034)

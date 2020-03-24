@@ -1,0 +1,5 @@
+cooking(0.198)
+stirring(0.159)
+painting(0.067)
+baking(0.056)
+crafting(0.053)

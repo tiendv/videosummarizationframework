@@ -1,0 +1,5 @@
+walking(0.075)
+playing+videogames(0.046)
+clipping(0.037)
+slapping(0.029)
+standing(0.027)

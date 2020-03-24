@@ -1,0 +1,5 @@
+calling(0.071)
+telephoning(0.054)
+fighting(0.037)
+crying(0.033)
+punching(0.029)

@@ -1,0 +1,5 @@
+measuring(0.459)
+pressing(0.161)
+locking(0.073)
+plugging(0.037)
+putting(0.020)

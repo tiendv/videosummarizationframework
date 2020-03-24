@@ -1,5 +1,0 @@
-guarding(0.100)
-fencing(0.099)
-running(0.076)
-walking(0.050)
-knocking(0.041)

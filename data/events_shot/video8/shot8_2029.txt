@@ -1,5 +1,0 @@
-poking(0.319)
-drawing(0.095)
-snapping(0.074)
-cracking(0.055)
-adult+male+speaking(0.037)

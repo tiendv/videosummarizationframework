@@ -1,0 +1,5 @@
+fencing(0.977)
+gardening(0.006)
+planting(0.002)
+painting(0.001)
+building(0.001)

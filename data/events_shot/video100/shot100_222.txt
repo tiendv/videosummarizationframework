@@ -1,5 +1,0 @@
-filming(0.105)
-smoking(0.062)
-adult+female+singing(0.048)
-adult+female+speaking(0.040)
-dining(0.039)

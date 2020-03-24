@@ -1,0 +1,5 @@
+walking(0.386)
+shrugging(0.164)
+standing(0.035)
+slapping(0.029)
+pushing(0.019)

@@ -1,5 +1,0 @@
-climbing(0.292)
-standing(0.032)
-diving(0.031)
-hiking(0.026)
-walking(0.023)

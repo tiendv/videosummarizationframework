@@ -1,5 +1,0 @@
-sneezing(0.071)
-sitting(0.039)
-adult+female+speaking(0.036)
-adult+male+speaking(0.024)
-filming(0.024)

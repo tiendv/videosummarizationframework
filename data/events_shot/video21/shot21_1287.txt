@@ -1,0 +1,5 @@
+arresting(0.202)
+guarding(0.119)
+filming(0.069)
+standing(0.033)
+handcuffing(0.031)

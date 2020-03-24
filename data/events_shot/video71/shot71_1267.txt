@@ -1,0 +1,5 @@
+interviewing(0.128)
+discussing(0.119)
+asking(0.076)
+laughing(0.067)
+drinking(0.059)

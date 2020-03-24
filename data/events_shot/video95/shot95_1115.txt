@@ -1,0 +1,5 @@
+brushing(0.083)
+baking(0.056)
+cleaning(0.051)
+washing(0.047)
+shaving(0.043)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.119)
+guarding(0.043)
+adult+male+singing(0.040)
+arresting(0.038)
+knocking(0.034)

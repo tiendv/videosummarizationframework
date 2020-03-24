@@ -1,0 +1,5 @@
+mopping(0.046)
+standing(0.032)
+adult+male+speaking(0.026)
+dusting(0.024)
+walking(0.019)

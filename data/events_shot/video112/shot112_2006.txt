@@ -1,0 +1,5 @@
+pointing(0.154)
+fighting(0.042)
+discussing(0.033)
+watering(0.029)
+poking(0.027)

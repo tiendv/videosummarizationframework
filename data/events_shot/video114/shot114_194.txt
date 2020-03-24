@@ -1,0 +1,5 @@
+packing(0.396)
+unpacking(0.271)
+assembling(0.031)
+folding(0.020)
+packaging(0.018)

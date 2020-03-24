@@ -1,0 +1,5 @@
+manicuring(0.172)
+adult+female+speaking(0.111)
+handwriting(0.088)
+writing(0.045)
+sitting(0.043)

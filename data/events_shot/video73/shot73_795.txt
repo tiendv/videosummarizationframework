@@ -1,0 +1,5 @@
+performing(0.038)
+standing(0.029)
+adult+male+singing(0.029)
+bowing(0.029)
+punching(0.029)

@@ -1,5 +1,0 @@
-aiming(0.050)
-adult+male+singing(0.044)
-adult+female+singing(0.041)
-playing+videogames(0.034)
-standing(0.027)

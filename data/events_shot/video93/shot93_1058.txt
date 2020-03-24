@@ -1,0 +1,5 @@
+sneezing(0.118)
+coughing(0.099)
+knocking(0.091)
+adult+male+singing(0.038)
+yawning(0.032)

@@ -1,5 +1,0 @@
-chewing(0.518)
-tapping(0.050)
-adult+female+speaking(0.041)
-adult+male+speaking(0.024)
-sitting(0.024)

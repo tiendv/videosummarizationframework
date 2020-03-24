@@ -1,0 +1,5 @@
+crying(0.351)
+frowning(0.073)
+filming(0.037)
+slapping(0.035)
+shrugging(0.030)

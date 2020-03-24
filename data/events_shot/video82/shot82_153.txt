@@ -1,0 +1,5 @@
+boating(0.060)
+adult+male+speaking(0.056)
+coaching(0.027)
+discussing(0.018)
+standing(0.018)

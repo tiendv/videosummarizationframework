@@ -1,5 +1,0 @@
-adult+male+speaking(0.069)
-standing(0.064)
-roaring(0.039)
-attacking(0.034)
-filming(0.030)

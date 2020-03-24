@@ -1,0 +1,5 @@
+drinking(0.132)
+baptizing(0.114)
+telephoning(0.111)
+adult+male+singing(0.050)
+calling(0.039)

@@ -1,5 +1,0 @@
-hanging(0.089)
-walking(0.043)
-guarding(0.036)
-cleaning(0.035)
-playing+videogames(0.031)

@@ -1,0 +1,5 @@
+bouncing(0.410)
+kicking(0.111)
+adult+female+singing(0.040)
+mowing(0.034)
+rocking(0.018)

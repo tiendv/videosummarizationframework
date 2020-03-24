@@ -1,0 +1,5 @@
+hunting(0.862)
+attacking(0.042)
+roaring(0.014)
+running(0.013)
+fighting(0.012)

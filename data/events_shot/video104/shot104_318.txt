@@ -1,0 +1,5 @@
+painting(0.449)
+drawing(0.079)
+brushing(0.075)
+slapping(0.058)
+drying(0.021)

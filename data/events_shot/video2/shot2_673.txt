@@ -1,0 +1,5 @@
+knocking(0.106)
+fencing(0.074)
+slapping(0.043)
+blocking(0.029)
+sneezing(0.029)

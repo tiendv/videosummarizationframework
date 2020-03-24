@@ -1,0 +1,5 @@
+smoking(0.126)
+adult+male+speaking(0.029)
+licking(0.028)
+adult+female+speaking(0.025)
+driving(0.025)

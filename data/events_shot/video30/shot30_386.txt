@@ -1,5 +1,0 @@
-walking(0.086)
-smashing(0.033)
-breaking(0.021)
-building(0.020)
-standing(0.019)

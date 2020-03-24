@@ -1,0 +1,5 @@
+walking(0.085)
+bouncing(0.055)
+jogging(0.040)
+adult+female+speaking(0.038)
+exercising(0.037)

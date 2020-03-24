@@ -1,5 +1,0 @@
-walking(0.071)
-entering(0.043)
-running(0.041)
-playing+videogames(0.033)
-stealing(0.032)

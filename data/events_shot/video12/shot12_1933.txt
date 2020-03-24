@@ -1,0 +1,5 @@
+standing(0.038)
+squatting(0.034)
+gripping(0.033)
+asking(0.032)
+adult+male+speaking(0.023)

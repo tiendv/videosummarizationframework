@@ -1,5 +1,0 @@
-driving(0.055)
-running(0.034)
-walking(0.031)
-hitchhiking(0.030)
-playing+videogames(0.024)

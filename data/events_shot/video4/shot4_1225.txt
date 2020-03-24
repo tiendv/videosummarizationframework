@@ -1,0 +1,5 @@
+inflating(0.088)
+drying(0.072)
+packing(0.037)
+shaking(0.027)
+cooking(0.022)

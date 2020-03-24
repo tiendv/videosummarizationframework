@@ -1,5 +1,0 @@
-adult+male+singing(0.122)
-cracking(0.043)
-adult+male+speaking(0.038)
-slapping(0.034)
-arresting(0.032)

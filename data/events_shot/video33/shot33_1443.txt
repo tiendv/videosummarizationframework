@@ -1,0 +1,5 @@
+talking(0.128)
+adult+male+speaking(0.100)
+starting(0.037)
+standing(0.033)
+fueling(0.030)

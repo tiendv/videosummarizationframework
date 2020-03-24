@@ -1,5 +1,0 @@
-adult+male+speaking(0.094)
-walking(0.050)
-pointing(0.042)
-barking(0.034)
-pushing(0.030)

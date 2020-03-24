@@ -1,0 +1,5 @@
+tapping(0.078)
+pressing(0.036)
+typing(0.035)
+scratching(0.033)
+rubbing(0.026)

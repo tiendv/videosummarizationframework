@@ -1,0 +1,5 @@
+whistling(0.051)
+saluting(0.038)
+standing(0.030)
+guarding(0.029)
+shrugging(0.025)

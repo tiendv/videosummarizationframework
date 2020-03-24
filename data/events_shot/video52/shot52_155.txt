@@ -1,0 +1,5 @@
+coughing(0.330)
+sneezing(0.248)
+working(0.020)
+smelling(0.011)
+talking(0.011)

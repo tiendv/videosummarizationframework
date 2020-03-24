@@ -1,0 +1,5 @@
+sanding(0.103)
+rubbing(0.092)
+sliding(0.056)
+licking(0.050)
+bowling(0.031)

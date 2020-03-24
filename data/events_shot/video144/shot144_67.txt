@@ -1,5 +1,0 @@
-driving(0.061)
-steering(0.034)
-adult+female+singing(0.033)
-adult+female+speaking(0.027)
-filming(0.024)

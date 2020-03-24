@@ -1,0 +1,5 @@
+crafting(0.066)
+measuring(0.051)
+taping(0.037)
+planting(0.033)
+gardening(0.028)

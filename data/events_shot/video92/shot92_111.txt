@@ -1,0 +1,5 @@
+chewing(0.102)
+tapping(0.076)
+tying(0.056)
+signing(0.029)
+smelling(0.027)

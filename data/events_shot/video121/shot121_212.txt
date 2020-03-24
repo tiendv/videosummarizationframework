@@ -1,0 +1,5 @@
+adult+male+speaking(0.120)
+slapping(0.095)
+smiling(0.080)
+arresting(0.046)
+queuing(0.039)

@@ -1,0 +1,5 @@
+bowing(0.212)
+bending(0.060)
+adult+male+speaking(0.057)
+inflating(0.048)
+handcuffing(0.027)

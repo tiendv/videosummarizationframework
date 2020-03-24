@@ -1,5 +1,0 @@
-driving(0.091)
-riding(0.079)
-steering(0.070)
-loading(0.024)
-bouncing(0.018)

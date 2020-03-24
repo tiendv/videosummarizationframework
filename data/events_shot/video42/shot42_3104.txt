@@ -1,0 +1,5 @@
+adult+male+singing(0.135)
+standing(0.129)
+performing(0.122)
+singing(0.069)
+cheering(0.053)

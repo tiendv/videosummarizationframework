@@ -1,0 +1,5 @@
+diving(0.063)
+flying(0.043)
+hiking(0.038)
+ascending(0.028)
+climbing(0.025)

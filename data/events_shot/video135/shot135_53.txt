@@ -1,5 +1,0 @@
-crafting(0.080)
-marrying(0.073)
-manicuring(0.048)
-dining(0.045)
-adult+female+speaking(0.044)

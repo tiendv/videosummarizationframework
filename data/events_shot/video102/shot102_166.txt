@@ -1,0 +1,5 @@
+punching(0.089)
+boxing(0.079)
+hugging(0.047)
+adult+female+singing(0.021)
+coaching(0.019)

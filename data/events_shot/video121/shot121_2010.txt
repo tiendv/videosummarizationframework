@@ -1,0 +1,5 @@
+painting(0.047)
+combing(0.036)
+brushing(0.035)
+stacking(0.032)
+tattooing(0.028)

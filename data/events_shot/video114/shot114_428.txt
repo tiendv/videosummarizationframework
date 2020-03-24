@@ -1,5 +1,0 @@
-adult+female+speaking(0.111)
-talking(0.099)
-child+speaking(0.050)
-standing(0.037)
-coughing(0.031)

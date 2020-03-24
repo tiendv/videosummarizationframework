@@ -1,0 +1,5 @@
+cooking(0.328)
+fencing(0.094)
+baking(0.051)
+frying(0.027)
+stirring(0.027)

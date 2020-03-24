@@ -1,0 +1,5 @@
+drinking(0.127)
+eating(0.107)
+dining(0.066)
+adult+male+speaking(0.057)
+discussing(0.041)

@@ -1,0 +1,5 @@
+drinking(0.133)
+smoking(0.124)
+smiling(0.028)
+winking(0.026)
+adult+female+speaking(0.026)

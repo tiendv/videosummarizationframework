@@ -1,0 +1,5 @@
+knocking(0.105)
+painting(0.060)
+spraying(0.036)
+lecturing(0.035)
+dusting(0.034)

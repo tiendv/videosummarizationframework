@@ -1,0 +1,5 @@
+cleaning(0.047)
+building(0.043)
+aiming(0.028)
+stacking(0.021)
+loading(0.020)

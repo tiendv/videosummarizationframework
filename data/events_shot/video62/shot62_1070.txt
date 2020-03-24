@@ -1,0 +1,5 @@
+dressing(0.025)
+packing(0.021)
+crafting(0.021)
+adult+female+speaking(0.020)
+handcuffing(0.019)

@@ -1,0 +1,5 @@
+chewing(0.044)
+adult+male+speaking(0.032)
+slapping(0.031)
+painting(0.023)
+smiling(0.019)

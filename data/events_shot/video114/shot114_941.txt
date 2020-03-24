@@ -1,0 +1,5 @@
+laughing(0.041)
+fighting(0.030)
+standing(0.029)
+stomping(0.023)
+attacking(0.023)

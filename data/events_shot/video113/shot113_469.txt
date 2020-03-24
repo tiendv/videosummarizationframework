@@ -1,0 +1,5 @@
+adult+male+speaking(0.170)
+aiming(0.045)
+playing+videogames(0.036)
+blocking(0.027)
+punching(0.024)

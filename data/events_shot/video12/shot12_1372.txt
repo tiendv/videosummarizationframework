@@ -1,0 +1,5 @@
+tattooing(0.107)
+running(0.062)
+walking(0.041)
+slapping(0.033)
+hugging(0.018)

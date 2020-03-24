@@ -1,5 +1,0 @@
-adult+male+speaking(0.080)
-fighting(0.039)
-cracking(0.037)
-starting(0.030)
-blocking(0.025)

@@ -1,5 +1,0 @@
-queuing(0.031)
-preaching(0.024)
-adult+male+speaking(0.024)
-walking(0.022)
-fighting(0.021)

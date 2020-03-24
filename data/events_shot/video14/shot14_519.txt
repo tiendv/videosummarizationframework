@@ -1,0 +1,5 @@
+hugging(0.073)
+walking(0.056)
+queuing(0.048)
+applauding(0.043)
+adult+male+speaking(0.037)

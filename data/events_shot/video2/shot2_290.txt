@@ -1,0 +1,5 @@
+dining(0.070)
+fighting(0.047)
+adult+male+speaking(0.045)
+cooking(0.044)
+serving(0.033)

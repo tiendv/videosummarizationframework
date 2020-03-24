@@ -1,0 +1,5 @@
+loading(0.033)
+exiting(0.031)
+arresting(0.027)
+guarding(0.026)
+walking(0.024)

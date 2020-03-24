@@ -1,0 +1,5 @@
+flicking(0.306)
+throwing(0.283)
+aiming(0.032)
+talking(0.025)
+flipping(0.024)

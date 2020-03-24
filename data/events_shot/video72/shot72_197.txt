@@ -1,0 +1,5 @@
+adult+male+speaking(0.041)
+loading(0.033)
+putting(0.029)
+standing(0.024)
+locking(0.022)

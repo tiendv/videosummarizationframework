@@ -1,5 +1,0 @@
-sliding(0.271)
-skiing(0.074)
-slipping(0.063)
-crashing(0.030)
-snowing(0.027)

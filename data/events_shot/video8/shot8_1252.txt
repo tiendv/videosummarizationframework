@@ -1,5 +1,0 @@
-shaving(0.067)
-brushing(0.056)
-walking(0.031)
-cleaning(0.027)
-hugging(0.026)

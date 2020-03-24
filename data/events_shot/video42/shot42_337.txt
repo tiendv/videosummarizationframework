@@ -1,0 +1,5 @@
+jogging(0.121)
+running(0.115)
+walking(0.068)
+cleaning(0.019)
+washing(0.015)

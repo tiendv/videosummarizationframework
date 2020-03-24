@@ -1,0 +1,5 @@
+filling(0.094)
+fueling(0.062)
+measuring(0.043)
+peeling(0.035)
+cramming(0.030)

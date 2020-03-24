@@ -1,5 +1,0 @@
-adult+female+singing(0.118)
-signing(0.069)
-singing(0.035)
-slapping(0.035)
-coughing(0.035)

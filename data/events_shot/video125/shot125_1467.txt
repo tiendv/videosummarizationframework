@@ -1,0 +1,5 @@
+brushing(0.327)
+tapping(0.089)
+combing(0.040)
+peeling(0.038)
+handcuffing(0.029)

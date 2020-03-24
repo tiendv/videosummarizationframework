@@ -1,5 +1,0 @@
-stacking(0.100)
-cleaning(0.096)
-dipping(0.052)
-painting(0.035)
-cooking(0.029)

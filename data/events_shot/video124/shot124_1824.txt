@@ -1,0 +1,5 @@
+raising(0.045)
+carrying(0.044)
+discussing(0.043)
+crying(0.034)
+interviewing(0.033)

@@ -1,5 +1,0 @@
-stacking(0.085)
-sneezing(0.036)
-fighting(0.036)
-hugging(0.026)
-laughing(0.020)

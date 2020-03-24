@@ -1,0 +1,5 @@
+eating(0.446)
+dining(0.081)
+chewing(0.027)
+feeding(0.022)
+biting(0.021)

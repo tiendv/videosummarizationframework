@@ -1,0 +1,5 @@
+biting(0.076)
+drinking(0.065)
+chewing(0.057)
+telephoning(0.035)
+filming(0.027)

@@ -1,0 +1,5 @@
+sneezing(0.450)
+coughing(0.101)
+discussing(0.022)
+yawning(0.021)
+talking(0.020)

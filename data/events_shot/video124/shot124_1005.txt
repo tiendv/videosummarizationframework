@@ -1,0 +1,5 @@
+smoking(0.152)
+smelling(0.045)
+pointing(0.036)
+spitting(0.034)
+coughing(0.028)

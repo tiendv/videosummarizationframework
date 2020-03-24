@@ -1,0 +1,5 @@
+adult+female+speaking(0.128)
+waking(0.085)
+calling(0.041)
+reading(0.038)
+telephoning(0.035)

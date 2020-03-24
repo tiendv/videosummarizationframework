@@ -1,5 +1,0 @@
-telephoning(0.231)
-tapping(0.203)
-calling(0.192)
-typing(0.043)
-adult+female+speaking(0.027)

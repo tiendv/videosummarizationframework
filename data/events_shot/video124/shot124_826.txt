@@ -1,0 +1,5 @@
+shaking(0.030)
+dusting(0.028)
+adult+female+speaking(0.023)
+giving(0.015)
+standing(0.015)

@@ -1,0 +1,5 @@
+sneezing(0.057)
+coughing(0.040)
+dressing(0.038)
+tearing(0.032)
+folding(0.031)

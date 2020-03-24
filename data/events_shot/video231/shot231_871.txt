@@ -1,5 +1,0 @@
-hanging(0.043)
-working(0.037)
-opening(0.028)
-cooking(0.027)
-walking(0.025)

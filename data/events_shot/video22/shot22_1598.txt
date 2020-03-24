@@ -1,0 +1,5 @@
+slapping(0.173)
+hugging(0.056)
+shrugging(0.031)
+punching(0.026)
+discussing(0.023)

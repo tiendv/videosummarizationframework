@@ -1,0 +1,5 @@
+slapping(0.123)
+crying(0.111)
+walking(0.034)
+carrying(0.023)
+adult+female+speaking(0.019)

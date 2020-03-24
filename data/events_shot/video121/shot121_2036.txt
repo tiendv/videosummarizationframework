@@ -1,0 +1,5 @@
+eating(0.139)
+chewing(0.100)
+praying(0.068)
+discussing(0.066)
+sitting(0.050)

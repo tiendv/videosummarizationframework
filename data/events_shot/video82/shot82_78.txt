@@ -1,0 +1,5 @@
+stacking(0.351)
+working(0.033)
+loading(0.030)
+unloading(0.017)
+standing(0.016)

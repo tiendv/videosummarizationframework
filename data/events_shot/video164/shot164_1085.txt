@@ -1,5 +1,0 @@
-smoking(0.035)
-playing+videogames(0.029)
-adult+female+singing(0.025)
-standing(0.024)
-adult+male+singing(0.021)

@@ -1,0 +1,5 @@
+drawing(0.628)
+carving(0.132)
+sketching(0.123)
+painting(0.071)
+tattooing(0.009)

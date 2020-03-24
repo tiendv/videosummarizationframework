@@ -1,0 +1,5 @@
+adult+male+singing(0.139)
+adult+male+speaking(0.093)
+standing(0.068)
+guarding(0.057)
+shrugging(0.031)

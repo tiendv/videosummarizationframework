@@ -1,0 +1,5 @@
+eating(0.045)
+crying(0.041)
+coughing(0.039)
+talking(0.032)
+adult+female+speaking(0.030)

@@ -1,5 +1,0 @@
-fencing(0.179)
-guarding(0.045)
-hanging(0.045)
-turning(0.041)
-standing(0.038)

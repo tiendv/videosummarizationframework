@@ -1,5 +1,0 @@
-fighting(0.070)
-running(0.062)
-adult+male+speaking(0.044)
-punching(0.039)
-standing(0.032)

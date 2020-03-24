@@ -1,0 +1,5 @@
+driving(0.189)
+hitchhiking(0.053)
+adult+female+singing(0.053)
+washing(0.051)
+talking(0.044)

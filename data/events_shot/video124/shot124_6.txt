@@ -1,0 +1,5 @@
+measuring(0.480)
+bicycling(0.048)
+starting(0.030)
+locking(0.024)
+plugging(0.015)

@@ -1,0 +1,5 @@
+drying(0.046)
+slapping(0.031)
+cracking(0.026)
+massaging(0.024)
+smiling(0.018)

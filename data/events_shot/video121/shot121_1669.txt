@@ -1,0 +1,5 @@
+brushing(0.152)
+combing(0.068)
+tapping(0.046)
+hugging(0.035)
+adult+female+speaking(0.026)

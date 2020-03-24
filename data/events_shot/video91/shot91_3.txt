@@ -1,0 +1,5 @@
+hammering(0.139)
+digging(0.072)
+vacuuming(0.040)
+drilling(0.036)
+diving(0.036)

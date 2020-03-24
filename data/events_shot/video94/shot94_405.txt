@@ -1,0 +1,5 @@
+boating(0.125)
+fishing(0.029)
+rowing(0.021)
+sailing(0.020)
+coughing(0.018)

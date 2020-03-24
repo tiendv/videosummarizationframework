@@ -1,0 +1,5 @@
+blocking(0.156)
+stretching(0.057)
+kicking(0.053)
+reaching(0.025)
+punching(0.023)

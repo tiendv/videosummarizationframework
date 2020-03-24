@@ -1,0 +1,5 @@
+raining(0.365)
+adult+female+speaking(0.162)
+drenching(0.042)
+adult+female+singing(0.032)
+talking(0.022)

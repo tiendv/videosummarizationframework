@@ -1,5 +1,0 @@
-clipping(0.095)
-hugging(0.091)
-fighting(0.066)
-adult+male+speaking(0.043)
-playing+videogames(0.039)

@@ -1,0 +1,5 @@
+fencing(0.040)
+standing(0.038)
+adult+male+speaking(0.037)
+walking(0.037)
+building(0.034)

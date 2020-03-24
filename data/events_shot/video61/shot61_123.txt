@@ -1,0 +1,5 @@
+arresting(0.094)
+walking(0.091)
+adult+male+speaking(0.056)
+praying(0.035)
+guarding(0.031)

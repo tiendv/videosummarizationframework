@@ -1,5 +1,0 @@
-lecturing(0.172)
-clapping(0.035)
-flicking(0.032)
-snapping(0.030)
-adult+male+speaking(0.029)

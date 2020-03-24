@@ -1,5 +1,0 @@
-adult+female+singing(0.293)
-adult+male+singing(0.070)
-singing(0.037)
-clipping(0.024)
-standing(0.023)

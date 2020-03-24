@@ -1,0 +1,5 @@
+marrying(0.068)
+adult+female+speaking(0.053)
+dressing(0.039)
+drying(0.035)
+adult+female+singing(0.035)

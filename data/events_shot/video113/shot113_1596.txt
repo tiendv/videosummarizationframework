@@ -1,0 +1,5 @@
+praying(0.148)
+drinking(0.105)
+bowing(0.100)
+smoking(0.083)
+sniffing(0.038)

@@ -1,0 +1,5 @@
+asking(0.072)
+hugging(0.043)
+discussing(0.039)
+adult+male+speaking(0.038)
+autographing(0.033)

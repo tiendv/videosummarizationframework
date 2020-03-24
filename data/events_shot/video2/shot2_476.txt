@@ -1,0 +1,5 @@
+adult+female+singing(0.142)
+hugging(0.080)
+adult+female+speaking(0.069)
+cuddling(0.033)
+boating(0.025)

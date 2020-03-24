@@ -1,0 +1,5 @@
+adult+female+singing(0.114)
+walking(0.084)
+knocking(0.060)
+filming(0.030)
+running(0.027)

@@ -1,0 +1,5 @@
+crashing(0.103)
+driving(0.091)
+colliding(0.074)
+adult+female+singing(0.062)
+aiming(0.056)

@@ -1,0 +1,5 @@
+handwriting(0.261)
+lecturing(0.092)
+adult+female+speaking(0.075)
+adult+male+speaking(0.037)
+teaching(0.037)

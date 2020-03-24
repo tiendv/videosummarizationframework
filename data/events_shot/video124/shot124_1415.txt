@@ -1,0 +1,5 @@
+walking(0.072)
+slapping(0.063)
+filming(0.060)
+asking(0.049)
+smiling(0.045)

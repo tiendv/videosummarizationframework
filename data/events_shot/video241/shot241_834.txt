@@ -1,5 +1,0 @@
-calling(0.117)
-telephoning(0.083)
-paying(0.072)
-opening(0.054)
-locking(0.054)

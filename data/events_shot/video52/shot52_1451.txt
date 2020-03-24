@@ -1,0 +1,5 @@
+asking(0.064)
+walking(0.047)
+kissing(0.043)
+standing(0.041)
+interviewing(0.041)

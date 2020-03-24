@@ -1,0 +1,5 @@
+telephoning(0.138)
+calling(0.107)
+filming(0.052)
+hanging(0.024)
+carrying(0.019)

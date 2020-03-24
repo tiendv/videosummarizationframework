@@ -1,0 +1,5 @@
+interviewing(0.050)
+opening(0.041)
+closing(0.035)
+discussing(0.030)
+talking(0.030)

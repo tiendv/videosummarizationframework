@@ -1,0 +1,5 @@
+running(0.050)
+knocking(0.047)
+walking(0.046)
+fighting(0.033)
+raining(0.032)

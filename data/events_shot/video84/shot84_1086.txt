@@ -1,0 +1,5 @@
+hunting(0.121)
+hugging(0.065)
+attacking(0.050)
+pointing(0.041)
+arresting(0.040)

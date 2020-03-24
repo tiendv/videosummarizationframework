@@ -1,0 +1,5 @@
+jumping(0.087)
+skating(0.054)
+running(0.047)
+flipping(0.029)
+climbing(0.026)

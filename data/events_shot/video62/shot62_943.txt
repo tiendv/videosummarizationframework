@@ -1,0 +1,5 @@
+sneezing(0.043)
+bowing(0.033)
+hammering(0.031)
+coughing(0.027)
+tying(0.024)

@@ -1,0 +1,5 @@
+inflating(0.027)
+vacuuming(0.026)
+rolling(0.023)
+walking(0.018)
+cleaning(0.014)

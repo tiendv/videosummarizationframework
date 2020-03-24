@@ -1,0 +1,5 @@
+hitchhiking(0.170)
+running(0.101)
+walking(0.095)
+bicycling(0.074)
+skating(0.045)

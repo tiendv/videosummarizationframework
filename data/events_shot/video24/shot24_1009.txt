@@ -1,5 +1,0 @@
-adult+female+singing(0.053)
-adult+female+speaking(0.036)
-squatting(0.032)
-standing(0.031)
-bowing(0.022)

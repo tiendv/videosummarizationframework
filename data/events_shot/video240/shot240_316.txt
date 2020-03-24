@@ -1,5 +1,0 @@
-squatting(0.053)
-spinning(0.032)
-gripping(0.024)
-assembling(0.021)
-working(0.019)

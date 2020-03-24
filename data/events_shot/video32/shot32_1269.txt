@@ -1,0 +1,5 @@
+crafting(0.083)
+discussing(0.071)
+adult+female+speaking(0.053)
+reading(0.051)
+sitting(0.031)

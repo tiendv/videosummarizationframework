@@ -1,5 +1,0 @@
-drinking(0.932)
-dining(0.010)
-eating(0.008)
-smelling(0.005)
-sniffing(0.003)

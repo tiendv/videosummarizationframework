@@ -1,0 +1,5 @@
+handcuffing(0.073)
+adult+male+speaking(0.049)
+standing(0.045)
+gripping(0.045)
+hugging(0.043)

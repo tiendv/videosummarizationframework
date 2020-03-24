@@ -1,0 +1,5 @@
+walking(0.150)
+playing+videogames(0.060)
+slapping(0.046)
+pointing(0.042)
+talking(0.040)

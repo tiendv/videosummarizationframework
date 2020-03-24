@@ -1,5 +1,0 @@
-adult+male+speaking(0.039)
-cooking(0.029)
-walking(0.023)
-standing(0.022)
-smiling(0.022)

@@ -1,0 +1,5 @@
+manicuring(0.214)
+knitting(0.079)
+adult+female+speaking(0.071)
+sneezing(0.055)
+coughing(0.041)

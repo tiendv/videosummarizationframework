@@ -1,0 +1,5 @@
+fencing(0.069)
+smiling(0.053)
+walking(0.048)
+standing(0.044)
+pointing(0.029)

@@ -1,5 +1,0 @@
-howling(0.101)
-barking(0.057)
-roaring(0.041)
-licking(0.036)
-fighting(0.035)

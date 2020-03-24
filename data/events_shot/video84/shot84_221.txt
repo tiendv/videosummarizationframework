@@ -1,0 +1,5 @@
+blocking(0.762)
+protesting(0.078)
+shouting(0.019)
+covering(0.018)
+preaching(0.015)

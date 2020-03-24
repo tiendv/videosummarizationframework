@@ -1,0 +1,5 @@
+waving(0.545)
+smiling(0.066)
+hugging(0.049)
+exiting(0.040)
+pointing(0.019)

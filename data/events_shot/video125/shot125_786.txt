@@ -1,0 +1,5 @@
+knitting(0.100)
+selling(0.034)
+reading(0.028)
+crafting(0.025)
+folding(0.023)

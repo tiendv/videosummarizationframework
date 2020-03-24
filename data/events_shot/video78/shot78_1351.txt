@@ -1,5 +1,0 @@
-knocking(0.135)
-standing(0.060)
-walking(0.058)
-adult+female+speaking(0.041)
-opening(0.040)

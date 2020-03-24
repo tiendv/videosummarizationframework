@@ -1,0 +1,5 @@
+sitting(0.189)
+talking(0.058)
+shopping(0.034)
+adult+male+speaking(0.031)
+stealing(0.030)

@@ -1,0 +1,5 @@
+talking(0.077)
+smoking(0.041)
+rising(0.032)
+sitting(0.030)
+adult+female+singing(0.025)

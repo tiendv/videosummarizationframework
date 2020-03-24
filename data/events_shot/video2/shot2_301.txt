@@ -1,0 +1,5 @@
+sitting(0.082)
+preaching(0.058)
+talking(0.055)
+feeding(0.041)
+standing(0.034)

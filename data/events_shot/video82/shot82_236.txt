@@ -1,0 +1,5 @@
+folding(0.245)
+crafting(0.170)
+assembling(0.051)
+constructing(0.030)
+tying(0.022)

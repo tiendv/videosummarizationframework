@@ -1,0 +1,5 @@
+cleaning(0.088)
+painting(0.060)
+dusting(0.054)
+unpacking(0.035)
+mopping(0.035)

@@ -1,0 +1,5 @@
+reading(0.925)
+sitting(0.006)
+talking(0.006)
+adult+female+speaking(0.005)
+child+speaking(0.005)

@@ -1,0 +1,5 @@
+waking(0.106)
+cuddling(0.082)
+hugging(0.073)
+adult+male+speaking(0.059)
+crying(0.050)

@@ -1,5 +1,0 @@
-drinking(0.071)
-opening(0.040)
-closing(0.026)
-laughing(0.024)
-smiling(0.021)

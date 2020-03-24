@@ -1,0 +1,5 @@
+crying(0.087)
+opening(0.057)
+closing(0.052)
+adult+male+speaking(0.044)
+frowning(0.044)

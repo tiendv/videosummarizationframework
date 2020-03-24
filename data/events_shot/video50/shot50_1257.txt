@@ -1,5 +1,0 @@
-mowing(0.060)
-pulling(0.053)
-arresting(0.047)
-camping(0.046)
-towing(0.045)

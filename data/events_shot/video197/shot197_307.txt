@@ -1,5 +1,0 @@
-repairing(0.066)
-cooking(0.060)
-building(0.045)
-hammering(0.035)
-frying(0.035)

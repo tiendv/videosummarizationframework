@@ -1,0 +1,5 @@
+reading(0.142)
+peeling(0.046)
+pointing(0.033)
+knitting(0.027)
+adult+female+speaking(0.019)

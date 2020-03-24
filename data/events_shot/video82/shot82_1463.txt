@@ -1,0 +1,5 @@
+opening(0.213)
+closing(0.198)
+loading(0.062)
+locking(0.041)
+playing+videogames(0.034)

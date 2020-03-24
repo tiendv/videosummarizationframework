@@ -1,0 +1,5 @@
+shaving(0.097)
+washing(0.034)
+scrubbing(0.032)
+laughing(0.031)
+sneezing(0.027)

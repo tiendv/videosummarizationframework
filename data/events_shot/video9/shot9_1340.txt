@@ -1,5 +1,0 @@
-sitting(0.079)
-throwing(0.037)
-tattooing(0.029)
-asking(0.017)
-adult+male+speaking(0.016)

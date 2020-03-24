@@ -1,0 +1,5 @@
+whistling(0.879)
+singing(0.005)
+standing(0.005)
+talking(0.004)
+barking(0.004)

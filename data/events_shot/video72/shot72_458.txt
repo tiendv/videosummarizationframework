@@ -1,0 +1,5 @@
+adult+male+speaking(0.088)
+preaching(0.057)
+standing(0.050)
+adult+male+singing(0.044)
+officiating(0.039)

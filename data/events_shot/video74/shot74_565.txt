@@ -1,5 +1,0 @@
-fighting(0.060)
-hitchhiking(0.055)
-arresting(0.038)
-driving(0.032)
-adult+female+singing(0.031)

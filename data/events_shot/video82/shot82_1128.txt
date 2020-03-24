@@ -1,0 +1,5 @@
+drinking(0.247)
+stacking(0.131)
+cooking(0.046)
+pouring(0.027)
+telephoning(0.026)

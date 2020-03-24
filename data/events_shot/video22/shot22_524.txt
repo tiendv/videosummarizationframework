@@ -1,0 +1,5 @@
+unpacking(0.072)
+packing(0.061)
+handcuffing(0.051)
+assembling(0.040)
+gripping(0.031)

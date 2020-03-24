@@ -1,0 +1,5 @@
+jogging(0.132)
+running(0.089)
+walking(0.062)
+adult+male+speaking(0.061)
+shaving(0.026)

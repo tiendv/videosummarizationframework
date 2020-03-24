@@ -1,5 +1,0 @@
-raising(0.055)
-applauding(0.053)
-lifting(0.030)
-standing(0.026)
-cheering(0.024)

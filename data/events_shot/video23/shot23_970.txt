@@ -1,0 +1,5 @@
+cleaning(0.031)
+working(0.030)
+eating(0.021)
+assembling(0.021)
+dining(0.019)

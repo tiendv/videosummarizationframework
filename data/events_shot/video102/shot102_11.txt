@@ -1,0 +1,5 @@
+reading(0.074)
+crafting(0.052)
+opening(0.031)
+adult+male+speaking(0.028)
+playing(0.025)

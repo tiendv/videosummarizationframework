@@ -1,0 +1,5 @@
+sliding(0.093)
+locking(0.035)
+falling(0.034)
+walking(0.030)
+pulling(0.028)

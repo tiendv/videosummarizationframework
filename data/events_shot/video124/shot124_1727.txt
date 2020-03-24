@@ -1,0 +1,5 @@
+cooking(0.080)
+pressing(0.079)
+boiling(0.059)
+stirring(0.055)
+drying(0.047)

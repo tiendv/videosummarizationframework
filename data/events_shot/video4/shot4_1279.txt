@@ -1,0 +1,5 @@
+smoking(0.166)
+smelling(0.031)
+slapping(0.030)
+sniffing(0.026)
+asking(0.026)

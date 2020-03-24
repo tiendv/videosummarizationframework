@@ -1,0 +1,5 @@
+coughing(0.057)
+telephoning(0.043)
+smelling(0.034)
+sniffing(0.028)
+blowing(0.025)

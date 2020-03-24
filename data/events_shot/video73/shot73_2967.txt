@@ -1,0 +1,5 @@
+praying(0.253)
+officiating(0.075)
+adult+male+speaking(0.038)
+playing+videogames(0.036)
+marrying(0.028)

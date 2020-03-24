@@ -1,0 +1,5 @@
+smiling(0.204)
+talking(0.054)
+grinning(0.053)
+laughing(0.050)
+adult+male+speaking(0.050)

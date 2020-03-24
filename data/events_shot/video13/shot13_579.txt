@@ -1,0 +1,5 @@
+yawning(0.078)
+coughing(0.069)
+eating(0.031)
+sneezing(0.026)
+licking(0.025)

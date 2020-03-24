@@ -1,5 +1,0 @@
-packing(0.118)
-cleaning(0.110)
-unpacking(0.100)
-dusting(0.037)
-painting(0.035)

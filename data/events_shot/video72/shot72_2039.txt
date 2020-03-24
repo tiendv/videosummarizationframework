@@ -1,0 +1,5 @@
+skiing(0.098)
+slipping(0.089)
+sliding(0.088)
+boarding(0.084)
+descending(0.079)

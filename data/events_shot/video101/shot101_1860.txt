@@ -1,0 +1,5 @@
+painting(0.166)
+manicuring(0.151)
+adult+female+speaking(0.049)
+discussing(0.036)
+brushing(0.031)

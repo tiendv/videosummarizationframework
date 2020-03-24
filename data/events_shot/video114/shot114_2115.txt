@@ -1,0 +1,5 @@
+praying(0.130)
+dining(0.126)
+adult+male+speaking(0.072)
+playing+videogames(0.054)
+drinking(0.041)

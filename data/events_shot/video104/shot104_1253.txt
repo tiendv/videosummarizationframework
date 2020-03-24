@@ -1,0 +1,5 @@
+driving(0.071)
+rowing(0.059)
+sitting(0.054)
+adult+male+speaking(0.051)
+slapping(0.037)

@@ -1,0 +1,5 @@
+shaving(0.124)
+adult+male+speaking(0.098)
+adult+male+singing(0.039)
+clipping(0.018)
+standing(0.017)

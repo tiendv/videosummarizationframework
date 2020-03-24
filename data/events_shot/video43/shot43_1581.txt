@@ -1,0 +1,5 @@
+sleeping(0.045)
+playing+videogames(0.036)
+waking(0.036)
+slapping(0.029)
+biting(0.028)

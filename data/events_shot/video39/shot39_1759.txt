@@ -1,5 +1,0 @@
-dining(0.044)
-standing(0.030)
-adult+female+singing(0.029)
-drumming(0.027)
-sitting(0.023)

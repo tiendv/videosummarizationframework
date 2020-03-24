@@ -1,0 +1,5 @@
+adult+male+speaking(0.078)
+eating(0.076)
+calling(0.072)
+praying(0.064)
+telephoning(0.037)

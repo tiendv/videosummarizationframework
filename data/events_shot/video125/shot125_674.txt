@@ -1,0 +1,5 @@
+standing(0.117)
+preaching(0.057)
+walking(0.048)
+marrying(0.036)
+hugging(0.036)

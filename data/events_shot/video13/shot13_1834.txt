@@ -1,0 +1,5 @@
+adult+female+singing(0.128)
+cracking(0.047)
+knocking(0.045)
+walking(0.030)
+adult+male+speaking(0.025)

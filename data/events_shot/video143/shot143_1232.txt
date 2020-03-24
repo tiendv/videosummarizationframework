@@ -1,5 +1,0 @@
-packing(0.069)
-stacking(0.055)
-adult+female+singing(0.043)
-unpacking(0.034)
-packaging(0.030)

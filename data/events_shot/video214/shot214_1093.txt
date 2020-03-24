@@ -1,5 +1,0 @@
-slapping(0.150)
-queuing(0.066)
-asking(0.028)
-fighting(0.024)
-filming(0.023)

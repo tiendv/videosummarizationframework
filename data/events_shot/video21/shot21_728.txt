@@ -1,0 +1,5 @@
+baking(0.103)
+crafting(0.082)
+cooking(0.050)
+dressing(0.046)
+standing(0.024)

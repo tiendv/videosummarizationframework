@@ -1,0 +1,5 @@
+unpacking(0.179)
+packing(0.163)
+painting(0.067)
+drawing(0.044)
+assembling(0.024)

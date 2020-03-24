@@ -1,0 +1,5 @@
+tapping(0.335)
+hugging(0.079)
+smiling(0.042)
+knocking(0.025)
+scratching(0.020)

@@ -1,0 +1,5 @@
+drinking(0.036)
+spitting(0.032)
+crying(0.024)
+eating(0.021)
+playing+videogames(0.019)

@@ -1,0 +1,5 @@
+hanging(0.318)
+standing(0.080)
+laughing(0.073)
+adult+male+singing(0.050)
+adult+male+speaking(0.048)

@@ -1,5 +1,0 @@
-driving(0.252)
-fighting(0.079)
-riding(0.045)
-chasing(0.033)
-steering(0.027)

@@ -1,0 +1,5 @@
+frowning(0.260)
+shrugging(0.046)
+rolling(0.041)
+saluting(0.040)
+discussing(0.038)

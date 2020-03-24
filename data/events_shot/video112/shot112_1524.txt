@@ -1,0 +1,5 @@
+adult+female+speaking(0.143)
+tapping(0.078)
+chewing(0.045)
+rubbing(0.037)
+scratching(0.028)

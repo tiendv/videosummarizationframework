@@ -1,5 +1,0 @@
-hiking(0.142)
-standing(0.056)
-walking(0.041)
-snowing(0.041)
-adult+female+singing(0.027)

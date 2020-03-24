@@ -1,0 +1,5 @@
+reading(0.050)
+playing+videogames(0.049)
+discussing(0.039)
+tapping(0.028)
+typing(0.023)

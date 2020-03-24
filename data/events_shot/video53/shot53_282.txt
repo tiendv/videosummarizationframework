@@ -1,0 +1,5 @@
+laughing(0.147)
+standing(0.035)
+talking(0.027)
+autographing(0.023)
+walking(0.021)

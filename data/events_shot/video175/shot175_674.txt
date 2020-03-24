@@ -1,5 +1,0 @@
-adult+female+singing(0.254)
-adult+female+speaking(0.080)
-cheerleading(0.072)
-child+singing(0.039)
-signing(0.031)

@@ -1,5 +1,0 @@
-talking(0.063)
-standing(0.043)
-sleeping(0.041)
-sitting(0.038)
-waking(0.033)

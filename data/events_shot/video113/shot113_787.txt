@@ -1,0 +1,5 @@
+slapping(0.062)
+punching(0.019)
+giving(0.016)
+spitting(0.016)
+laughing(0.014)

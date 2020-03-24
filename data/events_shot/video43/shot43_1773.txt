@@ -1,0 +1,5 @@
+crying(0.056)
+whistling(0.047)
+frowning(0.041)
+knocking(0.039)
+talking(0.037)

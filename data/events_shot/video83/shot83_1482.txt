@@ -1,0 +1,5 @@
+walking(0.088)
+tattooing(0.064)
+asking(0.053)
+adult+male+speaking(0.044)
+standing(0.035)

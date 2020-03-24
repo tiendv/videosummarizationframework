@@ -1,0 +1,5 @@
+sailing(0.041)
+locking(0.035)
+starting(0.028)
+adult+male+speaking(0.028)
+opening(0.023)

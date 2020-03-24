@@ -1,0 +1,5 @@
+knocking(0.057)
+turning(0.029)
+hanging(0.028)
+walking(0.026)
+entering(0.025)

@@ -1,0 +1,5 @@
+hugging(0.084)
+opening(0.073)
+closing(0.061)
+baking(0.053)
+adult+female+singing(0.043)

@@ -1,0 +1,5 @@
+walking(0.105)
+dressing(0.091)
+buttoning(0.043)
+standing(0.032)
+entering(0.027)

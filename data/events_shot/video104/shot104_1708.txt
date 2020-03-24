@@ -1,0 +1,5 @@
+cleaning(0.455)
+removing(0.048)
+washing(0.046)
+stealing(0.034)
+arresting(0.028)

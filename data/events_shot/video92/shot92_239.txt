@@ -1,0 +1,5 @@
+telephoning(0.332)
+calling(0.188)
+smiling(0.065)
+discussing(0.044)
+grinning(0.034)

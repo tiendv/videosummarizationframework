@@ -1,0 +1,5 @@
+sneezing(0.235)
+autographing(0.065)
+coughing(0.038)
+bowing(0.024)
+walking(0.023)

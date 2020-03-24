@@ -1,0 +1,5 @@
+bowing(0.075)
+sneezing(0.049)
+cleaning(0.041)
+walking(0.032)
+adult+male+speaking(0.026)

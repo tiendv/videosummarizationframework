@@ -1,5 +1,0 @@
-knocking(0.080)
-asking(0.051)
-talking(0.049)
-smiling(0.044)
-standing(0.035)

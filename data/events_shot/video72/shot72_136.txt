@@ -1,0 +1,5 @@
+turning(0.187)
+spinning(0.148)
+walking(0.061)
+smiling(0.046)
+running(0.039)

@@ -1,0 +1,5 @@
+eating(0.393)
+chewing(0.126)
+coughing(0.124)
+sneezing(0.080)
+discussing(0.026)

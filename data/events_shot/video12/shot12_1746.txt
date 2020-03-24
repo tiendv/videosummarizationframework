@@ -1,0 +1,5 @@
+asking(0.111)
+arresting(0.090)
+walking(0.048)
+autographing(0.040)
+exiting(0.039)

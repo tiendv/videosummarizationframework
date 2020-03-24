@@ -1,0 +1,5 @@
+starting(0.214)
+steering(0.175)
+fueling(0.094)
+plugging(0.061)
+driving(0.028)

@@ -1,5 +1,0 @@
-squatting(0.082)
-gripping(0.042)
-lifting(0.040)
-standing(0.026)
-sitting(0.020)

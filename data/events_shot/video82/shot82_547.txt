@@ -1,0 +1,5 @@
+sitting(0.046)
+adult+male+speaking(0.022)
+fencing(0.021)
+telephoning(0.019)
+cramming(0.018)

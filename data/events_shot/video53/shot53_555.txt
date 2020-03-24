@@ -1,0 +1,5 @@
+bouncing(0.068)
+cleaning(0.052)
+jogging(0.046)
+walking(0.043)
+running(0.041)

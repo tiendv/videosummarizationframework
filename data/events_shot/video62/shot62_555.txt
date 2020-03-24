@@ -1,0 +1,5 @@
+stomping(0.272)
+vacuuming(0.064)
+mopping(0.053)
+packing(0.042)
+dipping(0.027)

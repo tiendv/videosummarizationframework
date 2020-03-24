@@ -1,0 +1,5 @@
+snowing(0.545)
+skiing(0.227)
+flying(0.015)
+standing(0.011)
+slipping(0.010)

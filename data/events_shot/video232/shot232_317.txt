@@ -1,5 +1,0 @@
-hugging(0.091)
-running(0.053)
-stealing(0.038)
-walking(0.032)
-shopping(0.029)

@@ -1,0 +1,5 @@
+slapping(0.095)
+walking(0.074)
+talking(0.071)
+standing(0.041)
+discussing(0.028)

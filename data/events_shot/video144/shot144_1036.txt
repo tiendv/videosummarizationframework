@@ -1,5 +1,0 @@
-drinking(0.055)
-adult+male+speaking(0.043)
-playing+videogames(0.040)
-slapping(0.028)
-filming(0.026)

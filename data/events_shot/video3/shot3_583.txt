@@ -1,0 +1,5 @@
+drying(0.304)
+brushing(0.095)
+combing(0.070)
+cracking(0.036)
+lecturing(0.035)

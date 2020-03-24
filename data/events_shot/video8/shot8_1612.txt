@@ -1,5 +1,0 @@
-child+speaking(0.288)
-child+singing(0.028)
-asking(0.027)
-imitating(0.024)
-discussing(0.019)

@@ -1,0 +1,5 @@
+frowning(0.068)
+pointing(0.065)
+aiming(0.063)
+slapping(0.062)
+shooting(0.050)

@@ -1,0 +1,5 @@
+praying(0.450)
+sitting(0.027)
+officiating(0.021)
+reading(0.020)
+telephoning(0.015)

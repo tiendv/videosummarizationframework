@@ -1,0 +1,5 @@
+child+speaking(0.142)
+blowing(0.068)
+laughing(0.054)
+sneezing(0.045)
+sniffing(0.035)

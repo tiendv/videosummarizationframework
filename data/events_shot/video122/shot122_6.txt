@@ -1,0 +1,5 @@
+spinning(0.498)
+bicycling(0.196)
+turning(0.034)
+driving(0.021)
+hiking(0.014)

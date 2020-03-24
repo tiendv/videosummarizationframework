@@ -1,0 +1,5 @@
+adult+male+speaking(0.100)
+asking(0.068)
+throwing(0.057)
+slapping(0.056)
+flicking(0.046)

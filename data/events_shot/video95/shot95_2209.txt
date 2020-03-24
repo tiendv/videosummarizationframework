@@ -1,0 +1,5 @@
+leaning(0.501)
+building(0.100)
+carving(0.072)
+repairing(0.022)
+pointing(0.021)

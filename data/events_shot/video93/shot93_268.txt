@@ -1,0 +1,5 @@
+cooking(0.161)
+baking(0.137)
+selling(0.039)
+asking(0.035)
+teaching(0.022)

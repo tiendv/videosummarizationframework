@@ -1,0 +1,5 @@
+adult+female+singing(0.095)
+smoking(0.072)
+adult+female+speaking(0.061)
+hugging(0.051)
+kissing(0.040)

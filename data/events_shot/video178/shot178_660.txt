@@ -1,5 +1,0 @@
-running(0.115)
-fighting(0.083)
-hugging(0.035)
-standing(0.035)
-walking(0.034)

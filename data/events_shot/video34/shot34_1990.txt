@@ -1,0 +1,5 @@
+vacuuming(0.431)
+driving(0.107)
+steering(0.099)
+sweeping(0.032)
+riding(0.023)

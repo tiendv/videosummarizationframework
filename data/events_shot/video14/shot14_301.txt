@@ -1,0 +1,5 @@
+adult+female+speaking(0.149)
+smoking(0.117)
+asking(0.065)
+chewing(0.065)
+eating(0.041)

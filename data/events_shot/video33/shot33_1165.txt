@@ -1,0 +1,5 @@
+telephoning(0.541)
+calling(0.367)
+adult+male+speaking(0.011)
+adult+female+speaking(0.003)
+cleaning(0.002)

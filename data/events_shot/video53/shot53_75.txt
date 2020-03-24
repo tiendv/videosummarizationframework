@@ -1,0 +1,5 @@
+drinking(0.122)
+cooking(0.048)
+slapping(0.028)
+punching(0.019)
+adult+male+speaking(0.016)

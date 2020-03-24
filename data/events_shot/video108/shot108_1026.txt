@@ -1,5 +1,0 @@
-building(0.139)
-attacking(0.100)
-constructing(0.036)
-destroying(0.024)
-aiming(0.022)

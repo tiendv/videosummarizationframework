@@ -1,0 +1,5 @@
+smiling(0.094)
+talking(0.075)
+filming(0.069)
+winking(0.055)
+shrugging(0.043)

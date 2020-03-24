@@ -1,0 +1,5 @@
+autographing(0.623)
+signing(0.073)
+queuing(0.025)
+asking(0.009)
+cramming(0.008)

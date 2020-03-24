@@ -1,0 +1,5 @@
+building(0.137)
+walking(0.124)
+constructing(0.037)
+running(0.031)
+loading(0.023)

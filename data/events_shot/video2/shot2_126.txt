@@ -1,0 +1,5 @@
+clapping(0.380)
+applauding(0.083)
+discussing(0.063)
+pointing(0.045)
+slapping(0.039)

@@ -1,0 +1,5 @@
+howling(0.330)
+roaring(0.328)
+barking(0.252)
+attacking(0.008)
+guarding(0.005)

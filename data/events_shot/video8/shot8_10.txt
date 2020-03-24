@@ -1,5 +1,0 @@
-sitting(0.055)
-roaring(0.039)
-driving(0.034)
-riding(0.032)
-hitchhiking(0.028)

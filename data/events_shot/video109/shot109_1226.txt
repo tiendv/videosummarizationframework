@@ -1,5 +1,0 @@
-calling(0.069)
-walking(0.063)
-telephoning(0.061)
-adult+male+speaking(0.052)
-pointing(0.022)

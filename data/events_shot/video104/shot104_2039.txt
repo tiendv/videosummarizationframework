@@ -1,0 +1,5 @@
+adult+male+speaking(0.043)
+starting(0.028)
+asking(0.023)
+smelling(0.021)
+adult+female+speaking(0.020)

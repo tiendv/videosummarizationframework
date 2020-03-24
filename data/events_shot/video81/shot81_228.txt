@@ -1,0 +1,5 @@
+fighting(0.099)
+punching(0.091)
+knocking(0.073)
+playing+videogames(0.064)
+adult+male+singing(0.062)

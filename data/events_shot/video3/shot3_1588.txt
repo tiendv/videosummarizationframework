@@ -1,0 +1,5 @@
+eating(0.061)
+dining(0.041)
+drinking(0.035)
+playing+music(0.035)
+cooking(0.034)

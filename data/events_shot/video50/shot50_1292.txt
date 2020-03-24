@@ -1,5 +1,0 @@
-dining(0.250)
-marrying(0.091)
-smiling(0.037)
-slapping(0.030)
-kissing(0.028)

@@ -1,0 +1,5 @@
+autographing(0.048)
+adult+female+speaking(0.043)
+discussing(0.040)
+standing(0.036)
+asking(0.027)

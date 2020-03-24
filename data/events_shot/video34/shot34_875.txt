@@ -1,0 +1,5 @@
+walking(0.089)
+crying(0.067)
+smiling(0.043)
+coaching(0.040)
+frowning(0.031)

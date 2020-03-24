@@ -1,0 +1,5 @@
+blowing(0.555)
+inflating(0.044)
+spraying(0.034)
+telephoning(0.026)
+sneezing(0.025)

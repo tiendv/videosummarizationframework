@@ -1,0 +1,5 @@
+packing(0.147)
+unpacking(0.086)
+handcuffing(0.080)
+cleaning(0.037)
+assembling(0.029)

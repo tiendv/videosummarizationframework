@@ -1,5 +1,0 @@
-walking(0.152)
-hitchhiking(0.089)
-exiting(0.047)
-driving(0.030)
-closing(0.030)

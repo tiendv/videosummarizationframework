@@ -1,5 +1,0 @@
-dining(0.051)
-opening(0.029)
-serving(0.024)
-discussing(0.022)
-talking(0.022)

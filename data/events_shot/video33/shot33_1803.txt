@@ -1,0 +1,5 @@
+rising(0.047)
+talking(0.035)
+adult+male+speaking(0.033)
+adult+female+singing(0.028)
+fighting(0.027)

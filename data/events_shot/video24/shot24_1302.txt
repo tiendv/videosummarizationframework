@@ -1,0 +1,5 @@
+filming(0.055)
+crying(0.045)
+adult+male+speaking(0.043)
+hiking(0.032)
+photographing(0.027)

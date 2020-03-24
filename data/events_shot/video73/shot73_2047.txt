@@ -1,0 +1,5 @@
+washing(0.070)
+cooking(0.063)
+rinsing(0.053)
+bathing(0.048)
+cleaning(0.033)

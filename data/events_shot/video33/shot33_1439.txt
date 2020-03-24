@@ -1,0 +1,5 @@
+adult+male+singing(0.117)
+asking(0.046)
+adult+male+speaking(0.044)
+arresting(0.034)
+standing(0.030)

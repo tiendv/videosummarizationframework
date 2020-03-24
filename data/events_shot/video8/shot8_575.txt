@@ -1,5 +1,0 @@
-driving(0.239)
-steering(0.145)
-riding(0.093)
-turning(0.017)
-filming(0.016)

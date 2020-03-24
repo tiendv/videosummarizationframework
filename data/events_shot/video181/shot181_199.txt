@@ -1,5 +1,0 @@
-slapping(0.033)
-walking(0.031)
-sneezing(0.028)
-playing+videogames(0.024)
-adult+female+singing(0.024)

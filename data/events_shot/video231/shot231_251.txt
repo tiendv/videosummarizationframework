@@ -1,5 +1,0 @@
-stitching(0.088)
-bathing(0.053)
-sewing(0.046)
-washing(0.046)
-adult+female+speaking(0.036)

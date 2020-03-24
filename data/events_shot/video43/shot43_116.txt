@@ -1,0 +1,5 @@
+adult+male+speaking(0.075)
+cuddling(0.064)
+adult+female+speaking(0.034)
+cracking(0.028)
+massaging(0.023)

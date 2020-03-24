@@ -1,0 +1,5 @@
+hitchhiking(0.096)
+hiking(0.079)
+camping(0.062)
+walking(0.051)
+talking(0.044)

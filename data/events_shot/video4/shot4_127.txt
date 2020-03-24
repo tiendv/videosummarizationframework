@@ -1,0 +1,5 @@
+squatting(0.318)
+lifting(0.303)
+raising(0.049)
+shrugging(0.045)
+exercising(0.038)

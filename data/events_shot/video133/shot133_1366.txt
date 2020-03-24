@@ -1,0 +1,5 @@
+hugging(0.677)
+carrying(0.044)
+walking(0.043)
+cuddling(0.027)
+arresting(0.018)

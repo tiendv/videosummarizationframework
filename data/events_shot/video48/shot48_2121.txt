@@ -1,5 +1,0 @@
-reading(0.124)
-asking(0.066)
-adult+male+speaking(0.061)
-standing(0.050)
-talking(0.029)

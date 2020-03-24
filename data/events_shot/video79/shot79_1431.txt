@@ -1,5 +1,0 @@
-frowning(0.165)
-painting(0.150)
-brushing(0.098)
-adult+female+speaking(0.062)
-squinting(0.045)

@@ -1,0 +1,5 @@
+walking(0.160)
+hugging(0.079)
+queuing(0.070)
+smiling(0.039)
+marrying(0.039)

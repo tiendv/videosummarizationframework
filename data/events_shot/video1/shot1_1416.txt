@@ -1,0 +1,5 @@
+talking(0.066)
+discussing(0.055)
+coughing(0.045)
+slapping(0.035)
+pointing(0.027)

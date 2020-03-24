@@ -1,0 +1,5 @@
+adult+female+speaking(0.042)
+drinking(0.039)
+adult+male+speaking(0.033)
+hugging(0.023)
+smoking(0.019)

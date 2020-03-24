@@ -1,0 +1,5 @@
+guarding(0.399)
+hanging(0.088)
+building(0.035)
+inflating(0.029)
+fencing(0.029)

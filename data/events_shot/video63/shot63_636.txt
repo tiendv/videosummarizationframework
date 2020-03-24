@@ -1,0 +1,5 @@
+adult+female+speaking(0.054)
+pointing(0.049)
+drawing(0.039)
+painting(0.036)
+discussing(0.032)

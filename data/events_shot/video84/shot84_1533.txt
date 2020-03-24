@@ -1,0 +1,5 @@
+adult+female+speaking(0.070)
+peeling(0.060)
+brushing(0.051)
+dressing(0.043)
+putting(0.039)

@@ -1,0 +1,5 @@
+welding(0.216)
+cleaning(0.037)
+repairing(0.029)
+assembling(0.025)
+washing(0.023)

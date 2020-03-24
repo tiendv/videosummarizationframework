@@ -1,5 +1,0 @@
-hugging(0.068)
-adult+female+singing(0.032)
-cuddling(0.032)
-swinging(0.030)
-camping(0.029)

@@ -1,0 +1,5 @@
+stacking(0.042)
+dusting(0.031)
+mopping(0.030)
+cleaning(0.027)
+laughing(0.017)

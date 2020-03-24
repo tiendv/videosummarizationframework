@@ -1,0 +1,5 @@
+hugging(0.128)
+arresting(0.111)
+filming(0.075)
+packing(0.059)
+unpacking(0.040)

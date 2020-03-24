@@ -1,0 +1,5 @@
+laughing(0.101)
+fencing(0.079)
+adult+male+speaking(0.050)
+smiling(0.049)
+walking(0.031)

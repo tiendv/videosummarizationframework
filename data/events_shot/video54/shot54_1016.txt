@@ -1,0 +1,5 @@
+fencing(0.982)
+gardening(0.002)
+walking(0.002)
+mowing(0.001)
+adult+male+speaking(0.001)

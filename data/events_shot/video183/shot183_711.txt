@@ -1,5 +1,0 @@
-hugging(0.064)
-walking(0.058)
-kissing(0.044)
-stealing(0.026)
-standing(0.021)

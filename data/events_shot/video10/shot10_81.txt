@@ -1,5 +1,0 @@
-painting(0.263)
-spraying(0.085)
-fighting(0.048)
-knocking(0.031)
-hammering(0.025)

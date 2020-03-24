@@ -1,0 +1,5 @@
+hugging(0.242)
+smiling(0.073)
+coaching(0.051)
+asking(0.046)
+adult+male+speaking(0.043)

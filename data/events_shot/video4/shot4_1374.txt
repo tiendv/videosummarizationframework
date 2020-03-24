@@ -1,0 +1,5 @@
+knocking(0.027)
+assembling(0.027)
+pressing(0.025)
+scratching(0.019)
+opening(0.018)

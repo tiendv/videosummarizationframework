@@ -1,0 +1,5 @@
+hugging(0.183)
+slapping(0.105)
+sneezing(0.067)
+laughing(0.037)
+punching(0.027)

@@ -1,5 +1,0 @@
-shooting(0.060)
-pointing(0.051)
-punching(0.034)
-smoking(0.033)
-aiming(0.030)

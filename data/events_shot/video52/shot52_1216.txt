@@ -1,0 +1,5 @@
+adult+male+speaking(0.072)
+talking(0.061)
+smoking(0.057)
+cracking(0.047)
+slapping(0.041)

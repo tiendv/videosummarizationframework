@@ -1,0 +1,5 @@
+flicking(0.033)
+working(0.029)
+adult+male+speaking(0.024)
+putting(0.021)
+pointing(0.020)

@@ -1,0 +1,5 @@
+walking(0.110)
+bowing(0.034)
+saluting(0.033)
+standing(0.032)
+pointing(0.025)

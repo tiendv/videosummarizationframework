@@ -1,5 +1,0 @@
-bowing(0.035)
-walking(0.034)
-hugging(0.032)
-drinking(0.030)
-adult+male+speaking(0.030)

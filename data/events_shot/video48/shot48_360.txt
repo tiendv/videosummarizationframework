@@ -1,5 +1,0 @@
-running(0.189)
-chasing(0.087)
-walking(0.044)
-raining(0.043)
-carrying(0.030)

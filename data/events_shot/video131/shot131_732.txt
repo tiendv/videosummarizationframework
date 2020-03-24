@@ -1,0 +1,5 @@
+preaching(0.075)
+asking(0.072)
+baptizing(0.062)
+adult+male+singing(0.043)
+arresting(0.035)

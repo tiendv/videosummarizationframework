@@ -1,0 +1,5 @@
+aiming(0.032)
+adult+male+singing(0.031)
+slapping(0.031)
+shooting(0.027)
+playing+videogames(0.027)

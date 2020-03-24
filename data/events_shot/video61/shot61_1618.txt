@@ -1,0 +1,5 @@
+painting(0.108)
+scrubbing(0.078)
+rinsing(0.073)
+shaving(0.070)
+washing(0.069)

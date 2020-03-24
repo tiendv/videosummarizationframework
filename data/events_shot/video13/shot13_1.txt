@@ -1,0 +1,5 @@
+aiming(0.884)
+shooting(0.023)
+pointing(0.020)
+hunting(0.020)
+measuring(0.008)

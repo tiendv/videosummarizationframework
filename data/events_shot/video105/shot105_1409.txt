@@ -1,0 +1,5 @@
+adult+male+speaking(0.091)
+laughing(0.083)
+knocking(0.061)
+barking(0.060)
+dusting(0.058)

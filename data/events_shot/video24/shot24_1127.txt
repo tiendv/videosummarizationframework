@@ -1,0 +1,5 @@
+adult+female+speaking(0.177)
+drawing(0.107)
+painting(0.107)
+adult+male+speaking(0.056)
+knocking(0.034)

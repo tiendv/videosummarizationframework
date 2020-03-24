@@ -1,0 +1,5 @@
+stretching(0.254)
+adult+female+speaking(0.062)
+balancing(0.054)
+kissing(0.050)
+bending(0.031)

@@ -1,5 +1,0 @@
-cooking(0.079)
-packaging(0.051)
-wrapping(0.039)
-working(0.033)
-slicing(0.032)

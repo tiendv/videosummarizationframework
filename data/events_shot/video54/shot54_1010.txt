@@ -1,0 +1,5 @@
+hiking(0.309)
+climbing(0.133)
+hunting(0.054)
+handcuffing(0.035)
+digging(0.032)

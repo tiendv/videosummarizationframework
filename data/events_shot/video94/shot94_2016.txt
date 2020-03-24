@@ -1,0 +1,5 @@
+adult+female+speaking(0.090)
+dressing(0.063)
+signing(0.046)
+folding(0.043)
+sneezing(0.027)

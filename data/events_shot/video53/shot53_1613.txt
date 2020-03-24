@@ -1,0 +1,5 @@
+adult+male+speaking(0.043)
+adult+female+speaking(0.033)
+handcuffing(0.030)
+flicking(0.027)
+arresting(0.025)

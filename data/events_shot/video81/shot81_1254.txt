@@ -1,0 +1,5 @@
+crying(0.493)
+carrying(0.045)
+frowning(0.021)
+bowing(0.020)
+raising(0.014)

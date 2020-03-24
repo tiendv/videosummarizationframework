@@ -1,5 +1,0 @@
-smiling(0.188)
-talking(0.110)
-grinning(0.072)
-laughing(0.065)
-discussing(0.054)

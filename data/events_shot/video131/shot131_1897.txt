@@ -1,0 +1,5 @@
+queuing(0.142)
+adult+male+singing(0.124)
+adult+female+singing(0.120)
+baptizing(0.077)
+officiating(0.054)

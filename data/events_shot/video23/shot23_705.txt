@@ -1,0 +1,5 @@
+bicycling(0.326)
+pedaling(0.067)
+pushing(0.024)
+mowing(0.022)
+camping(0.019)

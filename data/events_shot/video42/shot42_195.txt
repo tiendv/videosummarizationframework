@@ -1,0 +1,5 @@
+vacuuming(0.855)
+inflating(0.052)
+mopping(0.012)
+cleaning(0.008)
+dusting(0.006)

@@ -1,5 +1,0 @@
-hammering(0.046)
-skipping(0.035)
-mopping(0.030)
-dusting(0.029)
-stomping(0.027)

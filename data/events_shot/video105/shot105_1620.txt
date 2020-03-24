@@ -1,0 +1,5 @@
+hugging(0.093)
+smiling(0.088)
+applauding(0.043)
+filming(0.037)
+photographing(0.036)

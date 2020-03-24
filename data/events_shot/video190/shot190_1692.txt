@@ -1,5 +1,0 @@
-saluting(0.088)
-guarding(0.052)
-adult+male+speaking(0.048)
-pointing(0.044)
-telephoning(0.027)

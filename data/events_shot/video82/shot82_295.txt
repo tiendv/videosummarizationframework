@@ -1,0 +1,5 @@
+vacuuming(0.192)
+plugging(0.045)
+working(0.024)
+fueling(0.021)
+handcuffing(0.021)

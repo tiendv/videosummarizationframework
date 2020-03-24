@@ -1,5 +1,0 @@
-towing(0.071)
-driving(0.039)
-playing+videogames(0.038)
-adult+female+speaking(0.022)
-adult+female+singing(0.020)

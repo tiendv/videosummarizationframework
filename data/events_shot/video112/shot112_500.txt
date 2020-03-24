@@ -1,0 +1,5 @@
+peeling(0.089)
+sneezing(0.082)
+manicuring(0.053)
+adult+female+speaking(0.049)
+shaving(0.043)

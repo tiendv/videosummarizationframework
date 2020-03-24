@@ -1,5 +1,0 @@
-drying(0.091)
-waking(0.033)
-sitting(0.019)
-sleeping(0.018)
-washing(0.018)

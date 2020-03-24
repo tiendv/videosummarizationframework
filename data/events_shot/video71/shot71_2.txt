@@ -1,0 +1,5 @@
+snowing(0.224)
+racing(0.115)
+skiing(0.095)
+riding(0.033)
+starting(0.032)

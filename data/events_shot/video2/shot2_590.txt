@@ -1,0 +1,5 @@
+climbing(0.074)
+painting(0.054)
+packing(0.046)
+hiking(0.033)
+unpacking(0.027)

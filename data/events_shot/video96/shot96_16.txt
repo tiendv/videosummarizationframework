@@ -1,5 +1,0 @@
-aiming(0.087)
-fighting(0.065)
-shooting(0.050)
-adult+male+speaking(0.048)
-attacking(0.040)

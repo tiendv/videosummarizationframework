@@ -1,0 +1,5 @@
+sneezing(0.141)
+laughing(0.040)
+smashing(0.037)
+coughing(0.036)
+unpacking(0.034)

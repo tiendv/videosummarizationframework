@@ -1,0 +1,5 @@
+discussing(0.086)
+coughing(0.086)
+adult+male+speaking(0.057)
+sitting(0.039)
+talking(0.034)

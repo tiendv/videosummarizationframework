@@ -1,0 +1,5 @@
+fencing(0.377)
+attacking(0.058)
+guarding(0.024)
+fighting(0.022)
+adult+male+speaking(0.020)

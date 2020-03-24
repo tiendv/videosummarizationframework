@@ -1,0 +1,5 @@
+fencing(0.853)
+waving(0.009)
+opening(0.009)
+closing(0.005)
+guarding(0.004)

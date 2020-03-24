@@ -1,0 +1,5 @@
+baking(0.187)
+cooking(0.096)
+sitting(0.047)
+adult+female+speaking(0.040)
+crafting(0.032)

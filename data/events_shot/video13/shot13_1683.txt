@@ -1,0 +1,5 @@
+fencing(0.562)
+sitting(0.056)
+adult+male+speaking(0.042)
+lecturing(0.022)
+interviewing(0.013)

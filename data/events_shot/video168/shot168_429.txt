@@ -1,5 +1,0 @@
-drying(0.076)
-walking(0.052)
-vacuuming(0.041)
-sneezing(0.029)
-filming(0.028)

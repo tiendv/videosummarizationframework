@@ -1,0 +1,5 @@
+filming(0.080)
+slapping(0.059)
+aiming(0.059)
+fighting(0.044)
+playing+videogames(0.040)

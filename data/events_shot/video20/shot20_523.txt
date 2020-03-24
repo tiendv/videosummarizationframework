@@ -1,5 +1,0 @@
-guarding(0.092)
-standing(0.075)
-arresting(0.063)
-walking(0.043)
-slapping(0.038)

@@ -1,0 +1,5 @@
+knocking(0.241)
+walking(0.150)
+arresting(0.087)
+exiting(0.062)
+entering(0.040)

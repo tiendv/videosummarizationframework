@@ -1,0 +1,5 @@
+spinning(0.490)
+turning(0.037)
+sliding(0.018)
+aiming(0.015)
+swerving(0.011)

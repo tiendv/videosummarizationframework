@@ -1,0 +1,5 @@
+fencing(0.244)
+fighting(0.156)
+attacking(0.067)
+hunting(0.060)
+playing+videogames(0.048)

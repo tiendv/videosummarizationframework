@@ -1,0 +1,5 @@
+dusting(0.140)
+spraying(0.089)
+walking(0.041)
+working(0.036)
+turning(0.031)

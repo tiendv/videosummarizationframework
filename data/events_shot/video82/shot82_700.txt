@@ -1,0 +1,5 @@
+dining(0.214)
+eating(0.067)
+selling(0.041)
+adult+male+speaking(0.033)
+playing+videogames(0.026)

@@ -1,0 +1,5 @@
+peeling(0.110)
+picking(0.036)
+putting(0.036)
+removing(0.027)
+dipping(0.025)

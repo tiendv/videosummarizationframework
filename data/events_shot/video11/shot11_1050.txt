@@ -1,0 +1,5 @@
+filming(0.052)
+calling(0.050)
+telephoning(0.043)
+walking(0.042)
+shooting(0.040)

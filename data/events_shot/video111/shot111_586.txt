@@ -1,0 +1,5 @@
+handcuffing(0.086)
+shaving(0.054)
+dressing(0.036)
+tattooing(0.028)
+laughing(0.027)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.118)
+assembling(0.048)
+handcuffing(0.033)
+inflating(0.030)
+taping(0.027)

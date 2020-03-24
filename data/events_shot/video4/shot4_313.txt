@@ -1,0 +1,5 @@
+hugging(0.285)
+adult+male+speaking(0.030)
+walking(0.020)
+filming(0.020)
+handcuffing(0.018)

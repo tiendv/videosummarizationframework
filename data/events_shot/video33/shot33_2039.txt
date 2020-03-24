@@ -1,0 +1,5 @@
+handcuffing(0.270)
+gripping(0.057)
+arresting(0.049)
+taping(0.042)
+opening(0.031)

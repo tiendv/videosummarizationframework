@@ -1,0 +1,5 @@
+squatting(0.033)
+cleaning(0.032)
+stealing(0.031)
+pushing(0.024)
+gripping(0.023)

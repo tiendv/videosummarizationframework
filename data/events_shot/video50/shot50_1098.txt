@@ -1,5 +1,0 @@
-sitting(0.051)
-adult+male+speaking(0.041)
-filming(0.037)
-discussing(0.031)
-lecturing(0.029)

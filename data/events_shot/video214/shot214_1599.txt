@@ -1,5 +1,0 @@
-shopping(0.067)
-hugging(0.058)
-selling(0.040)
-sneezing(0.033)
-walking(0.029)

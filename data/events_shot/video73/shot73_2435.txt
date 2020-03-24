@@ -1,0 +1,5 @@
+discussing(0.078)
+tapping(0.060)
+adult+male+speaking(0.042)
+opening(0.038)
+closing(0.024)

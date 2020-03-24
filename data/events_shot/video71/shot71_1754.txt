@@ -1,0 +1,5 @@
+walking(0.045)
+adult+male+speaking(0.040)
+standing(0.031)
+flooding(0.024)
+asking(0.021)

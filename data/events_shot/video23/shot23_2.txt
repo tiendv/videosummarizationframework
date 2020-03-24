@@ -1,0 +1,5 @@
+flipping(0.163)
+running(0.074)
+sprinting(0.058)
+diving(0.057)
+ascending(0.035)

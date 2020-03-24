@@ -1,5 +1,0 @@
-brushing(0.365)
-sneezing(0.112)
-combing(0.045)
-laughing(0.043)
-adult+female+singing(0.036)

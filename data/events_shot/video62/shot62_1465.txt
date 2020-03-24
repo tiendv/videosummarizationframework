@@ -1,0 +1,5 @@
+pointing(0.045)
+slapping(0.024)
+knocking(0.022)
+working(0.021)
+stealing(0.018)

@@ -1,0 +1,5 @@
+stacking(0.745)
+manicuring(0.013)
+drinking(0.008)
+dipping(0.005)
+cooking(0.005)

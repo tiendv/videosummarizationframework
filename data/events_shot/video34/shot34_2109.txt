@@ -1,0 +1,5 @@
+floating(0.064)
+flying(0.025)
+bubbling(0.023)
+dropping(0.020)
+dripping(0.018)

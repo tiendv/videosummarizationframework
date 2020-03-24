@@ -1,5 +1,0 @@
-adult+male+speaking(0.090)
-asking(0.056)
-packing(0.043)
-hitchhiking(0.032)
-laughing(0.030)

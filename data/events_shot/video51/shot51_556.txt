@@ -1,0 +1,5 @@
+pressing(0.102)
+shrugging(0.059)
+lifting(0.050)
+pushing(0.050)
+slapping(0.043)

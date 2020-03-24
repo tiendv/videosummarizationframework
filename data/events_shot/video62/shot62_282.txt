@@ -1,0 +1,5 @@
+adult+female+singing(0.108)
+adult+female+speaking(0.081)
+opening(0.052)
+closing(0.035)
+dusting(0.031)

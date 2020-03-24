@@ -1,0 +1,5 @@
+shopping(0.087)
+locking(0.042)
+entering(0.041)
+closing(0.033)
+opening(0.029)

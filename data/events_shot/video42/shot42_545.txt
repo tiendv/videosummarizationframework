@@ -1,0 +1,5 @@
+guarding(0.495)
+saluting(0.052)
+filming(0.032)
+protesting(0.029)
+marching(0.026)

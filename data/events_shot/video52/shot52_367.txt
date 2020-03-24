@@ -1,0 +1,5 @@
+drinking(0.052)
+opening(0.041)
+closing(0.027)
+standing(0.025)
+filming(0.023)

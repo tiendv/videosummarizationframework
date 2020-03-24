@@ -1,0 +1,5 @@
+filming(0.148)
+asking(0.046)
+guarding(0.045)
+photographing(0.040)
+standing(0.038)

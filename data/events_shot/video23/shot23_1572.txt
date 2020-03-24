@@ -1,0 +1,5 @@
+fencing(0.547)
+talking(0.055)
+sitting(0.050)
+adult+male+speaking(0.046)
+discussing(0.035)

@@ -1,0 +1,5 @@
+exiting(0.098)
+slapping(0.096)
+walking(0.095)
+stealing(0.041)
+stopping(0.035)

@@ -1,5 +1,0 @@
-hugging(0.106)
-adult+female+speaking(0.071)
-drinking(0.047)
-discussing(0.045)
-kissing(0.038)

@@ -1,0 +1,5 @@
+dusting(0.143)
+adult+female+singing(0.060)
+slapping(0.052)
+cleaning(0.044)
+painting(0.034)

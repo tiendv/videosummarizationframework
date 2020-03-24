@@ -1,0 +1,5 @@
+shaving(0.097)
+sneezing(0.084)
+drinking(0.073)
+dressing(0.032)
+removing(0.030)

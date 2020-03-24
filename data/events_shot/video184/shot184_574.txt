@@ -1,5 +1,0 @@
-sneezing(0.119)
-slapping(0.080)
-stacking(0.034)
-running(0.028)
-coughing(0.028)

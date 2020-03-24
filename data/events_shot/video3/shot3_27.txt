@@ -1,0 +1,5 @@
+painting(0.061)
+pointing(0.057)
+adult+male+speaking(0.052)
+dipping(0.036)
+sanding(0.031)

@@ -1,0 +1,5 @@
+knocking(0.042)
+telephoning(0.040)
+adult+male+speaking(0.036)
+calling(0.035)
+slapping(0.032)

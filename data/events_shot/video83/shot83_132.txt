@@ -1,0 +1,5 @@
+walking(0.348)
+running(0.101)
+laughing(0.060)
+standing(0.052)
+talking(0.050)

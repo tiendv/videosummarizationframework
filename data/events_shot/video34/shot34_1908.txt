@@ -1,0 +1,5 @@
+starting(0.030)
+raining(0.026)
+adult+male+speaking(0.023)
+standing(0.022)
+filming(0.018)

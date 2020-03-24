@@ -1,0 +1,5 @@
+handcuffing(0.117)
+adult+female+singing(0.097)
+adult+female+speaking(0.041)
+inflating(0.033)
+standing(0.031)

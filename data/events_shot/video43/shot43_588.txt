@@ -1,0 +1,5 @@
+sitting(0.170)
+laughing(0.091)
+talking(0.028)
+sleeping(0.027)
+tattooing(0.025)

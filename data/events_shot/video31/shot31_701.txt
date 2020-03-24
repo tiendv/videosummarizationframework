@@ -1,0 +1,5 @@
+smoking(0.251)
+coughing(0.175)
+whistling(0.055)
+telephoning(0.050)
+calling(0.040)

@@ -1,0 +1,5 @@
+sneezing(0.217)
+coughing(0.072)
+stealing(0.043)
+slapping(0.042)
+walking(0.037)

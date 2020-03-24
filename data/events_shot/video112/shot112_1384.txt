@@ -1,0 +1,5 @@
+adult+male+singing(0.109)
+yawning(0.067)
+licking(0.059)
+adult+male+speaking(0.047)
+chewing(0.035)

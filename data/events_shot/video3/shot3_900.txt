@@ -1,0 +1,5 @@
+laughing(0.032)
+adult+male+speaking(0.020)
+adult+female+speaking(0.017)
+cooking(0.016)
+hugging(0.016)

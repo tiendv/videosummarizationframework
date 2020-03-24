@@ -1,0 +1,5 @@
+tapping(0.070)
+combing(0.030)
+clipping(0.027)
+handcuffing(0.027)
+gripping(0.023)

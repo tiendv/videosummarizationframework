@@ -1,0 +1,5 @@
+squatting(0.174)
+crouching(0.052)
+standing(0.019)
+sitting(0.015)
+balancing(0.014)

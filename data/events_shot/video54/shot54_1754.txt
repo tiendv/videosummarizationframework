@@ -1,0 +1,5 @@
+tattooing(0.484)
+adult+female+speaking(0.030)
+adult+male+speaking(0.030)
+telephoning(0.019)
+laughing(0.019)

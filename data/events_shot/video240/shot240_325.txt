@@ -1,5 +1,0 @@
-standing(0.043)
-waving(0.043)
-knocking(0.031)
-clapping(0.030)
-slapping(0.023)

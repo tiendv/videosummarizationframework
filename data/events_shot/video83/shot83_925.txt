@@ -1,0 +1,5 @@
+packing(0.154)
+unpacking(0.115)
+baking(0.039)
+dusting(0.038)
+mopping(0.024)

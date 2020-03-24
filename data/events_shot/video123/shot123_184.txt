@@ -1,0 +1,5 @@
+telephoning(0.123)
+calling(0.103)
+adult+male+speaking(0.026)
+talking(0.024)
+hanging(0.015)

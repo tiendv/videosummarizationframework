@@ -1,0 +1,5 @@
+handcuffing(0.125)
+locking(0.080)
+licking(0.051)
+working(0.029)
+arresting(0.025)

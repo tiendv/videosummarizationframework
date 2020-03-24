@@ -1,0 +1,5 @@
+painting(0.094)
+standing(0.056)
+walking(0.052)
+knocking(0.040)
+adult+male+speaking(0.036)

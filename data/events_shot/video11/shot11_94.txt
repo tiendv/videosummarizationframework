@@ -1,0 +1,5 @@
+dining(0.052)
+shopping(0.046)
+adult+female+speaking(0.034)
+slapping(0.028)
+drinking(0.026)

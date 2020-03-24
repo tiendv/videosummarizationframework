@@ -1,0 +1,5 @@
+drinking(0.169)
+blowing(0.098)
+eating(0.081)
+dining(0.067)
+sniffing(0.034)

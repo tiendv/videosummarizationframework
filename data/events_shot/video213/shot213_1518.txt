@@ -1,5 +1,0 @@
-climbing(0.192)
-hiking(0.113)
-digging(0.036)
-hanging(0.030)
-walking(0.029)

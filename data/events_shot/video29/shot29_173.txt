@@ -1,5 +1,0 @@
-fighting(0.042)
-hugging(0.035)
-attacking(0.025)
-shooting(0.024)
-eating(0.020)

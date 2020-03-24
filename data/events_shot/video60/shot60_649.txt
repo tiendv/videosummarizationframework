@@ -1,5 +1,0 @@
-cooking(0.057)
-starting(0.050)
-grilling(0.049)
-barbecuing(0.045)
-drying(0.037)

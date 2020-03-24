@@ -1,0 +1,5 @@
+brushing(0.147)
+drinking(0.074)
+combing(0.056)
+eating(0.048)
+drying(0.023)

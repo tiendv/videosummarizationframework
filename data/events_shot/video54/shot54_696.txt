@@ -1,0 +1,5 @@
+slapping(0.304)
+knocking(0.043)
+asking(0.026)
+punching(0.020)
+pointing(0.018)

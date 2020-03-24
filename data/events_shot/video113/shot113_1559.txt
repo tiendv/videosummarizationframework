@@ -1,0 +1,5 @@
+inflating(0.245)
+bowling(0.181)
+adult+female+singing(0.047)
+exercising(0.028)
+juggling(0.020)

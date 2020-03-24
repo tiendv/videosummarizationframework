@@ -1,0 +1,5 @@
+opening(0.140)
+closing(0.080)
+handcuffing(0.060)
+plugging(0.040)
+peeling(0.039)

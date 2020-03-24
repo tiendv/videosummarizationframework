@@ -1,5 +1,0 @@
-fencing(0.078)
-adult+male+speaking(0.037)
-sneezing(0.035)
-adult+female+speaking(0.034)
-starting(0.024)

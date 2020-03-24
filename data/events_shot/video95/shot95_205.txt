@@ -1,0 +1,5 @@
+riding(0.163)
+bowing(0.088)
+walking(0.062)
+standing(0.038)
+sitting(0.035)

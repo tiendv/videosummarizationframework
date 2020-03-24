@@ -1,5 +1,0 @@
-adult+female+speaking(0.081)
-asking(0.051)
-crying(0.044)
-shrugging(0.041)
-talking(0.040)

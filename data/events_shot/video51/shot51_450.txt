@@ -1,0 +1,5 @@
+cleaning(0.079)
+sneezing(0.053)
+slapping(0.035)
+painting(0.033)
+washing(0.023)

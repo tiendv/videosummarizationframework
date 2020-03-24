@@ -1,0 +1,5 @@
+walking(0.200)
+climbing(0.090)
+ascending(0.050)
+sliding(0.038)
+rising(0.034)

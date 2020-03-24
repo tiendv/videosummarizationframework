@@ -1,0 +1,5 @@
+adult+male+speaking(0.040)
+fencing(0.038)
+pointing(0.037)
+sitting(0.037)
+smiling(0.033)

@@ -1,0 +1,5 @@
+bicycling(0.486)
+running(0.088)
+pedaling(0.071)
+playing+videogames(0.025)
+riding(0.021)

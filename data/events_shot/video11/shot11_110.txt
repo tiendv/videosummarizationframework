@@ -1,0 +1,5 @@
+adult+male+speaking(0.085)
+camping(0.076)
+slapping(0.074)
+hiking(0.047)
+discussing(0.045)

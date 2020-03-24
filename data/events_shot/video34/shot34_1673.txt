@@ -1,0 +1,5 @@
+tattooing(0.088)
+punching(0.045)
+standing(0.045)
+laughing(0.031)
+slapping(0.029)

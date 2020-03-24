@@ -1,5 +1,0 @@
-riding(0.098)
-driving(0.069)
-towing(0.068)
-laughing(0.054)
-running(0.039)

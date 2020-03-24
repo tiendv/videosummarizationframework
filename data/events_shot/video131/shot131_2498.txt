@@ -1,0 +1,5 @@
+dining(0.161)
+praying(0.097)
+discussing(0.058)
+eating(0.056)
+officiating(0.045)

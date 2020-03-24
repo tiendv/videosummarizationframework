@@ -1,0 +1,5 @@
+crafting(0.142)
+stacking(0.083)
+gripping(0.049)
+balancing(0.047)
+taping(0.047)

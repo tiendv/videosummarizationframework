@@ -1,5 +1,0 @@
-squatting(0.082)
-standing(0.034)
-pulling(0.025)
-stealing(0.024)
-exiting(0.024)

@@ -1,0 +1,5 @@
+dressing(0.075)
+sneezing(0.035)
+hanging(0.034)
+adult+female+singing(0.030)
+inflating(0.030)

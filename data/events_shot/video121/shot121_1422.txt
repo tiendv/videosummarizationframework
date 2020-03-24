@@ -1,0 +1,5 @@
+drinking(0.091)
+eating(0.068)
+adult+female+speaking(0.049)
+chewing(0.042)
+giving(0.037)

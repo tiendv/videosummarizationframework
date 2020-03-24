@@ -1,5 +1,0 @@
-jumping(0.433)
-descending(0.081)
-ascending(0.072)
-rising(0.051)
-leaping(0.051)

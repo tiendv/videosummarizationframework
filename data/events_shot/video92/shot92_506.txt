@@ -1,0 +1,5 @@
+hanging(0.128)
+climbing(0.093)
+sailing(0.069)
+rising(0.048)
+ascending(0.030)

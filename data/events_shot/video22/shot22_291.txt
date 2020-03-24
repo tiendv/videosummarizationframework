@@ -1,0 +1,5 @@
+asking(0.157)
+adult+female+speaking(0.142)
+adult+male+speaking(0.062)
+hitchhiking(0.053)
+slapping(0.038)

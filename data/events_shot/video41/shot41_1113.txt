@@ -1,0 +1,5 @@
+coughing(0.300)
+tying(0.262)
+sneezing(0.186)
+dressing(0.018)
+chewing(0.018)

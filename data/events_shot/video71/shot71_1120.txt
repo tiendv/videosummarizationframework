@@ -1,0 +1,5 @@
+crying(0.791)
+laughing(0.041)
+adult+male+singing(0.013)
+frowning(0.011)
+raining(0.011)

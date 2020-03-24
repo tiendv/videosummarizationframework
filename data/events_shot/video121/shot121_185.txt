@@ -1,0 +1,5 @@
+arresting(0.044)
+slapping(0.039)
+queuing(0.038)
+stealing(0.026)
+asking(0.022)

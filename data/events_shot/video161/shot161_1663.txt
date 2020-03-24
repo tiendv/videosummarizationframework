@@ -1,5 +1,0 @@
-filming(0.098)
-hugging(0.096)
-adult+male+speaking(0.041)
-punching(0.033)
-photographing(0.029)

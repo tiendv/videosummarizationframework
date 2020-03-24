@@ -1,0 +1,5 @@
+adult+male+speaking(0.136)
+putting(0.085)
+asking(0.041)
+standing(0.041)
+interviewing(0.032)

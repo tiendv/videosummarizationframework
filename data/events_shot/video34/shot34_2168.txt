@@ -1,5 +1,0 @@
-dancing(0.109)
-marching(0.098)
-parading(0.080)
-walking(0.053)
-performing(0.040)

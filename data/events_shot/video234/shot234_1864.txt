@@ -1,5 +1,0 @@
-packing(0.054)
-dining(0.049)
-giving(0.037)
-adult+male+speaking(0.025)
-unpacking(0.024)

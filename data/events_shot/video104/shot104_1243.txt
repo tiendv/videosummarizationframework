@@ -1,0 +1,5 @@
+walking(0.048)
+sailing(0.027)
+adult+male+speaking(0.021)
+boating(0.021)
+fencing(0.019)

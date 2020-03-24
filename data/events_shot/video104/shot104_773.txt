@@ -1,0 +1,5 @@
+packing(0.068)
+unpacking(0.036)
+slapping(0.031)
+adult+female+speaking(0.031)
+adult+female+singing(0.029)

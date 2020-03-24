@@ -1,0 +1,5 @@
+crying(0.161)
+frowning(0.032)
+adult+male+speaking(0.024)
+talking(0.024)
+carrying(0.023)

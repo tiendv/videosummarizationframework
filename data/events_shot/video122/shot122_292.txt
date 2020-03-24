@@ -1,0 +1,5 @@
+brushing(0.167)
+smiling(0.040)
+washing(0.036)
+bathing(0.034)
+rubbing(0.028)

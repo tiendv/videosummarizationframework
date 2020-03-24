@@ -1,5 +1,0 @@
-adult+male+singing(0.313)
-adult+female+singing(0.257)
-rocking(0.034)
-drumming(0.034)
-tattooing(0.026)

@@ -1,0 +1,5 @@
+cracking(0.081)
+slapping(0.075)
+adult+female+singing(0.050)
+adult+female+speaking(0.050)
+adult+male+speaking(0.044)

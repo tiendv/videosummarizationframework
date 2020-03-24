@@ -1,0 +1,5 @@
+crying(0.032)
+talking(0.027)
+smelling(0.026)
+drinking(0.023)
+discussing(0.021)

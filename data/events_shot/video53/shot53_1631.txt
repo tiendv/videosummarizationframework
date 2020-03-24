@@ -1,0 +1,5 @@
+hanging(0.078)
+adult+female+speaking(0.064)
+asking(0.049)
+stretching(0.031)
+climbing(0.024)

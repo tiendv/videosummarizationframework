@@ -1,0 +1,5 @@
+standing(0.035)
+talking(0.033)
+whistling(0.031)
+squinting(0.031)
+interviewing(0.028)

@@ -1,0 +1,5 @@
+waking(0.162)
+hugging(0.057)
+slapping(0.049)
+yawning(0.039)
+cuddling(0.033)

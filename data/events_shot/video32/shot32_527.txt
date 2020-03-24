@@ -1,0 +1,5 @@
+mopping(0.041)
+measuring(0.039)
+packing(0.028)
+unpacking(0.028)
+playing+videogames(0.023)

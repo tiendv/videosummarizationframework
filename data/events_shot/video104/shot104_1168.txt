@@ -1,0 +1,5 @@
+standing(0.037)
+stacking(0.033)
+bowing(0.031)
+working(0.027)
+playing+videogames(0.025)

@@ -1,5 +1,0 @@
-punting(0.352)
-kicking(0.341)
-playing+sports(0.055)
-officiating(0.039)
-running(0.031)

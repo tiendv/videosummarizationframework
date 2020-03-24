@@ -1,0 +1,5 @@
+tying(0.065)
+chewing(0.048)
+combing(0.047)
+brushing(0.044)
+hugging(0.025)

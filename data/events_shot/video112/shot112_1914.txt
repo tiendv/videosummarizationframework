@@ -1,0 +1,5 @@
+hanging(0.048)
+building(0.043)
+slapping(0.033)
+constructing(0.030)
+knocking(0.024)

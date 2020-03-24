@@ -1,0 +1,5 @@
+running(0.050)
+walking(0.044)
+driving(0.029)
+jogging(0.028)
+pointing(0.025)

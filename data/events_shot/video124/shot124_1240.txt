@@ -1,0 +1,5 @@
+adult+female+speaking(0.108)
+manicuring(0.073)
+knitting(0.027)
+cuddling(0.025)
+waking(0.022)

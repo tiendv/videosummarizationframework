@@ -1,0 +1,5 @@
+bowling(0.054)
+adult+male+speaking(0.033)
+standing(0.025)
+flooding(0.025)
+talking(0.019)

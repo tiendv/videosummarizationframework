@@ -1,0 +1,5 @@
+hugging(0.044)
+smashing(0.035)
+fighting(0.033)
+slapping(0.025)
+drinking(0.023)

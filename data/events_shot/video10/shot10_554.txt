@@ -1,5 +1,0 @@
-teaching(0.045)
-hugging(0.045)
-adult+female+speaking(0.035)
-dressing(0.035)
-packing(0.028)

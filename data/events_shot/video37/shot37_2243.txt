@@ -1,5 +1,0 @@
-walking(0.225)
-carrying(0.032)
-waving(0.027)
-standing(0.024)
-asking(0.020)

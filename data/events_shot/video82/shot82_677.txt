@@ -1,0 +1,5 @@
+reading(0.067)
+sitting(0.063)
+calling(0.051)
+discussing(0.046)
+frowning(0.031)

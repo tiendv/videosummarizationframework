@@ -1,0 +1,5 @@
+hugging(0.229)
+drinking(0.089)
+laughing(0.046)
+dining(0.030)
+smelling(0.027)

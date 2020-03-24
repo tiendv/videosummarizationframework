@@ -1,0 +1,5 @@
+autographing(0.143)
+applauding(0.105)
+hugging(0.053)
+clapping(0.040)
+smiling(0.027)

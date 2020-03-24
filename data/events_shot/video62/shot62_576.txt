@@ -1,0 +1,5 @@
+cooking(0.243)
+frying(0.052)
+adult+female+singing(0.042)
+baking(0.042)
+stirring(0.041)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.063)
+hugging(0.046)
+brushing(0.046)
+washing(0.035)
+painting(0.023)

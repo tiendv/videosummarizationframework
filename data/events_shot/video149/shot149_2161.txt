@@ -1,5 +1,0 @@
-spinning(0.225)
-sprinting(0.036)
-coaching(0.035)
-turning(0.025)
-playing+sports(0.024)

@@ -1,0 +1,5 @@
+talking(0.064)
+adult+male+speaking(0.037)
+crying(0.036)
+starting(0.033)
+walking(0.028)

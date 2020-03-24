@@ -1,0 +1,5 @@
+calling(0.090)
+telephoning(0.090)
+crying(0.079)
+chewing(0.050)
+adult+female+speaking(0.045)

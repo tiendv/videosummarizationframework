@@ -1,5 +1,0 @@
-standing(0.045)
-running(0.041)
-playing+videogames(0.040)
-adult+male+speaking(0.032)
-flicking(0.028)

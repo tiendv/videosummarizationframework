@@ -1,5 +1,0 @@
-cooking(0.181)
-stirring(0.056)
-boiling(0.045)
-frying(0.034)
-standing(0.025)

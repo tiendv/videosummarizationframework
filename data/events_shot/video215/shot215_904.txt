@@ -1,5 +1,0 @@
-raining(0.331)
-unloading(0.053)
-carrying(0.051)
-loading(0.047)
-walking(0.044)

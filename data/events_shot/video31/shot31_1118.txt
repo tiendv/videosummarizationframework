@@ -1,0 +1,5 @@
+chewing(0.038)
+adult+male+speaking(0.032)
+slapping(0.030)
+snapping(0.029)
+biting(0.025)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.052)
+brushing(0.052)
+laughing(0.047)
+chewing(0.032)
+adult+female+singing(0.031)

@@ -1,5 +1,0 @@
-standing(0.053)
-walking(0.038)
-competing(0.038)
-running(0.034)
-filming(0.032)

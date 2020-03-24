@@ -1,0 +1,5 @@
+hugging(0.100)
+slapping(0.079)
+spitting(0.042)
+crying(0.036)
+adult+male+speaking(0.030)

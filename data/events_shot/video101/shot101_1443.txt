@@ -1,0 +1,5 @@
+walking(0.065)
+filming(0.050)
+calling(0.029)
+raining(0.028)
+hugging(0.025)

@@ -1,0 +1,5 @@
+standing(0.042)
+adult+female+singing(0.033)
+slapping(0.032)
+adult+female+speaking(0.031)
+dressing(0.022)

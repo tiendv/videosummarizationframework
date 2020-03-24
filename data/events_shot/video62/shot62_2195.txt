@@ -1,0 +1,5 @@
+pointing(0.050)
+adult+male+speaking(0.034)
+clipping(0.033)
+talking(0.033)
+slapping(0.033)

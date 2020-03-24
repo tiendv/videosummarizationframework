@@ -1,0 +1,5 @@
+tapping(0.540)
+scratching(0.030)
+discussing(0.021)
+rubbing(0.020)
+crying(0.016)

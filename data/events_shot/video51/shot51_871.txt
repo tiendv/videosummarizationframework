@@ -1,0 +1,5 @@
+crying(0.160)
+laughing(0.095)
+smiling(0.065)
+talking(0.035)
+eating(0.032)

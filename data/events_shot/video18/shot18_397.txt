@@ -1,5 +1,0 @@
-adult+female+singing(0.150)
-baptizing(0.106)
-marrying(0.106)
-adult+female+speaking(0.078)
-dining(0.049)

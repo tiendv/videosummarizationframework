@@ -1,5 +1,0 @@
-assembling(0.107)
-plugging(0.087)
-vacuuming(0.071)
-removing(0.055)
-loading(0.044)

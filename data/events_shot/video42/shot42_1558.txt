@@ -1,0 +1,5 @@
+laughing(0.121)
+talking(0.096)
+crying(0.058)
+adult+male+speaking(0.050)
+playing+videogames(0.049)

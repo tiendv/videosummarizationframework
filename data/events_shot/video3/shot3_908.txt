@@ -1,0 +1,5 @@
+washing(0.151)
+rinsing(0.065)
+knocking(0.062)
+cleaning(0.054)
+drying(0.026)

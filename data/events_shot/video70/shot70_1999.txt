@@ -1,5 +1,0 @@
-drying(0.813)
-aiming(0.065)
-spinning(0.038)
-shooting(0.014)
-flooding(0.010)

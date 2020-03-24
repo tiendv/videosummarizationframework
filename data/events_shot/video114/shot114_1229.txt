@@ -1,0 +1,5 @@
+watering(0.072)
+sniffing(0.069)
+gardening(0.063)
+smelling(0.056)
+spraying(0.044)

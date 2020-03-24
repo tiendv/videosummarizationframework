@@ -1,0 +1,5 @@
+cooking(0.093)
+shaking(0.033)
+baking(0.030)
+standing(0.028)
+laughing(0.021)

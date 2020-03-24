@@ -1,0 +1,5 @@
+throwing(0.103)
+kicking(0.045)
+squatting(0.042)
+bouncing(0.041)
+punching(0.037)

@@ -1,0 +1,5 @@
+dressing(0.091)
+stitching(0.037)
+knitting(0.037)
+adult+female+speaking(0.036)
+crafting(0.035)

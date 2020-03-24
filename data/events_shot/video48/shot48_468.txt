@@ -1,5 +1,0 @@
-painting(0.314)
-drawing(0.093)
-tapping(0.047)
-sketching(0.046)
-brushing(0.024)

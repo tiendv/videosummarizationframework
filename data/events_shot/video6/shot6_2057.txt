@@ -1,5 +1,0 @@
-walking(0.185)
-guarding(0.119)
-fencing(0.096)
-turning(0.042)
-standing(0.030)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.041)
+adult+male+speaking(0.031)
+telephoning(0.029)
+cracking(0.025)
+smiling(0.018)

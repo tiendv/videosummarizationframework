@@ -1,0 +1,5 @@
+squatting(0.211)
+lifting(0.123)
+bowing(0.081)
+standing(0.020)
+bowling(0.018)

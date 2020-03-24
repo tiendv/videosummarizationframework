@@ -1,0 +1,5 @@
+sneezing(0.075)
+hugging(0.075)
+stealing(0.051)
+laughing(0.044)
+adult+female+speaking(0.035)

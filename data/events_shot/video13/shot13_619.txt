@@ -1,0 +1,5 @@
+sprinting(0.063)
+jogging(0.059)
+slapping(0.049)
+exercising(0.048)
+running(0.032)

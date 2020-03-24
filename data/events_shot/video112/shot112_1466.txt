@@ -1,0 +1,5 @@
+running(0.165)
+sitting(0.034)
+jumping(0.033)
+skating(0.031)
+talking(0.031)

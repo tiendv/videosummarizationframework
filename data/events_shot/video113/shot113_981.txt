@@ -1,0 +1,5 @@
+reading(0.289)
+adult+female+speaking(0.103)
+tapping(0.079)
+chewing(0.028)
+scratching(0.022)

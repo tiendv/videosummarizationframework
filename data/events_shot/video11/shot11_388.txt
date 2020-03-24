@@ -1,0 +1,5 @@
+adult+female+speaking(0.071)
+wrapping(0.040)
+dressing(0.033)
+giving(0.029)
+hugging(0.025)

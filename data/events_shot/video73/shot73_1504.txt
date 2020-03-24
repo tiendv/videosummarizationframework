@@ -1,0 +1,5 @@
+sawing(0.157)
+sanding(0.110)
+bending(0.078)
+working(0.038)
+gripping(0.019)

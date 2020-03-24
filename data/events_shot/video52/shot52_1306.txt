@@ -1,0 +1,5 @@
+filming(0.105)
+walking(0.057)
+photographing(0.055)
+adult+female+singing(0.034)
+praying(0.029)

@@ -1,0 +1,5 @@
+crying(0.319)
+laughing(0.057)
+telephoning(0.042)
+cooking(0.041)
+frowning(0.037)

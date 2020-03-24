@@ -1,0 +1,5 @@
+driving(0.018)
+cleaning(0.017)
+sitting(0.015)
+sliding(0.014)
+standing(0.014)

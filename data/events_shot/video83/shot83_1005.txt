@@ -1,0 +1,5 @@
+asking(0.071)
+guarding(0.069)
+arresting(0.068)
+slapping(0.045)
+standing(0.038)

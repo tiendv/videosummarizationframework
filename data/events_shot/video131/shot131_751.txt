@@ -1,0 +1,5 @@
+dining(0.124)
+serving(0.052)
+eating(0.042)
+fighting(0.030)
+celebrating(0.028)

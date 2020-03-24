@@ -1,0 +1,5 @@
+tying(0.721)
+dressing(0.104)
+buttoning(0.024)
+packing(0.016)
+putting(0.015)

@@ -1,5 +1,0 @@
-drinking(0.076)
-cooking(0.072)
-dining(0.027)
-standing(0.025)
-baking(0.022)

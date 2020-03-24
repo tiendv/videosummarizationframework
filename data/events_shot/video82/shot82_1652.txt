@@ -1,0 +1,5 @@
+fencing(0.168)
+adult+female+speaking(0.046)
+adult+male+speaking(0.034)
+socializing(0.026)
+opening(0.025)

@@ -1,0 +1,5 @@
+walking(0.115)
+running(0.036)
+knocking(0.033)
+adult+female+singing(0.029)
+closing(0.025)

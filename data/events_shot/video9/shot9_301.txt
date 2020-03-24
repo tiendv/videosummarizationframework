@@ -1,5 +1,0 @@
-autographing(0.328)
-signing(0.149)
-handwriting(0.040)
-adult+female+speaking(0.022)
-drawing(0.021)

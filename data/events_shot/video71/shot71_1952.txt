@@ -1,0 +1,5 @@
+adult+male+speaking(0.074)
+signing(0.063)
+shrugging(0.036)
+dressing(0.035)
+snapping(0.029)

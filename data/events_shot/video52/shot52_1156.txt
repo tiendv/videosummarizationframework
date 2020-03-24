@@ -1,0 +1,5 @@
+driving(0.130)
+sailing(0.127)
+towing(0.090)
+swerving(0.084)
+stopping(0.083)

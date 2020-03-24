@@ -1,0 +1,5 @@
+hunting(0.533)
+shooting(0.084)
+attacking(0.031)
+aiming(0.018)
+filming(0.016)

@@ -1,5 +1,0 @@
-putting(0.093)
-dressing(0.086)
-placing(0.049)
-tying(0.046)
-sniffing(0.035)

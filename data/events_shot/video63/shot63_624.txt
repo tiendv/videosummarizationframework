@@ -1,0 +1,5 @@
+stacking(0.576)
+packing(0.075)
+unpacking(0.065)
+sneezing(0.026)
+packaging(0.022)

@@ -1,0 +1,5 @@
+stacking(0.265)
+working(0.045)
+loading(0.026)
+reading(0.024)
+talking(0.021)

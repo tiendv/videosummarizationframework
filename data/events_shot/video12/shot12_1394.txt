@@ -1,0 +1,5 @@
+hiking(0.193)
+walking(0.059)
+standing(0.039)
+photographing(0.037)
+filming(0.032)

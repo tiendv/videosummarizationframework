@@ -1,5 +1,0 @@
-telephoning(0.293)
-driving(0.219)
-calling(0.170)
-steering(0.048)
-reading(0.027)

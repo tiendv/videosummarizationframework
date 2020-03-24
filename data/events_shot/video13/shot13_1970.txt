@@ -1,0 +1,5 @@
+sleeping(0.037)
+inflating(0.028)
+waking(0.022)
+sneezing(0.021)
+laughing(0.020)

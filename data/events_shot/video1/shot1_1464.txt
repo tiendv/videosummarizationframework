@@ -1,0 +1,5 @@
+tapping(0.060)
+rubbing(0.027)
+pressing(0.027)
+locking(0.024)
+putting(0.020)

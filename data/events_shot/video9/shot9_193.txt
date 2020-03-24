@@ -1,5 +1,0 @@
-standing(0.071)
-talking(0.070)
-adult+male+speaking(0.039)
-asking(0.036)
-walking(0.036)

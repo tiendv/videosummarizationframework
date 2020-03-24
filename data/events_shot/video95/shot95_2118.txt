@@ -1,0 +1,5 @@
+vacuuming(0.161)
+unpacking(0.132)
+sweeping(0.089)
+packing(0.082)
+folding(0.076)

@@ -1,5 +1,0 @@
-aiming(0.125)
-throwing(0.048)
-raining(0.042)
-filming(0.038)
-playing+videogames(0.036)

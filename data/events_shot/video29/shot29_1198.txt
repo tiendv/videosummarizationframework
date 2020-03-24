@@ -1,5 +1,0 @@
-asking(0.075)
-laughing(0.038)
-arresting(0.034)
-protesting(0.034)
-adult+male+speaking(0.032)

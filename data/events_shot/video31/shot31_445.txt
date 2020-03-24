@@ -1,0 +1,5 @@
+bowing(0.335)
+praying(0.034)
+chewing(0.026)
+sneezing(0.026)
+eating(0.025)

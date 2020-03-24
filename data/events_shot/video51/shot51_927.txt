@@ -1,0 +1,5 @@
+hugging(0.038)
+walking(0.034)
+queuing(0.032)
+socializing(0.032)
+dining(0.028)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.052)
+child+speaking(0.041)
+painting(0.038)
+hugging(0.028)
+teaching(0.025)

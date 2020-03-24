@@ -1,0 +1,5 @@
+standing(0.050)
+walking(0.046)
+hugging(0.031)
+smiling(0.026)
+carrying(0.026)

@@ -1,0 +1,5 @@
+bowing(0.258)
+bending(0.121)
+working(0.032)
+stretching(0.032)
+standing(0.029)

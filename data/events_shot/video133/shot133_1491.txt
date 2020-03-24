@@ -1,0 +1,5 @@
+discussing(0.060)
+talking(0.059)
+sitting(0.047)
+hugging(0.041)
+queuing(0.038)

@@ -1,0 +1,5 @@
+stacking(0.040)
+drinking(0.027)
+laughing(0.018)
+drying(0.017)
+cleaning(0.016)

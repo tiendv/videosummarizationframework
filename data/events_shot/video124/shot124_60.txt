@@ -1,0 +1,5 @@
+starting(0.051)
+lifting(0.029)
+kissing(0.029)
+steering(0.027)
+adult+male+speaking(0.024)

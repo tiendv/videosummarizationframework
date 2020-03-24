@@ -1,0 +1,5 @@
+adult+female+speaking(0.196)
+drinking(0.157)
+smoking(0.038)
+smelling(0.037)
+eating(0.036)

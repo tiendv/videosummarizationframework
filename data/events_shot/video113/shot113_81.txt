@@ -1,0 +1,5 @@
+shaving(0.105)
+brushing(0.047)
+adult+male+speaking(0.028)
+child+speaking(0.026)
+cracking(0.022)

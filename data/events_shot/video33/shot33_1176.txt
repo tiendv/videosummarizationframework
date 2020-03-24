@@ -1,0 +1,5 @@
+tattooing(0.669)
+manicuring(0.161)
+adult+female+speaking(0.025)
+discussing(0.013)
+crafting(0.010)

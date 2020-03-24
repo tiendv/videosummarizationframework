@@ -1,5 +1,0 @@
-hugging(0.075)
-running(0.057)
-exiting(0.042)
-walking(0.035)
-shopping(0.032)

@@ -1,0 +1,5 @@
+stacking(0.094)
+eating(0.035)
+coughing(0.034)
+chewing(0.034)
+applauding(0.028)

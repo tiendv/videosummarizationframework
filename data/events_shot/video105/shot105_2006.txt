@@ -1,0 +1,5 @@
+gripping(0.421)
+hanging(0.066)
+balancing(0.032)
+standing(0.023)
+asking(0.023)

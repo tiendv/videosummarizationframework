@@ -1,0 +1,5 @@
+sitting(0.053)
+standing(0.039)
+filming(0.036)
+aiming(0.032)
+playing+videogames(0.025)

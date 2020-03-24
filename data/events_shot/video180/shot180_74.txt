@@ -1,5 +1,0 @@
-selling(0.101)
-shopping(0.090)
-cooking(0.070)
-dining(0.044)
-asking(0.032)

@@ -1,5 +1,0 @@
-autographing(0.082)
-adult+male+speaking(0.062)
-dining(0.060)
-walking(0.035)
-socializing(0.034)

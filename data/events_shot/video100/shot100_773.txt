@@ -1,5 +1,0 @@
-singing(0.044)
-adult+female+singing(0.038)
-performing(0.034)
-smoking(0.021)
-clapping(0.020)

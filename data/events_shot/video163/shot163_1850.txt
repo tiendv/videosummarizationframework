@@ -1,5 +1,0 @@
-adult+male+speaking(0.056)
-slapping(0.036)
-attacking(0.033)
-fighting(0.029)
-standing(0.023)

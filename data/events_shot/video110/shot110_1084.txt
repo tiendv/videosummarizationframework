@@ -1,5 +1,0 @@
-adult+female+singing(0.203)
-adult+male+singing(0.112)
-filming(0.104)
-singing(0.030)
-photographing(0.023)

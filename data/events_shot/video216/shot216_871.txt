@@ -1,5 +1,0 @@
-queuing(0.078)
-asking(0.043)
-standing(0.037)
-sitting(0.032)
-shopping(0.030)

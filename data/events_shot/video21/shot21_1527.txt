@@ -1,0 +1,5 @@
+kissing(0.321)
+crying(0.081)
+telephoning(0.045)
+adult+female+speaking(0.032)
+adult+female+singing(0.032)

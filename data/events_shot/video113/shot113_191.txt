@@ -1,0 +1,5 @@
+manicuring(0.192)
+sneezing(0.087)
+talking(0.042)
+sitting(0.038)
+crafting(0.035)

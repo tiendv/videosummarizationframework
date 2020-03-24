@@ -1,5 +1,0 @@
-packing(0.159)
-dressing(0.081)
-unpacking(0.076)
-tying(0.032)
-adult+female+speaking(0.031)

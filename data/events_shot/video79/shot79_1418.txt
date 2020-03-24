@@ -1,5 +1,0 @@
-kissing(0.128)
-hugging(0.066)
-marrying(0.055)
-adult+male+speaking(0.054)
-discussing(0.050)

@@ -1,5 +1,0 @@
-walking(0.282)
-queuing(0.032)
-filming(0.030)
-selling(0.028)
-photographing(0.025)

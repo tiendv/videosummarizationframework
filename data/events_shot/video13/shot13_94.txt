@@ -1,0 +1,5 @@
+smiling(0.158)
+adult+male+speaking(0.103)
+grinning(0.047)
+discussing(0.043)
+filming(0.042)

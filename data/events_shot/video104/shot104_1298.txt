@@ -1,0 +1,5 @@
+crying(0.086)
+walking(0.038)
+calling(0.035)
+carrying(0.035)
+coughing(0.032)

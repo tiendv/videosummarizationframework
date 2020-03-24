@@ -1,0 +1,5 @@
+hitchhiking(0.128)
+fueling(0.098)
+arresting(0.052)
+driving(0.045)
+walking(0.041)

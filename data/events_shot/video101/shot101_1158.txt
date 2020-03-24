@@ -1,0 +1,5 @@
+pressing(0.052)
+steering(0.042)
+starting(0.035)
+smiling(0.027)
+laughing(0.023)

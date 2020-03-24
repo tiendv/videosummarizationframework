@@ -1,5 +1,0 @@
-shooting(0.123)
-pointing(0.077)
-filming(0.051)
-aiming(0.049)
-slapping(0.044)

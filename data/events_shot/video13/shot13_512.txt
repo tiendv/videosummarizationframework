@@ -1,0 +1,5 @@
+turning(0.061)
+adult+female+singing(0.043)
+standing(0.035)
+laughing(0.027)
+smiling(0.024)

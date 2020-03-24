@@ -1,0 +1,5 @@
+interviewing(0.035)
+dressing(0.034)
+adult+male+speaking(0.033)
+asking(0.028)
+adult+female+speaking(0.027)

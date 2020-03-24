@@ -1,0 +1,5 @@
+filming(0.073)
+arresting(0.059)
+walking(0.042)
+adult+female+singing(0.033)
+handcuffing(0.033)

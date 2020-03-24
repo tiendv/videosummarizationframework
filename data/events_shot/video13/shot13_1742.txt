@@ -1,0 +1,5 @@
+adult+female+singing(0.638)
+adult+female+speaking(0.048)
+kissing(0.016)
+singing(0.015)
+raining(0.015)

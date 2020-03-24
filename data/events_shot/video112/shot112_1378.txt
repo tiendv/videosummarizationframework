@@ -1,0 +1,5 @@
+standing(0.066)
+talking(0.061)
+walking(0.036)
+child+speaking(0.036)
+dining(0.028)

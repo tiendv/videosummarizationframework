@@ -1,0 +1,5 @@
+adult+female+speaking(0.085)
+slapping(0.053)
+adult+female+singing(0.043)
+playing+videogames(0.040)
+standing(0.036)

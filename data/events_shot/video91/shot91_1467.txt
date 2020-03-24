@@ -1,0 +1,5 @@
+crashing(0.107)
+driving(0.066)
+hitchhiking(0.044)
+burning(0.043)
+destroying(0.040)

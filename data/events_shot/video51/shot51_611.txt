@@ -1,0 +1,5 @@
+walking(0.560)
+carrying(0.029)
+standing(0.028)
+adult+female+singing(0.026)
+exiting(0.018)

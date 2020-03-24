@@ -1,5 +1,0 @@
-cooking(0.349)
-baking(0.176)
-crafting(0.041)
-working(0.024)
-cleaning(0.020)

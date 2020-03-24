@@ -1,0 +1,5 @@
+dunking(0.195)
+sliding(0.046)
+blocking(0.028)
+stealing(0.025)
+running(0.024)

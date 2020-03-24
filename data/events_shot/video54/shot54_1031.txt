@@ -1,0 +1,5 @@
+telephoning(0.305)
+calling(0.153)
+smoking(0.072)
+adult+male+speaking(0.031)
+gardening(0.029)

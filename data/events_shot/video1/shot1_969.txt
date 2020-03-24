@@ -1,0 +1,5 @@
+sitting(0.026)
+pressing(0.023)
+pushing(0.020)
+tying(0.016)
+opening(0.014)

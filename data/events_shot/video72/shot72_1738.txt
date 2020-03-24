@@ -1,0 +1,5 @@
+squatting(0.084)
+cooking(0.040)
+cleaning(0.029)
+baking(0.026)
+gripping(0.024)

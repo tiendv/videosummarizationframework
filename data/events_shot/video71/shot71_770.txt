@@ -1,0 +1,5 @@
+stomping(0.071)
+flipping(0.050)
+slapping(0.040)
+pressing(0.031)
+lifting(0.028)

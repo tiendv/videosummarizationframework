@@ -1,0 +1,5 @@
+playing(0.287)
+putting(0.069)
+placing(0.040)
+playing+videogames(0.030)
+rolling(0.018)

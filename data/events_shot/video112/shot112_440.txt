@@ -1,0 +1,5 @@
+roaring(0.233)
+howling(0.226)
+barking(0.147)
+yawning(0.040)
+adult+female+singing(0.030)

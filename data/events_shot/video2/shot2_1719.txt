@@ -1,0 +1,5 @@
+locking(0.085)
+knocking(0.068)
+hugging(0.055)
+adult+female+speaking(0.042)
+opening(0.039)

@@ -1,0 +1,5 @@
+painting(0.149)
+hanging(0.057)
+drawing(0.038)
+knocking(0.031)
+whistling(0.029)

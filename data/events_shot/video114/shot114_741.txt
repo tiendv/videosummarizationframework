@@ -1,0 +1,5 @@
+waking(0.096)
+tickling(0.066)
+sneezing(0.046)
+slapping(0.044)
+coughing(0.043)

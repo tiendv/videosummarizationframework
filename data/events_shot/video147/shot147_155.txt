@@ -1,5 +1,0 @@
-adult+female+singing(0.135)
-adult+female+speaking(0.035)
-washing(0.034)
-cleaning(0.031)
-rinsing(0.031)

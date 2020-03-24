@@ -1,0 +1,5 @@
+frowning(0.071)
+discussing(0.065)
+arresting(0.043)
+talking(0.042)
+crying(0.039)

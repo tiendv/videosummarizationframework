@@ -1,0 +1,5 @@
+handwriting(0.534)
+writing(0.196)
+reading(0.016)
+cuddling(0.011)
+autographing(0.011)

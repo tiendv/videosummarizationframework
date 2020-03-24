@@ -1,0 +1,5 @@
+taping(0.120)
+dressing(0.064)
+standing(0.045)
+measuring(0.038)
+adult+male+speaking(0.023)

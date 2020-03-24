@@ -1,0 +1,5 @@
+typing(0.326)
+telephoning(0.173)
+calling(0.115)
+pressing(0.077)
+locking(0.029)

@@ -1,0 +1,5 @@
+hammering(0.063)
+packing(0.024)
+autographing(0.024)
+punching(0.024)
+tattooing(0.021)

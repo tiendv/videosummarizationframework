@@ -1,0 +1,5 @@
+kissing(0.110)
+shaving(0.068)
+adult+female+singing(0.050)
+adult+female+speaking(0.046)
+crying(0.040)

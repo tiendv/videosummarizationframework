@@ -1,5 +1,0 @@
-bowing(0.061)
-walking(0.048)
-smiling(0.044)
-giving(0.041)
-marrying(0.037)

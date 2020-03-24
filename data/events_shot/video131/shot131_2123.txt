@@ -1,0 +1,5 @@
+queuing(0.225)
+celebrating(0.062)
+walking(0.060)
+hugging(0.039)
+baptizing(0.028)

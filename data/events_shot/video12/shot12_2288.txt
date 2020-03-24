@@ -1,0 +1,5 @@
+assembling(0.153)
+spinning(0.040)
+playing+videogames(0.031)
+sprinting(0.025)
+balancing(0.024)

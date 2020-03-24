@@ -1,0 +1,5 @@
+shaving(0.763)
+brushing(0.043)
+drinking(0.009)
+filming(0.009)
+spraying(0.007)

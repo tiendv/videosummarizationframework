@@ -1,0 +1,5 @@
+standing(0.054)
+walking(0.033)
+handcuffing(0.031)
+adult+female+singing(0.031)
+dressing(0.026)

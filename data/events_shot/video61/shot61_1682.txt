@@ -1,0 +1,5 @@
+whistling(0.153)
+chewing(0.039)
+coughing(0.036)
+sneezing(0.033)
+sleeping(0.029)

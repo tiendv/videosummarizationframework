@@ -1,0 +1,5 @@
+spinning(0.102)
+turning(0.077)
+hanging(0.067)
+crafting(0.061)
+sliding(0.054)

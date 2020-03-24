@@ -1,5 +1,0 @@
-hugging(0.096)
-dining(0.066)
-smiling(0.039)
-giving(0.034)
-shopping(0.031)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.203)
+telephoning(0.060)
+squinting(0.050)
+sneezing(0.047)
+calling(0.038)

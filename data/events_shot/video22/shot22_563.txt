@@ -1,0 +1,5 @@
+fencing(0.212)
+stealing(0.054)
+shopping(0.028)
+selling(0.024)
+painting(0.024)

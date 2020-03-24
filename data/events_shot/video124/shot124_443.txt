@@ -1,0 +1,5 @@
+telephoning(0.452)
+calling(0.166)
+sitting(0.028)
+smoking(0.027)
+discussing(0.021)

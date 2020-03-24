@@ -1,0 +1,5 @@
+camping(0.242)
+hugging(0.070)
+hiking(0.061)
+smiling(0.056)
+laughing(0.054)

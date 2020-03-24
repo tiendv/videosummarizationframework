@@ -1,0 +1,5 @@
+whistling(0.096)
+knocking(0.060)
+tattooing(0.033)
+slapping(0.032)
+coughing(0.030)

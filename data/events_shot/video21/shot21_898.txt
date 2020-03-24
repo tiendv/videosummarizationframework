@@ -1,0 +1,5 @@
+clapping(0.091)
+smiling(0.072)
+child+singing(0.051)
+standing(0.048)
+laughing(0.047)

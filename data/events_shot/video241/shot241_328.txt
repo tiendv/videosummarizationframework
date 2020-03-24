@@ -1,5 +1,0 @@
-painting(0.070)
-bowing(0.058)
-adult+female+speaking(0.031)
-sneezing(0.027)
-adult+male+speaking(0.023)

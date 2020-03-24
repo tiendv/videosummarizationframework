@@ -1,0 +1,5 @@
+asking(0.101)
+adult+female+speaking(0.089)
+drinking(0.072)
+standing(0.060)
+laughing(0.053)

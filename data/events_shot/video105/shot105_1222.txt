@@ -1,0 +1,5 @@
+gardening(0.175)
+picking(0.107)
+clipping(0.056)
+trimming(0.054)
+planting(0.046)

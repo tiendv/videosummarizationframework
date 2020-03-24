@@ -1,0 +1,5 @@
+opening(0.098)
+closing(0.085)
+locking(0.029)
+adult+male+speaking(0.025)
+flicking(0.023)

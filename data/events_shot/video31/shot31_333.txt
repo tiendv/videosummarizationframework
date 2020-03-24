@@ -1,0 +1,5 @@
+marching(0.135)
+protesting(0.112)
+parading(0.056)
+standing(0.053)
+walking(0.037)

@@ -1,0 +1,5 @@
+kissing(0.124)
+knocking(0.050)
+waking(0.044)
+hugging(0.042)
+shaving(0.039)

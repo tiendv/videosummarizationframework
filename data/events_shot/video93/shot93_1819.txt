@@ -1,0 +1,5 @@
+applauding(0.119)
+hugging(0.065)
+queuing(0.053)
+cheering(0.042)
+clapping(0.036)

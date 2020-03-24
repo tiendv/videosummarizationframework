@@ -1,0 +1,5 @@
+packing(0.064)
+inflating(0.063)
+vacuuming(0.043)
+unpacking(0.035)
+walking(0.024)

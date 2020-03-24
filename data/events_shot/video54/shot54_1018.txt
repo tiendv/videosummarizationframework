@@ -1,0 +1,5 @@
+adult+male+speaking(0.204)
+starting(0.084)
+gardening(0.044)
+standing(0.041)
+fencing(0.040)

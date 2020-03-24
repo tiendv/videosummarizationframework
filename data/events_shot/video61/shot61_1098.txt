@@ -1,0 +1,5 @@
+crying(0.680)
+frowning(0.092)
+shrugging(0.013)
+squinting(0.010)
+rolling(0.009)

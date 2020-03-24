@@ -1,5 +1,0 @@
-crying(0.087)
-frowning(0.039)
-brushing(0.028)
-tapping(0.024)
-chewing(0.015)

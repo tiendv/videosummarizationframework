@@ -1,0 +1,5 @@
+kneeling(0.898)
+bending(0.019)
+bowing(0.017)
+child+speaking(0.007)
+child+singing(0.007)

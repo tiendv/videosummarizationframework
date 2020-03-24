@@ -1,0 +1,5 @@
+sitting(0.059)
+drinking(0.055)
+adult+male+singing(0.053)
+discussing(0.047)
+adult+female+speaking(0.039)

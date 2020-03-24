@@ -1,0 +1,5 @@
+clipping(0.155)
+sawing(0.039)
+cutting(0.036)
+slapping(0.027)
+chopping(0.024)

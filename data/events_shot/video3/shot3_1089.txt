@@ -1,0 +1,5 @@
+knocking(0.167)
+entering(0.100)
+closing(0.067)
+opening(0.063)
+exiting(0.060)

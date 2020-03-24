@@ -1,0 +1,5 @@
+dancing(0.067)
+standing(0.041)
+walking(0.034)
+rocking(0.030)
+bouncing(0.026)

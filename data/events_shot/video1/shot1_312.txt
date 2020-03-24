@@ -1,0 +1,5 @@
+drawing(0.144)
+tattooing(0.075)
+sketching(0.062)
+sitting(0.051)
+painting(0.039)

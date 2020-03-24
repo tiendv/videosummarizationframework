@@ -1,0 +1,5 @@
+praying(0.080)
+hanging(0.042)
+tapping(0.040)
+adult+male+speaking(0.039)
+drying(0.028)

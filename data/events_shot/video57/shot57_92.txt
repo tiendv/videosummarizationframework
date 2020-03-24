@@ -1,5 +1,0 @@
-drinking(0.100)
-laughing(0.037)
-telephoning(0.036)
-spitting(0.033)
-calling(0.029)

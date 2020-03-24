@@ -1,5 +1,0 @@
-child+speaking(0.448)
-child+singing(0.251)
-whistling(0.022)
-slapping(0.015)
-adult+female+speaking(0.012)

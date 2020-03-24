@@ -1,5 +1,0 @@
-kissing(0.315)
-queuing(0.089)
-marrying(0.054)
-hugging(0.028)
-adult+male+speaking(0.027)

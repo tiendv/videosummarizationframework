@@ -1,0 +1,5 @@
+knocking(0.320)
+pointing(0.056)
+aiming(0.051)
+walking(0.041)
+standing(0.036)

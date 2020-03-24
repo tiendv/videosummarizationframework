@@ -1,0 +1,5 @@
+cooking(0.049)
+hugging(0.032)
+talking(0.031)
+playing+videogames(0.026)
+dining(0.025)

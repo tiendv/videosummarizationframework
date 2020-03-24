@@ -1,0 +1,5 @@
+guarding(0.418)
+arresting(0.167)
+handcuffing(0.027)
+officiating(0.022)
+standing(0.022)

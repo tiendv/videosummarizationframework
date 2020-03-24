@@ -1,0 +1,5 @@
+sneezing(0.049)
+laughing(0.036)
+discussing(0.027)
+tying(0.025)
+drinking(0.024)

@@ -1,0 +1,5 @@
+fencing(0.291)
+adult+male+speaking(0.068)
+lecturing(0.042)
+standing(0.037)
+guarding(0.023)

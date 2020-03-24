@@ -1,0 +1,5 @@
+cracking(0.065)
+attacking(0.050)
+fighting(0.050)
+slapping(0.035)
+handcuffing(0.033)

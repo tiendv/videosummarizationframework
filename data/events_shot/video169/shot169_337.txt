@@ -1,5 +1,0 @@
-hanging(0.223)
-fencing(0.105)
-drilling(0.049)
-knocking(0.041)
-building(0.034)

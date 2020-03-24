@@ -1,0 +1,5 @@
+sneezing(0.211)
+packing(0.052)
+coughing(0.042)
+unpacking(0.036)
+studying(0.025)

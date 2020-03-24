@@ -1,0 +1,5 @@
+pointing(0.080)
+adult+male+speaking(0.052)
+shopping(0.044)
+laughing(0.033)
+selling(0.026)

@@ -1,0 +1,5 @@
+dining(0.272)
+eating(0.083)
+cooking(0.071)
+adult+female+speaking(0.047)
+serving(0.031)

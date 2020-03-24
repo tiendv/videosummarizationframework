@@ -1,0 +1,5 @@
+marrying(0.093)
+adult+female+singing(0.086)
+dressing(0.045)
+kissing(0.045)
+giving(0.026)

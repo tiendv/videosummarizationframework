@@ -1,5 +1,0 @@
-knocking(0.667)
-punching(0.015)
-snapping(0.010)
-opening(0.009)
-locking(0.008)

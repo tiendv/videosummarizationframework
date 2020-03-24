@@ -1,0 +1,5 @@
+stacking(0.042)
+packing(0.030)
+eating(0.030)
+laughing(0.029)
+chewing(0.028)

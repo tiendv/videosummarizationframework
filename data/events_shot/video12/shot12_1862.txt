@@ -1,0 +1,5 @@
+dining(0.113)
+serving(0.065)
+adult+male+speaking(0.047)
+selling(0.045)
+shopping(0.033)

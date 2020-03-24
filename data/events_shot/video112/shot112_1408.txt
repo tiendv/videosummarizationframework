@@ -1,0 +1,5 @@
+dressing(0.067)
+child+speaking(0.064)
+adult+female+speaking(0.056)
+tying(0.031)
+drying(0.025)

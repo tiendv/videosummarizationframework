@@ -1,0 +1,5 @@
+stirring(0.049)
+dining(0.029)
+discussing(0.028)
+officiating(0.027)
+adult+male+speaking(0.027)

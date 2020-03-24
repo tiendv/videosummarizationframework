@@ -1,5 +1,0 @@
-running(0.377)
-walking(0.072)
-marching(0.035)
-parading(0.031)
-shopping(0.029)

@@ -1,5 +1,0 @@
-fighting(0.056)
-attacking(0.054)
-stomping(0.049)
-dancing(0.041)
-standing(0.030)

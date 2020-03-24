@@ -1,0 +1,5 @@
+handcuffing(0.082)
+frowning(0.038)
+discussing(0.035)
+cracking(0.030)
+adult+male+speaking(0.030)

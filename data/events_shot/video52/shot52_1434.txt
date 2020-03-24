@@ -1,0 +1,5 @@
+burning(0.060)
+adult+male+speaking(0.053)
+combing(0.030)
+hugging(0.030)
+adult+female+speaking(0.024)

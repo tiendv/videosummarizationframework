@@ -1,0 +1,5 @@
+slapping(0.303)
+winking(0.203)
+smiling(0.082)
+snapping(0.025)
+shrugging(0.018)

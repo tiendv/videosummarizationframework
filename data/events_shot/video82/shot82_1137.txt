@@ -1,0 +1,5 @@
+tying(0.226)
+lecturing(0.225)
+preaching(0.083)
+adult+male+speaking(0.031)
+standing(0.028)

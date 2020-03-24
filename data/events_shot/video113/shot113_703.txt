@@ -1,0 +1,5 @@
+cooking(0.074)
+talking(0.054)
+coughing(0.041)
+stirring(0.040)
+drinking(0.031)

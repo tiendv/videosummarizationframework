@@ -1,0 +1,5 @@
+reading(0.085)
+standing(0.037)
+walking(0.026)
+shopping(0.025)
+selling(0.020)

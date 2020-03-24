@@ -1,0 +1,5 @@
+putting(0.087)
+building(0.076)
+assembling(0.075)
+constructing(0.060)
+placing(0.052)

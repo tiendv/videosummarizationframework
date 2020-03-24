@@ -1,5 +1,0 @@
-reading(0.081)
-inflating(0.061)
-sitting(0.052)
-working(0.048)
-adult+male+speaking(0.018)

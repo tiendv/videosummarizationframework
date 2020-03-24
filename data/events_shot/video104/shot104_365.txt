@@ -1,0 +1,5 @@
+asking(0.129)
+queuing(0.126)
+slapping(0.049)
+stealing(0.045)
+adult+male+speaking(0.035)

@@ -1,5 +1,0 @@
-stealing(0.078)
-dining(0.058)
-clawing(0.052)
-guarding(0.039)
-eating(0.025)

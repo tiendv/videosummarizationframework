@@ -1,0 +1,5 @@
+rubbing(0.035)
+massaging(0.034)
+putting(0.019)
+adult+female+speaking(0.017)
+waking(0.017)

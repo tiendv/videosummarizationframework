@@ -1,0 +1,5 @@
+hammering(0.050)
+smashing(0.040)
+punching(0.027)
+running(0.027)
+walking(0.027)

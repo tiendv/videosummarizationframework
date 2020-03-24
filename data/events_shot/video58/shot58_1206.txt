@@ -1,5 +1,0 @@
-attacking(0.278)
-shooting(0.144)
-destroying(0.133)
-burning(0.084)
-smashing(0.047)

@@ -1,0 +1,5 @@
+hugging(0.065)
+dressing(0.050)
+adult+male+speaking(0.030)
+tying(0.026)
+adult+female+speaking(0.025)

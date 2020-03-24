@@ -1,0 +1,5 @@
+adult+female+singing(0.050)
+slapping(0.038)
+coughing(0.033)
+sneezing(0.024)
+playing+videogames(0.019)

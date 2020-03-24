@@ -1,0 +1,5 @@
+adult+male+speaking(0.158)
+interviewing(0.058)
+smiling(0.040)
+telephoning(0.037)
+laughing(0.035)

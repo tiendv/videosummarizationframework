@@ -1,5 +1,0 @@
-walking(0.183)
-driving(0.074)
-arresting(0.061)
-hitchhiking(0.059)
-asking(0.053)

@@ -1,0 +1,5 @@
+mopping(0.039)
+stealing(0.032)
+aiming(0.025)
+adult+male+speaking(0.024)
+attacking(0.023)

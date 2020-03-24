@@ -1,0 +1,5 @@
+diving(0.143)
+bicycling(0.041)
+flying(0.037)
+ascending(0.032)
+jumping(0.028)

@@ -1,0 +1,5 @@
+coughing(0.100)
+sneezing(0.094)
+clapping(0.053)
+drumming(0.038)
+massaging(0.024)

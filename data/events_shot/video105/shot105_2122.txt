@@ -1,0 +1,5 @@
+filming(0.078)
+talking(0.072)
+discussing(0.053)
+throwing(0.044)
+smiling(0.039)

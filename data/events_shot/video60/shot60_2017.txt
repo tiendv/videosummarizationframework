@@ -1,5 +1,0 @@
-tapping(0.403)
-hugging(0.044)
-adult+male+speaking(0.033)
-scratching(0.027)
-discussing(0.024)

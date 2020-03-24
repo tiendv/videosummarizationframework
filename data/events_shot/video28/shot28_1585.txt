@@ -1,5 +1,0 @@
-sliding(0.147)
-fighting(0.087)
-slipping(0.072)
-adult+female+singing(0.056)
-colliding(0.048)

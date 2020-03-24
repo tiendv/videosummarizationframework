@@ -1,0 +1,5 @@
+crying(0.395)
+carrying(0.041)
+coughing(0.038)
+hugging(0.035)
+smelling(0.033)

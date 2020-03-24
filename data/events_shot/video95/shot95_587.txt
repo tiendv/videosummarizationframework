@@ -1,0 +1,5 @@
+queuing(0.251)
+applauding(0.035)
+asking(0.029)
+coaching(0.027)
+adult+male+speaking(0.024)

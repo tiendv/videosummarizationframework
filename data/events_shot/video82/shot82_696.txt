@@ -1,0 +1,5 @@
+filming(0.153)
+walking(0.145)
+arresting(0.121)
+playing+videogames(0.080)
+guarding(0.055)

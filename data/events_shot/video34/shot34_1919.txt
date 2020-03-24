@@ -1,0 +1,5 @@
+fencing(0.112)
+walking(0.080)
+racing(0.053)
+bicycling(0.040)
+riding(0.035)

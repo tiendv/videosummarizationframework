@@ -1,5 +1,0 @@
-spinning(0.094)
-turning(0.092)
-talking(0.067)
-hanging(0.039)
-starting(0.034)

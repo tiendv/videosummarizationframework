@@ -1,5 +1,0 @@
-crying(0.128)
-sneezing(0.088)
-frowning(0.086)
-telephoning(0.070)
-calling(0.063)

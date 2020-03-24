@@ -1,0 +1,5 @@
+arresting(0.088)
+guarding(0.040)
+handcuffing(0.030)
+adult+male+speaking(0.024)
+discussing(0.024)

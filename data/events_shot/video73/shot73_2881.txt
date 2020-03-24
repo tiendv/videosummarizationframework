@@ -1,0 +1,5 @@
+drinking(0.748)
+smoking(0.009)
+telephoning(0.009)
+dining(0.009)
+smelling(0.008)

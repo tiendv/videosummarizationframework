@@ -1,0 +1,5 @@
+autographing(0.111)
+punching(0.077)
+boxing(0.055)
+hugging(0.034)
+tattooing(0.030)

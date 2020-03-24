@@ -1,5 +1,0 @@
-carving(0.124)
-painting(0.048)
-hammering(0.021)
-injecting(0.016)
-cutting(0.015)

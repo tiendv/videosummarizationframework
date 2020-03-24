@@ -1,5 +1,0 @@
-child+singing(0.154)
-queuing(0.096)
-standing(0.084)
-child+speaking(0.063)
-protesting(0.054)

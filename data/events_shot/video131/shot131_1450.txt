@@ -1,0 +1,5 @@
+opening(0.320)
+closing(0.117)
+adult+male+speaking(0.022)
+giving(0.022)
+adult+female+speaking(0.020)

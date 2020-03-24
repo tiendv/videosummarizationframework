@@ -1,0 +1,5 @@
+shrugging(0.070)
+opening(0.046)
+slapping(0.027)
+closing(0.027)
+winking(0.025)

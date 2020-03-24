@@ -1,5 +1,0 @@
-adult+male+singing(0.092)
-adult+female+singing(0.076)
-drinking(0.032)
-filming(0.029)
-sneezing(0.025)

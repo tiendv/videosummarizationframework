@@ -1,0 +1,5 @@
+hammering(0.057)
+slapping(0.056)
+sawing(0.054)
+clipping(0.041)
+tapping(0.035)

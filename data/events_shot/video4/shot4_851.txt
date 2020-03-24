@@ -1,0 +1,5 @@
+bowing(0.081)
+kneeling(0.054)
+praying(0.033)
+walking(0.026)
+crawling(0.019)

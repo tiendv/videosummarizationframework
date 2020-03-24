@@ -1,5 +1,0 @@
-slapping(0.225)
-hammering(0.080)
-building(0.037)
-punching(0.035)
-painting(0.030)

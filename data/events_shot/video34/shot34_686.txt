@@ -1,0 +1,5 @@
+combing(0.293)
+cutting(0.060)
+clipping(0.055)
+frowning(0.036)
+trimming(0.034)

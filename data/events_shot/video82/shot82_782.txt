@@ -1,0 +1,5 @@
+autographing(0.055)
+dining(0.036)
+planting(0.033)
+sowing(0.029)
+working(0.022)

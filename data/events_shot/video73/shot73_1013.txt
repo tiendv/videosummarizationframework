@@ -1,0 +1,5 @@
+putting(0.056)
+placing(0.046)
+blocking(0.040)
+emptying(0.030)
+removing(0.028)

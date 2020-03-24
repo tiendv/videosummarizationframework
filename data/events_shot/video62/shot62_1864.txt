@@ -1,0 +1,5 @@
+filming(0.056)
+asking(0.040)
+arresting(0.037)
+adult+male+speaking(0.036)
+guarding(0.035)

@@ -1,0 +1,5 @@
+washing(0.346)
+unloading(0.070)
+cleaning(0.063)
+loading(0.058)
+fueling(0.052)

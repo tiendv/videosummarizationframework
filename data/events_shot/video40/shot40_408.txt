@@ -1,5 +1,0 @@
-walking(0.132)
-child+singing(0.096)
-child+speaking(0.071)
-adult+female+speaking(0.062)
-adult+female+singing(0.048)

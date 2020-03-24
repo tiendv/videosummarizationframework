@@ -1,0 +1,5 @@
+locking(0.148)
+adult+male+singing(0.076)
+opening(0.047)
+shaking(0.037)
+pushing(0.037)

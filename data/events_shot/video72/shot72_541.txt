@@ -1,0 +1,5 @@
+walking(0.034)
+entering(0.027)
+bowing(0.022)
+hanging(0.022)
+carrying(0.021)

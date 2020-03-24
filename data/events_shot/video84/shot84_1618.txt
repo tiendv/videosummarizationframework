@@ -1,0 +1,5 @@
+fighting(0.049)
+cooking(0.040)
+adult+male+speaking(0.036)
+baking(0.035)
+fencing(0.031)

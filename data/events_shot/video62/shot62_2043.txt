@@ -1,0 +1,5 @@
+pointing(0.120)
+shrugging(0.109)
+shooting(0.050)
+hanging(0.050)
+carrying(0.044)

@@ -1,0 +1,5 @@
+tattooing(0.291)
+punching(0.121)
+boxing(0.049)
+adult+male+speaking(0.044)
+slapping(0.030)

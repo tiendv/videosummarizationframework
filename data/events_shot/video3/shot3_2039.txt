@@ -1,0 +1,5 @@
+drinking(0.078)
+slapping(0.038)
+joining(0.034)
+socializing(0.029)
+dining(0.027)

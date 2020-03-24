@@ -1,5 +1,0 @@
-smiling(0.141)
-shrugging(0.106)
-winking(0.064)
-adult+male+speaking(0.024)
-grinning(0.023)

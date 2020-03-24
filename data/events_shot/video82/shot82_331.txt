@@ -1,0 +1,5 @@
+standing(0.046)
+raining(0.040)
+walking(0.039)
+lecturing(0.038)
+adult+male+speaking(0.034)

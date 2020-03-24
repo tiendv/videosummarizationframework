@@ -1,0 +1,5 @@
+tapping(0.396)
+adult+male+speaking(0.092)
+chewing(0.052)
+discussing(0.036)
+calling(0.019)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.137)
+drinking(0.063)
+asking(0.049)
+discussing(0.048)
+filming(0.045)

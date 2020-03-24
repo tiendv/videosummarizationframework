@@ -1,5 +1,0 @@
-rising(0.124)
-adult+female+singing(0.042)
-talking(0.030)
-snowing(0.026)
-ascending(0.024)

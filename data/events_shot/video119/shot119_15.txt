@@ -1,5 +1,0 @@
-sneezing(0.057)
-working(0.048)
-coughing(0.030)
-walking(0.025)
-sitting(0.024)

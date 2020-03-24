@@ -1,0 +1,5 @@
+planting(0.133)
+gardening(0.096)
+fencing(0.079)
+baptizing(0.053)
+sowing(0.049)

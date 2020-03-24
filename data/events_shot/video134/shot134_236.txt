@@ -1,0 +1,5 @@
+crying(0.216)
+laughing(0.111)
+frowning(0.041)
+cracking(0.036)
+telephoning(0.026)

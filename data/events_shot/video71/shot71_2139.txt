@@ -1,0 +1,5 @@
+standing(0.094)
+adult+male+speaking(0.092)
+talking(0.035)
+preaching(0.033)
+turning(0.028)

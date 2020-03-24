@@ -1,0 +1,5 @@
+loading(0.057)
+towing(0.051)
+unloading(0.026)
+fueling(0.026)
+walking(0.022)

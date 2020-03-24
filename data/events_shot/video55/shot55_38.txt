@@ -1,5 +1,0 @@
-diving(0.469)
-climbing(0.070)
-jumping(0.043)
-hiking(0.032)
-playing+videogames(0.015)

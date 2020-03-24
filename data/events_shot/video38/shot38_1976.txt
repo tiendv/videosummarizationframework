@@ -1,5 +1,0 @@
-chasing(0.318)
-driving(0.115)
-riding(0.105)
-running(0.062)
-walking(0.059)

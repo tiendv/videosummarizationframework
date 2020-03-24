@@ -1,0 +1,5 @@
+slapping(0.048)
+smiling(0.041)
+pointing(0.031)
+combing(0.030)
+frowning(0.030)

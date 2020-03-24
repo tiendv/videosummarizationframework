@@ -1,0 +1,5 @@
+handcuffing(0.580)
+arresting(0.101)
+dressing(0.048)
+adult+female+speaking(0.035)
+locking(0.026)

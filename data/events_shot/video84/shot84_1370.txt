@@ -1,0 +1,5 @@
+reading(0.251)
+pointing(0.189)
+adult+male+speaking(0.033)
+hugging(0.030)
+talking(0.019)

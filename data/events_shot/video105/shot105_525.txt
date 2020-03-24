@@ -1,0 +1,5 @@
+slapping(0.759)
+smiling(0.036)
+winking(0.023)
+asking(0.017)
+knocking(0.012)

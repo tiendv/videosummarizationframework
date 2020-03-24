@@ -1,5 +1,0 @@
-drinking(0.047)
-dropping(0.031)
-slicing(0.025)
-cooking(0.024)
-dining(0.023)

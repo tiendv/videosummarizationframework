@@ -1,0 +1,5 @@
+kissing(0.243)
+hugging(0.036)
+queuing(0.031)
+cuddling(0.021)
+arresting(0.020)

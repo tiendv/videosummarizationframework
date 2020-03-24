@@ -1,0 +1,5 @@
+tapping(0.136)
+smiling(0.071)
+adult+male+speaking(0.045)
+slapping(0.036)
+waving(0.030)

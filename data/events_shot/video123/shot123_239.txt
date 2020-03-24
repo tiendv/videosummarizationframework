@@ -1,0 +1,5 @@
+adult+male+speaking(0.148)
+snapping(0.072)
+smiling(0.048)
+spitting(0.039)
+laughing(0.038)

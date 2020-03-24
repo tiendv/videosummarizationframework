@@ -1,0 +1,5 @@
+building(0.144)
+starting(0.050)
+working(0.049)
+loading(0.043)
+talking(0.039)

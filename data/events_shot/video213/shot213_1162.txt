@@ -1,5 +1,0 @@
-hitchhiking(0.177)
-bicycling(0.090)
-child+speaking(0.037)
-riding(0.034)
-towing(0.033)

@@ -1,0 +1,5 @@
+howling(0.652)
+barking(0.071)
+sitting(0.040)
+yawning(0.023)
+whistling(0.014)

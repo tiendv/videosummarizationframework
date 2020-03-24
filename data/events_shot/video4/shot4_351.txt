@@ -1,0 +1,5 @@
+sitting(0.052)
+kissing(0.048)
+drinking(0.026)
+adult+male+speaking(0.023)
+waking(0.023)

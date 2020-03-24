@@ -1,5 +1,0 @@
-arresting(0.125)
-cleaning(0.079)
-exiting(0.072)
-stealing(0.067)
-washing(0.046)

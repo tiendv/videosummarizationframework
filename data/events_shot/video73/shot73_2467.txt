@@ -1,0 +1,5 @@
+exercising(0.123)
+running(0.100)
+playing+videogames(0.094)
+sprinting(0.067)
+walking(0.058)

@@ -1,5 +1,0 @@
-cooking(0.107)
-stirring(0.066)
-dining(0.060)
-slicing(0.049)
-chopping(0.047)

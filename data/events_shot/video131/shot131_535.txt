@@ -1,0 +1,5 @@
+packing(0.100)
+selling(0.077)
+drying(0.052)
+gardening(0.037)
+unpacking(0.035)

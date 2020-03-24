@@ -1,0 +1,5 @@
+adult+female+singing(0.484)
+singing(0.144)
+performing(0.076)
+rocking(0.037)
+playing+videogames(0.022)

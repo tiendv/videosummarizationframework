@@ -1,0 +1,5 @@
+walking(0.228)
+carrying(0.032)
+raining(0.030)
+exiting(0.028)
+arresting(0.027)

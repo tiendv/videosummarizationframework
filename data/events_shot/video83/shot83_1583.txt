@@ -1,0 +1,5 @@
+hugging(0.077)
+autographing(0.058)
+adult+male+speaking(0.045)
+kissing(0.039)
+walking(0.034)

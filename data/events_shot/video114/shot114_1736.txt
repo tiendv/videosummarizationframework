@@ -1,0 +1,5 @@
+adult+female+speaking(0.044)
+slapping(0.024)
+adult+male+speaking(0.021)
+walking(0.020)
+hitchhiking(0.019)

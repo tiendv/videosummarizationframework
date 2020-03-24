@@ -1,0 +1,5 @@
+adult+female+speaking(0.047)
+stealing(0.025)
+slapping(0.021)
+punching(0.021)
+adult+male+speaking(0.018)

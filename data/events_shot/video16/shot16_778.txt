@@ -1,5 +1,0 @@
-walking(0.076)
-standing(0.065)
-talking(0.041)
-hugging(0.037)
-cracking(0.030)

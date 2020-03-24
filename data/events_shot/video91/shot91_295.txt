@@ -1,0 +1,5 @@
+mopping(0.158)
+cooking(0.065)
+fighting(0.031)
+cleaning(0.031)
+dusting(0.029)

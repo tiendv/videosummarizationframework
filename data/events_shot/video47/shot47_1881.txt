@@ -1,5 +1,0 @@
-sanding(0.238)
-snowing(0.065)
-sawing(0.045)
-painting(0.036)
-welding(0.026)

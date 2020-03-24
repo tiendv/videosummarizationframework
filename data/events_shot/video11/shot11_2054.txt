@@ -1,0 +1,5 @@
+bowing(0.049)
+smiling(0.041)
+sitting(0.040)
+laughing(0.034)
+hugging(0.027)

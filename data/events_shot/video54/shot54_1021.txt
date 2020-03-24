@@ -1,0 +1,5 @@
+adult+male+speaking(0.128)
+gardening(0.054)
+starting(0.047)
+discussing(0.039)
+standing(0.029)

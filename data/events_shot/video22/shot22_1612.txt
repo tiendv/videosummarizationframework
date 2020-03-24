@@ -1,0 +1,5 @@
+arresting(0.078)
+guarding(0.076)
+knocking(0.048)
+filming(0.046)
+locking(0.043)

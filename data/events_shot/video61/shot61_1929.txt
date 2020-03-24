@@ -1,0 +1,5 @@
+punching(0.205)
+talking(0.037)
+boxing(0.033)
+fighting(0.031)
+turning(0.030)

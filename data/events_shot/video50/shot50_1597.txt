@@ -1,6 +1,0 @@
-climbing(0.078)
-raining(0.067)
-storming(0.049)
-hunting(0.034)
-falling(0.031)
-+male+speaking(0.043)

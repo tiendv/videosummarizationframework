@@ -1,0 +1,5 @@
+digging(0.157)
+burying(0.095)
+camping(0.077)
+wrestling(0.029)
+performing(0.017)

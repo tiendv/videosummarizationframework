@@ -1,0 +1,5 @@
+crying(0.134)
+smiling(0.089)
+laughing(0.069)
+cooking(0.045)
+baking(0.044)

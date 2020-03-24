@@ -1,0 +1,5 @@
+smiling(0.126)
+clapping(0.118)
+applauding(0.080)
+adult+female+singing(0.066)
+cheering(0.055)

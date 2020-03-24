@@ -1,5 +1,0 @@
-shooting(0.072)
-shaving(0.051)
-aiming(0.040)
-filming(0.040)
-adult+male+singing(0.033)

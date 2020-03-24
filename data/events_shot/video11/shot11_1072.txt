@@ -1,0 +1,5 @@
+kissing(0.531)
+hugging(0.065)
+cuddling(0.017)
+fighting(0.017)
+licking(0.016)

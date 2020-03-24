@@ -1,0 +1,5 @@
+chewing(0.067)
+adult+female+speaking(0.060)
+unpacking(0.054)
+packing(0.054)
+eating(0.036)

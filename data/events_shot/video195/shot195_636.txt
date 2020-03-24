@@ -1,5 +1,0 @@
-adult+male+speaking(0.109)
-cleaning(0.058)
-mopping(0.053)
-standing(0.041)
-dusting(0.025)

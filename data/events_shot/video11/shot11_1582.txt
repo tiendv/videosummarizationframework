@@ -1,0 +1,5 @@
+telephoning(0.353)
+calling(0.180)
+crying(0.087)
+winking(0.035)
+filming(0.030)

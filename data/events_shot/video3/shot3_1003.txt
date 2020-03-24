@@ -1,0 +1,5 @@
+coughing(0.058)
+filming(0.041)
+walking(0.027)
+standing(0.025)
+adult+male+speaking(0.024)

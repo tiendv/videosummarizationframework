@@ -1,0 +1,5 @@
+adult+female+speaking(0.101)
+adult+female+singing(0.051)
+child+speaking(0.039)
+hugging(0.032)
+baking(0.029)

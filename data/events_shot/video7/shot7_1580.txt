@@ -1,5 +1,0 @@
-bowling(0.918)
-aiming(0.052)
-rolling(0.009)
-playing+videogames(0.001)
-gambling(0.001)

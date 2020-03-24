@@ -1,0 +1,5 @@
+hunting(0.049)
+hiking(0.038)
+running(0.034)
+shooting(0.028)
+walking(0.027)

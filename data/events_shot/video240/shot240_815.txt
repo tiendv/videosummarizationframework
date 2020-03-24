@@ -1,5 +1,0 @@
-adult+female+speaking(0.110)
-dusting(0.034)
-cleaning(0.025)
-adult+male+speaking(0.021)
-vacuuming(0.020)

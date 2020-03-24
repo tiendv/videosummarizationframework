@@ -1,0 +1,5 @@
+bicycling(0.489)
+pedaling(0.075)
+snowing(0.052)
+washing(0.031)
+raining(0.030)

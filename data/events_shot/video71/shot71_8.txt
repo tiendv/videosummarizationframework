@@ -1,0 +1,5 @@
+drinking(0.098)
+cooking(0.049)
+flipping(0.028)
+frying(0.026)
+spitting(0.024)

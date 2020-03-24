@@ -1,0 +1,5 @@
+sneezing(0.104)
+coughing(0.069)
+slapping(0.066)
+cracking(0.049)
+waking(0.044)

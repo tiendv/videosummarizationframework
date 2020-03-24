@@ -1,0 +1,5 @@
+walking(0.593)
+standing(0.027)
+turning(0.024)
+pushing(0.024)
+entering(0.018)

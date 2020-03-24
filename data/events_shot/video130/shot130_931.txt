@@ -1,5 +1,0 @@
-brushing(0.335)
-shaving(0.066)
-painting(0.061)
-combing(0.055)
-drying(0.045)

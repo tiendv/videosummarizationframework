@@ -1,0 +1,5 @@
+fencing(0.094)
+guarding(0.054)
+walking(0.045)
+adult+male+speaking(0.029)
+filming(0.026)

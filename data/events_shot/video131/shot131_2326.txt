@@ -1,0 +1,5 @@
+adult+male+singing(0.094)
+adult+male+speaking(0.080)
+sitting(0.073)
+officiating(0.072)
+praying(0.057)

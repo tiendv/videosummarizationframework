@@ -1,0 +1,5 @@
+walking(0.341)
+hiking(0.266)
+exiting(0.065)
+hitchhiking(0.038)
+camping(0.026)

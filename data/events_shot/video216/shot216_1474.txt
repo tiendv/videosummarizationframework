@@ -1,5 +1,0 @@
-adult+female+singing(0.070)
-adult+male+singing(0.058)
-knocking(0.050)
-filming(0.040)
-playing+videogames(0.039)

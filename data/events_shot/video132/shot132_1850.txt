@@ -1,0 +1,5 @@
+storming(0.248)
+raining(0.102)
+juggling(0.069)
+destroying(0.030)
+dropping(0.023)

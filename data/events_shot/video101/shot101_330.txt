@@ -1,0 +1,5 @@
+rubbing(0.070)
+scratching(0.042)
+frowning(0.038)
+crying(0.037)
+adult+male+speaking(0.030)

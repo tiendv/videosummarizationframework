@@ -1,0 +1,5 @@
+slapping(0.207)
+sneezing(0.075)
+spitting(0.049)
+pointing(0.046)
+punching(0.044)

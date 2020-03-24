@@ -1,5 +1,0 @@
-hanging(0.088)
-stomping(0.032)
-feeding(0.021)
-standing(0.021)
-walking(0.018)

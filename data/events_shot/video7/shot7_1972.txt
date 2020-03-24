@@ -1,5 +1,0 @@
-adult+male+speaking(0.050)
-shaking(0.028)
-coughing(0.027)
-talking(0.024)
-laughing(0.023)

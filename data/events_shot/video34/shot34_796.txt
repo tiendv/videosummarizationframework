@@ -1,0 +1,5 @@
+marching(0.389)
+parading(0.082)
+saluting(0.057)
+fighting(0.042)
+standing(0.029)

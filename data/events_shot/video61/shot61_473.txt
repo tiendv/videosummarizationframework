@@ -1,0 +1,5 @@
+marrying(0.181)
+walking(0.136)
+smiling(0.105)
+exiting(0.075)
+entering(0.035)

@@ -1,5 +1,0 @@
-shooting(0.041)
-knocking(0.035)
-opening(0.032)
-raining(0.030)
-walking(0.029)

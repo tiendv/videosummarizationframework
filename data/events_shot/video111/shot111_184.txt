@@ -1,0 +1,5 @@
+hanging(0.031)
+pointing(0.030)
+painting(0.029)
+drawing(0.025)
+reaching(0.022)

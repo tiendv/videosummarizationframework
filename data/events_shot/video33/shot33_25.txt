@@ -1,0 +1,5 @@
+slapping(0.088)
+snapping(0.070)
+yawning(0.036)
+combing(0.035)
+adult+male+speaking(0.025)

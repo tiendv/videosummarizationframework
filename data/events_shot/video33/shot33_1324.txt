@@ -1,0 +1,5 @@
+loading(0.065)
+mowing(0.035)
+exiting(0.031)
+walking(0.028)
+driving(0.028)

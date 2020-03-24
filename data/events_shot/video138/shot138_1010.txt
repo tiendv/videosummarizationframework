@@ -1,5 +1,0 @@
-talking(0.096)
-discussing(0.081)
-adult+male+speaking(0.030)
-adult+female+speaking(0.023)
-driving(0.021)

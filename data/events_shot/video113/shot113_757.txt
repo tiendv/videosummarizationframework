@@ -1,0 +1,5 @@
+preaching(0.176)
+pointing(0.073)
+adult+male+speaking(0.072)
+lecturing(0.038)
+telephoning(0.020)

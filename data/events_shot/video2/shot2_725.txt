@@ -1,0 +1,5 @@
+adult+male+speaking(0.141)
+crying(0.094)
+lecturing(0.058)
+talking(0.050)
+locking(0.035)

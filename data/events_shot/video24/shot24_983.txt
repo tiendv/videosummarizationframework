@@ -1,0 +1,5 @@
+drying(0.077)
+washing(0.056)
+walking(0.042)
+drinking(0.034)
+coughing(0.029)

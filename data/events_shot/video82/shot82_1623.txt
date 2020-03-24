@@ -1,0 +1,5 @@
+adult+male+speaking(0.082)
+adult+female+speaking(0.069)
+inflating(0.042)
+talking(0.037)
+discussing(0.033)

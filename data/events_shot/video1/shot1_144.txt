@@ -1,0 +1,5 @@
+talking(0.281)
+arresting(0.059)
+standing(0.058)
+guarding(0.058)
+starting(0.053)

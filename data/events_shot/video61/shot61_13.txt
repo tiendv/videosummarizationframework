@@ -1,0 +1,5 @@
+adult+female+singing(0.073)
+adult+female+speaking(0.060)
+playing+videogames(0.049)
+crying(0.048)
+talking(0.042)

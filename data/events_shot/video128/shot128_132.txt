@@ -1,5 +1,0 @@
-signing(0.108)
-adult+male+speaking(0.062)
-handwriting(0.051)
-autographing(0.043)
-writing(0.042)

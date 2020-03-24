@@ -1,0 +1,5 @@
+folding(0.180)
+stitching(0.123)
+manicuring(0.090)
+buttoning(0.070)
+dressing(0.057)

@@ -1,0 +1,5 @@
+cooking(0.094)
+coughing(0.072)
+drinking(0.070)
+eating(0.043)
+crying(0.037)

@@ -1,5 +1,0 @@
-flooding(0.216)
-raining(0.041)
-storming(0.037)
-building(0.021)
-playing+videogames(0.019)

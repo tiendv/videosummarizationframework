@@ -1,5 +1,0 @@
-arresting(0.053)
-handcuffing(0.042)
-laughing(0.029)
-attacking(0.025)
-cracking(0.025)

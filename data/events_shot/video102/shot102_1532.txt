@@ -1,0 +1,5 @@
+cuddling(0.703)
+snuggling(0.074)
+hugging(0.058)
+sleeping(0.033)
+adult+male+speaking(0.022)

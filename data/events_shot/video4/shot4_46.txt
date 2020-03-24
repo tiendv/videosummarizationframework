@@ -1,0 +1,5 @@
+raising(0.065)
+waving(0.038)
+celebrating(0.031)
+lifting(0.029)
+standing(0.028)

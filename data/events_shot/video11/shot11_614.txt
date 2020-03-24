@@ -1,0 +1,5 @@
+stealing(0.041)
+hitchhiking(0.039)
+adult+male+speaking(0.038)
+towing(0.027)
+asking(0.022)

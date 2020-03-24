@@ -1,0 +1,5 @@
+guarding(0.068)
+shooting(0.049)
+adult+male+singing(0.042)
+hunting(0.040)
+playing+videogames(0.040)

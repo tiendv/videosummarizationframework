@@ -1,0 +1,5 @@
+autographing(0.152)
+adult+male+speaking(0.053)
+signing(0.043)
+asking(0.033)
+discussing(0.026)

@@ -1,0 +1,5 @@
+cooking(0.151)
+frying(0.028)
+stomping(0.027)
+playing+videogames(0.027)
+stirring(0.024)

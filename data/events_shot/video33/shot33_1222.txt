@@ -1,0 +1,5 @@
+standing(0.058)
+laughing(0.036)
+skiing(0.028)
+asking(0.021)
+imitating(0.019)

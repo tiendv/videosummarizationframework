@@ -1,0 +1,5 @@
+marrying(0.079)
+hugging(0.069)
+walking(0.053)
+baptizing(0.050)
+joining(0.040)

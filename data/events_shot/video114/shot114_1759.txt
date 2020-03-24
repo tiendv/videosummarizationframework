@@ -1,0 +1,5 @@
+slapping(0.165)
+snapping(0.081)
+child+speaking(0.063)
+walking(0.037)
+shrugging(0.036)

@@ -1,0 +1,5 @@
+dancing(0.221)
+shaking(0.070)
+rocking(0.069)
+adult+female+singing(0.045)
+twisting(0.037)

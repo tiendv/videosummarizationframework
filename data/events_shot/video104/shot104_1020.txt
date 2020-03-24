@@ -1,0 +1,5 @@
+baking(0.380)
+cooking(0.100)
+talking(0.037)
+mopping(0.030)
+adult+female+speaking(0.019)

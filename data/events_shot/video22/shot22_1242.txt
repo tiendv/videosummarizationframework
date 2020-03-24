@@ -1,0 +1,5 @@
+shaking(0.088)
+drinking(0.080)
+adult+male+speaking(0.043)
+slapping(0.038)
+standing(0.033)

@@ -1,0 +1,5 @@
+filming(0.055)
+raining(0.047)
+kissing(0.030)
+smoking(0.027)
+snowing(0.024)

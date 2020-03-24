@@ -1,0 +1,5 @@
+opening(0.213)
+closing(0.164)
+locking(0.027)
+starting(0.018)
+working(0.014)

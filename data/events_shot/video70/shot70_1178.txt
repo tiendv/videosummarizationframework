@@ -1,5 +1,0 @@
-fighting(0.055)
-playing+videogames(0.042)
-attacking(0.041)
-arresting(0.035)
-walking(0.035)

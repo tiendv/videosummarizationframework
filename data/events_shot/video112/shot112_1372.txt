@@ -1,0 +1,5 @@
+lecturing(0.329)
+adult+male+speaking(0.107)
+discussing(0.080)
+pointing(0.044)
+officiating(0.036)

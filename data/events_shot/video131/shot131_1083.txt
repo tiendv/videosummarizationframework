@@ -1,0 +1,5 @@
+crying(0.234)
+sneezing(0.036)
+calling(0.033)
+waking(0.032)
+praying(0.032)

@@ -1,5 +1,0 @@
-barking(0.063)
-pressing(0.033)
-howling(0.032)
-knocking(0.029)
-pushing(0.029)

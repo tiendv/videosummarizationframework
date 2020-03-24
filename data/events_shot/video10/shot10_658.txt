@@ -1,5 +1,0 @@
-towing(0.949)
-driving(0.012)
-steering(0.006)
-loading(0.005)
-pulling(0.004)

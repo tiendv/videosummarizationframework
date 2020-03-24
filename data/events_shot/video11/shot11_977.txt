@@ -1,0 +1,5 @@
+working(0.037)
+stacking(0.031)
+adult+male+speaking(0.031)
+painting(0.029)
+playing+videogames(0.026)

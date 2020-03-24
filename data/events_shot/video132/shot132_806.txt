@@ -1,0 +1,5 @@
+laughing(0.077)
+standing(0.046)
+talking(0.035)
+guarding(0.035)
+adult+male+speaking(0.029)

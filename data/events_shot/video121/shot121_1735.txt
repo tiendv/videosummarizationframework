@@ -1,0 +1,5 @@
+hugging(0.243)
+fighting(0.087)
+slapping(0.087)
+arresting(0.078)
+queuing(0.075)

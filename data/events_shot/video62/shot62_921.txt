@@ -1,0 +1,5 @@
+talking(0.066)
+standing(0.058)
+asking(0.051)
+arresting(0.044)
+discussing(0.043)

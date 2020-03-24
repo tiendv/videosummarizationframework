@@ -1,0 +1,5 @@
+gripping(0.251)
+handcuffing(0.188)
+locking(0.057)
+arresting(0.020)
+guarding(0.014)

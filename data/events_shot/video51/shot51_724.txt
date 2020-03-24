@@ -1,0 +1,5 @@
+knocking(0.179)
+walking(0.118)
+standing(0.084)
+opening(0.083)
+whistling(0.055)

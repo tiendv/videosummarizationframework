@@ -1,0 +1,5 @@
+laughing(0.062)
+shaking(0.038)
+cleaning(0.025)
+standing(0.024)
+walking(0.023)

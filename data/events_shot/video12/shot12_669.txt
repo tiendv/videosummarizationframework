@@ -1,0 +1,5 @@
+sneezing(0.081)
+crying(0.068)
+adult+male+speaking(0.040)
+talking(0.027)
+bowing(0.022)

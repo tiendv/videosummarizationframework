@@ -1,0 +1,5 @@
+crying(0.198)
+snapping(0.130)
+adult+male+speaking(0.063)
+frowning(0.045)
+adult+female+speaking(0.044)

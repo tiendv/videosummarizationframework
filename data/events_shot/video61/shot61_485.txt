@@ -1,0 +1,5 @@
+dining(0.111)
+drinking(0.104)
+autographing(0.059)
+eating(0.036)
+baptizing(0.032)

@@ -1,5 +1,0 @@
-taping(0.079)
-adult+male+speaking(0.067)
-adult+female+speaking(0.064)
-discussing(0.050)
-interviewing(0.050)

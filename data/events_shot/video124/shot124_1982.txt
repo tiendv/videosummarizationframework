@@ -1,0 +1,5 @@
+sneezing(0.156)
+waking(0.084)
+coughing(0.076)
+crying(0.064)
+child+speaking(0.053)

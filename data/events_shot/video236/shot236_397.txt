@@ -1,5 +1,0 @@
-drinking(0.105)
-adult+male+speaking(0.091)
-talking(0.058)
-discussing(0.052)
-playing+videogames(0.029)

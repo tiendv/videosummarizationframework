@@ -1,0 +1,5 @@
+tickling(0.176)
+waking(0.145)
+sleeping(0.083)
+slapping(0.062)
+laughing(0.051)

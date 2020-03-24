@@ -1,5 +1,0 @@
-exiting(0.129)
-shopping(0.101)
-entering(0.084)
-stealing(0.072)
-buying(0.061)

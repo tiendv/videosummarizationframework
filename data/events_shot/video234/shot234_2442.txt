@@ -1,5 +1,0 @@
-juggling(0.105)
-signing(0.035)
-adult+female+speaking(0.028)
-asking(0.028)
-picking(0.024)

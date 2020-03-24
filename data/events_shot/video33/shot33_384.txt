@@ -1,0 +1,5 @@
+painting(0.054)
+carving(0.049)
+tattooing(0.041)
+inflating(0.034)
+manicuring(0.034)

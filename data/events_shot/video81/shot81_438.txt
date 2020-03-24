@@ -1,0 +1,5 @@
+reading(0.442)
+autographing(0.191)
+opening(0.054)
+giving(0.023)
+closing(0.015)

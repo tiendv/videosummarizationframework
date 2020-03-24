@@ -1,0 +1,5 @@
+spinning(0.073)
+gripping(0.037)
+walking(0.037)
+standing(0.027)
+starting(0.022)

@@ -1,0 +1,5 @@
+walking(0.140)
+asking(0.038)
+adult+male+speaking(0.037)
+standing(0.031)
+filming(0.026)

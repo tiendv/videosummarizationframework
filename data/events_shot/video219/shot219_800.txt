@@ -1,5 +1,0 @@
-walking(0.068)
-adult+male+speaking(0.026)
-running(0.026)
-carrying(0.020)
-filming(0.020)

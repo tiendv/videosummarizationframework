@@ -1,0 +1,5 @@
+dressing(0.179)
+tying(0.154)
+buttoning(0.087)
+inflating(0.045)
+handcuffing(0.037)

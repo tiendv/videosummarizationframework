@@ -1,0 +1,5 @@
+folding(0.956)
+opening(0.016)
+tearing(0.007)
+closing(0.005)
+reading(0.004)

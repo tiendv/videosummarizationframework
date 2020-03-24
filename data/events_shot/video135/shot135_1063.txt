@@ -1,5 +1,0 @@
-tapping(0.468)
-rubbing(0.057)
-sliding(0.031)
-dragging(0.018)
-turning(0.018)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.061)
+discussing(0.058)
+painting(0.042)
+frowning(0.038)
+tapping(0.025)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.125)
+discussing(0.030)
+painting(0.024)
+pointing(0.021)
+reading(0.020)

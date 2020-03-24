@@ -1,5 +1,0 @@
-painting(0.049)
-queuing(0.048)
-sitting(0.042)
-praying(0.040)
-adult+male+speaking(0.036)

@@ -1,0 +1,5 @@
+hugging(0.229)
+adult+male+speaking(0.024)
+crying(0.023)
+cuddling(0.018)
+arresting(0.015)

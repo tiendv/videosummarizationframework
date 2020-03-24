@@ -1,0 +1,5 @@
+adult+male+speaking(0.038)
+playing+videogames(0.032)
+talking(0.027)
+clipping(0.025)
+calling(0.025)

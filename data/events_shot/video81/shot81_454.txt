@@ -1,0 +1,5 @@
+hugging(0.114)
+adult+male+speaking(0.048)
+playing+videogames(0.045)
+laughing(0.040)
+sneezing(0.021)

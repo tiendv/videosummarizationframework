@@ -1,0 +1,5 @@
+whistling(0.123)
+guarding(0.086)
+standing(0.076)
+walking(0.047)
+preaching(0.027)

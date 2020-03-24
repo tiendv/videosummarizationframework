@@ -1,5 +1,0 @@
-cuddling(0.050)
-snuggling(0.040)
-hugging(0.038)
-loading(0.021)
-adult+male+speaking(0.016)

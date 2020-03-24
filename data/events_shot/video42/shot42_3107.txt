@@ -1,0 +1,5 @@
+telephoning(0.170)
+calling(0.073)
+adult+female+speaking(0.047)
+adult+female+singing(0.035)
+arresting(0.030)

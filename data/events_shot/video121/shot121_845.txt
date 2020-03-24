@@ -1,0 +1,5 @@
+locking(0.222)
+measuring(0.098)
+operating(0.054)
+working(0.029)
+hanging(0.025)

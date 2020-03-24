@@ -1,0 +1,5 @@
+swimming(0.109)
+feeding(0.088)
+diving(0.069)
+wetting(0.048)
+biting(0.033)

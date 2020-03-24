@@ -1,0 +1,5 @@
+officiating(0.123)
+praying(0.121)
+standing(0.069)
+preaching(0.055)
+sneezing(0.039)

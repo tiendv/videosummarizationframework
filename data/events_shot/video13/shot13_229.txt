@@ -1,0 +1,5 @@
+hugging(0.067)
+cooking(0.037)
+cuddling(0.036)
+stirring(0.028)
+vacuuming(0.025)

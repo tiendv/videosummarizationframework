@@ -1,0 +1,5 @@
+standing(0.068)
+slapping(0.051)
+asking(0.030)
+talking(0.030)
+reaching(0.027)

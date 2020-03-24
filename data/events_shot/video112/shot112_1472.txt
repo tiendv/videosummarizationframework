@@ -1,0 +1,5 @@
+swinging(0.069)
+stretching(0.055)
+bouncing(0.051)
+mowing(0.043)
+adult+male+speaking(0.042)

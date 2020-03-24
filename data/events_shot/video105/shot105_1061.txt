@@ -1,0 +1,5 @@
+cooking(0.269)
+stirring(0.158)
+baking(0.125)
+dipping(0.103)
+manicuring(0.036)

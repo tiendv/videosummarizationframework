@@ -1,0 +1,5 @@
+hanging(0.072)
+gripping(0.054)
+squatting(0.032)
+lifting(0.026)
+standing(0.022)

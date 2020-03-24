@@ -1,0 +1,5 @@
+adult+male+speaking(0.103)
+mowing(0.070)
+trimming(0.044)
+asking(0.036)
+cutting(0.028)

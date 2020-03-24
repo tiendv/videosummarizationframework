@@ -1,0 +1,5 @@
+sneezing(0.227)
+howling(0.116)
+laughing(0.093)
+barking(0.090)
+coughing(0.057)

@@ -1,0 +1,5 @@
+baking(0.059)
+cooking(0.058)
+painting(0.039)
+stacking(0.027)
+adult+female+speaking(0.025)

@@ -1,0 +1,5 @@
+burying(0.111)
+measuring(0.021)
+rolling(0.020)
+snapping(0.020)
+digging(0.019)

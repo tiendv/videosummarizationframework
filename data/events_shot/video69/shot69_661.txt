@@ -1,5 +1,0 @@
-cooking(0.142)
-baking(0.091)
-dining(0.030)
-mopping(0.025)
-adult+male+speaking(0.022)

@@ -1,5 +1,0 @@
-opening(0.035)
-playing+music(0.030)
-gripping(0.027)
-playing+videogames(0.024)
-whistling(0.023)

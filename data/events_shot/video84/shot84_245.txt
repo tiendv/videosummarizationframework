@@ -1,0 +1,5 @@
+vacuuming(0.106)
+starting(0.022)
+putting(0.020)
+flipping(0.020)
+turning(0.018)

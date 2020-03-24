@@ -1,0 +1,5 @@
+fighting(0.038)
+walking(0.031)
+stealing(0.026)
+laughing(0.024)
+hugging(0.023)

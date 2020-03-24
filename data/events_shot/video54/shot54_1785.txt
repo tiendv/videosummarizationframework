@@ -1,0 +1,5 @@
+brushing(0.154)
+combing(0.122)
+frowning(0.086)
+painting(0.085)
+slapping(0.026)

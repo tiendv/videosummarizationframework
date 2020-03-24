@@ -1,0 +1,5 @@
+adult+male+speaking(0.109)
+knocking(0.049)
+coaching(0.046)
+punching(0.036)
+asking(0.033)

@@ -1,0 +1,5 @@
+tapping(0.072)
+frowning(0.060)
+whistling(0.055)
+asking(0.054)
+squinting(0.038)

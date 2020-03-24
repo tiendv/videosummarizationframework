@@ -1,0 +1,5 @@
+child+singing(0.224)
+child+speaking(0.202)
+squinting(0.075)
+imitating(0.049)
+standing(0.040)

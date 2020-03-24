@@ -1,0 +1,5 @@
+burning(0.080)
+spinning(0.059)
+slapping(0.046)
+punching(0.037)
+bowing(0.035)

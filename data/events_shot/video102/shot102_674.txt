@@ -1,0 +1,5 @@
+adult+male+speaking(0.054)
+carrying(0.027)
+slapping(0.027)
+telephoning(0.024)
+hugging(0.024)

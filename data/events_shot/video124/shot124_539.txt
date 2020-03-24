@@ -1,0 +1,5 @@
+walking(0.169)
+standing(0.088)
+guarding(0.042)
+running(0.027)
+singing(0.020)

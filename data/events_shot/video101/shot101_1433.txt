@@ -1,0 +1,5 @@
+sitting(0.119)
+adult+male+speaking(0.083)
+sleeping(0.040)
+discussing(0.040)
+cuddling(0.038)

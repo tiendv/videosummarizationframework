@@ -1,0 +1,5 @@
+saluting(0.078)
+queuing(0.065)
+guarding(0.052)
+walking(0.041)
+hugging(0.035)

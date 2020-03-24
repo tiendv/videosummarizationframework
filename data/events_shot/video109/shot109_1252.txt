@@ -1,5 +1,0 @@
-queuing(0.105)
-discussing(0.049)
-asking(0.037)
-adult+male+speaking(0.032)
-selling(0.031)

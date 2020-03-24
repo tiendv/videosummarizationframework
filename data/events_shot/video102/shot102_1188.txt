@@ -1,0 +1,5 @@
+loading(0.066)
+handcuffing(0.060)
+lifting(0.054)
+assembling(0.041)
+repairing(0.036)

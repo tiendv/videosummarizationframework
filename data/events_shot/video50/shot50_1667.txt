@@ -1,5 +1,0 @@
-spinning(0.072)
-shooting(0.030)
-juggling(0.030)
-attacking(0.028)
-turning(0.025)

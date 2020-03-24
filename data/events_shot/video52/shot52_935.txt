@@ -1,0 +1,5 @@
+cleaning(0.044)
+washing(0.039)
+hitchhiking(0.033)
+exiting(0.024)
+walking(0.023)

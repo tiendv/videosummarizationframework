@@ -1,5 +1,0 @@
-telephoning(0.257)
-calling(0.095)
-driving(0.063)
-piloting(0.055)
-adult+female+speaking(0.054)

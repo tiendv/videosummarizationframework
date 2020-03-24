@@ -1,0 +1,5 @@
+kissing(0.080)
+waking(0.078)
+playing+videogames(0.049)
+sleeping(0.043)
+talking(0.027)

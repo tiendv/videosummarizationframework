@@ -1,0 +1,5 @@
+fueling(0.065)
+exiting(0.065)
+fencing(0.047)
+unloading(0.040)
+stopping(0.031)

@@ -1,0 +1,5 @@
+coughing(0.144)
+whistling(0.099)
+adult+female+singing(0.097)
+child+singing(0.064)
+singing(0.060)

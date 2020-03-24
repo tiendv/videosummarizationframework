@@ -1,5 +1,0 @@
-praying(0.184)
-sleeping(0.092)
-cuddling(0.069)
-adult+male+speaking(0.056)
-resting(0.036)

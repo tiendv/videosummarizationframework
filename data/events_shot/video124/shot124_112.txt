@@ -1,0 +1,5 @@
+slapping(0.107)
+knocking(0.062)
+walking(0.060)
+sneezing(0.033)
+pushing(0.032)

@@ -1,5 +1,0 @@
-drinking(0.112)
-giving(0.050)
-standing(0.046)
-bowing(0.033)
-joining(0.025)

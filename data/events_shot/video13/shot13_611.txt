@@ -1,0 +1,5 @@
+sleeping(0.249)
+welding(0.195)
+praying(0.036)
+bowing(0.035)
+kissing(0.035)

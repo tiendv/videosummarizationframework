@@ -1,0 +1,5 @@
+telephoning(0.159)
+calling(0.069)
+adult+male+speaking(0.041)
+painting(0.026)
+sneezing(0.025)

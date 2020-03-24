@@ -1,5 +1,0 @@
-dining(0.516)
-drinking(0.190)
-eating(0.090)
-cooking(0.011)
-stirring(0.011)

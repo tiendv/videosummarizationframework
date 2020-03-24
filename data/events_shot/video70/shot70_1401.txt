@@ -1,5 +1,0 @@
-knocking(0.639)
-locking(0.034)
-barking(0.026)
-adult+male+speaking(0.024)
-opening(0.021)

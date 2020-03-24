@@ -1,0 +1,5 @@
+walking(0.058)
+queuing(0.058)
+shopping(0.052)
+preaching(0.048)
+asking(0.041)

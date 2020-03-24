@@ -1,0 +1,5 @@
+rising(0.062)
+twisting(0.052)
+talking(0.049)
+turning(0.048)
+standing(0.031)

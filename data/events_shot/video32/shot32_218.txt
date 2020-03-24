@@ -1,0 +1,5 @@
+racing(0.068)
+jumping(0.052)
+crashing(0.050)
+skiing(0.044)
+flipping(0.037)

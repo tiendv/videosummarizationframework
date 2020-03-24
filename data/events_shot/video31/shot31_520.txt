@@ -1,0 +1,5 @@
+slapping(0.195)
+sneezing(0.052)
+coughing(0.047)
+adult+male+speaking(0.041)
+hugging(0.031)

@@ -1,0 +1,5 @@
+diving(0.159)
+climbing(0.082)
+hiking(0.069)
+jumping(0.049)
+digging(0.046)

@@ -1,0 +1,5 @@
+autographing(0.151)
+calling(0.069)
+telephoning(0.057)
+signing(0.052)
+adult+male+speaking(0.022)

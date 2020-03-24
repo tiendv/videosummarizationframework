@@ -1,0 +1,5 @@
+adult+male+speaking(0.140)
+standing(0.038)
+dressing(0.025)
+working(0.024)
+pointing(0.022)

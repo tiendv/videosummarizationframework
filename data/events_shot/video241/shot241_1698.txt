@@ -1,5 +1,0 @@
-walking(0.070)
-driving(0.048)
-filming(0.029)
-towing(0.026)
-exiting(0.025)

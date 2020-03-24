@@ -1,0 +1,5 @@
+spinning(0.875)
+turning(0.075)
+playing+videogames(0.006)
+rolling(0.002)
+playing(0.002)

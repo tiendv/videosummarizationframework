@@ -1,0 +1,5 @@
+cracking(0.058)
+hugging(0.057)
+adult+male+speaking(0.057)
+calling(0.038)
+telephoning(0.037)

@@ -1,5 +1,0 @@
-hugging(0.347)
-fighting(0.072)
-carrying(0.051)
-running(0.035)
-celebrating(0.026)

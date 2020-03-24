@@ -1,5 +1,0 @@
-adult+female+speaking(0.075)
-playing+videogames(0.063)
-talking(0.056)
-sitting(0.040)
-dining(0.035)

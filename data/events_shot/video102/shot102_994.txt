@@ -1,0 +1,5 @@
+waking(0.233)
+sleeping(0.128)
+laughing(0.042)
+coughing(0.039)
+slapping(0.024)

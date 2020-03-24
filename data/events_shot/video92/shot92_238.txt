@@ -1,0 +1,5 @@
+telephoning(0.186)
+calling(0.183)
+discussing(0.029)
+sitting(0.022)
+locking(0.021)

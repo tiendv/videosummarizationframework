@@ -1,0 +1,5 @@
+walking(0.093)
+adult+male+speaking(0.080)
+asking(0.040)
+preaching(0.040)
+filming(0.031)

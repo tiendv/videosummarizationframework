@@ -1,0 +1,5 @@
+opening(0.093)
+closing(0.089)
+interviewing(0.086)
+sitting(0.083)
+discussing(0.076)

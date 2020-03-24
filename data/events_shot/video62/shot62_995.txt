@@ -1,0 +1,5 @@
+gripping(0.031)
+drinking(0.028)
+adult+male+speaking(0.026)
+flicking(0.024)
+dipping(0.021)

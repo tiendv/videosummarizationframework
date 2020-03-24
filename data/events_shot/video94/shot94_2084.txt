@@ -1,0 +1,5 @@
+child+speaking(0.571)
+child+singing(0.146)
+preaching(0.097)
+standing(0.055)
+officiating(0.012)

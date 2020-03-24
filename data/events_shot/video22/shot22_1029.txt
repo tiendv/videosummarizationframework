@@ -1,0 +1,5 @@
+sneezing(0.050)
+slapping(0.033)
+adult+female+speaking(0.028)
+talking(0.027)
+coughing(0.025)

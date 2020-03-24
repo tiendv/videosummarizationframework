@@ -1,0 +1,5 @@
+standing(0.053)
+shopping(0.046)
+giving(0.037)
+talking(0.035)
+sitting(0.032)

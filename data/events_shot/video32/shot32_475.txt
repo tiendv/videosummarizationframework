@@ -1,0 +1,5 @@
+cooking(0.170)
+baking(0.134)
+talking(0.063)
+working(0.027)
+sitting(0.026)

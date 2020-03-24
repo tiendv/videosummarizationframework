@@ -1,0 +1,5 @@
+combing(0.061)
+pointing(0.058)
+brushing(0.049)
+discussing(0.047)
+adult+female+speaking(0.033)

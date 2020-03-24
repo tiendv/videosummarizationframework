@@ -1,0 +1,5 @@
+waking(0.125)
+sneezing(0.076)
+sleeping(0.041)
+resting(0.040)
+adult+female+singing(0.037)

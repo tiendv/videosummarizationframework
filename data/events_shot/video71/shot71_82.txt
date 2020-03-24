@@ -1,0 +1,5 @@
+chewing(0.040)
+adult+male+speaking(0.032)
+slapping(0.026)
+eating(0.019)
+hugging(0.017)

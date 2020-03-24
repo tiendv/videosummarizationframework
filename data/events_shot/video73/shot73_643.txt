@@ -1,0 +1,5 @@
+coughing(0.035)
+singing(0.033)
+slapping(0.026)
+talking(0.026)
+smoking(0.026)

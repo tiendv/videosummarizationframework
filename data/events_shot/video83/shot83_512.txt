@@ -1,0 +1,5 @@
+drinking(0.081)
+manicuring(0.047)
+laughing(0.044)
+adult+female+speaking(0.041)
+discussing(0.032)

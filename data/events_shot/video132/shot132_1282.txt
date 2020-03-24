@@ -1,0 +1,5 @@
+handwriting(0.431)
+writing(0.363)
+drawing(0.094)
+sketching(0.025)
+typing(0.011)

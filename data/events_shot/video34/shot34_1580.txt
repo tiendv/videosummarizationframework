@@ -1,0 +1,5 @@
+guarding(0.546)
+saluting(0.064)
+arresting(0.052)
+protesting(0.037)
+extinguishing(0.024)

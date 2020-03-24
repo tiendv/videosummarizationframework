@@ -1,5 +1,0 @@
-adult+male+speaking(0.073)
-standing(0.069)
-talking(0.046)
-walking(0.032)
-starting(0.030)

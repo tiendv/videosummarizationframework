@@ -1,0 +1,5 @@
+handcuffing(0.176)
+peeling(0.109)
+dressing(0.066)
+tying(0.063)
+buttoning(0.043)

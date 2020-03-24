@@ -1,0 +1,5 @@
+hugging(0.062)
+laughing(0.058)
+sneezing(0.050)
+coughing(0.044)
+arresting(0.030)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.280)
+discussing(0.070)
+asking(0.054)
+preaching(0.039)
+cramming(0.017)

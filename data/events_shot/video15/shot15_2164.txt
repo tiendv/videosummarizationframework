@@ -1,5 +1,0 @@
-walking(0.101)
-hitchhiking(0.077)
-adult+female+speaking(0.040)
-asking(0.031)
-running(0.030)

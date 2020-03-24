@@ -1,5 +1,0 @@
-walking(0.078)
-riding(0.049)
-standing(0.048)
-driving(0.045)
-talking(0.039)

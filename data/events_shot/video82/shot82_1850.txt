@@ -1,0 +1,5 @@
+standing(0.045)
+dancing(0.040)
+performing(0.037)
+hanging(0.036)
+jumping(0.030)

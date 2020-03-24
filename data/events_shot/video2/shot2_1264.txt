@@ -1,0 +1,5 @@
+mopping(0.331)
+sweeping(0.181)
+playing+music(0.063)
+bowing(0.040)
+dusting(0.028)

@@ -1,0 +1,5 @@
+loading(0.293)
+unloading(0.121)
+stacking(0.039)
+exiting(0.026)
+closing(0.024)

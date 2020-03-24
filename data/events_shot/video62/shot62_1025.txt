@@ -1,0 +1,5 @@
+pointing(0.069)
+frowning(0.067)
+adult+male+speaking(0.061)
+crying(0.032)
+winking(0.023)

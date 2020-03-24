@@ -1,0 +1,5 @@
+scrubbing(0.113)
+tapping(0.094)
+rubbing(0.076)
+cleaning(0.073)
+shaving(0.065)

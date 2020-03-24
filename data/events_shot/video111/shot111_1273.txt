@@ -1,0 +1,5 @@
+filming(0.084)
+walking(0.068)
+drinking(0.040)
+arresting(0.036)
+standing(0.024)

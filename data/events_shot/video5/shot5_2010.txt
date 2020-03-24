@@ -1,5 +1,0 @@
-hugging(0.048)
-telephoning(0.046)
-adult+male+speaking(0.042)
-calling(0.026)
-playing+videogames(0.024)

@@ -1,0 +1,5 @@
+knocking(0.258)
+opening(0.028)
+closing(0.027)
+barking(0.026)
+locking(0.026)

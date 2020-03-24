@@ -1,5 +1,0 @@
-adult+male+speaking(0.145)
-building(0.036)
-adult+female+speaking(0.034)
-standing(0.031)
-blocking(0.028)

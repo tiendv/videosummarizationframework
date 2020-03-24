@@ -1,0 +1,5 @@
+dining(0.252)
+walking(0.058)
+eating(0.057)
+adult+male+speaking(0.035)
+running(0.022)

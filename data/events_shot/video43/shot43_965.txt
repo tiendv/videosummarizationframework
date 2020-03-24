@@ -1,0 +1,5 @@
+driving(0.127)
+hugging(0.087)
+steering(0.037)
+cuddling(0.032)
+kissing(0.031)

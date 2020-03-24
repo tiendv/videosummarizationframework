@@ -1,0 +1,5 @@
+talking(0.028)
+smiling(0.026)
+discussing(0.024)
+asking(0.022)
+starting(0.020)

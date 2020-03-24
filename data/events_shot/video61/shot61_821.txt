@@ -1,0 +1,5 @@
+bowing(0.155)
+bending(0.101)
+stretching(0.047)
+praying(0.040)
+cracking(0.032)

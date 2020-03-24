@@ -1,0 +1,5 @@
+giving(0.029)
+signing(0.029)
+adult+male+speaking(0.026)
+hugging(0.022)
+autographing(0.022)

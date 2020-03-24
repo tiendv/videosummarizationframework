@@ -1,0 +1,5 @@
+fencing(0.076)
+adult+male+speaking(0.055)
+pointing(0.054)
+laughing(0.050)
+discussing(0.036)

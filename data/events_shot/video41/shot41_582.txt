@@ -1,6 +1,5 @@
-asking(0.174)
-slapping(0.110)
-adult+male+speaking(0.084)
-hugging(0.031)
-adult+female+speaking(0.025)
-
+sleeping(0.226)
+waking(0.115)
+resting(0.060)
+cuddling(0.049)
+crying(0.042)

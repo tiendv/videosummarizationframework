@@ -1,0 +1,5 @@
+applauding(0.070)
+celebrating(0.067)
+marching(0.049)
+dancing(0.042)
+standing(0.040)

@@ -1,0 +1,5 @@
+tickling(0.318)
+waking(0.237)
+crying(0.112)
+handcuffing(0.093)
+sleeping(0.042)

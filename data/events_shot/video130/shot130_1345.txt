@@ -1,5 +1,0 @@
-fighting(0.184)
-running(0.137)
-attacking(0.102)
-kicking(0.033)
-chasing(0.028)

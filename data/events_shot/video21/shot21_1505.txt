@@ -1,0 +1,5 @@
+adult+female+speaking(0.134)
+discussing(0.095)
+adult+male+speaking(0.093)
+lecturing(0.072)
+signing(0.069)

@@ -1,0 +1,5 @@
+knocking(0.217)
+walking(0.150)
+adult+male+speaking(0.044)
+opening(0.036)
+locking(0.035)

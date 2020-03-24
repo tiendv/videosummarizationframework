@@ -1,0 +1,5 @@
+adult+male+speaking(0.148)
+lecturing(0.067)
+coaching(0.055)
+slapping(0.052)
+discussing(0.042)

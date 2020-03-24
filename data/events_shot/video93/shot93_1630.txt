@@ -1,0 +1,5 @@
+walking(0.059)
+bowing(0.052)
+queuing(0.040)
+standing(0.036)
+adult+male+speaking(0.027)

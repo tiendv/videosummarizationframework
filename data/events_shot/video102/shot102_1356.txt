@@ -1,0 +1,5 @@
+applauding(0.154)
+stirring(0.084)
+clapping(0.051)
+cooking(0.042)
+standing(0.033)

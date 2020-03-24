@@ -1,5 +1,0 @@
-walking(0.168)
-carrying(0.067)
-crying(0.056)
-raining(0.042)
-shooting(0.042)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.185)
+adult+female+singing(0.138)
+marrying(0.035)
+adult+male+speaking(0.029)
+walking(0.027)

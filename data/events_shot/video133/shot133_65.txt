@@ -1,0 +1,5 @@
+sneezing(0.474)
+coughing(0.125)
+yawning(0.037)
+crying(0.032)
+squinting(0.026)

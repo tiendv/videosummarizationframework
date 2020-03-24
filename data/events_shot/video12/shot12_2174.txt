@@ -1,0 +1,5 @@
+adult+female+singing(0.071)
+hugging(0.065)
+handcuffing(0.055)
+arresting(0.054)
+adult+female+speaking(0.052)

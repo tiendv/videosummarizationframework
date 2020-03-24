@@ -1,0 +1,5 @@
+crying(0.211)
+frowning(0.039)
+licking(0.032)
+kissing(0.031)
+coaching(0.030)

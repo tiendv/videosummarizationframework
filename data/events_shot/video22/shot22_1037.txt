@@ -1,0 +1,5 @@
+adult+male+speaking(0.026)
+walking(0.026)
+running(0.022)
+packaging(0.020)
+hugging(0.020)

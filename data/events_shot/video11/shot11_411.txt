@@ -1,0 +1,5 @@
+talking(0.151)
+adult+male+speaking(0.107)
+discussing(0.089)
+shrugging(0.029)
+frowning(0.027)

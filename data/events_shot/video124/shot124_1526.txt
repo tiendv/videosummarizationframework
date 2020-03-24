@@ -1,0 +1,5 @@
+adult+male+speaking(0.146)
+adult+male+singing(0.075)
+tattooing(0.056)
+squinting(0.034)
+sneezing(0.025)

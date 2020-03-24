@@ -1,0 +1,5 @@
+hugging(0.036)
+walking(0.032)
+gardening(0.028)
+adult+female+speaking(0.022)
+slapping(0.021)

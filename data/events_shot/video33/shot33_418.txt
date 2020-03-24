@@ -1,0 +1,5 @@
+walking(0.106)
+running(0.071)
+jogging(0.058)
+fighting(0.040)
+adult+male+singing(0.030)

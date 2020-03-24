@@ -1,0 +1,5 @@
+reading(0.228)
+discussing(0.033)
+hugging(0.032)
+smiling(0.032)
+talking(0.031)

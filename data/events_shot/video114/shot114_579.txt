@@ -1,5 +1,0 @@
-hammering(0.142)
-painting(0.085)
-cooking(0.070)
-eating(0.044)
-working(0.032)

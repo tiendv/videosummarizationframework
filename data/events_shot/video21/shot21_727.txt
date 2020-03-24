@@ -1,0 +1,5 @@
+stomping(0.068)
+mopping(0.044)
+stretching(0.028)
+vacuuming(0.026)
+dusting(0.025)

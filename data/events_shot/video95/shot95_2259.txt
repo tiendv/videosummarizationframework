@@ -1,0 +1,5 @@
+sneezing(0.126)
+coughing(0.098)
+howling(0.074)
+filming(0.060)
+sniffing(0.042)

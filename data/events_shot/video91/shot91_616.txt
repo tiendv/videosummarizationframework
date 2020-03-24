@@ -1,0 +1,5 @@
+cracking(0.136)
+coughing(0.063)
+sleeping(0.045)
+waking(0.038)
+tying(0.034)

@@ -1,0 +1,5 @@
+drinking(0.075)
+adult+female+speaking(0.057)
+smiling(0.031)
+standing(0.031)
+sniffing(0.028)

@@ -1,0 +1,5 @@
+loading(0.100)
+unloading(0.070)
+hitchhiking(0.068)
+towing(0.055)
+walking(0.046)

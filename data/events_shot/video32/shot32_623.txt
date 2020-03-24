@@ -1,0 +1,5 @@
+dining(0.047)
+discussing(0.040)
+talking(0.031)
+piloting(0.025)
+pointing(0.022)

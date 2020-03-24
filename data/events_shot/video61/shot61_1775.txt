@@ -1,0 +1,5 @@
+preaching(0.150)
+sitting(0.064)
+walking(0.050)
+adult+male+speaking(0.047)
+riding(0.038)

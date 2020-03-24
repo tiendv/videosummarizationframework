@@ -1,5 +1,0 @@
-hugging(0.044)
-adult+female+singing(0.036)
-smiling(0.036)
-waving(0.031)
-clapping(0.025)

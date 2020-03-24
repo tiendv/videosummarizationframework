@@ -1,5 +1,0 @@
-opening(0.095)
-closing(0.078)
-knocking(0.065)
-entering(0.059)
-walking(0.030)

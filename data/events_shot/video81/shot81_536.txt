@@ -1,0 +1,5 @@
+hunting(0.094)
+guarding(0.064)
+standing(0.047)
+arresting(0.044)
+talking(0.037)

@@ -1,5 +1,0 @@
-walking(0.288)
-rowing(0.100)
-pushing(0.032)
-boating(0.027)
-jogging(0.026)

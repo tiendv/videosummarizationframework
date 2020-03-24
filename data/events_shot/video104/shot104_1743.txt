@@ -1,0 +1,5 @@
+knocking(0.396)
+calling(0.071)
+telephoning(0.047)
+punching(0.028)
+walking(0.020)

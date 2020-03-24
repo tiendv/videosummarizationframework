@@ -1,0 +1,5 @@
+loading(0.039)
+walking(0.033)
+drying(0.033)
+slapping(0.029)
+standing(0.027)

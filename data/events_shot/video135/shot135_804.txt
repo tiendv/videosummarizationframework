@@ -1,5 +1,0 @@
-adult+female+singing(0.333)
-cheerleading(0.033)
-performing(0.025)
-adult+female+speaking(0.021)
-dancing(0.018)

@@ -1,0 +1,5 @@
+adult+female+singing(0.405)
+knocking(0.058)
+dusting(0.024)
+fighting(0.021)
+mopping(0.021)

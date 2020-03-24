@@ -1,0 +1,5 @@
+dining(0.087)
+drinking(0.055)
+serving(0.037)
+playing+videogames(0.035)
+filming(0.029)

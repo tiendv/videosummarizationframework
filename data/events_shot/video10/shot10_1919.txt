@@ -1,5 +1,0 @@
-fencing(0.210)
-jumping(0.075)
-building(0.063)
-leaping(0.040)
-constructing(0.039)

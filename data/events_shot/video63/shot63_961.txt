@@ -1,0 +1,5 @@
+filming(0.100)
+walking(0.069)
+asking(0.048)
+hugging(0.033)
+photographing(0.029)

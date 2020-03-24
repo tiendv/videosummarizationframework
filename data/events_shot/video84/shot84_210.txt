@@ -1,0 +1,5 @@
+arresting(0.135)
+adult+male+speaking(0.058)
+handcuffing(0.050)
+autographing(0.050)
+laughing(0.035)

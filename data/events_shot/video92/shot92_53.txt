@@ -1,0 +1,5 @@
+hugging(0.084)
+asking(0.057)
+adult+female+speaking(0.041)
+slapping(0.031)
+autographing(0.031)

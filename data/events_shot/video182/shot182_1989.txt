@@ -1,5 +1,0 @@
-cleaning(0.175)
-shoveling(0.160)
-building(0.080)
-snowing(0.056)
-hanging(0.043)

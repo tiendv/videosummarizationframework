@@ -1,0 +1,5 @@
+mopping(0.111)
+entering(0.033)
+standing(0.025)
+adult+male+speaking(0.024)
+cleaning(0.021)

@@ -1,5 +1,0 @@
-adult+female+singing(0.051)
-adult+female+speaking(0.050)
-playing+music(0.050)
-drumming(0.033)
-tattooing(0.033)

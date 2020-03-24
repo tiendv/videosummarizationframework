@@ -1,5 +1,0 @@
-adult+female+speaking(0.123)
-discussing(0.058)
-dining(0.038)
-sitting(0.029)
-socializing(0.029)

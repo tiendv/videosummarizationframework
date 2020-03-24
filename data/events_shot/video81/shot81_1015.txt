@@ -1,0 +1,5 @@
+adult+female+singing(0.060)
+adult+male+singing(0.052)
+hugging(0.038)
+singing(0.030)
+filming(0.025)

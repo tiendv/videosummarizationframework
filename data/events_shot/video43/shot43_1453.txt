@@ -1,0 +1,5 @@
+standing(0.089)
+working(0.062)
+walking(0.036)
+skiing(0.033)
+building(0.033)

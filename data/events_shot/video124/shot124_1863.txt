@@ -1,0 +1,5 @@
+cutting(0.065)
+reading(0.050)
+drawing(0.039)
+tattooing(0.035)
+peeling(0.035)

@@ -1,5 +1,0 @@
-saluting(0.049)
-discussing(0.039)
-frowning(0.035)
-arresting(0.035)
-guarding(0.035)

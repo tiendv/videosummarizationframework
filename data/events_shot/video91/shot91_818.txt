@@ -1,0 +1,5 @@
+measuring(0.124)
+reading(0.065)
+adult+female+speaking(0.029)
+typing(0.025)
+handwriting(0.024)

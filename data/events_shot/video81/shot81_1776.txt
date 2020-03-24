@@ -1,0 +1,5 @@
+joining(0.082)
+marrying(0.077)
+adult+male+speaking(0.058)
+stopping(0.043)
+discussing(0.037)

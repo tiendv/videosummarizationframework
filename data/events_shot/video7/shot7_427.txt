@@ -1,5 +1,0 @@
-squatting(0.081)
-bowing(0.048)
-kneeling(0.022)
-lifting(0.021)
-bending(0.019)

@@ -1,0 +1,5 @@
+drying(0.099)
+talking(0.068)
+starting(0.040)
+turning(0.028)
+playing+videogames(0.025)

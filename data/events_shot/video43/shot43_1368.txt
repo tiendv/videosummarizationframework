@@ -1,0 +1,5 @@
+driving(0.150)
+walking(0.034)
+steering(0.033)
+arresting(0.030)
+riding(0.026)

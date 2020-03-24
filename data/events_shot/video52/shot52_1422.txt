@@ -1,0 +1,5 @@
+crying(0.153)
+shrugging(0.135)
+bowing(0.105)
+walking(0.054)
+pushing(0.032)

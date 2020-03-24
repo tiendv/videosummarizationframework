@@ -1,0 +1,5 @@
+telephoning(0.058)
+talking(0.049)
+laughing(0.043)
+child+speaking(0.040)
+sitting(0.025)

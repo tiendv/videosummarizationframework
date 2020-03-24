@@ -1,0 +1,5 @@
+guarding(0.079)
+laughing(0.076)
+standing(0.066)
+smiling(0.049)
+grinning(0.030)

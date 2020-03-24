@@ -1,5 +1,0 @@
-adult+female+singing(0.120)
-adult+male+singing(0.071)
-kissing(0.041)
-filming(0.039)
-adult+male+speaking(0.033)

@@ -1,5 +1,0 @@
-howling(0.232)
-barking(0.209)
-scratching(0.073)
-rubbing(0.025)
-cuddling(0.023)

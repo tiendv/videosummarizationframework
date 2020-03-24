@@ -1,0 +1,5 @@
+digging(0.294)
+ascending(0.115)
+burying(0.111)
+rising(0.094)
+descending(0.066)

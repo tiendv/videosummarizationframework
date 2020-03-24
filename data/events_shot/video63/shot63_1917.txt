@@ -1,0 +1,5 @@
+blocking(0.123)
+fighting(0.104)
+handcuffing(0.104)
+arresting(0.092)
+gripping(0.041)

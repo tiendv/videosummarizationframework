@@ -1,0 +1,5 @@
+brushing(0.173)
+drying(0.071)
+painting(0.063)
+washing(0.062)
+combing(0.057)

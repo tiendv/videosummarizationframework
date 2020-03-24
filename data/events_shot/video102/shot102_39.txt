@@ -1,0 +1,5 @@
+cooking(0.060)
+baking(0.038)
+rubbing(0.032)
+sitting(0.027)
+talking(0.027)

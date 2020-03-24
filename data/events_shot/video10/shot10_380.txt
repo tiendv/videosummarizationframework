@@ -1,5 +1,0 @@
-asking(0.200)
-slapping(0.152)
-fencing(0.058)
-adult+male+speaking(0.057)
-smiling(0.026)

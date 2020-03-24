@@ -1,0 +1,5 @@
+handcuffing(0.073)
+digging(0.066)
+stomping(0.061)
+burying(0.054)
+hiking(0.032)

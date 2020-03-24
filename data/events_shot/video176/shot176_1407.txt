@@ -1,5 +1,0 @@
-pointing(0.043)
-standing(0.039)
-adult+male+speaking(0.034)
-discussing(0.025)
-dining(0.022)

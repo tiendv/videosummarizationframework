@@ -1,5 +1,0 @@
-sneezing(0.098)
-laughing(0.094)
-tattooing(0.080)
-coughing(0.058)
-adult+female+speaking(0.034)

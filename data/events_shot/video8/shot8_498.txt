@@ -1,5 +1,0 @@
-queuing(0.281)
-dining(0.043)
-marching(0.037)
-adult+male+speaking(0.033)
-sitting(0.032)

@@ -1,0 +1,5 @@
+putting(0.169)
+performing(0.102)
+placing(0.063)
+bowing(0.044)
+adult+female+singing(0.043)

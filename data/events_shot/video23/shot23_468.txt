@@ -1,0 +1,5 @@
+hugging(0.082)
+blocking(0.032)
+handcuffing(0.030)
+standing(0.025)
+gripping(0.023)

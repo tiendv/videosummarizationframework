@@ -1,5 +1,0 @@
-starting(0.156)
-steering(0.073)
-talking(0.061)
-driving(0.040)
-cooking(0.027)

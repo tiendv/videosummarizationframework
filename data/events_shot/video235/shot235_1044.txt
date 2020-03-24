@@ -1,5 +1,0 @@
-hugging(0.049)
-adult+female+singing(0.033)
-filming(0.026)
-sneezing(0.025)
-adult+male+singing(0.025)

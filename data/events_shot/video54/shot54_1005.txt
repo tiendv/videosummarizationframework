@@ -1,0 +1,5 @@
+adult+female+singing(0.156)
+standing(0.041)
+mopping(0.040)
+walking(0.035)
+playing+videogames(0.030)

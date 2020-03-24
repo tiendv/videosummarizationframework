@@ -1,0 +1,5 @@
+reading(0.451)
+praying(0.124)
+preaching(0.048)
+adult+female+speaking(0.027)
+adult+male+speaking(0.020)

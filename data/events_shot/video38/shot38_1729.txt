@@ -1,5 +1,0 @@
-adult+male+speaking(0.150)
-discussing(0.101)
-interviewing(0.058)
-coaching(0.058)
-playing+videogames(0.055)

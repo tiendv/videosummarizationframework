@@ -1,0 +1,5 @@
+shooting(0.069)
+fighting(0.047)
+falling(0.045)
+dropping(0.034)
+attacking(0.033)

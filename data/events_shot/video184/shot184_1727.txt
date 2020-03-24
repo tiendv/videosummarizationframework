@@ -1,5 +1,0 @@
-running(0.091)
-fighting(0.085)
-playing+videogames(0.054)
-walking(0.047)
-attacking(0.039)

@@ -1,5 +1,0 @@
-crying(0.120)
-tapping(0.065)
-reading(0.044)
-talking(0.038)
-frowning(0.037)

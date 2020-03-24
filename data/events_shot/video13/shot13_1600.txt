@@ -1,0 +1,5 @@
+arresting(0.110)
+kissing(0.076)
+fighting(0.056)
+handcuffing(0.040)
+attacking(0.031)

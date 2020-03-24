@@ -1,0 +1,5 @@
+adult+male+speaking(0.202)
+knocking(0.093)
+discussing(0.068)
+blocking(0.046)
+arresting(0.042)

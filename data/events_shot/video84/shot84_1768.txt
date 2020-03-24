@@ -1,0 +1,5 @@
+carving(0.091)
+hammering(0.071)
+cooking(0.045)
+baptizing(0.032)
+blowing(0.029)

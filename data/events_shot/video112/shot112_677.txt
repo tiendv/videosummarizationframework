@@ -1,0 +1,5 @@
+clapping(0.080)
+signing(0.069)
+adult+male+speaking(0.067)
+standing(0.058)
+discussing(0.039)

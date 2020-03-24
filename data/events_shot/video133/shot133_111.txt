@@ -1,0 +1,5 @@
+sneezing(0.026)
+packing(0.026)
+laughing(0.023)
+walking(0.020)
+exiting(0.018)

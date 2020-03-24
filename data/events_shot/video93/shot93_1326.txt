@@ -1,0 +1,5 @@
+running(0.151)
+jogging(0.055)
+punching(0.036)
+fighting(0.027)
+filming(0.018)

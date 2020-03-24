@@ -1,0 +1,5 @@
+folding(0.150)
+packing(0.145)
+unpacking(0.060)
+inflating(0.044)
+cleaning(0.033)

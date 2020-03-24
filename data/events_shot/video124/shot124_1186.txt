@@ -1,0 +1,5 @@
+walking(0.053)
+flicking(0.038)
+running(0.032)
+throwing(0.030)
+sneezing(0.024)

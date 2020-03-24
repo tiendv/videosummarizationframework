@@ -1,0 +1,5 @@
+talking(0.129)
+adult+female+speaking(0.101)
+child+speaking(0.080)
+teaching(0.057)
+asking(0.050)

@@ -1,0 +1,5 @@
+walking(0.114)
+entering(0.037)
+sneezing(0.030)
+running(0.023)
+rolling(0.021)

@@ -1,0 +1,5 @@
+queuing(0.160)
+hugging(0.087)
+smiling(0.035)
+walking(0.028)
+asking(0.025)

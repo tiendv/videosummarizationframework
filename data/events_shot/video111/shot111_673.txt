@@ -1,0 +1,5 @@
+vacuuming(0.704)
+calling(0.026)
+telephoning(0.025)
+cleaning(0.022)
+mopping(0.020)

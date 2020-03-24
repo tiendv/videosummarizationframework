@@ -1,0 +1,5 @@
+tapping(0.414)
+scratching(0.037)
+adult+male+speaking(0.028)
+handcuffing(0.023)
+discussing(0.019)

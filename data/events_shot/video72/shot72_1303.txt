@@ -1,0 +1,5 @@
+talking(0.079)
+sitting(0.072)
+discussing(0.062)
+sneezing(0.057)
+selling(0.042)

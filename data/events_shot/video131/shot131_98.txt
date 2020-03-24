@@ -1,0 +1,5 @@
+adult+male+speaking(0.094)
+adult+female+speaking(0.088)
+talking(0.059)
+starting(0.039)
+shrugging(0.036)

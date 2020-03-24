@@ -1,5 +1,0 @@
-shooting(0.076)
-pointing(0.069)
-filming(0.049)
-walking(0.039)
-queuing(0.037)

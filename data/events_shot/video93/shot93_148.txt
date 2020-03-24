@@ -1,0 +1,5 @@
+hugging(0.170)
+carrying(0.089)
+smelling(0.035)
+stopping(0.035)
+arresting(0.034)

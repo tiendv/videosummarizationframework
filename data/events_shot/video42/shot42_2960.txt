@@ -1,0 +1,5 @@
+dressing(0.198)
+folding(0.102)
+wrapping(0.071)
+shopping(0.027)
+buttoning(0.027)

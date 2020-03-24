@@ -1,0 +1,5 @@
+drinking(0.091)
+opening(0.036)
+crying(0.034)
+shaving(0.028)
+laughing(0.028)

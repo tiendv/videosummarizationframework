@@ -1,5 +1,0 @@
-crying(0.256)
-laughing(0.112)
-hugging(0.067)
-kissing(0.030)
-slapping(0.019)

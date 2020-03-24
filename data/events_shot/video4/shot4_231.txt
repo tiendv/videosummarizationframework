@@ -1,0 +1,5 @@
+queuing(0.107)
+shopping(0.047)
+arresting(0.030)
+entering(0.028)
+stealing(0.027)

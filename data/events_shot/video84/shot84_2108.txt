@@ -1,0 +1,5 @@
+howling(0.883)
+barking(0.042)
+sneezing(0.012)
+yawning(0.011)
+licking(0.007)

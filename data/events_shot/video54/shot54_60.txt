@@ -1,0 +1,5 @@
+tapping(0.091)
+adult+male+speaking(0.047)
+slapping(0.038)
+brushing(0.038)
+drawing(0.035)

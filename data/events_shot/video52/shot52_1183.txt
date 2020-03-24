@@ -1,0 +1,5 @@
+walking(0.062)
+stacking(0.060)
+working(0.029)
+building(0.028)
+standing(0.028)

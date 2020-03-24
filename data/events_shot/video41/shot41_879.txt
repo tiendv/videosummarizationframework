@@ -1,6 +1,5 @@
-unpacking(0.102)
-folding(0.086)
-packing(0.074)
-tearing(0.060)
-wrapping(0.044)
-
+licking(0.256)
+adult+female+speaking(0.078)
+discussing(0.050)
+asking(0.039)
+drinking(0.034)

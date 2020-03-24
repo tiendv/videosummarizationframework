@@ -1,0 +1,5 @@
+standing(0.096)
+walking(0.072)
+talking(0.028)
+sneezing(0.028)
+knocking(0.026)

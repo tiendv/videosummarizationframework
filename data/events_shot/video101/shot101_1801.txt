@@ -1,0 +1,5 @@
+knocking(0.198)
+locking(0.075)
+dressing(0.044)
+tying(0.028)
+drying(0.024)

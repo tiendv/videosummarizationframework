@@ -1,0 +1,5 @@
+sitting(0.058)
+adult+male+speaking(0.048)
+playing+videogames(0.047)
+chewing(0.044)
+massaging(0.038)

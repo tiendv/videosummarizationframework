@@ -1,0 +1,5 @@
+exiting(0.116)
+entering(0.054)
+unpacking(0.041)
+adult+female+speaking(0.040)
+stealing(0.037)

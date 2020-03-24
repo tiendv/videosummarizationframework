@@ -1,0 +1,5 @@
+hunting(0.151)
+standing(0.058)
+fencing(0.043)
+guarding(0.028)
+walking(0.028)

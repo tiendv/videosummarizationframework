@@ -1,0 +1,5 @@
+exiting(0.060)
+smelling(0.050)
+entering(0.043)
+raining(0.037)
+asking(0.036)

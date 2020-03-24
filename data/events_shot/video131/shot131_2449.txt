@@ -1,0 +1,5 @@
+marrying(0.112)
+officiating(0.109)
+standing(0.064)
+smiling(0.058)
+performing(0.046)

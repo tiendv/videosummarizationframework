@@ -1,5 +1,0 @@
-crashing(0.078)
-smashing(0.050)
-hitting(0.044)
-attacking(0.040)
-colliding(0.038)

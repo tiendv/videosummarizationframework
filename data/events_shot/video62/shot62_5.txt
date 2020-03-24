@@ -1,0 +1,5 @@
+inflating(0.143)
+painting(0.103)
+stitching(0.086)
+wrapping(0.042)
+blowing(0.038)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.112)
+playing+videogames(0.088)
+discussing(0.042)
+sniffing(0.026)
+bowing(0.025)

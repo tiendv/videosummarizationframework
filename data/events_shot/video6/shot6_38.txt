@@ -1,5 +1,0 @@
-pointing(0.104)
-adult+male+speaking(0.048)
-walking(0.034)
-throwing(0.030)
-exiting(0.025)

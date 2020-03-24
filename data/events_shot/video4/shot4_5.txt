@@ -1,0 +1,5 @@
+dipping(0.101)
+cleaning(0.076)
+pouring(0.064)
+drinking(0.033)
+tapping(0.023)

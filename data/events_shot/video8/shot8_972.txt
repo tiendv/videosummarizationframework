@@ -1,5 +1,0 @@
-smiling(0.082)
-laughing(0.054)
-hugging(0.045)
-kissing(0.042)
-child+speaking(0.029)

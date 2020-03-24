@@ -1,0 +1,5 @@
+mopping(0.109)
+sweeping(0.106)
+bowing(0.034)
+hugging(0.024)
+walking(0.020)

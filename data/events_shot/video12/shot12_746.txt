@@ -1,0 +1,5 @@
+bowing(0.363)
+bending(0.071)
+praying(0.042)
+kneeling(0.035)
+laughing(0.034)

@@ -1,0 +1,5 @@
+slapping(0.138)
+sneezing(0.025)
+adult+female+speaking(0.024)
+adult+male+speaking(0.023)
+knocking(0.022)

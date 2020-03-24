@@ -1,5 +1,0 @@
-adult+female+singing(0.073)
-adult+male+singing(0.069)
-knocking(0.030)
-stealing(0.028)
-cleaning(0.020)

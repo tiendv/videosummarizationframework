@@ -1,0 +1,5 @@
+marrying(0.107)
+standing(0.090)
+officiating(0.084)
+interviewing(0.081)
+talking(0.066)

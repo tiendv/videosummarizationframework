@@ -1,0 +1,5 @@
+adult+male+speaking(0.067)
+stopping(0.053)
+crying(0.045)
+starting(0.043)
+clipping(0.026)

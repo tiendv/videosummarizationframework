@@ -1,5 +1,0 @@
-whistling(0.044)
-laughing(0.027)
-barking(0.024)
-playing+music(0.024)
-snapping(0.023)

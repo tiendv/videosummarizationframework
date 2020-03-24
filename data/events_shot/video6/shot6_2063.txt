@@ -1,5 +1,0 @@
-walking(0.107)
-knocking(0.092)
-adult+male+speaking(0.088)
-slapping(0.063)
-arresting(0.057)

@@ -1,0 +1,5 @@
+queuing(0.181)
+gambling(0.077)
+discussing(0.066)
+officiating(0.062)
+adult+male+speaking(0.042)

@@ -1,0 +1,5 @@
+diving(0.096)
+flying(0.036)
+crawling(0.032)
+playing+videogames(0.031)
+hiking(0.031)

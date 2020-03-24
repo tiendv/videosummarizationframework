@@ -1,0 +1,5 @@
+adult+male+speaking(0.071)
+walking(0.059)
+talking(0.052)
+standing(0.042)
+slapping(0.034)

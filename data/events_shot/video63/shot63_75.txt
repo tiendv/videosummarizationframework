@@ -1,0 +1,5 @@
+shooting(0.036)
+playing+videogames(0.033)
+hugging(0.024)
+carrying(0.023)
+aiming(0.023)

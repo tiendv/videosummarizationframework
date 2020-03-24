@@ -1,0 +1,5 @@
+drinking(0.155)
+brushing(0.028)
+shaving(0.024)
+washing(0.023)
+drying(0.022)

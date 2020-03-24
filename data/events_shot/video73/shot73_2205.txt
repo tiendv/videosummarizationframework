@@ -1,0 +1,5 @@
+clipping(0.045)
+coughing(0.036)
+telephoning(0.028)
+adult+male+speaking(0.025)
+sneezing(0.024)

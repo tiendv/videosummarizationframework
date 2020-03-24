@@ -1,0 +1,5 @@
+sneezing(0.147)
+manicuring(0.129)
+coughing(0.091)
+adult+female+speaking(0.059)
+reading(0.031)

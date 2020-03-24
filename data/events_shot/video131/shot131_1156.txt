@@ -1,0 +1,5 @@
+telephoning(0.166)
+calling(0.122)
+adult+male+speaking(0.087)
+guarding(0.042)
+pointing(0.029)

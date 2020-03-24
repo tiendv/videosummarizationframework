@@ -1,0 +1,5 @@
+shaving(0.113)
+combing(0.042)
+tattooing(0.024)
+drying(0.020)
+stacking(0.019)

@@ -1,0 +1,5 @@
+crying(0.320)
+shrugging(0.055)
+adult+female+speaking(0.054)
+frowning(0.040)
+smoking(0.023)

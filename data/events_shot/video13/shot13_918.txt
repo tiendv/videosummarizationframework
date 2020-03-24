@@ -1,0 +1,5 @@
+talking(0.060)
+coughing(0.046)
+starting(0.029)
+sneezing(0.029)
+whistling(0.023)

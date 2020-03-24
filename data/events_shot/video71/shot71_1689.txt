@@ -1,0 +1,5 @@
+praying(0.116)
+studying(0.106)
+reading(0.086)
+telephoning(0.043)
+crying(0.030)

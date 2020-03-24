@@ -1,0 +1,5 @@
+telephoning(0.207)
+calling(0.134)
+typing(0.061)
+grinning(0.045)
+adult+male+speaking(0.042)

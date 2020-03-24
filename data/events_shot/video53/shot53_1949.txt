@@ -1,0 +1,5 @@
+winking(0.054)
+shrugging(0.052)
+frowning(0.035)
+squinting(0.031)
+smelling(0.024)

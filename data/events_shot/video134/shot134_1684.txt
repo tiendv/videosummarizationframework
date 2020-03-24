@@ -1,0 +1,5 @@
+calling(0.191)
+telephoning(0.179)
+adult+male+speaking(0.030)
+shaving(0.011)
+crying(0.011)

@@ -1,5 +1,0 @@
-talking(0.142)
-pointing(0.094)
-standing(0.076)
-discussing(0.047)
-working(0.040)

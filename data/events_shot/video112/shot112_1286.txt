@@ -1,0 +1,5 @@
+spinning(0.460)
+flipping(0.064)
+turning(0.032)
+preaching(0.025)
+standing(0.023)

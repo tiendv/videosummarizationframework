@@ -1,0 +1,5 @@
+carving(0.058)
+reading(0.056)
+tattooing(0.051)
+sleeping(0.032)
+working(0.032)

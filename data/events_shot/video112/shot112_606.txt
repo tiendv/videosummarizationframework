@@ -1,0 +1,5 @@
+adult+male+speaking(0.151)
+painting(0.074)
+adult+female+speaking(0.054)
+smiling(0.048)
+asking(0.047)

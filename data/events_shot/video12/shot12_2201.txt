@@ -1,0 +1,5 @@
+opening(0.124)
+closing(0.122)
+inflating(0.086)
+entering(0.033)
+exiting(0.023)

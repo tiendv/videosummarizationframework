@@ -1,5 +1,0 @@
-sneezing(0.051)
-adult+female+speaking(0.043)
-telephoning(0.023)
-coughing(0.023)
-slapping(0.021)

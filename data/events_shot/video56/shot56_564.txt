@@ -1,5 +1,0 @@
-stomping(0.528)
-walking(0.024)
-plunging(0.024)
-standing(0.022)
-boating(0.016)

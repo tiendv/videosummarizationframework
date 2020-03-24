@@ -1,0 +1,5 @@
+tattooing(0.075)
+sitting(0.073)
+cuddling(0.061)
+sleeping(0.054)
+adult+male+speaking(0.049)

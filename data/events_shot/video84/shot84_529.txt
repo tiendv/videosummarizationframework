@@ -1,0 +1,5 @@
+calling(0.228)
+telephoning(0.140)
+cooking(0.131)
+laughing(0.038)
+boiling(0.033)

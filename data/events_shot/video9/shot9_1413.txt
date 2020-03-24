@@ -1,5 +1,0 @@
-marrying(0.080)
-standing(0.047)
-walking(0.029)
-hanging(0.027)
-painting(0.024)

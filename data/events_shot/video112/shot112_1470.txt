@@ -1,0 +1,5 @@
+bouncing(0.186)
+running(0.059)
+jogging(0.048)
+jumping(0.025)
+leaping(0.020)

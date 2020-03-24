@@ -1,0 +1,5 @@
+driving(0.080)
+steering(0.050)
+waking(0.021)
+piloting(0.020)
+fighting(0.020)

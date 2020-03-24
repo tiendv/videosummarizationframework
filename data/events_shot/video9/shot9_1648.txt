@@ -1,5 +1,0 @@
-shaving(0.458)
-crying(0.155)
-frowning(0.014)
-sneezing(0.013)
-adult+male+speaking(0.011)

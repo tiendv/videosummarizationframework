@@ -1,6 +1,0 @@
-walking(0.235)
-running(0.161)
-chasing(0.035)
-exiting(0.035)
-entering(0.028)
-4)

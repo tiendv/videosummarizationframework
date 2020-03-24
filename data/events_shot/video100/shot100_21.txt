@@ -1,5 +1,0 @@
-rising(0.158)
-burning(0.148)
-adult+female+singing(0.068)
-attacking(0.060)
-destroying(0.048)

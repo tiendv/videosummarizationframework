@@ -1,5 +1,0 @@
-walking(0.031)
-stealing(0.031)
-fueling(0.028)
-slapping(0.027)
-shopping(0.024)

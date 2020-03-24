@@ -1,0 +1,5 @@
+assembling(0.083)
+tying(0.080)
+gripping(0.060)
+removing(0.055)
+putting(0.049)

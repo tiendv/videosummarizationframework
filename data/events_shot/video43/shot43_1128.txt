@@ -1,0 +1,5 @@
+crying(0.631)
+sneezing(0.232)
+coughing(0.015)
+bowing(0.010)
+carrying(0.007)

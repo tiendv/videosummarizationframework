@@ -1,5 +1,0 @@
-sneezing(0.100)
-dressing(0.049)
-walking(0.045)
-hugging(0.038)
-standing(0.031)

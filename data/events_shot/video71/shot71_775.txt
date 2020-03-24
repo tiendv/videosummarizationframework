@@ -1,0 +1,5 @@
+juggling(0.099)
+running(0.086)
+kicking(0.048)
+dunking(0.046)
+throwing(0.041)

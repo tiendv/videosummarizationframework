@@ -1,0 +1,5 @@
+cooking(0.075)
+shopping(0.063)
+laughing(0.057)
+adult+female+speaking(0.040)
+talking(0.033)

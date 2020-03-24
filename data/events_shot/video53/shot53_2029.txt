@@ -1,0 +1,5 @@
+bouncing(0.216)
+adult+female+speaking(0.097)
+adult+female+singing(0.071)
+shaking(0.036)
+rocking(0.028)

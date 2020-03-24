@@ -1,5 +1,0 @@
-adult+male+speaking(0.129)
-asking(0.081)
-coaching(0.056)
-officiating(0.048)
-giving(0.044)

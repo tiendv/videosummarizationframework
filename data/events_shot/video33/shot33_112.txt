@@ -1,0 +1,5 @@
+crying(0.789)
+laughing(0.039)
+frowning(0.036)
+waxing(0.014)
+cracking(0.011)

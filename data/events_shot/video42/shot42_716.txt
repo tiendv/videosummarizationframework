@@ -1,0 +1,5 @@
+child+speaking(0.061)
+brushing(0.029)
+crafting(0.029)
+knitting(0.028)
+eating(0.027)

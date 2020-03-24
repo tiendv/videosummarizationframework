@@ -1,5 +1,0 @@
-driving(0.135)
-raining(0.071)
-starting(0.030)
-steering(0.029)
-filming(0.024)

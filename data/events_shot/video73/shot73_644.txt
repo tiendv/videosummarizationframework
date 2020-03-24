@@ -1,0 +1,5 @@
+slapping(0.125)
+kissing(0.038)
+hugging(0.038)
+knocking(0.025)
+spitting(0.023)

@@ -1,0 +1,5 @@
+adult+female+singing(0.740)
+singing(0.051)
+brushing(0.016)
+laughing(0.015)
+child+singing(0.012)

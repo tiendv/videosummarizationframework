@@ -1,0 +1,5 @@
+digging(0.123)
+fishing(0.057)
+cracking(0.041)
+burying(0.031)
+shoveling(0.030)

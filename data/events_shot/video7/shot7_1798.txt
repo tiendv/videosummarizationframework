@@ -1,5 +1,0 @@
-dining(0.051)
-gambling(0.025)
-adult+male+speaking(0.025)
-tattooing(0.025)
-discussing(0.024)

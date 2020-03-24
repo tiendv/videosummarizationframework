@@ -1,5 +1,0 @@
-hugging(0.066)
-drinking(0.054)
-carrying(0.043)
-walking(0.042)
-falling(0.032)

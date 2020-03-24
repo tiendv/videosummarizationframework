@@ -1,0 +1,5 @@
+smoking(0.548)
+whistling(0.194)
+playing+music(0.025)
+chewing(0.013)
+blowing(0.013)

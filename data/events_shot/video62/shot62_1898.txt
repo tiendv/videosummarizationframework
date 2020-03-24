@@ -1,0 +1,5 @@
+cooking(0.062)
+packing(0.039)
+talking(0.034)
+adult+male+speaking(0.028)
+baking(0.027)

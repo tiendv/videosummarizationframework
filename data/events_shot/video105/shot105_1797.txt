@@ -1,0 +1,5 @@
+adult+female+speaking(0.122)
+fencing(0.089)
+adult+male+speaking(0.065)
+cuddling(0.065)
+hugging(0.065)

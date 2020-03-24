@@ -1,0 +1,5 @@
+dining(0.067)
+adult+male+speaking(0.065)
+drinking(0.052)
+autographing(0.031)
+playing+videogames(0.029)

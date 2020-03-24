@@ -1,0 +1,5 @@
+walking(0.160)
+standing(0.082)
+hunting(0.066)
+adult+male+speaking(0.049)
+filming(0.039)

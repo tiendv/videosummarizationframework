@@ -1,0 +1,5 @@
+climbing(0.299)
+bathing(0.043)
+rising(0.029)
+diving(0.024)
+baptizing(0.017)

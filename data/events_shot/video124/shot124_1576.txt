@@ -1,0 +1,5 @@
+reading(0.201)
+sneezing(0.047)
+studying(0.038)
+sitting(0.035)
+adult+female+speaking(0.035)

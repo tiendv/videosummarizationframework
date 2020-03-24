@@ -1,0 +1,5 @@
+adult+male+singing(0.180)
+adult+male+speaking(0.082)
+asking(0.037)
+fencing(0.036)
+filming(0.033)

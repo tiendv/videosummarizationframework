@@ -1,0 +1,5 @@
+cooking(0.066)
+standing(0.040)
+drying(0.033)
+painting(0.028)
+walking(0.025)

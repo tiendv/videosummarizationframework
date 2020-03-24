@@ -1,5 +1,0 @@
-crying(0.083)
-hugging(0.081)
-eating(0.069)
-calling(0.026)
-sneezing(0.024)

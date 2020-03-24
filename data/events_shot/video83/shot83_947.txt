@@ -1,0 +1,5 @@
+guarding(0.126)
+saluting(0.062)
+arresting(0.053)
+filming(0.025)
+protesting(0.025)

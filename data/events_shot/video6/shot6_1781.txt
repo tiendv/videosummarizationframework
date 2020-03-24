@@ -1,5 +1,0 @@
-adult+female+speaking(0.095)
-manicuring(0.045)
-painting(0.033)
-tattooing(0.033)
-drying(0.030)

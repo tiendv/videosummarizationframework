@@ -1,0 +1,5 @@
+crafting(0.146)
+packing(0.105)
+unpacking(0.093)
+wrapping(0.083)
+folding(0.070)

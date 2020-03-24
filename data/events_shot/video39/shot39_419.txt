@@ -1,5 +1,0 @@
-running(0.116)
-walking(0.061)
-jogging(0.050)
-chasing(0.036)
-adult+female+singing(0.035)

@@ -1,0 +1,5 @@
+laughing(0.051)
+shaking(0.035)
+discussing(0.029)
+smiling(0.026)
+bowing(0.026)

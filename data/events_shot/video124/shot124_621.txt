@@ -1,0 +1,5 @@
+gambling(0.095)
+discussing(0.078)
+adult+male+speaking(0.063)
+playing+videogames(0.044)
+adult+female+speaking(0.034)

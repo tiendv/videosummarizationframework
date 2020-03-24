@@ -1,5 +1,0 @@
-tapping(0.178)
-running(0.119)
-sprinting(0.111)
-walking(0.088)
-mopping(0.046)

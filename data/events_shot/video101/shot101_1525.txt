@@ -1,0 +1,5 @@
+slapping(0.130)
+punching(0.036)
+crying(0.034)
+fighting(0.031)
+opening(0.029)

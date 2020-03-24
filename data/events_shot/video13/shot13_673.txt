@@ -1,0 +1,5 @@
+discussing(0.106)
+adult+female+speaking(0.094)
+adult+male+speaking(0.074)
+arresting(0.069)
+asking(0.060)

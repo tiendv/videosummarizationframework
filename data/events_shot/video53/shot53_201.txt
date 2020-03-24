@@ -1,0 +1,5 @@
+crying(0.307)
+telephoning(0.104)
+kissing(0.094)
+adult+female+speaking(0.050)
+sneezing(0.040)

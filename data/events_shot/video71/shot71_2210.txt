@@ -1,0 +1,5 @@
+locking(0.392)
+tuning(0.284)
+measuring(0.247)
+plugging(0.023)
+starting(0.009)

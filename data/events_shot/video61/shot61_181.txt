@@ -1,0 +1,5 @@
+fencing(0.116)
+discussing(0.115)
+adult+male+speaking(0.099)
+talking(0.078)
+interviewing(0.052)

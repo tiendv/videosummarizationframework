@@ -1,0 +1,5 @@
+kissing(0.100)
+adult+female+speaking(0.078)
+crying(0.068)
+raining(0.067)
+discussing(0.058)

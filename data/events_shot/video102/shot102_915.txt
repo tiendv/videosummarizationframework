@@ -1,0 +1,5 @@
+adult+male+speaking(0.032)
+fighting(0.027)
+blocking(0.027)
+dining(0.024)
+slapping(0.020)

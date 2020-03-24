@@ -1,0 +1,5 @@
+adult+male+speaking(0.034)
+stirring(0.031)
+slapping(0.031)
+cooking(0.031)
+coughing(0.027)

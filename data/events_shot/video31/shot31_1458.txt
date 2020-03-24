@@ -1,0 +1,5 @@
+mopping(0.062)
+vacuuming(0.036)
+cleaning(0.027)
+laughing(0.024)
+dusting(0.023)

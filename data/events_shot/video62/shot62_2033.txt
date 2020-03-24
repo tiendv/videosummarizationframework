@@ -1,0 +1,5 @@
+talking(0.084)
+adult+female+speaking(0.075)
+washing(0.043)
+drying(0.042)
+discussing(0.035)

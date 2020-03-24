@@ -1,5 +1,0 @@
-praying(0.080)
-crying(0.072)
-adult+male+speaking(0.048)
-crawling(0.040)
-bowing(0.036)

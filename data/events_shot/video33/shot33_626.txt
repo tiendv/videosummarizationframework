@@ -1,0 +1,5 @@
+massaging(0.200)
+waking(0.130)
+adult+male+speaking(0.060)
+rubbing(0.058)
+slapping(0.055)

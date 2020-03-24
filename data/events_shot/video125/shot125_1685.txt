@@ -1,0 +1,5 @@
+running(0.125)
+carrying(0.064)
+adult+male+singing(0.048)
+celebrating(0.038)
+raining(0.037)

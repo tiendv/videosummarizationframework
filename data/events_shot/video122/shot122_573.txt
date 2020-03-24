@@ -1,0 +1,5 @@
+cooking(0.225)
+baking(0.066)
+grilling(0.048)
+slicing(0.048)
+placing(0.041)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.080)
+hugging(0.060)
+kissing(0.037)
+telephoning(0.030)
+coughing(0.029)

@@ -1,0 +1,5 @@
+sitting(0.065)
+filming(0.048)
+adult+male+speaking(0.028)
+squatting(0.025)
+playing+videogames(0.024)

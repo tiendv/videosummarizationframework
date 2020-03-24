@@ -1,5 +1,0 @@
-running(0.076)
-walking(0.049)
-attacking(0.028)
-painting(0.022)
-jogging(0.022)

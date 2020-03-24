@@ -1,0 +1,5 @@
+telephoning(0.066)
+calling(0.063)
+adult+male+speaking(0.053)
+photographing(0.050)
+asking(0.048)

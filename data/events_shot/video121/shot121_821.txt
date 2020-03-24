@@ -1,0 +1,5 @@
+sneezing(0.149)
+drying(0.120)
+waking(0.084)
+coughing(0.022)
+massaging(0.020)

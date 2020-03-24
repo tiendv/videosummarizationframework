@@ -1,0 +1,5 @@
+adult+male+speaking(0.209)
+talking(0.042)
+smiling(0.041)
+pointing(0.039)
+aiming(0.039)

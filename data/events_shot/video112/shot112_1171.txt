@@ -1,0 +1,5 @@
+adult+female+speaking(0.062)
+hiking(0.055)
+smiling(0.048)
+laughing(0.046)
+asking(0.042)

@@ -1,0 +1,5 @@
+talking(0.094)
+interviewing(0.077)
+discussing(0.055)
+starting(0.046)
+coaching(0.038)

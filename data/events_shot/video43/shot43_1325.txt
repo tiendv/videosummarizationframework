@@ -1,0 +1,5 @@
+drawing(0.062)
+painting(0.054)
+telephoning(0.049)
+adult+male+speaking(0.037)
+brushing(0.030)

@@ -1,5 +1,0 @@
-cooking(0.096)
-packing(0.041)
-stacking(0.039)
-cleaning(0.032)
-baking(0.028)

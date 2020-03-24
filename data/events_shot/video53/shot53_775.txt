@@ -1,0 +1,5 @@
+steering(0.202)
+driving(0.171)
+riding(0.050)
+racing(0.026)
+roaring(0.021)

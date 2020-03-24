@@ -1,0 +1,5 @@
+adult+female+speaking(0.131)
+inflating(0.102)
+discussing(0.052)
+interviewing(0.037)
+asking(0.032)

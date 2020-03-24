@@ -1,0 +1,5 @@
+adult+male+speaking(0.110)
+camping(0.076)
+asking(0.056)
+talking(0.044)
+discussing(0.040)

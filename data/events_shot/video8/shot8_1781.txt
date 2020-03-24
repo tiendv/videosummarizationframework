@@ -1,5 +1,0 @@
-asking(0.074)
-spraying(0.038)
-painting(0.035)
-filming(0.035)
-adult+female+speaking(0.031)

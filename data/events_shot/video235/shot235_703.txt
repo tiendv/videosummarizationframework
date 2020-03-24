@@ -1,5 +1,0 @@
-hugging(0.131)
-adult+female+singing(0.070)
-attacking(0.054)
-fighting(0.052)
-adult+male+singing(0.045)

@@ -1,5 +1,0 @@
-opening(0.081)
-playing+videogames(0.081)
-closing(0.072)
-talking(0.031)
-standing(0.028)

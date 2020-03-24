@@ -1,0 +1,5 @@
+kissing(0.088)
+adult+female+speaking(0.067)
+crying(0.062)
+sneezing(0.054)
+coughing(0.044)

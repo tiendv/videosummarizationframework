@@ -1,0 +1,5 @@
+slapping(0.163)
+snapping(0.046)
+frowning(0.025)
+crying(0.022)
+throwing(0.022)

@@ -1,0 +1,5 @@
+walking(0.389)
+exiting(0.053)
+entering(0.046)
+running(0.041)
+sliding(0.031)

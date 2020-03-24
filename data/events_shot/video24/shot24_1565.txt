@@ -1,0 +1,5 @@
+reading(0.082)
+sitting(0.069)
+talking(0.049)
+cooking(0.033)
+laughing(0.031)

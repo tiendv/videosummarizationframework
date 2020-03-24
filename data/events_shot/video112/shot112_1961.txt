@@ -1,0 +1,5 @@
+slapping(0.208)
+crying(0.080)
+punching(0.044)
+hugging(0.031)
+walking(0.024)

@@ -1,5 +1,0 @@
-shooting(0.075)
-raining(0.052)
-snowing(0.035)
-driving(0.029)
-aiming(0.026)

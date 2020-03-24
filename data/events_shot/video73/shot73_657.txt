@@ -1,0 +1,5 @@
+fighting(0.077)
+marching(0.043)
+slapping(0.035)
+hugging(0.033)
+parading(0.030)

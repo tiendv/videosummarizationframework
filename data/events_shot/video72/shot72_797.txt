@@ -1,0 +1,5 @@
+adult+male+speaking(0.080)
+child+speaking(0.051)
+talking(0.041)
+teaching(0.034)
+standing(0.032)

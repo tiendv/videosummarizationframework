@@ -1,5 +1,0 @@
-singing(0.083)
-adult+male+singing(0.046)
-cooking(0.028)
-stacking(0.027)
-selling(0.027)

@@ -1,0 +1,5 @@
+asking(0.079)
+adult+male+speaking(0.049)
+preaching(0.039)
+selling(0.027)
+stealing(0.026)

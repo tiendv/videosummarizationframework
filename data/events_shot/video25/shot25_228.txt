@@ -1,5 +1,0 @@
-sneezing(0.061)
-coughing(0.042)
-whistling(0.037)
-crying(0.033)
-spitting(0.029)

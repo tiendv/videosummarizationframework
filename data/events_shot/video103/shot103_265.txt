@@ -1,0 +1,5 @@
+smiling(0.080)
+child+singing(0.049)
+standing(0.045)
+marrying(0.045)
+queuing(0.028)

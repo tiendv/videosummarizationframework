@@ -1,0 +1,5 @@
+removing(0.041)
+carrying(0.036)
+crying(0.032)
+walking(0.028)
+adult+male+speaking(0.024)

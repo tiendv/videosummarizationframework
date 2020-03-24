@@ -1,0 +1,5 @@
+walking(0.120)
+laughing(0.039)
+cleaning(0.026)
+stealing(0.022)
+entering(0.022)

@@ -1,0 +1,5 @@
+asking(0.051)
+queuing(0.044)
+hugging(0.041)
+standing(0.039)
+drinking(0.036)

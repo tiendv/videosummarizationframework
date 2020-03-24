@@ -1,0 +1,5 @@
+drying(0.048)
+waking(0.038)
+shaving(0.030)
+cracking(0.030)
+adult+male+speaking(0.029)

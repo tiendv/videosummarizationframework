@@ -1,0 +1,5 @@
+filming(0.085)
+adult+male+speaking(0.084)
+playing+videogames(0.065)
+walking(0.055)
+slapping(0.053)

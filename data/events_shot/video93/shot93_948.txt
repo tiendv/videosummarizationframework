@@ -1,0 +1,5 @@
+whistling(0.134)
+knocking(0.083)
+turning(0.046)
+locking(0.043)
+clipping(0.027)

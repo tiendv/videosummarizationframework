@@ -1,5 +1,0 @@
-fighting(0.178)
-attacking(0.138)
-burning(0.054)
-smashing(0.040)
-rising(0.040)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.082)
+feeding(0.055)
+praying(0.052)
+eating(0.036)
+standing(0.030)

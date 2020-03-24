@@ -1,0 +1,5 @@
+stretching(0.147)
+dancing(0.143)
+squatting(0.050)
+bending(0.048)
+lifting(0.026)

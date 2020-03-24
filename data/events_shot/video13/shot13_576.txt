@@ -1,0 +1,5 @@
+laughing(0.293)
+smiling(0.127)
+squinting(0.045)
+shaving(0.034)
+grinning(0.032)

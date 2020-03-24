@@ -1,0 +1,5 @@
+adult+male+speaking(0.153)
+smiling(0.147)
+interviewing(0.081)
+squinting(0.070)
+asking(0.052)

@@ -1,0 +1,5 @@
+knitting(0.167)
+crafting(0.076)
+packing(0.060)
+adult+female+speaking(0.055)
+sneezing(0.038)

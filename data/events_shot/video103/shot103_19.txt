@@ -1,0 +1,5 @@
+stacking(0.136)
+adult+male+speaking(0.051)
+playing+videogames(0.033)
+discussing(0.017)
+pointing(0.017)

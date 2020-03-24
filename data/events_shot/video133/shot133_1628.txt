@@ -1,0 +1,5 @@
+laughing(0.095)
+barking(0.051)
+sneezing(0.036)
+adult+male+speaking(0.032)
+knocking(0.030)

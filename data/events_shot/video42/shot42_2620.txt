@@ -1,0 +1,5 @@
+guarding(0.100)
+entering(0.061)
+walking(0.059)
+exiting(0.049)
+shopping(0.041)

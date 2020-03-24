@@ -1,0 +1,5 @@
+selling(0.025)
+adult+male+speaking(0.022)
+opening(0.022)
+pouring(0.021)
+poking(0.020)

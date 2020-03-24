@@ -1,5 +1,0 @@
-rising(0.126)
-standing(0.100)
-playing+videogames(0.099)
-talking(0.082)
-attacking(0.047)

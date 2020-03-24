@@ -1,5 +1,0 @@
-running(0.076)
-loading(0.054)
-towing(0.046)
-chasing(0.045)
-walking(0.033)

@@ -1,0 +1,5 @@
+calling(0.042)
+telephoning(0.042)
+drinking(0.041)
+adult+male+speaking(0.033)
+coughing(0.033)

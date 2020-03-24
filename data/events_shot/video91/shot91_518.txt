@@ -1,0 +1,5 @@
+stacking(0.559)
+dipping(0.146)
+mopping(0.024)
+pressing(0.022)
+drying(0.014)

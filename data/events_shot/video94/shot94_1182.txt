@@ -1,0 +1,5 @@
+drying(0.171)
+inflating(0.084)
+loading(0.056)
+unloading(0.028)
+washing(0.028)

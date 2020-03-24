@@ -1,0 +1,5 @@
+running(0.164)
+jogging(0.103)
+exercising(0.050)
+squatting(0.033)
+hiking(0.022)

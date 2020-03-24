@@ -1,0 +1,5 @@
+slapping(0.159)
+sneezing(0.122)
+coughing(0.049)
+washing(0.031)
+cleaning(0.027)

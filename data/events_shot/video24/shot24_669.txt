@@ -1,0 +1,5 @@
+hitchhiking(0.144)
+hiking(0.127)
+walking(0.097)
+jogging(0.067)
+running(0.031)

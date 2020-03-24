@@ -1,0 +1,5 @@
+shooting(0.054)
+slapping(0.053)
+aiming(0.053)
+adult+male+speaking(0.051)
+pointing(0.050)

@@ -1,0 +1,5 @@
+standing(0.052)
+adult+female+speaking(0.044)
+painting(0.034)
+cooking(0.031)
+aiming(0.030)

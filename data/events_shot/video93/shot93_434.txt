@@ -1,0 +1,5 @@
+shopping(0.425)
+stealing(0.102)
+buying(0.098)
+boxing(0.063)
+punching(0.044)

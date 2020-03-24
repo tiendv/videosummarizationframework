@@ -1,0 +1,5 @@
+vacuuming(0.098)
+cleaning(0.024)
+bowing(0.016)
+dusting(0.015)
+slapping(0.015)

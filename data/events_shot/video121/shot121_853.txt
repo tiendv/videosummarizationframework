@@ -1,0 +1,5 @@
+opening(0.033)
+kissing(0.032)
+closing(0.027)
+crying(0.024)
+adult+female+speaking(0.020)

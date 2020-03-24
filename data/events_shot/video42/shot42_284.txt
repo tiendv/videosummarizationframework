@@ -1,0 +1,5 @@
+wrapping(0.060)
+drinking(0.034)
+dining(0.025)
+cooking(0.023)
+shaking(0.022)

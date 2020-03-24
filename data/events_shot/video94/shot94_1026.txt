@@ -1,0 +1,5 @@
+officiating(0.061)
+standing(0.058)
+walking(0.057)
+hugging(0.041)
+shopping(0.039)

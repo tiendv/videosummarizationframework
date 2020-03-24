@@ -1,0 +1,5 @@
+adult+male+speaking(0.066)
+walking(0.049)
+officiating(0.046)
+pushing(0.046)
+knocking(0.042)

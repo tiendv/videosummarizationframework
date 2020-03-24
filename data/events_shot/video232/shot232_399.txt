@@ -1,5 +1,0 @@
-cooking(0.111)
-drinking(0.038)
-punching(0.029)
-eating(0.028)
-throwing(0.022)

@@ -1,0 +1,5 @@
+inflating(0.839)
+vacuuming(0.088)
+mopping(0.018)
+cleaning(0.009)
+bowling(0.005)

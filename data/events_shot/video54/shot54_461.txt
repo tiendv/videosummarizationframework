@@ -1,0 +1,5 @@
+adult+female+speaking(0.118)
+shrugging(0.073)
+talking(0.040)
+smiling(0.031)
+frowning(0.026)

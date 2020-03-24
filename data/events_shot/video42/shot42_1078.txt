@@ -1,0 +1,5 @@
+assembling(0.061)
+putting(0.054)
+loading(0.047)
+working(0.041)
+placing(0.040)

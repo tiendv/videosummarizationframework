@@ -1,0 +1,5 @@
+walking(0.101)
+asking(0.051)
+running(0.050)
+hitchhiking(0.041)
+arresting(0.039)

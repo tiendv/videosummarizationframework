@@ -1,0 +1,5 @@
+bowing(0.068)
+sneezing(0.058)
+drinking(0.054)
+smelling(0.033)
+adult+male+speaking(0.032)

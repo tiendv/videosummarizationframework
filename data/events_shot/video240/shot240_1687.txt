@@ -1,5 +1,0 @@
-walking(0.074)
-adult+male+speaking(0.034)
-carrying(0.025)
-adult+female+speaking(0.022)
-packing(0.019)

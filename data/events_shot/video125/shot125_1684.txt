@@ -1,0 +1,5 @@
+jumping(0.390)
+leaping(0.243)
+running(0.042)
+celebrating(0.037)
+raising(0.022)

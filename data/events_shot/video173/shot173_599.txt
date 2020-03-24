@@ -1,5 +1,0 @@
-clipping(0.079)
-adult+female+speaking(0.071)
-adult+male+speaking(0.060)
-hugging(0.038)
-kissing(0.025)

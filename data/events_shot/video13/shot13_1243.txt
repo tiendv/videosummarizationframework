@@ -1,0 +1,5 @@
+blocking(0.054)
+adult+male+speaking(0.042)
+imitating(0.030)
+slapping(0.030)
+discussing(0.027)

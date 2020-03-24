@@ -1,0 +1,5 @@
+painting(0.079)
+cooking(0.061)
+crafting(0.022)
+drawing(0.020)
+slapping(0.019)

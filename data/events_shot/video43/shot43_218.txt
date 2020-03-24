@@ -1,0 +1,5 @@
+inflating(0.439)
+sneezing(0.073)
+coughing(0.040)
+packing(0.032)
+camping(0.019)

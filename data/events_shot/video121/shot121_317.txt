@@ -1,0 +1,5 @@
+sitting(0.130)
+praying(0.045)
+reading(0.035)
+adult+male+speaking(0.034)
+discussing(0.032)

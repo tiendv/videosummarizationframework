@@ -1,0 +1,5 @@
+walking(0.260)
+arresting(0.175)
+handcuffing(0.110)
+queuing(0.055)
+entering(0.047)

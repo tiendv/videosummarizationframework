@@ -1,0 +1,5 @@
+hanging(0.118)
+diving(0.093)
+building(0.062)
+painting(0.053)
+flying(0.039)

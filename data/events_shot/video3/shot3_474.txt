@@ -1,0 +1,5 @@
+smiling(0.107)
+walking(0.081)
+asking(0.046)
+adult+female+speaking(0.033)
+marrying(0.032)

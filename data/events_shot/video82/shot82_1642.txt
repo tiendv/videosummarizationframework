@@ -1,0 +1,5 @@
+skiing(0.192)
+opening(0.063)
+handwriting(0.052)
+closing(0.033)
+measuring(0.026)

@@ -1,0 +1,5 @@
+frowning(0.131)
+crying(0.113)
+brushing(0.067)
+rubbing(0.026)
+shrugging(0.020)

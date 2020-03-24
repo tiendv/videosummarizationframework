@@ -1,0 +1,5 @@
+filming(0.040)
+walking(0.035)
+working(0.032)
+hugging(0.025)
+talking(0.025)

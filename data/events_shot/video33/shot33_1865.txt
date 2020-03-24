@@ -1,0 +1,5 @@
+washing(0.059)
+cleaning(0.044)
+rinsing(0.044)
+packing(0.041)
+tattooing(0.036)

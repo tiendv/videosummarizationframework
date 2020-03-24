@@ -1,5 +1,0 @@
-hugging(0.235)
-dressing(0.036)
-walking(0.025)
-standing(0.024)
-handcuffing(0.020)

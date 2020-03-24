@@ -1,5 +1,0 @@
-running(0.052)
-bowling(0.036)
-shooting(0.034)
-smashing(0.031)
-walking(0.031)

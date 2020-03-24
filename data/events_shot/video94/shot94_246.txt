@@ -1,0 +1,5 @@
+slapping(0.191)
+throwing(0.080)
+knocking(0.067)
+smiling(0.036)
+winking(0.032)

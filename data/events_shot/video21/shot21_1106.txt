@@ -1,0 +1,5 @@
+bending(0.082)
+massaging(0.071)
+bowing(0.048)
+stretching(0.043)
+folding(0.030)

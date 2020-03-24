@@ -1,0 +1,5 @@
+adult+male+speaking(0.080)
+boxing(0.077)
+punching(0.072)
+preaching(0.038)
+coaching(0.028)

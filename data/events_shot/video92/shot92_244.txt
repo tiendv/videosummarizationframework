@@ -1,0 +1,5 @@
+adult+female+singing(0.135)
+adult+male+singing(0.047)
+knocking(0.042)
+hugging(0.034)
+kissing(0.028)

@@ -1,0 +1,5 @@
+arresting(0.095)
+guarding(0.070)
+walking(0.064)
+standing(0.051)
+playing+videogames(0.046)

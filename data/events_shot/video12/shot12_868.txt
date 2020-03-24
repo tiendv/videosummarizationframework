@@ -1,0 +1,5 @@
+drinking(0.436)
+sitting(0.116)
+smoking(0.059)
+laughing(0.043)
+resting(0.019)

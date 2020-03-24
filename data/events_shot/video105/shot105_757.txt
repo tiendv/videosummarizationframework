@@ -1,0 +1,5 @@
+asking(0.056)
+walking(0.054)
+standing(0.039)
+filming(0.039)
+laughing(0.030)

@@ -1,5 +1,0 @@
-raining(0.480)
-storming(0.075)
-drenching(0.060)
-flooding(0.048)
-splashing(0.029)

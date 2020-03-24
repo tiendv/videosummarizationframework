@@ -1,0 +1,5 @@
+talking(0.174)
+adult+male+speaking(0.160)
+teaching(0.119)
+discussing(0.034)
+playing(0.032)

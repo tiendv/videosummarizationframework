@@ -1,0 +1,5 @@
+painting(0.167)
+drawing(0.132)
+crafting(0.066)
+sketching(0.036)
+removing(0.022)

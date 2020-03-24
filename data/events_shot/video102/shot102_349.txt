@@ -1,0 +1,5 @@
+queuing(0.201)
+dining(0.070)
+sitting(0.035)
+gambling(0.035)
+discussing(0.033)

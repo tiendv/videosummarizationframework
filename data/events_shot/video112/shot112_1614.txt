@@ -1,0 +1,5 @@
+sitting(0.161)
+talking(0.057)
+assembling(0.037)
+laughing(0.027)
+playing+videogames(0.025)

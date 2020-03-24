@@ -1,5 +1,0 @@
-manicuring(0.070)
-dining(0.049)
-drinking(0.048)
-sitting(0.038)
-sneezing(0.038)

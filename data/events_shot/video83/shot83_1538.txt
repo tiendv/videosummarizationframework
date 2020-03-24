@@ -1,0 +1,5 @@
+vacuuming(0.153)
+mopping(0.058)
+flooding(0.054)
+draining(0.030)
+dusting(0.029)

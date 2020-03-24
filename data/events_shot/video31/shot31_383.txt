@@ -1,0 +1,5 @@
+fueling(0.100)
+washing(0.068)
+raining(0.057)
+hitchhiking(0.056)
+driving(0.055)

@@ -1,0 +1,5 @@
+laughing(0.285)
+smiling(0.159)
+kissing(0.069)
+clapping(0.032)
+shaking(0.032)

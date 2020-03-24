@@ -1,0 +1,5 @@
+handcuffing(0.678)
+arresting(0.154)
+cracking(0.033)
+taping(0.028)
+massaging(0.017)

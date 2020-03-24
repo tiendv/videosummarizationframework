@@ -1,0 +1,5 @@
+slapping(0.125)
+imitating(0.065)
+pointing(0.036)
+shrugging(0.035)
+asking(0.034)

@@ -1,5 +1,0 @@
-cooking(0.138)
-drying(0.053)
-dressing(0.033)
-baking(0.030)
-standing(0.025)

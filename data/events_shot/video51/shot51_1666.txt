@@ -1,0 +1,5 @@
+wrapping(0.202)
+crafting(0.180)
+manicuring(0.069)
+taping(0.052)
+injecting(0.025)

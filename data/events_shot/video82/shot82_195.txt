@@ -1,0 +1,5 @@
+tapping(0.196)
+massaging(0.054)
+typing(0.036)
+scratching(0.032)
+slapping(0.032)

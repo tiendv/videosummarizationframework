@@ -1,0 +1,5 @@
+adult+male+speaking(0.066)
+laughing(0.039)
+stealing(0.027)
+asking(0.022)
+grinning(0.021)

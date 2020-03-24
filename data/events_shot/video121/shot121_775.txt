@@ -1,0 +1,5 @@
+adult+female+singing(0.109)
+sneezing(0.095)
+waking(0.078)
+adult+male+singing(0.075)
+coughing(0.032)

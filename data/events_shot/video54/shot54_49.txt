@@ -1,0 +1,5 @@
+crying(0.587)
+raining(0.027)
+sneezing(0.021)
+playing+videogames(0.016)
+frowning(0.013)

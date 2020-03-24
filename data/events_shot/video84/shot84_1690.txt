@@ -1,0 +1,5 @@
+painting(0.535)
+drawing(0.043)
+stitching(0.032)
+sketching(0.022)
+scrubbing(0.016)

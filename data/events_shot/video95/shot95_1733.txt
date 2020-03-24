@@ -1,0 +1,5 @@
+walking(0.185)
+marching(0.181)
+queuing(0.096)
+protesting(0.060)
+parading(0.055)

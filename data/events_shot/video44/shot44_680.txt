@@ -1,0 +1,5 @@
+walking(0.785)
+running(0.072)
+standing(0.013)
+exiting(0.011)
+entering(0.008)

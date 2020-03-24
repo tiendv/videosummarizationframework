@@ -1,5 +1,0 @@
-stacking(0.150)
-child+speaking(0.070)
-turning(0.034)
-blowing(0.027)
-loading(0.026)

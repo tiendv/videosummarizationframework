@@ -1,0 +1,5 @@
+brushing(0.084)
+interviewing(0.034)
+smiling(0.029)
+discussing(0.028)
+hugging(0.028)

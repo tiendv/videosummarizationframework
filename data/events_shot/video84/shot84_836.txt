@@ -1,0 +1,5 @@
+adult+female+speaking(0.085)
+slapping(0.077)
+discussing(0.063)
+arresting(0.040)
+fighting(0.034)

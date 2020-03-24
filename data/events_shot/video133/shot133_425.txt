@@ -1,0 +1,5 @@
+arresting(0.287)
+handcuffing(0.137)
+walking(0.064)
+knocking(0.041)
+exiting(0.039)

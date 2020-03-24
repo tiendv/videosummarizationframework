@@ -1,0 +1,5 @@
+interviewing(0.090)
+autographing(0.069)
+discussing(0.066)
+adult+male+speaking(0.056)
+standing(0.029)

@@ -1,0 +1,5 @@
+locking(0.178)
+arresting(0.172)
+knocking(0.138)
+handcuffing(0.119)
+entering(0.073)

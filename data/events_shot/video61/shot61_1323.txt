@@ -1,0 +1,5 @@
+child+speaking(0.274)
+sneezing(0.207)
+child+singing(0.184)
+coughing(0.076)
+imitating(0.040)

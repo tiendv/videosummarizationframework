@@ -1,0 +1,5 @@
+dining(0.105)
+brushing(0.104)
+combing(0.074)
+cutting(0.036)
+serving(0.030)

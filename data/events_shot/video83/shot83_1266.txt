@@ -1,0 +1,5 @@
+adult+male+speaking(0.104)
+kneeling(0.032)
+cracking(0.032)
+laughing(0.026)
+standing(0.024)

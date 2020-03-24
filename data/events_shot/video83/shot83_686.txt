@@ -1,0 +1,5 @@
+crying(0.219)
+slapping(0.053)
+waking(0.040)
+hugging(0.021)
+sleeping(0.020)

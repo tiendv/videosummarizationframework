@@ -1,0 +1,5 @@
+driving(0.163)
+aiming(0.128)
+shooting(0.121)
+playing+videogames(0.035)
+filming(0.022)

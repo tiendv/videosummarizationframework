@@ -1,0 +1,5 @@
+adult+male+speaking(0.060)
+cooking(0.045)
+coaching(0.038)
+standing(0.024)
+stirring(0.017)

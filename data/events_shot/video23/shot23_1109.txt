@@ -1,0 +1,5 @@
+drying(0.047)
+raising(0.029)
+standing(0.021)
+hanging(0.020)
+hammering(0.020)

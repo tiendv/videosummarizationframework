@@ -1,5 +1,0 @@
-towing(0.075)
-protesting(0.069)
-driving(0.050)
-arresting(0.044)
-playing+videogames(0.033)

@@ -1,5 +1,0 @@
-drinking(0.033)
-stacking(0.024)
-smiling(0.024)
-hugging(0.023)
-opening(0.021)

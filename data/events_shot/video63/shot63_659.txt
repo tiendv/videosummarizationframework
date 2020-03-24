@@ -1,0 +1,5 @@
+cooking(0.377)
+baking(0.083)
+crafting(0.028)
+drinking(0.019)
+eating(0.017)

@@ -1,0 +1,5 @@
+autographing(0.066)
+adult+male+speaking(0.048)
+laughing(0.034)
+arresting(0.029)
+playing+videogames(0.026)

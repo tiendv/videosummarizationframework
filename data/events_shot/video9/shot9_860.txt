@@ -1,5 +1,0 @@
-sleeping(0.109)
-resting(0.099)
-waking(0.040)
-starting(0.035)
-sitting(0.032)

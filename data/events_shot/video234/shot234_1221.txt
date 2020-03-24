@@ -1,5 +1,0 @@
-walking(0.081)
-drying(0.068)
-hanging(0.043)
-adult+female+singing(0.032)
-child+singing(0.032)

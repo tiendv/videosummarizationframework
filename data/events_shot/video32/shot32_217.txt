@@ -1,0 +1,5 @@
+driving(0.159)
+flooding(0.082)
+riding(0.046)
+camping(0.043)
+raining(0.037)

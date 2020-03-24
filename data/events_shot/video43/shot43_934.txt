@@ -1,0 +1,5 @@
+driving(0.094)
+waking(0.090)
+sleeping(0.085)
+massaging(0.051)
+dragging(0.046)

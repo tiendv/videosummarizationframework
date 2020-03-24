@@ -1,5 +1,0 @@
-drinking(0.883)
-shaving(0.007)
-spitting(0.006)
-removing(0.005)
-smelling(0.004)

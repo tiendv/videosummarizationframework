@@ -1,0 +1,5 @@
+cleaning(0.061)
+adult+female+singing(0.039)
+dusting(0.036)
+drying(0.029)
+scrubbing(0.027)

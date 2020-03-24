@@ -1,0 +1,5 @@
+drinking(0.166)
+stacking(0.041)
+standing(0.034)
+talking(0.022)
+flicking(0.021)

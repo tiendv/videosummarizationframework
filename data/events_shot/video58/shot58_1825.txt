@@ -1,5 +1,0 @@
-talking(0.066)
-pointing(0.059)
-standing(0.033)
-teaching(0.028)
-starting(0.025)

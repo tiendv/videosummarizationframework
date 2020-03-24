@@ -1,0 +1,5 @@
+peeling(0.075)
+singing(0.062)
+performing(0.048)
+writing(0.047)
+playing+music(0.035)

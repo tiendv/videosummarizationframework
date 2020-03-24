@@ -1,0 +1,5 @@
+snowing(0.195)
+talking(0.080)
+raining(0.075)
+turning(0.037)
+storming(0.022)

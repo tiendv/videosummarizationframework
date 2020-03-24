@@ -1,0 +1,5 @@
+cooking(0.134)
+baking(0.117)
+drinking(0.060)
+talking(0.056)
+laughing(0.019)

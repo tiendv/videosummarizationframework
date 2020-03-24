@@ -1,0 +1,5 @@
+adult+male+speaking(0.129)
+discussing(0.120)
+signing(0.041)
+sitting(0.035)
+studying(0.035)

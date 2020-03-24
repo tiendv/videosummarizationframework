@@ -1,0 +1,5 @@
+adult+female+speaking(0.137)
+telephoning(0.050)
+crying(0.039)
+calling(0.037)
+smiling(0.033)

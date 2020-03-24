@@ -1,0 +1,5 @@
+officiating(0.121)
+baptizing(0.108)
+walking(0.093)
+standing(0.083)
+adult+male+singing(0.046)

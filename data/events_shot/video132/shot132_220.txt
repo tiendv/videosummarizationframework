@@ -1,0 +1,5 @@
+adult+female+singing(0.250)
+playing+videogames(0.088)
+fighting(0.059)
+attacking(0.026)
+walking(0.023)

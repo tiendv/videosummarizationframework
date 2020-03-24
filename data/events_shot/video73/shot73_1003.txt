@@ -1,0 +1,5 @@
+adult+male+speaking(0.075)
+talking(0.042)
+cooking(0.038)
+cracking(0.023)
+cleaning(0.023)

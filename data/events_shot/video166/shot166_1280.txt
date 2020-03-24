@@ -1,5 +1,0 @@
-slapping(0.104)
-fighting(0.076)
-adult+female+speaking(0.039)
-walking(0.035)
-standing(0.030)

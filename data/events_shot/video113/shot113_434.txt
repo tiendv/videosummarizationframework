@@ -1,0 +1,5 @@
+punching(0.100)
+mopping(0.084)
+knocking(0.060)
+cleaning(0.037)
+dusting(0.032)

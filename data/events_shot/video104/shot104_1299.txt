@@ -1,0 +1,5 @@
+hugging(0.193)
+running(0.115)
+walking(0.050)
+carrying(0.033)
+jogging(0.021)

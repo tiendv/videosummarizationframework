@@ -1,0 +1,5 @@
+child+speaking(0.056)
+talking(0.038)
+squinting(0.028)
+slapping(0.027)
+adult+male+speaking(0.023)

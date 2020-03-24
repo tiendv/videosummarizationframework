@@ -1,5 +1,0 @@
-packing(0.073)
-unpacking(0.040)
-adult+male+speaking(0.022)
-standing(0.022)
-adult+male+singing(0.020)

@@ -1,0 +1,5 @@
+interviewing(0.044)
+fencing(0.035)
+talking(0.030)
+adult+female+speaking(0.028)
+playing+videogames(0.025)

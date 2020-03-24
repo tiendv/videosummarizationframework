@@ -1,0 +1,5 @@
+gardening(0.335)
+sowing(0.307)
+planting(0.076)
+starting(0.062)
+weeding(0.014)

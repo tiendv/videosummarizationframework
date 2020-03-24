@@ -1,5 +1,0 @@
-hammering(0.029)
-adult+male+singing(0.026)
-adult+male+speaking(0.024)
-cracking(0.023)
-rising(0.020)

@@ -1,0 +1,5 @@
+walking(0.294)
+entering(0.115)
+exiting(0.066)
+locking(0.039)
+carrying(0.032)

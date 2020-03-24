@@ -1,0 +1,5 @@
+laughing(0.144)
+crying(0.054)
+smiling(0.045)
+adult+male+singing(0.038)
+standing(0.036)

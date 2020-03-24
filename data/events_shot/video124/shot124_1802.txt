@@ -1,0 +1,5 @@
+mopping(0.035)
+entering(0.035)
+exiting(0.033)
+stealing(0.031)
+dusting(0.027)

@@ -1,0 +1,5 @@
+hugging(0.045)
+manicuring(0.041)
+cuddling(0.040)
+handcuffing(0.037)
+sitting(0.029)

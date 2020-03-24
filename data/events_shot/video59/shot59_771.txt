@@ -1,5 +1,0 @@
-opening(0.199)
-closing(0.170)
-painting(0.095)
-drawing(0.075)
-entering(0.024)

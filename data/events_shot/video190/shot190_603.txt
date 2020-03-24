@@ -1,5 +1,0 @@
-waking(0.041)
-slapping(0.033)
-reading(0.030)
-sneezing(0.029)
-adult+female+speaking(0.028)

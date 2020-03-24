@@ -1,0 +1,5 @@
+telephoning(0.200)
+calling(0.177)
+knocking(0.059)
+smoking(0.039)
+adult+female+singing(0.035)

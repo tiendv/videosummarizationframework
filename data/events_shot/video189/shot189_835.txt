@@ -1,5 +1,0 @@
-slapping(0.075)
-fighting(0.055)
-arresting(0.040)
-adult+female+speaking(0.036)
-filming(0.035)

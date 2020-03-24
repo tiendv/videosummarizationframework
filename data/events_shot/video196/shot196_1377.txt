@@ -1,5 +1,0 @@
-painting(0.068)
-shopping(0.050)
-stealing(0.036)
-walking(0.036)
-running(0.034)

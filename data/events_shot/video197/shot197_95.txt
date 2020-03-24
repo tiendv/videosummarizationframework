@@ -1,5 +1,0 @@
-steering(0.064)
-starting(0.050)
-driving(0.039)
-riding(0.034)
-plugging(0.033)

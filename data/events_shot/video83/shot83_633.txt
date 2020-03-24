@@ -1,0 +1,5 @@
+drawing(0.049)
+tattooing(0.037)
+reading(0.034)
+manicuring(0.033)
+discussing(0.031)

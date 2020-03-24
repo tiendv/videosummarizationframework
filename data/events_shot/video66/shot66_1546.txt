@@ -1,5 +1,0 @@
-drinking(0.075)
-adult+male+speaking(0.059)
-fighting(0.029)
-sneezing(0.028)
-laughing(0.027)

@@ -1,5 +1,0 @@
-standing(0.043)
-coughing(0.040)
-raining(0.036)
-talking(0.033)
-snowing(0.032)

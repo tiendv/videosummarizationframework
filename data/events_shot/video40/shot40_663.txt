@@ -1,5 +1,0 @@
-driving(0.445)
-raining(0.082)
-frowning(0.061)
-steering(0.044)
-crying(0.037)

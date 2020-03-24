@@ -1,5 +1,0 @@
-running(0.036)
-cracking(0.034)
-adult+male+speaking(0.033)
-playing+videogames(0.026)
-standing(0.020)

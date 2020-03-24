@@ -1,5 +1,0 @@
-climbing(0.734)
-hanging(0.053)
-squatting(0.050)
-sitting(0.015)
-crouching(0.010)

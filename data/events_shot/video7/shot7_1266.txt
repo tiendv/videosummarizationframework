@@ -1,5 +1,0 @@
-drinking(0.923)
-smoking(0.007)
-eating(0.007)
-tapping(0.003)
-smelling(0.002)

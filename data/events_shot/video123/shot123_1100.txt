@@ -1,0 +1,5 @@
+hanging(0.050)
+pulling(0.044)
+entering(0.029)
+gripping(0.023)
+sliding(0.023)

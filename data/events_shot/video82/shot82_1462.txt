@@ -1,0 +1,5 @@
+tapping(0.094)
+playing+music(0.090)
+typing(0.039)
+telephoning(0.038)
+calling(0.024)

@@ -1,5 +1,0 @@
-hugging(0.035)
-dining(0.026)
-giving(0.026)
-adult+female+speaking(0.026)
-sitting(0.023)

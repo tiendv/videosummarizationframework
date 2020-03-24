@@ -1,5 +1,0 @@
-sneezing(0.246)
-crying(0.171)
-coughing(0.051)
-adult+male+singing(0.034)
-walking(0.025)

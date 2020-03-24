@@ -1,0 +1,5 @@
+attacking(0.043)
+smashing(0.032)
+destroying(0.030)
+roaring(0.030)
+standing(0.029)

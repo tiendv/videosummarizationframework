@@ -1,5 +1,0 @@
-child+speaking(0.446)
-sitting(0.077)
-child+singing(0.050)
-talking(0.041)
-telephoning(0.012)

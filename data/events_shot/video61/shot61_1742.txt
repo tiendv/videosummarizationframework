@@ -1,0 +1,5 @@
+clapping(0.215)
+applauding(0.207)
+smiling(0.058)
+celebrating(0.044)
+cheering(0.035)

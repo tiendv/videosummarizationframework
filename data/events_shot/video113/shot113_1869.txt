@@ -1,0 +1,5 @@
+telephoning(0.102)
+calling(0.101)
+fueling(0.086)
+punching(0.032)
+working(0.031)

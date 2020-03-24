@@ -1,0 +1,5 @@
+storming(0.073)
+raining(0.050)
+riding(0.041)
+driving(0.032)
+whistling(0.030)

@@ -1,0 +1,5 @@
+walking(0.035)
+driving(0.028)
+playing+videogames(0.026)
+talking(0.025)
+guarding(0.024)

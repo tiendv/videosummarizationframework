@@ -1,5 +1,0 @@
-sitting(0.083)
-talking(0.070)
-discussing(0.055)
-snowing(0.034)
-clipping(0.030)

@@ -1,5 +1,0 @@
-frowning(0.572)
-aiming(0.050)
-squinting(0.038)
-shrugging(0.032)
-saluting(0.022)

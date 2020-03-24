@@ -1,0 +1,5 @@
+climbing(0.184)
+playing+videogames(0.143)
+talking(0.039)
+standing(0.023)
+walking(0.021)

@@ -1,0 +1,5 @@
+juggling(0.048)
+reaching(0.047)
+raising(0.039)
+adult+male+speaking(0.039)
+standing(0.030)

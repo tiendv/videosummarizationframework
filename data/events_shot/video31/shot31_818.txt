@@ -1,0 +1,5 @@
+knocking(0.088)
+plugging(0.067)
+cleaning(0.047)
+repairing(0.047)
+sanding(0.041)

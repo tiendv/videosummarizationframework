@@ -1,0 +1,5 @@
+adult+male+speaking(0.079)
+tapping(0.047)
+frowning(0.040)
+crying(0.037)
+painting(0.037)

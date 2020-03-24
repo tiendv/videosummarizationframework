@@ -1,0 +1,5 @@
+adult+male+speaking(0.044)
+stealing(0.039)
+towing(0.036)
+starting(0.035)
+flooding(0.029)

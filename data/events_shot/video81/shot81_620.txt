@@ -1,0 +1,5 @@
+fighting(0.056)
+adult+male+speaking(0.053)
+discussing(0.048)
+hugging(0.038)
+laughing(0.030)

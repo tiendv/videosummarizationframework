@@ -1,0 +1,5 @@
+stacking(0.972)
+drinking(0.001)
+squatting(0.001)
+balancing(0.001)
+flipping(0.001)

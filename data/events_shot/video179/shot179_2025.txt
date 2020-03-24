@@ -1,5 +1,0 @@
-drinking(0.325)
-cooking(0.026)
-coughing(0.024)
-baking(0.022)
-washing(0.020)

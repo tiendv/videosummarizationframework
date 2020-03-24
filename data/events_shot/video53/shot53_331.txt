@@ -1,0 +1,5 @@
+crying(0.311)
+laughing(0.177)
+smiling(0.060)
+frowning(0.034)
+dressing(0.034)

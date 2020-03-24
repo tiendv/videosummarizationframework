@@ -1,5 +1,0 @@
-preaching(0.320)
-adult+male+speaking(0.030)
-gardening(0.028)
-mowing(0.026)
-fencing(0.021)

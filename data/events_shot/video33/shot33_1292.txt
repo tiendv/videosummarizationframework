@@ -1,0 +1,5 @@
+fencing(0.170)
+building(0.059)
+cracking(0.045)
+working(0.026)
+tying(0.024)

@@ -1,0 +1,5 @@
+crying(0.075)
+hugging(0.061)
+walking(0.042)
+sneezing(0.040)
+adult+male+speaking(0.028)

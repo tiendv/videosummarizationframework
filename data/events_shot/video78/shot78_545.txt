@@ -1,5 +1,0 @@
-talking(0.048)
-dining(0.044)
-adult+male+speaking(0.038)
-exercising(0.034)
-stretching(0.033)

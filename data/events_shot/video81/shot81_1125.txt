@@ -1,0 +1,5 @@
+diving(0.189)
+storming(0.060)
+climbing(0.059)
+swimming(0.043)
+flying(0.036)

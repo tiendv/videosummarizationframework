@@ -1,0 +1,5 @@
+driving(0.672)
+steering(0.092)
+towing(0.041)
+hitchhiking(0.035)
+riding(0.028)

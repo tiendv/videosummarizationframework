@@ -1,0 +1,5 @@
+child+speaking(0.051)
+opening(0.049)
+exiting(0.046)
+handcuffing(0.043)
+walking(0.038)

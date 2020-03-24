@@ -1,0 +1,5 @@
+walking(0.171)
+arresting(0.067)
+adult+male+speaking(0.044)
+stealing(0.028)
+filming(0.028)

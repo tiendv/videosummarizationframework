@@ -1,0 +1,5 @@
+cooking(0.090)
+dining(0.047)
+packaging(0.035)
+serving(0.026)
+giving(0.025)

@@ -1,5 +1,0 @@
-waking(0.058)
-sleeping(0.050)
-slapping(0.032)
-filming(0.028)
-adult+male+speaking(0.025)

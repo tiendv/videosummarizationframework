@@ -1,0 +1,5 @@
+adult+female+speaking(0.230)
+discussing(0.099)
+cooking(0.079)
+talking(0.055)
+interviewing(0.042)

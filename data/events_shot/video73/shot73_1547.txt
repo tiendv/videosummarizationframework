@@ -1,0 +1,5 @@
+hitchhiking(0.129)
+walking(0.068)
+hugging(0.056)
+filming(0.044)
+driving(0.038)

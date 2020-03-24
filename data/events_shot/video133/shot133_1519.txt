@@ -1,0 +1,5 @@
+tapping(0.121)
+spinning(0.085)
+rolling(0.063)
+slapping(0.055)
+rubbing(0.034)

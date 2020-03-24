@@ -1,0 +1,5 @@
+queuing(0.228)
+arresting(0.068)
+walking(0.062)
+guarding(0.051)
+coaching(0.039)

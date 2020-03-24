@@ -1,5 +1,0 @@
-driving(0.267)
-riding(0.070)
-fighting(0.056)
-adult+female+speaking(0.039)
-arresting(0.030)

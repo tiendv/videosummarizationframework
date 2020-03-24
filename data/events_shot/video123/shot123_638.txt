@@ -1,0 +1,5 @@
+filming(0.067)
+aiming(0.043)
+smelling(0.037)
+crying(0.034)
+shooting(0.031)

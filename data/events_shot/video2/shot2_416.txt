@@ -1,0 +1,5 @@
+reading(0.089)
+studying(0.035)
+packing(0.030)
+working(0.026)
+writing(0.024)

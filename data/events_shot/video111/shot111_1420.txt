@@ -1,0 +1,5 @@
+handcuffing(0.112)
+tapping(0.041)
+assembling(0.030)
+locking(0.028)
+smoking(0.019)

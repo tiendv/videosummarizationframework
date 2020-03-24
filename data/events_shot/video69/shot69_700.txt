@@ -1,5 +1,0 @@
-adult+male+speaking(0.037)
-adult+male+singing(0.033)
-sitting(0.031)
-fighting(0.025)
-attacking(0.022)

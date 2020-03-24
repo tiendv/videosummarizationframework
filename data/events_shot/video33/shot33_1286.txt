@@ -1,0 +1,5 @@
+adult+male+speaking(0.133)
+standing(0.055)
+walking(0.026)
+talking(0.026)
+whistling(0.024)

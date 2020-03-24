@@ -1,0 +1,5 @@
+coaching(0.105)
+smelling(0.099)
+sniffing(0.084)
+lecturing(0.059)
+adult+male+speaking(0.036)

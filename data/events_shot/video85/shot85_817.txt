@@ -1,0 +1,5 @@
+laughing(0.118)
+smiling(0.056)
+drinking(0.036)
+grinning(0.029)
+standing(0.028)

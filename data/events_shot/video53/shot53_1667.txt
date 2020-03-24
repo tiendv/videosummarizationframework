@@ -1,0 +1,5 @@
+adult+male+speaking(0.042)
+knocking(0.042)
+painting(0.037)
+laughing(0.029)
+standing(0.021)

@@ -1,0 +1,5 @@
+officiating(0.577)
+praying(0.118)
+marrying(0.085)
+standing(0.042)
+celebrating(0.012)

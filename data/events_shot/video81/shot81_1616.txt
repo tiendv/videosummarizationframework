@@ -1,0 +1,5 @@
+exiting(0.054)
+walking(0.049)
+hugging(0.039)
+entering(0.033)
+filming(0.028)

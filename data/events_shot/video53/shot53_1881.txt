@@ -1,0 +1,5 @@
+drinking(0.129)
+coughing(0.042)
+chewing(0.037)
+adult+female+singing(0.034)
+adult+female+speaking(0.033)

@@ -1,0 +1,5 @@
+smiling(0.112)
+laughing(0.085)
+asking(0.069)
+slapping(0.051)
+imitating(0.044)

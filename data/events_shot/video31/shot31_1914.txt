@@ -1,0 +1,5 @@
+raining(0.201)
+hanging(0.124)
+building(0.084)
+playing+videogames(0.053)
+adult+male+speaking(0.035)

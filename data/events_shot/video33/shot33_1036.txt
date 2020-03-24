@@ -1,0 +1,5 @@
+sanding(0.042)
+sliding(0.033)
+cleaning(0.031)
+slicing(0.024)
+painting(0.021)

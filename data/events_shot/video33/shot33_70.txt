@@ -1,0 +1,5 @@
+hugging(0.339)
+autographing(0.030)
+opening(0.025)
+painting(0.024)
+walking(0.015)

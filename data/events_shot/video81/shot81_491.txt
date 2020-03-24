@@ -1,0 +1,5 @@
+drying(0.279)
+slapping(0.035)
+washing(0.033)
+brushing(0.030)
+aiming(0.025)

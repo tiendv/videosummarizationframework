@@ -1,0 +1,5 @@
+adult+female+speaking(0.400)
+discussing(0.120)
+asking(0.074)
+socializing(0.032)
+walking(0.029)

@@ -1,0 +1,5 @@
+walking(0.249)
+arresting(0.083)
+asking(0.068)
+hitchhiking(0.028)
+filming(0.026)

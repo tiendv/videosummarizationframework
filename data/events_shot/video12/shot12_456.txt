@@ -1,0 +1,5 @@
+adult+female+speaking(0.043)
+smiling(0.035)
+clapping(0.030)
+applauding(0.025)
+adult+female+singing(0.022)

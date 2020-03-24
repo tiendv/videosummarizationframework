@@ -1,0 +1,5 @@
+officiating(0.144)
+preaching(0.063)
+walking(0.061)
+entering(0.048)
+exiting(0.044)

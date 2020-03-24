@@ -1,5 +1,0 @@
-applauding(0.338)
-clapping(0.086)
-standing(0.039)
-drinking(0.029)
-praying(0.024)

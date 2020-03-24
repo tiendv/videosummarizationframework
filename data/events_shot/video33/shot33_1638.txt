@@ -1,0 +1,5 @@
+painting(0.241)
+slapping(0.067)
+drawing(0.054)
+spraying(0.027)
+stacking(0.019)

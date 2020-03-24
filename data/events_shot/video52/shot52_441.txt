@@ -1,0 +1,5 @@
+cooking(0.094)
+standing(0.052)
+crafting(0.051)
+adult+female+speaking(0.045)
+baking(0.042)

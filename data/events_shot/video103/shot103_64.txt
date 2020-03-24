@@ -1,0 +1,5 @@
+laughing(0.123)
+smiling(0.045)
+asking(0.042)
+standing(0.039)
+fencing(0.033)

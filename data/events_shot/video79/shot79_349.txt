@@ -1,5 +1,0 @@
-adult+female+singing(0.529)
-adult+female+speaking(0.141)
-singing(0.012)
-camping(0.010)
-smiling(0.007)

@@ -1,5 +1,0 @@
-sneezing(0.079)
-coughing(0.047)
-filming(0.042)
-adult+male+speaking(0.020)
-laughing(0.018)

@@ -1,0 +1,5 @@
+waking(0.042)
+adult+male+speaking(0.035)
+pointing(0.030)
+filming(0.029)
+discussing(0.023)

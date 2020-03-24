@@ -1,5 +1,0 @@
-frowning(0.120)
-discussing(0.063)
-interviewing(0.035)
-talking(0.033)
-asking(0.028)

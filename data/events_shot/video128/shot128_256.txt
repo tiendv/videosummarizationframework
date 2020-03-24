@@ -1,5 +1,0 @@
-fighting(0.081)
-attacking(0.040)
-adult+male+speaking(0.033)
-slapping(0.030)
-filming(0.026)

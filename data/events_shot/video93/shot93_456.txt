@@ -1,0 +1,5 @@
+reading(0.113)
+talking(0.087)
+sleeping(0.047)
+adult+male+speaking(0.044)
+playing+videogames(0.032)

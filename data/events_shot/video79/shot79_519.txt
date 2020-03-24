@@ -1,5 +1,0 @@
-diving(0.637)
-jumping(0.121)
-climbing(0.072)
-flipping(0.012)
-leaping(0.010)

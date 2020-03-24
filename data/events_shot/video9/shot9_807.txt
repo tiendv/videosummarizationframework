@@ -1,5 +1,0 @@
-crying(0.100)
-slapping(0.058)
-coughing(0.056)
-smelling(0.034)
-sniffing(0.033)

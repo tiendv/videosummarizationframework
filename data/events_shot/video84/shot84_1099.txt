@@ -1,0 +1,5 @@
+laughing(0.110)
+painting(0.080)
+drawing(0.061)
+talking(0.057)
+child+speaking(0.041)

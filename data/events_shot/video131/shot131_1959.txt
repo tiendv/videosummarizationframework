@@ -1,0 +1,5 @@
+drinking(0.065)
+clapping(0.033)
+imitating(0.033)
+slapping(0.032)
+shaking(0.026)

@@ -1,0 +1,5 @@
+tapping(0.720)
+scratching(0.086)
+rubbing(0.027)
+licking(0.013)
+brushing(0.009)

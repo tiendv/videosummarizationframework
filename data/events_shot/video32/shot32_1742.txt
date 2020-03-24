@@ -1,0 +1,5 @@
+pointing(0.226)
+waving(0.223)
+shrugging(0.124)
+celebrating(0.114)
+hugging(0.069)

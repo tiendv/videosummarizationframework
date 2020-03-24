@@ -1,5 +1,0 @@
-painting(0.269)
-cleaning(0.096)
-drawing(0.061)
-mopping(0.023)
-dusting(0.017)

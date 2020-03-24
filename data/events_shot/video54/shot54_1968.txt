@@ -1,0 +1,5 @@
+knocking(0.075)
+locking(0.042)
+adult+male+speaking(0.040)
+measuring(0.038)
+smiling(0.037)

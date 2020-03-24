@@ -1,0 +1,5 @@
+eating(0.155)
+laughing(0.148)
+child+speaking(0.071)
+chewing(0.052)
+talking(0.037)

@@ -1,5 +1,0 @@
-talking(0.042)
-wrapping(0.042)
-discussing(0.038)
-giving(0.030)
-adult+male+speaking(0.024)

@@ -1,0 +1,5 @@
+drilling(0.123)
+repairing(0.090)
+screwing(0.085)
+removing(0.068)
+locking(0.046)

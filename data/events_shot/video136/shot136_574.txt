@@ -1,5 +1,0 @@
-hugging(0.100)
-asking(0.062)
-painting(0.052)
-adult+male+speaking(0.046)
-kissing(0.039)

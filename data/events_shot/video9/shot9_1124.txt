@@ -1,5 +1,0 @@
-hugging(0.044)
-waving(0.044)
-walking(0.041)
-exiting(0.026)
-guarding(0.023)

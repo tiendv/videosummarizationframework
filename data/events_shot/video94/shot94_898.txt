@@ -1,0 +1,5 @@
+adult+male+speaking(0.061)
+discussing(0.056)
+smelling(0.048)
+giving(0.045)
+sneezing(0.042)

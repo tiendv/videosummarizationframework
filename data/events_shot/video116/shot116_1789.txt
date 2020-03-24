@@ -1,5 +1,0 @@
-vacuuming(0.113)
-inflating(0.051)
-mopping(0.045)
-crawling(0.035)
-pushing(0.031)

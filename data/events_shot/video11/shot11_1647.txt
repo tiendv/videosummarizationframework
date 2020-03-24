@@ -1,0 +1,5 @@
+adult+male+speaking(0.139)
+putting(0.028)
+telephoning(0.024)
+placing(0.019)
+calling(0.018)

@@ -1,0 +1,5 @@
+child+speaking(0.255)
+slapping(0.091)
+child+singing(0.048)
+talking(0.034)
+stacking(0.033)

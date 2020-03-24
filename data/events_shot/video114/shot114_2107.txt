@@ -1,0 +1,5 @@
+driving(0.319)
+steering(0.116)
+riding(0.070)
+hitchhiking(0.028)
+washing(0.020)

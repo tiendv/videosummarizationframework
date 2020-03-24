@@ -1,0 +1,5 @@
+dining(0.635)
+eating(0.050)
+cooking(0.037)
+serving(0.036)
+baking(0.014)

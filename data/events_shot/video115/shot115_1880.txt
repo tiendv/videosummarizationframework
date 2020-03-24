@@ -1,5 +1,0 @@
-knocking(0.114)
-locking(0.042)
-adult+male+speaking(0.032)
-coughing(0.031)
-sneezing(0.030)

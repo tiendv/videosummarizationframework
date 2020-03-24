@@ -1,0 +1,5 @@
+telephoning(0.072)
+preaching(0.055)
+adult+male+speaking(0.055)
+drinking(0.041)
+laughing(0.038)

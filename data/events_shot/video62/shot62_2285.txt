@@ -1,0 +1,5 @@
+praying(0.068)
+bowing(0.059)
+performing(0.050)
+standing(0.043)
+adult+female+singing(0.030)

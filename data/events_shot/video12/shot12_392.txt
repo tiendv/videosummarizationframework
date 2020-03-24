@@ -1,0 +1,5 @@
+chewing(0.071)
+combing(0.050)
+brushing(0.050)
+adult+male+speaking(0.042)
+discussing(0.039)

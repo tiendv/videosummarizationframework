@@ -1,0 +1,5 @@
+cooking(0.132)
+baking(0.060)
+talking(0.058)
+discussing(0.055)
+dipping(0.033)

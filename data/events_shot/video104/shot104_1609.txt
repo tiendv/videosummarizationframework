@@ -1,0 +1,5 @@
+adult+female+speaking(0.230)
+drying(0.072)
+sneezing(0.031)
+dressing(0.025)
+discussing(0.022)

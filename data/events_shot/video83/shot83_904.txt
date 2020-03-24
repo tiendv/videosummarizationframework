@@ -1,0 +1,5 @@
+shopping(0.175)
+selling(0.142)
+buying(0.127)
+paying(0.087)
+reading(0.041)

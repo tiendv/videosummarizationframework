@@ -1,0 +1,5 @@
+vacuuming(0.065)
+exiting(0.061)
+closing(0.048)
+opening(0.045)
+knocking(0.038)

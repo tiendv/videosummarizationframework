@@ -1,0 +1,5 @@
+waking(0.117)
+chewing(0.072)
+squinting(0.049)
+sneezing(0.045)
+frowning(0.038)

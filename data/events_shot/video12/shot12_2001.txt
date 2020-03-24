@@ -1,0 +1,5 @@
+crying(0.161)
+frowning(0.036)
+raining(0.031)
+slapping(0.027)
+adult+male+speaking(0.021)

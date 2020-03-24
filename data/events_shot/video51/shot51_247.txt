@@ -1,0 +1,5 @@
+drying(0.091)
+dusting(0.046)
+cleaning(0.042)
+washing(0.040)
+scrubbing(0.037)

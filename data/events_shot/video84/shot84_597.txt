@@ -1,0 +1,5 @@
+discussing(0.065)
+adult+male+speaking(0.040)
+fencing(0.035)
+smiling(0.029)
+socializing(0.029)

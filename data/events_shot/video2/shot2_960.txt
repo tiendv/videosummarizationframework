@@ -1,0 +1,5 @@
+telephoning(0.055)
+calling(0.035)
+adult+female+singing(0.034)
+cracking(0.034)
+knocking(0.033)

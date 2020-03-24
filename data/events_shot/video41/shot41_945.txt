@@ -1,0 +1,5 @@
+manicuring(0.271)
+painting(0.103)
+brushing(0.074)
+sitting(0.039)
+talking(0.027)

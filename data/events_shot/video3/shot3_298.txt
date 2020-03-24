@@ -1,0 +1,5 @@
+child+speaking(0.320)
+child+singing(0.154)
+mopping(0.049)
+sweeping(0.048)
+vacuuming(0.040)

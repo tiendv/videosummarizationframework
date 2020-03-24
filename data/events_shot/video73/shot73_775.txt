@@ -1,0 +1,5 @@
+adult+male+speaking(0.088)
+talking(0.082)
+putting(0.065)
+teaching(0.055)
+adult+female+speaking(0.048)

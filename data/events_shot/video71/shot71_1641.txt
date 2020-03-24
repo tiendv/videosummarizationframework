@@ -1,0 +1,5 @@
+stretching(0.078)
+balancing(0.074)
+gripping(0.026)
+kneeling(0.023)
+crushing(0.023)

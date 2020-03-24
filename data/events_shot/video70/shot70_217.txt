@@ -1,5 +1,0 @@
-crying(0.212)
-raining(0.064)
-adult+female+singing(0.024)
-coughing(0.023)
-walking(0.023)

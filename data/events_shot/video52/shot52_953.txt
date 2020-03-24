@@ -1,0 +1,5 @@
+hunting(0.108)
+walking(0.092)
+playing+videogames(0.087)
+hitchhiking(0.076)
+standing(0.030)

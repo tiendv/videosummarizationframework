@@ -1,0 +1,5 @@
+arresting(0.055)
+knocking(0.053)
+whistling(0.039)
+locking(0.039)
+adult+male+speaking(0.037)

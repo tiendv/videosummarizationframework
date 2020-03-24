@@ -1,0 +1,5 @@
+slapping(0.080)
+punching(0.071)
+shaving(0.061)
+shooting(0.030)
+hammering(0.027)

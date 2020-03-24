@@ -1,0 +1,5 @@
+smoking(0.993)
+whistling(0.002)
+coughing(0.002)
+blowing(0.001)
+sneezing(0.000)

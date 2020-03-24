@@ -1,5 +1,0 @@
-drinking(0.770)
-shaving(0.030)
-removing(0.017)
-brushing(0.012)
-sneezing(0.007)

@@ -1,5 +1,0 @@
-hitchhiking(0.096)
-smiling(0.093)
-driving(0.080)
-grinning(0.037)
-steering(0.033)

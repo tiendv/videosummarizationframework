@@ -1,0 +1,5 @@
+talking(0.106)
+discussing(0.080)
+adult+female+speaking(0.056)
+shopping(0.037)
+asking(0.033)

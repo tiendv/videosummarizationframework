@@ -1,5 +1,0 @@
-talking(0.034)
-walking(0.025)
-standing(0.025)
-instructing(0.020)
-pointing(0.020)

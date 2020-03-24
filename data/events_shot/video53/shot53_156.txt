@@ -1,0 +1,5 @@
+blowing(0.049)
+sneezing(0.034)
+crying(0.027)
+kissing(0.026)
+hugging(0.023)

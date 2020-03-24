@@ -1,5 +1,0 @@
-asking(0.180)
-adult+male+speaking(0.100)
-autographing(0.090)
-coaching(0.056)
-discussing(0.033)

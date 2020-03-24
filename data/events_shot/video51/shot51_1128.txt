@@ -1,0 +1,5 @@
+manicuring(0.101)
+cooking(0.075)
+baking(0.067)
+cleaning(0.039)
+hugging(0.030)

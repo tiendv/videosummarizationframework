@@ -1,0 +1,5 @@
+cuddling(0.283)
+waking(0.086)
+hugging(0.046)
+snuggling(0.032)
+laughing(0.028)

@@ -1,0 +1,5 @@
+sliding(0.137)
+opening(0.103)
+closing(0.100)
+entering(0.050)
+hanging(0.042)

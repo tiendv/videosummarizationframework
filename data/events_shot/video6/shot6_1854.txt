@@ -1,5 +1,0 @@
-sprinting(0.229)
-walking(0.047)
-shrugging(0.031)
-officiating(0.030)
-running(0.026)

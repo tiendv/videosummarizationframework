@@ -1,0 +1,5 @@
+adult+male+speaking(0.045)
+crying(0.031)
+tattooing(0.031)
+laughing(0.027)
+cracking(0.026)

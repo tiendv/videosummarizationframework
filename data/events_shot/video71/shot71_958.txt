@@ -1,0 +1,5 @@
+waking(0.293)
+sleeping(0.285)
+resting(0.050)
+fighting(0.039)
+attacking(0.036)

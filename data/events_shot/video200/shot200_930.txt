@@ -1,5 +1,0 @@
-walking(0.077)
-running(0.057)
-filming(0.036)
-punching(0.025)
-hugging(0.021)

@@ -1,0 +1,5 @@
+carving(0.975)
+cooking(0.007)
+slicing(0.003)
+peeling(0.003)
+smashing(0.001)

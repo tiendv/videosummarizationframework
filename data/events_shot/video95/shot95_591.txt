@@ -1,0 +1,5 @@
+walking(0.312)
+standing(0.069)
+performing(0.036)
+rocking(0.023)
+waving(0.020)

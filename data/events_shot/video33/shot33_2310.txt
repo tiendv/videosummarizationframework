@@ -1,0 +1,5 @@
+flying(0.077)
+waving(0.063)
+juggling(0.047)
+running(0.032)
+roaring(0.019)

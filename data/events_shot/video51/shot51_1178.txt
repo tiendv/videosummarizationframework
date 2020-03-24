@@ -1,0 +1,5 @@
+adult+male+speaking(0.156)
+laughing(0.083)
+shaving(0.045)
+discussing(0.038)
+sitting(0.025)

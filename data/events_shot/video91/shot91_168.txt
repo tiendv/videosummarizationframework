@@ -1,0 +1,5 @@
+painting(0.240)
+talking(0.063)
+sitting(0.048)
+stacking(0.024)
+selling(0.020)

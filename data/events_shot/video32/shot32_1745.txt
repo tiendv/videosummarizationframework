@@ -1,0 +1,5 @@
+sprinting(0.056)
+running(0.053)
+fighting(0.037)
+roaring(0.032)
+playing+videogames(0.031)

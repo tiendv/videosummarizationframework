@@ -1,0 +1,5 @@
+sneezing(0.985)
+coughing(0.011)
+crying(0.003)
+laughing(0.000)
+sniffing(0.000)

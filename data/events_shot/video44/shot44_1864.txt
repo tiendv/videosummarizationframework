@@ -1,0 +1,5 @@
+combing(0.091)
+drying(0.039)
+brushing(0.030)
+chewing(0.025)
+tying(0.019)

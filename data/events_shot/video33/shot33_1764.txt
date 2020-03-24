@@ -1,0 +1,5 @@
+spinning(0.371)
+turning(0.135)
+tattooing(0.031)
+walking(0.027)
+adult+female+singing(0.021)

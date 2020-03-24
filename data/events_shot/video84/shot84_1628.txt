@@ -1,0 +1,5 @@
+fencing(0.559)
+walking(0.031)
+raining(0.018)
+entering(0.013)
+tapping(0.013)

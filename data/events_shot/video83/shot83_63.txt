@@ -1,0 +1,5 @@
+slapping(0.078)
+queuing(0.060)
+shopping(0.053)
+hugging(0.045)
+adult+female+speaking(0.044)

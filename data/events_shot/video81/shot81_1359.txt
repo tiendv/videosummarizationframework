@@ -1,0 +1,5 @@
+sneezing(0.078)
+talking(0.043)
+attacking(0.040)
+playing+videogames(0.040)
+slapping(0.034)

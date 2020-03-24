@@ -1,0 +1,5 @@
+talking(0.030)
+attacking(0.028)
+cooking(0.025)
+burning(0.024)
+crying(0.022)

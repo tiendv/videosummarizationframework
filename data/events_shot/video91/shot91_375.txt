@@ -1,0 +1,5 @@
+walking(0.166)
+playing+videogames(0.051)
+adult+male+speaking(0.042)
+adult+male+singing(0.035)
+arresting(0.033)

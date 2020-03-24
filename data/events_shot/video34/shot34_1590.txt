@@ -1,0 +1,5 @@
+telephoning(0.383)
+calling(0.187)
+filming(0.029)
+discussing(0.029)
+adult+female+speaking(0.025)

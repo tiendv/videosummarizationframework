@@ -1,0 +1,5 @@
+sneezing(0.056)
+roaring(0.054)
+crying(0.045)
+adult+male+speaking(0.030)
+spitting(0.029)

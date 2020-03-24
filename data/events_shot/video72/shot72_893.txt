@@ -1,0 +1,5 @@
+shaving(0.068)
+knocking(0.064)
+drying(0.055)
+adult+female+singing(0.023)
+praying(0.023)

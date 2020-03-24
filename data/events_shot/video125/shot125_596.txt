@@ -1,0 +1,5 @@
+sneezing(0.040)
+walking(0.037)
+hanging(0.033)
+sniffing(0.022)
+cleaning(0.021)

@@ -1,0 +1,5 @@
+dripping(0.874)
+raining(0.068)
+pouring(0.008)
+drenching(0.006)
+dropping(0.005)

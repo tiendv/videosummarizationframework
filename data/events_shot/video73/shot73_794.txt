@@ -1,0 +1,5 @@
+raining(0.267)
+washing(0.124)
+rinsing(0.100)
+drenching(0.055)
+watering(0.049)

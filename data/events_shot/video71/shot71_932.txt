@@ -1,0 +1,5 @@
+adult+female+singing(0.181)
+adult+female+speaking(0.047)
+performing(0.037)
+celebrating(0.036)
+dining(0.034)

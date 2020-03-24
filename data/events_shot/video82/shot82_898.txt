@@ -1,0 +1,5 @@
+crying(0.135)
+frowning(0.124)
+queuing(0.054)
+child+singing(0.031)
+adult+male+speaking(0.027)

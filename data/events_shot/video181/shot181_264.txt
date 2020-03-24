@@ -1,5 +1,0 @@
-shopping(0.063)
-dining(0.054)
-cooking(0.048)
-selling(0.043)
-adult+male+speaking(0.035)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.068)
+chewing(0.045)
+adult+male+speaking(0.040)
+tapping(0.030)
+rubbing(0.023)

@@ -1,0 +1,5 @@
+shaving(0.107)
+cracking(0.105)
+drying(0.048)
+praying(0.031)
+adult+male+speaking(0.028)

@@ -1,0 +1,5 @@
+preaching(0.141)
+gardening(0.094)
+adult+male+speaking(0.076)
+sowing(0.055)
+planting(0.031)

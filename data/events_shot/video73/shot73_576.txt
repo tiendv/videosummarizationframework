@@ -1,0 +1,5 @@
+crafting(0.147)
+folding(0.103)
+peeling(0.096)
+slicing(0.076)
+poking(0.065)

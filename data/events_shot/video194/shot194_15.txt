@@ -1,5 +1,0 @@
-filming(0.037)
-aiming(0.036)
-throwing(0.032)
-pointing(0.028)
-adult+male+speaking(0.028)

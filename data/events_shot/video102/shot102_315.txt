@@ -1,0 +1,5 @@
+dining(0.054)
+drinking(0.046)
+hanging(0.045)
+celebrating(0.030)
+dancing(0.026)

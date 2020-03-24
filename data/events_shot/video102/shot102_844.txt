@@ -1,0 +1,5 @@
+drinking(0.184)
+adult+female+speaking(0.133)
+slapping(0.056)
+discussing(0.037)
+smelling(0.033)

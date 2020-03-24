@@ -1,0 +1,5 @@
+sprinting(0.245)
+racing(0.048)
+running(0.044)
+bicycling(0.032)
+playing+sports(0.025)

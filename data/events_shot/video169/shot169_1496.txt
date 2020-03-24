@@ -1,5 +1,0 @@
-adult+male+speaking(0.105)
-hunting(0.057)
-asking(0.043)
-guarding(0.042)
-starting(0.032)

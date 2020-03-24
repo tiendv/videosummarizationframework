@@ -1,5 +1,0 @@
-squatting(0.240)
-lifting(0.058)
-rising(0.053)
-fighting(0.037)
-exercising(0.032)

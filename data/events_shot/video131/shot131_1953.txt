@@ -1,0 +1,5 @@
+parading(0.126)
+juggling(0.082)
+walking(0.075)
+marching(0.051)
+shopping(0.046)

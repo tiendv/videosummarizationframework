@@ -1,5 +1,0 @@
-adult+male+speaking(0.038)
-talking(0.037)
-standing(0.035)
-filming(0.024)
-working(0.022)

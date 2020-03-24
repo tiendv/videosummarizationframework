@@ -1,0 +1,5 @@
+cleaning(0.042)
+running(0.036)
+removing(0.027)
+dusting(0.025)
+shaving(0.025)

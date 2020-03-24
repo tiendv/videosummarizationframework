@@ -1,0 +1,5 @@
+slapping(0.141)
+spitting(0.062)
+winking(0.030)
+frowning(0.027)
+adult+male+speaking(0.027)

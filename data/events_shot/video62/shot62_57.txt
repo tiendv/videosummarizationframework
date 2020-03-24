@@ -1,0 +1,5 @@
+cleaning(0.029)
+walking(0.022)
+aiming(0.022)
+adult+male+speaking(0.021)
+squatting(0.021)

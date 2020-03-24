@@ -1,0 +1,5 @@
+slapping(0.330)
+knocking(0.077)
+adult+male+speaking(0.031)
+blocking(0.023)
+snapping(0.020)

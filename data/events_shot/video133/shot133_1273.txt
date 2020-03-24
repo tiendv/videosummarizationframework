@@ -1,0 +1,5 @@
+inflating(0.172)
+handcuffing(0.062)
+adult+male+speaking(0.049)
+adult+female+speaking(0.048)
+asking(0.032)

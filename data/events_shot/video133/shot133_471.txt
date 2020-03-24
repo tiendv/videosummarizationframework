@@ -1,0 +1,5 @@
+rising(0.164)
+ascending(0.138)
+walking(0.095)
+descending(0.065)
+filming(0.036)

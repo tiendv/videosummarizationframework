@@ -1,0 +1,5 @@
+adult+male+speaking(0.045)
+aiming(0.036)
+arresting(0.026)
+discussing(0.022)
+asking(0.021)

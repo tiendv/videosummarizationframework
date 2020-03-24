@@ -1,0 +1,5 @@
+aiming(0.098)
+punching(0.076)
+fighting(0.069)
+boxing(0.066)
+adult+male+speaking(0.059)

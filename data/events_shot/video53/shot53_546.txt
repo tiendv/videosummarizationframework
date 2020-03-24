@@ -1,0 +1,5 @@
+pushing(0.144)
+walking(0.065)
+dragging(0.057)
+pulling(0.048)
+sweeping(0.042)

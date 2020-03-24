@@ -1,0 +1,5 @@
+painting(0.147)
+pointing(0.071)
+smiling(0.054)
+slapping(0.047)
+adult+male+speaking(0.036)

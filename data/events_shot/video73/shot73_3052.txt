@@ -1,0 +1,5 @@
+spinning(0.062)
+roaring(0.055)
+aiming(0.051)
+drawing(0.040)
+starting(0.039)

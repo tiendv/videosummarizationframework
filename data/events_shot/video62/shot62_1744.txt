@@ -1,0 +1,5 @@
+crying(0.210)
+raining(0.067)
+frowning(0.042)
+hugging(0.026)
+arresting(0.023)

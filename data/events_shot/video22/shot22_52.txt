@@ -1,0 +1,5 @@
+drawing(0.050)
+folding(0.025)
+crafting(0.022)
+repairing(0.019)
+locking(0.019)

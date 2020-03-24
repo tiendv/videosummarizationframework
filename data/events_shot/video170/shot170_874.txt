@@ -1,5 +1,0 @@
-smiling(0.082)
-laughing(0.074)
-adult+female+singing(0.071)
-standing(0.054)
-filming(0.038)

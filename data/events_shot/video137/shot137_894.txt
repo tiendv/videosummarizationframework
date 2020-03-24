@@ -1,5 +1,0 @@
-drinking(0.259)
-pouring(0.091)
-emptying(0.039)
-draining(0.035)
-spilling(0.027)

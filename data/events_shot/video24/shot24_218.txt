@@ -1,0 +1,5 @@
+eating(0.374)
+chewing(0.088)
+feeding(0.034)
+spitting(0.022)
+biting(0.020)

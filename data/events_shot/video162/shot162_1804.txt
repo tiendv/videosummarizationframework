@@ -1,5 +1,0 @@
-dining(0.123)
-walking(0.046)
-playing+videogames(0.046)
-drinking(0.045)
-discussing(0.039)

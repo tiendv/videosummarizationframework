@@ -1,0 +1,5 @@
+carrying(0.052)
+walking(0.045)
+crying(0.043)
+bowing(0.028)
+filming(0.024)

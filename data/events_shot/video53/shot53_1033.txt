@@ -1,0 +1,5 @@
+chewing(0.109)
+constructing(0.071)
+adult+male+speaking(0.061)
+gripping(0.034)
+eating(0.033)

@@ -1,5 +1,0 @@
-painting(0.040)
-spraying(0.025)
-sneezing(0.019)
-dusting(0.018)
-coughing(0.016)

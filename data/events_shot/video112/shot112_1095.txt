@@ -1,0 +1,5 @@
+tattooing(0.240)
+talking(0.031)
+hugging(0.029)
+adult+male+speaking(0.025)
+playing+videogames(0.020)

@@ -1,0 +1,5 @@
+sneezing(0.084)
+coughing(0.035)
+stealing(0.032)
+imitating(0.026)
+laughing(0.025)

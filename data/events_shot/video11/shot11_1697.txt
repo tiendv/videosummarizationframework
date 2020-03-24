@@ -1,0 +1,5 @@
+preaching(0.333)
+playing+music(0.079)
+drumming(0.047)
+standing(0.038)
+performing(0.029)

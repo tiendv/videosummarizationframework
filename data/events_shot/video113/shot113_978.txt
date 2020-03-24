@@ -1,0 +1,5 @@
+sneezing(0.183)
+slapping(0.136)
+coughing(0.100)
+imitating(0.052)
+smelling(0.024)

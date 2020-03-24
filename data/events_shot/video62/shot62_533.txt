@@ -1,0 +1,5 @@
+signing(0.143)
+adult+male+speaking(0.067)
+standing(0.041)
+whistling(0.023)
+handcuffing(0.021)

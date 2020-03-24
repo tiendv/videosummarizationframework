@@ -1,0 +1,5 @@
+hugging(0.144)
+asking(0.099)
+adult+female+speaking(0.072)
+hitchhiking(0.055)
+cuddling(0.048)

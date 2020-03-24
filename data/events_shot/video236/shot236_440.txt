@@ -1,5 +1,0 @@
-telephoning(0.123)
-adult+female+speaking(0.093)
-studying(0.036)
-laughing(0.034)
-writing(0.032)

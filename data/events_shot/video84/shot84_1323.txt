@@ -1,0 +1,5 @@
+packing(0.666)
+unpacking(0.250)
+packaging(0.020)
+vacuuming(0.002)
+unloading(0.002)

@@ -1,0 +1,5 @@
+adult+female+singing(0.175)
+dancing(0.081)
+performing(0.062)
+walking(0.058)
+spinning(0.030)

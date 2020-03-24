@@ -1,5 +1,0 @@
-adult+female+speaking(0.050)
-adult+male+speaking(0.036)
-hugging(0.028)
-walking(0.022)
-smiling(0.021)

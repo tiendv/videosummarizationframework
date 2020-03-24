@@ -1,0 +1,5 @@
+fencing(0.225)
+stomping(0.039)
+sliding(0.031)
+standing(0.028)
+barking(0.027)

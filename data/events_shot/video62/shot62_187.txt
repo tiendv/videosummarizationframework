@@ -1,0 +1,5 @@
+preaching(0.290)
+asking(0.272)
+adult+male+speaking(0.105)
+adult+female+speaking(0.035)
+stealing(0.029)

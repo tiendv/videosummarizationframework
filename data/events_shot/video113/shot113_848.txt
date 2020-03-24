@@ -1,0 +1,5 @@
+adult+female+speaking(0.044)
+steering(0.034)
+riding(0.034)
+driving(0.032)
+calling(0.028)

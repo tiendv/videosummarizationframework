@@ -1,0 +1,5 @@
+spinning(0.705)
+turning(0.130)
+starting(0.011)
+talking(0.008)
+twisting(0.005)

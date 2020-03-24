@@ -1,0 +1,5 @@
+frowning(0.299)
+squinting(0.093)
+discussing(0.073)
+adult+female+speaking(0.051)
+brushing(0.036)

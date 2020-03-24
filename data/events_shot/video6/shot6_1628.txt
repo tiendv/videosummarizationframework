@@ -1,5 +1,0 @@
-stomping(0.155)
-walking(0.118)
-standing(0.096)
-dining(0.054)
-autographing(0.037)

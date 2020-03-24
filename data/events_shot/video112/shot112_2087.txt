@@ -1,0 +1,5 @@
+cooking(0.099)
+dining(0.070)
+baking(0.033)
+serving(0.029)
+autographing(0.028)

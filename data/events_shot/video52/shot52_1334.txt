@@ -1,0 +1,5 @@
+praying(0.262)
+singing(0.067)
+bowing(0.057)
+performing(0.043)
+hanging(0.042)

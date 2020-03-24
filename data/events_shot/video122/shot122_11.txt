@@ -1,0 +1,5 @@
+bicycling(0.561)
+pedaling(0.040)
+hiking(0.036)
+hunting(0.021)
+aiming(0.018)

@@ -1,0 +1,5 @@
+walking(0.142)
+fighting(0.107)
+playing+videogames(0.050)
+running(0.042)
+arresting(0.042)

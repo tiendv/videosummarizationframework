@@ -1,0 +1,5 @@
+knocking(0.209)
+running(0.073)
+walking(0.072)
+building(0.035)
+chasing(0.019)

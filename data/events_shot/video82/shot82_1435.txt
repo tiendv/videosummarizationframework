@@ -1,0 +1,5 @@
+knocking(0.980)
+locking(0.002)
+entering(0.002)
+boxing(0.002)
+punching(0.002)

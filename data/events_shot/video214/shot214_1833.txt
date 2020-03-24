@@ -1,5 +1,0 @@
-coughing(0.106)
-sniffing(0.086)
-sneezing(0.079)
-smelling(0.058)
-drinking(0.047)

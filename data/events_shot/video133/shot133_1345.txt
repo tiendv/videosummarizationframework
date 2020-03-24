@@ -1,0 +1,5 @@
+stretching(0.682)
+reaching(0.142)
+exercising(0.029)
+balancing(0.017)
+cracking(0.012)

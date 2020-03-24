@@ -1,0 +1,5 @@
+mopping(0.096)
+aiming(0.069)
+bowling(0.034)
+cleaning(0.025)
+skiing(0.023)

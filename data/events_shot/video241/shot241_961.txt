@@ -1,5 +1,0 @@
-walking(0.697)
-hunting(0.039)
-standing(0.037)
-hiking(0.036)
-playing+videogames(0.027)

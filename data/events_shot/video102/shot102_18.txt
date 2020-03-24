@@ -1,0 +1,5 @@
+attacking(0.038)
+painting(0.035)
+slapping(0.029)
+smashing(0.029)
+shooting(0.027)

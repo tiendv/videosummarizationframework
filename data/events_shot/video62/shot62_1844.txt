@@ -1,0 +1,5 @@
+adult+female+speaking(0.087)
+telephoning(0.046)
+calling(0.031)
+adult+male+speaking(0.026)
+fueling(0.021)

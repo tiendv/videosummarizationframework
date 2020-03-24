@@ -1,5 +1,0 @@
-painting(0.329)
-welding(0.072)
-drawing(0.039)
-building(0.032)
-repairing(0.020)

@@ -1,5 +1,0 @@
-crafting(0.089)
-painting(0.059)
-cleaning(0.053)
-spinning(0.050)
-mopping(0.041)

@@ -1,5 +1,0 @@
-drying(0.223)
-combing(0.094)
-brushing(0.070)
-slapping(0.054)
-walking(0.026)

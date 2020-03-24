@@ -1,0 +1,5 @@
+lifting(0.046)
+raising(0.026)
+sitting(0.023)
+working(0.023)
+filming(0.018)

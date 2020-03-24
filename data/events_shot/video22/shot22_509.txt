@@ -1,0 +1,5 @@
+running(0.076)
+sleeping(0.044)
+kicking(0.042)
+playing+videogames(0.042)
+waking(0.037)

@@ -1,5 +1,0 @@
-adult+female+singing(0.080)
-adult+male+singing(0.042)
-standing(0.039)
-tattooing(0.024)
-hugging(0.024)

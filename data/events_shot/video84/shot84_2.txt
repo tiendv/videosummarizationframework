@@ -1,0 +1,5 @@
+burying(0.317)
+digging(0.051)
+sleeping(0.026)
+resting(0.025)
+diving(0.025)

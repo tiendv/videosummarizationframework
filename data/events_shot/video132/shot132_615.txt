@@ -1,0 +1,5 @@
+dining(0.095)
+adult+male+speaking(0.042)
+playing+videogames(0.040)
+standing(0.031)
+celebrating(0.031)

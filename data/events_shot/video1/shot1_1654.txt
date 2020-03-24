@@ -1,0 +1,5 @@
+studying(0.103)
+handwriting(0.084)
+writing(0.075)
+asking(0.075)
+signing(0.046)

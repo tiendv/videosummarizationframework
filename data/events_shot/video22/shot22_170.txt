@@ -1,0 +1,5 @@
+stacking(0.128)
+slapping(0.049)
+aiming(0.035)
+standing(0.032)
+throwing(0.026)

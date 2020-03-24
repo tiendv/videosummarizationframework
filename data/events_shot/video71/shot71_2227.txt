@@ -1,0 +1,5 @@
+snowing(0.388)
+skiing(0.244)
+shoveling(0.128)
+surfing(0.045)
+rafting(0.017)

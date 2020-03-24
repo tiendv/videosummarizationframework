@@ -1,5 +1,0 @@
-talking(0.082)
-child+speaking(0.053)
-playing+videogames(0.035)
-standing(0.030)
-telephoning(0.025)

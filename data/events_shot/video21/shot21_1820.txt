@@ -1,0 +1,5 @@
+rising(0.105)
+bouncing(0.088)
+ascending(0.066)
+adult+male+singing(0.036)
+starting(0.035)

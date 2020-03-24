@@ -1,0 +1,5 @@
+hanging(0.060)
+walking(0.038)
+running(0.034)
+climbing(0.023)
+crawling(0.022)

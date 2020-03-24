@@ -1,5 +1,0 @@
-roaring(0.033)
-adult+female+singing(0.033)
-filming(0.033)
-smashing(0.028)
-colliding(0.027)

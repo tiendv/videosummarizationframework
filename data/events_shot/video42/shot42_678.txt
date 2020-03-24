@@ -1,0 +1,5 @@
+spinning(0.329)
+walking(0.062)
+rocking(0.055)
+hanging(0.040)
+balancing(0.040)

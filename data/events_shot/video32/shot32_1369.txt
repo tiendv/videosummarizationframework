@@ -1,0 +1,5 @@
+fencing(0.726)
+building(0.019)
+raining(0.010)
+walking(0.007)
+snowing(0.007)

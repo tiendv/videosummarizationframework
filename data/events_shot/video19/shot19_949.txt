@@ -1,5 +1,0 @@
-walking(0.038)
-adult+female+singing(0.034)
-running(0.028)
-hiking(0.026)
-asking(0.026)

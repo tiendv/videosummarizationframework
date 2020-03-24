@@ -1,0 +1,5 @@
+packing(0.501)
+unpacking(0.236)
+adult+female+singing(0.021)
+dressing(0.015)
+folding(0.013)

@@ -1,0 +1,5 @@
+washing(0.074)
+arresting(0.057)
+slapping(0.050)
+spitting(0.046)
+laughing(0.042)

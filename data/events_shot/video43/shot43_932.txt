@@ -1,0 +1,5 @@
+sleeping(0.096)
+waking(0.092)
+hugging(0.050)
+resting(0.029)
+sawing(0.025)

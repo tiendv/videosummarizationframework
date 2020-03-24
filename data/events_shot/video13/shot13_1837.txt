@@ -1,0 +1,5 @@
+hugging(0.077)
+knocking(0.030)
+walking(0.030)
+carrying(0.029)
+exiting(0.019)

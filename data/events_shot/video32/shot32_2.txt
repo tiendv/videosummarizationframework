@@ -1,0 +1,5 @@
+burying(0.139)
+walking(0.034)
+digging(0.027)
+hiking(0.022)
+bulldozing(0.022)

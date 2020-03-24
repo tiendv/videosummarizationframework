@@ -1,0 +1,5 @@
+rising(0.601)
+erupting(0.170)
+storming(0.054)
+ascending(0.021)
+covering(0.014)

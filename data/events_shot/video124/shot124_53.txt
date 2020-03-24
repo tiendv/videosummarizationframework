@@ -1,0 +1,5 @@
+lifting(0.185)
+raising(0.087)
+flipping(0.080)
+stacking(0.053)
+kneeling(0.039)

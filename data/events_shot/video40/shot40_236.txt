@@ -1,5 +1,0 @@
-slapping(0.040)
-talking(0.036)
-pointing(0.032)
-giving(0.031)
-smiling(0.028)

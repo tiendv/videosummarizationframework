@@ -1,0 +1,5 @@
+yawning(0.559)
+coughing(0.030)
+tickling(0.021)
+licking(0.021)
+shouting(0.019)

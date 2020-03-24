@@ -1,0 +1,5 @@
+reading(0.370)
+handwriting(0.182)
+writing(0.061)
+studying(0.060)
+autographing(0.020)

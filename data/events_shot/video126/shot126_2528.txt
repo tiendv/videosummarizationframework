@@ -1,5 +1,0 @@
-raining(0.271)
-walking(0.057)
-snowing(0.049)
-adult+male+singing(0.043)
-playing+videogames(0.039)

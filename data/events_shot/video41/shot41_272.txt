@@ -1,0 +1,5 @@
+adult+female+speaking(0.343)
+knitting(0.309)
+stitching(0.159)
+manicuring(0.066)
+sewing(0.020)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.050)
-punching(0.036)
-laughing(0.031)
-sitting(0.030)
-sneezing(0.024)

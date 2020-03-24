@@ -1,0 +1,5 @@
+adult+female+speaking(0.128)
+drinking(0.098)
+smoking(0.089)
+playing+videogames(0.067)
+discussing(0.064)

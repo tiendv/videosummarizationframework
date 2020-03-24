@@ -1,5 +1,0 @@
-guarding(0.315)
-saluting(0.067)
-standing(0.063)
-sitting(0.061)
-hunting(0.060)

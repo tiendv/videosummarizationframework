@@ -1,5 +1,0 @@
-slapping(0.200)
-sneezing(0.110)
-coughing(0.056)
-punching(0.039)
-spitting(0.025)

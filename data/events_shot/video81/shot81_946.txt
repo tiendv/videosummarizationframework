@@ -1,0 +1,5 @@
+roaring(0.159)
+attacking(0.127)
+slapping(0.024)
+fighting(0.021)
+shaking(0.016)

@@ -1,0 +1,5 @@
+asking(0.030)
+adult+female+speaking(0.028)
+sneezing(0.028)
+aiming(0.024)
+standing(0.022)

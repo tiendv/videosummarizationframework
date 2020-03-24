@@ -1,0 +1,5 @@
+talking(0.108)
+slapping(0.064)
+adult+male+speaking(0.046)
+walking(0.035)
+whistling(0.035)

@@ -1,0 +1,5 @@
+discussing(0.071)
+hugging(0.048)
+adult+male+speaking(0.039)
+adult+female+speaking(0.036)
+arresting(0.034)

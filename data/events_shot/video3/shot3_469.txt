@@ -1,0 +1,5 @@
+smoking(0.105)
+driving(0.080)
+steering(0.035)
+stopping(0.026)
+opening(0.024)

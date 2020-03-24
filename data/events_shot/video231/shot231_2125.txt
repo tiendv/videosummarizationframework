@@ -1,5 +1,0 @@
-adult+female+singing(0.048)
-standing(0.030)
-singing(0.027)
-kicking(0.025)
-hugging(0.023)

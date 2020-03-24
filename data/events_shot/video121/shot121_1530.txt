@@ -1,0 +1,5 @@
+waking(0.070)
+painting(0.039)
+brushing(0.032)
+sneezing(0.030)
+tickling(0.029)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.133)
+preaching(0.056)
+laughing(0.047)
+playing+videogames(0.029)
+sneezing(0.027)

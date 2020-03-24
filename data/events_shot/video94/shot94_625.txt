@@ -1,0 +1,5 @@
+sneezing(0.218)
+crying(0.210)
+coughing(0.106)
+laughing(0.050)
+smelling(0.031)

@@ -1,0 +1,5 @@
+drying(0.223)
+spinning(0.189)
+inflating(0.085)
+blowing(0.066)
+turning(0.046)

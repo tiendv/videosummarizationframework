@@ -1,5 +1,0 @@
-shaving(0.110)
-cleaning(0.062)
-tattooing(0.056)
-pouring(0.043)
-drying(0.038)

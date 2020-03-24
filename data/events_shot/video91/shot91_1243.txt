@@ -1,0 +1,5 @@
+sleeping(0.033)
+waking(0.025)
+laughing(0.023)
+sitting(0.021)
+resting(0.021)

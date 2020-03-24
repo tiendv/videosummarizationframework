@@ -1,0 +1,5 @@
+laughing(0.080)
+slapping(0.069)
+shaking(0.067)
+barking(0.048)
+sneezing(0.046)

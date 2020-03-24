@@ -1,0 +1,5 @@
+drinking(0.226)
+dining(0.116)
+sitting(0.065)
+filming(0.034)
+smiling(0.028)

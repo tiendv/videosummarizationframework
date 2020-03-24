@@ -1,0 +1,5 @@
+swinging(0.166)
+hanging(0.143)
+climbing(0.077)
+hiking(0.036)
+roaring(0.019)

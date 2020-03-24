@@ -1,0 +1,5 @@
+officiating(0.176)
+queuing(0.137)
+marrying(0.110)
+praying(0.092)
+adult+male+speaking(0.030)

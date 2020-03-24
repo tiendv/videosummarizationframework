@@ -1,0 +1,5 @@
+punching(0.233)
+boxing(0.055)
+hammering(0.026)
+assembling(0.021)
+kicking(0.016)

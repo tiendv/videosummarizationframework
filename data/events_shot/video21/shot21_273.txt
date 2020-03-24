@@ -1,0 +1,5 @@
+kneeling(0.066)
+planting(0.059)
+picking(0.039)
+sniffing(0.039)
+drying(0.036)

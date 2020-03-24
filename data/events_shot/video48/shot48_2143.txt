@@ -1,5 +1,0 @@
-filming(0.125)
-walking(0.068)
-photographing(0.062)
-aiming(0.043)
-sneezing(0.037)

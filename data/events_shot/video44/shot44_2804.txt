@@ -1,5 +1,0 @@
-hugging(0.049)
-adult+female+speaking(0.029)
-drying(0.025)
-slapping(0.024)
-packing(0.021)

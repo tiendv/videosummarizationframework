@@ -1,0 +1,5 @@
+fueling(0.085)
+walking(0.050)
+loading(0.031)
+cleaning(0.030)
+closing(0.029)

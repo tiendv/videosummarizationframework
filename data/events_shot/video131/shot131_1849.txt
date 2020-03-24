@@ -1,0 +1,5 @@
+walking(0.123)
+running(0.069)
+entering(0.038)
+raining(0.031)
+closing(0.029)

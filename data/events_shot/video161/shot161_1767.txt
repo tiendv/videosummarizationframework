@@ -1,5 +1,0 @@
-bowling(0.053)
-hugging(0.045)
-smiling(0.035)
-sneezing(0.029)
-adult+female+speaking(0.027)

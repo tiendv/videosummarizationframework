@@ -1,0 +1,5 @@
+fencing(0.561)
+walking(0.033)
+guarding(0.032)
+standing(0.024)
+opening(0.023)

@@ -1,0 +1,5 @@
+hiking(0.703)
+climbing(0.153)
+snowing(0.054)
+skiing(0.008)
+ascending(0.007)

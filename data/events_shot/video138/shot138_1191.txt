@@ -1,5 +1,0 @@
-fishing(0.149)
-hunting(0.073)
-diving(0.054)
-playing+videogames(0.050)
-attacking(0.035)

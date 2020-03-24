@@ -1,0 +1,5 @@
+child+speaking(0.166)
+child+singing(0.105)
+adult+female+singing(0.059)
+slapping(0.044)
+imitating(0.041)

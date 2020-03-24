@@ -1,0 +1,5 @@
+unpacking(0.066)
+packing(0.062)
+hugging(0.046)
+smiling(0.030)
+adult+female+speaking(0.028)

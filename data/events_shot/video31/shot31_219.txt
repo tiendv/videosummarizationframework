@@ -1,0 +1,5 @@
+shrugging(0.524)
+dressing(0.075)
+gripping(0.032)
+standing(0.032)
+raising(0.028)

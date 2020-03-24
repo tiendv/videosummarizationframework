@@ -1,5 +1,0 @@
-washing(0.175)
-cleaning(0.150)
-rinsing(0.076)
-storming(0.030)
-raining(0.025)

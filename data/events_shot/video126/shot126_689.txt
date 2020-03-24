@@ -1,5 +1,0 @@
-walking(0.108)
-standing(0.038)
-barbecuing(0.035)
-asking(0.030)
-autographing(0.029)

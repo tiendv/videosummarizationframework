@@ -1,0 +1,5 @@
+signing(0.036)
+chewing(0.036)
+sitting(0.036)
+packing(0.032)
+talking(0.029)

@@ -1,5 +1,0 @@
-taping(0.176)
-handcuffing(0.105)
-measuring(0.037)
-gripping(0.034)
-adult+male+speaking(0.034)

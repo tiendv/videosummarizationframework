@@ -1,5 +1,0 @@
-adult+female+speaking(0.044)
-adult+male+speaking(0.032)
-lecturing(0.031)
-flipping(0.021)
-talking(0.020)

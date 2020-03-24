@@ -1,0 +1,5 @@
+crying(0.132)
+bowing(0.052)
+slapping(0.035)
+sneezing(0.025)
+clipping(0.022)

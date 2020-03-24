@@ -1,0 +1,5 @@
+barking(0.426)
+howling(0.124)
+knocking(0.101)
+storming(0.029)
+dusting(0.022)

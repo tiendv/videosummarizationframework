@@ -1,0 +1,5 @@
+talking(0.165)
+driving(0.086)
+sitting(0.053)
+discussing(0.040)
+raining(0.036)

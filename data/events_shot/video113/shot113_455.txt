@@ -1,0 +1,5 @@
+standing(0.147)
+walking(0.063)
+talking(0.036)
+working(0.033)
+discussing(0.029)

@@ -1,5 +1,0 @@
-bowling(0.176)
-mopping(0.147)
-cleaning(0.041)
-sweeping(0.034)
-stacking(0.029)

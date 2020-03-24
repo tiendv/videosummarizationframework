@@ -1,0 +1,5 @@
+standing(0.057)
+adult+male+speaking(0.048)
+marrying(0.044)
+discussing(0.043)
+asking(0.042)

@@ -1,0 +1,5 @@
+painting(0.194)
+eating(0.141)
+manicuring(0.138)
+dining(0.129)
+brushing(0.029)

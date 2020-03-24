@@ -1,0 +1,5 @@
+pushing(0.256)
+crawling(0.069)
+bouncing(0.049)
+playing(0.022)
+rocking(0.021)

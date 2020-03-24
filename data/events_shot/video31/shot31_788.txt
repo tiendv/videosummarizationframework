@@ -1,0 +1,5 @@
+driving(0.119)
+steering(0.097)
+fighting(0.065)
+blocking(0.048)
+attacking(0.033)

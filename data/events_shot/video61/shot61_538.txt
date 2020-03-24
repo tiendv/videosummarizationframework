@@ -1,0 +1,5 @@
+smoking(0.051)
+adult+female+singing(0.032)
+fighting(0.032)
+attacking(0.031)
+kissing(0.030)

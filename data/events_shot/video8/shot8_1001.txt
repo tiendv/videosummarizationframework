@@ -1,5 +1,0 @@
-sneezing(0.256)
-laughing(0.079)
-marrying(0.067)
-dressing(0.026)
-adult+female+speaking(0.025)

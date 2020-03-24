@@ -1,0 +1,5 @@
+walking(0.446)
+hugging(0.030)
+kissing(0.022)
+smiling(0.021)
+spraying(0.018)

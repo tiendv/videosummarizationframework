@@ -1,0 +1,5 @@
+aiming(0.109)
+filming(0.090)
+spinning(0.070)
+steering(0.060)
+playing+videogames(0.030)

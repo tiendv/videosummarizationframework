@@ -1,0 +1,5 @@
+tattooing(0.123)
+painting(0.055)
+manicuring(0.041)
+massaging(0.034)
+rubbing(0.034)

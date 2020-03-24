@@ -1,5 +1,0 @@
-walking(0.407)
-filming(0.049)
-standing(0.034)
-hiking(0.034)
-playing+videogames(0.030)

@@ -1,5 +1,0 @@
-bowing(0.062)
-adult+male+speaking(0.042)
-laughing(0.030)
-adult+male+singing(0.029)
-baptizing(0.025)

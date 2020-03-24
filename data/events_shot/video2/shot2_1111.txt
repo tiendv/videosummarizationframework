@@ -1,0 +1,5 @@
+adult+male+speaking(0.035)
+discussing(0.033)
+adult+female+speaking(0.032)
+asking(0.031)
+joining(0.023)

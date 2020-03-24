@@ -1,0 +1,5 @@
+coughing(0.091)
+laughing(0.085)
+adult+female+singing(0.060)
+smoking(0.059)
+drinking(0.041)

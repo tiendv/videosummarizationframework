@@ -1,0 +1,5 @@
+child+speaking(0.132)
+adult+female+speaking(0.084)
+playing+videogames(0.055)
+sleeping(0.044)
+chewing(0.039)

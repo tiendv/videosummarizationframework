@@ -1,0 +1,5 @@
+eating(0.047)
+dipping(0.031)
+dining(0.028)
+baking(0.025)
+brushing(0.024)

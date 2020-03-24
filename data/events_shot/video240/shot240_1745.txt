@@ -1,5 +1,0 @@
-eating(0.091)
-pointing(0.089)
-asking(0.056)
-smoking(0.049)
-chewing(0.043)

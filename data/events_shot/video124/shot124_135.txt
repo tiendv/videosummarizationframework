@@ -1,0 +1,5 @@
+preaching(0.113)
+lecturing(0.081)
+pointing(0.022)
+adult+male+speaking(0.021)
+cooking(0.018)

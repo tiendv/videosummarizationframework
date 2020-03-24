@@ -1,0 +1,5 @@
+tapping(0.087)
+massaging(0.049)
+rubbing(0.038)
+typing(0.031)
+adult+male+speaking(0.029)

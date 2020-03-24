@@ -1,0 +1,5 @@
+adult+male+speaking(0.232)
+discussing(0.034)
+standing(0.033)
+talking(0.026)
+preaching(0.026)

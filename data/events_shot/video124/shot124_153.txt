@@ -1,0 +1,5 @@
+preaching(0.166)
+standing(0.084)
+waving(0.048)
+child+singing(0.032)
+singing(0.028)

@@ -1,0 +1,5 @@
+inflating(0.090)
+standing(0.041)
+blowing(0.040)
+walking(0.036)
+adult+male+speaking(0.031)

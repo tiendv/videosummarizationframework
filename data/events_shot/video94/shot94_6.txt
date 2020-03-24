@@ -1,0 +1,5 @@
+entering(0.267)
+exiting(0.164)
+closing(0.114)
+opening(0.091)
+shopping(0.028)

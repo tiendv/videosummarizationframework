@@ -1,0 +1,5 @@
+crying(0.105)
+praying(0.050)
+adult+female+speaking(0.043)
+smoking(0.027)
+peeling(0.025)

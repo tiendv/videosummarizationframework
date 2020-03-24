@@ -1,0 +1,5 @@
+sweeping(0.087)
+shoveling(0.067)
+mopping(0.060)
+laughing(0.048)
+standing(0.019)

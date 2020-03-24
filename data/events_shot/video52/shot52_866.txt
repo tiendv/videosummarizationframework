@@ -1,0 +1,5 @@
+hugging(0.151)
+cuddling(0.040)
+standing(0.030)
+adult+female+speaking(0.026)
+squatting(0.019)

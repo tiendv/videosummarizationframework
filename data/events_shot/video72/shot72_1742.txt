@@ -1,0 +1,5 @@
+drying(0.120)
+emptying(0.041)
+fueling(0.039)
+filling(0.038)
+child+speaking(0.027)

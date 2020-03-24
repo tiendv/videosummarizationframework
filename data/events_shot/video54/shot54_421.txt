@@ -1,0 +1,5 @@
+stomping(0.187)
+cleaning(0.160)
+mopping(0.047)
+vacuuming(0.033)
+dusting(0.033)

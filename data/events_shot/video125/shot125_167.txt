@@ -1,0 +1,5 @@
+drinking(0.055)
+calling(0.042)
+telephoning(0.030)
+playing+videogames(0.029)
+dining(0.028)

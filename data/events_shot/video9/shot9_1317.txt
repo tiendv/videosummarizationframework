@@ -1,5 +1,0 @@
-sneezing(0.041)
-painting(0.041)
-adult+male+speaking(0.038)
-coughing(0.034)
-working(0.030)

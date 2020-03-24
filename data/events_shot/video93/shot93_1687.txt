@@ -1,0 +1,5 @@
+bubbling(0.056)
+slapping(0.047)
+spitting(0.045)
+sneezing(0.029)
+hammering(0.025)

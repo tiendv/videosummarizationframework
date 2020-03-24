@@ -1,0 +1,5 @@
+cleaning(0.062)
+walking(0.044)
+dusting(0.037)
+mopping(0.023)
+running(0.022)

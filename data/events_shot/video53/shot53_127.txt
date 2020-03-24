@@ -1,0 +1,5 @@
+slapping(0.035)
+fighting(0.027)
+laughing(0.023)
+dining(0.022)
+eating(0.021)

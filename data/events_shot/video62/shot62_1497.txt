@@ -1,0 +1,5 @@
+walking(0.071)
+drying(0.041)
+combing(0.037)
+brushing(0.035)
+smiling(0.033)

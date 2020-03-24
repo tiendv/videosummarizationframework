@@ -1,0 +1,5 @@
+assembling(0.057)
+loading(0.039)
+walking(0.037)
+working(0.031)
+packaging(0.031)

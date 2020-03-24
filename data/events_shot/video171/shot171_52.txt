@@ -1,5 +1,0 @@
-walking(0.133)
-arresting(0.100)
-stealing(0.066)
-asking(0.057)
-running(0.039)

@@ -1,5 +1,0 @@
-hugging(0.168)
-walking(0.097)
-exiting(0.061)
-filming(0.052)
-entering(0.031)

@@ -1,5 +1,0 @@
-attacking(0.058)
-fighting(0.050)
-driving(0.044)
-talking(0.037)
-shooting(0.026)

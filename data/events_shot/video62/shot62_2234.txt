@@ -1,0 +1,5 @@
+child+speaking(0.100)
+laughing(0.094)
+adult+male+speaking(0.089)
+interviewing(0.081)
+asking(0.063)

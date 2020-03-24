@@ -1,0 +1,5 @@
+adult+female+speaking(0.202)
+coughing(0.126)
+whistling(0.093)
+crying(0.037)
+adult+female+singing(0.022)

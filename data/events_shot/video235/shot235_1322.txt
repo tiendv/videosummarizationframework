@@ -1,5 +1,0 @@
-adult+male+singing(0.095)
-adult+male+speaking(0.082)
-standing(0.065)
-queuing(0.044)
-walking(0.030)

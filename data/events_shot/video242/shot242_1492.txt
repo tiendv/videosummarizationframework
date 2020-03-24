@@ -1,5 +1,0 @@
-bowling(0.960)
-rolling(0.006)
-smashing(0.004)
-hitting(0.002)
-knocking(0.001)

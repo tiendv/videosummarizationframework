@@ -1,0 +1,5 @@
+preaching(0.686)
+adult+male+speaking(0.079)
+praying(0.034)
+laughing(0.018)
+playing+music(0.014)

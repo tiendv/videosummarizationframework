@@ -1,0 +1,5 @@
+asking(0.165)
+biting(0.057)
+adult+female+speaking(0.055)
+teaching(0.051)
+chewing(0.047)

@@ -1,0 +1,5 @@
+tattooing(0.400)
+drinking(0.057)
+shaving(0.043)
+manicuring(0.017)
+adult+male+singing(0.011)

@@ -1,0 +1,5 @@
+walking(0.302)
+running(0.120)
+carrying(0.064)
+exiting(0.049)
+entering(0.037)

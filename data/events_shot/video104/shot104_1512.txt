@@ -1,0 +1,5 @@
+drinking(0.100)
+bowling(0.060)
+playing+videogames(0.039)
+squatting(0.027)
+tattooing(0.023)

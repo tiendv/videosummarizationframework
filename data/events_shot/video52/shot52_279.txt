@@ -1,0 +1,5 @@
+eating(0.056)
+selling(0.046)
+sniffing(0.045)
+dining(0.037)
+chewing(0.035)

@@ -1,5 +1,0 @@
-sleeping(0.105)
-resting(0.062)
-waking(0.052)
-adult+male+speaking(0.043)
-adult+male+singing(0.031)

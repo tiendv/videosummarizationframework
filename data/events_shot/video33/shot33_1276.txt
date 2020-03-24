@@ -1,0 +1,5 @@
+waking(0.067)
+hammering(0.049)
+kissing(0.048)
+slapping(0.037)
+crying(0.036)

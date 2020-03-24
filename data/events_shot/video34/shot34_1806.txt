@@ -1,0 +1,5 @@
+hunting(0.285)
+talking(0.035)
+sitting(0.035)
+fishing(0.032)
+hiking(0.029)

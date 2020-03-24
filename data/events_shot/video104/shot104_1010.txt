@@ -1,0 +1,5 @@
+slapping(0.041)
+coughing(0.021)
+smelling(0.017)
+tying(0.017)
+bowing(0.016)

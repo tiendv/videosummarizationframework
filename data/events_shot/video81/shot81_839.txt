@@ -1,0 +1,5 @@
+hugging(0.129)
+walking(0.121)
+clipping(0.038)
+adult+male+speaking(0.034)
+kissing(0.030)

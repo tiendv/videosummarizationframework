@@ -1,5 +1,0 @@
-smiling(0.046)
-running(0.045)
-adult+female+singing(0.035)
-hugging(0.031)
-marrying(0.027)

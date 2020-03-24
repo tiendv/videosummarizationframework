@@ -1,5 +1,0 @@
-welding(0.203)
-working(0.061)
-repairing(0.025)
-extinguishing(0.025)
-assembling(0.024)

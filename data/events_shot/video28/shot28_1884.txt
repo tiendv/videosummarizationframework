@@ -1,5 +1,0 @@
-drying(0.059)
-gripping(0.050)
-drilling(0.048)
-hammering(0.045)
-tattooing(0.032)

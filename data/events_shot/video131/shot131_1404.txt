@@ -1,0 +1,5 @@
+gripping(0.051)
+punching(0.047)
+adult+male+speaking(0.041)
+handcuffing(0.031)
+slapping(0.027)

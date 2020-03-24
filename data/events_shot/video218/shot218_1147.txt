@@ -1,5 +1,0 @@
-fueling(0.085)
-exiting(0.056)
-entering(0.048)
-queuing(0.044)
-driving(0.042)

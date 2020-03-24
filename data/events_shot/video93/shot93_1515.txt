@@ -1,0 +1,5 @@
+flicking(0.088)
+talking(0.053)
+flipping(0.049)
+throwing(0.048)
+standing(0.042)

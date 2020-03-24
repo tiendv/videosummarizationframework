@@ -1,5 +1,0 @@
-walking(0.238)
-standing(0.069)
-praying(0.041)
-officiating(0.039)
-filming(0.035)

@@ -1,0 +1,5 @@
+drinking(0.596)
+smelling(0.017)
+standing(0.017)
+asking(0.014)
+adult+male+speaking(0.013)

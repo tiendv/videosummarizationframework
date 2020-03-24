@@ -1,0 +1,5 @@
+exiting(0.545)
+entering(0.075)
+boarding(0.054)
+walking(0.027)
+closing(0.027)

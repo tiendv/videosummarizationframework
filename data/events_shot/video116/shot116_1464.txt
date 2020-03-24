@@ -1,5 +1,0 @@
-cleaning(0.043)
-shaving(0.033)
-sneezing(0.031)
-laughing(0.030)
-adult+male+speaking(0.029)

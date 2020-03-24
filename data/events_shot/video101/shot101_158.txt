@@ -1,0 +1,5 @@
+assembling(0.310)
+hanging(0.063)
+spinning(0.042)
+drilling(0.030)
+repairing(0.030)

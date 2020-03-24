@@ -1,0 +1,5 @@
+talking(0.198)
+interviewing(0.061)
+sitting(0.059)
+fueling(0.059)
+discussing(0.046)

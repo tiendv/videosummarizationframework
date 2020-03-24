@@ -1,0 +1,5 @@
+hitchhiking(0.085)
+adult+male+speaking(0.081)
+asking(0.062)
+talking(0.053)
+interviewing(0.047)

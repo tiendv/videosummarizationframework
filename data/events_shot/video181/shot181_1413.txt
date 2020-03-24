@@ -1,5 +1,0 @@
-fueling(0.138)
-driving(0.081)
-arresting(0.054)
-steering(0.052)
-stopping(0.045)

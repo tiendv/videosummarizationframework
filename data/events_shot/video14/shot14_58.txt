@@ -1,0 +1,5 @@
+hiking(0.171)
+stomping(0.141)
+walking(0.076)
+arresting(0.072)
+planting(0.061)

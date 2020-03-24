@@ -1,0 +1,5 @@
+hiking(0.125)
+hunting(0.111)
+adult+male+singing(0.040)
+standing(0.033)
+clipping(0.032)

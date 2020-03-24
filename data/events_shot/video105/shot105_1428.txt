@@ -1,0 +1,5 @@
+knocking(0.116)
+running(0.099)
+locking(0.049)
+jogging(0.037)
+juggling(0.035)

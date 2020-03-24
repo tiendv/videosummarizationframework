@@ -1,0 +1,5 @@
+calling(0.087)
+telephoning(0.058)
+blowing(0.052)
+cracking(0.043)
+knocking(0.026)

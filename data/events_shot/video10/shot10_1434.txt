@@ -1,5 +1,0 @@
-cooking(0.182)
-baking(0.136)
-crafting(0.131)
-manicuring(0.114)
-tattooing(0.055)

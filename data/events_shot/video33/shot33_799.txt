@@ -1,0 +1,5 @@
+adult+male+speaking(0.116)
+officiating(0.082)
+dining(0.055)
+standing(0.044)
+sitting(0.043)

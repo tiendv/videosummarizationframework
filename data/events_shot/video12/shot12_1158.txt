@@ -1,0 +1,5 @@
+smoking(0.343)
+sniffing(0.063)
+smelling(0.047)
+adult+female+speaking(0.018)
+putting(0.011)

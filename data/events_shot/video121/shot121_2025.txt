@@ -1,0 +1,5 @@
+shaving(0.395)
+punching(0.034)
+adult+male+speaking(0.024)
+knocking(0.020)
+shooting(0.018)

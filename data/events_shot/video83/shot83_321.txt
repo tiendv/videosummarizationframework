@@ -1,0 +1,5 @@
+bowing(0.350)
+praying(0.159)
+bending(0.052)
+working(0.033)
+sneezing(0.030)

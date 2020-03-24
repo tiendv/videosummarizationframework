@@ -1,0 +1,5 @@
+talking(0.107)
+lecturing(0.068)
+adult+male+speaking(0.046)
+standing(0.045)
+snowing(0.038)

@@ -1,0 +1,5 @@
+tying(0.229)
+dressing(0.094)
+opening(0.057)
+buttoning(0.052)
+handcuffing(0.045)

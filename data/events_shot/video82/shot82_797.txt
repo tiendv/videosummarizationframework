@@ -1,0 +1,5 @@
+dining(0.823)
+eating(0.064)
+serving(0.034)
+gambling(0.007)
+sitting(0.004)

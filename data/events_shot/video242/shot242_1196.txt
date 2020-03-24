@@ -1,5 +1,0 @@
-adult+female+singing(0.278)
-adult+female+speaking(0.065)
-filming(0.030)
-adult+male+singing(0.027)
-sneezing(0.024)

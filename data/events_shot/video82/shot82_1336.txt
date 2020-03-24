@@ -1,0 +1,5 @@
+child+speaking(0.057)
+throwing(0.025)
+child+singing(0.024)
+snapping(0.018)
+standing(0.018)

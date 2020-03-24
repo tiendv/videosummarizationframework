@@ -1,0 +1,5 @@
+teaching(0.181)
+cramming(0.145)
+studying(0.139)
+adult+female+speaking(0.088)
+lecturing(0.067)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.098)
+asking(0.095)
+walking(0.040)
+discussing(0.036)
+stealing(0.032)

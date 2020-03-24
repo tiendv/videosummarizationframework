@@ -1,0 +1,5 @@
+walking(0.310)
+arresting(0.042)
+exiting(0.041)
+filming(0.040)
+adult+male+speaking(0.037)

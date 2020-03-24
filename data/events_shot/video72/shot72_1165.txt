@@ -1,0 +1,5 @@
+walking(0.130)
+arresting(0.114)
+slapping(0.051)
+asking(0.048)
+standing(0.045)

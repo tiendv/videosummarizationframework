@@ -1,0 +1,5 @@
+spinning(0.099)
+adult+male+singing(0.029)
+snapping(0.025)
+turning(0.024)
+starting(0.023)

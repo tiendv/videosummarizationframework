@@ -1,0 +1,5 @@
+skiing(0.322)
+snowing(0.104)
+surfing(0.078)
+boarding(0.055)
+slipping(0.023)

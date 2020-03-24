@@ -1,5 +1,0 @@
-walking(0.078)
-standing(0.052)
-signing(0.046)
-smiling(0.025)
-autographing(0.025)

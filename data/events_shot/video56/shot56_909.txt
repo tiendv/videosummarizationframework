@@ -1,5 +1,0 @@
-hugging(0.161)
-walking(0.054)
-aiming(0.042)
-flicking(0.041)
-playing+videogames(0.031)

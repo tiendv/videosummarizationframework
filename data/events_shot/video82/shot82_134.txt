@@ -1,0 +1,5 @@
+fencing(0.054)
+adult+male+speaking(0.050)
+handcuffing(0.028)
+cooking(0.024)
+stirring(0.023)

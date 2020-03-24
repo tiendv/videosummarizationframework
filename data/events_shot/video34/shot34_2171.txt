@@ -1,0 +1,5 @@
+racing(0.347)
+riding(0.114)
+crashing(0.049)
+driving(0.022)
+bowling(0.020)

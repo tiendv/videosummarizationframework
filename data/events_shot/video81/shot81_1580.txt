@@ -1,0 +1,5 @@
+smiling(0.062)
+adult+male+speaking(0.059)
+queuing(0.049)
+filming(0.041)
+adult+female+speaking(0.039)

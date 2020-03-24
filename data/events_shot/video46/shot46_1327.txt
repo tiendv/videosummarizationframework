@@ -1,5 +1,0 @@
-rising(0.174)
-ascending(0.120)
-playing+videogames(0.047)
-descending(0.038)
-walking(0.029)

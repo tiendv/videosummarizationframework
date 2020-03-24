@@ -1,5 +1,0 @@
-telephoning(0.092)
-painting(0.056)
-adult+male+speaking(0.055)
-calling(0.049)
-playing+videogames(0.042)

@@ -1,0 +1,5 @@
+dining(0.097)
+cooking(0.038)
+baking(0.035)
+carving(0.025)
+standing(0.024)

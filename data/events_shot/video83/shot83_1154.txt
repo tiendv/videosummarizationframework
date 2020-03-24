@@ -1,0 +1,5 @@
+adult+male+speaking(0.150)
+discussing(0.146)
+asking(0.090)
+filming(0.036)
+aiming(0.033)

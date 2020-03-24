@@ -1,0 +1,5 @@
+running(0.168)
+adult+female+singing(0.069)
+jogging(0.042)
+playing+videogames(0.026)
+fighting(0.023)

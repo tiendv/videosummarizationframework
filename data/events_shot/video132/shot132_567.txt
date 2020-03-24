@@ -1,0 +1,5 @@
+adult+male+singing(0.110)
+adult+female+singing(0.095)
+singing(0.072)
+adult+male+speaking(0.042)
+crying(0.036)

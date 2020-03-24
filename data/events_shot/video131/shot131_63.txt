@@ -1,0 +1,5 @@
+crying(0.274)
+walking(0.063)
+hugging(0.046)
+adult+female+speaking(0.020)
+laughing(0.019)

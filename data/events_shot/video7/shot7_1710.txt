@@ -1,5 +1,0 @@
-walking(0.073)
-hugging(0.032)
-snowing(0.031)
-running(0.028)
-removing(0.024)

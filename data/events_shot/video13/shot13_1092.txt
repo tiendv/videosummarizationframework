@@ -1,0 +1,5 @@
+loading(0.192)
+unloading(0.120)
+assembling(0.047)
+walking(0.036)
+working(0.028)

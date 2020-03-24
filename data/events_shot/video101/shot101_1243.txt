@@ -1,0 +1,5 @@
+mowing(0.046)
+vacuuming(0.040)
+cleaning(0.037)
+gripping(0.033)
+adult+male+speaking(0.024)

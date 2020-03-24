@@ -1,0 +1,5 @@
+raining(0.041)
+singing(0.032)
+knocking(0.024)
+playing+music(0.022)
+tuning(0.021)

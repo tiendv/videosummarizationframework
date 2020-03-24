@@ -1,0 +1,5 @@
+walking(0.076)
+carrying(0.054)
+crying(0.032)
+fighting(0.030)
+standing(0.025)

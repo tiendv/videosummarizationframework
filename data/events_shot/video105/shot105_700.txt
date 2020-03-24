@@ -1,0 +1,5 @@
+sneezing(0.148)
+smelling(0.059)
+drying(0.058)
+sniffing(0.057)
+coughing(0.048)

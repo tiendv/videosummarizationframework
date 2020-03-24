@@ -1,0 +1,5 @@
+eating(0.129)
+dining(0.103)
+drinking(0.095)
+laughing(0.049)
+adult+male+singing(0.040)

@@ -1,5 +1,0 @@
-knocking(0.148)
-entering(0.110)
-hanging(0.068)
-standing(0.055)
-guarding(0.046)

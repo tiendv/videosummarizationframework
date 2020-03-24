@@ -1,0 +1,5 @@
+folding(0.044)
+working(0.029)
+painting(0.024)
+cleaning(0.024)
+wrapping(0.023)

@@ -1,5 +1,0 @@
-queuing(0.044)
-hugging(0.041)
-sneezing(0.031)
-adult+female+speaking(0.026)
-entering(0.025)

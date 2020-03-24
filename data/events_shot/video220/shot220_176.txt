@@ -1,5 +1,0 @@
-talking(0.154)
-standing(0.066)
-working(0.037)
-adult+male+speaking(0.035)
-mopping(0.025)

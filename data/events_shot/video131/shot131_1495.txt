@@ -1,0 +1,5 @@
+burning(0.599)
+combusting(0.163)
+smoking(0.048)
+cooking(0.034)
+barbecuing(0.025)

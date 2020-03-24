@@ -1,0 +1,5 @@
+aiming(0.156)
+gambling(0.105)
+throwing(0.045)
+sitting(0.040)
+standing(0.036)

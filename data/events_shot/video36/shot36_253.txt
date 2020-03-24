@@ -1,5 +1,0 @@
-fighting(0.066)
-adult+female+speaking(0.050)
-adult+male+speaking(0.047)
-giving(0.038)
-hugging(0.021)

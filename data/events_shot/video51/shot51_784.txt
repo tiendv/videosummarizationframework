@@ -1,0 +1,5 @@
+tapping(0.051)
+adult+female+singing(0.049)
+adult+female+speaking(0.032)
+filming(0.028)
+adult+male+singing(0.025)

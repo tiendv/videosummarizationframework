@@ -1,5 +1,0 @@
-driving(0.087)
-exiting(0.058)
-steering(0.037)
-entering(0.036)
-raining(0.034)

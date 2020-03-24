@@ -1,0 +1,5 @@
+combing(0.324)
+brushing(0.192)
+drying(0.119)
+adult+female+speaking(0.020)
+shaving(0.019)

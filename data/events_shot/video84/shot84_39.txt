@@ -1,0 +1,5 @@
+talking(0.041)
+standing(0.041)
+crafting(0.036)
+adult+male+speaking(0.030)
+walking(0.026)

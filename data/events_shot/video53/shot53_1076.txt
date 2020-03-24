@@ -1,0 +1,5 @@
+drinking(0.107)
+coughing(0.067)
+hugging(0.044)
+giggling(0.041)
+kissing(0.039)

@@ -1,0 +1,5 @@
+pointing(0.063)
+sneezing(0.035)
+hammering(0.033)
+drinking(0.030)
+slapping(0.025)

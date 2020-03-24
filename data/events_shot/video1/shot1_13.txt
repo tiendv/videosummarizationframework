@@ -1,0 +1,5 @@
+hitchhiking(0.090)
+driving(0.072)
+smiling(0.059)
+adult+male+speaking(0.050)
+hugging(0.026)

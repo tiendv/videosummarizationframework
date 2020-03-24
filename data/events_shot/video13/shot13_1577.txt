@@ -1,0 +1,5 @@
+flooding(0.112)
+climbing(0.065)
+stealing(0.028)
+raining(0.027)
+arresting(0.027)

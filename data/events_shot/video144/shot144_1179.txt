@@ -1,5 +1,0 @@
-rising(0.056)
-flying(0.044)
-ascending(0.036)
-dropping(0.035)
-playing+videogames(0.030)

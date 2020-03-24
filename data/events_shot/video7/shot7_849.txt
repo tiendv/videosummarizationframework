@@ -1,5 +1,0 @@
-typing(0.251)
-reading(0.190)
-tapping(0.074)
-pointing(0.048)
-studying(0.031)

@@ -1,0 +1,5 @@
+opening(0.211)
+closing(0.142)
+locking(0.045)
+measuring(0.040)
+adult+male+speaking(0.022)

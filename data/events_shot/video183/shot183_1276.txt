@@ -1,5 +1,0 @@
-clapping(0.272)
-applauding(0.055)
-slapping(0.055)
-punching(0.044)
-celebrating(0.041)

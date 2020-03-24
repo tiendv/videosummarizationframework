@@ -1,5 +1,0 @@
-cooking(0.042)
-dining(0.024)
-cleaning(0.024)
-serving(0.022)
-standing(0.022)

@@ -1,0 +1,5 @@
+handcuffing(0.225)
+tattooing(0.177)
+gripping(0.137)
+dressing(0.027)
+tickling(0.024)

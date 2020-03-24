@@ -1,5 +1,0 @@
-walking(0.211)
-asking(0.065)
-standing(0.063)
-stomping(0.053)
-hitchhiking(0.030)

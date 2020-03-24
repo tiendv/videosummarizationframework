@@ -1,0 +1,5 @@
+yawning(0.114)
+coughing(0.083)
+crying(0.068)
+waking(0.052)
+adult+female+singing(0.049)

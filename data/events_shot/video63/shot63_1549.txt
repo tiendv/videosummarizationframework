@@ -1,0 +1,5 @@
+gripping(0.061)
+aiming(0.060)
+filming(0.051)
+playing+videogames(0.040)
+telephoning(0.027)

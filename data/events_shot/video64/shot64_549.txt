@@ -1,0 +1,5 @@
+fighting(0.187)
+punching(0.059)
+attacking(0.048)
+adult+male+speaking(0.043)
+arresting(0.043)

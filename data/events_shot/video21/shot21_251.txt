@@ -1,0 +1,5 @@
+laughing(0.042)
+walking(0.034)
+stealing(0.034)
+fighting(0.024)
+playing+videogames(0.020)

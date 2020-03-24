@@ -1,0 +1,5 @@
+pointing(0.077)
+adult+male+speaking(0.054)
+discussing(0.053)
+adult+female+speaking(0.053)
+fencing(0.051)

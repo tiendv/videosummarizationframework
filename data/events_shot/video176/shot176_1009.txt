@@ -1,5 +1,0 @@
-sneezing(0.064)
-squinting(0.030)
-playing+videogames(0.025)
-laughing(0.024)
-standing(0.024)

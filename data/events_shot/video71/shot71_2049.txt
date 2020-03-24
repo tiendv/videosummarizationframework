@@ -1,0 +1,5 @@
+sitting(0.055)
+talking(0.053)
+discussing(0.047)
+playing+videogames(0.046)
+drinking(0.040)

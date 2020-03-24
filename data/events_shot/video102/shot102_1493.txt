@@ -1,0 +1,5 @@
+sneezing(0.148)
+coughing(0.114)
+knitting(0.074)
+praying(0.043)
+applauding(0.027)

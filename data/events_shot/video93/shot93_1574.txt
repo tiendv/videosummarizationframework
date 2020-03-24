@@ -1,0 +1,5 @@
+arresting(0.149)
+discussing(0.095)
+guarding(0.080)
+handcuffing(0.044)
+sitting(0.043)

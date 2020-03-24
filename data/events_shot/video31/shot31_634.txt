@@ -1,0 +1,5 @@
+walking(0.218)
+hiking(0.091)
+playing+videogames(0.085)
+filming(0.040)
+diving(0.033)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.184)
+discussing(0.149)
+praying(0.046)
+sitting(0.027)
+starting(0.023)

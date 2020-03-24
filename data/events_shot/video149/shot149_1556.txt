@@ -1,5 +1,0 @@
-preaching(0.067)
-aiming(0.037)
-adult+male+speaking(0.028)
-attacking(0.022)
-throwing(0.020)

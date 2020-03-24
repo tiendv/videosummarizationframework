@@ -1,0 +1,5 @@
+hanging(0.222)
+spinning(0.093)
+swinging(0.079)
+punching(0.055)
+climbing(0.023)

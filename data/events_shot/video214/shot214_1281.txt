@@ -1,5 +1,0 @@
-tattooing(0.255)
-packing(0.085)
-inflating(0.064)
-unpacking(0.041)
-dressing(0.027)

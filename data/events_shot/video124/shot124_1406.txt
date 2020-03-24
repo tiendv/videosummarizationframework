@@ -1,0 +1,5 @@
+filming(0.070)
+whistling(0.050)
+singing(0.048)
+walking(0.046)
+crying(0.045)

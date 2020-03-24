@@ -1,0 +1,5 @@
+drinking(0.047)
+smelling(0.044)
+crying(0.043)
+laughing(0.043)
+biting(0.039)

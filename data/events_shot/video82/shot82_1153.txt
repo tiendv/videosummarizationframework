@@ -1,0 +1,5 @@
+adult+male+speaking(0.087)
+discussing(0.063)
+eating(0.059)
+pointing(0.057)
+coaching(0.043)

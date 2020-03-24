@@ -1,0 +1,5 @@
+slapping(0.065)
+shrugging(0.040)
+turning(0.035)
+walking(0.033)
+clipping(0.032)

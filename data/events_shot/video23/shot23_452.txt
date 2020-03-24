@@ -1,0 +1,5 @@
+walking(0.078)
+adult+male+speaking(0.044)
+coughing(0.044)
+working(0.039)
+slapping(0.039)

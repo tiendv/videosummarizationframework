@@ -1,0 +1,5 @@
+aiming(0.432)
+playing+videogames(0.130)
+guarding(0.045)
+adult+male+speaking(0.038)
+steering(0.028)

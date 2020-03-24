@@ -1,0 +1,5 @@
+dancing(0.058)
+standing(0.027)
+adult+female+singing(0.026)
+cheerleading(0.021)
+performing(0.017)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.072)
+adult+male+singing(0.063)
+smoking(0.043)
+coughing(0.031)
+filming(0.031)

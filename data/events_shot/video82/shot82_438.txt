@@ -1,0 +1,5 @@
+kneeling(0.190)
+sitting(0.147)
+working(0.051)
+squatting(0.016)
+pushing(0.015)

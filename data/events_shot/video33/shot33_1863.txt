@@ -1,0 +1,5 @@
+crawling(0.078)
+pushing(0.055)
+eating(0.027)
+gripping(0.020)
+chewing(0.019)

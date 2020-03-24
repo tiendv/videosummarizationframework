@@ -1,0 +1,5 @@
+adult+male+singing(0.080)
+adult+female+singing(0.071)
+rocking(0.030)
+aiming(0.029)
+performing(0.024)

@@ -1,0 +1,5 @@
+laughing(0.142)
+child+speaking(0.095)
+child+singing(0.059)
+crying(0.043)
+barking(0.040)

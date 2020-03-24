@@ -1,0 +1,5 @@
+adult+male+speaking(0.104)
+standing(0.053)
+talking(0.033)
+preaching(0.031)
+boxing(0.029)

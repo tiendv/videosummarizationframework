@@ -1,0 +1,5 @@
+talking(0.094)
+interviewing(0.094)
+discussing(0.058)
+sitting(0.046)
+raining(0.041)

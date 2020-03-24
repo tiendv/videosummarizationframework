@@ -1,0 +1,5 @@
+adult+male+speaking(0.100)
+laughing(0.045)
+asking(0.038)
+licking(0.030)
+adult+male+singing(0.029)

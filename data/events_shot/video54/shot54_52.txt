@@ -1,0 +1,5 @@
+slapping(0.142)
+smiling(0.041)
+pointing(0.038)
+adult+male+speaking(0.035)
+carrying(0.032)

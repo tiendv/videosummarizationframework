@@ -1,0 +1,5 @@
+sleeping(0.297)
+waking(0.217)
+resting(0.112)
+adult+female+speaking(0.055)
+massaging(0.034)

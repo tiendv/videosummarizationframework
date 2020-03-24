@@ -1,0 +1,5 @@
+taping(0.185)
+handcuffing(0.080)
+dressing(0.046)
+hugging(0.025)
+gripping(0.022)

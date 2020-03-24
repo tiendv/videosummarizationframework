@@ -1,0 +1,5 @@
+walking(0.084)
+hiking(0.081)
+standing(0.030)
+mowing(0.029)
+hunting(0.028)

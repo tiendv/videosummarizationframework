@@ -1,5 +1,0 @@
-dining(0.219)
-praying(0.080)
-adult+female+speaking(0.054)
-officiating(0.041)
-eating(0.036)

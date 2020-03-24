@@ -1,0 +1,5 @@
+fencing(0.414)
+adult+male+speaking(0.038)
+starting(0.034)
+adult+female+speaking(0.029)
+laughing(0.024)

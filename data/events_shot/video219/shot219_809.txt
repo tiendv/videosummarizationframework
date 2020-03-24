@@ -1,5 +1,0 @@
-hugging(0.140)
-adult+female+singing(0.045)
-cuddling(0.040)
-baptizing(0.036)
-marrying(0.023)

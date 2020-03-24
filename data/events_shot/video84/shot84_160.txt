@@ -1,0 +1,5 @@
+cleaning(0.375)
+painting(0.046)
+dusting(0.034)
+mopping(0.027)
+rubbing(0.019)

@@ -1,0 +1,5 @@
+officiating(0.310)
+bowing(0.147)
+laughing(0.080)
+sneezing(0.067)
+adult+male+speaking(0.041)

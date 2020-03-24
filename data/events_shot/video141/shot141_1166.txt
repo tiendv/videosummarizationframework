@@ -1,5 +1,0 @@
-crafting(0.050)
-slicing(0.040)
-working(0.039)
-packaging(0.037)
-cooking(0.035)

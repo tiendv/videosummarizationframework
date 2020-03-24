@@ -1,0 +1,5 @@
+fencing(0.345)
+hanging(0.059)
+planting(0.032)
+gardening(0.028)
+drying(0.026)

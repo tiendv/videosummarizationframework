@@ -1,0 +1,5 @@
+reading(0.816)
+studying(0.079)
+cramming(0.015)
+sneezing(0.010)
+adult+female+speaking(0.007)

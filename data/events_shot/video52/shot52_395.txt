@@ -1,0 +1,5 @@
+stacking(0.814)
+drinking(0.011)
+squatting(0.009)
+asking(0.005)
+adult+male+speaking(0.005)

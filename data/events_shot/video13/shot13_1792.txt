@@ -1,0 +1,5 @@
+smelling(0.165)
+discussing(0.085)
+sniffing(0.064)
+coughing(0.053)
+slapping(0.046)

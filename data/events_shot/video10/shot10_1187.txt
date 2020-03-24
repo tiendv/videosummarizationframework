@@ -1,5 +1,0 @@
-cooking(0.038)
-talking(0.034)
-adult+male+speaking(0.031)
-adult+female+speaking(0.023)
-hugging(0.021)

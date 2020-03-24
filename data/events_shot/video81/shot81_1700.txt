@@ -1,0 +1,5 @@
+marrying(0.048)
+walking(0.031)
+standing(0.027)
+slapping(0.027)
+joining(0.023)

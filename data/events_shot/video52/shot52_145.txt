@@ -1,0 +1,5 @@
+reading(0.427)
+talking(0.049)
+sitting(0.045)
+working(0.022)
+discussing(0.020)

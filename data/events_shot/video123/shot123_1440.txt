@@ -1,0 +1,5 @@
+driving(0.049)
+slapping(0.046)
+adult+male+speaking(0.040)
+walking(0.039)
+pointing(0.030)

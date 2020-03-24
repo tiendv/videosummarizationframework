@@ -1,0 +1,5 @@
+filling(0.169)
+emptying(0.165)
+packaging(0.064)
+pouring(0.048)
+packing(0.027)

@@ -1,0 +1,5 @@
+bowing(0.064)
+laughing(0.050)
+drinking(0.034)
+spitting(0.027)
+eating(0.024)

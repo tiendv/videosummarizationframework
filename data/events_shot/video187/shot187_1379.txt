@@ -1,5 +1,0 @@
-walking(0.062)
-drinking(0.038)
-sneezing(0.034)
-running(0.028)
-fighting(0.025)

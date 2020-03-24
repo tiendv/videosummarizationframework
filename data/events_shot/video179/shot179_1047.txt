@@ -1,5 +1,0 @@
-child+speaking(0.136)
-talking(0.098)
-baking(0.038)
-sitting(0.031)
-standing(0.030)

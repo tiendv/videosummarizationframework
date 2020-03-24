@@ -1,0 +1,5 @@
+officiating(0.132)
+walking(0.087)
+adult+male+speaking(0.079)
+standing(0.062)
+talking(0.025)

@@ -1,0 +1,5 @@
+drinking(0.146)
+praying(0.108)
+eating(0.079)
+bowing(0.077)
+laughing(0.062)

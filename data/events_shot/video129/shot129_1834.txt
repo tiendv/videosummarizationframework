@@ -1,5 +1,0 @@
-hugging(0.079)
-adult+female+singing(0.049)
-smiling(0.037)
-hanging(0.030)
-celebrating(0.019)

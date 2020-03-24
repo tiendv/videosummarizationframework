@@ -1,5 +1,0 @@
-standing(0.048)
-adult+male+speaking(0.042)
-exercising(0.038)
-adult+male+singing(0.035)
-spinning(0.034)

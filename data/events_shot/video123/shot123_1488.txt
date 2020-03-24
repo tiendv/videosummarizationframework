@@ -1,0 +1,5 @@
+crying(0.148)
+laughing(0.059)
+kissing(0.043)
+licking(0.029)
+waking(0.028)

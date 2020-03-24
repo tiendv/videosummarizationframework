@@ -1,0 +1,5 @@
+adult+male+speaking(0.069)
+coughing(0.069)
+yawning(0.050)
+barking(0.045)
+discussing(0.042)

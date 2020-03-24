@@ -1,0 +1,5 @@
+standing(0.077)
+adult+male+speaking(0.076)
+officiating(0.061)
+adult+male+singing(0.060)
+walking(0.058)

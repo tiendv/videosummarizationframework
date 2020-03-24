@@ -1,5 +1,0 @@
-telephoning(0.053)
-adult+female+speaking(0.046)
-signing(0.035)
-writing(0.034)
-discussing(0.029)

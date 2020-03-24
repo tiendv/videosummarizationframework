@@ -1,0 +1,5 @@
+tapping(0.476)
+scratching(0.156)
+rubbing(0.079)
+hugging(0.042)
+kissing(0.039)

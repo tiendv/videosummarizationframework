@@ -1,5 +1,0 @@
-talking(0.118)
-raining(0.060)
-walking(0.049)
-standing(0.046)
-sitting(0.044)

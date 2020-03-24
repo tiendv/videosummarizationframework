@@ -1,0 +1,5 @@
+opening(0.160)
+closing(0.131)
+talking(0.094)
+adult+male+speaking(0.087)
+knocking(0.074)

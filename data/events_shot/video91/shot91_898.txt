@@ -1,0 +1,5 @@
+talking(0.126)
+smiling(0.054)
+discussing(0.052)
+working(0.039)
+shaking(0.036)

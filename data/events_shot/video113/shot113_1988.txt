@@ -1,0 +1,5 @@
+constructing(0.199)
+building(0.181)
+cracking(0.034)
+hammering(0.030)
+digging(0.030)

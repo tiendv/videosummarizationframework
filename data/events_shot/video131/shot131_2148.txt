@@ -1,0 +1,5 @@
+walking(0.114)
+spraying(0.101)
+cooking(0.049)
+painting(0.044)
+standing(0.032)

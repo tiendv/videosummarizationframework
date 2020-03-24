@@ -1,0 +1,5 @@
+adult+male+speaking(0.217)
+asking(0.130)
+loading(0.034)
+inflating(0.031)
+starting(0.028)

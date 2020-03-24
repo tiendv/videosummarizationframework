@@ -1,0 +1,5 @@
+protesting(0.139)
+reading(0.061)
+adult+male+speaking(0.060)
+adult+female+speaking(0.058)
+painting(0.030)

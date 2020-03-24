@@ -1,0 +1,5 @@
+driving(0.266)
+steering(0.126)
+riding(0.061)
+stopping(0.030)
+stealing(0.028)

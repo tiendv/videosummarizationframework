@@ -1,5 +1,0 @@
-sneezing(0.042)
-coughing(0.038)
-fencing(0.026)
-mopping(0.022)
-vacuuming(0.021)

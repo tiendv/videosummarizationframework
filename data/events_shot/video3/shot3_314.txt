@@ -1,0 +1,5 @@
+crying(0.703)
+frowning(0.034)
+sneezing(0.020)
+slapping(0.011)
+raining(0.011)

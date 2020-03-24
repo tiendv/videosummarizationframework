@@ -1,0 +1,5 @@
+adult+male+speaking(0.093)
+discussing(0.084)
+hiking(0.079)
+filming(0.049)
+hunting(0.048)

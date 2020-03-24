@@ -1,0 +1,5 @@
+painting(0.040)
+cleaning(0.035)
+telephoning(0.034)
+stealing(0.027)
+putting(0.020)

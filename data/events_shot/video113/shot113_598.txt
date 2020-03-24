@@ -1,0 +1,5 @@
+discussing(0.088)
+eating(0.087)
+drinking(0.055)
+coughing(0.042)
+socializing(0.040)

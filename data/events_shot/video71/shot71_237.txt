@@ -1,0 +1,5 @@
+drinking(0.939)
+adult+male+speaking(0.004)
+smelling(0.004)
+playing+videogames(0.002)
+sniffing(0.002)

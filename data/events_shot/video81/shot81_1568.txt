@@ -1,0 +1,5 @@
+drinking(0.050)
+adult+male+speaking(0.048)
+laughing(0.035)
+tattooing(0.032)
+discussing(0.026)

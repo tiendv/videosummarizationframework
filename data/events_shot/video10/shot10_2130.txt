@@ -1,5 +1,0 @@
-tuning(0.095)
-sleeping(0.065)
-driving(0.047)
-starting(0.034)
-crying(0.032)

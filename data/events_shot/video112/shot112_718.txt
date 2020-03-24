@@ -1,0 +1,5 @@
+slapping(0.055)
+smashing(0.032)
+walking(0.026)
+hammering(0.026)
+knocking(0.020)

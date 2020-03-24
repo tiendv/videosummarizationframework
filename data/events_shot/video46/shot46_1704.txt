@@ -1,5 +1,0 @@
-drinking(0.359)
-eating(0.152)
-calling(0.022)
-spitting(0.021)
-coughing(0.020)

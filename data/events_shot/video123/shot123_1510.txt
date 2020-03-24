@@ -1,0 +1,5 @@
+flowing(0.081)
+sleeping(0.074)
+bending(0.042)
+burying(0.033)
+shaking(0.032)

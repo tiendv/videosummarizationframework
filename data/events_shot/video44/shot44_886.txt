@@ -1,0 +1,5 @@
+adult+male+speaking(0.084)
+smoking(0.068)
+kissing(0.032)
+calling(0.028)
+talking(0.027)

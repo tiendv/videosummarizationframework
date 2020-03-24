@@ -1,0 +1,5 @@
+sneezing(0.146)
+slapping(0.112)
+coughing(0.107)
+pointing(0.072)
+snapping(0.039)

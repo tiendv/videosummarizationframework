@@ -1,0 +1,5 @@
+handcuffing(0.050)
+adult+male+speaking(0.047)
+slapping(0.025)
+squatting(0.021)
+bowing(0.019)

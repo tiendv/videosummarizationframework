@@ -1,5 +1,0 @@
-bicycling(0.136)
-walking(0.081)
-sanding(0.068)
-pedaling(0.043)
-exercising(0.030)

@@ -1,0 +1,5 @@
+punching(0.065)
+coaching(0.044)
+boxing(0.032)
+sprinting(0.030)
+arresting(0.024)

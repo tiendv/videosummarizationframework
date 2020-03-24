@@ -1,0 +1,5 @@
+talking(0.080)
+boating(0.056)
+driving(0.049)
+starting(0.040)
+adult+male+speaking(0.038)

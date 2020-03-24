@@ -1,0 +1,5 @@
+adult+female+speaking(0.145)
+reading(0.075)
+adult+male+speaking(0.055)
+paying(0.049)
+telephoning(0.031)

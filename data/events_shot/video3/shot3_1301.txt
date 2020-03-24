@@ -1,0 +1,5 @@
+stacking(0.033)
+gripping(0.026)
+shaking(0.023)
+hanging(0.023)
+officiating(0.022)

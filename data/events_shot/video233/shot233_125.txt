@@ -1,5 +1,0 @@
-packing(0.216)
-unpacking(0.201)
-sneezing(0.045)
-adult+female+speaking(0.024)
-coughing(0.017)

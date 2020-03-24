@@ -1,5 +1,0 @@
-climbing(0.204)
-hanging(0.142)
-knocking(0.057)
-standing(0.012)
-hitting(0.011)

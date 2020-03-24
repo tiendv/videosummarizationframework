@@ -1,0 +1,5 @@
+queuing(0.293)
+adult+female+speaking(0.049)
+asking(0.048)
+adult+male+speaking(0.036)
+tattooing(0.027)

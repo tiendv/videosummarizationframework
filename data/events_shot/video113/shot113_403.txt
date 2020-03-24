@@ -1,0 +1,5 @@
+walking(0.054)
+standing(0.050)
+hugging(0.025)
+adult+female+speaking(0.024)
+mopping(0.024)

@@ -1,0 +1,5 @@
+cheerleading(0.157)
+hugging(0.061)
+adult+female+speaking(0.052)
+adult+female+singing(0.052)
+cheering(0.040)

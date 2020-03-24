@@ -1,0 +1,5 @@
+hunting(0.044)
+climbing(0.035)
+mowing(0.030)
+digging(0.030)
+gripping(0.025)

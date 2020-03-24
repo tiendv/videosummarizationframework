@@ -1,5 +1,0 @@
-adult+female+speaking(0.071)
-walking(0.067)
-adult+female+singing(0.060)
-stealing(0.036)
-talking(0.026)

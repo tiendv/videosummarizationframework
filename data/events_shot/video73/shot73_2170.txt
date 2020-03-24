@@ -1,0 +1,5 @@
+drinking(0.104)
+hugging(0.042)
+sneezing(0.031)
+laughing(0.031)
+filming(0.025)

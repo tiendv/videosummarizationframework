@@ -1,0 +1,5 @@
+dressing(0.118)
+emptying(0.043)
+handcuffing(0.029)
+rinsing(0.028)
+drying(0.026)

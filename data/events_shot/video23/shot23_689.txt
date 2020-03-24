@@ -1,0 +1,5 @@
+fencing(0.081)
+walking(0.055)
+preaching(0.041)
+guarding(0.037)
+punching(0.031)

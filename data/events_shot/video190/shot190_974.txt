@@ -1,5 +1,0 @@
-sitting(0.059)
-flipping(0.058)
-laughing(0.041)
-smoking(0.032)
-adult+female+speaking(0.027)

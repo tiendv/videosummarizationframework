@@ -1,5 +1,0 @@
-punching(0.052)
-cracking(0.047)
-slapping(0.040)
-tying(0.037)
-dressing(0.022)

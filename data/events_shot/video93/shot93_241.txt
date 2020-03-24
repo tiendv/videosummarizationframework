@@ -1,0 +1,5 @@
+adult+male+speaking(0.125)
+talking(0.079)
+discussing(0.060)
+pointing(0.041)
+guarding(0.036)

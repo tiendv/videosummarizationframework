@@ -1,5 +1,0 @@
-asking(0.749)
-adult+male+speaking(0.025)
-adult+female+speaking(0.014)
-kissing(0.013)
-stealing(0.012)

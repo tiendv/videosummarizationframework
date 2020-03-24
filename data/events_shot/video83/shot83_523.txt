@@ -1,0 +1,5 @@
+dining(0.047)
+laughing(0.043)
+shopping(0.040)
+stealing(0.029)
+playing+videogames(0.025)

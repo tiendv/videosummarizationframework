@@ -1,0 +1,5 @@
+marrying(0.048)
+standing(0.033)
+bowing(0.032)
+stealing(0.031)
+adult+female+speaking(0.023)

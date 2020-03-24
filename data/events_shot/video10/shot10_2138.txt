@@ -1,5 +1,0 @@
-raining(0.063)
-storming(0.039)
-standing(0.025)
-adult+female+singing(0.021)
-hunting(0.020)

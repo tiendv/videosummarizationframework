@@ -1,0 +1,5 @@
+cooking(0.066)
+packing(0.042)
+unpacking(0.033)
+cleaning(0.027)
+stirring(0.020)

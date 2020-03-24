@@ -1,0 +1,5 @@
+painting(0.469)
+sanding(0.032)
+spraying(0.026)
+drawing(0.017)
+boxing(0.016)

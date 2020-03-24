@@ -1,5 +1,0 @@
-snowing(0.354)
-shooting(0.038)
-skiing(0.036)
-fighting(0.024)
-standing(0.022)

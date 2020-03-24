@@ -1,0 +1,5 @@
+slapping(0.065)
+laughing(0.046)
+fencing(0.039)
+asking(0.038)
+standing(0.035)

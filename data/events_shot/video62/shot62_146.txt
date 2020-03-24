@@ -1,0 +1,5 @@
+adult+female+speaking(0.031)
+adult+male+speaking(0.031)
+filming(0.027)
+photographing(0.027)
+blocking(0.024)

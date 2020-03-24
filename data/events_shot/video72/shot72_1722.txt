@@ -1,0 +1,5 @@
+exiting(0.107)
+walking(0.085)
+queuing(0.073)
+standing(0.041)
+applauding(0.040)

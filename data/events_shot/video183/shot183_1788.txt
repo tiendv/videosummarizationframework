@@ -1,5 +1,0 @@
-talking(0.104)
-standing(0.056)
-hugging(0.041)
-walking(0.029)
-child+speaking(0.029)

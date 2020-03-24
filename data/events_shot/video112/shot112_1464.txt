@@ -1,0 +1,5 @@
+cheerleading(0.680)
+bouncing(0.032)
+cheering(0.023)
+skating(0.012)
+walking(0.010)

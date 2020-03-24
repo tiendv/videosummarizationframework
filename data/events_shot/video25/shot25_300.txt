@@ -1,5 +1,0 @@
-dancing(0.109)
-walking(0.104)
-arresting(0.034)
-standing(0.025)
-stomping(0.022)

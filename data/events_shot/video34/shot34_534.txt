@@ -1,0 +1,5 @@
+crying(0.282)
+smoking(0.035)
+smelling(0.033)
+frowning(0.025)
+sniffing(0.023)

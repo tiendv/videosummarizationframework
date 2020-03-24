@@ -1,0 +1,5 @@
+tying(0.650)
+dressing(0.177)
+buttoning(0.030)
+putting(0.016)
+drying(0.010)

@@ -1,0 +1,5 @@
+hugging(0.091)
+smiling(0.065)
+adult+female+singing(0.051)
+queuing(0.034)
+filming(0.032)

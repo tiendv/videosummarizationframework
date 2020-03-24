@@ -1,0 +1,5 @@
+driving(0.239)
+riding(0.083)
+fighting(0.057)
+talking(0.025)
+queuing(0.024)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.065)
+applauding(0.051)
+adult+male+speaking(0.035)
+clapping(0.034)
+pointing(0.031)

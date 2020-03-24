@@ -1,0 +1,5 @@
+hanging(0.269)
+gripping(0.217)
+filming(0.030)
+guarding(0.024)
+photographing(0.022)

@@ -1,0 +1,5 @@
+telephoning(0.048)
+sneezing(0.045)
+calling(0.041)
+drying(0.035)
+slapping(0.034)

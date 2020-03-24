@@ -1,0 +1,5 @@
+asking(0.352)
+adult+female+speaking(0.242)
+sniffing(0.026)
+smelling(0.023)
+discussing(0.022)

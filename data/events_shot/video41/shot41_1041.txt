@@ -1,0 +1,5 @@
+cuddling(0.088)
+handcuffing(0.062)
+waking(0.038)
+adult+male+speaking(0.033)
+cracking(0.029)

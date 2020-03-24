@@ -1,0 +1,5 @@
+yawning(0.066)
+talking(0.064)
+adult+male+speaking(0.045)
+sitting(0.040)
+discussing(0.039)

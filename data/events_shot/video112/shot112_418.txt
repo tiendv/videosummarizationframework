@@ -1,0 +1,5 @@
+queuing(0.092)
+arresting(0.075)
+protesting(0.046)
+preaching(0.023)
+handcuffing(0.019)

@@ -1,0 +1,5 @@
+drinking(0.123)
+playing+videogames(0.094)
+celebrating(0.046)
+fighting(0.037)
+standing(0.035)

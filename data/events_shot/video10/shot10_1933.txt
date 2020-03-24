@@ -1,5 +1,0 @@
-driving(0.233)
-racing(0.106)
-steering(0.092)
-riding(0.088)
-bicycling(0.041)

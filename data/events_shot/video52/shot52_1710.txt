@@ -1,0 +1,5 @@
+arresting(0.127)
+hitchhiking(0.061)
+walking(0.057)
+handcuffing(0.054)
+talking(0.042)

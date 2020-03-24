@@ -1,0 +1,5 @@
+adult+female+speaking(0.131)
+fencing(0.126)
+standing(0.057)
+discussing(0.042)
+talking(0.036)

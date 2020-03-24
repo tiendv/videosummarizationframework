@@ -1,5 +1,0 @@
-smoking(0.051)
-spraying(0.026)
-painting(0.024)
-slapping(0.022)
-tapping(0.020)

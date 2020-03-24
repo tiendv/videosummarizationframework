@@ -1,0 +1,5 @@
+digging(0.076)
+hammering(0.051)
+shoveling(0.049)
+sowing(0.035)
+fencing(0.030)

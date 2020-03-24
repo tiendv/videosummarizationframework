@@ -1,0 +1,5 @@
+laughing(0.081)
+talking(0.058)
+adult+female+speaking(0.058)
+working(0.033)
+cooking(0.027)

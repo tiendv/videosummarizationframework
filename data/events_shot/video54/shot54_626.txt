@@ -1,0 +1,5 @@
+stretching(0.034)
+raising(0.029)
+sitting(0.026)
+lifting(0.026)
+exercising(0.023)

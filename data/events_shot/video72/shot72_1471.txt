@@ -1,0 +1,5 @@
+shopping(0.057)
+asking(0.056)
+drinking(0.054)
+adult+female+speaking(0.052)
+dining(0.043)

@@ -1,0 +1,5 @@
+asking(0.091)
+walking(0.046)
+throwing(0.041)
+autographing(0.034)
+slapping(0.032)

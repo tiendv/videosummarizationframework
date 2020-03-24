@@ -1,0 +1,5 @@
+walking(0.096)
+sniffing(0.069)
+smelling(0.049)
+dressing(0.028)
+exiting(0.027)

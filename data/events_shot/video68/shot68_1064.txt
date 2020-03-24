@@ -1,5 +1,0 @@
-walking(0.054)
-running(0.039)
-painting(0.039)
-aiming(0.036)
-adult+male+speaking(0.025)

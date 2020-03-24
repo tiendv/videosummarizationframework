@@ -1,5 +1,0 @@
-eating(0.081)
-biting(0.036)
-chewing(0.031)
-hugging(0.026)
-adult+male+speaking(0.024)

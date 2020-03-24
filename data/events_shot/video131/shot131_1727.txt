@@ -1,0 +1,5 @@
+drying(0.081)
+rinsing(0.054)
+washing(0.046)
+slapping(0.025)
+discussing(0.022)

@@ -1,5 +1,0 @@
-baking(0.244)
-cooking(0.145)
-stacking(0.030)
-standing(0.029)
-talking(0.020)

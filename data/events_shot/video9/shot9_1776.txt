@@ -1,5 +1,0 @@
-baptizing(0.063)
-marrying(0.040)
-adult+male+speaking(0.033)
-standing(0.027)
-adult+female+singing(0.027)

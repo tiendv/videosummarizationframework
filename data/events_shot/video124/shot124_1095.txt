@@ -1,0 +1,5 @@
+coughing(0.060)
+mopping(0.057)
+cleaning(0.052)
+sneezing(0.034)
+dusting(0.033)

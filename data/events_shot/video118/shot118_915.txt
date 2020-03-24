@@ -1,5 +1,0 @@
-stomping(0.054)
-eating(0.039)
-standing(0.037)
-wrestling(0.036)
-playing+videogames(0.035)

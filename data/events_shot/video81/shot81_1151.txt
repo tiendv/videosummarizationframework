@@ -1,0 +1,5 @@
+howling(0.386)
+whistling(0.186)
+barking(0.094)
+coughing(0.045)
+vacuuming(0.029)

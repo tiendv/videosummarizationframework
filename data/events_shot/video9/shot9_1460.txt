@@ -1,5 +1,0 @@
-sneezing(0.077)
-cleaning(0.066)
-cooking(0.049)
-packing(0.027)
-coughing(0.027)

@@ -1,0 +1,5 @@
+painting(0.129)
+hanging(0.118)
+hammering(0.028)
+climbing(0.026)
+praying(0.024)

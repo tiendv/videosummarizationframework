@@ -1,5 +1,0 @@
-handwriting(0.167)
-writing(0.083)
-adult+female+speaking(0.060)
-drawing(0.056)
-reading(0.037)

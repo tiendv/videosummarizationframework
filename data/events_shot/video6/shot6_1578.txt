@@ -1,5 +1,0 @@
-hugging(0.061)
-pointing(0.046)
-walking(0.036)
-waving(0.026)
-standing(0.026)

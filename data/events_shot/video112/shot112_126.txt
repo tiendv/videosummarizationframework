@@ -1,0 +1,5 @@
+adult+female+speaking(0.082)
+adult+female+singing(0.052)
+stretching(0.041)
+reaching(0.041)
+hugging(0.021)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.082)
+queuing(0.048)
+dining(0.043)
+discussing(0.035)
+officiating(0.034)

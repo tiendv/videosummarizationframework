@@ -1,5 +1,0 @@
-standing(0.039)
-running(0.036)
-bouncing(0.035)
-mopping(0.032)
-playing+videogames(0.030)

@@ -1,5 +1,0 @@
-adult+male+singing(0.121)
-adult+female+singing(0.110)
-sneezing(0.061)
-stacking(0.037)
-adult+male+speaking(0.025)

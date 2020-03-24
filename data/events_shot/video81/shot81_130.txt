@@ -1,0 +1,5 @@
+coughing(0.128)
+sneezing(0.084)
+slapping(0.083)
+barking(0.038)
+rocking(0.026)

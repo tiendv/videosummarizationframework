@@ -1,0 +1,5 @@
+rinsing(0.181)
+washing(0.149)
+cleaning(0.100)
+scrubbing(0.084)
+mopping(0.059)

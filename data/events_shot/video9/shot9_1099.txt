@@ -1,5 +1,0 @@
-combing(0.030)
-standing(0.028)
-adult+female+speaking(0.025)
-dressing(0.025)
-handcuffing(0.021)

@@ -1,5 +1,0 @@
-walking(0.642)
-standing(0.061)
-waving(0.058)
-shaking(0.014)
-turning(0.012)

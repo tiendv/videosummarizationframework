@@ -1,0 +1,5 @@
+walking(0.112)
+standing(0.063)
+kicking(0.034)
+guarding(0.027)
+punching(0.026)

@@ -1,0 +1,5 @@
+child+speaking(0.186)
+eating(0.084)
+sitting(0.039)
+crafting(0.037)
+dining(0.037)

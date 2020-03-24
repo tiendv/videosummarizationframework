@@ -1,0 +1,5 @@
+walking(0.126)
+laughing(0.114)
+sneezing(0.096)
+standing(0.049)
+bowing(0.038)

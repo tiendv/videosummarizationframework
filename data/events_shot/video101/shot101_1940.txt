@@ -1,0 +1,5 @@
+slapping(0.055)
+punching(0.048)
+knocking(0.047)
+drinking(0.036)
+filming(0.018)

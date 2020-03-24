@@ -1,0 +1,5 @@
+brushing(0.065)
+crying(0.062)
+smoking(0.033)
+tying(0.032)
+combing(0.030)

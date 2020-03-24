@@ -1,0 +1,5 @@
+adult+male+speaking(0.105)
+shrugging(0.096)
+smiling(0.080)
+squinting(0.040)
+snapping(0.028)

@@ -1,0 +1,5 @@
+kissing(0.134)
+hugging(0.105)
+slapping(0.068)
+laughing(0.066)
+shaving(0.062)

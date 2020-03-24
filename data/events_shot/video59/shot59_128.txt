@@ -1,5 +1,0 @@
-jumping(0.363)
-diving(0.281)
-launching(0.085)
-leaping(0.047)
-flying(0.046)

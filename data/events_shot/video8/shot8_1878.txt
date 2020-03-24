@@ -1,5 +1,0 @@
-hugging(0.096)
-competing(0.044)
-fighting(0.042)
-adult+male+singing(0.036)
-boxing(0.034)

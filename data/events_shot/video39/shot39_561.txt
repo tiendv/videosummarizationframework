@@ -1,5 +1,0 @@
-exiting(0.080)
-entering(0.076)
-arresting(0.065)
-closing(0.062)
-opening(0.057)

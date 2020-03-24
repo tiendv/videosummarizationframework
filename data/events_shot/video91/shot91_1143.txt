@@ -1,0 +1,5 @@
+sleeping(0.212)
+waking(0.170)
+tattooing(0.040)
+sneezing(0.036)
+resting(0.035)

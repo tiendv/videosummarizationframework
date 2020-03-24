@@ -1,5 +1,0 @@
-painting(0.096)
-punching(0.071)
-adult+male+speaking(0.070)
-slapping(0.046)
-fighting(0.037)

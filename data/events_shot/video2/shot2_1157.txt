@@ -1,0 +1,5 @@
+hiking(0.607)
+walking(0.117)
+running(0.065)
+jogging(0.065)
+camping(0.024)

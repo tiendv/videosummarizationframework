@@ -1,0 +1,5 @@
+plugging(0.090)
+assembling(0.069)
+removing(0.044)
+folding(0.033)
+crafting(0.029)

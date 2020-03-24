@@ -1,0 +1,5 @@
+sneezing(0.100)
+signing(0.057)
+coughing(0.043)
+stitching(0.041)
+packing(0.041)

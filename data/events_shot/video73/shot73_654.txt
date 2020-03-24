@@ -1,0 +1,5 @@
+hugging(0.392)
+carrying(0.036)
+cuddling(0.027)
+slapping(0.021)
+protesting(0.020)

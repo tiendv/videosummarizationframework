@@ -1,0 +1,5 @@
+adult+male+speaking(0.082)
+hanging(0.049)
+adult+female+speaking(0.039)
+discussing(0.023)
+bowing(0.021)

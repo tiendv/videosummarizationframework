@@ -1,5 +1,0 @@
-shrugging(0.101)
-standing(0.061)
-dressing(0.043)
-adult+female+speaking(0.021)
-whistling(0.020)

@@ -1,0 +1,5 @@
+hugging(0.923)
+cuddling(0.035)
+kissing(0.013)
+snuggling(0.008)
+carrying(0.002)

@@ -1,5 +1,0 @@
-carving(0.674)
-handwriting(0.036)
-writing(0.033)
-drawing(0.031)
-painting(0.018)

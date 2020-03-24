@@ -1,0 +1,5 @@
+cooking(0.181)
+dining(0.092)
+baking(0.052)
+frying(0.036)
+playing+videogames(0.026)

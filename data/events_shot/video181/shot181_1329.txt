@@ -1,5 +1,0 @@
-drinking(0.059)
-fighting(0.033)
-adult+male+speaking(0.028)
-adult+female+speaking(0.022)
-sneezing(0.021)

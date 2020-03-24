@@ -1,5 +1,0 @@
-spraying(0.105)
-drying(0.078)
-cleaning(0.039)
-vacuuming(0.038)
-dusting(0.023)

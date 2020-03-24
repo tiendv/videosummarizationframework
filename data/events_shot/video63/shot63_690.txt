@@ -1,0 +1,5 @@
+adult+male+speaking(0.098)
+standing(0.037)
+discussing(0.031)
+shopping(0.029)
+preaching(0.027)

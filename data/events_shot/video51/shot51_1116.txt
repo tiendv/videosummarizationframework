@@ -1,0 +1,5 @@
+waking(0.165)
+sleeping(0.147)
+resting(0.054)
+fighting(0.039)
+adult+male+singing(0.030)

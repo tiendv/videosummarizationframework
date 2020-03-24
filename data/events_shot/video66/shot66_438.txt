@@ -1,5 +1,0 @@
-climbing(0.085)
-knocking(0.046)
-hanging(0.044)
-walking(0.025)
-standing(0.020)

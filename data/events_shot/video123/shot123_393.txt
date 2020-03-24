@@ -1,0 +1,5 @@
+drinking(0.138)
+adult+male+speaking(0.067)
+spitting(0.047)
+discussing(0.036)
+playing+videogames(0.031)

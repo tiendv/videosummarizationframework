@@ -1,5 +1,0 @@
-running(0.035)
-standing(0.032)
-adult+female+singing(0.022)
-adult+female+speaking(0.020)
-painting(0.020)

@@ -1,5 +1,0 @@
-walking(0.033)
-standing(0.029)
-dressing(0.022)
-mopping(0.020)
-smiling(0.018)

@@ -1,5 +1,0 @@
-hunting(0.076)
-hiking(0.068)
-aiming(0.063)
-driving(0.047)
-adult+male+speaking(0.029)

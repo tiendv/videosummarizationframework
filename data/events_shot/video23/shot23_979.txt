@@ -1,0 +1,5 @@
+slapping(0.065)
+crying(0.037)
+carrying(0.028)
+shrugging(0.026)
+opening(0.023)

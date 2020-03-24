@@ -1,0 +1,5 @@
+sitting(0.069)
+boating(0.040)
+sailing(0.037)
+smiling(0.028)
+tattooing(0.025)

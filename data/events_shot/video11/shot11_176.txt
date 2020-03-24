@@ -1,0 +1,5 @@
+kissing(0.248)
+licking(0.076)
+smelling(0.055)
+smoking(0.050)
+sniffing(0.047)

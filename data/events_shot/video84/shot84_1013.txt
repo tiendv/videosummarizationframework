@@ -1,0 +1,5 @@
+discussing(0.050)
+arresting(0.048)
+adult+male+speaking(0.043)
+frowning(0.038)
+talking(0.036)

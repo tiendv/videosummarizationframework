@@ -1,0 +1,5 @@
+vacuuming(0.071)
+sweeping(0.049)
+walking(0.046)
+unloading(0.028)
+loading(0.024)

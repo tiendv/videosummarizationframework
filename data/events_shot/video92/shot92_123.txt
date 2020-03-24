@@ -1,0 +1,5 @@
+cleaning(0.057)
+assembling(0.054)
+mopping(0.054)
+unpacking(0.046)
+building(0.037)

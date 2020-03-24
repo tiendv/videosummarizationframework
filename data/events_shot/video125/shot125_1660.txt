@@ -1,0 +1,5 @@
+whistling(0.056)
+barking(0.040)
+filming(0.037)
+rising(0.036)
+howling(0.026)

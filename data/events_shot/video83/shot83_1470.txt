@@ -1,0 +1,5 @@
+shaking(0.092)
+giving(0.036)
+standing(0.030)
+sitting(0.022)
+laughing(0.021)

@@ -1,5 +1,0 @@
-selling(0.278)
-shopping(0.200)
-building(0.070)
-buying(0.050)
-queuing(0.045)

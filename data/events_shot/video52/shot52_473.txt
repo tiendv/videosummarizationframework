@@ -1,0 +1,5 @@
+hitchhiking(0.075)
+towing(0.051)
+walking(0.049)
+driving(0.049)
+riding(0.035)

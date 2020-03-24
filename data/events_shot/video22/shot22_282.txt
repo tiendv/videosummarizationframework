@@ -1,0 +1,5 @@
+telephoning(0.055)
+reading(0.054)
+studying(0.053)
+sitting(0.040)
+massaging(0.026)

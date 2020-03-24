@@ -1,0 +1,5 @@
+drinking(0.123)
+filming(0.099)
+photographing(0.049)
+walking(0.021)
+playing+videogames(0.017)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.074)
+talking(0.059)
+sneezing(0.038)
+child+speaking(0.035)
+reading(0.033)

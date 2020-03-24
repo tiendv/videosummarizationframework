@@ -1,5 +1,0 @@
-telephoning(0.740)
-calling(0.155)
-adult+female+speaking(0.017)
-placing(0.004)
-putting(0.004)

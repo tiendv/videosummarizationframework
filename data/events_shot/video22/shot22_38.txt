@@ -1,0 +1,5 @@
+walking(0.110)
+tattooing(0.091)
+chewing(0.029)
+shrugging(0.019)
+carrying(0.018)

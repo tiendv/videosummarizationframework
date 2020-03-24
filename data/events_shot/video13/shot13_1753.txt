@@ -1,0 +1,5 @@
+child+singing(0.113)
+adult+female+singing(0.108)
+combing(0.057)
+drying(0.040)
+child+speaking(0.039)

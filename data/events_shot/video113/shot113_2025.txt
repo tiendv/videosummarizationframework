@@ -1,0 +1,5 @@
+riding(0.113)
+walking(0.096)
+roaring(0.080)
+bicycling(0.047)
+driving(0.045)

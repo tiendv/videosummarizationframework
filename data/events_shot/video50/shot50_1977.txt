@@ -1,5 +1,0 @@
-smiling(0.054)
-talking(0.049)
-frowning(0.043)
-winking(0.038)
-filming(0.035)

@@ -1,0 +1,5 @@
+blowing(0.996)
+celebrating(0.001)
+laughing(0.000)
+drinking(0.000)
+coughing(0.000)

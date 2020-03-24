@@ -1,0 +1,5 @@
+arresting(0.077)
+bowing(0.051)
+kneeling(0.042)
+autographing(0.029)
+handcuffing(0.026)

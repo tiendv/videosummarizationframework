@@ -1,0 +1,5 @@
+gambling(0.059)
+queuing(0.057)
+dining(0.047)
+adult+male+speaking(0.044)
+discussing(0.039)

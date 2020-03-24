@@ -1,0 +1,5 @@
+walking(0.060)
+shrugging(0.053)
+adult+male+speaking(0.045)
+raising(0.031)
+smoking(0.026)

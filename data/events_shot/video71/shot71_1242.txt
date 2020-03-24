@@ -1,0 +1,5 @@
+crying(0.461)
+frowning(0.102)
+spraying(0.043)
+slapping(0.036)
+shrugging(0.019)

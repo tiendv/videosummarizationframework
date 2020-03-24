@@ -1,0 +1,5 @@
+stacking(0.078)
+flooding(0.050)
+cracking(0.034)
+storming(0.030)
+adult+male+singing(0.027)

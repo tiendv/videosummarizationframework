@@ -1,0 +1,5 @@
+building(0.098)
+locking(0.069)
+adult+male+speaking(0.063)
+knocking(0.049)
+blocking(0.038)

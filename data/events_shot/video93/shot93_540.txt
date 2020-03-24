@@ -1,0 +1,5 @@
+shaving(0.055)
+removing(0.025)
+working(0.025)
+squatting(0.021)
+gripping(0.019)

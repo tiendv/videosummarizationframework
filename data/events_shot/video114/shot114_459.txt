@@ -1,0 +1,5 @@
+coughing(0.442)
+sneezing(0.315)
+clapping(0.029)
+slapping(0.015)
+yawning(0.014)

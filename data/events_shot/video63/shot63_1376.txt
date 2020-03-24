@@ -1,0 +1,5 @@
+adult+male+speaking(0.149)
+officiating(0.149)
+preaching(0.130)
+interviewing(0.109)
+discussing(0.052)

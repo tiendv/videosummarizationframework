@@ -1,0 +1,5 @@
+talking(0.090)
+child+speaking(0.039)
+coughing(0.038)
+drinking(0.036)
+standing(0.035)

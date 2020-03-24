@@ -1,0 +1,5 @@
+riding(0.135)
+driving(0.106)
+adult+female+singing(0.055)
+piloting(0.041)
+adult+female+speaking(0.031)

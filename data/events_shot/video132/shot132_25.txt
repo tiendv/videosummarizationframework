@@ -1,0 +1,5 @@
+bicycling(0.053)
+walking(0.043)
+hiking(0.043)
+asking(0.036)
+queuing(0.028)

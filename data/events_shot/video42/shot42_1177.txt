@@ -1,0 +1,5 @@
+officiating(0.150)
+marrying(0.131)
+praying(0.036)
+dining(0.024)
+adult+male+speaking(0.023)

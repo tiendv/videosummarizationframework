@@ -1,0 +1,5 @@
+asking(0.078)
+adult+male+speaking(0.044)
+adult+female+speaking(0.040)
+fueling(0.028)
+laughing(0.028)

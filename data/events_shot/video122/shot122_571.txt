@@ -1,0 +1,5 @@
+crying(0.150)
+coughing(0.062)
+eating(0.061)
+smelling(0.060)
+sniffing(0.045)

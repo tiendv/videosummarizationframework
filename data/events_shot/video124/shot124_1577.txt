@@ -1,0 +1,5 @@
+pressing(0.612)
+crafting(0.019)
+poking(0.017)
+putting(0.017)
+flipping(0.009)

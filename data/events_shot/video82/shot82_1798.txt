@@ -1,0 +1,5 @@
+drinking(0.790)
+putting(0.009)
+tapping(0.008)
+sneezing(0.008)
+adult+male+speaking(0.007)

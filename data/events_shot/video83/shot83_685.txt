@@ -1,0 +1,5 @@
+crying(0.353)
+raining(0.082)
+adult+female+speaking(0.075)
+sitting(0.046)
+talking(0.028)

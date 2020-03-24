@@ -1,5 +1,0 @@
-standing(0.066)
-walking(0.055)
-praying(0.050)
-officiating(0.047)
-parading(0.040)

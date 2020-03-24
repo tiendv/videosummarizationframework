@@ -1,0 +1,5 @@
+asking(0.094)
+adult+male+speaking(0.080)
+walking(0.036)
+stealing(0.031)
+hugging(0.024)

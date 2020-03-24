@@ -1,0 +1,5 @@
+telephoning(0.300)
+calling(0.120)
+adult+male+speaking(0.117)
+coughing(0.038)
+discussing(0.025)

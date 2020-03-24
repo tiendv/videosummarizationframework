@@ -1,5 +1,0 @@
-sneezing(0.133)
-drinking(0.098)
-coughing(0.038)
-adult+female+singing(0.026)
-praying(0.021)

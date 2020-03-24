@@ -1,0 +1,5 @@
+standing(0.059)
+tattooing(0.055)
+shaving(0.035)
+adult+male+speaking(0.021)
+carving(0.019)

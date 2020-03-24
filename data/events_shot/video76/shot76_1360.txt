@@ -1,5 +1,0 @@
-queuing(0.195)
-selling(0.043)
-shopping(0.043)
-guarding(0.034)
-stacking(0.027)

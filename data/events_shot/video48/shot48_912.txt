@@ -1,5 +1,0 @@
-slapping(0.186)
-shaking(0.035)
-talking(0.032)
-adult+male+speaking(0.029)
-fighting(0.028)

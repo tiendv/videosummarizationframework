@@ -1,5 +1,0 @@
-adult+male+speaking(0.037)
-adult+male+singing(0.027)
-drinking(0.026)
-clipping(0.026)
-smoking(0.024)

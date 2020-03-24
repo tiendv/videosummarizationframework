@@ -1,0 +1,5 @@
+adult+male+speaking(0.075)
+walking(0.048)
+turning(0.040)
+spinning(0.038)
+dancing(0.025)

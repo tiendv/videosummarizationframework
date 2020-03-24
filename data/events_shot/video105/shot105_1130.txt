@@ -1,0 +1,5 @@
+reading(0.332)
+autographing(0.235)
+adult+male+speaking(0.039)
+playing+music(0.034)
+preaching(0.021)

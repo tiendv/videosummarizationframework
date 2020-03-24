@@ -1,0 +1,5 @@
+typing(0.045)
+adult+male+speaking(0.041)
+tattooing(0.039)
+sitting(0.036)
+peeling(0.021)

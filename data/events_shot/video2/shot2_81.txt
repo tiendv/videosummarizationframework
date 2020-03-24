@@ -1,0 +1,5 @@
+adult+female+speaking(0.086)
+laughing(0.061)
+dining(0.051)
+discussing(0.047)
+asking(0.047)

@@ -1,0 +1,5 @@
+crying(0.147)
+drinking(0.050)
+kissing(0.046)
+smoking(0.041)
+adult+male+speaking(0.040)

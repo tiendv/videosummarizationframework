@@ -1,0 +1,5 @@
+stealing(0.050)
+cooking(0.039)
+dining(0.034)
+playing+videogames(0.024)
+mopping(0.023)

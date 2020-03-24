@@ -1,5 +1,0 @@
-spinning(0.332)
-turning(0.263)
-bowing(0.045)
-walking(0.014)
-praying(0.013)

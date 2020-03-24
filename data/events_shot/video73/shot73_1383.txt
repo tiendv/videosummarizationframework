@@ -1,0 +1,5 @@
+drinking(0.131)
+eating(0.045)
+dining(0.041)
+fighting(0.035)
+gambling(0.034)

@@ -1,0 +1,5 @@
+preaching(0.075)
+adult+male+speaking(0.040)
+praying(0.031)
+adult+female+singing(0.029)
+officiating(0.028)

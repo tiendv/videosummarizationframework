@@ -1,0 +1,5 @@
+ascending(0.394)
+descending(0.288)
+rising(0.115)
+digging(0.011)
+flowing(0.011)

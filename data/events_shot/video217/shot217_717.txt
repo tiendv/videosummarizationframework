@@ -1,5 +1,0 @@
-adult+female+speaking(0.151)
-adult+female+singing(0.149)
-bathing(0.073)
-asking(0.032)
-smoking(0.023)

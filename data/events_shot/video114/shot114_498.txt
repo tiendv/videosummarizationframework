@@ -1,0 +1,5 @@
+coughing(0.082)
+sneezing(0.060)
+adult+male+speaking(0.058)
+cooking(0.052)
+chewing(0.030)

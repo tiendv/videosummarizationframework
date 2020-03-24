@@ -1,0 +1,5 @@
+adult+male+speaking(0.110)
+praying(0.046)
+calling(0.036)
+crying(0.031)
+locking(0.028)

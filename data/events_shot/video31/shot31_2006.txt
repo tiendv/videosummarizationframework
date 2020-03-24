@@ -1,0 +1,5 @@
+climbing(0.205)
+diving(0.091)
+skiing(0.048)
+fishing(0.047)
+swimming(0.036)

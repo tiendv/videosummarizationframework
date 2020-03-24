@@ -1,0 +1,5 @@
+waking(0.286)
+sneezing(0.067)
+sleeping(0.054)
+massaging(0.036)
+resting(0.032)

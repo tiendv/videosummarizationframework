@@ -1,0 +1,5 @@
+bathing(0.327)
+washing(0.033)
+rinsing(0.018)
+baptizing(0.017)
+adult+female+speaking(0.015)

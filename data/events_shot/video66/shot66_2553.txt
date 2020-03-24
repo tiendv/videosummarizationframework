@@ -1,5 +1,0 @@
-crafting(0.054)
-closing(0.048)
-opening(0.037)
-standing(0.018)
-adult+female+singing(0.016)

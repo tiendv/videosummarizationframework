@@ -1,0 +1,5 @@
+turning(0.055)
+flicking(0.027)
+flipping(0.025)
+blowing(0.022)
+hanging(0.020)

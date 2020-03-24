@@ -1,0 +1,5 @@
+walking(0.128)
+raining(0.041)
+filming(0.038)
+adult+male+speaking(0.028)
+slapping(0.025)

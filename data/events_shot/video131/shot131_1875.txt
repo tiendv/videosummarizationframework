@@ -1,0 +1,5 @@
+adult+male+speaking(0.095)
+preaching(0.076)
+protesting(0.060)
+queuing(0.055)
+officiating(0.054)

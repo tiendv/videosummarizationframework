@@ -1,0 +1,5 @@
+twisting(0.085)
+cracking(0.069)
+adult+female+singing(0.057)
+rising(0.035)
+cooking(0.034)

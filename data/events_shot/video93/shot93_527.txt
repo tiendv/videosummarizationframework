@@ -1,0 +1,5 @@
+calling(0.300)
+telephoning(0.245)
+playing+videogames(0.032)
+adult+male+speaking(0.029)
+filming(0.025)

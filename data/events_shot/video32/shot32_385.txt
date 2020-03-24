@@ -1,0 +1,5 @@
+shooting(0.122)
+aiming(0.107)
+attacking(0.065)
+punching(0.052)
+fighting(0.052)

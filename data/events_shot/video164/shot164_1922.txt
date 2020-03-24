@@ -1,5 +1,0 @@
-snapping(0.058)
-telephoning(0.050)
-brushing(0.035)
-adult+female+speaking(0.026)
-pointing(0.020)

@@ -1,0 +1,5 @@
+plugging(0.075)
+assembling(0.072)
+putting(0.028)
+starting(0.028)
+dipping(0.027)

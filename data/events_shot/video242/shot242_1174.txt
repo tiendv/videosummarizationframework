@@ -1,5 +1,0 @@
-stacking(0.135)
-tapping(0.042)
-talking(0.038)
-sitting(0.034)
-sneezing(0.024)

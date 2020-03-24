@@ -1,0 +1,5 @@
+adult+male+speaking(0.209)
+walking(0.101)
+standing(0.073)
+lecturing(0.036)
+filming(0.030)

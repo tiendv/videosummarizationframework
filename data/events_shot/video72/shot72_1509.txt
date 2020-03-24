@@ -1,0 +1,5 @@
+queuing(0.146)
+cuddling(0.058)
+hugging(0.056)
+adult+male+speaking(0.054)
+praying(0.048)

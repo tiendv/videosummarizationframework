@@ -1,0 +1,5 @@
+sneezing(0.189)
+waking(0.104)
+drinking(0.091)
+coughing(0.050)
+resting(0.028)

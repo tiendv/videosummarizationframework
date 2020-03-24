@@ -1,5 +1,0 @@
-taping(0.112)
-asking(0.090)
-standing(0.050)
-adult+female+speaking(0.037)
-adult+male+speaking(0.033)

@@ -1,0 +1,5 @@
+guarding(0.081)
+hugging(0.072)
+kissing(0.057)
+arresting(0.056)
+adult+male+speaking(0.040)

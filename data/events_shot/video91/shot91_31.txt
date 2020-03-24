@@ -1,0 +1,5 @@
+adult+female+speaking(0.188)
+cuddling(0.047)
+hugging(0.042)
+tapping(0.026)
+chewing(0.024)

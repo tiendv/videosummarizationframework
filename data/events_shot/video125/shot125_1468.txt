@@ -1,0 +1,5 @@
+frowning(0.201)
+brushing(0.192)
+adult+female+speaking(0.048)
+peeling(0.040)
+crying(0.033)

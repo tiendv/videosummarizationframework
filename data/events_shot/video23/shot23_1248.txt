@@ -1,0 +1,5 @@
+signing(0.653)
+sneezing(0.040)
+adult+female+speaking(0.034)
+interviewing(0.021)
+coughing(0.015)

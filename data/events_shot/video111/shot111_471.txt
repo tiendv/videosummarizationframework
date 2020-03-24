@@ -1,0 +1,5 @@
+adult+female+singing(0.164)
+adult+male+singing(0.058)
+licking(0.036)
+singing(0.035)
+performing(0.032)

@@ -1,5 +1,0 @@
-drying(0.020)
-adult+female+speaking(0.020)
-sitting(0.018)
-cracking(0.018)
-dusting(0.015)

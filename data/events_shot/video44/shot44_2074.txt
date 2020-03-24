@@ -1,0 +1,5 @@
+slapping(0.048)
+exiting(0.041)
+entering(0.032)
+hugging(0.028)
+asking(0.022)

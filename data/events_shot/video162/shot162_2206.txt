@@ -1,5 +1,0 @@
-standing(0.060)
-guarding(0.055)
-arresting(0.047)
-talking(0.045)
-playing+videogames(0.041)

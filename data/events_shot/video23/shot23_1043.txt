@@ -1,0 +1,5 @@
+loading(0.204)
+reading(0.056)
+adult+male+speaking(0.052)
+filling(0.030)
+pointing(0.029)

@@ -1,0 +1,5 @@
+hiking(0.112)
+walking(0.108)
+hunting(0.084)
+asking(0.059)
+standing(0.048)

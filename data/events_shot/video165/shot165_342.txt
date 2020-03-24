@@ -1,5 +1,0 @@
-filming(0.100)
-adult+male+speaking(0.053)
-cracking(0.045)
-photographing(0.035)
-talking(0.025)

@@ -1,5 +1,0 @@
-painting(0.055)
-adult+female+speaking(0.036)
-dusting(0.031)
-putting(0.026)
-mopping(0.024)

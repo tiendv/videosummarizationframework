@@ -1,0 +1,5 @@
+marrying(0.076)
+interviewing(0.071)
+adult+male+speaking(0.057)
+smiling(0.055)
+laughing(0.049)

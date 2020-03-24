@@ -1,0 +1,5 @@
+camping(0.449)
+hiking(0.061)
+playing+videogames(0.025)
+standing(0.018)
+storming(0.016)

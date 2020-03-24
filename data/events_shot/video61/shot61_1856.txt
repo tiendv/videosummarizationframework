@@ -1,0 +1,5 @@
+coaching(0.238)
+shrugging(0.156)
+walking(0.089)
+pointing(0.042)
+adult+male+speaking(0.028)

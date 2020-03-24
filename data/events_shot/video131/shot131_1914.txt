@@ -1,0 +1,5 @@
+walking(0.089)
+standing(0.084)
+dancing(0.049)
+adult+female+speaking(0.033)
+joining(0.029)

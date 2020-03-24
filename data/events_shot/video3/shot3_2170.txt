@@ -1,0 +1,5 @@
+singing(0.031)
+talking(0.030)
+burning(0.030)
+performing(0.027)
+standing(0.025)

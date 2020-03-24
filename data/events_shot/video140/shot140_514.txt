@@ -1,5 +1,0 @@
-sliding(0.115)
-adult+female+singing(0.101)
-slipping(0.049)
-adult+male+singing(0.048)
-bouncing(0.028)

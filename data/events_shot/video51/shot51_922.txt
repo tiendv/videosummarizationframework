@@ -1,0 +1,5 @@
+queuing(0.136)
+asking(0.076)
+celebrating(0.050)
+hugging(0.040)
+adult+female+speaking(0.035)

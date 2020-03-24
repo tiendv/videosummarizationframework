@@ -1,0 +1,5 @@
+adult+female+speaking(0.052)
+crying(0.036)
+packing(0.025)
+sitting(0.020)
+putting(0.016)

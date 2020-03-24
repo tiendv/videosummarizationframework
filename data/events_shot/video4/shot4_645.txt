@@ -1,0 +1,5 @@
+slapping(0.308)
+sneezing(0.146)
+coughing(0.037)
+filming(0.036)
+laughing(0.028)

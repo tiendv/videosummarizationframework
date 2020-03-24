@@ -1,0 +1,5 @@
+tattooing(0.197)
+painting(0.182)
+drawing(0.098)
+adult+male+speaking(0.041)
+sketching(0.033)

@@ -1,0 +1,5 @@
+asking(0.114)
+arresting(0.075)
+guarding(0.070)
+queuing(0.059)
+filming(0.054)

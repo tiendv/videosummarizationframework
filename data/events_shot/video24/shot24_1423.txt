@@ -1,0 +1,5 @@
+hugging(0.126)
+discussing(0.100)
+smiling(0.080)
+talking(0.058)
+frowning(0.043)

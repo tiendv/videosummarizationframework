@@ -1,0 +1,5 @@
+arresting(0.600)
+handcuffing(0.114)
+fueling(0.047)
+asking(0.035)
+filming(0.022)

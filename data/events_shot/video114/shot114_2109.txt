@@ -1,0 +1,5 @@
+driving(0.134)
+shaking(0.085)
+steering(0.057)
+adult+male+speaking(0.043)
+closing(0.043)

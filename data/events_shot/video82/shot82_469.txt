@@ -1,0 +1,5 @@
+knocking(0.065)
+sanding(0.064)
+building(0.061)
+measuring(0.042)
+closing(0.042)

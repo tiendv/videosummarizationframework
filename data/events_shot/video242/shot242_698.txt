@@ -1,5 +1,0 @@
-arresting(0.122)
-talking(0.080)
-discussing(0.072)
-standing(0.054)
-adult+male+speaking(0.050)

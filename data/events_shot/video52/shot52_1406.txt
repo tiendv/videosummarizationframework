@@ -1,0 +1,5 @@
+walking(0.216)
+knocking(0.097)
+entering(0.085)
+opening(0.067)
+closing(0.048)

@@ -1,0 +1,5 @@
+coaching(0.132)
+arresting(0.125)
+hugging(0.050)
+slapping(0.042)
+fighting(0.040)

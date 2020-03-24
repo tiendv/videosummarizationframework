@@ -1,0 +1,5 @@
+marrying(0.062)
+adult+male+speaking(0.057)
+standing(0.045)
+hugging(0.038)
+talking(0.036)

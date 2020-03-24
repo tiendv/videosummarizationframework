@@ -1,0 +1,5 @@
+pointing(0.042)
+tying(0.040)
+crafting(0.034)
+painting(0.028)
+handcuffing(0.027)

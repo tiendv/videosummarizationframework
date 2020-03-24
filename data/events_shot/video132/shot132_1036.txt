@@ -1,0 +1,5 @@
+knocking(0.296)
+painting(0.050)
+dusting(0.024)
+tattooing(0.021)
+removing(0.021)

@@ -1,0 +1,5 @@
+standing(0.045)
+filming(0.042)
+walking(0.042)
+talking(0.030)
+smoking(0.029)

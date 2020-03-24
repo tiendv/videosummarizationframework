@@ -1,5 +1,0 @@
-walking(0.477)
-tapping(0.200)
-hiking(0.068)
-standing(0.017)
-skipping(0.011)

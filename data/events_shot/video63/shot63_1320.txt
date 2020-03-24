@@ -1,0 +1,5 @@
+talking(0.056)
+starting(0.045)
+shrugging(0.043)
+standing(0.039)
+smiling(0.035)

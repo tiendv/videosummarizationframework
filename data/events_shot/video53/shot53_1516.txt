@@ -1,0 +1,5 @@
+waving(0.119)
+standing(0.036)
+hanging(0.029)
+flipping(0.022)
+protesting(0.019)

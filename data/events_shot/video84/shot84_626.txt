@@ -1,0 +1,5 @@
+drinking(0.048)
+adult+female+speaking(0.045)
+opening(0.036)
+hugging(0.036)
+crying(0.029)

@@ -1,0 +1,5 @@
+walking(0.186)
+talking(0.053)
+raining(0.047)
+standing(0.045)
+turning(0.044)

@@ -1,0 +1,5 @@
+arresting(0.339)
+driving(0.069)
+riding(0.051)
+handcuffing(0.046)
+hitchhiking(0.030)

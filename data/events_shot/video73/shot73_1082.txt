@@ -1,0 +1,5 @@
+smiling(0.125)
+grinning(0.109)
+playing+videogames(0.050)
+pointing(0.047)
+laughing(0.044)

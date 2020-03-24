@@ -1,5 +1,0 @@
-stacking(0.255)
-slapping(0.018)
-asking(0.017)
-kicking(0.017)
-standing(0.016)

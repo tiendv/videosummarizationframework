@@ -1,5 +1,0 @@
-smoking(0.093)
-punching(0.049)
-burning(0.045)
-extinguishing(0.028)
-drumming(0.024)

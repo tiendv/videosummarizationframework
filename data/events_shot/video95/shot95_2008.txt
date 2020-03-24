@@ -1,0 +1,5 @@
+folding(0.111)
+inflating(0.068)
+adult+female+speaking(0.053)
+dressing(0.025)
+crying(0.025)

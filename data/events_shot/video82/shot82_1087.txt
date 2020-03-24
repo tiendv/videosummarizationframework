@@ -1,0 +1,5 @@
+drinking(0.094)
+adult+female+singing(0.080)
+hugging(0.064)
+dining(0.032)
+gambling(0.028)

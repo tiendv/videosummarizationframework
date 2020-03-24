@@ -1,0 +1,5 @@
+vacuuming(0.104)
+inflating(0.063)
+telephoning(0.054)
+sleeping(0.038)
+calling(0.024)

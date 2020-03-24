@@ -1,5 +1,0 @@
-shaving(0.026)
-combing(0.024)
-smelling(0.021)
-dressing(0.019)
-adult+female+speaking(0.018)

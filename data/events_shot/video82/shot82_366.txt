@@ -1,0 +1,5 @@
+crying(0.282)
+telephoning(0.074)
+frowning(0.059)
+adult+female+speaking(0.037)
+smoking(0.029)

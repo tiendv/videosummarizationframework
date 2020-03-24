@@ -1,0 +1,5 @@
+crying(0.129)
+blowing(0.060)
+raining(0.045)
+smoking(0.033)
+opening(0.020)

@@ -1,0 +1,5 @@
+sitting(0.081)
+painting(0.036)
+discussing(0.033)
+dining(0.026)
+adult+female+speaking(0.026)

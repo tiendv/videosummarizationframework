@@ -1,0 +1,5 @@
+burning(0.077)
+destroying(0.072)
+attacking(0.060)
+shooting(0.052)
+hunting(0.052)

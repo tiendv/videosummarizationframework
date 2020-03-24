@@ -1,0 +1,5 @@
+brushing(0.070)
+drying(0.025)
+child+speaking(0.025)
+painting(0.021)
+adult+female+speaking(0.020)

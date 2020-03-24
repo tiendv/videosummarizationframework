@@ -1,5 +1,0 @@
-fueling(0.070)
-arresting(0.057)
-filming(0.045)
-queuing(0.034)
-stopping(0.030)

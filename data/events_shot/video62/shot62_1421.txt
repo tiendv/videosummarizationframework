@@ -1,0 +1,5 @@
+frowning(0.241)
+pointing(0.094)
+shrugging(0.078)
+coaching(0.071)
+aiming(0.054)

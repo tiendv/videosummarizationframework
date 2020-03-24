@@ -1,0 +1,5 @@
+signing(0.072)
+talking(0.070)
+clapping(0.057)
+standing(0.054)
+adult+female+speaking(0.054)

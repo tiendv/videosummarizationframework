@@ -1,0 +1,5 @@
+arresting(0.178)
+guarding(0.095)
+entering(0.082)
+exiting(0.071)
+walking(0.049)

@@ -1,0 +1,5 @@
+officiating(0.143)
+marrying(0.120)
+entering(0.083)
+exiting(0.077)
+walking(0.060)

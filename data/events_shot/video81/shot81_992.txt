@@ -1,0 +1,5 @@
+rising(0.115)
+ascending(0.107)
+climbing(0.062)
+playing+videogames(0.041)
+shoveling(0.040)

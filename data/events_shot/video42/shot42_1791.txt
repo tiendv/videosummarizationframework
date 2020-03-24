@@ -1,0 +1,5 @@
+carrying(0.058)
+fighting(0.046)
+attacking(0.045)
+standing(0.037)
+singing(0.034)

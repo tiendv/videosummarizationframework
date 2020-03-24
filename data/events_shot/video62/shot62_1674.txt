@@ -1,0 +1,5 @@
+raining(0.142)
+walking(0.054)
+arresting(0.044)
+slapping(0.031)
+fighting(0.031)

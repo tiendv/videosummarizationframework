@@ -1,0 +1,5 @@
+kissing(0.158)
+crying(0.093)
+adult+female+speaking(0.050)
+drinking(0.041)
+adult+female+singing(0.040)

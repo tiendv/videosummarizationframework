@@ -1,0 +1,5 @@
+adult+male+speaking(0.101)
+adult+female+singing(0.088)
+adult+female+speaking(0.072)
+arresting(0.035)
+hugging(0.035)

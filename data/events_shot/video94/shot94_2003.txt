@@ -1,0 +1,5 @@
+painting(0.104)
+spraying(0.096)
+cleaning(0.062)
+dusting(0.060)
+baking(0.044)

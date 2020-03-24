@@ -1,0 +1,5 @@
+autographing(0.080)
+asking(0.078)
+walking(0.077)
+adult+female+speaking(0.050)
+queuing(0.037)

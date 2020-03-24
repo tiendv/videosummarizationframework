@@ -1,5 +1,0 @@
-asking(0.184)
-arresting(0.142)
-handcuffing(0.075)
-adult+female+speaking(0.068)
-slapping(0.053)

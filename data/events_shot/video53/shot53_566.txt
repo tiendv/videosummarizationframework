@@ -1,0 +1,5 @@
+drinking(0.043)
+cooking(0.031)
+stirring(0.028)
+peeling(0.027)
+adult+male+speaking(0.027)

@@ -1,5 +1,0 @@
-calling(0.041)
-clipping(0.039)
-adult+male+speaking(0.035)
-talking(0.034)
-fighting(0.024)

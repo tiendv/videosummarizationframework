@@ -1,0 +1,5 @@
+slapping(0.096)
+talking(0.044)
+laughing(0.041)
+handcuffing(0.038)
+dressing(0.036)

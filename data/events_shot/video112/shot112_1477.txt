@@ -1,0 +1,5 @@
+walking(0.155)
+mowing(0.068)
+adult+male+speaking(0.060)
+starting(0.059)
+standing(0.035)

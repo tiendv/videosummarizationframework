@@ -1,0 +1,5 @@
+opening(0.027)
+pouring(0.020)
+hammering(0.020)
+gripping(0.019)
+crafting(0.019)

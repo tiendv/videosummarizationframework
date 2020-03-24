@@ -1,0 +1,5 @@
+roaring(0.233)
+inflating(0.046)
+adult+female+singing(0.025)
+singing(0.022)
+camping(0.021)

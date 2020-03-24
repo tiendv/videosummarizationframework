@@ -1,0 +1,5 @@
+hugging(0.043)
+talking(0.038)
+standing(0.037)
+throwing(0.036)
+pointing(0.028)

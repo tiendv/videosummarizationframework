@@ -1,0 +1,5 @@
+dancing(0.083)
+applauding(0.048)
+adult+female+speaking(0.042)
+clapping(0.035)
+cheering(0.030)

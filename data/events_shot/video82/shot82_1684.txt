@@ -1,0 +1,5 @@
+flicking(0.128)
+throwing(0.059)
+putting(0.040)
+knocking(0.037)
+hugging(0.031)

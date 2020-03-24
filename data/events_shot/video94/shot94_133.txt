@@ -1,0 +1,5 @@
+frowning(0.179)
+shrugging(0.050)
+discussing(0.042)
+filming(0.038)
+asking(0.035)

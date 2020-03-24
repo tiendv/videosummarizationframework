@@ -1,5 +1,0 @@
-snowing(0.081)
-clipping(0.073)
-raining(0.058)
-talking(0.042)
-walking(0.041)

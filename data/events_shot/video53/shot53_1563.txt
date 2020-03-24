@@ -1,0 +1,5 @@
+crying(0.087)
+hugging(0.081)
+adult+female+speaking(0.044)
+smiling(0.037)
+brushing(0.037)

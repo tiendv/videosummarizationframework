@@ -1,0 +1,5 @@
+sneezing(0.366)
+preaching(0.147)
+coughing(0.076)
+sniffing(0.029)
+laughing(0.022)

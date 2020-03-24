@@ -1,0 +1,5 @@
+calling(0.119)
+telephoning(0.086)
+shaving(0.043)
+adult+male+speaking(0.041)
+punching(0.024)

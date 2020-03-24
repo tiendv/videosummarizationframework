@@ -1,0 +1,5 @@
+drinking(0.087)
+shaving(0.047)
+brushing(0.030)
+standing(0.023)
+imitating(0.021)

@@ -1,0 +1,5 @@
+fencing(0.606)
+adult+male+speaking(0.043)
+sitting(0.020)
+barking(0.017)
+mowing(0.015)

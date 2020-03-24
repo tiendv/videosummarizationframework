@@ -1,0 +1,5 @@
+walking(0.065)
+guarding(0.058)
+arresting(0.055)
+asking(0.030)
+flooding(0.028)

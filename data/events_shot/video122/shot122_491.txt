@@ -1,0 +1,5 @@
+fencing(0.111)
+adult+male+speaking(0.057)
+fighting(0.047)
+playing+videogames(0.037)
+attacking(0.035)

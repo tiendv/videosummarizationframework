@@ -1,0 +1,5 @@
+stretching(0.116)
+fencing(0.083)
+balancing(0.060)
+swinging(0.027)
+drinking(0.027)

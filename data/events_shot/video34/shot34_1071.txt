@@ -1,0 +1,5 @@
+bowing(0.182)
+hugging(0.072)
+praying(0.055)
+celebrating(0.024)
+drinking(0.022)

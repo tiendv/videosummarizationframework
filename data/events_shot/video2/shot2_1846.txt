@@ -1,0 +1,5 @@
+telephoning(0.446)
+calling(0.189)
+crying(0.052)
+raining(0.031)
+walking(0.016)

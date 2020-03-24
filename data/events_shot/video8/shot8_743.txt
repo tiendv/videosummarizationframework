@@ -1,5 +1,0 @@
-smiling(0.052)
-adult+male+singing(0.040)
-adult+female+singing(0.038)
-standing(0.036)
-baptizing(0.035)

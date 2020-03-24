@@ -1,0 +1,5 @@
+crying(0.054)
+interviewing(0.046)
+sitting(0.035)
+discussing(0.033)
+adult+female+speaking(0.029)

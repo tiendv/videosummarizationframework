@@ -1,0 +1,5 @@
+tapping(0.483)
+adult+male+singing(0.078)
+adult+male+speaking(0.033)
+scratching(0.033)
+covering(0.026)

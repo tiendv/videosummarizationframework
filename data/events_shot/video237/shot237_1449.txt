@@ -1,5 +1,0 @@
-painting(0.195)
-shopping(0.095)
-selling(0.068)
-adult+female+speaking(0.047)
-talking(0.034)

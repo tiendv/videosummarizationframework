@@ -1,0 +1,5 @@
+praying(0.073)
+dining(0.065)
+adult+male+singing(0.053)
+standing(0.048)
+celebrating(0.045)

@@ -1,5 +1,0 @@
-hunting(0.401)
-shooting(0.087)
-attacking(0.049)
-smoking(0.029)
-aiming(0.021)

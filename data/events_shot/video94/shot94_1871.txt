@@ -1,0 +1,5 @@
+driving(0.780)
+steering(0.177)
+riding(0.021)
+racing(0.003)
+raining(0.001)

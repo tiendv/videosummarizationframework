@@ -1,0 +1,5 @@
+smiling(0.130)
+marrying(0.052)
+giving(0.029)
+praying(0.024)
+adult+male+speaking(0.024)

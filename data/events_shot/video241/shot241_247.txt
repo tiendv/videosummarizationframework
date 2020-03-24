@@ -1,5 +1,0 @@
-dining(0.090)
-eating(0.048)
-cleaning(0.034)
-stealing(0.030)
-serving(0.024)

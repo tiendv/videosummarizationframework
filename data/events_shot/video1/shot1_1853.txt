@@ -1,0 +1,5 @@
+asking(0.168)
+autographing(0.125)
+interviewing(0.090)
+tattooing(0.081)
+adult+female+speaking(0.070)

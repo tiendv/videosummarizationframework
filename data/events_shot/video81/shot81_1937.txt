@@ -1,0 +1,5 @@
+hiking(0.264)
+mowing(0.061)
+flooding(0.057)
+hunting(0.046)
+raining(0.042)

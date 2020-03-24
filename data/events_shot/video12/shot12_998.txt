@@ -1,0 +1,5 @@
+playing(0.270)
+talking(0.152)
+playing+videogames(0.112)
+crafting(0.041)
+sneezing(0.030)

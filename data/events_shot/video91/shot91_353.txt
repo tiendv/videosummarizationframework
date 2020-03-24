@@ -1,0 +1,5 @@
+adult+male+speaking(0.033)
+playing+videogames(0.031)
+aiming(0.028)
+waking(0.022)
+squinting(0.014)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.151)
+saluting(0.067)
+guarding(0.056)
+coaching(0.046)
+discussing(0.029)

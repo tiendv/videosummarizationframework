@@ -1,5 +1,0 @@
-slapping(0.060)
-smelling(0.056)
-sniffing(0.038)
-discussing(0.037)
-adult+female+speaking(0.029)

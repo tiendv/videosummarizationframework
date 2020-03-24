@@ -1,0 +1,5 @@
+shaking(0.136)
+laughing(0.050)
+opening(0.048)
+walking(0.036)
+closing(0.030)

@@ -1,0 +1,5 @@
+rising(0.082)
+adult+male+speaking(0.066)
+smoking(0.036)
+playing+videogames(0.027)
+adult+male+singing(0.020)

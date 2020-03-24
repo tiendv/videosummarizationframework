@@ -1,0 +1,5 @@
+asking(0.291)
+adult+female+speaking(0.192)
+arresting(0.097)
+handcuffing(0.080)
+washing(0.031)

@@ -1,0 +1,5 @@
+saluting(0.043)
+walking(0.042)
+starting(0.030)
+adult+male+speaking(0.030)
+filming(0.029)

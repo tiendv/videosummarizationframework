@@ -1,5 +1,0 @@
-slapping(0.133)
-knocking(0.106)
-fighting(0.072)
-adult+male+speaking(0.055)
-punching(0.043)

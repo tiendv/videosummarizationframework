@@ -1,0 +1,5 @@
+bowling(0.311)
+hugging(0.048)
+walking(0.028)
+bowing(0.024)
+skating(0.018)

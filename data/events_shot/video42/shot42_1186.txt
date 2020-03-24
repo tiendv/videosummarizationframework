@@ -1,0 +1,5 @@
+marrying(0.275)
+adult+female+speaking(0.136)
+praying(0.068)
+officiating(0.053)
+smiling(0.034)

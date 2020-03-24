@@ -1,0 +1,5 @@
+dining(0.029)
+celebrating(0.025)
+adult+female+singing(0.023)
+laughing(0.018)
+clapping(0.014)

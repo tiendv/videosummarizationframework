@@ -1,0 +1,5 @@
+talking(0.072)
+adult+male+speaking(0.062)
+sitting(0.044)
+laughing(0.036)
+sleeping(0.035)

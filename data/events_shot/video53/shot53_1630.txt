@@ -1,0 +1,5 @@
+building(0.211)
+hanging(0.058)
+fencing(0.056)
+cleaning(0.052)
+running(0.036)

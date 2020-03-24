@@ -1,0 +1,5 @@
+child+speaking(0.183)
+sneezing(0.089)
+dressing(0.038)
+imitating(0.031)
+laughing(0.029)

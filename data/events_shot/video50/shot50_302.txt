@@ -1,5 +1,0 @@
-brushing(0.091)
-combing(0.055)
-adult+female+speaking(0.028)
-drinking(0.028)
-shaving(0.022)

@@ -1,0 +1,5 @@
+driving(0.104)
+steering(0.057)
+aiming(0.043)
+crashing(0.034)
+riding(0.028)

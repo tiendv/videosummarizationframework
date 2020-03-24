@@ -1,0 +1,5 @@
+hunting(0.060)
+hiking(0.030)
+arresting(0.030)
+shooting(0.026)
+fighting(0.025)

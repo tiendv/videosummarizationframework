@@ -1,0 +1,5 @@
+asking(0.231)
+protesting(0.113)
+arresting(0.055)
+walking(0.052)
+preaching(0.042)

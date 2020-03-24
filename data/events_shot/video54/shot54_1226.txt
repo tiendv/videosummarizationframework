@@ -1,0 +1,5 @@
+shrugging(0.082)
+standing(0.038)
+slapping(0.037)
+walking(0.030)
+coaching(0.026)

@@ -1,0 +1,5 @@
+asking(0.053)
+stealing(0.047)
+standing(0.047)
+adult+female+speaking(0.024)
+arresting(0.024)

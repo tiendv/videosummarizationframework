@@ -1,0 +1,5 @@
+drinking(0.156)
+dining(0.076)
+stirring(0.026)
+painting(0.025)
+standing(0.020)

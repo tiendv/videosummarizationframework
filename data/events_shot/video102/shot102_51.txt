@@ -1,0 +1,5 @@
+telephoning(0.225)
+reading(0.141)
+calling(0.076)
+coughing(0.053)
+studying(0.046)

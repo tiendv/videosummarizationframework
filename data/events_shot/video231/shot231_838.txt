@@ -1,5 +1,0 @@
-roaring(0.087)
-sneezing(0.079)
-talking(0.061)
-standing(0.054)
-walking(0.045)

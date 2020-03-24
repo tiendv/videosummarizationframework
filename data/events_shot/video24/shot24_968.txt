@@ -1,0 +1,5 @@
+hitchhiking(0.461)
+bicycling(0.049)
+swerving(0.029)
+driving(0.026)
+hiking(0.026)

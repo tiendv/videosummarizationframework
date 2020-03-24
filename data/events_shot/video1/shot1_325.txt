@@ -1,0 +1,5 @@
+pointing(0.090)
+sitting(0.053)
+smoking(0.051)
+adult+male+speaking(0.038)
+discussing(0.034)

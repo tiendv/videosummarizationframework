@@ -1,0 +1,5 @@
+crying(0.850)
+eating(0.060)
+reading(0.008)
+frowning(0.006)
+smoking(0.004)

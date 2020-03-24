@@ -1,0 +1,5 @@
+talking(0.154)
+discussing(0.069)
+starting(0.060)
+interviewing(0.058)
+opening(0.049)

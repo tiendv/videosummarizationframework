@@ -1,0 +1,5 @@
+crying(0.030)
+talking(0.028)
+slapping(0.027)
+adult+female+speaking(0.024)
+playing+videogames(0.023)

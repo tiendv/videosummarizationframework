@@ -1,0 +1,5 @@
+walking(0.042)
+adult+female+speaking(0.028)
+inflating(0.022)
+laughing(0.020)
+adult+male+speaking(0.019)

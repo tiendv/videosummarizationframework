@@ -1,0 +1,5 @@
+opening(0.319)
+closing(0.166)
+boxing(0.136)
+knocking(0.129)
+punching(0.083)

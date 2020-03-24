@@ -1,5 +1,0 @@
-blocking(0.035)
-sneezing(0.034)
-handcuffing(0.022)
-adult+male+speaking(0.022)
-laughing(0.022)

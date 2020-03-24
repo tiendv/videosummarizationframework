@@ -1,0 +1,5 @@
+cleaning(0.112)
+sanding(0.048)
+repairing(0.036)
+painting(0.029)
+tattooing(0.025)

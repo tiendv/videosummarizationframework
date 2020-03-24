@@ -1,0 +1,5 @@
+opening(0.060)
+knocking(0.054)
+adult+female+speaking(0.054)
+closing(0.045)
+standing(0.034)

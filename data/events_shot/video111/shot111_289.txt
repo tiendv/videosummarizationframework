@@ -1,0 +1,5 @@
+talking(0.041)
+walking(0.032)
+chewing(0.030)
+standing(0.024)
+adult+male+speaking(0.022)

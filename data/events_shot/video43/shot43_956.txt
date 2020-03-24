@@ -1,0 +1,5 @@
+fighting(0.214)
+attacking(0.050)
+waking(0.044)
+playing+videogames(0.033)
+clipping(0.030)

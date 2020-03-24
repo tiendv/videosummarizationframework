@@ -1,0 +1,5 @@
+painting(0.090)
+tattooing(0.049)
+cooking(0.046)
+hiking(0.036)
+packing(0.035)

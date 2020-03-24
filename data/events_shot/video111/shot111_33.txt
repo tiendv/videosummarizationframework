@@ -1,0 +1,5 @@
+laughing(0.287)
+eating(0.085)
+dining(0.066)
+sneezing(0.046)
+talking(0.033)

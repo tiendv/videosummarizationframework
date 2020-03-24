@@ -1,0 +1,5 @@
+adult+male+speaking(0.109)
+walking(0.085)
+fighting(0.073)
+arresting(0.070)
+slapping(0.056)

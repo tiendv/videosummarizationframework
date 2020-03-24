@@ -1,5 +1,0 @@
-tapping(0.095)
-smiling(0.061)
-adult+male+speaking(0.059)
-talking(0.037)
-putting(0.022)

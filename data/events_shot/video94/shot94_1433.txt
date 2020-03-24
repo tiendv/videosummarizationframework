@@ -1,0 +1,5 @@
+driving(0.188)
+riding(0.078)
+stopping(0.055)
+bicycling(0.053)
+swerving(0.049)

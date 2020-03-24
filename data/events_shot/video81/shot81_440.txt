@@ -1,0 +1,5 @@
+reading(0.163)
+opening(0.067)
+child+speaking(0.058)
+closing(0.028)
+sitting(0.024)

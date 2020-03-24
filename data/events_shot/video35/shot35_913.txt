@@ -1,5 +1,0 @@
-smoking(0.035)
-walking(0.030)
-adult+male+speaking(0.024)
-shooting(0.024)
-filming(0.024)

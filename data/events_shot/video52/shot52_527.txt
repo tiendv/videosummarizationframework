@@ -1,0 +1,5 @@
+walking(0.165)
+standing(0.155)
+talking(0.037)
+shrugging(0.034)
+dressing(0.025)

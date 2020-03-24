@@ -1,0 +1,5 @@
+arresting(0.260)
+guarding(0.082)
+walking(0.055)
+adult+male+speaking(0.041)
+carrying(0.041)

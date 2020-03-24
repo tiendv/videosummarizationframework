@@ -1,0 +1,5 @@
+bouncing(0.043)
+dressing(0.041)
+walking(0.036)
+laughing(0.029)
+standing(0.028)

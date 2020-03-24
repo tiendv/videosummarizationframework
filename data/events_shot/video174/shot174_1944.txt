@@ -1,5 +1,0 @@
-ascending(0.264)
-rising(0.255)
-descending(0.156)
-digging(0.063)
-burying(0.027)

@@ -1,0 +1,5 @@
+waking(0.107)
+smiling(0.047)
+frowning(0.046)
+sleeping(0.043)
+squinting(0.035)

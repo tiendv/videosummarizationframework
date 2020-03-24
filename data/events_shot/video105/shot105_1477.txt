@@ -1,0 +1,5 @@
+discussing(0.056)
+smiling(0.055)
+adult+female+speaking(0.044)
+telephoning(0.030)
+cooking(0.028)

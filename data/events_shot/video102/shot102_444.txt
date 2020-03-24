@@ -1,0 +1,5 @@
+guarding(0.317)
+preaching(0.091)
+adult+male+speaking(0.073)
+arresting(0.064)
+asking(0.042)

@@ -1,0 +1,5 @@
+dressing(0.101)
+bowing(0.056)
+dancing(0.053)
+tapping(0.042)
+mopping(0.037)

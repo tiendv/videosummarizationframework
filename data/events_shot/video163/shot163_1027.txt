@@ -1,5 +1,0 @@
-sitting(0.098)
-dining(0.050)
-cuddling(0.042)
-discussing(0.041)
-adult+female+speaking(0.034)

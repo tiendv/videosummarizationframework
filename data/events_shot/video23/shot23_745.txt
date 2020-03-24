@@ -1,0 +1,5 @@
+fighting(0.051)
+walking(0.043)
+running(0.038)
+dragging(0.035)
+stomping(0.026)

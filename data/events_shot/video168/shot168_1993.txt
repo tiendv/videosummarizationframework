@@ -1,5 +1,0 @@
-attacking(0.102)
-fighting(0.101)
-exiting(0.044)
-punching(0.042)
-entering(0.036)

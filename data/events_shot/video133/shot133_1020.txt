@@ -1,0 +1,5 @@
+building(0.454)
+hanging(0.073)
+raining(0.042)
+walking(0.038)
+standing(0.036)

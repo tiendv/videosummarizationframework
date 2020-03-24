@@ -1,5 +1,0 @@
-filling(0.044)
-drawing(0.030)
-removing(0.028)
-adult+male+speaking(0.024)
-emptying(0.021)

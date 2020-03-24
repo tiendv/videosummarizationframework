@@ -1,5 +1,0 @@
-carrying(0.045)
-reading(0.043)
-shopping(0.036)
-smelling(0.034)
-sniffing(0.031)

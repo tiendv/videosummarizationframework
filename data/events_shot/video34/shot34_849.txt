@@ -1,0 +1,5 @@
+raining(0.230)
+storming(0.088)
+knocking(0.034)
+walking(0.031)
+stomping(0.026)

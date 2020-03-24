@@ -1,0 +1,5 @@
+hanging(0.115)
+locking(0.037)
+pointing(0.033)
+guarding(0.031)
+opening(0.026)

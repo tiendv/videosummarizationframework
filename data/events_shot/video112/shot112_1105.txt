@@ -1,0 +1,5 @@
+adult+female+speaking(0.104)
+interviewing(0.070)
+adult+male+speaking(0.064)
+adult+female+singing(0.046)
+adult+male+singing(0.042)

@@ -1,5 +1,0 @@
-hanging(0.127)
-walking(0.047)
-running(0.042)
-carrying(0.023)
-swinging(0.020)

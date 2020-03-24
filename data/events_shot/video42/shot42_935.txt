@@ -1,0 +1,5 @@
+drying(0.082)
+talking(0.055)
+adult+male+speaking(0.052)
+hanging(0.050)
+discussing(0.038)

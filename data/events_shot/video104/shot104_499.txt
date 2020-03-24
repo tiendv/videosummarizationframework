@@ -1,0 +1,5 @@
+slapping(0.112)
+knocking(0.056)
+shaving(0.052)
+dusting(0.030)
+cleaning(0.026)

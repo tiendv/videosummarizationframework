@@ -1,0 +1,5 @@
+adult+female+speaking(0.070)
+reading(0.050)
+carving(0.049)
+sitting(0.036)
+cooking(0.033)

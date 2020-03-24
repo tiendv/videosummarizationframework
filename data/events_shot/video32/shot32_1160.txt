@@ -1,0 +1,5 @@
+dancing(0.043)
+twisting(0.029)
+fighting(0.029)
+rocking(0.028)
+slapping(0.025)

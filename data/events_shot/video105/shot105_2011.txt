@@ -1,0 +1,5 @@
+standing(0.081)
+sitting(0.067)
+hanging(0.044)
+adult+male+singing(0.037)
+walking(0.026)

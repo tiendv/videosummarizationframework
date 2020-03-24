@@ -1,0 +1,5 @@
+squatting(0.040)
+building(0.035)
+running(0.030)
+working(0.024)
+standing(0.023)

@@ -1,0 +1,5 @@
+filming(0.156)
+walking(0.106)
+photographing(0.032)
+fighting(0.031)
+asking(0.031)

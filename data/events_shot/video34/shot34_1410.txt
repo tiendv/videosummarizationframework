@@ -1,0 +1,5 @@
+discussing(0.089)
+talking(0.089)
+shrugging(0.067)
+frowning(0.060)
+adult+female+speaking(0.045)

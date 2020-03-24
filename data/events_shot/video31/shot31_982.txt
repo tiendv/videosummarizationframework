@@ -1,0 +1,5 @@
+drinking(0.094)
+giving(0.072)
+talking(0.052)
+laughing(0.041)
+eating(0.035)

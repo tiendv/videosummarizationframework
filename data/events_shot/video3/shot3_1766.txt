@@ -1,0 +1,5 @@
+slapping(0.206)
+laughing(0.040)
+standing(0.032)
+adult+male+speaking(0.028)
+smelling(0.027)

@@ -1,5 +1,0 @@
-coughing(0.061)
-sneezing(0.060)
-removing(0.042)
-walking(0.038)
-knocking(0.034)

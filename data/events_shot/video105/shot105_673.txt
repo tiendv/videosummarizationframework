@@ -1,0 +1,5 @@
+preaching(0.208)
+lecturing(0.176)
+adult+male+speaking(0.165)
+discussing(0.062)
+applauding(0.036)

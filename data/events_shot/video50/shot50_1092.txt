@@ -1,5 +1,0 @@
-driving(0.196)
-steering(0.078)
-cuddling(0.073)
-hugging(0.058)
-adult+female+speaking(0.050)

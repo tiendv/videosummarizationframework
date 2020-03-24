@@ -1,5 +1,0 @@
-fighting(0.095)
-queuing(0.044)
-standing(0.042)
-attacking(0.035)
-sitting(0.033)

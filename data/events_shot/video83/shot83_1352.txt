@@ -1,0 +1,5 @@
+reading(0.614)
+opening(0.031)
+closing(0.026)
+pointing(0.018)
+flipping(0.011)

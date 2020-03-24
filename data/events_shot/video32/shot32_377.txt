@@ -1,0 +1,5 @@
+starting(0.115)
+roaring(0.101)
+talking(0.051)
+standing(0.034)
+adult+male+speaking(0.023)

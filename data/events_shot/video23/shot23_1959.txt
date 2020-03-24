@@ -1,0 +1,5 @@
+driving(0.217)
+riding(0.098)
+piloting(0.037)
+steering(0.023)
+slapping(0.022)

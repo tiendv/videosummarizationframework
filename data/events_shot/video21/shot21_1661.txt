@@ -1,0 +1,5 @@
+driving(0.104)
+steering(0.083)
+stealing(0.032)
+fueling(0.026)
+cleaning(0.025)

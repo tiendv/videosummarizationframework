@@ -1,0 +1,5 @@
+lecturing(0.103)
+adult+male+speaking(0.072)
+drying(0.066)
+adult+female+speaking(0.060)
+discussing(0.043)

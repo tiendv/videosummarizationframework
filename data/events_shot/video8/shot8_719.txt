@@ -1,5 +1,0 @@
-chopping(0.101)
-clipping(0.094)
-cooking(0.091)
-slicing(0.075)
-serving(0.060)

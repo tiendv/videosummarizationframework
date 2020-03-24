@@ -1,0 +1,5 @@
+knocking(0.123)
+standing(0.060)
+lecturing(0.058)
+talking(0.058)
+adult+male+speaking(0.057)

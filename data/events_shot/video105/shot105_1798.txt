@@ -1,0 +1,5 @@
+fencing(0.969)
+guarding(0.005)
+hanging(0.003)
+barking(0.003)
+whistling(0.002)

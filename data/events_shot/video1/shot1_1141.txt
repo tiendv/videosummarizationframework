@@ -1,0 +1,5 @@
+reading(0.893)
+adult+male+speaking(0.023)
+lecturing(0.012)
+preaching(0.010)
+discussing(0.007)

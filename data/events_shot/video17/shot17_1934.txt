@@ -1,5 +1,0 @@
-dining(0.085)
-playing+videogames(0.059)
-walking(0.024)
-smashing(0.022)
-standing(0.021)

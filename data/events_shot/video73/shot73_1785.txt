@@ -1,0 +1,5 @@
+adult+male+speaking(0.117)
+pointing(0.072)
+lecturing(0.052)
+asking(0.025)
+slapping(0.024)

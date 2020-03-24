@@ -1,0 +1,5 @@
+hitchhiking(0.466)
+adult+female+speaking(0.079)
+adult+female+singing(0.055)
+walking(0.038)
+hiking(0.035)

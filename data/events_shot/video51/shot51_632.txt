@@ -1,0 +1,5 @@
+stacking(0.277)
+loading(0.035)
+filming(0.033)
+talking(0.024)
+stopping(0.020)

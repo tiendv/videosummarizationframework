@@ -1,5 +1,0 @@
-queuing(0.062)
-walking(0.058)
-arresting(0.057)
-parading(0.039)
-asking(0.038)

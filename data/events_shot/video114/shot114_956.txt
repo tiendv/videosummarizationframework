@@ -1,0 +1,5 @@
+adult+male+speaking(0.153)
+discussing(0.083)
+coughing(0.050)
+lecturing(0.025)
+sitting(0.024)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.044)
+discussing(0.035)
+adult+female+speaking(0.032)
+giving(0.029)
+manicuring(0.023)

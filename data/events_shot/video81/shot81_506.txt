@@ -1,0 +1,5 @@
+turning(0.055)
+spinning(0.049)
+waving(0.034)
+swinging(0.028)
+shaking(0.025)

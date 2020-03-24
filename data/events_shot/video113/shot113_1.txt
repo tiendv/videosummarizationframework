@@ -1,0 +1,5 @@
+flying(0.073)
+weeding(0.053)
+crawling(0.044)
+gardening(0.039)
+sowing(0.039)

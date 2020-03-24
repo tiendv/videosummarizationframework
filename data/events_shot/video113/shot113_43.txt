@@ -1,0 +1,5 @@
+handcuffing(0.233)
+bowing(0.098)
+bending(0.053)
+arresting(0.041)
+adult+male+speaking(0.023)

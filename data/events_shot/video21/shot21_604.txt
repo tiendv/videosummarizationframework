@@ -1,0 +1,5 @@
+sneezing(0.059)
+bowling(0.058)
+adult+female+speaking(0.042)
+drinking(0.041)
+talking(0.025)

@@ -1,0 +1,5 @@
+reading(0.074)
+writing(0.056)
+adult+male+speaking(0.054)
+handwriting(0.041)
+snowing(0.028)

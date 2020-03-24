@@ -1,5 +1,0 @@
-spinning(0.405)
-turning(0.132)
-juggling(0.113)
-twisting(0.039)
-walking(0.034)

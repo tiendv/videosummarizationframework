@@ -1,0 +1,5 @@
+crying(0.366)
+raining(0.080)
+bowing(0.027)
+praying(0.020)
+carrying(0.018)

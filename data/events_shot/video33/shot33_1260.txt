@@ -1,0 +1,5 @@
+exiting(0.114)
+shopping(0.083)
+closing(0.070)
+opening(0.069)
+hugging(0.062)

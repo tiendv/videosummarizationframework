@@ -1,5 +1,0 @@
-planting(0.140)
-hunting(0.106)
-sowing(0.099)
-burying(0.071)
-digging(0.064)

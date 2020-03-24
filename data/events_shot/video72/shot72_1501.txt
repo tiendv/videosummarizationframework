@@ -1,0 +1,5 @@
+filming(0.185)
+photographing(0.117)
+applauding(0.053)
+queuing(0.041)
+standing(0.037)

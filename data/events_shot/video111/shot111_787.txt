@@ -1,0 +1,5 @@
+cooking(0.082)
+stealing(0.036)
+standing(0.036)
+adult+male+speaking(0.035)
+stirring(0.025)

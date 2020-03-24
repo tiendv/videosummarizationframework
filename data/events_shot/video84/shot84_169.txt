@@ -1,0 +1,5 @@
+slapping(0.300)
+knocking(0.203)
+punching(0.111)
+hitting(0.020)
+spraying(0.018)

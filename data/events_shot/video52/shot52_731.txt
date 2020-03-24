@@ -1,0 +1,5 @@
+drinking(0.084)
+shaving(0.080)
+calling(0.065)
+telephoning(0.063)
+filming(0.028)

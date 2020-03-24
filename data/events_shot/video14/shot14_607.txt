@@ -1,0 +1,5 @@
+running(0.067)
+bouncing(0.045)
+jumping(0.043)
+spinning(0.040)
+swinging(0.036)

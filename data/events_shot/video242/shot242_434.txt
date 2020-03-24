@@ -1,5 +1,0 @@
-preaching(0.081)
-selling(0.031)
-shopping(0.030)
-walking(0.028)
-standing(0.028)

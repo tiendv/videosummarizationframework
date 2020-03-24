@@ -1,0 +1,5 @@
+walking(0.260)
+sneezing(0.154)
+playing+videogames(0.055)
+entering(0.031)
+coughing(0.026)

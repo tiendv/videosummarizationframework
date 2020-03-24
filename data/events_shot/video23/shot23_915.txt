@@ -1,0 +1,5 @@
+hammering(0.069)
+punching(0.050)
+stacking(0.044)
+painting(0.029)
+crafting(0.028)

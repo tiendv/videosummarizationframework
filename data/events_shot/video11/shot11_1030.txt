@@ -1,0 +1,5 @@
+drinking(0.121)
+pointing(0.037)
+smelling(0.035)
+hugging(0.033)
+aiming(0.028)

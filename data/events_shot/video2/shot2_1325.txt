@@ -1,0 +1,5 @@
+shaving(0.053)
+smiling(0.044)
+laughing(0.040)
+shaking(0.029)
+slapping(0.028)

@@ -1,0 +1,5 @@
+drinking(0.103)
+sneezing(0.053)
+squatting(0.045)
+sitting(0.032)
+laughing(0.030)

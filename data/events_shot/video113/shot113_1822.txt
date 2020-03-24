@@ -1,0 +1,5 @@
+dancing(0.065)
+dressing(0.056)
+adult+female+singing(0.044)
+painting(0.026)
+standing(0.026)

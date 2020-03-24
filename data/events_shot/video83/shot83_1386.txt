@@ -1,0 +1,5 @@
+drumming(0.050)
+standing(0.043)
+dining(0.033)
+adult+male+speaking(0.032)
+filming(0.030)

@@ -1,0 +1,5 @@
+walking(0.071)
+running(0.063)
+hugging(0.053)
+smiling(0.029)
+laughing(0.026)

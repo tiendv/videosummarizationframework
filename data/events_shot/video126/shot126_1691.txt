@@ -1,5 +1,0 @@
-bowing(0.425)
-walking(0.078)
-praying(0.052)
-standing(0.046)
-adult+male+speaking(0.033)

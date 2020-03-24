@@ -1,0 +1,5 @@
+cooking(0.222)
+baking(0.184)
+stirring(0.072)
+peeling(0.060)
+sanding(0.034)

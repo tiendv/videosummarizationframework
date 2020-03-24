@@ -1,0 +1,5 @@
+unpacking(0.250)
+packing(0.240)
+folding(0.030)
+flipping(0.023)
+painting(0.019)

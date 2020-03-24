@@ -1,0 +1,5 @@
+flicking(0.060)
+flipping(0.038)
+grinning(0.035)
+adult+male+speaking(0.035)
+talking(0.034)

@@ -1,0 +1,5 @@
+standing(0.065)
+saluting(0.061)
+adult+male+speaking(0.049)
+aiming(0.042)
+talking(0.035)

@@ -1,0 +1,5 @@
+coughing(0.075)
+slapping(0.051)
+sneezing(0.046)
+handcuffing(0.043)
+smoking(0.037)

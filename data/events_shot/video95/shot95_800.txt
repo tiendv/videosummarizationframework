@@ -1,0 +1,5 @@
+marrying(0.072)
+adult+female+speaking(0.052)
+sniffing(0.046)
+laughing(0.041)
+shopping(0.036)

@@ -1,0 +1,5 @@
+packing(0.272)
+unpacking(0.234)
+packaging(0.112)
+shopping(0.011)
+carrying(0.010)

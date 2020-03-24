@@ -1,0 +1,5 @@
+adult+male+speaking(0.106)
+asking(0.086)
+walking(0.079)
+hugging(0.052)
+adult+female+speaking(0.035)

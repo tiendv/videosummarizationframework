@@ -1,0 +1,5 @@
+bicycling(0.711)
+pedaling(0.220)
+riding(0.028)
+steering(0.005)
+balancing(0.003)

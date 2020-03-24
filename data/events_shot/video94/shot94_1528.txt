@@ -1,0 +1,5 @@
+hanging(0.133)
+adult+male+speaking(0.068)
+talking(0.057)
+standing(0.048)
+guarding(0.039)

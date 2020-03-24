@@ -1,5 +1,0 @@
-flipping(0.057)
-jumping(0.055)
-adult+female+singing(0.053)
-running(0.031)
-leaping(0.029)

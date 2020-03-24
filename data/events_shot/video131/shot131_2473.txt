@@ -1,0 +1,5 @@
+marrying(0.098)
+walking(0.069)
+queuing(0.063)
+standing(0.058)
+officiating(0.035)

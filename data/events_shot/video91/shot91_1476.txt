@@ -1,0 +1,5 @@
+filming(0.067)
+attacking(0.045)
+fighting(0.030)
+standing(0.023)
+squatting(0.021)

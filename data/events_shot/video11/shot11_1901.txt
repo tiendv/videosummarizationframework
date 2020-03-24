@@ -1,0 +1,5 @@
+walking(0.148)
+knocking(0.125)
+exiting(0.046)
+standing(0.039)
+working(0.030)

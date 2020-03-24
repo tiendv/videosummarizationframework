@@ -1,5 +1,0 @@
-adult+female+singing(0.778)
-adult+male+singing(0.062)
-adult+female+speaking(0.050)
-smoking(0.009)
-singing(0.007)

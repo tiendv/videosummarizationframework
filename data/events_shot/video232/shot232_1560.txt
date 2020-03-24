@@ -1,5 +1,0 @@
-fencing(0.056)
-slapping(0.046)
-fighting(0.042)
-adult+male+speaking(0.033)
-talking(0.033)

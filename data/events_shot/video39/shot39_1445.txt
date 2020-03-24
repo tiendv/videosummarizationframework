@@ -1,5 +1,0 @@
-adult+female+singing(0.108)
-adult+male+singing(0.058)
-smoking(0.054)
-rocking(0.026)
-dining(0.023)

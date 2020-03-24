@@ -1,0 +1,5 @@
+clipping(0.106)
+gardening(0.051)
+cutting(0.048)
+chopping(0.038)
+sowing(0.034)

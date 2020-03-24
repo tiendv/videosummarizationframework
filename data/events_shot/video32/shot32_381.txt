@@ -1,0 +1,5 @@
+cleaning(0.128)
+washing(0.067)
+driving(0.038)
+brushing(0.034)
+bouncing(0.031)

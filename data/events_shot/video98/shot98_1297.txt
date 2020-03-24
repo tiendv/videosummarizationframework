@@ -1,5 +1,0 @@
-walking(0.120)
-raining(0.047)
-adult+female+singing(0.036)
-playing+videogames(0.035)
-hugging(0.034)

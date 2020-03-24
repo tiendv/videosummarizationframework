@@ -1,0 +1,5 @@
+clawing(0.755)
+shopping(0.025)
+stealing(0.010)
+buying(0.009)
+painting(0.009)

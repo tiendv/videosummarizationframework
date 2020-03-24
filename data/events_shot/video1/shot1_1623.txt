@@ -1,0 +1,5 @@
+preaching(0.456)
+standing(0.048)
+walking(0.043)
+adult+male+speaking(0.032)
+lecturing(0.023)

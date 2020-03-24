@@ -1,0 +1,5 @@
+sawing(0.065)
+fighting(0.055)
+punching(0.046)
+clipping(0.041)
+slapping(0.036)

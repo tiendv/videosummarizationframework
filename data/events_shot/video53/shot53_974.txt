@@ -1,0 +1,5 @@
+painting(0.524)
+drawing(0.107)
+sketching(0.019)
+brushing(0.017)
+walking(0.017)

@@ -1,0 +1,5 @@
+walking(0.049)
+stomping(0.032)
+exiting(0.029)
+hugging(0.029)
+knocking(0.029)

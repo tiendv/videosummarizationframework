@@ -1,0 +1,5 @@
+roaring(0.289)
+howling(0.166)
+laughing(0.053)
+kissing(0.034)
+yawning(0.031)

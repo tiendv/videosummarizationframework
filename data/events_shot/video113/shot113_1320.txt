@@ -1,0 +1,5 @@
+cleaning(0.291)
+scrubbing(0.084)
+mopping(0.062)
+sanding(0.059)
+dusting(0.058)

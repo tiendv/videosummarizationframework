@@ -1,0 +1,5 @@
+praying(0.129)
+adult+male+speaking(0.068)
+sneezing(0.053)
+baptizing(0.043)
+officiating(0.035)

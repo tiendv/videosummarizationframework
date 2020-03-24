@@ -1,5 +1,0 @@
-telephoning(0.190)
-calling(0.143)
-placing(0.051)
-putting(0.032)
-coughing(0.017)

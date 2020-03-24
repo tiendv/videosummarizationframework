@@ -1,0 +1,5 @@
+walking(0.495)
+building(0.048)
+carrying(0.029)
+standing(0.022)
+constructing(0.015)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.126)
+asking(0.046)
+slapping(0.033)
+adult+male+speaking(0.032)
+standing(0.022)

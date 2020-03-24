@@ -1,0 +1,5 @@
+flipping(0.628)
+stacking(0.127)
+cleaning(0.052)
+selling(0.035)
+paying(0.019)

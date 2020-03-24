@@ -1,0 +1,5 @@
+mopping(0.500)
+pressing(0.084)
+pushing(0.067)
+spinning(0.051)
+vacuuming(0.034)

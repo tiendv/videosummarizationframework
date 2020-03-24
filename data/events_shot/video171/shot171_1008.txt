@@ -1,5 +1,0 @@
-fencing(0.190)
-walking(0.072)
-raining(0.070)
-standing(0.024)
-running(0.023)

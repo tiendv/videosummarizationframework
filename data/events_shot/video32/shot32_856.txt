@@ -1,0 +1,5 @@
+running(0.077)
+stealing(0.068)
+walking(0.055)
+knocking(0.043)
+sliding(0.038)

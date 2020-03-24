@@ -1,0 +1,5 @@
+hugging(0.091)
+adult+female+singing(0.059)
+snowing(0.055)
+raining(0.042)
+walking(0.034)

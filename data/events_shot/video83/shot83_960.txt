@@ -1,0 +1,5 @@
+adult+female+speaking(0.063)
+raining(0.053)
+driving(0.045)
+camping(0.030)
+queuing(0.028)

@@ -1,5 +1,0 @@
-driving(0.095)
-adult+male+singing(0.067)
-riding(0.059)
-boating(0.040)
-walking(0.022)

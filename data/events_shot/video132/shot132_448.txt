@@ -1,0 +1,5 @@
+adult+male+speaking(0.055)
+playing+music(0.051)
+starting(0.037)
+painting(0.029)
+cleaning(0.027)

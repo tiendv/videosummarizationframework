@@ -1,0 +1,5 @@
+tying(0.084)
+chewing(0.034)
+coughing(0.020)
+pointing(0.017)
+hammering(0.016)

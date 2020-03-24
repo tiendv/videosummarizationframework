@@ -1,0 +1,5 @@
+baking(0.075)
+painting(0.041)
+crafting(0.032)
+stacking(0.025)
+standing(0.021)

@@ -1,0 +1,5 @@
+arresting(0.170)
+guarding(0.061)
+slapping(0.038)
+protesting(0.032)
+attacking(0.028)

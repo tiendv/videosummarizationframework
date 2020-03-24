@@ -1,5 +1,0 @@
-cleaning(0.224)
-shaving(0.056)
-removing(0.052)
-mopping(0.052)
-dusting(0.035)

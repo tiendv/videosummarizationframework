@@ -1,0 +1,5 @@
+running(0.224)
+stealing(0.120)
+shopping(0.101)
+chasing(0.036)
+buying(0.025)

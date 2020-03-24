@@ -1,5 +1,0 @@
-walking(0.104)
-knocking(0.040)
-standing(0.039)
-dressing(0.035)
-slapping(0.034)

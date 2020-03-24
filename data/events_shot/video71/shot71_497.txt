@@ -1,0 +1,5 @@
+kissing(0.095)
+hugging(0.073)
+arresting(0.032)
+filming(0.030)
+smiling(0.028)

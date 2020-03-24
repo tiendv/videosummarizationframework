@@ -1,5 +1,0 @@
-telephoning(0.116)
-calling(0.097)
-adult+male+speaking(0.024)
-sneezing(0.024)
-filming(0.020)

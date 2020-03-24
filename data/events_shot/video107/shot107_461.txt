@@ -1,5 +1,0 @@
-slapping(0.187)
-hugging(0.104)
-fighting(0.090)
-knocking(0.043)
-punching(0.038)

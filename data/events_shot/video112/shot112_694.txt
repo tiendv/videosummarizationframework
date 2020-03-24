@@ -1,0 +1,5 @@
+adult+male+speaking(0.126)
+fighting(0.053)
+hugging(0.037)
+adult+male+singing(0.029)
+filming(0.024)

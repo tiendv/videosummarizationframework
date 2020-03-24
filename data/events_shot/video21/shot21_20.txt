@@ -1,0 +1,5 @@
+carving(0.822)
+crafting(0.009)
+cracking(0.006)
+slapping(0.005)
+slicing(0.005)

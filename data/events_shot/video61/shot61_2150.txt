@@ -1,0 +1,5 @@
+frowning(0.173)
+slapping(0.103)
+shrugging(0.092)
+crying(0.069)
+winking(0.045)

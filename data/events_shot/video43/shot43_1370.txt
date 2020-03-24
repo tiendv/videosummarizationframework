@@ -1,0 +1,5 @@
+slapping(0.190)
+shaking(0.027)
+knocking(0.026)
+smelling(0.025)
+sneezing(0.024)

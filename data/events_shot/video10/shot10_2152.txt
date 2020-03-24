@@ -1,5 +1,0 @@
-bubbling(0.110)
-smoking(0.061)
-boiling(0.053)
-raining(0.037)
-playing+music(0.035)

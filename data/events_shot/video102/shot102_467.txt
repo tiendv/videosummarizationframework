@@ -1,0 +1,5 @@
+aiming(0.071)
+queuing(0.060)
+playing+videogames(0.050)
+adult+male+speaking(0.033)
+guarding(0.030)

@@ -1,5 +1,0 @@
-sliding(0.063)
-slipping(0.042)
-attacking(0.035)
-hunting(0.029)
-jumping(0.026)

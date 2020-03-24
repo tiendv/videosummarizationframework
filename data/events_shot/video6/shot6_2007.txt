@@ -1,5 +1,0 @@
-roaring(0.147)
-adult+female+singing(0.047)
-attacking(0.029)
-hunting(0.028)
-standing(0.027)

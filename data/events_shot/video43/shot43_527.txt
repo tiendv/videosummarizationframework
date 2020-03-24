@@ -1,0 +1,5 @@
+adult+female+singing(0.124)
+adult+male+singing(0.075)
+singing(0.037)
+cracking(0.024)
+asking(0.020)

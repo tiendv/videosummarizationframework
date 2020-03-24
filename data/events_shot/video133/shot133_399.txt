@@ -1,0 +1,5 @@
+sitting(0.303)
+talking(0.062)
+sleeping(0.043)
+discussing(0.035)
+resting(0.033)

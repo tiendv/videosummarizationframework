@@ -1,0 +1,5 @@
+drinking(0.076)
+cooking(0.042)
+manicuring(0.041)
+coughing(0.036)
+dipping(0.033)

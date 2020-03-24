@@ -1,0 +1,5 @@
+adult+male+speaking(0.048)
+tying(0.038)
+coughing(0.037)
+sneezing(0.030)
+discussing(0.029)

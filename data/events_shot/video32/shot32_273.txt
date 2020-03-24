@@ -1,0 +1,5 @@
+crying(0.147)
+talking(0.079)
+raining(0.065)
+starting(0.043)
+adult+male+speaking(0.038)

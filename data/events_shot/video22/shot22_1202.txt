@@ -1,0 +1,5 @@
+smoking(0.905)
+telephoning(0.026)
+calling(0.007)
+crying(0.003)
+filming(0.002)

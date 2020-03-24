@@ -1,0 +1,5 @@
+hunting(0.106)
+calling(0.070)
+telephoning(0.067)
+smoking(0.063)
+adult+male+speaking(0.032)

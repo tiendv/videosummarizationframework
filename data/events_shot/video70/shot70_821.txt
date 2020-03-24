@@ -1,5 +1,0 @@
-handwriting(0.416)
-adult+female+speaking(0.055)
-asking(0.034)
-writing(0.026)
-interviewing(0.026)

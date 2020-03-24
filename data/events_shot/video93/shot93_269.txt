@@ -1,0 +1,5 @@
+cooking(0.041)
+baking(0.024)
+packing(0.022)
+packaging(0.019)
+selling(0.018)

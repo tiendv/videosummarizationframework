@@ -1,0 +1,5 @@
+drinking(0.227)
+clapping(0.097)
+dining(0.076)
+applauding(0.061)
+celebrating(0.048)

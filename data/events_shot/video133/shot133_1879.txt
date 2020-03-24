@@ -1,0 +1,5 @@
+slapping(0.127)
+knocking(0.110)
+pointing(0.045)
+lecturing(0.041)
+painting(0.040)

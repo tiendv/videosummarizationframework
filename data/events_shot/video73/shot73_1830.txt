@@ -1,0 +1,5 @@
+adult+male+speaking(0.052)
+adult+female+speaking(0.030)
+selling(0.028)
+walking(0.024)
+asking(0.022)

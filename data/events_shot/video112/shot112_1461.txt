@@ -1,0 +1,5 @@
+boating(0.163)
+standing(0.058)
+punting(0.044)
+fishing(0.033)
+wetting(0.027)

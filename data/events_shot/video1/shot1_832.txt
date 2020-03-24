@@ -1,0 +1,5 @@
+standing(0.096)
+protesting(0.038)
+walking(0.037)
+adult+male+speaking(0.037)
+queuing(0.033)

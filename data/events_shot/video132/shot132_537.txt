@@ -1,0 +1,5 @@
+typing(0.191)
+putting(0.067)
+loading(0.056)
+working(0.037)
+placing(0.030)

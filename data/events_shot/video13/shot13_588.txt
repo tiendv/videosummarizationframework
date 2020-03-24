@@ -1,0 +1,5 @@
+arresting(0.292)
+handcuffing(0.123)
+playing+videogames(0.066)
+walking(0.036)
+guarding(0.023)

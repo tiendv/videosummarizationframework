@@ -1,0 +1,5 @@
+standing(0.071)
+laughing(0.046)
+talking(0.036)
+opening(0.033)
+filming(0.032)

@@ -1,0 +1,5 @@
+filming(0.140)
+hugging(0.047)
+slapping(0.047)
+walking(0.043)
+adult+male+speaking(0.041)

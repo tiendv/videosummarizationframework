@@ -1,0 +1,5 @@
+adult+female+singing(0.100)
+sneezing(0.032)
+standing(0.030)
+slapping(0.029)
+knocking(0.028)

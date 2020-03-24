@@ -1,5 +1,0 @@
-building(0.101)
-painting(0.079)
-assembling(0.070)
-repairing(0.044)
-cleaning(0.039)

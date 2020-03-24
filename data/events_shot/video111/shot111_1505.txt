@@ -1,0 +1,5 @@
+adult+male+speaking(0.093)
+putting(0.078)
+placing(0.044)
+tying(0.036)
+aiming(0.036)

@@ -1,0 +1,5 @@
+crying(0.063)
+opening(0.049)
+locking(0.036)
+closing(0.031)
+sailing(0.023)

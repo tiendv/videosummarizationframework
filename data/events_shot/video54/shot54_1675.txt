@@ -1,0 +1,5 @@
+adult+female+speaking(0.117)
+discussing(0.076)
+adult+male+speaking(0.062)
+talking(0.058)
+knocking(0.046)

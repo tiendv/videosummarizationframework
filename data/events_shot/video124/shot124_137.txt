@@ -1,0 +1,5 @@
+talking(0.122)
+laughing(0.073)
+sitting(0.055)
+standing(0.039)
+squinting(0.037)

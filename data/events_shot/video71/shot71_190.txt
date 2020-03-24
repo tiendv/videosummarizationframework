@@ -1,0 +1,5 @@
+vacuuming(0.129)
+walking(0.059)
+pushing(0.047)
+adult+male+speaking(0.046)
+lecturing(0.032)

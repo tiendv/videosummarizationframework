@@ -1,0 +1,5 @@
+slapping(0.280)
+knocking(0.056)
+shaking(0.054)
+imitating(0.042)
+adult+female+singing(0.038)

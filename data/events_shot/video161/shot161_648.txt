@@ -1,5 +1,0 @@
-wrestling(0.149)
-fighting(0.138)
-gripping(0.033)
-standing(0.024)
-playing+videogames(0.023)

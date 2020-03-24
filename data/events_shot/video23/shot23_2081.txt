@@ -1,0 +1,5 @@
+opening(0.035)
+folding(0.027)
+locking(0.025)
+closing(0.024)
+starting(0.020)

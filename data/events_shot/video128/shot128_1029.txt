@@ -1,5 +1,0 @@
-boxing(0.049)
-punching(0.041)
-fighting(0.040)
-stacking(0.029)
-stealing(0.020)

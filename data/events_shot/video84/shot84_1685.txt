@@ -1,0 +1,5 @@
+hugging(0.047)
+boating(0.038)
+fighting(0.033)
+asking(0.031)
+sailing(0.030)

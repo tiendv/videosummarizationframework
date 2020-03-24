@@ -1,5 +1,0 @@
-bicycling(0.084)
-walking(0.083)
-driving(0.043)
-asking(0.042)
-skating(0.036)

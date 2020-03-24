@@ -1,0 +1,5 @@
+walking(0.086)
+shrugging(0.078)
+standing(0.062)
+inflating(0.052)
+adult+female+speaking(0.050)

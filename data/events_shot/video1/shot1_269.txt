@@ -1,0 +1,5 @@
+crying(0.108)
+whistling(0.105)
+frowning(0.061)
+spitting(0.035)
+coughing(0.033)

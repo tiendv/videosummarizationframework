@@ -1,0 +1,5 @@
+eating(0.110)
+dining(0.089)
+raising(0.071)
+reaching(0.047)
+spitting(0.038)

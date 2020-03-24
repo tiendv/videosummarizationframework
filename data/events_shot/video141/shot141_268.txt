@@ -1,5 +1,0 @@
-combing(0.061)
-waking(0.040)
-drying(0.038)
-massaging(0.028)
-sleeping(0.026)

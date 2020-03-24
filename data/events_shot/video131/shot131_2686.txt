@@ -1,0 +1,5 @@
+adult+male+speaking(0.072)
+sitting(0.046)
+hunting(0.036)
+starting(0.036)
+asking(0.034)

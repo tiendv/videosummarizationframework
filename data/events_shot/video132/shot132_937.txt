@@ -1,0 +1,5 @@
+drying(0.302)
+hanging(0.204)
+folding(0.022)
+cleaning(0.019)
+dressing(0.016)

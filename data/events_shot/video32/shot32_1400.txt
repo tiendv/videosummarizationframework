@@ -1,0 +1,5 @@
+drinking(0.110)
+hugging(0.065)
+running(0.030)
+standing(0.024)
+walking(0.017)

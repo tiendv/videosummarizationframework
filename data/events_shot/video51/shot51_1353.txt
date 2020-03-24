@@ -1,0 +1,5 @@
+tapping(0.117)
+reading(0.098)
+sitting(0.049)
+sleeping(0.037)
+studying(0.036)

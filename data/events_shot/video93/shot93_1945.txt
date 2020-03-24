@@ -1,0 +1,5 @@
+walking(0.145)
+raining(0.074)
+crying(0.055)
+closing(0.052)
+opening(0.046)

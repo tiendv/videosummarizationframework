@@ -1,0 +1,5 @@
+dancing(0.090)
+performing(0.055)
+singing(0.042)
+rocking(0.034)
+whistling(0.027)

@@ -1,5 +1,0 @@
-eating(0.084)
-cooking(0.060)
-adult+male+speaking(0.027)
-walking(0.022)
-drinking(0.020)

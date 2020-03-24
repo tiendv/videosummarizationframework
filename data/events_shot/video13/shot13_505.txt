@@ -1,0 +1,5 @@
+knocking(0.176)
+talking(0.043)
+locking(0.036)
+opening(0.036)
+starting(0.031)

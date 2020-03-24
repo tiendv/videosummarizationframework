@@ -1,5 +1,0 @@
-adult+male+speaking(0.073)
-working(0.039)
-punching(0.027)
-sneezing(0.026)
-throwing(0.025)

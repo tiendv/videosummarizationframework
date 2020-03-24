@@ -1,0 +1,5 @@
+adult+male+speaking(0.106)
+asking(0.092)
+frowning(0.057)
+coaching(0.053)
+adult+female+speaking(0.049)

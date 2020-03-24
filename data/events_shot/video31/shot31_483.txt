@@ -1,0 +1,5 @@
+adult+male+speaking(0.219)
+lecturing(0.116)
+discussing(0.091)
+adult+female+speaking(0.075)
+dining(0.044)

@@ -1,0 +1,5 @@
+queuing(0.417)
+discussing(0.081)
+praying(0.066)
+sitting(0.045)
+adult+male+speaking(0.042)

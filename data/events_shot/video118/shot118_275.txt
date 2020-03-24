@@ -1,5 +1,0 @@
-fighting(0.260)
-slapping(0.189)
-punching(0.054)
-attacking(0.036)
-adult+female+speaking(0.021)

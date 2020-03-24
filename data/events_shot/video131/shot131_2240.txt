@@ -1,0 +1,5 @@
+walking(0.053)
+cooking(0.028)
+hugging(0.023)
+dressing(0.023)
+sneezing(0.022)

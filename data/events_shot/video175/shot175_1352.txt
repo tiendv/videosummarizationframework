@@ -1,5 +1,0 @@
-running(0.136)
-guarding(0.101)
-walking(0.098)
-aiming(0.066)
-playing+videogames(0.051)

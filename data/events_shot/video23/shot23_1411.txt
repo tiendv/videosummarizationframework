@@ -1,0 +1,5 @@
+lecturing(0.170)
+handwriting(0.116)
+adult+male+speaking(0.090)
+preaching(0.034)
+writing(0.032)

@@ -1,0 +1,5 @@
+guarding(0.060)
+standing(0.051)
+adult+male+speaking(0.042)
+flooding(0.042)
+walking(0.038)

@@ -1,0 +1,5 @@
+sleeping(0.241)
+waking(0.098)
+vacuuming(0.067)
+packing(0.034)
+drying(0.025)

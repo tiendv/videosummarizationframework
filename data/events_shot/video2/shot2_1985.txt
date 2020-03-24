@@ -1,0 +1,5 @@
+crying(0.149)
+waking(0.076)
+tapping(0.073)
+scratching(0.050)
+rubbing(0.040)

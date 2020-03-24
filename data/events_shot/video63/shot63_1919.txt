@@ -1,0 +1,5 @@
+arresting(0.096)
+turning(0.073)
+talking(0.062)
+adult+male+speaking(0.053)
+handcuffing(0.045)

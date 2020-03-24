@@ -1,0 +1,5 @@
+punching(0.055)
+knocking(0.033)
+throwing(0.032)
+walking(0.027)
+building(0.025)

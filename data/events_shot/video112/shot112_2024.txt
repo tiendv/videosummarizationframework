@@ -1,0 +1,5 @@
+telephoning(0.141)
+calling(0.066)
+cooking(0.044)
+eating(0.029)
+sneezing(0.026)

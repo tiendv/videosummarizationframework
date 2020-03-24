@@ -1,0 +1,5 @@
+punching(0.127)
+boxing(0.057)
+filming(0.039)
+sneezing(0.028)
+telephoning(0.022)

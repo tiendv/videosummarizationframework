@@ -1,0 +1,5 @@
+sneezing(0.133)
+interviewing(0.056)
+adult+female+speaking(0.044)
+discussing(0.043)
+asking(0.041)

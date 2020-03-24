@@ -1,0 +1,5 @@
+laughing(0.050)
+talking(0.036)
+sitting(0.033)
+sleeping(0.029)
+discussing(0.027)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.244)
+sitting(0.076)
+massaging(0.043)
+squinting(0.037)
+talking(0.035)

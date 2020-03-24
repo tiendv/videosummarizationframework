@@ -1,5 +1,0 @@
-drinking(0.113)
-adult+male+speaking(0.108)
-discussing(0.070)
-sneezing(0.057)
-adult+female+speaking(0.046)

@@ -1,0 +1,5 @@
+walking(0.270)
+pushing(0.069)
+carrying(0.036)
+playing+videogames(0.034)
+exiting(0.028)

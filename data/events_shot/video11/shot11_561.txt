@@ -1,0 +1,5 @@
+pointing(0.044)
+slapping(0.040)
+discussing(0.036)
+shrugging(0.032)
+frowning(0.031)

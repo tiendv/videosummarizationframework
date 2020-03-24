@@ -1,5 +1,0 @@
-sneezing(0.102)
-arresting(0.086)
-coughing(0.068)
-slapping(0.054)
-stopping(0.038)

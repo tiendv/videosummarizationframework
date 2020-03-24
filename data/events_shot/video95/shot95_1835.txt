@@ -1,0 +1,5 @@
+walking(0.131)
+hugging(0.127)
+autographing(0.110)
+arresting(0.067)
+queuing(0.054)

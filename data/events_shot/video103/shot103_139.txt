@@ -1,0 +1,5 @@
+injecting(0.195)
+manicuring(0.141)
+handcuffing(0.101)
+taping(0.041)
+peeling(0.027)

@@ -1,0 +1,5 @@
+hanging(0.083)
+snowing(0.045)
+walking(0.035)
+filming(0.028)
+playing+videogames(0.018)

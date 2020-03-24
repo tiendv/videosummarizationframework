@@ -1,0 +1,5 @@
+flying(0.059)
+ascending(0.047)
+rolling(0.041)
+descending(0.035)
+weeding(0.029)

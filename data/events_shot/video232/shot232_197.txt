@@ -1,5 +1,0 @@
-adult+male+speaking(0.083)
-queuing(0.082)
-talking(0.062)
-squinting(0.055)
-sitting(0.051)

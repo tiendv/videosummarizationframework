@@ -1,5 +1,0 @@
-eating(0.200)
-dining(0.102)
-dipping(0.071)
-manicuring(0.043)
-crafting(0.031)

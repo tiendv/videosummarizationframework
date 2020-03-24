@@ -1,5 +1,0 @@
-knitting(0.229)
-tying(0.083)
-dressing(0.064)
-unpacking(0.051)
-packing(0.045)

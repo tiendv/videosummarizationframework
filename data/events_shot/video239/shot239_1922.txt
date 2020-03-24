@@ -1,5 +1,0 @@
-drawing(0.095)
-painting(0.088)
-sketching(0.046)
-discussing(0.021)
-selling(0.018)

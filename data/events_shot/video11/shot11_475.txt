@@ -1,0 +1,5 @@
+reading(0.247)
+adult+female+speaking(0.238)
+crying(0.039)
+coughing(0.032)
+discussing(0.028)

@@ -1,0 +1,5 @@
+standing(0.078)
+walking(0.036)
+asking(0.029)
+laughing(0.028)
+sneezing(0.023)

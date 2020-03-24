@@ -1,0 +1,5 @@
+talking(0.075)
+laughing(0.048)
+cooking(0.043)
+working(0.041)
+adult+male+speaking(0.037)

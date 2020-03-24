@@ -1,0 +1,5 @@
+fighting(0.049)
+attacking(0.034)
+talking(0.032)
+crying(0.031)
+knocking(0.029)

@@ -1,5 +1,0 @@
-hanging(0.064)
-adult+male+speaking(0.049)
-building(0.045)
-discussing(0.041)
-socializing(0.031)

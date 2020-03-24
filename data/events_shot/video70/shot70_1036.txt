@@ -1,5 +1,0 @@
-sniffing(0.063)
-smelling(0.061)
-adult+female+speaking(0.046)
-kissing(0.044)
-adult+female+singing(0.041)

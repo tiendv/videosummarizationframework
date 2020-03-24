@@ -1,0 +1,5 @@
+adult+male+speaking(0.107)
+starting(0.046)
+discussing(0.030)
+adult+female+speaking(0.030)
+filming(0.021)

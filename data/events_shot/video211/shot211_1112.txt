@@ -1,5 +1,0 @@
-coughing(0.093)
-sneezing(0.086)
-slapping(0.037)
-adult+female+speaking(0.029)
-playing+videogames(0.028)

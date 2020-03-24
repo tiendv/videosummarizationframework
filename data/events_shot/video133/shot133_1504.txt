@@ -1,0 +1,5 @@
+talking(0.090)
+sitting(0.058)
+discussing(0.050)
+adult+female+speaking(0.048)
+raining(0.034)

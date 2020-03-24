@@ -1,0 +1,5 @@
+cuddling(0.072)
+hugging(0.071)
+boxing(0.045)
+adult+male+speaking(0.032)
+playing+videogames(0.031)

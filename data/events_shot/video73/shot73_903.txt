@@ -1,0 +1,5 @@
+standing(0.130)
+walking(0.068)
+playing+videogames(0.039)
+entering(0.034)
+waving(0.029)

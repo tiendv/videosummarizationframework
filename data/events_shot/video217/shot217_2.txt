@@ -1,5 +1,0 @@
-sliding(0.875)
-boating(0.020)
-skiing(0.009)
-slipping(0.007)
-playing+videogames(0.005)

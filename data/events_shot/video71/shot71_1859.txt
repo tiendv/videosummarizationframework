@@ -1,0 +1,5 @@
+fencing(0.229)
+gripping(0.068)
+rocking(0.042)
+barking(0.027)
+whistling(0.024)

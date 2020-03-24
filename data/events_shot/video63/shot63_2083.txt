@@ -1,0 +1,5 @@
+bowing(0.061)
+praying(0.041)
+sneezing(0.040)
+adult+male+speaking(0.039)
+adult+male+singing(0.036)

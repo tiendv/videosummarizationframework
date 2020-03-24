@@ -1,5 +1,0 @@
-driving(0.063)
-adult+male+speaking(0.058)
-walking(0.035)
-asking(0.030)
-adult+male+singing(0.023)

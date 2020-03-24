@@ -1,0 +1,5 @@
+knocking(0.175)
+standing(0.049)
+adult+male+speaking(0.040)
+asking(0.035)
+arresting(0.034)

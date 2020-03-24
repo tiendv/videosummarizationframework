@@ -1,5 +1,0 @@
-walking(0.265)
-standing(0.063)
-running(0.052)
-preaching(0.033)
-stomping(0.032)

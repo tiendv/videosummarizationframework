@@ -1,0 +1,5 @@
+stirring(0.130)
+cooking(0.081)
+playing+videogames(0.045)
+drinking(0.030)
+tying(0.028)

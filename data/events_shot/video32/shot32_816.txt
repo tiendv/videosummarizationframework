@@ -1,0 +1,5 @@
+adult+male+singing(0.401)
+adult+female+singing(0.247)
+singing(0.043)
+playing+music(0.013)
+gripping(0.013)

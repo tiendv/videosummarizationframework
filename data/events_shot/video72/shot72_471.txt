@@ -1,0 +1,5 @@
+adult+male+speaking(0.073)
+sneezing(0.066)
+reading(0.053)
+praying(0.044)
+frowning(0.043)

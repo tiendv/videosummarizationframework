@@ -1,0 +1,5 @@
+working(0.040)
+loading(0.026)
+flicking(0.026)
+entering(0.024)
+placing(0.022)

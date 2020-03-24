@@ -1,0 +1,5 @@
+drying(0.307)
+locking(0.300)
+knocking(0.032)
+turning(0.027)
+opening(0.026)

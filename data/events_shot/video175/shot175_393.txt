@@ -1,5 +1,0 @@
-drying(0.123)
-discussing(0.047)
-talking(0.033)
-brushing(0.032)
-adult+female+speaking(0.029)

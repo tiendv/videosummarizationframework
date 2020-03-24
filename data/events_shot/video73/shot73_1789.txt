@@ -1,0 +1,5 @@
+dining(0.210)
+eating(0.102)
+painting(0.062)
+sitting(0.059)
+brushing(0.041)

@@ -1,5 +1,0 @@
-fencing(0.274)
-knocking(0.076)
-walking(0.067)
-spraying(0.039)
-slapping(0.029)

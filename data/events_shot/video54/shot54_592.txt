@@ -1,0 +1,5 @@
+punching(0.064)
+drinking(0.059)
+hammering(0.042)
+fighting(0.028)
+boxing(0.028)

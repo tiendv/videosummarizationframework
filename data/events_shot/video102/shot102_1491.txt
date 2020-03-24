@@ -1,0 +1,5 @@
+sneezing(0.061)
+coughing(0.039)
+praying(0.030)
+dressing(0.029)
+tying(0.029)

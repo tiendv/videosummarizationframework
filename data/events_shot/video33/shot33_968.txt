@@ -1,0 +1,5 @@
+knocking(0.135)
+walking(0.108)
+standing(0.031)
+entering(0.031)
+filming(0.029)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.085)
+standing(0.030)
+shopping(0.029)
+asking(0.027)
+dining(0.026)

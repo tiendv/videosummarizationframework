@@ -1,0 +1,5 @@
+sleeping(0.102)
+chewing(0.090)
+scratching(0.080)
+rubbing(0.063)
+snuggling(0.044)

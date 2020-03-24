@@ -1,0 +1,5 @@
+stacking(0.085)
+laughing(0.050)
+playing(0.039)
+folding(0.025)
+sleeping(0.020)

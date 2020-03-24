@@ -1,0 +1,5 @@
+massaging(0.162)
+adult+female+speaking(0.101)
+coughing(0.035)
+chewing(0.031)
+sneezing(0.030)

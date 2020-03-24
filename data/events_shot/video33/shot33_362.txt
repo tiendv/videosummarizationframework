@@ -1,0 +1,5 @@
+slapping(0.125)
+crying(0.065)
+tapping(0.035)
+scratching(0.031)
+piloting(0.027)

@@ -1,0 +1,5 @@
+handcuffing(0.060)
+tying(0.031)
+gripping(0.027)
+locking(0.022)
+sniffing(0.021)

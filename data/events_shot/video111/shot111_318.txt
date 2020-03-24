@@ -1,0 +1,5 @@
+crying(0.440)
+eating(0.071)
+sneezing(0.068)
+cooking(0.043)
+frowning(0.021)

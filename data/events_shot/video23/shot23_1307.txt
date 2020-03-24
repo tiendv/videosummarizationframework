@@ -1,0 +1,5 @@
+adult+male+speaking(0.114)
+talking(0.064)
+whistling(0.052)
+discussing(0.045)
+playing+videogames(0.026)

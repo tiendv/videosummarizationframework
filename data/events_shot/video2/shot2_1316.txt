@@ -1,0 +1,5 @@
+handcuffing(0.048)
+adult+male+speaking(0.033)
+standing(0.024)
+slapping(0.021)
+adult+female+speaking(0.019)

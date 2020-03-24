@@ -1,5 +1,0 @@
-standing(0.033)
-talking(0.030)
-working(0.027)
-sitting(0.026)
-stealing(0.025)

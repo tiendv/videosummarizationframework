@@ -1,0 +1,5 @@
+driving(0.113)
+imitating(0.088)
+adult+male+singing(0.084)
+singing(0.058)
+slapping(0.053)

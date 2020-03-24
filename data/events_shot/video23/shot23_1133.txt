@@ -1,0 +1,5 @@
+cleaning(0.061)
+walking(0.040)
+mopping(0.037)
+cracking(0.026)
+fighting(0.025)

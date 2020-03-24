@@ -1,0 +1,5 @@
+telephoning(0.765)
+calling(0.177)
+adult+female+speaking(0.006)
+sniffing(0.006)
+smelling(0.006)

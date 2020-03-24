@@ -1,5 +1,0 @@
-arresting(0.062)
-fighting(0.041)
-adult+male+speaking(0.028)
-adult+female+singing(0.027)
-handcuffing(0.024)

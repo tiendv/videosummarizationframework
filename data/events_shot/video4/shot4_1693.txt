@@ -1,0 +1,5 @@
+baking(0.068)
+cooking(0.049)
+sneezing(0.033)
+injecting(0.032)
+drinking(0.031)

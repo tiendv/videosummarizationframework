@@ -1,5 +1,0 @@
-standing(0.070)
-adult+male+singing(0.045)
-rocking(0.044)
-applauding(0.031)
-waving(0.029)

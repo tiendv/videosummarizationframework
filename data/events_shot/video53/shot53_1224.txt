@@ -1,0 +1,5 @@
+smiling(0.047)
+laughing(0.041)
+giving(0.030)
+shaking(0.028)
+adult+male+speaking(0.026)

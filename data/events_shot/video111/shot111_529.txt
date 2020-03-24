@@ -1,0 +1,5 @@
+crying(0.773)
+frowning(0.062)
+slapping(0.012)
+fighting(0.007)
+squinting(0.004)

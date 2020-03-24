@@ -1,0 +1,5 @@
+giving(0.175)
+hugging(0.147)
+shaking(0.076)
+fighting(0.051)
+opening(0.050)

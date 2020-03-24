@@ -1,0 +1,5 @@
+arresting(0.149)
+boating(0.052)
+hugging(0.031)
+handcuffing(0.026)
+adult+male+speaking(0.022)

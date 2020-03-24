@@ -1,5 +1,0 @@
-child+speaking(0.105)
-crafting(0.041)
-cracking(0.034)
-unpacking(0.033)
-playing(0.024)

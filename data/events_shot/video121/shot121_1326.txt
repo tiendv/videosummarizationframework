@@ -1,0 +1,5 @@
+taping(0.134)
+folding(0.131)
+crafting(0.093)
+wrapping(0.072)
+assembling(0.033)

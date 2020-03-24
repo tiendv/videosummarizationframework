@@ -1,0 +1,5 @@
+asking(0.224)
+adult+female+speaking(0.187)
+walking(0.051)
+filming(0.046)
+adult+female+singing(0.037)

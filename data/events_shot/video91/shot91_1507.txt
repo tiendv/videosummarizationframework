@@ -1,0 +1,5 @@
+chewing(0.110)
+singing(0.100)
+talking(0.036)
+whistling(0.034)
+eating(0.028)

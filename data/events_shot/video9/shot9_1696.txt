@@ -1,5 +1,0 @@
-telephoning(0.232)
-praying(0.131)
-calling(0.125)
-coughing(0.051)
-adult+male+speaking(0.043)

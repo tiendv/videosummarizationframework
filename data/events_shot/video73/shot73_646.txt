@@ -1,0 +1,5 @@
+crafting(0.126)
+drawing(0.122)
+folding(0.097)
+sketching(0.075)
+autographing(0.045)

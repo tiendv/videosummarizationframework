@@ -1,5 +1,0 @@
-dusting(0.065)
-opening(0.058)
-closing(0.051)
-drying(0.045)
-taping(0.042)

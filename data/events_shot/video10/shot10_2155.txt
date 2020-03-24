@@ -1,5 +1,0 @@
-stacking(0.095)
-adult+male+speaking(0.044)
-stopping(0.038)
-starting(0.031)
-talking(0.026)

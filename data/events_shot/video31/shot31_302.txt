@@ -1,0 +1,5 @@
+adult+male+speaking(0.043)
+packing(0.042)
+unpacking(0.037)
+discussing(0.030)
+stealing(0.024)

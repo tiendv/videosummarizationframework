@@ -1,0 +1,5 @@
+dining(0.683)
+serving(0.037)
+eating(0.023)
+drinking(0.020)
+queuing(0.018)

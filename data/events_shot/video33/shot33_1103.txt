@@ -1,0 +1,5 @@
+telephoning(0.128)
+reading(0.122)
+calling(0.082)
+studying(0.044)
+pointing(0.038)

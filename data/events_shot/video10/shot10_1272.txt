@@ -1,5 +1,0 @@
-smoking(0.431)
-spraying(0.026)
-painting(0.022)
-burning(0.020)
-extinguishing(0.013)

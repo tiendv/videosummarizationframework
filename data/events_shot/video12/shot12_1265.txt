@@ -1,0 +1,5 @@
+tapping(0.874)
+telephoning(0.045)
+calling(0.011)
+adult+female+speaking(0.006)
+discussing(0.003)

@@ -1,6 +1,0 @@
-slapping(0.065)
-coughing(0.046)
-fighting(0.044)
-sneezing(0.042)
-drinking(0.040)
-ing(0.031)

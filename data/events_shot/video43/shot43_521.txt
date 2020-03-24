@@ -1,0 +1,5 @@
+spinning(0.079)
+riding(0.077)
+driving(0.069)
+turning(0.042)
+bicycling(0.038)

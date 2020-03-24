@@ -1,0 +1,5 @@
+storming(0.242)
+howling(0.072)
+coughing(0.070)
+raining(0.065)
+whistling(0.037)

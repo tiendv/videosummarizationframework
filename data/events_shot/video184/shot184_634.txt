@@ -1,5 +1,0 @@
-fighting(0.089)
-punching(0.027)
-standing(0.024)
-smashing(0.023)
-celebrating(0.022)

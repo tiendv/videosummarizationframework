@@ -1,0 +1,5 @@
+blowing(0.099)
+inflating(0.052)
+adult+male+speaking(0.041)
+laughing(0.037)
+sneezing(0.021)

@@ -1,0 +1,5 @@
+fighting(0.082)
+slapping(0.056)
+hugging(0.040)
+arresting(0.034)
+crying(0.034)

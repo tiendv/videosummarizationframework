@@ -1,5 +1,0 @@
-sneezing(0.085)
-coughing(0.065)
-slapping(0.034)
-adult+male+singing(0.025)
-fighting(0.021)

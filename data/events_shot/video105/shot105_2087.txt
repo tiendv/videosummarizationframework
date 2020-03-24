@@ -1,0 +1,5 @@
+swinging(0.235)
+hanging(0.059)
+adult+female+singing(0.051)
+flicking(0.034)
+dancing(0.030)

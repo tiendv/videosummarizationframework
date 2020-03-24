@@ -1,0 +1,5 @@
+walking(0.152)
+standing(0.046)
+talking(0.046)
+shrugging(0.039)
+asking(0.023)

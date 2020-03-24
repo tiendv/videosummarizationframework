@@ -1,0 +1,5 @@
+working(0.042)
+sneezing(0.042)
+coughing(0.038)
+reading(0.031)
+studying(0.030)

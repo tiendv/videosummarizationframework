@@ -1,0 +1,5 @@
+sneezing(0.061)
+typing(0.048)
+coughing(0.048)
+adult+male+speaking(0.041)
+squinting(0.036)

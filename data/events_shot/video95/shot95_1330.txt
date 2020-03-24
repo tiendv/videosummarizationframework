@@ -1,0 +1,5 @@
+crying(0.121)
+hugging(0.037)
+talking(0.036)
+filming(0.033)
+frowning(0.032)

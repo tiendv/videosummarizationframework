@@ -1,5 +1,0 @@
-hitchhiking(0.181)
-adult+male+singing(0.090)
-adult+female+speaking(0.065)
-adult+male+speaking(0.053)
-kissing(0.048)

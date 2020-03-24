@@ -1,0 +1,5 @@
+drying(0.164)
+brushing(0.107)
+adult+female+singing(0.037)
+filming(0.032)
+combing(0.032)

@@ -1,0 +1,5 @@
+hanging(0.063)
+adult+male+speaking(0.045)
+knocking(0.044)
+officiating(0.038)
+discussing(0.036)

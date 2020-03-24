@@ -1,0 +1,5 @@
+bicycling(0.281)
+pedaling(0.042)
+mowing(0.033)
+fueling(0.020)
+cleaning(0.017)

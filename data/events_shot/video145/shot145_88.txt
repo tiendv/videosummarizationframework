@@ -1,5 +1,0 @@
-walking(0.035)
-stealing(0.029)
-handcuffing(0.026)
-stomping(0.023)
-riding(0.019)

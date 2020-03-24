@@ -1,5 +1,0 @@
-packing(0.046)
-sneezing(0.043)
-unpacking(0.033)
-handcuffing(0.032)
-adult+male+speaking(0.027)

@@ -1,0 +1,5 @@
+tattooing(0.974)
+smoking(0.001)
+adult+male+speaking(0.001)
+shaving(0.001)
+crying(0.001)

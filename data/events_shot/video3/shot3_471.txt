@@ -1,0 +1,5 @@
+slapping(0.093)
+arresting(0.084)
+adult+female+speaking(0.065)
+adult+male+speaking(0.028)
+asking(0.025)

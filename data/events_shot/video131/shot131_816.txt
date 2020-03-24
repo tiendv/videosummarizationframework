@@ -1,0 +1,5 @@
+dining(0.197)
+stirring(0.042)
+cooking(0.037)
+eating(0.035)
+autographing(0.027)

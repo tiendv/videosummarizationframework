@@ -1,0 +1,5 @@
+walking(0.476)
+standing(0.022)
+hitchhiking(0.020)
+hugging(0.020)
+asking(0.018)

@@ -1,0 +1,5 @@
+spinning(0.415)
+running(0.177)
+turning(0.134)
+walking(0.110)
+chasing(0.026)

@@ -1,5 +1,0 @@
-fencing(0.071)
-adult+female+singing(0.039)
-standing(0.037)
-walking(0.029)
-turning(0.024)

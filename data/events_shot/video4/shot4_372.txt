@@ -1,0 +1,5 @@
+hugging(0.059)
+bowing(0.040)
+adult+female+speaking(0.029)
+joining(0.029)
+praying(0.024)

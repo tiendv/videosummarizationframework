@@ -1,0 +1,5 @@
+burning(0.729)
+combusting(0.142)
+smoking(0.034)
+extinguishing(0.004)
+poking(0.004)

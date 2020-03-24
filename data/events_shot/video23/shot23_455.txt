@@ -1,0 +1,5 @@
+adult+male+singing(0.314)
+adult+female+singing(0.109)
+adult+male+speaking(0.080)
+arresting(0.024)
+fighting(0.022)

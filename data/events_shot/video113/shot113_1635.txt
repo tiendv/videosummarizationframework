@@ -1,0 +1,5 @@
+gardening(0.067)
+cleaning(0.033)
+drying(0.032)
+planting(0.031)
+sowing(0.030)

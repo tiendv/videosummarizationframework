@@ -1,5 +1,0 @@
-laughing(0.196)
-smiling(0.078)
-shaving(0.050)
-adult+male+singing(0.038)
-adult+male+speaking(0.030)

@@ -1,0 +1,5 @@
+driving(0.487)
+steering(0.133)
+riding(0.045)
+hitchhiking(0.032)
+raining(0.022)

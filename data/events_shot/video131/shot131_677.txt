@@ -1,0 +1,5 @@
+adult+male+speaking(0.075)
+walking(0.043)
+shaking(0.040)
+discussing(0.033)
+pushing(0.021)

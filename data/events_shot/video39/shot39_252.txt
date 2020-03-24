@@ -1,5 +1,0 @@
-riding(0.064)
-driving(0.053)
-sitting(0.036)
-pulling(0.029)
-slapping(0.023)

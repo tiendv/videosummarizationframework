@@ -1,5 +1,0 @@
-smoking(0.066)
-running(0.049)
-filming(0.048)
-adult+male+singing(0.037)
-adult+female+singing(0.027)

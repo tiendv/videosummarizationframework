@@ -1,5 +1,0 @@
-cooking(0.031)
-cleaning(0.029)
-stealing(0.028)
-mopping(0.027)
-walking(0.021)

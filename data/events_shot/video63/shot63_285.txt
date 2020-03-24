@@ -1,0 +1,5 @@
+crying(0.153)
+frowning(0.103)
+filming(0.093)
+adult+male+speaking(0.031)
+winking(0.024)

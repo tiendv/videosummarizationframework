@@ -1,0 +1,5 @@
+aiming(0.100)
+mopping(0.063)
+dusting(0.044)
+vacuuming(0.032)
+bouncing(0.029)

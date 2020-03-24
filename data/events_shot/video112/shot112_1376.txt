@@ -1,0 +1,5 @@
+crafting(0.145)
+carving(0.109)
+painting(0.047)
+laughing(0.042)
+manicuring(0.039)

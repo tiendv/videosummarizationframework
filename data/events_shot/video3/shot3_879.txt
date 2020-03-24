@@ -1,0 +1,5 @@
+driving(0.123)
+racing(0.080)
+rolling(0.077)
+playing+videogames(0.072)
+swerving(0.055)

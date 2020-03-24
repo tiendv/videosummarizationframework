@@ -1,0 +1,5 @@
+inflating(0.313)
+adult+female+speaking(0.092)
+adult+male+speaking(0.049)
+smiling(0.045)
+sitting(0.043)

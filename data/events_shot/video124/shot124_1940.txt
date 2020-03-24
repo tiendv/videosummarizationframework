@@ -1,0 +1,5 @@
+stretching(0.073)
+gripping(0.064)
+exercising(0.058)
+shrugging(0.056)
+lifting(0.050)

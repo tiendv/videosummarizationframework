@@ -1,0 +1,5 @@
+coaching(0.086)
+cooking(0.076)
+stealing(0.049)
+adult+male+speaking(0.046)
+queuing(0.039)

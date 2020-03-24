@@ -1,5 +1,0 @@
-chewing(0.077)
-cuddling(0.073)
-adult+female+speaking(0.068)
-eating(0.045)
-adult+female+singing(0.037)

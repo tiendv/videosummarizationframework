@@ -1,5 +1,0 @@
-dining(0.143)
-autographing(0.063)
-queuing(0.048)
-sitting(0.041)
-hugging(0.037)

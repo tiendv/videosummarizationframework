@@ -1,5 +1,0 @@
-bicycling(0.453)
-pedaling(0.054)
-swerving(0.018)
-aiming(0.017)
-stopping(0.015)

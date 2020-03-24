@@ -1,5 +1,0 @@
-arresting(0.040)
-fighting(0.030)
-washing(0.022)
-extinguishing(0.018)
-eating(0.016)

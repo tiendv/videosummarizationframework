@@ -1,0 +1,5 @@
+reading(0.157)
+unpacking(0.097)
+packing(0.061)
+studying(0.043)
+adult+male+speaking(0.040)

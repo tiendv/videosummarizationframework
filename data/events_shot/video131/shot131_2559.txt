@@ -1,0 +1,5 @@
+clapping(0.121)
+applauding(0.090)
+smiling(0.070)
+marrying(0.065)
+filming(0.059)

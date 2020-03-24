@@ -1,0 +1,5 @@
+driving(0.139)
+playing+videogames(0.132)
+steering(0.067)
+aiming(0.058)
+riding(0.043)

@@ -1,0 +1,5 @@
+cleaning(0.055)
+cooking(0.046)
+mopping(0.039)
+adult+female+singing(0.031)
+stomping(0.030)

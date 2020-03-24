@@ -1,0 +1,5 @@
+adult+male+speaking(0.087)
+throwing(0.049)
+standing(0.037)
+slapping(0.030)
+filming(0.029)

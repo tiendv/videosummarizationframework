@@ -1,0 +1,5 @@
+shaving(0.076)
+cracking(0.042)
+plunging(0.037)
+walking(0.037)
+discussing(0.035)

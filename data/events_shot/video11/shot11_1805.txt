@@ -1,0 +1,5 @@
+telephoning(0.323)
+calling(0.136)
+eating(0.075)
+coughing(0.032)
+chewing(0.031)

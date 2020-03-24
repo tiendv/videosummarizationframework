@@ -1,0 +1,5 @@
+queuing(0.038)
+smoking(0.038)
+applauding(0.033)
+adult+female+speaking(0.033)
+asking(0.026)

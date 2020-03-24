@@ -1,0 +1,5 @@
+camping(0.147)
+fencing(0.103)
+discussing(0.072)
+adult+male+speaking(0.048)
+talking(0.048)

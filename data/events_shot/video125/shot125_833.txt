@@ -1,0 +1,5 @@
+crying(0.073)
+slapping(0.042)
+frowning(0.036)
+adult+male+speaking(0.034)
+playing+videogames(0.029)

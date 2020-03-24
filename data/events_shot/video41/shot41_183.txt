@@ -1,0 +1,5 @@
+cuddling(0.109)
+hugging(0.096)
+laughing(0.057)
+packing(0.044)
+tickling(0.042)

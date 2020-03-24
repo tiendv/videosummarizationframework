@@ -1,0 +1,5 @@
+dropping(0.105)
+starting(0.068)
+bubbling(0.068)
+falling(0.060)
+bouncing(0.034)

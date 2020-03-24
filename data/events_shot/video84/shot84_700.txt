@@ -1,0 +1,5 @@
+typing(0.222)
+writing(0.081)
+sitting(0.056)
+interviewing(0.049)
+working(0.044)

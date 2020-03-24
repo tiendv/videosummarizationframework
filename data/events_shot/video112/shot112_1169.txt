@@ -1,0 +1,5 @@
+adult+male+speaking(0.050)
+fencing(0.046)
+standing(0.026)
+swinging(0.025)
+hanging(0.020)

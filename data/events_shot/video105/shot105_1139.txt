@@ -1,0 +1,5 @@
+child+speaking(0.558)
+sitting(0.072)
+talking(0.063)
+child+singing(0.039)
+playing(0.019)

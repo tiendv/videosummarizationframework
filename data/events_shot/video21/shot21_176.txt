@@ -1,0 +1,5 @@
+squatting(0.119)
+lifting(0.058)
+drinking(0.033)
+filming(0.030)
+photographing(0.024)

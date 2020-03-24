@@ -1,5 +1,0 @@
-waking(0.069)
-cracking(0.068)
-crying(0.043)
-sleeping(0.042)
-adult+male+speaking(0.032)

@@ -1,0 +1,5 @@
+bowing(0.069)
+marrying(0.068)
+officiating(0.056)
+dressing(0.038)
+adult+male+speaking(0.031)

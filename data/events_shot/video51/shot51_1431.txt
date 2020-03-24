@@ -1,0 +1,5 @@
+knocking(0.095)
+blocking(0.088)
+slapping(0.065)
+smiling(0.047)
+standing(0.045)

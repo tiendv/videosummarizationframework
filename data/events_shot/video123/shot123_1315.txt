@@ -1,0 +1,5 @@
+drinking(0.243)
+asking(0.091)
+smoking(0.070)
+kissing(0.050)
+licking(0.047)

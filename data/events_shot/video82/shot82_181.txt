@@ -1,0 +1,5 @@
+adult+male+speaking(0.058)
+coaching(0.032)
+asking(0.031)
+discussing(0.030)
+punching(0.026)

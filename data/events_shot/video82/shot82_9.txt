@@ -1,0 +1,5 @@
+parading(0.133)
+marching(0.058)
+riding(0.042)
+queuing(0.041)
+carrying(0.032)

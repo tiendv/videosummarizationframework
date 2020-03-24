@@ -1,0 +1,5 @@
+telephoning(0.092)
+calling(0.087)
+adult+male+speaking(0.079)
+locking(0.022)
+carrying(0.021)

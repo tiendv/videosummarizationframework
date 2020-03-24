@@ -1,0 +1,5 @@
+adult+female+speaking(0.066)
+slapping(0.049)
+walking(0.040)
+crying(0.037)
+asking(0.027)

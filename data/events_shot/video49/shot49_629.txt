@@ -1,5 +1,0 @@
-walking(0.048)
-filming(0.039)
-talking(0.034)
-smoking(0.034)
-standing(0.031)

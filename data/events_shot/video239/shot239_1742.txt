@@ -1,5 +1,0 @@
-burning(0.050)
-slapping(0.030)
-adult+female+singing(0.025)
-adult+male+speaking(0.024)
-adult+female+speaking(0.020)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.356)
+adult+female+singing(0.177)
+dressing(0.031)
+standing(0.021)
+smiling(0.020)

@@ -1,0 +1,5 @@
+bowling(0.072)
+sliding(0.037)
+laughing(0.022)
+stealing(0.019)
+adult+male+speaking(0.019)

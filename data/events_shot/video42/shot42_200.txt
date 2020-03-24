@@ -1,0 +1,5 @@
+dressing(0.062)
+adult+female+speaking(0.035)
+packing(0.025)
+wrapping(0.022)
+crafting(0.020)

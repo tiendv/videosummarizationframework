@@ -1,0 +1,5 @@
+adult+male+speaking(0.077)
+standing(0.053)
+talking(0.038)
+discussing(0.031)
+cooking(0.031)

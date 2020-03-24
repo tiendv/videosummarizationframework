@@ -1,0 +1,5 @@
+burning(0.094)
+adult+female+singing(0.074)
+adult+female+speaking(0.067)
+cooking(0.032)
+drying(0.024)

@@ -1,0 +1,5 @@
+smiling(0.062)
+talking(0.046)
+starting(0.038)
+marrying(0.030)
+winking(0.027)

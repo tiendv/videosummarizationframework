@@ -1,0 +1,5 @@
+standing(0.027)
+laughing(0.020)
+cleaning(0.020)
+slapping(0.017)
+adult+male+speaking(0.017)

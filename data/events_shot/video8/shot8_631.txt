@@ -1,5 +1,0 @@
-bouncing(0.322)
-chewing(0.142)
-scratching(0.032)
-brushing(0.028)
-washing(0.022)

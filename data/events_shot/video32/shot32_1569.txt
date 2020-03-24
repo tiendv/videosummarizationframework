@@ -1,0 +1,5 @@
+clipping(0.056)
+talking(0.050)
+raining(0.049)
+adult+male+speaking(0.030)
+falling(0.029)

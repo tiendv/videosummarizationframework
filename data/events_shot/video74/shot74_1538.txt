@@ -1,5 +1,0 @@
-clipping(0.042)
-slapping(0.042)
-walking(0.039)
-falling(0.037)
-dropping(0.030)

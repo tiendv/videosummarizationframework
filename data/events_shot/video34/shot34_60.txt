@@ -1,0 +1,5 @@
+sitting(0.151)
+child+speaking(0.081)
+studying(0.035)
+reading(0.027)
+asking(0.025)

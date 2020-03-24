@@ -1,0 +1,5 @@
+arresting(0.162)
+queuing(0.130)
+entering(0.101)
+exiting(0.063)
+guarding(0.058)

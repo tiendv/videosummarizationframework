@@ -1,0 +1,5 @@
+adult+male+speaking(0.159)
+preaching(0.050)
+laughing(0.049)
+talking(0.045)
+cooking(0.036)

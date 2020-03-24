@@ -1,0 +1,5 @@
+punching(0.053)
+slapping(0.043)
+blocking(0.042)
+knocking(0.039)
+lecturing(0.035)

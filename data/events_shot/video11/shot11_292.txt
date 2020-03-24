@@ -1,0 +1,5 @@
+knocking(0.033)
+handcuffing(0.032)
+slapping(0.032)
+laughing(0.020)
+entering(0.020)

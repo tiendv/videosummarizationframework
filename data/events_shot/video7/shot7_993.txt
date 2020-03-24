@@ -1,5 +1,0 @@
-cooking(0.056)
-wrapping(0.031)
-opening(0.026)
-working(0.024)
-standing(0.022)

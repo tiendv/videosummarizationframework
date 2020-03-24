@@ -1,0 +1,5 @@
+asking(0.164)
+adult+female+speaking(0.101)
+queuing(0.066)
+walking(0.056)
+preaching(0.052)

@@ -1,0 +1,5 @@
+praying(0.121)
+cracking(0.098)
+adult+male+speaking(0.081)
+sitting(0.046)
+pointing(0.031)

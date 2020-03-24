@@ -1,5 +1,0 @@
-adult+male+singing(0.107)
-adult+female+singing(0.088)
-performing(0.042)
-bowing(0.038)
-child+singing(0.033)

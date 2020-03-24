@@ -1,0 +1,5 @@
+cooking(0.309)
+slicing(0.047)
+wrapping(0.047)
+folding(0.032)
+chopping(0.030)

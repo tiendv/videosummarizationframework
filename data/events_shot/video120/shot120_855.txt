@@ -1,5 +1,0 @@
-splashing(0.051)
-sliding(0.044)
-bathing(0.035)
-wetting(0.027)
-slipping(0.024)

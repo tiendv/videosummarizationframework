@@ -1,0 +1,5 @@
+drying(0.083)
+adult+female+speaking(0.067)
+washing(0.039)
+hugging(0.026)
+adult+male+speaking(0.025)

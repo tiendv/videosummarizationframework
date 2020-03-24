@@ -1,0 +1,5 @@
+knocking(0.148)
+adult+male+speaking(0.122)
+slapping(0.070)
+entering(0.037)
+guarding(0.033)

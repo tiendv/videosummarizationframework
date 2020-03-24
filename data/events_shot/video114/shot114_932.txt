@@ -1,0 +1,5 @@
+queuing(0.094)
+discussing(0.046)
+sitting(0.034)
+turning(0.031)
+spinning(0.030)

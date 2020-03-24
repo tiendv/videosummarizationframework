@@ -1,0 +1,5 @@
+sneezing(0.271)
+coughing(0.105)
+crying(0.044)
+removing(0.031)
+dressing(0.022)

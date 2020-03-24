@@ -1,0 +1,5 @@
+packing(0.082)
+tapping(0.063)
+tying(0.055)
+unpacking(0.041)
+inflating(0.040)

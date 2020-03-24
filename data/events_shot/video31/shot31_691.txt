@@ -1,0 +1,5 @@
+hunting(0.117)
+turning(0.094)
+spinning(0.038)
+guarding(0.033)
+opening(0.031)

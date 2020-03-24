@@ -1,0 +1,5 @@
+cooking(0.101)
+baking(0.053)
+cleaning(0.040)
+hugging(0.023)
+working(0.021)

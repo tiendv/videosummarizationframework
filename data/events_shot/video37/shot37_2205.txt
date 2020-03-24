@@ -1,5 +1,0 @@
-walking(0.374)
-spinning(0.087)
-turning(0.079)
-slapping(0.029)
-raining(0.022)

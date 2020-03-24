@@ -1,0 +1,5 @@
+walking(0.111)
+turning(0.055)
+standing(0.050)
+adult+female+singing(0.048)
+performing(0.042)

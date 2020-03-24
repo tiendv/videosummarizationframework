@@ -1,0 +1,5 @@
+washing(0.036)
+splashing(0.028)
+rinsing(0.027)
+raining(0.026)
+driving(0.025)

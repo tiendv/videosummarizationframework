@@ -1,5 +1,0 @@
-squatting(0.670)
-lifting(0.029)
-punching(0.018)
-handcuffing(0.014)
-crouching(0.012)

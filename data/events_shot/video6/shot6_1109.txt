@@ -1,5 +1,0 @@
-calling(0.094)
-telephoning(0.059)
-knocking(0.032)
-adult+female+singing(0.031)
-coughing(0.030)

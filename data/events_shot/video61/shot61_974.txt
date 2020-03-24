@@ -1,0 +1,5 @@
+slapping(0.111)
+coughing(0.108)
+cracking(0.064)
+signing(0.055)
+pointing(0.046)

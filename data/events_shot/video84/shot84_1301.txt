@@ -1,0 +1,5 @@
+standing(0.036)
+whistling(0.036)
+sitting(0.035)
+singing(0.032)
+slapping(0.027)

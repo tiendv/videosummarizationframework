@@ -1,0 +1,5 @@
+shooting(0.064)
+bathing(0.040)
+crying(0.030)
+carrying(0.025)
+shaving(0.023)

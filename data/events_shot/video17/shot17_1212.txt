@@ -1,5 +1,0 @@
-drinking(0.085)
-dining(0.061)
-filming(0.057)
-adult+female+singing(0.056)
-photographing(0.050)

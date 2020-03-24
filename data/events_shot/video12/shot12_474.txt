@@ -1,0 +1,5 @@
+squatting(0.609)
+lifting(0.047)
+crouching(0.027)
+bending(0.026)
+exercising(0.012)

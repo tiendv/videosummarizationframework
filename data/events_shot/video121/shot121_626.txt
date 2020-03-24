@@ -1,0 +1,5 @@
+adult+male+speaking(0.053)
+loading(0.028)
+steering(0.024)
+gripping(0.021)
+hammering(0.018)

@@ -1,0 +1,5 @@
+arresting(0.377)
+handcuffing(0.185)
+asking(0.060)
+autographing(0.029)
+adult+male+speaking(0.024)

@@ -1,0 +1,5 @@
+blowing(0.069)
+carving(0.064)
+inflating(0.049)
+standing(0.023)
+peeling(0.020)

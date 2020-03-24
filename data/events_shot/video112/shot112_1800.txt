@@ -1,0 +1,5 @@
+opening(0.180)
+knocking(0.157)
+closing(0.124)
+child+speaking(0.030)
+standing(0.025)

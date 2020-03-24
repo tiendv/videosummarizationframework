@@ -1,0 +1,5 @@
+adult+female+speaking(0.082)
+tapping(0.045)
+waking(0.041)
+slapping(0.040)
+sitting(0.031)

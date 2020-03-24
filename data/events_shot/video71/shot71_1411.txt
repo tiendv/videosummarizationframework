@@ -1,0 +1,5 @@
+adult+male+speaking(0.075)
+discussing(0.054)
+tattooing(0.052)
+squinting(0.035)
+talking(0.025)

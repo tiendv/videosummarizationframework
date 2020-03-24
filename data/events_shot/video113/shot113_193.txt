@@ -1,0 +1,5 @@
+manicuring(0.146)
+talking(0.067)
+sitting(0.062)
+eating(0.056)
+cooking(0.055)

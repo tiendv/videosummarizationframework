@@ -1,0 +1,5 @@
+stacking(0.955)
+slapping(0.002)
+adult+male+speaking(0.002)
+asking(0.002)
+laughing(0.001)

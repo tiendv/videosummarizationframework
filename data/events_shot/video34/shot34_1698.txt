@@ -1,0 +1,5 @@
+turning(0.065)
+spinning(0.041)
+sliding(0.037)
+hanging(0.029)
+pointing(0.027)

@@ -1,0 +1,5 @@
+brushing(0.108)
+drying(0.072)
+combing(0.061)
+adult+female+singing(0.034)
+hugging(0.029)

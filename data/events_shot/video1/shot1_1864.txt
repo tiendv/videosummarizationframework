@@ -1,0 +1,5 @@
+guarding(0.337)
+hunting(0.132)
+aiming(0.056)
+playing+videogames(0.039)
+saluting(0.039)

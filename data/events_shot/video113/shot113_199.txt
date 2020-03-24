@@ -1,0 +1,5 @@
+crying(0.053)
+laughing(0.037)
+sneezing(0.037)
+hugging(0.033)
+spitting(0.028)

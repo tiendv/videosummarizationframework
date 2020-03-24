@@ -1,5 +1,0 @@
-slapping(0.050)
-coughing(0.029)
-inflating(0.028)
-sniffing(0.026)
-cooking(0.025)

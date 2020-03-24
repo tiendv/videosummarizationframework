@@ -1,0 +1,5 @@
+lifting(0.134)
+squatting(0.061)
+gripping(0.055)
+raising(0.035)
+stretching(0.032)

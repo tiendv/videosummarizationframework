@@ -1,0 +1,5 @@
+hammering(0.035)
+poking(0.035)
+storming(0.030)
+tapping(0.030)
+painting(0.027)

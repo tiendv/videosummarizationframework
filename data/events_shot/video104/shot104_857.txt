@@ -1,0 +1,5 @@
+adult+female+speaking(0.161)
+talking(0.089)
+sneezing(0.077)
+sitting(0.051)
+chewing(0.036)

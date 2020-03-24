@@ -1,0 +1,5 @@
+painting(0.069)
+drinking(0.033)
+adult+female+singing(0.030)
+dressing(0.029)
+standing(0.027)

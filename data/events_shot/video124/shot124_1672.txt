@@ -1,0 +1,5 @@
+spinning(0.187)
+walking(0.125)
+turning(0.047)
+smiling(0.027)
+marrying(0.025)

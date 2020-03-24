@@ -1,0 +1,5 @@
+working(0.110)
+sanding(0.074)
+rubbing(0.060)
+building(0.051)
+assembling(0.044)

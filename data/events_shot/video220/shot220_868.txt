@@ -1,5 +1,0 @@
-adult+male+speaking(0.040)
-building(0.040)
-starting(0.035)
-loading(0.034)
-assembling(0.033)

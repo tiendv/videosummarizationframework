@@ -1,0 +1,5 @@
+adult+male+speaking(0.049)
+asking(0.045)
+autographing(0.036)
+lecturing(0.035)
+giving(0.030)

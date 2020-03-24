@@ -1,0 +1,5 @@
+arresting(0.147)
+guarding(0.075)
+handcuffing(0.049)
+fighting(0.043)
+standing(0.037)

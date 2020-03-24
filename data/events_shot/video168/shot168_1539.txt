@@ -1,5 +1,0 @@
-walking(0.123)
-running(0.056)
-standing(0.041)
-stealing(0.035)
-cleaning(0.030)

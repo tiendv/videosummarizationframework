@@ -1,5 +1,0 @@
-cooking(0.104)
-spraying(0.061)
-boiling(0.056)
-frying(0.046)
-watering(0.042)

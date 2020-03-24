@@ -1,0 +1,5 @@
+walking(0.080)
+running(0.076)
+knocking(0.059)
+removing(0.024)
+drying(0.023)

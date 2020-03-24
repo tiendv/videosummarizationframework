@@ -1,5 +1,0 @@
-chewing(0.048)
-talking(0.044)
-cooking(0.037)
-standing(0.028)
-hugging(0.027)

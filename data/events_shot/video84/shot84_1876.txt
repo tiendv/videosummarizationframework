@@ -1,0 +1,5 @@
+reading(0.170)
+adult+female+speaking(0.121)
+crafting(0.038)
+working(0.038)
+studying(0.030)

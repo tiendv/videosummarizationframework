@@ -1,0 +1,5 @@
+playing+videogames(0.065)
+sleeping(0.059)
+waking(0.051)
+clipping(0.025)
+resting(0.025)

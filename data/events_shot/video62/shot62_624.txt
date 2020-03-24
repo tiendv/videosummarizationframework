@@ -1,0 +1,5 @@
+painting(0.171)
+hugging(0.035)
+pointing(0.028)
+standing(0.020)
+slapping(0.019)

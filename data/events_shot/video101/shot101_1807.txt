@@ -1,0 +1,5 @@
+paying(0.082)
+buying(0.070)
+calling(0.044)
+telephoning(0.036)
+adult+male+speaking(0.036)

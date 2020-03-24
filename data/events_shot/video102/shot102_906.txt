@@ -1,0 +1,5 @@
+tapping(0.145)
+slapping(0.046)
+vacuuming(0.027)
+scratching(0.024)
+poking(0.019)

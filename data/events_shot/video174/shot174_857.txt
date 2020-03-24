@@ -1,5 +1,0 @@
-calling(0.278)
-telephoning(0.226)
-paying(0.085)
-locking(0.044)
-typing(0.032)

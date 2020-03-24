@@ -1,0 +1,5 @@
+washing(0.034)
+rinsing(0.032)
+drinking(0.027)
+cleaning(0.025)
+brushing(0.023)

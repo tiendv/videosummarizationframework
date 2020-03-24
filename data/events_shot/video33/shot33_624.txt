@@ -1,0 +1,5 @@
+adult+male+speaking(0.060)
+chewing(0.052)
+resting(0.050)
+adult+female+speaking(0.047)
+sitting(0.040)

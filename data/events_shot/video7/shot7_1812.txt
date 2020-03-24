@@ -1,5 +1,0 @@
-cooking(0.119)
-cleaning(0.045)
-packing(0.028)
-drying(0.027)
-baking(0.027)

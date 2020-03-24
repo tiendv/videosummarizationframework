@@ -1,0 +1,5 @@
+chewing(0.161)
+adult+female+speaking(0.137)
+adult+female+singing(0.049)
+child+singing(0.035)
+sitting(0.032)

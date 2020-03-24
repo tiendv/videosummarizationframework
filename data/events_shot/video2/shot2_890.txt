@@ -1,0 +1,5 @@
+reading(0.198)
+talking(0.052)
+child+speaking(0.047)
+sitting(0.045)
+flipping(0.028)

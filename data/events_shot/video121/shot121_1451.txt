@@ -1,0 +1,5 @@
+building(0.219)
+working(0.179)
+constructing(0.047)
+assembling(0.033)
+cleaning(0.031)

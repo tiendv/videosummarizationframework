@@ -1,0 +1,5 @@
+knitting(0.075)
+shaving(0.036)
+stitching(0.022)
+mopping(0.021)
+painting(0.019)

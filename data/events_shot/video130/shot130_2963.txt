@@ -1,5 +1,0 @@
-smoking(0.082)
-calling(0.045)
-locking(0.034)
-telephoning(0.032)
-playing+videogames(0.031)

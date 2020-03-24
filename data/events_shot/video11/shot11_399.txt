@@ -1,0 +1,5 @@
+drinking(0.184)
+eating(0.090)
+telephoning(0.066)
+calling(0.033)
+adult+female+speaking(0.032)

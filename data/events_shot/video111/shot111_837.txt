@@ -1,0 +1,5 @@
+walking(0.059)
+adult+male+speaking(0.044)
+laughing(0.035)
+slapping(0.033)
+sneezing(0.029)

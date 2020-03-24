@@ -1,0 +1,5 @@
+tying(0.058)
+drinking(0.035)
+standing(0.026)
+smelling(0.024)
+talking(0.022)

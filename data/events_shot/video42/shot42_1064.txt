@@ -1,0 +1,5 @@
+adult+female+singing(0.111)
+standing(0.044)
+filming(0.042)
+sitting(0.041)
+dancing(0.023)

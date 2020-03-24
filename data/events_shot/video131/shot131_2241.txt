@@ -1,0 +1,5 @@
+adult+male+singing(0.206)
+adult+female+singing(0.190)
+standing(0.042)
+cooking(0.033)
+smiling(0.027)

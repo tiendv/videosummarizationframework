@@ -1,0 +1,5 @@
+opening(0.281)
+closing(0.173)
+shrugging(0.029)
+interviewing(0.025)
+standing(0.017)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.075)
+sneezing(0.048)
+coughing(0.046)
+adult+female+singing(0.042)
+cooking(0.031)

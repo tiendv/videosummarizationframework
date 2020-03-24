@@ -1,0 +1,5 @@
+dining(0.069)
+sitting(0.051)
+manicuring(0.046)
+assembling(0.044)
+tattooing(0.037)

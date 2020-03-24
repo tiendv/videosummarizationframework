@@ -1,0 +1,5 @@
+roaring(0.298)
+howling(0.204)
+barking(0.125)
+yawning(0.105)
+licking(0.015)

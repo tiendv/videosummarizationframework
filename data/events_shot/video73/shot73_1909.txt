@@ -1,0 +1,5 @@
+walking(0.377)
+turning(0.054)
+hugging(0.033)
+talking(0.030)
+kissing(0.025)

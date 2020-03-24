@@ -1,0 +1,5 @@
+hugging(0.239)
+adult+male+speaking(0.053)
+kissing(0.048)
+slapping(0.045)
+tattooing(0.026)

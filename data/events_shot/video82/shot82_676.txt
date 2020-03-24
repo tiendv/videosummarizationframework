@@ -1,0 +1,5 @@
+massaging(0.065)
+folding(0.053)
+adult+male+speaking(0.036)
+laughing(0.029)
+discussing(0.025)

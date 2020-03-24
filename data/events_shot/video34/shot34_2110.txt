@@ -1,0 +1,5 @@
+kissing(0.813)
+hugging(0.061)
+pushing(0.015)
+hitchhiking(0.013)
+cuddling(0.010)

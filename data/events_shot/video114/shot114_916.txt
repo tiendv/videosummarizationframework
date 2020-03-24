@@ -1,0 +1,5 @@
+adult+female+speaking(0.070)
+stealing(0.036)
+sitting(0.034)
+hugging(0.027)
+asking(0.027)

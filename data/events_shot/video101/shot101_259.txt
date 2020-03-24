@@ -1,0 +1,5 @@
+drawing(0.124)
+autographing(0.069)
+adult+female+speaking(0.053)
+sketching(0.048)
+crafting(0.037)

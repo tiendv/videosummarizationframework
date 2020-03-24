@@ -1,0 +1,5 @@
+sneezing(0.145)
+coughing(0.059)
+removing(0.030)
+cleaning(0.028)
+hugging(0.027)

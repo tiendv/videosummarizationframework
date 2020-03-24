@@ -1,5 +1,0 @@
-painting(0.330)
-stacking(0.229)
-spraying(0.039)
-drinking(0.026)
-cleaning(0.015)

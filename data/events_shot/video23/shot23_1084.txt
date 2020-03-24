@@ -1,0 +1,5 @@
+loading(0.396)
+closing(0.108)
+opening(0.089)
+unloading(0.054)
+fueling(0.051)

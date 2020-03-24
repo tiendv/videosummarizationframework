@@ -1,5 +1,0 @@
-filming(0.040)
-walking(0.034)
-shooting(0.034)
-smashing(0.033)
-breaking(0.030)

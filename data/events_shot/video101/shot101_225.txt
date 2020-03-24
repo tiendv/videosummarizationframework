@@ -1,0 +1,5 @@
+arresting(0.100)
+adult+male+speaking(0.065)
+asking(0.041)
+walking(0.037)
+stopping(0.032)

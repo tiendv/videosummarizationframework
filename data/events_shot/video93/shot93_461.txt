@@ -1,0 +1,5 @@
+stealing(0.040)
+sweeping(0.031)
+mowing(0.026)
+walking(0.024)
+preaching(0.020)

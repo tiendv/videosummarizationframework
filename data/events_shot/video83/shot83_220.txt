@@ -1,0 +1,5 @@
+crying(0.164)
+walking(0.048)
+raising(0.027)
+sneezing(0.023)
+frowning(0.022)

@@ -1,0 +1,5 @@
+waking(0.044)
+slapping(0.038)
+hugging(0.031)
+adult+male+speaking(0.028)
+carrying(0.027)

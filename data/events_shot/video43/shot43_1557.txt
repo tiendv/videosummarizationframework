@@ -1,0 +1,5 @@
+adult+male+speaking(0.050)
+playing+videogames(0.036)
+sitting(0.029)
+drinking(0.022)
+slapping(0.020)

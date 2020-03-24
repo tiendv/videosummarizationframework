@@ -1,0 +1,5 @@
+drawing(0.093)
+dunking(0.062)
+sketching(0.025)
+blocking(0.018)
+painting(0.016)

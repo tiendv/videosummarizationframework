@@ -1,0 +1,5 @@
+hugging(0.327)
+walking(0.042)
+cuddling(0.024)
+carrying(0.018)
+punching(0.017)

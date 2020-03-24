@@ -1,0 +1,5 @@
+mowing(0.971)
+weeding(0.003)
+steering(0.001)
+gardening(0.001)
+cutting(0.001)

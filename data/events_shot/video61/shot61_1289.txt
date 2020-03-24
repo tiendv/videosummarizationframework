@@ -1,0 +1,5 @@
+blowing(0.811)
+inflating(0.039)
+crying(0.027)
+sneezing(0.027)
+laughing(0.023)

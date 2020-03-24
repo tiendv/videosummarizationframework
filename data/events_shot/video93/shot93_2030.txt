@@ -1,0 +1,5 @@
+exiting(0.144)
+arresting(0.142)
+entering(0.064)
+handcuffing(0.053)
+walking(0.049)

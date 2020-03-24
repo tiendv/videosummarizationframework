@@ -1,0 +1,5 @@
+arresting(0.162)
+handcuffing(0.099)
+playing+videogames(0.076)
+entering(0.048)
+locking(0.037)

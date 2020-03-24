@@ -1,0 +1,5 @@
+licking(0.034)
+bowing(0.033)
+shrugging(0.033)
+adult+male+speaking(0.030)
+smiling(0.029)

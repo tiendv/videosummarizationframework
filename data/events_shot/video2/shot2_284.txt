@@ -1,0 +1,5 @@
+hugging(0.068)
+queuing(0.056)
+shaking(0.034)
+arresting(0.030)
+joining(0.027)

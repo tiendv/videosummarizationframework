@@ -1,0 +1,5 @@
+reading(0.528)
+sitting(0.039)
+adult+male+speaking(0.037)
+discussing(0.032)
+studying(0.022)

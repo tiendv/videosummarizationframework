@@ -1,5 +1,0 @@
-stacking(0.067)
-standing(0.041)
-talking(0.026)
-adult+male+speaking(0.022)
-squatting(0.019)

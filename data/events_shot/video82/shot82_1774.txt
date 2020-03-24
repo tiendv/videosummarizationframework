@@ -1,0 +1,5 @@
+telephoning(0.222)
+calling(0.150)
+kissing(0.053)
+smiling(0.050)
+laughing(0.045)

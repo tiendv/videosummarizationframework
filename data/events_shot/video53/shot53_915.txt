@@ -1,0 +1,5 @@
+autographing(0.257)
+signing(0.049)
+adult+male+speaking(0.046)
+drawing(0.043)
+sitting(0.038)

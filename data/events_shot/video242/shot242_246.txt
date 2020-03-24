@@ -1,5 +1,0 @@
-sitting(0.275)
-talking(0.142)
-discussing(0.126)
-adult+female+speaking(0.037)
-cuddling(0.033)

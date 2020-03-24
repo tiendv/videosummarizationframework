@@ -1,5 +1,0 @@
-fighting(0.035)
-playing+videogames(0.026)
-standing(0.025)
-guarding(0.019)
-asking(0.018)

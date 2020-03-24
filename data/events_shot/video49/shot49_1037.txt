@@ -1,5 +1,0 @@
-shooting(0.031)
-pointing(0.025)
-washing(0.023)
-fighting(0.020)
-aiming(0.020)

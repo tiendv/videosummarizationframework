@@ -1,0 +1,5 @@
+driving(0.195)
+aiming(0.054)
+shooting(0.052)
+riding(0.037)
+attacking(0.036)

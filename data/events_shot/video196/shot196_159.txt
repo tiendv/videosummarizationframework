@@ -1,5 +1,0 @@
-dipping(0.020)
-cooking(0.020)
-putting(0.018)
-flicking(0.015)
-working(0.013)

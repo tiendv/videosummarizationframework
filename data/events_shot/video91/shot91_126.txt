@@ -1,0 +1,5 @@
+tapping(0.331)
+hugging(0.152)
+cuddling(0.088)
+scratching(0.073)
+snuggling(0.039)

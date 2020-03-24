@@ -1,0 +1,5 @@
+painting(0.279)
+crafting(0.075)
+repairing(0.045)
+working(0.027)
+sanding(0.024)

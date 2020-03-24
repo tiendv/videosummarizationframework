@@ -1,5 +1,0 @@
-walking(0.049)
-knocking(0.043)
-playing+videogames(0.041)
-arresting(0.039)
-entering(0.030)

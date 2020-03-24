@@ -1,5 +1,0 @@
-hanging(0.071)
-painting(0.065)
-measuring(0.034)
-blocking(0.025)
-adult+female+speaking(0.025)

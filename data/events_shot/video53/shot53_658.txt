@@ -1,0 +1,5 @@
+walking(0.366)
+standing(0.062)
+whistling(0.018)
+shrugging(0.017)
+filming(0.016)

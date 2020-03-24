@@ -1,0 +1,5 @@
+working(0.071)
+adult+male+speaking(0.056)
+painting(0.044)
+fencing(0.030)
+taping(0.028)

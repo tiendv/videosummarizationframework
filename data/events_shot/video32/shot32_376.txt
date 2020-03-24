@@ -1,0 +1,5 @@
+squinting(0.041)
+adult+male+speaking(0.041)
+aiming(0.035)
+pointing(0.033)
+talking(0.024)

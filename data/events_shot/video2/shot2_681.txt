@@ -1,0 +1,5 @@
+painting(0.140)
+slapping(0.065)
+cracking(0.058)
+spraying(0.045)
+carving(0.026)

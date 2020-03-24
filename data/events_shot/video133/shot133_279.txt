@@ -1,0 +1,5 @@
+driving(0.066)
+guarding(0.059)
+arresting(0.046)
+adult+male+speaking(0.038)
+filming(0.032)

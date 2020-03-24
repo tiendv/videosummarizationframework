@@ -1,0 +1,5 @@
+bowing(0.266)
+bending(0.052)
+sleeping(0.031)
+kneeling(0.030)
+kissing(0.027)

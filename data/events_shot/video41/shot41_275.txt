@@ -1,0 +1,5 @@
+massaging(0.060)
+cleaning(0.035)
+adult+female+speaking(0.028)
+mopping(0.025)
+sneezing(0.022)

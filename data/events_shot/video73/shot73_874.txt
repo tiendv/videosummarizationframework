@@ -1,0 +1,5 @@
+frowning(0.094)
+talking(0.062)
+saluting(0.052)
+combing(0.046)
+discussing(0.042)

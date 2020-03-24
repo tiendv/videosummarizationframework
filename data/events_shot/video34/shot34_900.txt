@@ -1,0 +1,5 @@
+hugging(0.293)
+raining(0.211)
+crying(0.044)
+snowing(0.025)
+driving(0.025)

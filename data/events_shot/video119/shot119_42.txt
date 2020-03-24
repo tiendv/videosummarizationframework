@@ -1,5 +1,0 @@
-squatting(0.058)
-fighting(0.041)
-lifting(0.031)
-attacking(0.030)
-hugging(0.029)

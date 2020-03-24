@@ -1,5 +1,0 @@
-arresting(0.061)
-guarding(0.054)
-filming(0.041)
-walking(0.041)
-raining(0.039)

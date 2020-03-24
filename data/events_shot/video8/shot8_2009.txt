@@ -1,5 +1,0 @@
-child+speaking(0.245)
-playing(0.083)
-teaching(0.070)
-talking(0.047)
-starting(0.031)

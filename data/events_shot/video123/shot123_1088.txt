@@ -1,0 +1,5 @@
+queuing(0.082)
+walking(0.042)
+stopping(0.033)
+adult+female+speaking(0.030)
+squinting(0.030)

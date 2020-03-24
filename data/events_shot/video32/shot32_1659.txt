@@ -1,0 +1,5 @@
+blowing(0.075)
+combusting(0.064)
+burning(0.060)
+storming(0.043)
+raining(0.034)

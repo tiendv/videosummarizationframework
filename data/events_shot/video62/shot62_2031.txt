@@ -1,0 +1,5 @@
+frowning(0.144)
+drying(0.041)
+slapping(0.039)
+winking(0.035)
+combing(0.034)

@@ -1,0 +1,5 @@
+squatting(0.046)
+assembling(0.040)
+building(0.032)
+sitting(0.023)
+laughing(0.022)

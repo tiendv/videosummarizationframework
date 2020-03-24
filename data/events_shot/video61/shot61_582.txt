@@ -1,0 +1,5 @@
+adult+male+speaking(0.061)
+adult+female+speaking(0.047)
+discussing(0.027)
+asking(0.025)
+shaving(0.021)

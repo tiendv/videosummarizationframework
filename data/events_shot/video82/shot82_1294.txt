@@ -1,0 +1,5 @@
+standing(0.037)
+walking(0.030)
+adult+male+speaking(0.030)
+cooking(0.029)
+slapping(0.025)

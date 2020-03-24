@@ -1,0 +1,5 @@
+driving(0.372)
+boating(0.061)
+riding(0.044)
+steering(0.037)
+raining(0.018)

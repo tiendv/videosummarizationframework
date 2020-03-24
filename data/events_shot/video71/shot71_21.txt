@@ -1,0 +1,5 @@
+tattooing(0.926)
+brushing(0.006)
+shaving(0.004)
+poking(0.003)
+removing(0.002)

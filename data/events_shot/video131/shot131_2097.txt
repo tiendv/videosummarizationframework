@@ -1,0 +1,5 @@
+stitching(0.373)
+crafting(0.144)
+sewing(0.074)
+baking(0.051)
+rolling(0.047)

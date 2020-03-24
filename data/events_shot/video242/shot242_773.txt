@@ -1,5 +1,0 @@
-guarding(0.082)
-standing(0.067)
-saluting(0.055)
-asking(0.050)
-filming(0.040)

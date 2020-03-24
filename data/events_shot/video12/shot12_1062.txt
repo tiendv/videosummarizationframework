@@ -1,0 +1,5 @@
+adult+male+speaking(0.285)
+knocking(0.110)
+starting(0.044)
+pointing(0.030)
+snapping(0.028)

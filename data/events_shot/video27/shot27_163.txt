@@ -1,5 +1,0 @@
-adult+female+singing(0.175)
-performing(0.110)
-singing(0.056)
-standing(0.044)
-officiating(0.038)

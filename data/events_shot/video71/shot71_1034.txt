@@ -1,0 +1,5 @@
+arresting(0.118)
+fighting(0.072)
+slapping(0.063)
+adult+male+speaking(0.057)
+playing+videogames(0.050)

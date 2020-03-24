@@ -1,0 +1,5 @@
+fencing(0.997)
+guarding(0.000)
+barking(0.000)
+sliding(0.000)
+running(0.000)

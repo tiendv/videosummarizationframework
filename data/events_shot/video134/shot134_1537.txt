@@ -1,0 +1,5 @@
+drinking(0.181)
+hugging(0.046)
+smiling(0.035)
+filming(0.028)
+adult+female+speaking(0.022)

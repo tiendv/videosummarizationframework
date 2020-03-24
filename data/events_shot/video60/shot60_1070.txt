@@ -1,5 +1,0 @@
-driving(0.228)
-riding(0.052)
-steering(0.051)
-hitchhiking(0.044)
-swerving(0.031)

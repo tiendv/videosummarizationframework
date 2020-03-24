@@ -1,0 +1,5 @@
+hugging(0.162)
+pointing(0.081)
+carrying(0.076)
+walking(0.059)
+aiming(0.026)

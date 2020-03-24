@@ -1,0 +1,5 @@
+drinking(0.896)
+smelling(0.019)
+sniffing(0.015)
+sneezing(0.002)
+adult+male+speaking(0.002)

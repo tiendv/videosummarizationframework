@@ -1,0 +1,5 @@
+burying(0.196)
+digging(0.057)
+building(0.036)
+draining(0.034)
+measuring(0.029)

@@ -1,0 +1,5 @@
+knocking(0.070)
+cracking(0.036)
+hitting(0.033)
+opening(0.027)
+crushing(0.024)

@@ -1,0 +1,5 @@
+talking(0.048)
+drinking(0.041)
+standing(0.039)
+coughing(0.032)
+walking(0.030)

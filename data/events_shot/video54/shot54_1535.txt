@@ -1,0 +1,5 @@
+hugging(0.204)
+adult+male+speaking(0.038)
+arresting(0.038)
+talking(0.028)
+slapping(0.028)

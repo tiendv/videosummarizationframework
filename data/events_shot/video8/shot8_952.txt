@@ -1,5 +1,0 @@
-cooking(0.208)
-preaching(0.094)
-dining(0.065)
-stirring(0.062)
-frying(0.048)

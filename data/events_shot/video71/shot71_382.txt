@@ -1,0 +1,5 @@
+tapping(0.229)
+combing(0.097)
+calling(0.046)
+brushing(0.031)
+clipping(0.031)

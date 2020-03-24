@@ -1,0 +1,5 @@
+slapping(0.469)
+punching(0.121)
+hugging(0.030)
+fighting(0.024)
+kissing(0.024)

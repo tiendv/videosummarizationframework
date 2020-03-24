@@ -1,5 +1,0 @@
-building(0.111)
-constructing(0.042)
-queuing(0.034)
-walking(0.030)
-fencing(0.027)

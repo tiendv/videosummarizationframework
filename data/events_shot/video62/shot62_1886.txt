@@ -1,0 +1,5 @@
+talking(0.091)
+discussing(0.063)
+teaching(0.057)
+pointing(0.055)
+asking(0.043)

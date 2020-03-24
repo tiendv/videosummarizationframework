@@ -1,0 +1,5 @@
+slapping(0.101)
+sneezing(0.094)
+tapping(0.044)
+studying(0.039)
+shaking(0.034)

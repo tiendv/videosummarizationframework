@@ -1,0 +1,5 @@
+driving(0.132)
+hitchhiking(0.047)
+opening(0.043)
+walking(0.039)
+closing(0.037)

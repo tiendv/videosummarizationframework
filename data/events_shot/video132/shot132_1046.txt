@@ -1,0 +1,5 @@
+hunting(0.955)
+hiking(0.009)
+standing(0.005)
+roaring(0.003)
+attacking(0.003)

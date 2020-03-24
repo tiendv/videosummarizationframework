@@ -1,5 +1,0 @@
-sneezing(0.101)
-queuing(0.047)
-adult+male+speaking(0.031)
-packing(0.028)
-asking(0.022)

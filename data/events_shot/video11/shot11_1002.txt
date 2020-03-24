@@ -1,0 +1,5 @@
+telephoning(0.648)
+calling(0.200)
+sneezing(0.015)
+coughing(0.014)
+drinking(0.006)

@@ -1,0 +1,5 @@
+snapping(0.053)
+tapping(0.052)
+poking(0.035)
+spinning(0.028)
+removing(0.027)

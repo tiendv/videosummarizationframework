@@ -1,0 +1,5 @@
+telephoning(0.077)
+calling(0.044)
+slapping(0.041)
+hugging(0.036)
+tapping(0.033)

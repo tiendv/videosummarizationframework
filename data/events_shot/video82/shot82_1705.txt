@@ -1,0 +1,5 @@
+slapping(0.101)
+cracking(0.077)
+adult+male+speaking(0.066)
+handcuffing(0.035)
+laughing(0.020)

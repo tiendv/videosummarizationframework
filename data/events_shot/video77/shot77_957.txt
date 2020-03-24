@@ -1,5 +1,0 @@
-crashing(0.072)
-driving(0.048)
-snowing(0.037)
-washing(0.032)
-colliding(0.032)

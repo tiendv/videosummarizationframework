@@ -1,0 +1,5 @@
+arresting(0.224)
+handcuffing(0.078)
+walking(0.047)
+discussing(0.041)
+talking(0.035)

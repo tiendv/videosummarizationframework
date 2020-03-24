@@ -1,0 +1,5 @@
+guarding(0.167)
+adult+male+speaking(0.057)
+hugging(0.050)
+standing(0.046)
+sitting(0.044)

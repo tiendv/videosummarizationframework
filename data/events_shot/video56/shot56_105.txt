@@ -1,5 +1,0 @@
-standing(0.105)
-walking(0.101)
-running(0.055)
-laughing(0.028)
-performing(0.025)

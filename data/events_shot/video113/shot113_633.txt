@@ -1,0 +1,5 @@
+adult+male+speaking(0.048)
+standing(0.029)
+guarding(0.025)
+shrugging(0.024)
+discussing(0.023)

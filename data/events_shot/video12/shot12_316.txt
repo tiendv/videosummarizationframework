@@ -1,0 +1,5 @@
+frowning(0.159)
+shrugging(0.141)
+adult+male+speaking(0.049)
+arresting(0.043)
+walking(0.040)

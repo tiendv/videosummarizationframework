@@ -1,5 +1,0 @@
-driving(0.461)
-steering(0.271)
-aiming(0.073)
-piloting(0.026)
-riding(0.025)

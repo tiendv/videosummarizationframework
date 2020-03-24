@@ -1,5 +1,0 @@
-walking(0.078)
-drying(0.055)
-hanging(0.037)
-standing(0.034)
-talking(0.026)

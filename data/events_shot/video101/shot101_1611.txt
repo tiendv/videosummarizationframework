@@ -1,0 +1,5 @@
+slapping(0.061)
+fencing(0.058)
+sitting(0.048)
+knocking(0.027)
+adult+male+speaking(0.026)

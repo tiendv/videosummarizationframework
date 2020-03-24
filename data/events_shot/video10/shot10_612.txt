@@ -1,5 +1,0 @@
-walking(0.243)
-hiking(0.170)
-arresting(0.045)
-hugging(0.043)
-hunting(0.038)

@@ -1,5 +1,0 @@
-bouncing(0.146)
-adult+male+singing(0.100)
-adult+female+singing(0.066)
-spinning(0.061)
-rocking(0.026)

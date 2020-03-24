@@ -1,0 +1,5 @@
+shredding(0.264)
+plugging(0.059)
+tearing(0.024)
+removing(0.017)
+assembling(0.014)

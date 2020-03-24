@@ -1,0 +1,5 @@
+destroying(0.062)
+attacking(0.033)
+aiming(0.030)
+crushing(0.022)
+combusting(0.021)

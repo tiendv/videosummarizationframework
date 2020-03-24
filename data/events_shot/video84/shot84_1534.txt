@@ -1,0 +1,5 @@
+mopping(0.201)
+cleaning(0.074)
+sneezing(0.057)
+dusting(0.045)
+dressing(0.045)

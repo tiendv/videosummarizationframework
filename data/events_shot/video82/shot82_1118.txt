@@ -1,0 +1,5 @@
+inflating(0.114)
+repairing(0.050)
+drilling(0.044)
+vacuuming(0.040)
+spinning(0.028)

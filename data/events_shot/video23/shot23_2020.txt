@@ -1,0 +1,5 @@
+adult+male+speaking(0.125)
+discussing(0.087)
+signing(0.039)
+coaching(0.036)
+pointing(0.032)

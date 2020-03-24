@@ -1,0 +1,5 @@
+cleaning(0.112)
+putting(0.054)
+removing(0.042)
+pressing(0.040)
+filling(0.039)

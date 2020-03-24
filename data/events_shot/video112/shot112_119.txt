@@ -1,0 +1,5 @@
+telephoning(0.271)
+blowing(0.181)
+calling(0.063)
+crying(0.030)
+inflating(0.028)

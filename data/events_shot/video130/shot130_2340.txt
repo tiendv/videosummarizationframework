@@ -1,5 +1,0 @@
-adult+female+speaking(0.060)
-adult+male+speaking(0.054)
-dining(0.040)
-stealing(0.030)
-selling(0.026)

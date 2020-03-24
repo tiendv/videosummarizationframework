@@ -1,0 +1,5 @@
+applauding(0.158)
+clapping(0.117)
+celebrating(0.062)
+standing(0.044)
+sitting(0.033)

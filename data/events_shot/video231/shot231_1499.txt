@@ -1,5 +1,0 @@
-adult+female+singing(0.241)
-adult+female+speaking(0.121)
-praying(0.022)
-walking(0.021)
-tattooing(0.018)

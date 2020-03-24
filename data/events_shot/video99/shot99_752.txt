@@ -1,5 +1,0 @@
-adult+female+singing(0.809)
-adult+male+singing(0.035)
-adult+female+speaking(0.020)
-singing(0.015)
-roaring(0.008)

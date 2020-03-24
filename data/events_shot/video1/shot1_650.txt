@@ -1,0 +1,5 @@
+adult+male+speaking(0.078)
+smiling(0.047)
+arresting(0.042)
+filming(0.037)
+winking(0.036)

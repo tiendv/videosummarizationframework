@@ -1,0 +1,5 @@
+talking(0.088)
+adult+female+speaking(0.088)
+crafting(0.057)
+discussing(0.054)
+teaching(0.031)

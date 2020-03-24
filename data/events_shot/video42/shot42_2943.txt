@@ -1,0 +1,5 @@
+preaching(0.169)
+adult+male+speaking(0.093)
+lecturing(0.059)
+interviewing(0.058)
+coaching(0.044)

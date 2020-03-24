@@ -1,0 +1,5 @@
+drying(0.075)
+working(0.028)
+adult+male+speaking(0.027)
+washing(0.022)
+stacking(0.021)

@@ -1,0 +1,5 @@
+cooking(0.038)
+stirring(0.036)
+adult+male+speaking(0.036)
+drumming(0.033)
+coaching(0.026)

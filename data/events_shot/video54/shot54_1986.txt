@@ -1,0 +1,5 @@
+walking(0.177)
+adult+male+speaking(0.097)
+coaching(0.095)
+exiting(0.051)
+asking(0.032)

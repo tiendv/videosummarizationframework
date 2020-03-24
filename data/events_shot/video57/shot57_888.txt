@@ -1,5 +1,0 @@
-hanging(0.257)
-cracking(0.225)
-gripping(0.124)
-climbing(0.058)
-pulling(0.034)

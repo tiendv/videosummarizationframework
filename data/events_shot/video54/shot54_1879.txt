@@ -1,0 +1,5 @@
+adult+male+speaking(0.093)
+slapping(0.082)
+hugging(0.079)
+asking(0.043)
+giving(0.040)

@@ -1,0 +1,5 @@
+knocking(0.841)
+sanding(0.022)
+repairing(0.010)
+removing(0.008)
+painting(0.007)

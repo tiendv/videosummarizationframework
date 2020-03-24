@@ -1,0 +1,5 @@
+fencing(0.473)
+walking(0.044)
+gardening(0.020)
+shrugging(0.020)
+asking(0.019)

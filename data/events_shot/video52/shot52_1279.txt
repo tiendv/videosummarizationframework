@@ -1,0 +1,5 @@
+standing(0.042)
+laughing(0.030)
+adult+female+speaking(0.028)
+stealing(0.023)
+discussing(0.023)

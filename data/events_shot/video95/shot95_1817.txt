@@ -1,0 +1,5 @@
+dining(0.158)
+autographing(0.144)
+gambling(0.049)
+asking(0.044)
+eating(0.033)

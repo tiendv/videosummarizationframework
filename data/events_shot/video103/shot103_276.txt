@@ -1,0 +1,5 @@
+stacking(0.878)
+drinking(0.007)
+hugging(0.004)
+smiling(0.004)
+sneezing(0.003)

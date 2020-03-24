@@ -1,0 +1,5 @@
+hanging(0.103)
+knocking(0.032)
+adult+female+singing(0.028)
+painting(0.028)
+tattooing(0.021)

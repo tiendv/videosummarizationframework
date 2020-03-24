@@ -1,5 +1,0 @@
-adult+male+speaking(0.123)
-discussing(0.086)
-guarding(0.048)
-officiating(0.029)
-arresting(0.026)

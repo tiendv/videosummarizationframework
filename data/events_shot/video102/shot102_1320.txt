@@ -1,0 +1,5 @@
+adult+male+speaking(0.066)
+pointing(0.036)
+adult+female+speaking(0.033)
+telephoning(0.025)
+asking(0.021)

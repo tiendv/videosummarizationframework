@@ -1,0 +1,5 @@
+walking(0.053)
+entering(0.046)
+adult+female+speaking(0.037)
+smiling(0.031)
+standing(0.029)

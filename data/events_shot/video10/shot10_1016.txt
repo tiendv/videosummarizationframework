@@ -1,5 +1,0 @@
-handcuffing(0.162)
-sneezing(0.104)
-arresting(0.094)
-coughing(0.058)
-slapping(0.042)

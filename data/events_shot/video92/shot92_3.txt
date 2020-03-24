@@ -1,0 +1,5 @@
+driving(0.047)
+riding(0.045)
+bicycling(0.040)
+swerving(0.036)
+playing+videogames(0.025)

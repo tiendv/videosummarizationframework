@@ -1,0 +1,5 @@
+kissing(0.447)
+hugging(0.274)
+cuddling(0.020)
+snuggling(0.016)
+licking(0.012)

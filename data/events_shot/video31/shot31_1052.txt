@@ -1,0 +1,5 @@
+queuing(0.581)
+walking(0.045)
+standing(0.030)
+praying(0.020)
+protesting(0.013)

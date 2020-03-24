@@ -1,0 +1,5 @@
+smoking(0.047)
+tapping(0.042)
+talking(0.037)
+snowing(0.036)
+drinking(0.033)

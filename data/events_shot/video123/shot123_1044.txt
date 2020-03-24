@@ -1,0 +1,5 @@
+adult+female+speaking(0.100)
+sneezing(0.081)
+coughing(0.053)
+talking(0.032)
+squinting(0.031)

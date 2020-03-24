@@ -1,0 +1,5 @@
+walking(0.069)
+guarding(0.066)
+running(0.037)
+bicycling(0.035)
+stealing(0.035)

@@ -1,0 +1,5 @@
+talking(0.058)
+discussing(0.039)
+imitating(0.027)
+coughing(0.026)
+sneezing(0.025)

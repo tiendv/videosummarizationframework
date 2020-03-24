@@ -1,0 +1,5 @@
+bicycling(0.096)
+queuing(0.048)
+asking(0.026)
+skating(0.022)
+riding(0.022)

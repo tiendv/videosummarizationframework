@@ -1,0 +1,5 @@
+adult+male+speaking(0.061)
+talking(0.050)
+cooking(0.046)
+shrugging(0.035)
+standing(0.026)

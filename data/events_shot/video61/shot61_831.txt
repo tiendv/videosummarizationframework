@@ -1,0 +1,5 @@
+tattooing(0.128)
+taping(0.106)
+painting(0.091)
+repairing(0.085)
+shaving(0.040)

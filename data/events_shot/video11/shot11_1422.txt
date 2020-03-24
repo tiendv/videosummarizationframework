@@ -1,0 +1,5 @@
+hanging(0.164)
+running(0.044)
+roaring(0.040)
+fighting(0.036)
+swinging(0.026)

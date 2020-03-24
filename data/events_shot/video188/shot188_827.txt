@@ -1,5 +1,0 @@
-walking(0.081)
-carrying(0.034)
-slapping(0.023)
-filming(0.023)
-sneezing(0.021)

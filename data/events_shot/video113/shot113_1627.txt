@@ -1,0 +1,5 @@
+packing(0.526)
+unpacking(0.204)
+stomping(0.061)
+inflating(0.058)
+vacuuming(0.037)

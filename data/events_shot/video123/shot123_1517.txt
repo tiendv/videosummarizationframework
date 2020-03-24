@@ -1,0 +1,5 @@
+cooking(0.050)
+drying(0.046)
+standing(0.046)
+serving(0.033)
+talking(0.025)

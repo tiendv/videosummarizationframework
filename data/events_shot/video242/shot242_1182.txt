@@ -1,5 +1,0 @@
-walking(0.087)
-slapping(0.061)
-standing(0.059)
-asking(0.037)
-filming(0.032)

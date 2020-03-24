@@ -1,0 +1,5 @@
+celebrating(0.154)
+fighting(0.148)
+protesting(0.031)
+hugging(0.026)
+attacking(0.023)

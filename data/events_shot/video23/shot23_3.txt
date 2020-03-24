@@ -1,0 +1,5 @@
+diving(0.075)
+flying(0.050)
+hiking(0.044)
+sowing(0.033)
+weeding(0.027)

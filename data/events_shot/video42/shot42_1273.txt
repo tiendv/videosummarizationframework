@@ -1,0 +1,5 @@
+driving(0.108)
+raining(0.081)
+walking(0.056)
+flooding(0.054)
+storming(0.054)

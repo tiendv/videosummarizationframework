@@ -1,5 +1,0 @@
-spraying(0.246)
-painting(0.165)
-building(0.047)
-drying(0.035)
-fencing(0.028)

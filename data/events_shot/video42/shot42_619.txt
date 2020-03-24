@@ -1,0 +1,5 @@
+discussing(0.048)
+painting(0.043)
+talking(0.035)
+adult+male+speaking(0.032)
+sitting(0.023)

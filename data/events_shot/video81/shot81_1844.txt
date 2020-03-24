@@ -1,0 +1,5 @@
+closing(0.220)
+opening(0.160)
+stacking(0.085)
+sliding(0.026)
+entering(0.019)

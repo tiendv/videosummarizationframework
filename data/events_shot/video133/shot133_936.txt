@@ -1,0 +1,5 @@
+snowing(0.286)
+drawing(0.019)
+applauding(0.018)
+steering(0.017)
+skiing(0.017)

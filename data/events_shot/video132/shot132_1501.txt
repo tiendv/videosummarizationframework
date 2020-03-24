@@ -1,0 +1,5 @@
+opening(0.191)
+closing(0.146)
+hugging(0.030)
+smiling(0.022)
+standing(0.018)

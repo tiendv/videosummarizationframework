@@ -1,0 +1,5 @@
+walking(0.227)
+talking(0.061)
+standing(0.040)
+carrying(0.032)
+crying(0.028)

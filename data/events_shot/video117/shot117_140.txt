@@ -1,5 +1,0 @@
-adult+male+speaking(0.043)
-playing+videogames(0.039)
-attacking(0.039)
-fighting(0.032)
-aiming(0.027)

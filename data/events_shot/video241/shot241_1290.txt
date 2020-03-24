@@ -1,5 +1,0 @@
-fueling(0.109)
-towing(0.072)
-driving(0.040)
-exiting(0.031)
-stopping(0.026)

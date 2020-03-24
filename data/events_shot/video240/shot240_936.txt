@@ -1,5 +1,0 @@
-wrapping(0.100)
-cooking(0.051)
-folding(0.043)
-serving(0.043)
-slicing(0.036)

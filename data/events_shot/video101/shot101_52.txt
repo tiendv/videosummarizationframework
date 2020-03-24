@@ -1,0 +1,5 @@
+running(0.256)
+jogging(0.188)
+walking(0.080)
+arresting(0.057)
+hugging(0.024)

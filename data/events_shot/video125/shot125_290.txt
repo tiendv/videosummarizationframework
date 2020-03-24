@@ -1,5 +1,0 @@
-dining(0.093)
-marrying(0.061)
-sitting(0.030)
-smiling(0.030)
-officiating(0.028)

@@ -1,0 +1,5 @@
+cooking(0.063)
+adult+female+speaking(0.039)
+stitching(0.034)
+laughing(0.032)
+sneezing(0.029)

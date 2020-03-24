@@ -1,0 +1,5 @@
+cooking(0.032)
+drinking(0.029)
+discussing(0.028)
+sniffing(0.025)
+adult+male+speaking(0.024)

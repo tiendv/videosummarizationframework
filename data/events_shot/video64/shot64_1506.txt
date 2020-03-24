@@ -1,0 +1,5 @@
+adult+female+speaking(0.033)
+talking(0.028)
+walking(0.024)
+coughing(0.024)
+adult+male+speaking(0.023)

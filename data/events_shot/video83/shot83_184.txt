@@ -1,0 +1,5 @@
+stacking(0.228)
+drinking(0.062)
+standing(0.017)
+selling(0.013)
+adult+female+singing(0.011)

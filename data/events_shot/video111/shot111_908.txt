@@ -1,0 +1,5 @@
+brushing(0.115)
+adult+female+speaking(0.087)
+drying(0.080)
+sneezing(0.056)
+talking(0.037)

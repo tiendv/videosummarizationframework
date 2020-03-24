@@ -1,0 +1,5 @@
+adult+female+speaking(0.160)
+hugging(0.119)
+asking(0.093)
+adult+male+speaking(0.059)
+handcuffing(0.049)

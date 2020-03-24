@@ -1,0 +1,5 @@
+aiming(0.145)
+measuring(0.045)
+starting(0.030)
+snowing(0.030)
+putting(0.025)

@@ -1,0 +1,5 @@
+slapping(0.149)
+painting(0.127)
+blocking(0.029)
+building(0.024)
+throwing(0.023)

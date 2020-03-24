@@ -1,0 +1,5 @@
+laughing(0.069)
+sneezing(0.050)
+shaving(0.050)
+adult+male+speaking(0.036)
+drinking(0.028)

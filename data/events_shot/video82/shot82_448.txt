@@ -1,0 +1,5 @@
+aiming(0.128)
+guarding(0.097)
+filming(0.059)
+saluting(0.048)
+pointing(0.043)

@@ -1,0 +1,5 @@
+stomping(0.090)
+fencing(0.030)
+standing(0.027)
+squatting(0.024)
+adult+male+speaking(0.018)

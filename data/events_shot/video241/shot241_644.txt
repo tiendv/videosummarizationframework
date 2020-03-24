@@ -1,5 +1,0 @@
-punching(0.070)
-squatting(0.043)
-boxing(0.038)
-lifting(0.025)
-hugging(0.023)

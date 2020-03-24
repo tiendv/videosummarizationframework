@@ -1,5 +1,0 @@
-drilling(0.139)
-sawing(0.084)
-working(0.047)
-welding(0.043)
-destroying(0.026)

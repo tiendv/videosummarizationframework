@@ -1,0 +1,5 @@
+planting(0.209)
+gardening(0.136)
+sowing(0.054)
+preaching(0.025)
+dining(0.017)

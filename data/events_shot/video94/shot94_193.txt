@@ -1,0 +1,5 @@
+adult+female+speaking(0.044)
+sneezing(0.034)
+massaging(0.032)
+handcuffing(0.031)
+child+speaking(0.031)

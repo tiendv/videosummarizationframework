@@ -1,0 +1,5 @@
+painting(0.056)
+slapping(0.043)
+adult+male+speaking(0.025)
+clapping(0.021)
+fighting(0.016)

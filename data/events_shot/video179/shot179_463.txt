@@ -1,5 +1,0 @@
-telephoning(0.707)
-calling(0.283)
-waking(0.001)
-leaning(0.001)
-frowning(0.001)

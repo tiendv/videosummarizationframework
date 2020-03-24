@@ -1,0 +1,5 @@
+fishing(0.251)
+diving(0.057)
+hunting(0.045)
+snapping(0.042)
+stirring(0.031)

@@ -1,0 +1,5 @@
+telephoning(0.064)
+adult+female+speaking(0.028)
+calling(0.026)
+coughing(0.026)
+cooking(0.022)

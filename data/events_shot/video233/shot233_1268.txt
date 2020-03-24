@@ -1,5 +1,0 @@
-queuing(0.069)
-officiating(0.065)
-adult+female+speaking(0.060)
-discussing(0.046)
-standing(0.045)

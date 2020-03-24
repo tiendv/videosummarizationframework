@@ -1,0 +1,5 @@
+praying(0.096)
+reading(0.071)
+crying(0.042)
+bowing(0.041)
+studying(0.037)

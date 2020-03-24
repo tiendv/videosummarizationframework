@@ -1,5 +1,0 @@
-rowing(0.289)
-boating(0.134)
-jogging(0.078)
-running(0.047)
-sprinting(0.039)

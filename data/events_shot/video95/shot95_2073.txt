@@ -1,0 +1,5 @@
+squatting(0.497)
+lifting(0.047)
+adult+female+speaking(0.035)
+exercising(0.024)
+shrugging(0.022)

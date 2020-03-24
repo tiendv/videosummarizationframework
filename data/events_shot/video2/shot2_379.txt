@@ -1,0 +1,5 @@
+adult+female+speaking(0.049)
+drying(0.032)
+dressing(0.026)
+shopping(0.024)
+standing(0.024)

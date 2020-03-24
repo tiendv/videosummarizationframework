@@ -1,0 +1,5 @@
+knocking(0.070)
+walking(0.066)
+standing(0.052)
+entering(0.043)
+singing(0.042)

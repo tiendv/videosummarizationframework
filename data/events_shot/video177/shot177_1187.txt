@@ -1,5 +1,0 @@
-running(0.049)
-stealing(0.031)
-chasing(0.017)
-plunging(0.017)
-walking(0.016)

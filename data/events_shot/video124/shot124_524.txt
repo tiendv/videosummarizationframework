@@ -1,0 +1,5 @@
+slapping(0.055)
+adult+male+speaking(0.035)
+frowning(0.022)
+standing(0.021)
+flicking(0.017)

@@ -1,0 +1,5 @@
+sitting(0.104)
+adult+female+speaking(0.090)
+smoking(0.075)
+sneezing(0.073)
+interviewing(0.052)

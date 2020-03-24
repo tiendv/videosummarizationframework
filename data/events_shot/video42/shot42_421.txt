@@ -1,0 +1,5 @@
+tying(0.135)
+handcuffing(0.123)
+taping(0.098)
+twisting(0.040)
+locking(0.027)

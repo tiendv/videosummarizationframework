@@ -1,0 +1,5 @@
+hanging(0.914)
+spinning(0.050)
+swinging(0.008)
+turning(0.004)
+floating(0.001)

@@ -1,0 +1,5 @@
+asking(0.049)
+hugging(0.045)
+dancing(0.031)
+skipping(0.030)
+adult+male+speaking(0.027)

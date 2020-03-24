@@ -1,5 +1,0 @@
-walking(0.089)
-standing(0.052)
-queuing(0.040)
-protesting(0.032)
-filming(0.024)

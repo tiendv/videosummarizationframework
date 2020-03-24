@@ -1,5 +1,0 @@
-rinsing(0.204)
-washing(0.155)
-drying(0.056)
-cleaning(0.041)
-playing+videogames(0.030)

@@ -1,0 +1,5 @@
+adult+female+singing(0.067)
+walking(0.062)
+knocking(0.059)
+coughing(0.053)
+adult+female+speaking(0.030)

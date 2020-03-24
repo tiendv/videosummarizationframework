@@ -1,0 +1,5 @@
+dining(0.095)
+painting(0.075)
+brushing(0.065)
+laughing(0.036)
+carving(0.034)

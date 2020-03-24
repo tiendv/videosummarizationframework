@@ -1,5 +1,0 @@
-bowling(0.102)
-aiming(0.047)
-adult+male+singing(0.043)
-swinging(0.042)
-adult+female+singing(0.031)

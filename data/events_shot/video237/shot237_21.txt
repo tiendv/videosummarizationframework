@@ -1,5 +1,0 @@
-frowning(0.102)
-brushing(0.062)
-walking(0.035)
-scratching(0.034)
-rubbing(0.029)

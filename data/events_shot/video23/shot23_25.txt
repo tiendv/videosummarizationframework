@@ -1,0 +1,5 @@
+combing(0.211)
+drying(0.183)
+brushing(0.145)
+frowning(0.029)
+clipping(0.026)

@@ -1,0 +1,5 @@
+shopping(0.187)
+asking(0.121)
+walking(0.106)
+hugging(0.099)
+queuing(0.055)

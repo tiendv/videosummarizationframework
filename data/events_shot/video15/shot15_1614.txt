@@ -1,5 +1,0 @@
-eating(0.041)
-drinking(0.041)
-adult+male+speaking(0.037)
-sneezing(0.032)
-clipping(0.027)

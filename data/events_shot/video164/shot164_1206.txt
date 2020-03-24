@@ -1,5 +1,0 @@
-burying(0.068)
-draining(0.052)
-gardening(0.034)
-measuring(0.029)
-weeding(0.025)

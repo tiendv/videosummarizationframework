@@ -1,0 +1,5 @@
+adult+male+speaking(0.098)
+lecturing(0.088)
+telephoning(0.050)
+discussing(0.039)
+calling(0.032)

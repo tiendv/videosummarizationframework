@@ -1,0 +1,5 @@
+opening(0.211)
+closing(0.088)
+handcuffing(0.044)
+taping(0.031)
+adult+male+speaking(0.027)

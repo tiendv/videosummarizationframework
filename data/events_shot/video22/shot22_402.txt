@@ -1,0 +1,5 @@
+bowling(0.975)
+inflating(0.012)
+juggling(0.005)
+bowing(0.001)
+bouncing(0.000)

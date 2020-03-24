@@ -1,5 +1,0 @@
-drinking(0.043)
-sneezing(0.042)
-slapping(0.040)
-cooking(0.037)
-baking(0.031)

@@ -1,5 +1,0 @@
-climbing(0.115)
-hanging(0.045)
-clawing(0.036)
-sitting(0.033)
-rafting(0.025)

@@ -1,0 +1,5 @@
+giving(0.030)
+pointing(0.030)
+adult+female+speaking(0.028)
+selling(0.025)
+teaching(0.024)

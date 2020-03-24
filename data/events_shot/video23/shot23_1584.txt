@@ -1,0 +1,5 @@
+telephoning(0.225)
+writing(0.078)
+studying(0.049)
+calling(0.043)
+sneezing(0.029)

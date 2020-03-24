@@ -1,0 +1,5 @@
+guarding(0.122)
+walking(0.095)
+feeding(0.047)
+waving(0.043)
+cleaning(0.032)

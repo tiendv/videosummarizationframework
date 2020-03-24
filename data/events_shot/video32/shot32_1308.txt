@@ -1,0 +1,5 @@
+reading(0.202)
+asking(0.188)
+adult+female+speaking(0.039)
+paying(0.033)
+sniffing(0.030)

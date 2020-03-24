@@ -1,0 +1,5 @@
+eating(0.052)
+discussing(0.051)
+socializing(0.045)
+asking(0.043)
+gardening(0.039)

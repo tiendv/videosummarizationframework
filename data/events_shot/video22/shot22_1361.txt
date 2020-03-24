@@ -1,0 +1,5 @@
+talking(0.073)
+discussing(0.035)
+sniffing(0.035)
+walking(0.032)
+standing(0.029)

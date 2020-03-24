@@ -1,0 +1,5 @@
+yawning(0.110)
+adult+female+singing(0.097)
+squinting(0.049)
+stretching(0.045)
+adult+male+singing(0.042)

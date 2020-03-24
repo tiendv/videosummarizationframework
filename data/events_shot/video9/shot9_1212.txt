@@ -1,5 +1,0 @@
-opening(0.168)
-closing(0.100)
-painting(0.074)
-throwing(0.053)
-dusting(0.039)

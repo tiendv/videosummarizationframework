@@ -1,0 +1,5 @@
+crying(0.158)
+adult+male+speaking(0.095)
+spitting(0.081)
+frowning(0.060)
+coughing(0.036)

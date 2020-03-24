@@ -1,0 +1,5 @@
+sliding(0.041)
+walking(0.041)
+opening(0.028)
+closing(0.028)
+telephoning(0.028)

@@ -1,5 +1,0 @@
-sneezing(0.062)
-camping(0.061)
-adult+male+speaking(0.044)
-coughing(0.035)
-talking(0.033)

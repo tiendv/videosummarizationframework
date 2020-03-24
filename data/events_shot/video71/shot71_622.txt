@@ -1,0 +1,5 @@
+slapping(0.100)
+smelling(0.088)
+asking(0.055)
+raining(0.048)
+storming(0.032)

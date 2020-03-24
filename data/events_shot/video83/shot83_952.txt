@@ -1,0 +1,5 @@
+guarding(0.104)
+boating(0.102)
+sitting(0.043)
+flooding(0.039)
+riding(0.037)

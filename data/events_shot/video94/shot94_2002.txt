@@ -1,0 +1,5 @@
+cleaning(0.172)
+scrubbing(0.101)
+washing(0.077)
+mopping(0.069)
+sneezing(0.065)

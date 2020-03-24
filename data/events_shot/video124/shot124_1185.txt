@@ -1,0 +1,5 @@
+sitting(0.126)
+telephoning(0.034)
+walking(0.028)
+leaning(0.027)
+sleeping(0.022)

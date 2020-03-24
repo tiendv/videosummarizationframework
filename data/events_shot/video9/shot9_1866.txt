@@ -1,5 +1,0 @@
-hugging(0.221)
-pointing(0.045)
-asking(0.040)
-exiting(0.037)
-interviewing(0.029)

@@ -1,0 +1,5 @@
+spinning(0.093)
+filming(0.091)
+aiming(0.071)
+steering(0.044)
+turning(0.032)

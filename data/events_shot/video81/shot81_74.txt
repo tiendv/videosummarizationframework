@@ -1,0 +1,5 @@
+drinking(0.252)
+boxing(0.027)
+punching(0.018)
+competing(0.016)
+playing+sports(0.013)

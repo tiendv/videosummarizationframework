@@ -1,0 +1,5 @@
+adult+male+singing(0.027)
+driving(0.027)
+adult+male+speaking(0.024)
+walking(0.022)
+shooting(0.022)

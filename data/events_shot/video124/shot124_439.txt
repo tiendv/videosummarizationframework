@@ -1,0 +1,5 @@
+hammering(0.052)
+pressing(0.040)
+sawing(0.029)
+climbing(0.029)
+cracking(0.021)

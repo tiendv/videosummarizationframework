@@ -1,5 +1,0 @@
-drinking(0.045)
-fighting(0.042)
-adult+female+singing(0.039)
-smashing(0.039)
-attacking(0.037)

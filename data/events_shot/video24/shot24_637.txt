@@ -1,0 +1,5 @@
+stealing(0.045)
+exiting(0.040)
+walking(0.036)
+arresting(0.035)
+playing+videogames(0.032)

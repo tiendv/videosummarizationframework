@@ -1,0 +1,5 @@
+reading(0.274)
+typing(0.143)
+writing(0.084)
+paying(0.073)
+handwriting(0.058)

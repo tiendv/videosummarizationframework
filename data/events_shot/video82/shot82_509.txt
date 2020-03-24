@@ -1,0 +1,5 @@
+adult+male+speaking(0.050)
+stacking(0.032)
+selling(0.029)
+discussing(0.029)
+teaching(0.025)

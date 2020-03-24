@@ -1,0 +1,5 @@
+wetting(0.111)
+swimming(0.068)
+diving(0.058)
+tapping(0.040)
+submerging(0.038)

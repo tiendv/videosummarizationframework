@@ -1,0 +1,5 @@
+stretching(0.126)
+vacuuming(0.086)
+kneeling(0.069)
+sliding(0.063)
+dusting(0.059)

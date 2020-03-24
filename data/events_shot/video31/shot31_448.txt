@@ -1,0 +1,5 @@
+lecturing(0.196)
+discussing(0.141)
+preaching(0.128)
+adult+male+speaking(0.108)
+officiating(0.070)

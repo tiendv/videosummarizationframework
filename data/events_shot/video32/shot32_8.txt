@@ -1,0 +1,5 @@
+fishing(0.058)
+climbing(0.054)
+rising(0.034)
+roaring(0.031)
+hunting(0.025)

@@ -1,0 +1,5 @@
+drinking(0.356)
+dining(0.059)
+celebrating(0.040)
+hugging(0.028)
+filming(0.026)

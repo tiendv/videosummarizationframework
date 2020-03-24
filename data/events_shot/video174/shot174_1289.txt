@@ -1,5 +1,0 @@
-walking(0.212)
-sneezing(0.085)
-running(0.027)
-playing+videogames(0.027)
-talking(0.027)

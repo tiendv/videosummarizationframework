@@ -1,0 +1,5 @@
+coughing(0.077)
+blowing(0.068)
+sneezing(0.052)
+sniffing(0.050)
+inflating(0.043)

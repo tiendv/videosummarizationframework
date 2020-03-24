@@ -1,0 +1,5 @@
+baking(0.192)
+cooking(0.186)
+stirring(0.061)
+opening(0.021)
+wrapping(0.021)

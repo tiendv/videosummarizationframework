@@ -1,0 +1,5 @@
+smiling(0.219)
+turning(0.082)
+winking(0.068)
+filming(0.060)
+walking(0.057)

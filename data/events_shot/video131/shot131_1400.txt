@@ -1,0 +1,5 @@
+howling(0.054)
+cuddling(0.054)
+barking(0.036)
+snuggling(0.035)
+whistling(0.034)

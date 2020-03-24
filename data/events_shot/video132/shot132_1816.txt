@@ -1,0 +1,5 @@
+dropping(0.087)
+shaking(0.069)
+watering(0.063)
+flowing(0.057)
+digging(0.037)

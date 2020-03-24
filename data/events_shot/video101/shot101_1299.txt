@@ -1,0 +1,5 @@
+driving(0.132)
+walking(0.122)
+riding(0.078)
+towing(0.035)
+queuing(0.034)

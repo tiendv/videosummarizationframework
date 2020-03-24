@@ -1,0 +1,5 @@
+hunting(0.215)
+attacking(0.090)
+fishing(0.068)
+snapping(0.054)
+burying(0.041)

@@ -1,5 +1,0 @@
-climbing(0.885)
-painting(0.024)
-hanging(0.008)
-gripping(0.004)
-reaching(0.003)

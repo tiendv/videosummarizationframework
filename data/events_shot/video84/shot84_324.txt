@@ -1,0 +1,5 @@
+punching(0.033)
+slapping(0.029)
+adult+male+singing(0.028)
+performing(0.028)
+pointing(0.027)

@@ -1,0 +1,5 @@
+hanging(0.286)
+guarding(0.220)
+arresting(0.049)
+attacking(0.021)
+adult+male+speaking(0.020)

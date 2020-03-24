@@ -1,5 +1,0 @@
-handcuffing(0.605)
-arresting(0.170)
-locking(0.018)
-cleaning(0.016)
-cracking(0.015)

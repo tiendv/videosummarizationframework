@@ -1,0 +1,5 @@
+cuddling(0.304)
+hugging(0.144)
+tattooing(0.056)
+adult+male+speaking(0.039)
+snuggling(0.034)

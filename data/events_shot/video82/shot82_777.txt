@@ -1,0 +1,5 @@
+hugging(0.080)
+queuing(0.040)
+fighting(0.039)
+arresting(0.026)
+baptizing(0.021)

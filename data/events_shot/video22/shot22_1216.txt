@@ -1,0 +1,5 @@
+bicycling(0.085)
+pushing(0.085)
+riding(0.084)
+sitting(0.072)
+walking(0.052)

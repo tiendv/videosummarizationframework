@@ -1,0 +1,5 @@
+sitting(0.085)
+laughing(0.081)
+camping(0.078)
+playing+videogames(0.053)
+tickling(0.036)

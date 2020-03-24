@@ -1,0 +1,5 @@
+officiating(0.108)
+asking(0.082)
+adult+male+speaking(0.064)
+standing(0.052)
+kneeling(0.042)

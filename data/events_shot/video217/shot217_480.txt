@@ -1,5 +1,0 @@
-adult+male+speaking(0.048)
-walking(0.046)
-adult+female+singing(0.031)
-hitchhiking(0.031)
-adult+female+speaking(0.030)

@@ -1,0 +1,5 @@
+adult+female+singing(0.314)
+adult+female+speaking(0.234)
+talking(0.024)
+putting(0.022)
+knocking(0.016)

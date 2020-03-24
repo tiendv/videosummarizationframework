@@ -1,5 +1,0 @@
-hanging(0.778)
-locking(0.034)
-opening(0.032)
-closing(0.022)
-fencing(0.014)

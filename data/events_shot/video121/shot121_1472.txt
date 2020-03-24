@@ -1,0 +1,5 @@
+crying(0.380)
+kissing(0.071)
+frowning(0.038)
+chewing(0.033)
+adult+female+speaking(0.032)

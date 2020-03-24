@@ -1,0 +1,5 @@
+reading(0.527)
+studying(0.032)
+sitting(0.030)
+writing(0.025)
+discussing(0.024)

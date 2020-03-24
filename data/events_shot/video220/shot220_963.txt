@@ -1,5 +1,0 @@
-adult+female+singing(0.353)
-adult+female+speaking(0.254)
-drying(0.020)
-filming(0.017)
-child+singing(0.016)

@@ -1,0 +1,5 @@
+marrying(0.100)
+adult+female+speaking(0.093)
+discussing(0.085)
+adult+female+singing(0.047)
+kissing(0.047)

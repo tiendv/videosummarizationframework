@@ -1,0 +1,5 @@
+slapping(0.054)
+smiling(0.039)
+discussing(0.035)
+shaking(0.030)
+exiting(0.029)

@@ -1,0 +1,5 @@
+shopping(0.089)
+stealing(0.075)
+talking(0.056)
+adult+female+speaking(0.056)
+walking(0.040)

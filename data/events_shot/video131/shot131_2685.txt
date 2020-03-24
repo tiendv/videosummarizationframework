@@ -1,0 +1,5 @@
+starting(0.156)
+bicycling(0.035)
+emptying(0.025)
+pouring(0.024)
+filling(0.018)

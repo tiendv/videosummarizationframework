@@ -1,0 +1,5 @@
+tapping(0.114)
+adult+female+speaking(0.085)
+sitting(0.052)
+discussing(0.037)
+peeling(0.035)

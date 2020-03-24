@@ -1,5 +1,0 @@
-walking(0.116)
-queuing(0.069)
-filming(0.048)
-sneezing(0.037)
-arresting(0.033)

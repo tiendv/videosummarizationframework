@@ -1,0 +1,5 @@
+adult+male+speaking(0.049)
+knocking(0.048)
+frowning(0.044)
+talking(0.042)
+fighting(0.032)

@@ -1,0 +1,5 @@
+driving(0.050)
+piloting(0.043)
+gambling(0.035)
+tuning(0.033)
+locking(0.024)

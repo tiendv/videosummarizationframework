@@ -1,0 +1,5 @@
+piloting(0.055)
+steering(0.049)
+pointing(0.047)
+coughing(0.041)
+aiming(0.036)

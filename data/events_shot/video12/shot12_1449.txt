@@ -1,0 +1,5 @@
+inflating(0.131)
+coughing(0.097)
+telephoning(0.072)
+calling(0.060)
+handcuffing(0.051)

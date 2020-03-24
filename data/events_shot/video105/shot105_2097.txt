@@ -1,0 +1,5 @@
+hanging(0.230)
+dancing(0.053)
+spinning(0.044)
+swinging(0.034)
+sitting(0.018)

@@ -1,0 +1,5 @@
+child+speaking(0.067)
+child+singing(0.066)
+asking(0.063)
+adult+female+speaking(0.048)
+standing(0.043)

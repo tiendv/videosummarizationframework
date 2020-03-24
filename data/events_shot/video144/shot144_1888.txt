@@ -1,5 +1,0 @@
-driving(0.202)
-crashing(0.098)
-swerving(0.070)
-colliding(0.050)
-racing(0.043)

@@ -1,0 +1,5 @@
+lecturing(0.176)
+adult+female+speaking(0.164)
+talking(0.096)
+discussing(0.068)
+teaching(0.054)

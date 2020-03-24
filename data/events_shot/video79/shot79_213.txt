@@ -1,5 +1,0 @@
-mopping(0.198)
-cleaning(0.099)
-dusting(0.040)
-scrubbing(0.034)
-entering(0.030)

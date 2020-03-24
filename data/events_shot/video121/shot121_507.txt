@@ -1,0 +1,5 @@
+crying(0.239)
+frowning(0.073)
+coughing(0.036)
+opening(0.035)
+closing(0.034)

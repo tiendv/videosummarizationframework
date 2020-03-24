@@ -1,0 +1,5 @@
+asking(0.141)
+stomping(0.088)
+adult+male+speaking(0.072)
+standing(0.048)
+walking(0.045)

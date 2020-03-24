@@ -1,5 +1,0 @@
-stomping(0.092)
-fencing(0.073)
-walking(0.059)
-stealing(0.052)
-exiting(0.023)

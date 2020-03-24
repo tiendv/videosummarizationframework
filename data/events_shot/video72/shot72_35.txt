@@ -1,0 +1,5 @@
+crying(0.118)
+frowning(0.039)
+waking(0.026)
+playing+videogames(0.023)
+carrying(0.022)

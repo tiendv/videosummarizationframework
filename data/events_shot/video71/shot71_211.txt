@@ -1,0 +1,5 @@
+packing(0.183)
+unpacking(0.114)
+folding(0.107)
+tying(0.087)
+dressing(0.049)

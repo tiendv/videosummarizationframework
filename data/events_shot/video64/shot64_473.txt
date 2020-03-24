@@ -1,5 +1,0 @@
-bowling(0.030)
-fighting(0.030)
-playing+videogames(0.030)
-standing(0.027)
-pulling(0.024)

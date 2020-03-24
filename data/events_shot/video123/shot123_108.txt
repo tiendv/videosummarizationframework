@@ -1,0 +1,5 @@
+lecturing(0.150)
+discussing(0.069)
+interviewing(0.066)
+adult+male+speaking(0.062)
+coughing(0.039)

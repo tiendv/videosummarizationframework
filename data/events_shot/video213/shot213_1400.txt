@@ -1,5 +1,0 @@
-sleeping(0.037)
-walking(0.032)
-pushing(0.027)
-carrying(0.020)
-adult+male+speaking(0.019)

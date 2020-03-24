@@ -1,0 +1,5 @@
+fencing(0.144)
+cooking(0.050)
+adult+male+speaking(0.029)
+standing(0.028)
+sitting(0.026)

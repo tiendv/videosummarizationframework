@@ -1,0 +1,5 @@
+bowing(0.048)
+cleaning(0.031)
+bending(0.030)
+adult+male+speaking(0.023)
+kneeling(0.021)

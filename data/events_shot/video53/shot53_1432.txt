@@ -1,0 +1,5 @@
+queuing(0.050)
+adult+male+speaking(0.046)
+talking(0.041)
+standing(0.035)
+pointing(0.027)

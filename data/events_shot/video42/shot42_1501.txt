@@ -1,0 +1,5 @@
+playing(0.392)
+tapping(0.098)
+adult+male+speaking(0.069)
+reading(0.038)
+talking(0.026)

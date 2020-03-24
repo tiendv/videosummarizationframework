@@ -1,0 +1,5 @@
+hugging(0.122)
+baptizing(0.114)
+preaching(0.086)
+adult+male+speaking(0.032)
+praying(0.026)

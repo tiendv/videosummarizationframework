@@ -1,0 +1,5 @@
+arresting(0.209)
+handcuffing(0.032)
+slapping(0.029)
+attacking(0.020)
+protesting(0.020)

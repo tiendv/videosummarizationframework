@@ -1,0 +1,5 @@
+asking(0.049)
+socializing(0.041)
+discussing(0.034)
+shopping(0.032)
+queuing(0.031)

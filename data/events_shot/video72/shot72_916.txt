@@ -1,0 +1,5 @@
+calling(0.434)
+telephoning(0.274)
+locking(0.011)
+whistling(0.011)
+tuning(0.010)

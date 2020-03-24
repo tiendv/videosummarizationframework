@@ -1,0 +1,5 @@
+vacuuming(0.185)
+mopping(0.096)
+dusting(0.049)
+cleaning(0.045)
+fighting(0.036)

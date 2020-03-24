@@ -1,0 +1,5 @@
+discussing(0.120)
+crying(0.112)
+talking(0.100)
+frowning(0.034)
+interviewing(0.029)

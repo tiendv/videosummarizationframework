@@ -1,0 +1,5 @@
+pointing(0.125)
+slapping(0.107)
+asking(0.063)
+smiling(0.056)
+adult+female+speaking(0.050)

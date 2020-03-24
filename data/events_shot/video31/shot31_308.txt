@@ -1,0 +1,5 @@
+shrugging(0.036)
+coughing(0.030)
+sneezing(0.028)
+crying(0.027)
+opening(0.020)

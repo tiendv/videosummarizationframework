@@ -1,5 +1,0 @@
-smoking(0.163)
-sneezing(0.067)
-adult+female+speaking(0.057)
-eating(0.037)
-chewing(0.036)

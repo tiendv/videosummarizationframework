@@ -1,0 +1,5 @@
+cleaning(0.149)
+draining(0.082)
+leaking(0.075)
+dripping(0.057)
+drying(0.054)

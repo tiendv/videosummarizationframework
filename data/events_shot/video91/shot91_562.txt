@@ -1,0 +1,5 @@
+sneezing(0.263)
+tapping(0.066)
+chewing(0.065)
+adult+female+speaking(0.060)
+coughing(0.056)

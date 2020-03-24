@@ -1,0 +1,5 @@
+shopping(0.216)
+walking(0.190)
+stealing(0.033)
+running(0.021)
+talking(0.018)

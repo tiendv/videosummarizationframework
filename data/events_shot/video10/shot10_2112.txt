@@ -1,5 +1,0 @@
-cooking(0.126)
-painting(0.080)
-cleaning(0.076)
-baking(0.061)
-removing(0.045)

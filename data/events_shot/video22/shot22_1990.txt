@@ -1,0 +1,5 @@
+adult+male+singing(0.132)
+standing(0.089)
+hitchhiking(0.066)
+walking(0.062)
+squinting(0.043)

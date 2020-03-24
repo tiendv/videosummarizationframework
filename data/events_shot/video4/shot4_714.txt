@@ -1,0 +1,5 @@
+drinking(0.192)
+smoking(0.052)
+coughing(0.034)
+sneezing(0.032)
+tattooing(0.022)

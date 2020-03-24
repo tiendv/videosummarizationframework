@@ -1,5 +1,0 @@
-waking(0.177)
-sleeping(0.089)
-resting(0.042)
-knocking(0.032)
-tattooing(0.029)

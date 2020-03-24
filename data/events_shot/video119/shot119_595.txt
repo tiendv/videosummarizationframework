@@ -1,5 +1,0 @@
-calling(0.185)
-telephoning(0.174)
-adult+male+singing(0.067)
-adult+male+speaking(0.041)
-roaring(0.022)

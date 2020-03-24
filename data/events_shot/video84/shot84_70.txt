@@ -1,0 +1,5 @@
+handcuffing(0.053)
+slapping(0.052)
+standing(0.050)
+adult+male+speaking(0.049)
+discussing(0.043)

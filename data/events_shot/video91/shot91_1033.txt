@@ -1,0 +1,5 @@
+squatting(0.231)
+lifting(0.054)
+gripping(0.038)
+shrugging(0.031)
+bending(0.029)

@@ -1,0 +1,5 @@
+driving(0.320)
+riding(0.168)
+steering(0.063)
+fueling(0.035)
+towing(0.025)

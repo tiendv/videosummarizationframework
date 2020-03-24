@@ -1,0 +1,5 @@
+standing(0.116)
+dressing(0.041)
+talking(0.040)
+marrying(0.038)
+sitting(0.032)

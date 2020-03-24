@@ -1,0 +1,5 @@
+adult+male+speaking(0.149)
+discussing(0.059)
+sneezing(0.044)
+drinking(0.034)
+tattooing(0.033)

@@ -1,0 +1,5 @@
+sleeping(0.299)
+resting(0.135)
+waking(0.118)
+sitting(0.035)
+massaging(0.030)

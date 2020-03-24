@@ -1,0 +1,5 @@
+crying(0.085)
+attacking(0.075)
+shooting(0.065)
+fighting(0.064)
+punching(0.037)

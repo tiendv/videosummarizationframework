@@ -1,5 +1,0 @@
-sitting(0.066)
-praying(0.038)
-squatting(0.034)
-adult+female+speaking(0.033)
-sneezing(0.027)

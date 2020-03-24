@@ -1,0 +1,5 @@
+adult+male+singing(0.059)
+pointing(0.044)
+imitating(0.038)
+stacking(0.032)
+adult+male+speaking(0.031)

@@ -1,0 +1,5 @@
+praying(0.130)
+sneezing(0.089)
+preaching(0.076)
+marrying(0.040)
+baptizing(0.034)

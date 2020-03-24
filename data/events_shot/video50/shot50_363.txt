@@ -1,5 +1,0 @@
-standing(0.040)
-shopping(0.034)
-unpacking(0.034)
-packing(0.027)
-child+speaking(0.022)

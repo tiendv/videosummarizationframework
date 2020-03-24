@@ -1,5 +1,0 @@
-slapping(0.090)
-queuing(0.039)
-walking(0.033)
-sneezing(0.033)
-filming(0.032)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.072)
-talking(0.044)
-imitating(0.038)
-standing(0.035)
-coughing(0.035)

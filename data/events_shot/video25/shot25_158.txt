@@ -1,5 +1,0 @@
-driving(0.201)
-adult+female+singing(0.040)
-steering(0.036)
-riding(0.028)
-adult+male+singing(0.026)

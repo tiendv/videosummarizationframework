@@ -1,5 +1,0 @@
-eating(0.142)
-cooking(0.108)
-talking(0.076)
-baking(0.075)
-child+speaking(0.061)

@@ -1,0 +1,5 @@
+slapping(0.234)
+guarding(0.044)
+standing(0.030)
+filming(0.026)
+asking(0.024)

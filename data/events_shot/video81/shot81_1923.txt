@@ -1,0 +1,5 @@
+boxing(0.131)
+punching(0.090)
+inflating(0.072)
+peeling(0.059)
+knocking(0.047)

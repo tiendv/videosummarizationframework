@@ -1,0 +1,5 @@
+laughing(0.098)
+sneezing(0.078)
+coughing(0.044)
+adult+male+speaking(0.028)
+stealing(0.015)

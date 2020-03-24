@@ -1,5 +1,0 @@
-standing(0.060)
-kicking(0.050)
-filming(0.033)
-sitting(0.033)
-adult+male+singing(0.026)

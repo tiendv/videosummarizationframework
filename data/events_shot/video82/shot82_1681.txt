@@ -1,0 +1,5 @@
+brushing(0.194)
+scratching(0.160)
+chewing(0.078)
+combing(0.039)
+rubbing(0.035)

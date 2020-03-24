@@ -1,0 +1,5 @@
+driving(0.354)
+steering(0.264)
+riding(0.112)
+sitting(0.061)
+gripping(0.018)

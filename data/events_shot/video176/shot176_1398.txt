@@ -1,5 +1,0 @@
-running(0.448)
-walking(0.096)
-shopping(0.070)
-protesting(0.017)
-selling(0.013)

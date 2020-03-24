@@ -1,0 +1,5 @@
+telephoning(0.108)
+sneezing(0.100)
+coughing(0.060)
+smoking(0.049)
+interviewing(0.036)

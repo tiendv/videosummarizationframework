@@ -1,5 +1,0 @@
-sitting(0.101)
-smiling(0.070)
-photographing(0.067)
-cuddling(0.039)
-dining(0.038)

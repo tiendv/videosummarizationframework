@@ -1,0 +1,5 @@
+waking(0.068)
+crying(0.048)
+knocking(0.037)
+adult+male+speaking(0.035)
+slapping(0.029)

@@ -1,5 +1,0 @@
-cooking(0.056)
-eating(0.038)
-adult+female+speaking(0.027)
-dining(0.026)
-smoking(0.026)

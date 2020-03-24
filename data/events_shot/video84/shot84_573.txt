@@ -1,0 +1,5 @@
+queuing(0.203)
+filming(0.048)
+walking(0.043)
+photographing(0.039)
+standing(0.025)

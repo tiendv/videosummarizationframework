@@ -1,0 +1,5 @@
+drinking(0.059)
+walking(0.055)
+filming(0.047)
+adult+male+speaking(0.035)
+fighting(0.035)

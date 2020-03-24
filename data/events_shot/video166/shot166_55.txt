@@ -1,5 +1,0 @@
-fencing(0.765)
-running(0.013)
-walking(0.012)
-turning(0.008)
-barking(0.007)

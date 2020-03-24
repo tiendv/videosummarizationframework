@@ -1,0 +1,5 @@
+drinking(0.108)
+eating(0.072)
+fighting(0.042)
+slapping(0.042)
+smelling(0.031)

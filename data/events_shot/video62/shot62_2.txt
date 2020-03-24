@@ -1,0 +1,5 @@
+running(0.148)
+marching(0.127)
+walking(0.115)
+racing(0.114)
+pulling(0.055)

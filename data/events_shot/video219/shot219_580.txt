@@ -1,5 +1,0 @@
-fencing(0.210)
-fighting(0.139)
-attacking(0.138)
-slapping(0.089)
-arresting(0.017)

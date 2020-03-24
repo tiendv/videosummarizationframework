@@ -1,0 +1,5 @@
+adult+male+singing(0.144)
+slapping(0.140)
+imitating(0.092)
+sneezing(0.044)
+asking(0.036)

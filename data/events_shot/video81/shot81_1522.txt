@@ -1,0 +1,5 @@
+knocking(0.112)
+adult+male+singing(0.033)
+adult+male+speaking(0.032)
+standing(0.030)
+fighting(0.028)

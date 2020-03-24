@@ -1,0 +1,5 @@
+adult+male+speaking(0.107)
+standing(0.091)
+queuing(0.050)
+starting(0.045)
+slapping(0.042)

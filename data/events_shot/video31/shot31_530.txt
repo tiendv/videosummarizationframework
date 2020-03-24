@@ -1,0 +1,5 @@
+knocking(0.085)
+adult+male+speaking(0.080)
+whistling(0.053)
+shaving(0.041)
+standing(0.031)

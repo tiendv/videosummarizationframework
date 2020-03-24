@@ -1,0 +1,5 @@
+cooking(0.116)
+drinking(0.070)
+baking(0.036)
+stirring(0.035)
+dipping(0.033)

@@ -1,5 +1,0 @@
-sleeping(0.059)
-smoking(0.042)
-crying(0.037)
-hugging(0.027)
-raining(0.024)

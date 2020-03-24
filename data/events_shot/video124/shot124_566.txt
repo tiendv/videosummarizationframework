@@ -1,0 +1,5 @@
+cooking(0.107)
+sneezing(0.080)
+baking(0.050)
+packing(0.022)
+coughing(0.021)

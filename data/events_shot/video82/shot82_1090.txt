@@ -1,0 +1,5 @@
+sitting(0.054)
+talking(0.051)
+discussing(0.028)
+tapping(0.022)
+standing(0.020)

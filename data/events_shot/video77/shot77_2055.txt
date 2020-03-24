@@ -1,5 +1,0 @@
-sanding(0.081)
-dusting(0.067)
-scrubbing(0.060)
-cleaning(0.040)
-taping(0.039)

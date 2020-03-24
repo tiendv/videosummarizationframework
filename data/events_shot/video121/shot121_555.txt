@@ -1,0 +1,5 @@
+cleaning(0.719)
+shopping(0.069)
+mopping(0.034)
+stealing(0.023)
+dusting(0.017)

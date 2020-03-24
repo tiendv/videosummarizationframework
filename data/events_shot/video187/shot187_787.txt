@@ -1,5 +1,0 @@
-fighting(0.077)
-attacking(0.032)
-driving(0.030)
-raining(0.028)
-adult+male+speaking(0.022)

@@ -1,5 +1,0 @@
-spinning(0.034)
-turning(0.033)
-falling(0.029)
-shrugging(0.026)
-adult+male+speaking(0.026)

@@ -1,0 +1,5 @@
+cooking(0.053)
+packing(0.052)
+baking(0.050)
+baptizing(0.029)
+dipping(0.024)

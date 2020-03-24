@@ -1,0 +1,5 @@
+dining(0.114)
+studying(0.103)
+reading(0.083)
+cramming(0.055)
+writing(0.045)

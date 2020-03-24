@@ -1,0 +1,5 @@
+walking(0.251)
+pushing(0.117)
+slapping(0.104)
+crying(0.029)
+knocking(0.029)

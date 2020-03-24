@@ -1,5 +1,0 @@
-adult+female+singing(0.336)
-adult+female+speaking(0.136)
-fighting(0.046)
-playing+videogames(0.032)
-slapping(0.029)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.065)
+hugging(0.037)
+cuddling(0.028)
+smiling(0.023)
+injecting(0.018)

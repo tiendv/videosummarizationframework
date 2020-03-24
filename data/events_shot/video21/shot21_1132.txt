@@ -1,0 +1,5 @@
+adult+male+speaking(0.060)
+smiling(0.058)
+filming(0.052)
+talking(0.046)
+photographing(0.044)

@@ -1,0 +1,5 @@
+splashing(0.095)
+diving(0.088)
+plunging(0.068)
+submerging(0.047)
+playing+videogames(0.045)

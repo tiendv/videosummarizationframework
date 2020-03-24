@@ -1,0 +1,5 @@
+boxing(0.115)
+coaching(0.054)
+punching(0.028)
+queuing(0.028)
+slapping(0.027)

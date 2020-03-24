@@ -1,5 +1,0 @@
-crafting(0.053)
-building(0.051)
-folding(0.047)
-hammering(0.038)
-constructing(0.027)

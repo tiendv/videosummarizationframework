@@ -1,0 +1,5 @@
+hunting(0.411)
+guarding(0.106)
+adult+male+speaking(0.058)
+discussing(0.055)
+standing(0.051)

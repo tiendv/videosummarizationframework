@@ -1,0 +1,5 @@
+playing(0.079)
+rising(0.055)
+snowing(0.040)
+adult+female+singing(0.034)
+ascending(0.030)

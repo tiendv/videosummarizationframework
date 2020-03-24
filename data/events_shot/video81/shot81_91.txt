@@ -1,0 +1,5 @@
+talking(0.080)
+adult+male+speaking(0.034)
+shrugging(0.027)
+standing(0.026)
+punching(0.025)

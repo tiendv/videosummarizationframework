@@ -1,0 +1,5 @@
+pointing(0.067)
+telephoning(0.062)
+calling(0.060)
+adult+male+speaking(0.038)
+hammering(0.031)

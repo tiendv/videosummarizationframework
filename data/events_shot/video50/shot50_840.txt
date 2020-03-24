@@ -1,5 +1,0 @@
-steering(0.505)
-driving(0.414)
-riding(0.037)
-starting(0.004)
-talking(0.002)

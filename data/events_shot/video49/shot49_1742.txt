@@ -1,5 +1,0 @@
-camping(0.122)
-hiking(0.040)
-asking(0.033)
-hitchhiking(0.033)
-driving(0.024)

@@ -1,5 +1,0 @@
-reading(0.096)
-cooking(0.068)
-adult+male+speaking(0.061)
-serving(0.037)
-playing+videogames(0.037)

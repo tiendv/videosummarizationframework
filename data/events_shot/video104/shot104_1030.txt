@@ -1,0 +1,5 @@
+baking(0.106)
+dining(0.098)
+cooking(0.045)
+sitting(0.043)
+turning(0.039)

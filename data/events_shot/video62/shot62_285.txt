@@ -1,0 +1,5 @@
+talking(0.074)
+cooking(0.063)
+baking(0.057)
+hugging(0.047)
+adult+female+speaking(0.043)

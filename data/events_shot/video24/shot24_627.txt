@@ -1,0 +1,5 @@
+steering(0.092)
+driving(0.068)
+clearing(0.053)
+bulldozing(0.035)
+riding(0.025)

@@ -1,0 +1,5 @@
+building(0.100)
+hanging(0.089)
+climbing(0.043)
+ascending(0.040)
+assembling(0.039)

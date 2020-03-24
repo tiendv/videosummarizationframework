@@ -1,5 +1,0 @@
-clapping(0.098)
-applauding(0.064)
-standing(0.036)
-discussing(0.026)
-lecturing(0.024)

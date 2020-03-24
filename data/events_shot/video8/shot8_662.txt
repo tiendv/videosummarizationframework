@@ -1,5 +1,0 @@
-shaving(0.047)
-dusting(0.043)
-adult+female+speaking(0.037)
-drying(0.037)
-cleaning(0.035)

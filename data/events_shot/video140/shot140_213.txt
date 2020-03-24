@@ -1,5 +1,0 @@
-hammering(0.121)
-digging(0.034)
-cracking(0.020)
-shoveling(0.019)
-burying(0.019)

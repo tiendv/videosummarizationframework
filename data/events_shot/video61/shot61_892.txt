@@ -1,0 +1,5 @@
+sneezing(0.128)
+coughing(0.115)
+removing(0.039)
+working(0.032)
+adult+female+speaking(0.027)

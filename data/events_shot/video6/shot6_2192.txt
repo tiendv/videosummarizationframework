@@ -1,5 +1,0 @@
-building(0.109)
-calling(0.068)
-telephoning(0.050)
-raining(0.038)
-welding(0.028)

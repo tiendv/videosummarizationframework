@@ -1,0 +1,5 @@
+sitting(0.153)
+carving(0.089)
+adult+male+speaking(0.078)
+laughing(0.046)
+drinking(0.044)

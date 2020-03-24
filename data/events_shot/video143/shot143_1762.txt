@@ -1,5 +1,0 @@
-stacking(0.030)
-preaching(0.024)
-loading(0.022)
-standing(0.020)
-walking(0.019)

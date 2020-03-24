@@ -1,0 +1,5 @@
+officiating(0.067)
+queuing(0.062)
+adult+male+speaking(0.060)
+standing(0.030)
+playing+sports(0.028)

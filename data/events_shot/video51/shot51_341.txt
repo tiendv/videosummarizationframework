@@ -1,0 +1,5 @@
+drinking(0.669)
+talking(0.012)
+adult+male+speaking(0.011)
+smelling(0.010)
+eating(0.009)

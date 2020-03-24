@@ -1,5 +1,0 @@
-walking(0.153)
-hitchhiking(0.053)
-stopping(0.028)
-arresting(0.024)
-filming(0.023)

@@ -1,5 +1,0 @@
-drying(0.100)
-dressing(0.066)
-hugging(0.058)
-adult+female+speaking(0.048)
-cooking(0.032)

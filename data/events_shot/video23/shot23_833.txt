@@ -1,0 +1,5 @@
+walking(0.043)
+crying(0.033)
+carrying(0.027)
+giving(0.024)
+opening(0.024)

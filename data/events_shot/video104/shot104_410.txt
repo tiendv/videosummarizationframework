@@ -1,0 +1,5 @@
+bowing(0.531)
+sneezing(0.112)
+walking(0.048)
+shrugging(0.027)
+stomping(0.023)

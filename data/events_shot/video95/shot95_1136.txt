@@ -1,0 +1,5 @@
+laughing(0.059)
+crying(0.049)
+adult+male+speaking(0.027)
+tying(0.023)
+sneezing(0.019)

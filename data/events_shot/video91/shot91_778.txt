@@ -1,0 +1,5 @@
+telephoning(0.616)
+calling(0.106)
+teaching(0.036)
+reading(0.024)
+child+speaking(0.015)

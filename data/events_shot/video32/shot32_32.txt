@@ -1,0 +1,5 @@
+loading(0.207)
+unloading(0.167)
+stacking(0.092)
+lifting(0.040)
+filming(0.027)

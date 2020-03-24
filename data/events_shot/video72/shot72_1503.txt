@@ -1,0 +1,5 @@
+dressing(0.101)
+marrying(0.094)
+tying(0.074)
+standing(0.060)
+officiating(0.030)

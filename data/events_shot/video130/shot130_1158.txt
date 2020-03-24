@@ -1,5 +1,0 @@
-fighting(0.033)
-aiming(0.032)
-filming(0.032)
-blocking(0.030)
-adult+female+speaking(0.024)

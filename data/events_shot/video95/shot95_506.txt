@@ -1,0 +1,5 @@
+sleeping(0.518)
+waking(0.227)
+resting(0.040)
+tattooing(0.038)
+cuddling(0.036)

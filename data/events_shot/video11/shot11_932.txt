@@ -1,0 +1,5 @@
+tying(0.790)
+knitting(0.135)
+dressing(0.013)
+stitching(0.006)
+buttoning(0.004)

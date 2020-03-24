@@ -1,0 +1,5 @@
+driving(0.257)
+slapping(0.106)
+steering(0.062)
+fighting(0.032)
+riding(0.029)

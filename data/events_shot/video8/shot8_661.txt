@@ -1,5 +1,0 @@
-shaving(0.248)
-scrubbing(0.139)
-washing(0.100)
-cleaning(0.097)
-spraying(0.071)

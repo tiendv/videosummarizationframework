@@ -1,0 +1,5 @@
+walking(0.128)
+climbing(0.101)
+jumping(0.051)
+skating(0.046)
+standing(0.045)

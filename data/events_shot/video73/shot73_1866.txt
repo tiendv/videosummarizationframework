@@ -1,0 +1,5 @@
+talking(0.058)
+hanging(0.036)
+sitting(0.035)
+discussing(0.035)
+smiling(0.024)

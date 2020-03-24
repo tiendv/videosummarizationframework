@@ -1,0 +1,5 @@
+slapping(0.125)
+coaching(0.092)
+punching(0.050)
+walking(0.040)
+boxing(0.038)

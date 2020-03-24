@@ -1,0 +1,5 @@
+rubbing(0.371)
+sanding(0.136)
+scrubbing(0.028)
+working(0.018)
+tapping(0.017)

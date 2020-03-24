@@ -1,5 +1,0 @@
-adult+male+speaking(0.048)
-adult+male+singing(0.046)
-filming(0.045)
-saluting(0.042)
-queuing(0.033)

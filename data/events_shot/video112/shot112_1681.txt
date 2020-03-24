@@ -1,0 +1,5 @@
+studying(0.118)
+reading(0.075)
+packing(0.069)
+cooking(0.060)
+unpacking(0.056)

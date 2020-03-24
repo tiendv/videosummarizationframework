@@ -1,0 +1,5 @@
+walking(0.076)
+hugging(0.042)
+talking(0.036)
+filming(0.035)
+adult+female+speaking(0.028)

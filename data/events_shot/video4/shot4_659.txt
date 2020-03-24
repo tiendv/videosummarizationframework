@@ -1,0 +1,5 @@
+shaving(0.029)
+tattooing(0.022)
+rubbing(0.021)
+drying(0.020)
+tapping(0.019)

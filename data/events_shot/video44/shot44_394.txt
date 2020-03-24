@@ -1,5 +1,0 @@
-driving(0.257)
-steering(0.070)
-talking(0.037)
-adult+male+speaking(0.028)
-hitchhiking(0.025)

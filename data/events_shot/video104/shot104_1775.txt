@@ -1,0 +1,5 @@
+adult+female+speaking(0.081)
+smiling(0.066)
+tattooing(0.059)
+adult+female+singing(0.036)
+winking(0.031)

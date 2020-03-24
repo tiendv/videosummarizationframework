@@ -1,0 +1,5 @@
+adult+female+singing(0.249)
+roaring(0.194)
+singing(0.141)
+yawning(0.101)
+adult+male+singing(0.046)

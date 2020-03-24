@@ -1,5 +1,0 @@
-adult+male+speaking(0.063)
-adult+male+singing(0.047)
-standing(0.044)
-baptizing(0.029)
-stomping(0.025)

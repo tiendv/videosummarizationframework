@@ -1,0 +1,5 @@
+aiming(0.032)
+hugging(0.029)
+adult+male+speaking(0.027)
+playing+videogames(0.024)
+walking(0.023)

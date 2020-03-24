@@ -1,0 +1,5 @@
+punching(0.071)
+standing(0.037)
+talking(0.036)
+boxing(0.030)
+filming(0.027)

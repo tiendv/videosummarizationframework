@@ -1,5 +1,0 @@
-telephoning(0.060)
-calling(0.058)
-filming(0.046)
-smiling(0.035)
-winking(0.029)

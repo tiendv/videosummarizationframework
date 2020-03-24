@@ -1,0 +1,5 @@
+fencing(0.203)
+preaching(0.123)
+guarding(0.039)
+adult+male+speaking(0.034)
+arresting(0.023)

@@ -1,0 +1,5 @@
+coughing(0.063)
+opening(0.062)
+closing(0.040)
+smelling(0.038)
+sniffing(0.034)

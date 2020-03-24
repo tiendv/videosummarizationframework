@@ -1,5 +1,0 @@
-driving(0.073)
-punching(0.041)
-pushing(0.040)
-hitchhiking(0.036)
-stopping(0.022)

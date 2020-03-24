@@ -1,5 +1,0 @@
-arresting(0.605)
-queuing(0.044)
-handcuffing(0.039)
-walking(0.024)
-talking(0.018)

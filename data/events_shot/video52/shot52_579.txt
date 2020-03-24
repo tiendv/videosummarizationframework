@@ -1,0 +1,5 @@
+hitchhiking(0.089)
+loading(0.058)
+towing(0.034)
+walking(0.032)
+washing(0.032)

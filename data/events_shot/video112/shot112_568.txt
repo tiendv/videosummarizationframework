@@ -1,0 +1,5 @@
+adult+female+speaking(0.112)
+crying(0.077)
+chewing(0.062)
+laughing(0.061)
+eating(0.057)

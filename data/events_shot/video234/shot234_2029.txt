@@ -1,5 +1,0 @@
-painting(0.068)
-walking(0.042)
-hugging(0.037)
-spraying(0.037)
-standing(0.033)

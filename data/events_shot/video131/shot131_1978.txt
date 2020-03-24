@@ -1,0 +1,5 @@
+attacking(0.059)
+hitting(0.035)
+knocking(0.035)
+smashing(0.034)
+shooting(0.028)

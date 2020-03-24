@@ -1,5 +1,0 @@
-vacuuming(0.218)
-folding(0.049)
-dusting(0.045)
-mopping(0.037)
-tying(0.036)

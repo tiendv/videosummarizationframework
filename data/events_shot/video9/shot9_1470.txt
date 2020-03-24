@@ -1,5 +1,0 @@
-queuing(0.090)
-applauding(0.066)
-hugging(0.062)
-celebrating(0.048)
-adult+female+speaking(0.047)

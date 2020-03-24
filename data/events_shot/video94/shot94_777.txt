@@ -1,0 +1,5 @@
+punching(0.148)
+hanging(0.040)
+climbing(0.035)
+drumming(0.026)
+boxing(0.026)

@@ -1,0 +1,5 @@
+knocking(0.131)
+locking(0.038)
+sleeping(0.033)
+starting(0.029)
+resting(0.025)

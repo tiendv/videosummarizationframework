@@ -1,0 +1,5 @@
+walking(0.271)
+slapping(0.060)
+standing(0.038)
+shaking(0.038)
+shrugging(0.029)

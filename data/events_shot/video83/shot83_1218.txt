@@ -1,0 +1,5 @@
+gripping(0.058)
+adult+male+speaking(0.053)
+handcuffing(0.046)
+playing+videogames(0.039)
+pulling(0.025)

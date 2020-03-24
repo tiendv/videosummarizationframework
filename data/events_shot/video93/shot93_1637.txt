@@ -1,0 +1,5 @@
+squatting(0.153)
+sitting(0.035)
+stealing(0.025)
+painting(0.024)
+crouching(0.023)

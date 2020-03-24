@@ -1,0 +1,5 @@
+fighting(0.131)
+stomping(0.104)
+attacking(0.057)
+dancing(0.043)
+punching(0.035)

@@ -1,0 +1,5 @@
+drying(0.040)
+filming(0.031)
+throwing(0.024)
+hugging(0.023)
+leaning(0.023)

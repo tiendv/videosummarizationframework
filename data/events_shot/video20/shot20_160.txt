@@ -1,5 +1,0 @@
-fighting(0.039)
-turning(0.021)
-spinning(0.021)
-slapping(0.019)
-adult+female+singing(0.018)

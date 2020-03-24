@@ -1,0 +1,5 @@
+adult+male+speaking(0.091)
+discussing(0.047)
+laughing(0.046)
+talking(0.037)
+spitting(0.034)

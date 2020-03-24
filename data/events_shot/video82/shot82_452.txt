@@ -1,0 +1,5 @@
+stacking(0.039)
+adult+male+speaking(0.026)
+laughing(0.018)
+standing(0.017)
+squinting(0.016)

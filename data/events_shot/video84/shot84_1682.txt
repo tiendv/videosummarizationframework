@@ -1,0 +1,5 @@
+slapping(0.117)
+frowning(0.079)
+painting(0.036)
+adult+male+speaking(0.028)
+punching(0.026)

@@ -1,0 +1,5 @@
+running(0.212)
+sprinting(0.067)
+chasing(0.035)
+playing+videogames(0.033)
+walking(0.028)

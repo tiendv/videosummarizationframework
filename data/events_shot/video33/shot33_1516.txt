@@ -1,0 +1,5 @@
+lecturing(0.324)
+adult+male+speaking(0.037)
+coaching(0.032)
+pointing(0.025)
+slapping(0.024)

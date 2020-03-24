@@ -1,0 +1,5 @@
+serving(0.104)
+hitting(0.073)
+bouncing(0.026)
+stealing(0.022)
+gripping(0.021)

@@ -1,0 +1,5 @@
+arresting(0.277)
+slapping(0.092)
+adult+male+speaking(0.088)
+punching(0.088)
+handcuffing(0.039)

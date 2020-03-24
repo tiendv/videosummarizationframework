@@ -1,0 +1,5 @@
+sneezing(0.401)
+coughing(0.070)
+laughing(0.043)
+child+speaking(0.026)
+unpacking(0.025)

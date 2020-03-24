@@ -1,0 +1,5 @@
+punching(0.112)
+boxing(0.055)
+squatting(0.052)
+kicking(0.034)
+shopping(0.024)

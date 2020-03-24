@@ -1,0 +1,5 @@
+hanging(0.027)
+hugging(0.021)
+laughing(0.020)
+dressing(0.020)
+stretching(0.017)

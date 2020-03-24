@@ -1,0 +1,5 @@
+unpacking(0.074)
+packing(0.068)
+adult+male+speaking(0.046)
+packaging(0.040)
+talking(0.033)

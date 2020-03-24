@@ -1,0 +1,5 @@
+whistling(0.377)
+sitting(0.050)
+talking(0.031)
+smoking(0.031)
+singing(0.021)

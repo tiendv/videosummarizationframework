@@ -1,0 +1,5 @@
+laughing(0.103)
+mopping(0.068)
+sweeping(0.032)
+sniffing(0.030)
+cleaning(0.024)

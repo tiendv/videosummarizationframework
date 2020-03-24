@@ -1,0 +1,5 @@
+sneezing(0.125)
+telephoning(0.051)
+coughing(0.047)
+stitching(0.039)
+injecting(0.027)

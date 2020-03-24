@@ -1,5 +1,0 @@
-walking(0.047)
-shaving(0.035)
-knocking(0.034)
-vacuuming(0.028)
-entering(0.028)

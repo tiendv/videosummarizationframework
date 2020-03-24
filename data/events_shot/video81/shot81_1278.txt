@@ -1,0 +1,5 @@
+stitching(0.247)
+sewing(0.088)
+wrapping(0.054)
+assembling(0.029)
+taping(0.024)

@@ -1,0 +1,5 @@
+telephoning(0.080)
+talking(0.075)
+sitting(0.056)
+manicuring(0.049)
+discussing(0.032)

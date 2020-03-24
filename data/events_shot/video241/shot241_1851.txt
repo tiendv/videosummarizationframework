@@ -1,5 +1,0 @@
-telephoning(0.492)
-calling(0.286)
-coughing(0.016)
-filming(0.012)
-photographing(0.012)

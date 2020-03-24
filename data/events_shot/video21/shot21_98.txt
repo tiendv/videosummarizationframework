@@ -1,0 +1,5 @@
+driving(0.146)
+steering(0.060)
+riding(0.035)
+filming(0.034)
+photographing(0.019)

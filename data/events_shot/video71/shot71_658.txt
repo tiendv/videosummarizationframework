@@ -1,0 +1,5 @@
+dining(0.075)
+slapping(0.064)
+serving(0.057)
+giving(0.056)
+fighting(0.054)

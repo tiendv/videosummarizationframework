@@ -1,0 +1,5 @@
+roaring(0.695)
+attacking(0.065)
+hunting(0.045)
+fighting(0.019)
+howling(0.008)

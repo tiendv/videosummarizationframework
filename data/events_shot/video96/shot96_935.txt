@@ -1,5 +1,0 @@
-sitting(0.047)
-adult+male+speaking(0.038)
-gripping(0.031)
-spinning(0.031)
-talking(0.029)

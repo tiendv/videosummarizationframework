@@ -1,5 +1,0 @@
-telephoning(0.065)
-calling(0.048)
-waking(0.046)
-smelling(0.036)
-cracking(0.023)

@@ -1,5 +1,0 @@
-arresting(0.075)
-fueling(0.072)
-talking(0.057)
-adult+male+speaking(0.033)
-hugging(0.030)

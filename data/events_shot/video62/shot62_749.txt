@@ -1,0 +1,5 @@
+filming(0.047)
+adult+male+speaking(0.030)
+queuing(0.025)
+starting(0.024)
+guarding(0.022)

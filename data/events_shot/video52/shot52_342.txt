@@ -1,0 +1,5 @@
+painting(0.259)
+selling(0.034)
+adult+male+speaking(0.025)
+slapping(0.018)
+throwing(0.017)

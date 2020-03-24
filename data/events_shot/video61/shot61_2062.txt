@@ -1,0 +1,5 @@
+fencing(0.210)
+flicking(0.059)
+throwing(0.054)
+flipping(0.033)
+adult+male+speaking(0.029)

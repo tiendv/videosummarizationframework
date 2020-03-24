@@ -1,0 +1,5 @@
+saluting(0.339)
+frowning(0.091)
+guarding(0.087)
+shrugging(0.049)
+adult+male+speaking(0.032)

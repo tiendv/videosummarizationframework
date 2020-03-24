@@ -1,0 +1,5 @@
+child+singing(0.067)
+standing(0.048)
+child+speaking(0.039)
+walking(0.037)
+filming(0.027)

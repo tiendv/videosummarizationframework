@@ -1,0 +1,5 @@
+dressing(0.538)
+wrapping(0.058)
+inflating(0.057)
+buttoning(0.051)
+putting(0.040)

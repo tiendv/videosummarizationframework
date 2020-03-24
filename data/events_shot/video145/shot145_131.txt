@@ -1,5 +1,0 @@
-sneezing(0.061)
-adult+female+speaking(0.040)
-fighting(0.038)
-attacking(0.035)
-adult+female+singing(0.029)

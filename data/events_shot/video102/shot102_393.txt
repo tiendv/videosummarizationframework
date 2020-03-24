@@ -1,0 +1,5 @@
+walking(0.468)
+standing(0.040)
+entering(0.033)
+exiting(0.032)
+talking(0.028)

@@ -1,5 +1,0 @@
-walking(0.073)
-standing(0.062)
-filming(0.029)
-throwing(0.029)
-adult+female+singing(0.027)

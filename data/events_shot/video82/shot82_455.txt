@@ -1,0 +1,5 @@
+taping(0.045)
+adult+male+speaking(0.039)
+asking(0.030)
+slapping(0.028)
+autographing(0.026)

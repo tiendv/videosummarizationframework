@@ -1,5 +1,0 @@
-hanging(0.030)
-fencing(0.023)
-entering(0.019)
-adult+male+speaking(0.018)
-guarding(0.018)

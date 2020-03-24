@@ -1,0 +1,5 @@
+hanging(0.566)
+drying(0.146)
+waving(0.036)
+cleaning(0.034)
+blowing(0.012)

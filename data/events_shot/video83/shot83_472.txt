@@ -1,0 +1,5 @@
+preaching(0.203)
+adult+male+speaking(0.090)
+lecturing(0.044)
+guarding(0.041)
+aiming(0.030)

@@ -1,0 +1,5 @@
+preaching(0.166)
+lecturing(0.066)
+reading(0.044)
+adult+male+speaking(0.043)
+praying(0.038)

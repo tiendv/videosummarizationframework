@@ -1,0 +1,5 @@
+sleeping(0.227)
+waking(0.081)
+resting(0.037)
+smoking(0.035)
+coughing(0.026)

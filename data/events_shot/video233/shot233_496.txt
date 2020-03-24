@@ -1,5 +1,0 @@
-running(0.080)
-drinking(0.036)
-fighting(0.033)
-smashing(0.029)
-playing+videogames(0.029)

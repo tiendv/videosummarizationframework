@@ -1,0 +1,5 @@
+giving(0.032)
+adult+female+speaking(0.031)
+asking(0.028)
+discussing(0.023)
+adult+male+speaking(0.022)

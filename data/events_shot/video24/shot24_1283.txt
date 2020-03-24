@@ -1,0 +1,5 @@
+adult+male+speaking(0.146)
+asking(0.059)
+barking(0.058)
+knocking(0.051)
+child+speaking(0.045)

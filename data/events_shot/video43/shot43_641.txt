@@ -1,0 +1,5 @@
+hugging(0.088)
+smiling(0.087)
+biting(0.066)
+slapping(0.035)
+giving(0.031)

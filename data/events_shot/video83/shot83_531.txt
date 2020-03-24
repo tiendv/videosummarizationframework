@@ -1,0 +1,5 @@
+preaching(0.265)
+adult+male+speaking(0.089)
+standing(0.025)
+sitting(0.020)
+praying(0.018)

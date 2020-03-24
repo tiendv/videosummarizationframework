@@ -1,0 +1,5 @@
+squatting(0.045)
+standing(0.033)
+walking(0.029)
+hiking(0.028)
+starting(0.026)

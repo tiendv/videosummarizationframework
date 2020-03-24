@@ -1,0 +1,5 @@
+fencing(0.185)
+adult+male+speaking(0.079)
+slapping(0.043)
+camping(0.037)
+starting(0.034)

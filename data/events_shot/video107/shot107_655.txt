@@ -1,5 +1,0 @@
-fighting(0.058)
-driving(0.046)
-talking(0.046)
-adult+male+speaking(0.038)
-adult+female+singing(0.035)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.081)
+arresting(0.070)
+cooking(0.064)
+walking(0.048)
+slapping(0.033)

@@ -1,0 +1,5 @@
+walking(0.095)
+hugging(0.048)
+kissing(0.041)
+stealing(0.037)
+sniffing(0.025)

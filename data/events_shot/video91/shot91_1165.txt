@@ -1,0 +1,5 @@
+tattooing(0.068)
+painting(0.041)
+frowning(0.037)
+sleeping(0.033)
+adult+male+speaking(0.033)

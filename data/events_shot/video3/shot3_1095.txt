@@ -1,0 +1,5 @@
+child+speaking(0.146)
+talking(0.111)
+squinting(0.038)
+adult+female+speaking(0.035)
+standing(0.031)

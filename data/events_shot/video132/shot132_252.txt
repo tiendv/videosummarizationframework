@@ -1,0 +1,5 @@
+drinking(0.122)
+eating(0.032)
+talking(0.029)
+cooking(0.027)
+crying(0.024)

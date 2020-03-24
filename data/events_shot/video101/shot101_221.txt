@@ -1,0 +1,5 @@
+adult+male+speaking(0.095)
+walking(0.046)
+shrugging(0.045)
+starting(0.043)
+asking(0.037)

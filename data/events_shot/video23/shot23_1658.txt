@@ -1,0 +1,5 @@
+sitting(0.035)
+discussing(0.031)
+working(0.024)
+autographing(0.022)
+signing(0.021)

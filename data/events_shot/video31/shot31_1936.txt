@@ -1,0 +1,5 @@
+adult+male+speaking(0.043)
+loading(0.033)
+knocking(0.030)
+poking(0.027)
+adult+male+singing(0.026)

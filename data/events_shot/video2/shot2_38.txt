@@ -1,0 +1,5 @@
+sneezing(0.340)
+coughing(0.096)
+filming(0.018)
+adult+female+speaking(0.018)
+laughing(0.015)

@@ -1,0 +1,5 @@
+queuing(0.235)
+adult+male+speaking(0.092)
+adult+female+speaking(0.075)
+frowning(0.037)
+squinting(0.033)

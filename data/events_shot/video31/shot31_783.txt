@@ -1,0 +1,5 @@
+bowing(0.122)
+slapping(0.100)
+shaking(0.043)
+spitting(0.035)
+sneezing(0.034)

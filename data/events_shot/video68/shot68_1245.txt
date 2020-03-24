@@ -1,5 +1,0 @@
-brushing(0.063)
-drying(0.043)
-standing(0.041)
-baking(0.037)
-shaving(0.036)

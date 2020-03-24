@@ -1,0 +1,5 @@
+adult+male+speaking(0.095)
+preaching(0.094)
+asking(0.086)
+laughing(0.041)
+slapping(0.040)

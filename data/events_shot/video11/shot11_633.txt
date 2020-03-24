@@ -1,0 +1,5 @@
+adult+male+singing(0.158)
+standing(0.129)
+singing(0.116)
+performing(0.090)
+talking(0.026)

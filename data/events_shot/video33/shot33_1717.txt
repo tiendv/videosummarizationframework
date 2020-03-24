@@ -1,0 +1,5 @@
+carrying(0.058)
+slapping(0.043)
+hugging(0.041)
+raising(0.032)
+filming(0.032)

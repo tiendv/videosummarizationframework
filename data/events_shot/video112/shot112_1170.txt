@@ -1,0 +1,5 @@
+swinging(0.070)
+gardening(0.063)
+hiking(0.046)
+standing(0.040)
+hanging(0.038)

@@ -1,0 +1,5 @@
+reading(0.055)
+discussing(0.037)
+crying(0.035)
+adult+male+speaking(0.031)
+talking(0.024)

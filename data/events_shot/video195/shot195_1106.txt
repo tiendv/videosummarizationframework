@@ -1,5 +1,0 @@
-stacking(0.360)
-telephoning(0.030)
-adult+female+speaking(0.021)
-eating(0.021)
-adult+male+speaking(0.016)

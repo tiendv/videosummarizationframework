@@ -1,5 +1,0 @@
-hitchhiking(0.939)
-driving(0.003)
-adult+male+speaking(0.003)
-hiking(0.003)
-adult+male+singing(0.003)

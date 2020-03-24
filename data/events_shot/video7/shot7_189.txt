@@ -1,5 +1,0 @@
-slapping(0.025)
-selling(0.024)
-asking(0.022)
-adult+male+speaking(0.022)
-packing(0.022)

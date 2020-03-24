@@ -1,0 +1,5 @@
+playing+videogames(0.300)
+aiming(0.071)
+running(0.030)
+swerving(0.030)
+driving(0.028)

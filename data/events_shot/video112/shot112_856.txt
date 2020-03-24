@@ -1,0 +1,5 @@
+smiling(0.210)
+laughing(0.200)
+grinning(0.048)
+giggling(0.044)
+marrying(0.038)

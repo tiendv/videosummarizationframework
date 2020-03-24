@@ -1,0 +1,5 @@
+slapping(0.181)
+queuing(0.110)
+protesting(0.075)
+fighting(0.047)
+walking(0.043)

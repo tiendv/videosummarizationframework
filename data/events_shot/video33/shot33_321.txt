@@ -1,0 +1,5 @@
+slapping(0.065)
+sitting(0.062)
+talking(0.061)
+turning(0.046)
+driving(0.041)

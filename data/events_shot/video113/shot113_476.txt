@@ -1,0 +1,5 @@
+imitating(0.226)
+child+singing(0.207)
+child+speaking(0.039)
+standing(0.029)
+adult+male+singing(0.028)

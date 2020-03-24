@@ -1,5 +1,0 @@
-adult+male+speaking(0.084)
-standing(0.044)
-dining(0.037)
-playing+videogames(0.035)
-adult+female+speaking(0.032)

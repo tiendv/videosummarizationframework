@@ -1,0 +1,5 @@
+hanging(0.044)
+preaching(0.038)
+guarding(0.029)
+bowing(0.025)
+adult+male+speaking(0.024)

@@ -1,0 +1,5 @@
+stacking(0.077)
+flipping(0.054)
+crafting(0.053)
+dipping(0.029)
+putting(0.028)

@@ -1,0 +1,5 @@
+frowning(0.116)
+slapping(0.073)
+crying(0.032)
+shrugging(0.029)
+combing(0.028)

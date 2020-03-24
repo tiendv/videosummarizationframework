@@ -1,0 +1,5 @@
+bowing(0.168)
+kneeling(0.145)
+squatting(0.076)
+sitting(0.076)
+adult+female+singing(0.048)

@@ -1,0 +1,5 @@
+putting(0.089)
+mowing(0.030)
+driving(0.027)
+placing(0.025)
+pulling(0.024)

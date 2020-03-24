@@ -1,0 +1,5 @@
+talking(0.093)
+sneezing(0.048)
+sitting(0.040)
+discussing(0.038)
+walking(0.038)

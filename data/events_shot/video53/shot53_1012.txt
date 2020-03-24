@@ -1,0 +1,5 @@
+gripping(0.112)
+walking(0.053)
+shrugging(0.037)
+standing(0.031)
+handcuffing(0.030)

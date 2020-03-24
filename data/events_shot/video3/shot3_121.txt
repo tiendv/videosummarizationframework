@@ -1,0 +1,5 @@
+hitchhiking(0.097)
+driving(0.091)
+starting(0.078)
+talking(0.076)
+sitting(0.048)

@@ -1,5 +1,0 @@
-slapping(0.050)
-talking(0.033)
-clipping(0.031)
-punching(0.027)
-hitting(0.027)

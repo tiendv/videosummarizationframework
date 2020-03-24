@@ -1,5 +1,0 @@
-stacking(0.110)
-adult+female+speaking(0.033)
-working(0.026)
-sneezing(0.022)
-standing(0.021)

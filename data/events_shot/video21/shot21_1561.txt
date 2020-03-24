@@ -1,0 +1,5 @@
+slapping(0.219)
+driving(0.151)
+riding(0.025)
+arresting(0.023)
+steering(0.023)

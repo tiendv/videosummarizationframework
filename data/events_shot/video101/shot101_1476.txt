@@ -1,0 +1,5 @@
+knocking(0.037)
+asking(0.034)
+walking(0.033)
+barking(0.032)
+filming(0.031)

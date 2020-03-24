@@ -1,0 +1,5 @@
+hugging(0.151)
+cuddling(0.101)
+asking(0.038)
+snuggling(0.025)
+smiling(0.024)

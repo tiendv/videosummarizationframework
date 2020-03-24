@@ -1,0 +1,5 @@
+starting(0.070)
+drinking(0.060)
+standing(0.040)
+adult+male+speaking(0.039)
+smoking(0.035)

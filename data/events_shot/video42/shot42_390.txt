@@ -1,0 +1,5 @@
+adult+female+speaking(0.305)
+discussing(0.055)
+adult+male+speaking(0.025)
+pointing(0.020)
+opening(0.016)

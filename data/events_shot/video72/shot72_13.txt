@@ -1,0 +1,5 @@
+hugging(0.056)
+slapping(0.052)
+pointing(0.044)
+coughing(0.040)
+smelling(0.036)

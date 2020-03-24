@@ -1,0 +1,5 @@
+marching(0.391)
+running(0.332)
+walking(0.103)
+racing(0.020)
+chasing(0.013)

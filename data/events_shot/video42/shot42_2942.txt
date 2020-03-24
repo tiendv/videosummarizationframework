@@ -1,0 +1,5 @@
+standing(0.050)
+roaring(0.037)
+raising(0.031)
+singing(0.030)
+talking(0.030)

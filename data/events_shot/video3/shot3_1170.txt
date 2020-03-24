@@ -1,0 +1,5 @@
+giving(0.068)
+dining(0.058)
+shaking(0.050)
+adult+male+speaking(0.046)
+serving(0.045)

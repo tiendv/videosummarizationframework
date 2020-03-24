@@ -1,0 +1,5 @@
+squatting(0.122)
+balancing(0.072)
+lifting(0.035)
+standing(0.026)
+hanging(0.025)

@@ -1,0 +1,5 @@
+washing(0.066)
+adult+female+speaking(0.046)
+rinsing(0.040)
+cleaning(0.038)
+scrubbing(0.037)

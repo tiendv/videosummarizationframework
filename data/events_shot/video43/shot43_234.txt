@@ -1,0 +1,5 @@
+falling(0.027)
+dropping(0.024)
+sliding(0.022)
+laughing(0.016)
+fighting(0.015)

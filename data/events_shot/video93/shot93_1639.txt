@@ -1,0 +1,5 @@
+adult+male+speaking(0.061)
+raining(0.040)
+slapping(0.035)
+adult+male+singing(0.033)
+adult+female+singing(0.030)

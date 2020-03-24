@@ -1,5 +1,0 @@
-aiming(0.157)
-gambling(0.119)
-pointing(0.059)
-talking(0.044)
-adult+male+speaking(0.044)

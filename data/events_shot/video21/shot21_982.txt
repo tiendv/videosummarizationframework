@@ -1,0 +1,5 @@
+cooking(0.170)
+dipping(0.106)
+pressing(0.057)
+baking(0.052)
+measuring(0.024)

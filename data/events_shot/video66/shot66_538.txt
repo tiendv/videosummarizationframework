@@ -1,5 +1,0 @@
-washing(0.087)
-walking(0.028)
-cleaning(0.025)
-packing(0.024)
-driving(0.024)

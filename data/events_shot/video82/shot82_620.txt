@@ -1,0 +1,5 @@
+dressing(0.029)
+taping(0.028)
+putting(0.017)
+crafting(0.015)
+tying(0.015)

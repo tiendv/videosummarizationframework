@@ -1,0 +1,5 @@
+drinking(0.124)
+sneezing(0.022)
+dipping(0.020)
+drying(0.020)
+dressing(0.019)

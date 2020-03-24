@@ -1,5 +1,0 @@
-walking(0.053)
-standing(0.045)
-hugging(0.039)
-imitating(0.028)
-reaching(0.021)

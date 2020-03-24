@@ -1,0 +1,5 @@
+walking(0.105)
+knocking(0.058)
+pointing(0.049)
+opening(0.043)
+talking(0.039)

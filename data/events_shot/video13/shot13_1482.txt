@@ -1,0 +1,5 @@
+knocking(0.060)
+boxing(0.048)
+punching(0.040)
+starting(0.027)
+asking(0.023)

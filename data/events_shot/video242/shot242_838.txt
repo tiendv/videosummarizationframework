@@ -1,5 +1,0 @@
-adult+female+singing(0.057)
-dining(0.054)
-cooking(0.041)
-sitting(0.032)
-talking(0.030)

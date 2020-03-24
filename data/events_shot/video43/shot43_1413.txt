@@ -1,0 +1,5 @@
+barking(0.162)
+walking(0.056)
+adult+male+speaking(0.037)
+howling(0.036)
+knocking(0.035)

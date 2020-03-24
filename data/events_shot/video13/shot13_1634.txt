@@ -1,0 +1,5 @@
+adult+male+speaking(0.055)
+slapping(0.055)
+filming(0.039)
+talking(0.036)
+discussing(0.032)

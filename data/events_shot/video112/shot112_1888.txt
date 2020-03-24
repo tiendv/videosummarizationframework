@@ -1,0 +1,5 @@
+bowling(0.944)
+gambling(0.006)
+adult+male+speaking(0.003)
+drinking(0.003)
+bowing(0.002)

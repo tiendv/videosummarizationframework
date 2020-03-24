@@ -1,5 +1,0 @@
-walking(0.048)
-standing(0.035)
-talking(0.030)
-filming(0.029)
-carrying(0.026)

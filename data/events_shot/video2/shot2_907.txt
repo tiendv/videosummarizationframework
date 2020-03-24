@@ -1,0 +1,5 @@
+sitting(0.096)
+stretching(0.081)
+raising(0.068)
+adult+male+speaking(0.040)
+adult+female+speaking(0.021)

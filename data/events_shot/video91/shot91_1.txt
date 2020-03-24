@@ -1,0 +1,5 @@
+diving(0.602)
+swimming(0.281)
+submerging(0.061)
+wetting(0.016)
+bubbling(0.005)

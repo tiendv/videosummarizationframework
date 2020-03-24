@@ -1,0 +1,5 @@
+opening(0.081)
+closing(0.051)
+adult+female+speaking(0.042)
+sitting(0.038)
+filming(0.027)

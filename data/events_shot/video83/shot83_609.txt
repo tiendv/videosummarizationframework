@@ -1,0 +1,5 @@
+tapping(0.150)
+slapping(0.121)
+scratching(0.043)
+knocking(0.033)
+snapping(0.031)

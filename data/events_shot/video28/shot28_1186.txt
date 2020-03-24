@@ -1,5 +1,0 @@
-rowing(0.059)
-adult+male+singing(0.056)
-adult+female+singing(0.050)
-adult+male+speaking(0.050)
-sitting(0.044)

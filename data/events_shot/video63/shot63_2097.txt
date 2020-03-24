@@ -1,0 +1,5 @@
+snowing(0.194)
+plunging(0.055)
+splashing(0.049)
+shaking(0.040)
+drenching(0.025)

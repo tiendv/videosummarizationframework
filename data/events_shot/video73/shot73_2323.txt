@@ -1,0 +1,5 @@
+smoking(0.081)
+telephoning(0.081)
+calling(0.070)
+discussing(0.033)
+adult+female+speaking(0.025)

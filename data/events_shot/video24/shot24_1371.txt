@@ -1,0 +1,5 @@
+protesting(0.518)
+attacking(0.131)
+blocking(0.057)
+destroying(0.024)
+playing+videogames(0.015)

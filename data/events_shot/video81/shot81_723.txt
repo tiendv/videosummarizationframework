@@ -1,0 +1,5 @@
+filming(0.035)
+kissing(0.030)
+shaving(0.029)
+smiling(0.026)
+adult+male+speaking(0.023)

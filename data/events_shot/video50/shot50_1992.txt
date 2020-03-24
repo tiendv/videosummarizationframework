@@ -1,5 +1,0 @@
-walking(0.058)
-guarding(0.036)
-carrying(0.034)
-locking(0.025)
-hanging(0.024)

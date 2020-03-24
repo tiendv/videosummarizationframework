@@ -1,0 +1,5 @@
+jogging(0.204)
+tying(0.189)
+dressing(0.031)
+adult+male+speaking(0.030)
+buttoning(0.025)

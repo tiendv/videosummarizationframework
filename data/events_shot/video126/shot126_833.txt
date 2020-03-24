@@ -1,5 +1,0 @@
-jumping(0.195)
-leaping(0.183)
-roaring(0.045)
-diving(0.029)
-flying(0.024)

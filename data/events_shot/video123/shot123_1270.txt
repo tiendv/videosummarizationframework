@@ -1,0 +1,5 @@
+adult+male+speaking(0.065)
+autographing(0.045)
+hugging(0.045)
+slapping(0.040)
+discussing(0.039)

@@ -1,0 +1,5 @@
+walking(0.337)
+arresting(0.140)
+hiking(0.050)
+protesting(0.035)
+running(0.027)

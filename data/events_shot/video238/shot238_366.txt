@@ -1,5 +1,0 @@
-walking(0.044)
-aiming(0.035)
-running(0.023)
-skating(0.023)
-adult+male+speaking(0.020)

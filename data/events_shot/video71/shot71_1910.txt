@@ -1,0 +1,5 @@
+punching(0.087)
+packing(0.084)
+boxing(0.053)
+unpacking(0.045)
+adult+male+speaking(0.032)

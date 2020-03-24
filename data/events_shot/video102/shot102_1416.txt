@@ -1,0 +1,5 @@
+dining(0.088)
+autographing(0.069)
+eating(0.030)
+sniffing(0.028)
+gambling(0.026)

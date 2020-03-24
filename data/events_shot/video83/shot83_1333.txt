@@ -1,0 +1,5 @@
+sitting(0.119)
+adult+male+speaking(0.107)
+playing+videogames(0.100)
+talking(0.079)
+starting(0.069)

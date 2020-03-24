@@ -1,5 +1,0 @@
-sitting(0.111)
-telephoning(0.092)
-working(0.076)
-typing(0.066)
-reading(0.051)

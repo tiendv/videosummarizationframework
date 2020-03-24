@@ -1,0 +1,5 @@
+queuing(0.076)
+sneezing(0.063)
+crying(0.061)
+slapping(0.053)
+coughing(0.032)

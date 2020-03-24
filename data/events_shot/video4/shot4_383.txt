@@ -1,0 +1,5 @@
+bowing(0.147)
+kneeling(0.146)
+squatting(0.120)
+bending(0.047)
+crouching(0.031)

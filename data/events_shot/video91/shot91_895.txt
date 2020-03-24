@@ -1,0 +1,5 @@
+knocking(0.080)
+adult+female+singing(0.045)
+locking(0.038)
+walking(0.033)
+opening(0.031)

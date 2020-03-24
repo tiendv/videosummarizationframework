@@ -1,0 +1,5 @@
+walking(0.209)
+asking(0.168)
+adult+male+speaking(0.072)
+hiking(0.055)
+standing(0.053)

@@ -1,0 +1,5 @@
+opening(0.370)
+closing(0.223)
+crying(0.017)
+giving(0.013)
+entering(0.013)

@@ -1,0 +1,5 @@
+mopping(0.156)
+dusting(0.061)
+sweeping(0.042)
+shredding(0.035)
+closing(0.030)

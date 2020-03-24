@@ -1,0 +1,5 @@
+talking(0.070)
+crafting(0.042)
+teaching(0.038)
+laughing(0.028)
+sitting(0.020)

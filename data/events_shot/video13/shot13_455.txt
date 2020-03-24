@@ -1,0 +1,5 @@
+spraying(0.099)
+painting(0.052)
+cleaning(0.045)
+dripping(0.044)
+raining(0.028)

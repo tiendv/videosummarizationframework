@@ -1,5 +1,0 @@
-pouring(0.213)
-dripping(0.124)
-leaking(0.118)
-drinking(0.087)
-filling(0.046)

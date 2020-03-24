@@ -1,5 +1,0 @@
-driving(0.455)
-riding(0.173)
-fueling(0.138)
-stopping(0.038)
-crashing(0.021)

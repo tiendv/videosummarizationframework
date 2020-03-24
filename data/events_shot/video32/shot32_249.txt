@@ -1,0 +1,5 @@
+camping(0.280)
+hunting(0.033)
+playing+videogames(0.030)
+crawling(0.028)
+resting(0.026)

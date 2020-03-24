@@ -1,0 +1,5 @@
+hitchhiking(0.143)
+fishing(0.063)
+bicycling(0.056)
+jogging(0.024)
+driving(0.023)

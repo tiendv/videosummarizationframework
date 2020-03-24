@@ -1,0 +1,5 @@
+asking(0.155)
+adult+female+speaking(0.102)
+marrying(0.089)
+adult+male+speaking(0.073)
+smiling(0.066)

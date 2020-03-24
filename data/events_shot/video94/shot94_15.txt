@@ -1,0 +1,5 @@
+cleaning(0.136)
+vacuuming(0.100)
+sanding(0.094)
+repairing(0.073)
+inflating(0.037)

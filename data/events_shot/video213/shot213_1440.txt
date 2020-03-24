@@ -1,5 +1,0 @@
-crying(0.051)
-walking(0.049)
-laughing(0.042)
-entering(0.039)
-pushing(0.026)

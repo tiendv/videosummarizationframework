@@ -1,0 +1,5 @@
+packaging(0.178)
+taping(0.050)
+assembling(0.049)
+giving(0.039)
+packing(0.033)

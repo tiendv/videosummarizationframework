@@ -1,5 +1,0 @@
-walking(0.048)
-autographing(0.038)
-standing(0.031)
-adult+male+speaking(0.030)
-tattooing(0.026)

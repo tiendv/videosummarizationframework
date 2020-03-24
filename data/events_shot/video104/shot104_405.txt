@@ -1,0 +1,5 @@
+eating(0.199)
+chewing(0.055)
+dragging(0.040)
+biting(0.034)
+sniffing(0.032)

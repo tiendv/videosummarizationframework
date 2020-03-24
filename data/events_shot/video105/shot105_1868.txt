@@ -1,0 +1,5 @@
+cooking(0.453)
+baking(0.132)
+stirring(0.065)
+frying(0.020)
+slapping(0.011)

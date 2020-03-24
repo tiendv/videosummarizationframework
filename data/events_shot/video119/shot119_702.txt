@@ -1,5 +1,0 @@
-running(0.115)
-walking(0.069)
-chasing(0.030)
-bouncing(0.024)
-adult+male+singing(0.023)

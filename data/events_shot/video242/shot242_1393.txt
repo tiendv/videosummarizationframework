@@ -1,6 +1,0 @@
-slapping(0.060)
-asking(0.051)
-sneezing(0.039)
-pointing(0.036)
-coughing(0.032)
-king(0.023)

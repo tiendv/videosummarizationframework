@@ -1,0 +1,5 @@
+adult+male+speaking(0.060)
+adult+male+singing(0.052)
+clipping(0.031)
+playing+videogames(0.029)
+cracking(0.026)

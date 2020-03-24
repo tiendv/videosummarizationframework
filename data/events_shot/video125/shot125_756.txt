@@ -1,0 +1,5 @@
+queuing(0.174)
+asking(0.101)
+discussing(0.073)
+lecturing(0.071)
+coaching(0.069)

@@ -1,5 +1,0 @@
-painting(0.153)
-standing(0.069)
-shopping(0.060)
-walking(0.027)
-guarding(0.024)

@@ -1,0 +1,5 @@
+frowning(0.109)
+adult+female+speaking(0.083)
+sitting(0.066)
+adult+male+speaking(0.053)
+asking(0.052)

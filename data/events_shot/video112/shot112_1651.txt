@@ -1,0 +1,5 @@
+slapping(0.210)
+sneezing(0.123)
+crying(0.081)
+laughing(0.048)
+spitting(0.037)

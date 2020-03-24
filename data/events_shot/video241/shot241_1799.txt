@@ -1,5 +1,0 @@
-singing(0.112)
-whistling(0.064)
-knocking(0.045)
-adult+male+singing(0.045)
-storming(0.044)

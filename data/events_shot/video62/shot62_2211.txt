@@ -1,0 +1,5 @@
+building(0.761)
+constructing(0.151)
+repairing(0.022)
+carving(0.015)
+leaning(0.009)

@@ -1,5 +1,0 @@
-shopping(0.221)
-selling(0.146)
-painting(0.055)
-buying(0.049)
-walking(0.019)

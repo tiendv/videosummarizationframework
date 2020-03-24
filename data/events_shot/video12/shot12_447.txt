@@ -1,0 +1,5 @@
+bowing(0.185)
+crouching(0.079)
+squatting(0.068)
+playing+videogames(0.065)
+bending(0.042)

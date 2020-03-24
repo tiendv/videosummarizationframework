@@ -1,0 +1,5 @@
+burying(0.085)
+waking(0.065)
+sleeping(0.055)
+destroying(0.031)
+digging(0.024)

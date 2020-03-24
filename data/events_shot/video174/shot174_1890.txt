@@ -1,5 +1,0 @@
-dressing(0.041)
-adult+female+singing(0.033)
-dusting(0.030)
-adult+female+speaking(0.028)
-standing(0.022)

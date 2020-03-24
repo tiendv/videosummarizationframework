@@ -1,0 +1,5 @@
+shaving(0.090)
+hanging(0.062)
+climbing(0.055)
+snowing(0.031)
+removing(0.018)

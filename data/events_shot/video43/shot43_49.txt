@@ -1,0 +1,5 @@
+slapping(0.141)
+snapping(0.109)
+chewing(0.070)
+biting(0.048)
+winking(0.048)

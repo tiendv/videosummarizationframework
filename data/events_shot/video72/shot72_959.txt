@@ -1,0 +1,5 @@
+shaving(0.162)
+dressing(0.081)
+taping(0.058)
+standing(0.054)
+handcuffing(0.041)

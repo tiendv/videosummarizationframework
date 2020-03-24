@@ -1,0 +1,5 @@
+child+speaking(0.073)
+child+singing(0.068)
+juggling(0.040)
+signing(0.040)
+standing(0.033)

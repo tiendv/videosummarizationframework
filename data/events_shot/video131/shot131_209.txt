@@ -1,0 +1,5 @@
+mowing(0.043)
+queuing(0.041)
+exiting(0.041)
+entering(0.038)
+riding(0.038)

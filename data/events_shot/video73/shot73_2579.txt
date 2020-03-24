@@ -1,0 +1,5 @@
+shaving(0.045)
+filming(0.035)
+drinking(0.031)
+adult+male+speaking(0.027)
+sitting(0.021)

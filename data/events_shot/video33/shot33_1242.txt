@@ -1,0 +1,5 @@
+discussing(0.075)
+adult+male+speaking(0.064)
+asking(0.061)
+hiking(0.048)
+laughing(0.048)

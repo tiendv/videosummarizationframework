@@ -1,0 +1,5 @@
+frowning(0.339)
+arresting(0.043)
+winking(0.040)
+queuing(0.037)
+smiling(0.033)

@@ -1,0 +1,5 @@
+cooking(0.117)
+eating(0.064)
+frying(0.050)
+cleaning(0.047)
+washing(0.030)

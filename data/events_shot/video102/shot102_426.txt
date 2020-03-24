@@ -1,0 +1,5 @@
+drying(0.150)
+adult+female+singing(0.150)
+adult+female+speaking(0.128)
+waving(0.073)
+combing(0.053)

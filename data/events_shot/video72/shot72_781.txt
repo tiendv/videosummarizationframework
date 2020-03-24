@@ -1,0 +1,5 @@
+adult+female+speaking(0.148)
+packing(0.072)
+smoking(0.047)
+discussing(0.045)
+unpacking(0.041)

@@ -1,0 +1,5 @@
+hugging(0.151)
+adult+male+speaking(0.076)
+cuddling(0.054)
+playing+videogames(0.053)
+aiming(0.025)

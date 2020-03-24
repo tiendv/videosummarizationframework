@@ -1,0 +1,5 @@
+fencing(0.296)
+adult+male+speaking(0.109)
+lecturing(0.102)
+talking(0.042)
+discussing(0.036)

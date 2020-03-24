@@ -1,0 +1,5 @@
+crying(0.656)
+bowing(0.045)
+praying(0.032)
+laughing(0.022)
+adult+male+speaking(0.013)

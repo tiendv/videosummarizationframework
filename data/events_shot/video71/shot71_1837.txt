@@ -1,0 +1,5 @@
+walking(0.085)
+crying(0.053)
+knocking(0.050)
+sneezing(0.032)
+removing(0.028)

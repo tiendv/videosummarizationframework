@@ -1,5 +1,0 @@
-drinking(0.050)
-eating(0.036)
-queuing(0.032)
-walking(0.028)
-adult+male+speaking(0.026)

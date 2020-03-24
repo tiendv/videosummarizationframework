@@ -1,0 +1,5 @@
+driving(0.100)
+riding(0.029)
+discussing(0.028)
+adult+female+speaking(0.024)
+waking(0.019)

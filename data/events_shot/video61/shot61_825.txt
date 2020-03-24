@@ -1,0 +1,5 @@
+painting(0.102)
+wrapping(0.069)
+assembling(0.063)
+packaging(0.051)
+packing(0.051)

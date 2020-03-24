@@ -1,0 +1,5 @@
+talking(0.057)
+coughing(0.052)
+sitting(0.046)
+working(0.044)
+putting(0.034)

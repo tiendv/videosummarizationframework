@@ -1,0 +1,5 @@
+adult+male+speaking(0.338)
+cracking(0.028)
+lecturing(0.024)
+coughing(0.022)
+adult+male+singing(0.022)

@@ -1,0 +1,5 @@
+telephoning(0.113)
+pointing(0.085)
+reading(0.079)
+hanging(0.054)
+working(0.037)

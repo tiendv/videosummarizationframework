@@ -1,0 +1,5 @@
+child+speaking(0.133)
+playing(0.049)
+laughing(0.049)
+handcuffing(0.020)
+stealing(0.019)

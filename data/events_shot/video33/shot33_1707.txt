@@ -1,0 +1,5 @@
+hanging(0.165)
+fighting(0.042)
+swinging(0.036)
+arresting(0.029)
+talking(0.025)

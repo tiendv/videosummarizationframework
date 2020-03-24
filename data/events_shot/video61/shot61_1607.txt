@@ -1,0 +1,5 @@
+interviewing(0.073)
+pointing(0.067)
+hugging(0.051)
+walking(0.041)
+shaking(0.034)

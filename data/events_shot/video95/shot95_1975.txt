@@ -1,0 +1,5 @@
+sliding(0.075)
+ascending(0.031)
+rising(0.029)
+adult+male+speaking(0.027)
+adult+female+singing(0.025)

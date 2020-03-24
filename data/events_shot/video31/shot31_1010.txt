@@ -1,0 +1,5 @@
+punching(0.064)
+cleaning(0.034)
+running(0.025)
+boxing(0.024)
+shaving(0.023)

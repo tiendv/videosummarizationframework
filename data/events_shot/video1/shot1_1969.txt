@@ -1,0 +1,5 @@
+smiling(0.068)
+winking(0.053)
+turning(0.050)
+filming(0.041)
+fencing(0.030)

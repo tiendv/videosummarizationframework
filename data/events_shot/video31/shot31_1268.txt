@@ -1,0 +1,5 @@
+asking(0.318)
+adult+female+speaking(0.098)
+arresting(0.092)
+handcuffing(0.059)
+hitchhiking(0.030)

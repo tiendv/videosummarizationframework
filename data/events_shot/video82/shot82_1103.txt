@@ -1,0 +1,5 @@
+drinking(0.179)
+discussing(0.129)
+sitting(0.115)
+smoking(0.090)
+eating(0.076)

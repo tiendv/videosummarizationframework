@@ -1,0 +1,5 @@
+coaching(0.060)
+teaching(0.058)
+standing(0.042)
+instructing(0.040)
+cooking(0.035)

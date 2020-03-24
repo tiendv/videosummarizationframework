@@ -1,0 +1,5 @@
+cleaning(0.215)
+washing(0.077)
+slapping(0.041)
+bowing(0.032)
+mopping(0.020)

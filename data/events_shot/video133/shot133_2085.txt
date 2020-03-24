@@ -1,0 +1,5 @@
+ascending(0.107)
+descending(0.093)
+dropping(0.088)
+rising(0.073)
+falling(0.065)

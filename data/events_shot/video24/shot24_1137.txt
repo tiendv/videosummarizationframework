@@ -1,0 +1,5 @@
+handcuffing(0.084)
+asking(0.067)
+adult+female+speaking(0.048)
+adult+male+speaking(0.045)
+stretching(0.045)

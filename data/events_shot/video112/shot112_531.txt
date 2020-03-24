@@ -1,0 +1,5 @@
+adult+male+speaking(0.139)
+sneezing(0.088)
+preaching(0.052)
+asking(0.027)
+coughing(0.027)

@@ -1,0 +1,5 @@
+entering(0.171)
+exiting(0.167)
+shopping(0.111)
+walking(0.058)
+buying(0.034)

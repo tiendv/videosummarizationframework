@@ -1,0 +1,5 @@
+eating(0.225)
+chewing(0.115)
+child+speaking(0.041)
+sniffing(0.040)
+drinking(0.035)

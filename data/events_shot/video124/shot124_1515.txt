@@ -1,0 +1,5 @@
+adult+male+singing(0.306)
+adult+male+speaking(0.179)
+laughing(0.058)
+imitating(0.053)
+discussing(0.030)

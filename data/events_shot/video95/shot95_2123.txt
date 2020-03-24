@@ -1,0 +1,5 @@
+cleaning(0.676)
+hanging(0.163)
+washing(0.045)
+sliding(0.017)
+dusting(0.008)

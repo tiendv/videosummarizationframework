@@ -1,0 +1,5 @@
+drinking(0.035)
+bowing(0.032)
+entering(0.027)
+standing(0.027)
+adult+female+singing(0.025)

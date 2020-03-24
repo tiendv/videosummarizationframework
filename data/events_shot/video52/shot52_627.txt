@@ -1,0 +1,5 @@
+shaving(0.246)
+smoking(0.100)
+drinking(0.044)
+adult+female+speaking(0.035)
+sniffing(0.031)

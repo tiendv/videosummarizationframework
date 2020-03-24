@@ -1,5 +1,0 @@
-assembling(0.159)
-adult+male+speaking(0.057)
-queuing(0.037)
-discussing(0.035)
-sitting(0.031)

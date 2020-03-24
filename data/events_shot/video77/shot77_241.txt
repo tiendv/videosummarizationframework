@@ -1,5 +1,0 @@
-adult+female+singing(0.102)
-adult+male+singing(0.056)
-talking(0.049)
-roaring(0.042)
-raining(0.036)

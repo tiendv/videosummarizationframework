@@ -1,0 +1,5 @@
+dining(0.073)
+adult+male+speaking(0.065)
+praying(0.040)
+cooking(0.039)
+eating(0.032)

@@ -1,0 +1,5 @@
+coaching(0.083)
+drinking(0.074)
+gambling(0.068)
+sniffing(0.054)
+adult+male+speaking(0.053)

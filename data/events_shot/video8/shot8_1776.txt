@@ -1,5 +1,0 @@
-cooking(0.278)
-baking(0.085)
-slicing(0.059)
-teaching(0.032)
-serving(0.028)

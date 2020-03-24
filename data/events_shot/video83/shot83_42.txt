@@ -1,0 +1,5 @@
+queuing(0.102)
+discussing(0.080)
+adult+male+speaking(0.058)
+talking(0.047)
+standing(0.042)

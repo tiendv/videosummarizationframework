@@ -1,0 +1,5 @@
+hiking(0.117)
+discussing(0.108)
+hunting(0.097)
+interviewing(0.082)
+adult+male+speaking(0.079)

@@ -1,0 +1,5 @@
+flipping(0.102)
+bowing(0.082)
+laughing(0.037)
+throwing(0.021)
+smashing(0.020)

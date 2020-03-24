@@ -1,0 +1,5 @@
+flipping(0.076)
+throwing(0.052)
+flicking(0.029)
+standing(0.025)
+smiling(0.020)

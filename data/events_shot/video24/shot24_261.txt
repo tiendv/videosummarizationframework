@@ -1,5 +1,0 @@
-fencing(0.942)
-guarding(0.005)
-walking(0.003)
-waving(0.003)
-hitchhiking(0.002)

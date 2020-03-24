@@ -1,0 +1,5 @@
+drying(0.053)
+cleaning(0.033)
+working(0.031)
+hanging(0.030)
+building(0.028)

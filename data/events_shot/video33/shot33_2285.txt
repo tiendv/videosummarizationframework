@@ -1,0 +1,5 @@
+drying(0.100)
+building(0.099)
+opening(0.081)
+playing+videogames(0.054)
+constructing(0.053)

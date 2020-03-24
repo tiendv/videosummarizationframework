@@ -1,0 +1,5 @@
+smiling(0.275)
+winking(0.062)
+hugging(0.060)
+adult+female+speaking(0.040)
+grinning(0.032)

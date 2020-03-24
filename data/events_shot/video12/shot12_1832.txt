@@ -1,0 +1,5 @@
+stealing(0.273)
+shopping(0.245)
+buying(0.044)
+selling(0.033)
+walking(0.023)

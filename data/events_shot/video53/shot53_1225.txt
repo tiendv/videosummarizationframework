@@ -1,0 +1,5 @@
+laughing(0.100)
+asking(0.065)
+adult+female+speaking(0.064)
+smiling(0.062)
+shopping(0.049)

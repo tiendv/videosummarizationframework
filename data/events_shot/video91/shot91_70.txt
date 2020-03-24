@@ -1,0 +1,5 @@
+adult+male+speaking(0.085)
+coaching(0.080)
+cooking(0.042)
+standing(0.025)
+smelling(0.023)

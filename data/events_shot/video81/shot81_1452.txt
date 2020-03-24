@@ -1,0 +1,5 @@
+tapping(0.914)
+scratching(0.020)
+manicuring(0.004)
+repairing(0.003)
+taping(0.003)

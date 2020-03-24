@@ -1,5 +1,0 @@
-pulling(0.143)
-pushing(0.056)
-walking(0.050)
-vacuuming(0.039)
-rolling(0.033)

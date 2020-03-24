@@ -1,5 +1,0 @@
-shaving(0.265)
-brushing(0.188)
-cracking(0.070)
-licking(0.047)
-peeling(0.042)

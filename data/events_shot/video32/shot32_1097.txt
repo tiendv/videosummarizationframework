@@ -1,0 +1,5 @@
+cooking(0.215)
+shopping(0.097)
+selling(0.069)
+baking(0.046)
+stacking(0.032)

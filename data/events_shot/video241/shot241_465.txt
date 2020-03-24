@@ -1,5 +1,0 @@
-standing(0.097)
-guarding(0.089)
-fencing(0.086)
-child+speaking(0.025)
-imitating(0.023)

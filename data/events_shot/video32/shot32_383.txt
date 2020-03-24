@@ -1,0 +1,5 @@
+running(0.051)
+walking(0.031)
+hiking(0.028)
+building(0.027)
+working(0.020)

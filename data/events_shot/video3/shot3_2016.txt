@@ -1,0 +1,5 @@
+laughing(0.034)
+kissing(0.033)
+rocking(0.032)
+adult+male+speaking(0.032)
+coughing(0.029)

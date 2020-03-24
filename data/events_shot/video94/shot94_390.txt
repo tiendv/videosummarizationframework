@@ -1,0 +1,5 @@
+handcuffing(0.370)
+arresting(0.137)
+locking(0.073)
+guarding(0.019)
+sleeping(0.014)

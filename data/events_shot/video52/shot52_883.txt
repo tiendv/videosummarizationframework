@@ -1,0 +1,5 @@
+driving(0.566)
+steering(0.082)
+riding(0.047)
+raining(0.047)
+snowing(0.037)

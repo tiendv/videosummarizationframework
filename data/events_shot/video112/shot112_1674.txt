@@ -1,0 +1,5 @@
+asking(0.037)
+discussing(0.032)
+adult+female+speaking(0.032)
+sitting(0.032)
+coughing(0.028)

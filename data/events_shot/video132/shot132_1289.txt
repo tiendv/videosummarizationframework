@@ -1,0 +1,5 @@
+cooking(0.051)
+slapping(0.040)
+discussing(0.038)
+drinking(0.031)
+standing(0.030)

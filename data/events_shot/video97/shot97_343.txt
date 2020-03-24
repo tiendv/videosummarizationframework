@@ -1,5 +1,0 @@
-dressing(0.165)
-buttoning(0.132)
-tying(0.075)
-standing(0.031)
-opening(0.027)

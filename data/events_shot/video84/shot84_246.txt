@@ -1,0 +1,5 @@
+crying(0.119)
+talking(0.073)
+adult+male+speaking(0.061)
+adult+female+speaking(0.057)
+telephoning(0.042)

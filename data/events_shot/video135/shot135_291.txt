@@ -1,5 +1,0 @@
-cooking(0.598)
-baking(0.142)
-frying(0.034)
-stirring(0.033)
-laughing(0.024)

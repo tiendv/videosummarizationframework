@@ -1,0 +1,5 @@
+sitting(0.077)
+standing(0.057)
+turning(0.049)
+adult+male+singing(0.029)
+working(0.027)

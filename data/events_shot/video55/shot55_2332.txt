@@ -1,5 +1,0 @@
-adult+female+speaking(0.128)
-asking(0.128)
-hugging(0.102)
-autographing(0.056)
-tattooing(0.025)

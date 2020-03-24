@@ -1,0 +1,5 @@
+marrying(0.184)
+adult+female+speaking(0.072)
+standing(0.070)
+sitting(0.036)
+officiating(0.035)

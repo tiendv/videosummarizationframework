@@ -1,0 +1,5 @@
+arresting(0.085)
+slapping(0.070)
+turning(0.045)
+blocking(0.043)
+spinning(0.040)

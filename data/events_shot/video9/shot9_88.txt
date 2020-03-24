@@ -1,5 +1,0 @@
-painting(0.048)
-folding(0.035)
-hanging(0.031)
-opening(0.025)
-cleaning(0.024)

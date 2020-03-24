@@ -1,0 +1,5 @@
+pushing(0.172)
+walking(0.129)
+mowing(0.035)
+guarding(0.028)
+bicycling(0.022)

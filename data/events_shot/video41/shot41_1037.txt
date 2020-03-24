@@ -1,0 +1,5 @@
+massaging(0.141)
+shaving(0.127)
+cracking(0.041)
+combing(0.033)
+drying(0.029)

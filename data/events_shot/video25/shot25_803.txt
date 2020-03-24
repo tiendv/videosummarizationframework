@@ -1,5 +1,0 @@
-cleaning(0.043)
-cooking(0.032)
-scrubbing(0.020)
-adult+male+singing(0.019)
-rolling(0.018)

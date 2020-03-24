@@ -1,0 +1,5 @@
+stitching(0.094)
+packing(0.085)
+knitting(0.081)
+tying(0.071)
+drying(0.051)

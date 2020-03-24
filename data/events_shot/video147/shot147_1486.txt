@@ -1,5 +1,0 @@
-hugging(0.043)
-fighting(0.032)
-adult+female+speaking(0.031)
-cooking(0.029)
-stealing(0.029)

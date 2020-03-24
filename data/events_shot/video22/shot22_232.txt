@@ -1,0 +1,5 @@
+shopping(0.186)
+selling(0.131)
+asking(0.107)
+buying(0.077)
+paying(0.044)

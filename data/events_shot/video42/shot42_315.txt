@@ -1,0 +1,5 @@
+hunting(0.093)
+hiking(0.085)
+gardening(0.079)
+adult+male+speaking(0.062)
+talking(0.044)

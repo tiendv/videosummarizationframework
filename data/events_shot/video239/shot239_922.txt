@@ -1,5 +1,0 @@
-hunting(0.191)
-standing(0.068)
-shooting(0.047)
-aiming(0.032)
-guarding(0.030)

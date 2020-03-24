@@ -1,5 +1,0 @@
-adult+male+speaking(0.085)
-preaching(0.067)
-laughing(0.050)
-fencing(0.042)
-hugging(0.040)

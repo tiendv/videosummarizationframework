@@ -1,5 +1,0 @@
-fencing(0.485)
-sneezing(0.050)
-coughing(0.044)
-knocking(0.016)
-cracking(0.015)

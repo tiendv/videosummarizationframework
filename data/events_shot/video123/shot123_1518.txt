@@ -1,0 +1,5 @@
+yawning(0.223)
+adult+male+singing(0.105)
+adult+male+speaking(0.060)
+roaring(0.039)
+shouting(0.034)

@@ -1,0 +1,5 @@
+hanging(0.056)
+building(0.049)
+gripping(0.046)
+slapping(0.038)
+hammering(0.031)

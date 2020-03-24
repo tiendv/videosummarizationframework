@@ -1,0 +1,5 @@
+pointing(0.116)
+walking(0.057)
+guarding(0.040)
+running(0.029)
+carrying(0.028)

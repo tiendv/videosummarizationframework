@@ -1,0 +1,5 @@
+brushing(0.219)
+injecting(0.083)
+painting(0.054)
+drinking(0.049)
+carving(0.022)

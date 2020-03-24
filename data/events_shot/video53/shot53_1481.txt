@@ -1,0 +1,5 @@
+tying(0.688)
+buttoning(0.072)
+dressing(0.053)
+folding(0.012)
+tearing(0.008)

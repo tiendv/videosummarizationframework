@@ -1,5 +1,0 @@
-bathing(0.203)
-washing(0.069)
-rinsing(0.027)
-cleaning(0.025)
-adult+female+speaking(0.023)

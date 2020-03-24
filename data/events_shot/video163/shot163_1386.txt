@@ -1,5 +1,0 @@
-adult+male+speaking(0.096)
-playing+videogames(0.030)
-driving(0.026)
-steering(0.026)
-walking(0.024)

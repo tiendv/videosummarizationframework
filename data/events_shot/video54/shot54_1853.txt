@@ -1,0 +1,5 @@
+drinking(0.130)
+discussing(0.059)
+slapping(0.049)
+spitting(0.039)
+smoking(0.031)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.069)
+discussing(0.038)
+queuing(0.038)
+talking(0.031)
+filming(0.028)

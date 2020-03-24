@@ -1,0 +1,5 @@
+snowing(0.081)
+boating(0.059)
+storming(0.042)
+rising(0.031)
+flying(0.029)

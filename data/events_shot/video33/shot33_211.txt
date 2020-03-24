@@ -1,0 +1,5 @@
+sleeping(0.191)
+waking(0.119)
+tattooing(0.060)
+crying(0.039)
+coughing(0.028)

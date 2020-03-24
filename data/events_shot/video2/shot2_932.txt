@@ -1,0 +1,5 @@
+drinking(0.124)
+dining(0.068)
+shopping(0.048)
+photographing(0.026)
+buying(0.021)

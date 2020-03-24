@@ -1,0 +1,5 @@
+bathing(0.239)
+slapping(0.188)
+washing(0.061)
+spitting(0.035)
+smoking(0.024)

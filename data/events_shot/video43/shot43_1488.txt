@@ -1,0 +1,5 @@
+talking(0.049)
+sneezing(0.046)
+adult+male+speaking(0.033)
+discussing(0.032)
+playing+videogames(0.030)

@@ -1,0 +1,5 @@
+walking(0.334)
+standing(0.048)
+shrugging(0.038)
+entering(0.031)
+exiting(0.030)

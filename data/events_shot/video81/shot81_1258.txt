@@ -1,0 +1,5 @@
+crying(0.137)
+bowing(0.050)
+raining(0.039)
+sneezing(0.037)
+falling(0.033)

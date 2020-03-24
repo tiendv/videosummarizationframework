@@ -1,0 +1,5 @@
+discussing(0.200)
+hunting(0.147)
+interviewing(0.093)
+talking(0.079)
+adult+male+speaking(0.047)

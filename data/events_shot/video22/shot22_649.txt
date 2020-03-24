@@ -1,0 +1,5 @@
+asking(0.049)
+frowning(0.041)
+queuing(0.041)
+standing(0.035)
+fencing(0.035)

@@ -1,0 +1,5 @@
+sneezing(0.090)
+coughing(0.054)
+slapping(0.044)
+imitating(0.026)
+painting(0.024)

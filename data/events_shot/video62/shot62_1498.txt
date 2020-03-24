@@ -1,0 +1,5 @@
+walking(0.071)
+waving(0.057)
+filming(0.045)
+blowing(0.041)
+adult+female+speaking(0.041)

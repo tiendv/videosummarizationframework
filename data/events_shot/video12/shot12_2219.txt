@@ -1,0 +1,5 @@
+handwriting(0.067)
+adult+male+speaking(0.058)
+playing+music(0.048)
+autographing(0.039)
+writing(0.037)

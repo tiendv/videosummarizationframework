@@ -1,5 +1,0 @@
-packing(0.259)
-unpacking(0.108)
-vacuuming(0.104)
-handcuffing(0.072)
-cleaning(0.050)

@@ -1,0 +1,5 @@
+hugging(0.218)
+sleeping(0.044)
+walking(0.042)
+cuddling(0.037)
+adult+male+speaking(0.033)

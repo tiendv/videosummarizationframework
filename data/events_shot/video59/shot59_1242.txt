@@ -1,5 +1,0 @@
-adult+male+singing(0.132)
-smoking(0.076)
-adult+female+singing(0.041)
-burning(0.040)
-adult+male+speaking(0.035)

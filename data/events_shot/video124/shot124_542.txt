@@ -1,0 +1,5 @@
+preaching(0.464)
+adult+male+speaking(0.087)
+standing(0.030)
+adult+male+singing(0.020)
+protesting(0.013)

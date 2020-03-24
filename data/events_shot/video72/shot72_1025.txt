@@ -1,0 +1,5 @@
+squatting(0.256)
+lifting(0.076)
+exercising(0.032)
+gripping(0.018)
+standing(0.016)

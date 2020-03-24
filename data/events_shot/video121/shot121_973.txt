@@ -1,0 +1,5 @@
+interviewing(0.154)
+manicuring(0.138)
+adult+female+speaking(0.114)
+discussing(0.088)
+tapping(0.062)

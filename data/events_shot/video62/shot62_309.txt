@@ -1,0 +1,5 @@
+adult+male+speaking(0.066)
+drinking(0.050)
+waking(0.050)
+eating(0.039)
+crying(0.038)

@@ -1,0 +1,5 @@
+tapping(0.065)
+sleeping(0.060)
+waking(0.045)
+slapping(0.033)
+scratching(0.027)

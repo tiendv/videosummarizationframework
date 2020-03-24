@@ -1,0 +1,5 @@
+splashing(0.038)
+laughing(0.035)
+drinking(0.033)
+standing(0.030)
+spitting(0.025)

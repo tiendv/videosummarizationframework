@@ -1,0 +1,5 @@
+fighting(0.029)
+rising(0.028)
+clipping(0.024)
+knocking(0.024)
+standing(0.021)

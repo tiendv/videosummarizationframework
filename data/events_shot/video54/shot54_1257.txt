@@ -1,0 +1,5 @@
+inflating(0.101)
+baking(0.034)
+cooking(0.033)
+adult+female+singing(0.026)
+rolling(0.024)

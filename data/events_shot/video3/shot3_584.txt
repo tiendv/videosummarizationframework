@@ -1,0 +1,5 @@
+lecturing(0.084)
+adult+male+speaking(0.077)
+drying(0.057)
+discussing(0.056)
+interviewing(0.051)

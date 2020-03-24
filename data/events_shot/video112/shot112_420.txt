@@ -1,0 +1,5 @@
+fueling(0.079)
+arresting(0.073)
+handcuffing(0.070)
+guarding(0.039)
+drumming(0.032)

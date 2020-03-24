@@ -1,0 +1,5 @@
+filming(0.053)
+walking(0.052)
+coaching(0.042)
+hugging(0.025)
+adult+male+speaking(0.025)

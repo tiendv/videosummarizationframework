@@ -1,0 +1,5 @@
+adult+male+speaking(0.042)
+raining(0.041)
+standing(0.032)
+carrying(0.031)
+crying(0.023)

@@ -1,0 +1,5 @@
+slapping(0.089)
+talking(0.056)
+shrugging(0.047)
+adult+female+speaking(0.036)
+crying(0.034)

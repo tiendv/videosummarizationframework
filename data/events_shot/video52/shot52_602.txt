@@ -1,0 +1,5 @@
+fueling(0.309)
+adult+male+speaking(0.044)
+walking(0.041)
+asking(0.035)
+stealing(0.029)

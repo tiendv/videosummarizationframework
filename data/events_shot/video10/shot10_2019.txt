@@ -1,5 +1,0 @@
-fueling(0.712)
-shopping(0.041)
-stealing(0.031)
-filling(0.021)
-emptying(0.012)

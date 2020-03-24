@@ -1,5 +1,0 @@
-standing(0.053)
-bowing(0.034)
-fighting(0.027)
-sitting(0.027)
-drinking(0.026)

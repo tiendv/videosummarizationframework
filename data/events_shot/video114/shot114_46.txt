@@ -1,0 +1,5 @@
+drinking(0.937)
+tapping(0.011)
+chewing(0.006)
+eating(0.002)
+smelling(0.002)

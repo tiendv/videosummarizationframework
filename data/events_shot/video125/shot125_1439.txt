@@ -1,0 +1,5 @@
+adult+female+speaking(0.073)
+adult+male+speaking(0.069)
+asking(0.050)
+adult+female+singing(0.050)
+playing+videogames(0.039)

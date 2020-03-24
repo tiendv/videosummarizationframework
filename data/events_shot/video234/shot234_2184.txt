@@ -1,5 +1,0 @@
-cooking(0.068)
-putting(0.036)
-packing(0.025)
-placing(0.024)
-baking(0.023)

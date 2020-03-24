@@ -1,0 +1,5 @@
+crying(0.979)
+frowning(0.004)
+raining(0.004)
+adult+female+singing(0.002)
+squinting(0.001)

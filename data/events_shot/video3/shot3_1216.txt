@@ -1,0 +1,5 @@
+adult+female+singing(0.180)
+adult+female+speaking(0.059)
+exercising(0.028)
+lifting(0.017)
+starting(0.017)

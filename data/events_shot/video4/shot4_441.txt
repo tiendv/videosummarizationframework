@@ -1,0 +1,5 @@
+dancing(0.045)
+clapping(0.028)
+standing(0.027)
+filming(0.026)
+walking(0.026)

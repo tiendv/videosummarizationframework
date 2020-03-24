@@ -1,0 +1,5 @@
+drinking(0.617)
+manicuring(0.030)
+pouring(0.025)
+tattooing(0.024)
+talking(0.021)

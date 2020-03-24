@@ -1,5 +1,0 @@
-climbing(0.043)
-cooking(0.032)
-gripping(0.027)
-measuring(0.023)
-hanging(0.019)

@@ -1,0 +1,5 @@
+walking(0.053)
+lecturing(0.051)
+playing+videogames(0.047)
+giving(0.040)
+adult+male+speaking(0.033)

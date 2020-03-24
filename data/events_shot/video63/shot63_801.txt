@@ -1,0 +1,5 @@
+adult+male+speaking(0.049)
+stealing(0.041)
+asking(0.035)
+chewing(0.033)
+selling(0.027)

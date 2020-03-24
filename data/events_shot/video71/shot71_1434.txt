@@ -1,0 +1,5 @@
+frowning(0.164)
+smiling(0.074)
+hugging(0.071)
+crying(0.065)
+squinting(0.039)

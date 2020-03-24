@@ -1,0 +1,5 @@
+diving(0.363)
+climbing(0.092)
+digging(0.033)
+burying(0.030)
+swimming(0.025)

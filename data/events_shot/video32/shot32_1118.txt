@@ -1,0 +1,5 @@
+typing(0.094)
+reading(0.083)
+writing(0.054)
+drawing(0.034)
+studying(0.032)

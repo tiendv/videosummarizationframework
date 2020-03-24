@@ -1,0 +1,5 @@
+slapping(0.078)
+chewing(0.033)
+sneezing(0.028)
+walking(0.027)
+snapping(0.019)

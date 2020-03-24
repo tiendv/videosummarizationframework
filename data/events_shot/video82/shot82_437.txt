@@ -1,0 +1,5 @@
+shopping(0.102)
+working(0.072)
+selling(0.059)
+standing(0.025)
+buying(0.024)

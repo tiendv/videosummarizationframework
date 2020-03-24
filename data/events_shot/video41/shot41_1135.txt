@@ -1,0 +1,5 @@
+laughing(0.275)
+giggling(0.040)
+crying(0.030)
+spitting(0.026)
+adult+male+speaking(0.025)

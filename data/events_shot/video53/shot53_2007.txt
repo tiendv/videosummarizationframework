@@ -1,0 +1,5 @@
+hugging(0.334)
+kissing(0.073)
+carrying(0.037)
+slapping(0.022)
+walking(0.019)

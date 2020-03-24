@@ -1,0 +1,5 @@
+adult+male+speaking(0.120)
+frowning(0.106)
+coaching(0.056)
+interviewing(0.054)
+boxing(0.051)

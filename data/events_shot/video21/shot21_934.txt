@@ -1,0 +1,5 @@
+child+speaking(0.088)
+adult+female+speaking(0.041)
+painting(0.039)
+baptizing(0.031)
+opening(0.024)

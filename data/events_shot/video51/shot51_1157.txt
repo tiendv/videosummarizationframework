@@ -1,0 +1,5 @@
+bathing(0.101)
+drinking(0.082)
+wetting(0.045)
+splashing(0.036)
+spitting(0.036)

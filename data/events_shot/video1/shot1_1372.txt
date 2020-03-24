@@ -1,0 +1,5 @@
+painting(0.095)
+sitting(0.054)
+reading(0.053)
+drinking(0.038)
+sneezing(0.036)

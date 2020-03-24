@@ -1,0 +1,5 @@
+fighting(0.049)
+adult+male+speaking(0.039)
+aiming(0.035)
+drinking(0.022)
+arresting(0.021)

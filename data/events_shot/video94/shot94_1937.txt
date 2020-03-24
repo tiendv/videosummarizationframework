@@ -1,0 +1,5 @@
+adult+female+singing(0.137)
+adult+female+speaking(0.061)
+filming(0.045)
+hugging(0.037)
+tattooing(0.033)

@@ -1,0 +1,5 @@
+guarding(0.132)
+queuing(0.129)
+protesting(0.057)
+saluting(0.049)
+standing(0.045)

@@ -1,0 +1,5 @@
+stacking(0.307)
+drinking(0.052)
+packaging(0.047)
+wrapping(0.034)
+packing(0.030)

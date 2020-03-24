@@ -1,0 +1,5 @@
+dressing(0.255)
+handcuffing(0.232)
+inflating(0.035)
+packing(0.030)
+adult+female+speaking(0.025)

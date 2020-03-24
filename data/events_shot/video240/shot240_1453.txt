@@ -1,5 +1,0 @@
-talking(0.065)
-frowning(0.059)
-cracking(0.050)
-adult+male+speaking(0.038)
-sitting(0.036)

@@ -1,5 +1,0 @@
-fighting(0.180)
-cooking(0.070)
-stirring(0.035)
-attacking(0.029)
-punching(0.027)

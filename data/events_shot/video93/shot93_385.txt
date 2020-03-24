@@ -1,0 +1,5 @@
+cooking(0.141)
+stirring(0.030)
+adult+male+speaking(0.027)
+baking(0.023)
+autographing(0.022)

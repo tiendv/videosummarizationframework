@@ -1,0 +1,5 @@
+stitching(0.105)
+sewing(0.060)
+injecting(0.046)
+manicuring(0.028)
+peeling(0.020)

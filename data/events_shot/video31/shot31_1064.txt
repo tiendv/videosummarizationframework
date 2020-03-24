@@ -1,0 +1,5 @@
+asking(0.165)
+walking(0.093)
+preaching(0.081)
+adult+male+speaking(0.041)
+laughing(0.040)

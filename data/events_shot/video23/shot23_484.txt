@@ -1,0 +1,5 @@
+child+speaking(0.077)
+standing(0.074)
+smiling(0.040)
+frowning(0.038)
+shrugging(0.037)

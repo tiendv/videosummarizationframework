@@ -1,0 +1,5 @@
+drinking(0.174)
+calling(0.065)
+smelling(0.052)
+telephoning(0.040)
+coughing(0.024)

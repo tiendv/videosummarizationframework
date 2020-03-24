@@ -1,0 +1,5 @@
+pulling(0.261)
+gripping(0.101)
+dragging(0.052)
+climbing(0.047)
+squatting(0.039)

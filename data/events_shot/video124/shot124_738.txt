@@ -1,0 +1,5 @@
+queuing(0.535)
+autographing(0.049)
+hugging(0.045)
+walking(0.024)
+protesting(0.020)

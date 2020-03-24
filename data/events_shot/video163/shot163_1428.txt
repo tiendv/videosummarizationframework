@@ -1,5 +1,0 @@
-waking(0.207)
-fighting(0.139)
-sleeping(0.096)
-resting(0.045)
-slapping(0.037)

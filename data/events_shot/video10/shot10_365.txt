@@ -1,5 +1,0 @@
-barbecuing(0.142)
-cooking(0.138)
-grilling(0.102)
-frying(0.071)
-dining(0.046)

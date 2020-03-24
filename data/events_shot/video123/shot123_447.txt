@@ -1,0 +1,5 @@
+sitting(0.072)
+shrugging(0.042)
+talking(0.028)
+asking(0.025)
+starting(0.021)

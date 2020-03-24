@@ -1,0 +1,5 @@
+stealing(0.054)
+mopping(0.044)
+cleaning(0.043)
+dusting(0.030)
+running(0.028)

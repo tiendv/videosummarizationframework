@@ -1,0 +1,5 @@
+walking(0.199)
+fencing(0.083)
+standing(0.067)
+snowing(0.046)
+playing+videogames(0.030)

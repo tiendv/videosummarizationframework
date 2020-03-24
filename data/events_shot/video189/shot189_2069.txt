@@ -1,5 +1,0 @@
-driving(0.098)
-racing(0.096)
-rolling(0.084)
-riding(0.078)
-jumping(0.051)

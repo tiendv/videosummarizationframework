@@ -1,5 +1,0 @@
-baking(0.498)
-cooking(0.147)
-talking(0.031)
-mopping(0.024)
-working(0.015)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.070)
+smiling(0.055)
+winking(0.029)
+telephoning(0.028)
+filming(0.025)

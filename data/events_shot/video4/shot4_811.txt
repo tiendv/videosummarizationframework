@@ -1,0 +1,5 @@
+locking(0.678)
+knocking(0.136)
+tuning(0.032)
+plugging(0.027)
+starting(0.015)

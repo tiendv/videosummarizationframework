@@ -1,0 +1,5 @@
+knitting(0.861)
+adult+female+speaking(0.031)
+stitching(0.026)
+sewing(0.005)
+smiling(0.004)

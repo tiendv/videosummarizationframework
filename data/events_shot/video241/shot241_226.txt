@@ -1,5 +1,0 @@
-raining(0.083)
-walking(0.059)
-running(0.028)
-arresting(0.027)
-hunting(0.026)

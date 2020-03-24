@@ -1,0 +1,5 @@
+picking(0.210)
+barbecuing(0.122)
+cooking(0.101)
+peeling(0.092)
+slicing(0.062)

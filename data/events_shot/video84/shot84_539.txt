@@ -1,0 +1,5 @@
+rubbing(0.049)
+sneezing(0.023)
+flicking(0.023)
+opening(0.021)
+unpacking(0.019)

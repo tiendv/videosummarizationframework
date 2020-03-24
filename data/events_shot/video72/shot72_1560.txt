@@ -1,0 +1,5 @@
+adult+male+speaking(0.070)
+officiating(0.050)
+queuing(0.048)
+giving(0.043)
+joining(0.042)

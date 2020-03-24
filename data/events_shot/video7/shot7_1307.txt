@@ -1,5 +1,0 @@
-bowling(0.754)
-bowing(0.016)
-standing(0.011)
-rolling(0.011)
-adult+male+speaking(0.011)

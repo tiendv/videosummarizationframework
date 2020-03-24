@@ -1,5 +1,0 @@
-crying(0.265)
-frowning(0.071)
-squinting(0.058)
-talking(0.045)
-adult+female+speaking(0.029)

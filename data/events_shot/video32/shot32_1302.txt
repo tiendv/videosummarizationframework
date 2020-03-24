@@ -1,0 +1,5 @@
+hugging(0.104)
+smiling(0.048)
+selling(0.042)
+asking(0.040)
+adult+female+speaking(0.038)

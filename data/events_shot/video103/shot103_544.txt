@@ -1,0 +1,5 @@
+sneezing(0.124)
+laughing(0.115)
+coughing(0.059)
+giggling(0.020)
+rocking(0.018)

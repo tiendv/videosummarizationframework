@@ -1,0 +1,5 @@
+running(0.347)
+jogging(0.087)
+walking(0.076)
+sprinting(0.046)
+playing+videogames(0.039)

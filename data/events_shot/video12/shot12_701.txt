@@ -1,0 +1,5 @@
+fencing(0.497)
+gardening(0.090)
+adult+male+speaking(0.036)
+planting(0.026)
+starting(0.020)

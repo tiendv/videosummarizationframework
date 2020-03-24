@@ -1,0 +1,5 @@
+snowing(0.124)
+raining(0.064)
+praying(0.049)
+officiating(0.040)
+adult+male+speaking(0.035)

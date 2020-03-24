@@ -1,0 +1,5 @@
+hugging(0.464)
+kissing(0.332)
+asking(0.017)
+sneezing(0.015)
+cuddling(0.012)

@@ -1,5 +1,0 @@
-knocking(0.137)
-painting(0.086)
-building(0.057)
-adult+male+speaking(0.039)
-constructing(0.030)

@@ -1,0 +1,5 @@
+reading(0.028)
+discussing(0.028)
+interviewing(0.027)
+standing(0.023)
+laughing(0.023)

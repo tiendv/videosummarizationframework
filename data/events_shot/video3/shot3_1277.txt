@@ -1,0 +1,5 @@
+filming(0.135)
+photographing(0.131)
+hiking(0.089)
+camping(0.056)
+pushing(0.023)

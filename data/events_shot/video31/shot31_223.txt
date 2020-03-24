@@ -1,0 +1,5 @@
+sanding(0.472)
+cleaning(0.214)
+scrubbing(0.142)
+dusting(0.024)
+baking(0.020)

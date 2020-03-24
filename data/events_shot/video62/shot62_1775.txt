@@ -1,0 +1,5 @@
+saluting(0.045)
+waving(0.044)
+punching(0.043)
+raising(0.029)
+slapping(0.027)

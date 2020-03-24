@@ -1,5 +1,0 @@
-fighting(0.129)
-driving(0.108)
-adult+male+singing(0.070)
-attacking(0.055)
-roaring(0.035)

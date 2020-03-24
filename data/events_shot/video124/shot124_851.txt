@@ -1,0 +1,5 @@
+boxing(0.165)
+licking(0.120)
+punching(0.090)
+kissing(0.053)
+adult+female+singing(0.050)

@@ -1,5 +1,0 @@
-mopping(0.065)
-sneezing(0.052)
-adult+female+speaking(0.046)
-cooking(0.041)
-slapping(0.036)

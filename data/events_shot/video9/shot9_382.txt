@@ -1,5 +1,0 @@
-snowing(0.084)
-talking(0.042)
-standing(0.041)
-walking(0.023)
-dressing(0.018)

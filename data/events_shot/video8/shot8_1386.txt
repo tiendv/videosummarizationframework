@@ -1,5 +1,0 @@
-throwing(0.122)
-hanging(0.080)
-punching(0.072)
-slapping(0.024)
-stealing(0.023)

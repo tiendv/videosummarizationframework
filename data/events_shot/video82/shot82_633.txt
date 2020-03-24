@@ -1,0 +1,5 @@
+loading(0.106)
+unloading(0.095)
+closing(0.052)
+opening(0.052)
+removing(0.039)

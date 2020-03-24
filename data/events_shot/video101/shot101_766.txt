@@ -1,0 +1,5 @@
+adult+male+singing(0.166)
+talking(0.130)
+adult+male+speaking(0.122)
+playing+videogames(0.075)
+standing(0.069)

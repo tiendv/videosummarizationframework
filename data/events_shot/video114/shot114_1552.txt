@@ -1,5 +1,0 @@
-walking(0.096)
-cleaning(0.090)
-mopping(0.074)
-dusting(0.053)
-vacuuming(0.042)

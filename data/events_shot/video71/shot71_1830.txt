@@ -1,0 +1,5 @@
+adult+male+speaking(0.078)
+talking(0.077)
+standing(0.074)
+filming(0.043)
+knocking(0.031)

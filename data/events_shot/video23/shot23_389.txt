@@ -1,0 +1,5 @@
+adult+female+singing(0.269)
+adult+female+speaking(0.110)
+handwriting(0.027)
+singing(0.025)
+filming(0.022)

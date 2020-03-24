@@ -1,0 +1,5 @@
+protesting(0.287)
+walking(0.051)
+standing(0.045)
+building(0.033)
+preaching(0.024)

@@ -1,0 +1,5 @@
+arresting(0.096)
+hugging(0.096)
+stealing(0.059)
+laughing(0.048)
+adult+male+speaking(0.031)

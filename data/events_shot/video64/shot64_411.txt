@@ -1,0 +1,5 @@
+drawing(0.128)
+autographing(0.089)
+flipping(0.067)
+reading(0.052)
+tattooing(0.042)

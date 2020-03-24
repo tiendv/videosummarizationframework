@@ -1,0 +1,5 @@
+fighting(0.070)
+slapping(0.043)
+attacking(0.041)
+driving(0.038)
+riding(0.029)

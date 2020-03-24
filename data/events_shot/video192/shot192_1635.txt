@@ -1,5 +1,0 @@
-spinning(0.699)
-turning(0.076)
-crying(0.010)
-laughing(0.008)
-yawning(0.006)

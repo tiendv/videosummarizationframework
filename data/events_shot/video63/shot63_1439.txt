@@ -1,0 +1,5 @@
+adult+female+speaking(0.065)
+adult+female+singing(0.062)
+dancing(0.050)
+skipping(0.038)
+hugging(0.023)

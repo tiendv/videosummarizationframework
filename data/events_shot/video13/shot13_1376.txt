@@ -1,0 +1,5 @@
+opening(0.247)
+closing(0.220)
+talking(0.031)
+locking(0.020)
+turning(0.018)

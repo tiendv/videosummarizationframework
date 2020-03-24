@@ -1,0 +1,5 @@
+dining(0.111)
+eating(0.050)
+queuing(0.043)
+adult+male+speaking(0.040)
+walking(0.032)

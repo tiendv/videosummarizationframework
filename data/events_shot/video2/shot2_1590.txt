@@ -1,0 +1,5 @@
+brushing(0.697)
+combing(0.180)
+drying(0.109)
+scratching(0.003)
+rubbing(0.002)

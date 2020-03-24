@@ -1,0 +1,5 @@
+carrying(0.070)
+walking(0.048)
+raining(0.041)
+playing+videogames(0.038)
+hugging(0.036)

@@ -1,0 +1,5 @@
+standing(0.165)
+lecturing(0.138)
+reading(0.049)
+performing(0.037)
+adult+male+speaking(0.034)

@@ -1,0 +1,5 @@
+walking(0.319)
+arresting(0.095)
+slapping(0.051)
+exiting(0.051)
+knocking(0.033)

@@ -1,5 +1,0 @@
-drinking(0.090)
-adult+female+speaking(0.063)
-hugging(0.046)
-adult+female+singing(0.039)
-standing(0.039)

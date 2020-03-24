@@ -1,5 +1,0 @@
-stealing(0.054)
-walking(0.043)
-running(0.040)
-hitchhiking(0.030)
-driving(0.028)

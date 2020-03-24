@@ -1,5 +1,0 @@
-adult+female+singing(0.266)
-adult+female+speaking(0.117)
-talking(0.032)
-discussing(0.032)
-fighting(0.019)

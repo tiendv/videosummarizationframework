@@ -1,0 +1,5 @@
+raining(0.106)
+adult+female+singing(0.094)
+playing+videogames(0.050)
+standing(0.050)
+talking(0.046)

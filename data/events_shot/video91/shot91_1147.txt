@@ -1,0 +1,5 @@
+sleeping(0.272)
+preaching(0.212)
+resting(0.063)
+waking(0.042)
+adult+male+speaking(0.032)

@@ -1,0 +1,5 @@
+smelling(0.205)
+sniffing(0.202)
+reading(0.134)
+drinking(0.094)
+opening(0.029)

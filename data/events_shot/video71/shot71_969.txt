@@ -1,0 +1,5 @@
+slapping(0.131)
+walking(0.063)
+arresting(0.047)
+filming(0.040)
+punching(0.036)

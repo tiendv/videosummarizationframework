@@ -1,0 +1,5 @@
+sanding(0.237)
+cleaning(0.083)
+repairing(0.079)
+rubbing(0.076)
+crafting(0.053)

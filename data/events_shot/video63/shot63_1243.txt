@@ -1,0 +1,5 @@
+asking(0.072)
+barbecuing(0.070)
+starting(0.047)
+fueling(0.042)
+adult+male+speaking(0.036)

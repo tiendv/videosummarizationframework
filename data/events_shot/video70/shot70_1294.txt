@@ -1,5 +1,0 @@
-hunting(0.155)
-shooting(0.050)
-attacking(0.041)
-discussing(0.031)
-pointing(0.027)

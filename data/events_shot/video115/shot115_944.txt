@@ -1,5 +1,0 @@
-aiming(0.054)
-stealing(0.048)
-arresting(0.039)
-playing+videogames(0.033)
-guarding(0.032)

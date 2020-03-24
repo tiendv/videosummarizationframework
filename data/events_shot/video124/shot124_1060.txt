@@ -1,0 +1,5 @@
+combing(0.132)
+brushing(0.057)
+drying(0.039)
+dressing(0.027)
+asking(0.026)

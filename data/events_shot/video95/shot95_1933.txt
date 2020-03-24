@@ -1,0 +1,5 @@
+exercising(0.106)
+running(0.074)
+vacuuming(0.072)
+walking(0.060)
+mopping(0.036)

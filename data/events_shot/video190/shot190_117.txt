@@ -1,5 +1,0 @@
-adult+male+speaking(0.106)
-crying(0.067)
-discussing(0.041)
-frowning(0.032)
-talking(0.029)

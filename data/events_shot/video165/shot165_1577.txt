@@ -1,5 +1,0 @@
-diving(0.038)
-standing(0.030)
-flipping(0.028)
-boarding(0.021)
-guarding(0.019)

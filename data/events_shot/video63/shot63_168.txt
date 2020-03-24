@@ -1,0 +1,5 @@
+vacuuming(0.371)
+stomping(0.096)
+inflating(0.084)
+cleaning(0.031)
+mopping(0.025)

@@ -1,0 +1,5 @@
+whistling(0.086)
+adult+male+speaking(0.040)
+talking(0.039)
+singing(0.033)
+adult+male+singing(0.032)

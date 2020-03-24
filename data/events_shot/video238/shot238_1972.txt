@@ -1,5 +1,0 @@
-fighting(0.130)
-attacking(0.107)
-roaring(0.085)
-shooting(0.034)
-standing(0.033)

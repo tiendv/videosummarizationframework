@@ -1,0 +1,5 @@
+barbecuing(0.155)
+cooking(0.110)
+grilling(0.061)
+selling(0.024)
+carving(0.021)

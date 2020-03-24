@@ -1,0 +1,5 @@
+adult+female+singing(0.133)
+walking(0.035)
+adult+female+speaking(0.032)
+handcuffing(0.030)
+standing(0.023)

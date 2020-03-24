@@ -1,0 +1,5 @@
+giving(0.176)
+paying(0.082)
+selling(0.072)
+stealing(0.044)
+shopping(0.039)

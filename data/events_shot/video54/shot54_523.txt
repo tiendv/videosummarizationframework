@@ -1,0 +1,5 @@
+adult+male+speaking(0.052)
+flooding(0.035)
+discussing(0.031)
+interviewing(0.023)
+talking(0.023)

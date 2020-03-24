@@ -1,0 +1,5 @@
+bouncing(0.129)
+rocking(0.071)
+rising(0.050)
+aiming(0.033)
+inflating(0.027)

@@ -1,0 +1,5 @@
+aiming(0.166)
+filming(0.048)
+squinting(0.036)
+adult+female+speaking(0.036)
+shooting(0.033)

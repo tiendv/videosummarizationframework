@@ -1,5 +1,0 @@
-drinking(0.042)
-adult+male+speaking(0.035)
-sneezing(0.025)
-filming(0.023)
-stacking(0.020)

@@ -1,0 +1,5 @@
+dining(0.055)
+walking(0.031)
+raining(0.027)
+sitting(0.021)
+blowing(0.019)

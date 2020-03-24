@@ -1,0 +1,5 @@
+handcuffing(0.057)
+arresting(0.050)
+adult+male+speaking(0.045)
+cracking(0.034)
+telephoning(0.029)

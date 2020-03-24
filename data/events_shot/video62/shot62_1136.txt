@@ -1,0 +1,5 @@
+drying(0.057)
+talking(0.047)
+cooking(0.045)
+laughing(0.036)
+singing(0.030)

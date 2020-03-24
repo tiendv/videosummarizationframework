@@ -1,0 +1,5 @@
+waking(0.292)
+cuddling(0.062)
+sneezing(0.058)
+hugging(0.048)
+coughing(0.047)

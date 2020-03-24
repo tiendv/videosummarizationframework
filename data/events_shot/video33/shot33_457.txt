@@ -1,0 +1,5 @@
+baking(0.081)
+adult+female+speaking(0.059)
+sneezing(0.041)
+discussing(0.032)
+talking(0.028)

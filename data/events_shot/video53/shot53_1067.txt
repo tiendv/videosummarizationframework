@@ -1,0 +1,5 @@
+sneezing(0.393)
+coughing(0.158)
+camping(0.041)
+waking(0.027)
+slapping(0.019)

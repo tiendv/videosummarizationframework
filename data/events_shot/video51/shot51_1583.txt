@@ -1,0 +1,5 @@
+fighting(0.165)
+walking(0.063)
+raining(0.048)
+knocking(0.035)
+attacking(0.028)

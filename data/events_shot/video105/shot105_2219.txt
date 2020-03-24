@@ -1,0 +1,5 @@
+hiking(0.307)
+walking(0.172)
+hunting(0.167)
+climbing(0.052)
+burying(0.035)

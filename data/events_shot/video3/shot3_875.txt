@@ -1,0 +1,5 @@
+driving(0.129)
+talking(0.109)
+smiling(0.070)
+winking(0.040)
+calling(0.027)

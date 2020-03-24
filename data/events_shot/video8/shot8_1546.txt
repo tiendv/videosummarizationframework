@@ -1,5 +1,0 @@
-child+speaking(0.147)
-sneezing(0.078)
-reading(0.053)
-adult+female+speaking(0.041)
-packing(0.041)

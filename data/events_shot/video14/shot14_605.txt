@@ -1,0 +1,5 @@
+dancing(0.102)
+skating(0.091)
+stomping(0.067)
+skipping(0.052)
+bouncing(0.050)

@@ -1,0 +1,5 @@
+cleaning(0.172)
+scrubbing(0.106)
+shaving(0.053)
+washing(0.040)
+mopping(0.038)

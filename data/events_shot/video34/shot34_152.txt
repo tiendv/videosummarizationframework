@@ -1,0 +1,5 @@
+driving(0.310)
+riding(0.152)
+towing(0.072)
+pushing(0.039)
+rolling(0.034)

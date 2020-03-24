@@ -1,0 +1,5 @@
+packing(0.103)
+crushing(0.075)
+smashing(0.052)
+unpacking(0.044)
+chewing(0.030)

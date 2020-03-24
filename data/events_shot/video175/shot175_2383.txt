@@ -1,5 +1,0 @@
-crying(0.085)
-raining(0.045)
-locking(0.027)
-laughing(0.021)
-knocking(0.021)

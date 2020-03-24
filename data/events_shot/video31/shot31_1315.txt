@@ -1,0 +1,5 @@
+adult+male+singing(0.120)
+standing(0.079)
+filming(0.059)
+photographing(0.046)
+singing(0.042)

@@ -1,5 +1,0 @@
-stacking(0.234)
-drinking(0.152)
-eating(0.043)
-cooking(0.035)
-baking(0.030)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.201)
+autographing(0.059)
+adult+male+speaking(0.057)
+adult+female+singing(0.057)
+asking(0.055)

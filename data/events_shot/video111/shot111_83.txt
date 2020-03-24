@@ -1,0 +1,5 @@
+measuring(0.436)
+locking(0.067)
+opening(0.053)
+closing(0.036)
+starting(0.010)

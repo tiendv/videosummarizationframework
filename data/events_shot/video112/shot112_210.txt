@@ -1,0 +1,5 @@
+painting(0.137)
+adult+female+speaking(0.068)
+brushing(0.063)
+adult+female+singing(0.028)
+manicuring(0.028)

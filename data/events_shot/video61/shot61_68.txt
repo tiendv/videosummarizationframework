@@ -1,0 +1,5 @@
+drying(0.295)
+washing(0.022)
+talking(0.021)
+brushing(0.020)
+standing(0.017)

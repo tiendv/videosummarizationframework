@@ -1,0 +1,5 @@
+adult+male+speaking(0.134)
+laughing(0.082)
+talking(0.068)
+drinking(0.049)
+adult+male+singing(0.044)

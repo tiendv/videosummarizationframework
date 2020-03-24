@@ -1,0 +1,5 @@
+slapping(0.051)
+inflating(0.051)
+laughing(0.044)
+sneezing(0.040)
+child+speaking(0.021)

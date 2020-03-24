@@ -1,0 +1,5 @@
+guarding(0.073)
+arresting(0.060)
+playing+videogames(0.054)
+knocking(0.050)
+adult+male+speaking(0.034)

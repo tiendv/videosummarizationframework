@@ -1,0 +1,5 @@
+walking(0.068)
+filming(0.038)
+raining(0.034)
+hiking(0.031)
+photographing(0.030)

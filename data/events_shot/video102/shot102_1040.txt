@@ -1,0 +1,5 @@
+roaring(0.210)
+crying(0.068)
+bowing(0.028)
+adult+male+speaking(0.028)
+playing+videogames(0.019)

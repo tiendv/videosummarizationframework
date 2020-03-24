@@ -1,0 +1,5 @@
+running(0.709)
+chasing(0.049)
+walking(0.021)
+raining(0.018)
+sliding(0.014)

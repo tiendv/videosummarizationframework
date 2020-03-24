@@ -1,0 +1,5 @@
+discussing(0.171)
+sitting(0.083)
+talking(0.070)
+adult+male+speaking(0.052)
+dining(0.034)

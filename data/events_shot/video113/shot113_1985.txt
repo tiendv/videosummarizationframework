@@ -1,0 +1,5 @@
+adult+female+speaking(0.063)
+smiling(0.055)
+painting(0.031)
+dressing(0.028)
+adult+female+singing(0.027)

@@ -1,5 +1,0 @@
-adult+male+singing(0.066)
-standing(0.057)
-hugging(0.049)
-queuing(0.048)
-adult+male+speaking(0.046)

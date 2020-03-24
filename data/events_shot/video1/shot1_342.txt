@@ -1,0 +1,5 @@
+sneezing(0.150)
+adult+male+singing(0.089)
+coughing(0.067)
+adult+male+speaking(0.043)
+drinking(0.033)

@@ -1,0 +1,5 @@
+sawing(0.048)
+hugging(0.036)
+adult+male+speaking(0.027)
+clipping(0.024)
+crying(0.020)

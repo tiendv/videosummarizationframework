@@ -1,0 +1,5 @@
+bowing(0.197)
+praying(0.060)
+sneezing(0.044)
+kneeling(0.040)
+drinking(0.028)

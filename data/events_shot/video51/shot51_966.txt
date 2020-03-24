@@ -1,0 +1,5 @@
+hugging(0.084)
+dressing(0.058)
+tying(0.051)
+cuddling(0.025)
+sniffing(0.024)

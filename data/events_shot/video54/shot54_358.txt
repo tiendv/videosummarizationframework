@@ -1,0 +1,5 @@
+adult+female+speaking(0.246)
+crying(0.233)
+smoking(0.096)
+smiling(0.030)
+kissing(0.027)

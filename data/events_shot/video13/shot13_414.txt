@@ -1,0 +1,5 @@
+talking(0.077)
+pointing(0.046)
+filming(0.036)
+walking(0.035)
+piloting(0.030)

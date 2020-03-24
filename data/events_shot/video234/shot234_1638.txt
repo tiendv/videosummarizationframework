@@ -1,5 +1,0 @@
-roaring(0.119)
-slapping(0.102)
-sneezing(0.080)
-coughing(0.076)
-yawning(0.072)

@@ -1,0 +1,5 @@
+gardening(0.105)
+clipping(0.062)
+trimming(0.041)
+adult+male+speaking(0.037)
+planting(0.030)

@@ -1,0 +1,5 @@
+slapping(0.133)
+laughing(0.050)
+sneezing(0.045)
+kissing(0.032)
+standing(0.031)

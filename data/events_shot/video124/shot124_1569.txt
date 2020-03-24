@@ -1,0 +1,5 @@
+walking(0.390)
+crying(0.061)
+carrying(0.046)
+turning(0.027)
+raining(0.026)

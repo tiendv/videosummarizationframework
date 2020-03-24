@@ -1,0 +1,5 @@
+mopping(0.301)
+officiating(0.053)
+sweeping(0.051)
+standing(0.044)
+walking(0.041)

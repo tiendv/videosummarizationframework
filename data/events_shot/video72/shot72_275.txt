@@ -1,0 +1,5 @@
+roaring(0.213)
+dusting(0.119)
+tuning(0.049)
+vacuuming(0.039)
+barking(0.027)

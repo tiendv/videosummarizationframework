@@ -1,5 +1,0 @@
-driving(0.293)
-steering(0.095)
-riding(0.048)
-adult+male+singing(0.024)
-fighting(0.014)

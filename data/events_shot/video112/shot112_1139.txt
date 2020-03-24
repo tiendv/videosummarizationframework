@@ -1,0 +1,5 @@
+bathing(0.196)
+washing(0.058)
+rinsing(0.030)
+drinking(0.030)
+spraying(0.029)

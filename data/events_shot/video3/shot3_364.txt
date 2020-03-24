@@ -1,0 +1,5 @@
+adult+female+speaking(0.030)
+hugging(0.027)
+asking(0.020)
+brushing(0.019)
+lifting(0.019)

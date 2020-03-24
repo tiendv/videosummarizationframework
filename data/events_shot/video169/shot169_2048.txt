@@ -1,5 +1,0 @@
-hiking(0.050)
-hunting(0.049)
-filming(0.041)
-adult+male+speaking(0.037)
-starting(0.028)

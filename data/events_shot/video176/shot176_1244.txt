@@ -1,5 +1,0 @@
-working(0.105)
-sitting(0.053)
-talking(0.046)
-cooking(0.031)
-repairing(0.022)

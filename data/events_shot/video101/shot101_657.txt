@@ -1,0 +1,5 @@
+stomping(0.203)
+wrapping(0.046)
+folding(0.035)
+balancing(0.031)
+crushing(0.028)

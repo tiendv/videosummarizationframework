@@ -1,5 +1,0 @@
-teaching(0.165)
-adult+female+speaking(0.143)
-asking(0.055)
-discussing(0.041)
-cramming(0.036)

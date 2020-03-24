@@ -1,0 +1,5 @@
+cleaning(0.090)
+stomping(0.061)
+mopping(0.046)
+unpacking(0.025)
+packing(0.023)

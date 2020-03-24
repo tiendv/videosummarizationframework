@@ -1,0 +1,5 @@
+shaving(0.821)
+brushing(0.052)
+combing(0.036)
+child+speaking(0.006)
+slapping(0.005)

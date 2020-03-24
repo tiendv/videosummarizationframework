@@ -1,5 +1,0 @@
-shaving(0.101)
-combing(0.070)
-drying(0.055)
-cracking(0.037)
-tattooing(0.030)

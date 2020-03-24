@@ -1,0 +1,5 @@
+shaving(0.415)
+tattooing(0.169)
+carving(0.051)
+adult+male+speaking(0.043)
+waxing(0.020)

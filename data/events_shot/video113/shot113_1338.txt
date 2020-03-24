@@ -1,0 +1,5 @@
+adult+male+speaking(0.041)
+fencing(0.033)
+talking(0.027)
+starting(0.022)
+laughing(0.020)

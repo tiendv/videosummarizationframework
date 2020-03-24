@@ -1,0 +1,5 @@
+driving(0.144)
+steering(0.129)
+queuing(0.109)
+stopping(0.035)
+exiting(0.029)

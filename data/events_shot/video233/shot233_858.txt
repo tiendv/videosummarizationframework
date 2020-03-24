@@ -1,5 +1,0 @@
-cooking(0.055)
-drying(0.037)
-knocking(0.037)
-dressing(0.037)
-standing(0.026)

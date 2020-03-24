@@ -1,0 +1,5 @@
+adult+female+speaking(0.254)
+fencing(0.249)
+adult+female+singing(0.054)
+starting(0.018)
+asking(0.016)

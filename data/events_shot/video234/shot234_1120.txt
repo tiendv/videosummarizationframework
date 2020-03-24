@@ -1,5 +1,0 @@
-adult+female+singing(0.081)
-entering(0.032)
-knocking(0.032)
-walking(0.030)
-adult+male+singing(0.027)

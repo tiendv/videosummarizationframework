@@ -1,0 +1,5 @@
+marching(0.087)
+standing(0.059)
+sitting(0.048)
+adult+male+speaking(0.045)
+parading(0.039)

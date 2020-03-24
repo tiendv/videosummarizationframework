@@ -1,5 +1,0 @@
-walking(0.474)
-standing(0.038)
-stomping(0.019)
-exiting(0.018)
-sneezing(0.016)

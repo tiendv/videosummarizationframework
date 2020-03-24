@@ -1,0 +1,5 @@
+drinking(0.718)
+eating(0.119)
+dining(0.022)
+cooking(0.010)
+coughing(0.010)

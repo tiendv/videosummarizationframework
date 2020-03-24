@@ -1,5 +1,0 @@
-walking(0.076)
-child+singing(0.043)
-guarding(0.039)
-standing(0.038)
-arresting(0.038)

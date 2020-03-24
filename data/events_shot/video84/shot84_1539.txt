@@ -1,0 +1,5 @@
+adult+female+speaking(0.113)
+slapping(0.066)
+brushing(0.054)
+chewing(0.024)
+standing(0.021)

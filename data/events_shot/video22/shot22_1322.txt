@@ -1,0 +1,5 @@
+slapping(0.409)
+hugging(0.079)
+kissing(0.050)
+smiling(0.032)
+asking(0.024)

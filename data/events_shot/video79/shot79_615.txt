@@ -1,5 +1,0 @@
-adult+male+speaking(0.045)
-discussing(0.032)
-hugging(0.031)
-telephoning(0.023)
-coaching(0.021)

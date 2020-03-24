@@ -1,5 +1,0 @@
-tapping(0.065)
-walking(0.044)
-playing+videogames(0.040)
-turning(0.039)
-spinning(0.038)

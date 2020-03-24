@@ -1,0 +1,5 @@
+drinking(0.840)
+sneezing(0.013)
+coughing(0.011)
+smoking(0.010)
+sitting(0.009)

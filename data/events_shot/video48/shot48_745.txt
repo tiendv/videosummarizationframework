@@ -1,5 +1,0 @@
-running(0.172)
-camping(0.033)
-jogging(0.029)
-asking(0.020)
-adult+male+speaking(0.017)

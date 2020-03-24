@@ -1,0 +1,5 @@
+marrying(0.156)
+adult+female+speaking(0.112)
+discussing(0.043)
+socializing(0.036)
+smiling(0.031)

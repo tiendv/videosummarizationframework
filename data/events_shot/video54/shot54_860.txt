@@ -1,0 +1,5 @@
+spitting(0.053)
+shrugging(0.034)
+smelling(0.033)
+coughing(0.025)
+licking(0.023)

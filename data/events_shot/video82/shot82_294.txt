@@ -1,0 +1,5 @@
+vacuuming(0.044)
+working(0.029)
+cooking(0.023)
+walking(0.022)
+playing+videogames(0.019)

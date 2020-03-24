@@ -1,5 +1,0 @@
-sitting(0.057)
-stretching(0.050)
-adult+male+speaking(0.045)
-waking(0.042)
-leaning(0.025)

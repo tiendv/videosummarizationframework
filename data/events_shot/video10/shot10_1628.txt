@@ -1,5 +1,0 @@
-crying(0.145)
-watering(0.056)
-raining(0.045)
-spraying(0.034)
-carrying(0.034)

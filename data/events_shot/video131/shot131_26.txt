@@ -1,0 +1,5 @@
+drawing(0.245)
+painting(0.081)
+squinting(0.072)
+adult+female+speaking(0.033)
+filling(0.032)

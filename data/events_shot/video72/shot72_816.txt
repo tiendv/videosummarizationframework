@@ -1,0 +1,5 @@
+adult+female+speaking(0.075)
+adult+female+singing(0.047)
+kissing(0.044)
+smiling(0.035)
+laughing(0.024)

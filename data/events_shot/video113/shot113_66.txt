@@ -1,0 +1,5 @@
+cleaning(0.073)
+coughing(0.033)
+sneezing(0.033)
+washing(0.030)
+laughing(0.029)

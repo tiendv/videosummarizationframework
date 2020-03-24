@@ -1,0 +1,5 @@
+walking(0.167)
+playing+videogames(0.118)
+standing(0.041)
+talking(0.036)
+stealing(0.026)

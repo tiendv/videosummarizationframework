@@ -1,0 +1,5 @@
+camping(0.055)
+driving(0.029)
+walking(0.025)
+working(0.018)
+adult+male+speaking(0.016)

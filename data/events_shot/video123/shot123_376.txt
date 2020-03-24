@@ -1,0 +1,5 @@
+walking(0.199)
+playing+videogames(0.103)
+guarding(0.053)
+asking(0.048)
+standing(0.046)

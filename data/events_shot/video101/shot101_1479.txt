@@ -1,0 +1,5 @@
+selling(0.116)
+shopping(0.064)
+asking(0.055)
+stealing(0.050)
+adult+male+speaking(0.049)

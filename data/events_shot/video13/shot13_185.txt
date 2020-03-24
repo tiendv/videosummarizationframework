@@ -1,0 +1,5 @@
+officiating(0.881)
+marrying(0.102)
+giving(0.004)
+baptizing(0.001)
+shaking(0.001)

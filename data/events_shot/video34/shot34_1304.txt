@@ -1,0 +1,5 @@
+sitting(0.126)
+filming(0.043)
+standing(0.040)
+drinking(0.032)
+officiating(0.031)

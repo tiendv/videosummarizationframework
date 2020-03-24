@@ -1,0 +1,5 @@
+sneezing(0.198)
+coughing(0.172)
+yawning(0.036)
+telephoning(0.030)
+calling(0.023)

@@ -1,5 +1,0 @@
-chewing(0.160)
-tapping(0.096)
-scratching(0.025)
-waking(0.024)
-cracking(0.023)

@@ -1,0 +1,5 @@
+bicycling(0.167)
+walking(0.052)
+spinning(0.051)
+driving(0.043)
+arresting(0.038)

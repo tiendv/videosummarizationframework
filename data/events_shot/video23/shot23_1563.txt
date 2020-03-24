@@ -1,0 +1,5 @@
+flipping(0.101)
+reading(0.078)
+flicking(0.033)
+loading(0.033)
+writing(0.023)

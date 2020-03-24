@@ -1,5 +1,0 @@
-hugging(0.083)
-dressing(0.075)
-combing(0.062)
-handcuffing(0.040)
-adult+female+singing(0.031)

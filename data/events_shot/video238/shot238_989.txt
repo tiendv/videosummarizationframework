@@ -1,5 +1,0 @@
-child+speaking(0.048)
-sneezing(0.041)
-coughing(0.040)
-adult+female+speaking(0.039)
-eating(0.038)

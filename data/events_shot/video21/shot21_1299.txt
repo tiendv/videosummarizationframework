@@ -1,0 +1,5 @@
+kissing(0.080)
+hugging(0.053)
+cracking(0.035)
+walking(0.034)
+slapping(0.033)

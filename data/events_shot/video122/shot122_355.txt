@@ -1,0 +1,5 @@
+sneezing(0.061)
+putting(0.029)
+packing(0.028)
+coughing(0.028)
+laughing(0.027)

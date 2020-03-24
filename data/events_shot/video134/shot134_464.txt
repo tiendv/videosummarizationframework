@@ -1,0 +1,5 @@
+shaving(0.061)
+mopping(0.053)
+brushing(0.052)
+standing(0.037)
+dusting(0.035)

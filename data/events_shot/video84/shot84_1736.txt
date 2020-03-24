@@ -1,0 +1,5 @@
+smoking(0.162)
+brushing(0.123)
+eating(0.038)
+adult+female+speaking(0.034)
+combing(0.031)

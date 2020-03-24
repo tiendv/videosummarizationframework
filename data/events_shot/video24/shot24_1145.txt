@@ -1,0 +1,5 @@
+lecturing(0.109)
+sneezing(0.066)
+coughing(0.052)
+laughing(0.047)
+adult+male+speaking(0.041)

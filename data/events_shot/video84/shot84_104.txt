@@ -1,0 +1,5 @@
+fighting(0.050)
+walking(0.039)
+shopping(0.032)
+standing(0.030)
+queuing(0.026)

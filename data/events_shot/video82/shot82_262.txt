@@ -1,0 +1,5 @@
+adult+male+speaking(0.090)
+discussing(0.054)
+aiming(0.050)
+cooking(0.048)
+pointing(0.046)

@@ -1,0 +1,5 @@
+preaching(0.045)
+adult+male+speaking(0.034)
+opening(0.034)
+closing(0.024)
+standing(0.023)

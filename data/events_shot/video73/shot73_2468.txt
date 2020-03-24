@@ -1,0 +1,5 @@
+hugging(0.131)
+adult+male+singing(0.073)
+adult+male+speaking(0.044)
+smiling(0.038)
+shrugging(0.036)

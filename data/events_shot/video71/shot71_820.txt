@@ -1,0 +1,5 @@
+opening(0.114)
+locking(0.084)
+closing(0.070)
+painting(0.056)
+drawing(0.043)

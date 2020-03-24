@@ -1,0 +1,5 @@
+handcuffing(0.116)
+locking(0.076)
+gripping(0.036)
+dressing(0.036)
+adult+male+speaking(0.035)

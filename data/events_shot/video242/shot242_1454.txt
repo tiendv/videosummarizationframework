@@ -1,5 +1,0 @@
-walking(0.150)
-standing(0.026)
-entering(0.023)
-playing+videogames(0.021)
-talking(0.020)

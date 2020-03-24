@@ -1,5 +1,0 @@
-cooking(0.061)
-flipping(0.030)
-standing(0.025)
-cleaning(0.024)
-adult+male+singing(0.019)

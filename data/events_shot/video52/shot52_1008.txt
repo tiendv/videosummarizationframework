@@ -1,0 +1,5 @@
+driving(0.102)
+queuing(0.062)
+raining(0.062)
+stopping(0.044)
+standing(0.029)

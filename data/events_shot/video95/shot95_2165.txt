@@ -1,0 +1,5 @@
+slapping(0.052)
+singing(0.043)
+adult+female+singing(0.040)
+laughing(0.038)
+child+singing(0.038)

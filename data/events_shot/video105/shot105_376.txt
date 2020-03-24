@@ -1,0 +1,5 @@
+adult+male+speaking(0.078)
+discussing(0.064)
+interviewing(0.063)
+asking(0.049)
+autographing(0.046)

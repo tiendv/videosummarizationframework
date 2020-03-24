@@ -1,5 +1,0 @@
-opening(0.161)
-closing(0.149)
-locking(0.063)
-knocking(0.056)
-talking(0.035)

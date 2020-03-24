@@ -1,5 +1,0 @@
-putting(0.037)
-dressing(0.032)
-placing(0.031)
-removing(0.024)
-exiting(0.023)

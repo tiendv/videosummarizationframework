@@ -1,5 +1,0 @@
-filming(0.050)
-adult+female+singing(0.046)
-sitting(0.032)
-standing(0.028)
-playing+videogames(0.028)

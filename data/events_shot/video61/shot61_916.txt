@@ -1,0 +1,5 @@
+hugging(0.068)
+walking(0.068)
+standing(0.065)
+knocking(0.040)
+marrying(0.034)

@@ -1,0 +1,5 @@
+running(0.219)
+walking(0.085)
+rising(0.039)
+ascending(0.035)
+chasing(0.031)

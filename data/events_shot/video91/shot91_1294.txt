@@ -1,0 +1,5 @@
+standing(0.046)
+dressing(0.038)
+putting(0.037)
+adult+male+speaking(0.032)
+walking(0.032)

@@ -1,0 +1,5 @@
+sneezing(0.050)
+drinking(0.048)
+playing+videogames(0.037)
+aiming(0.030)
+fighting(0.026)

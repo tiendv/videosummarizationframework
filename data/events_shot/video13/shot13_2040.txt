@@ -1,0 +1,5 @@
+spinning(0.151)
+sliding(0.121)
+turning(0.068)
+barking(0.063)
+rolling(0.050)

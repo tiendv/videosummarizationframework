@@ -1,0 +1,5 @@
+pitching(0.871)
+throwing(0.072)
+playing+sports(0.008)
+catching(0.007)
+adult+male+speaking(0.006)

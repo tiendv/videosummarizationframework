@@ -1,0 +1,5 @@
+tapping(0.469)
+unpacking(0.103)
+packing(0.102)
+chewing(0.021)
+sneezing(0.010)

@@ -1,0 +1,5 @@
+boxing(0.221)
+punching(0.139)
+knocking(0.113)
+fighting(0.043)
+officiating(0.032)

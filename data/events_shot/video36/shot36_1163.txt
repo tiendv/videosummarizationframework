@@ -1,5 +1,0 @@
-jogging(0.212)
-running(0.103)
-walking(0.090)
-asking(0.047)
-fencing(0.043)

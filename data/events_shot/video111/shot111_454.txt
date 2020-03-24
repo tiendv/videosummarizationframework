@@ -1,0 +1,5 @@
+tapping(0.234)
+brushing(0.129)
+crying(0.089)
+combing(0.032)
+frowning(0.030)

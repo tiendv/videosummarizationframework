@@ -1,0 +1,5 @@
+adult+female+speaking(0.057)
+crying(0.052)
+tapping(0.047)
+licking(0.032)
+adult+female+singing(0.031)

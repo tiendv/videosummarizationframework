@@ -1,0 +1,5 @@
+driving(0.297)
+racing(0.195)
+steering(0.103)
+riding(0.049)
+spinning(0.022)

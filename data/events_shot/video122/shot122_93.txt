@@ -1,0 +1,5 @@
+pointing(0.119)
+shooting(0.074)
+aiming(0.041)
+playing+videogames(0.038)
+walking(0.035)

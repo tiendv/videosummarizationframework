@@ -1,0 +1,5 @@
+guarding(0.082)
+arresting(0.071)
+handcuffing(0.055)
+asking(0.046)
+slapping(0.044)

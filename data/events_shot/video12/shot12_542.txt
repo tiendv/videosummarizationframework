@@ -1,0 +1,5 @@
+cooking(0.164)
+baking(0.111)
+dipping(0.039)
+pouring(0.034)
+dining(0.031)

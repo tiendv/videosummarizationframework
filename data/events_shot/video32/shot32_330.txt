@@ -1,0 +1,5 @@
+carving(0.255)
+cuddling(0.109)
+inflating(0.103)
+hugging(0.085)
+snuggling(0.047)

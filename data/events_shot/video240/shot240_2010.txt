@@ -1,5 +1,0 @@
-rinsing(0.420)
-washing(0.118)
-raining(0.096)
-adult+female+singing(0.077)
-drying(0.066)

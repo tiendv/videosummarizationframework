@@ -1,5 +1,0 @@
-crying(0.094)
-frowning(0.053)
-calling(0.037)
-arresting(0.037)
-adult+male+speaking(0.032)

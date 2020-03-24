@@ -1,0 +1,5 @@
+waking(0.044)
+resting(0.039)
+sleeping(0.039)
+turning(0.023)
+spinning(0.021)

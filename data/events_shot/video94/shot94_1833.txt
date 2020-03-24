@@ -1,0 +1,5 @@
+driving(0.593)
+steering(0.106)
+riding(0.052)
+boating(0.030)
+talking(0.017)

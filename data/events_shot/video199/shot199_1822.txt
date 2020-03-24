@@ -1,5 +1,0 @@
-walking(0.073)
-running(0.050)
-knocking(0.030)
-punching(0.029)
-sneezing(0.028)

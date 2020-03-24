@@ -1,0 +1,5 @@
+drying(0.201)
+loading(0.033)
+washing(0.033)
+cleaning(0.023)
+playing+videogames(0.023)

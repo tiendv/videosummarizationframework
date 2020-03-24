@@ -1,0 +1,5 @@
+adult+male+speaking(0.046)
+saluting(0.036)
+cracking(0.033)
+arresting(0.030)
+aiming(0.029)

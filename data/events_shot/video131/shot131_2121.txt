@@ -1,0 +1,5 @@
+adult+male+singing(0.165)
+queuing(0.114)
+celebrating(0.102)
+child+singing(0.079)
+joining(0.064)

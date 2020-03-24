@@ -1,0 +1,5 @@
+climbing(0.099)
+repairing(0.036)
+tattooing(0.030)
+working(0.028)
+draining(0.026)

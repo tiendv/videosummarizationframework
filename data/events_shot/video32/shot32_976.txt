@@ -1,0 +1,5 @@
+slapping(0.078)
+spitting(0.050)
+crying(0.039)
+drinking(0.035)
+coughing(0.031)

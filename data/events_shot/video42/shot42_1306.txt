@@ -1,0 +1,5 @@
+adult+female+singing(0.238)
+adult+female+speaking(0.062)
+filming(0.025)
+adult+male+singing(0.022)
+singing(0.013)

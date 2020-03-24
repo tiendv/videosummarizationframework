@@ -1,0 +1,5 @@
+talking(0.069)
+walking(0.056)
+whistling(0.052)
+working(0.051)
+standing(0.033)

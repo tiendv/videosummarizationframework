@@ -1,0 +1,5 @@
+kissing(0.047)
+fighting(0.043)
+hugging(0.041)
+carrying(0.037)
+crying(0.032)

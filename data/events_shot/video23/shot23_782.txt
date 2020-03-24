@@ -1,0 +1,5 @@
+camping(0.098)
+hiking(0.058)
+talking(0.058)
+discussing(0.057)
+sitting(0.045)

@@ -1,5 +1,0 @@
-standing(0.099)
-adult+male+singing(0.091)
-adult+female+singing(0.062)
-performing(0.060)
-filming(0.041)

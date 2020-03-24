@@ -1,0 +1,5 @@
+filming(0.046)
+slapping(0.036)
+arresting(0.033)
+walking(0.032)
+standing(0.029)

@@ -1,5 +1,0 @@
-hugging(0.102)
-applauding(0.094)
-cheering(0.058)
-smiling(0.055)
-drinking(0.028)

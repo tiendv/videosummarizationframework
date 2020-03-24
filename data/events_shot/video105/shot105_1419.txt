@@ -1,0 +1,5 @@
+punching(0.234)
+knocking(0.192)
+boxing(0.120)
+adult+male+speaking(0.035)
+dusting(0.030)

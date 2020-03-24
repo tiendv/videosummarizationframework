@@ -1,5 +1,0 @@
-fighting(0.116)
-blocking(0.056)
-asking(0.054)
-fencing(0.047)
-slapping(0.046)

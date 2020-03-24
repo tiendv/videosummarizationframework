@@ -1,0 +1,5 @@
+driving(0.230)
+hitchhiking(0.195)
+walking(0.049)
+riding(0.040)
+boating(0.037)

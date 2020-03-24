@@ -1,0 +1,5 @@
+adult+male+speaking(0.103)
+spitting(0.028)
+handcuffing(0.027)
+arresting(0.025)
+laughing(0.024)

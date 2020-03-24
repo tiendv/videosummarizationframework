@@ -1,0 +1,5 @@
+standing(0.048)
+knocking(0.044)
+adult+male+speaking(0.044)
+filming(0.037)
+saluting(0.035)

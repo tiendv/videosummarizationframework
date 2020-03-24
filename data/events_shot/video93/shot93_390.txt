@@ -1,0 +1,5 @@
+reading(0.066)
+adult+male+speaking(0.038)
+crafting(0.034)
+filming(0.023)
+adult+female+speaking(0.023)

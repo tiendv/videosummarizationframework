@@ -1,0 +1,5 @@
+hugging(0.087)
+smiling(0.051)
+telephoning(0.045)
+opening(0.042)
+calling(0.039)

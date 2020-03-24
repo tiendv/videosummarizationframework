@@ -1,0 +1,5 @@
+drinking(0.040)
+laughing(0.039)
+talking(0.036)
+slapping(0.033)
+sitting(0.029)

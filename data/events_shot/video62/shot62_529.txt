@@ -1,0 +1,5 @@
+adult+male+speaking(0.042)
+mopping(0.033)
+dusting(0.033)
+standing(0.032)
+filming(0.020)

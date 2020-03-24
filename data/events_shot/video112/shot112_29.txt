@@ -1,0 +1,5 @@
+adult+male+speaking(0.094)
+cleaning(0.021)
+cooking(0.020)
+asking(0.020)
+shaving(0.016)

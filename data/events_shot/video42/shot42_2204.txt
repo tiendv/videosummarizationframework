@@ -1,0 +1,5 @@
+arresting(0.149)
+walking(0.103)
+stealing(0.072)
+stopping(0.034)
+guarding(0.028)

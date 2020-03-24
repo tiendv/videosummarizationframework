@@ -1,0 +1,5 @@
+shaving(0.160)
+brushing(0.043)
+tying(0.040)
+taping(0.037)
+combing(0.036)

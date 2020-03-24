@@ -1,0 +1,5 @@
+fencing(0.476)
+adult+male+speaking(0.037)
+coaching(0.023)
+lecturing(0.017)
+walking(0.013)

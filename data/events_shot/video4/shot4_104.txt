@@ -1,0 +1,5 @@
+raining(0.180)
+storming(0.076)
+knocking(0.071)
+falling(0.040)
+washing(0.040)

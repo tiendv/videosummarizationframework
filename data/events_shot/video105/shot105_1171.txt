@@ -1,0 +1,5 @@
+crying(0.185)
+laughing(0.145)
+adult+male+speaking(0.059)
+frowning(0.043)
+giggling(0.032)

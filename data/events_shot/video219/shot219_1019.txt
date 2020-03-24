@@ -1,5 +1,0 @@
-adult+male+singing(0.190)
-adult+female+singing(0.170)
-running(0.104)
-jogging(0.065)
-raining(0.024)

@@ -1,0 +1,5 @@
+adult+female+singing(0.225)
+dancing(0.123)
+performing(0.121)
+marrying(0.102)
+cheerleading(0.029)

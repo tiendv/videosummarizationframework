@@ -1,0 +1,5 @@
+crying(0.183)
+laughing(0.107)
+slapping(0.035)
+discussing(0.020)
+smoking(0.020)

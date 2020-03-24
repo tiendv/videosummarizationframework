@@ -1,0 +1,5 @@
+adult+male+speaking(0.050)
+dressing(0.035)
+discussing(0.034)
+shaving(0.030)
+putting(0.028)

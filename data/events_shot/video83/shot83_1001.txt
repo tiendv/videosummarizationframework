@@ -1,0 +1,5 @@
+fueling(0.278)
+arresting(0.101)
+handcuffing(0.054)
+filling(0.029)
+stealing(0.027)

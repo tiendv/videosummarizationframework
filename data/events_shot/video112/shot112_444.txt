@@ -1,0 +1,5 @@
+punching(0.078)
+boxing(0.067)
+adult+male+singing(0.066)
+stomping(0.058)
+hugging(0.030)

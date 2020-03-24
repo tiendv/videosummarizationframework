@@ -1,0 +1,5 @@
+fighting(0.092)
+adult+male+speaking(0.086)
+arresting(0.072)
+guarding(0.046)
+fencing(0.045)

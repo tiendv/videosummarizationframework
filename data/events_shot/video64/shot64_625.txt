@@ -1,0 +1,5 @@
+tying(0.121)
+dressing(0.104)
+combing(0.034)
+drying(0.033)
+buttoning(0.019)

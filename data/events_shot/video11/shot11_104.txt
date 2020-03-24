@@ -1,0 +1,5 @@
+fencing(0.723)
+walking(0.150)
+shrugging(0.017)
+standing(0.011)
+whistling(0.007)

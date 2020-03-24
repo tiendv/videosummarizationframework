@@ -1,0 +1,5 @@
+walking(0.149)
+interviewing(0.041)
+exiting(0.037)
+discussing(0.031)
+entering(0.028)

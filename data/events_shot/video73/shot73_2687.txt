@@ -1,0 +1,5 @@
+adult+female+speaking(0.057)
+adult+female+singing(0.047)
+adult+male+speaking(0.031)
+standing(0.028)
+handcuffing(0.023)

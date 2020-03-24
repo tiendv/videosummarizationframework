@@ -1,0 +1,5 @@
+walking(0.075)
+barking(0.046)
+adult+male+speaking(0.044)
+filming(0.034)
+arresting(0.034)

@@ -1,0 +1,5 @@
+talking(0.188)
+spinning(0.121)
+turning(0.095)
+sitting(0.076)
+walking(0.061)

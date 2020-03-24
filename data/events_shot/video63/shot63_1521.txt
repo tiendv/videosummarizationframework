@@ -1,0 +1,5 @@
+fighting(0.063)
+baking(0.059)
+smashing(0.052)
+stomping(0.040)
+slapping(0.039)

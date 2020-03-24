@@ -1,0 +1,5 @@
+hugging(0.043)
+packing(0.031)
+standing(0.024)
+unpacking(0.022)
+adult+female+singing(0.022)

@@ -1,0 +1,5 @@
+adult+female+singing(0.113)
+smoking(0.046)
+adult+male+singing(0.046)
+filming(0.033)
+adult+female+speaking(0.030)

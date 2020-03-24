@@ -1,0 +1,5 @@
+sneezing(0.146)
+coughing(0.116)
+manicuring(0.109)
+painting(0.056)
+eating(0.045)

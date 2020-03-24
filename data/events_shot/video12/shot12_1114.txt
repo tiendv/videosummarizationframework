@@ -1,0 +1,5 @@
+walking(0.055)
+aiming(0.055)
+flicking(0.053)
+running(0.033)
+laughing(0.026)

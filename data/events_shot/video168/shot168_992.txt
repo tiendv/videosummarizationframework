@@ -1,5 +1,0 @@
-arresting(0.040)
-walking(0.038)
-hugging(0.038)
-asking(0.030)
-smoking(0.029)

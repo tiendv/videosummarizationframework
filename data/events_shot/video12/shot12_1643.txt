@@ -1,0 +1,5 @@
+dining(0.120)
+eating(0.107)
+chewing(0.040)
+celebrating(0.026)
+clapping(0.020)

@@ -1,0 +1,5 @@
+arresting(0.300)
+walking(0.155)
+standing(0.048)
+handcuffing(0.044)
+playing+videogames(0.035)

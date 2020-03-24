@@ -1,0 +1,5 @@
+walking(0.065)
+filming(0.046)
+adult+male+speaking(0.039)
+talking(0.027)
+whistling(0.027)

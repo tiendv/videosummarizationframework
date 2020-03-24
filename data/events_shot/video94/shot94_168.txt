@@ -1,0 +1,5 @@
+hanging(0.151)
+sitting(0.114)
+swinging(0.098)
+talking(0.074)
+adult+male+speaking(0.044)

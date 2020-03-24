@@ -1,0 +1,5 @@
+adult+female+speaking(0.069)
+crafting(0.058)
+discussing(0.040)
+hugging(0.039)
+manicuring(0.033)

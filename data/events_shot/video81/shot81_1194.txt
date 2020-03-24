@@ -1,0 +1,5 @@
+smiling(0.208)
+adult+female+speaking(0.188)
+laughing(0.123)
+cuddling(0.076)
+giggling(0.046)

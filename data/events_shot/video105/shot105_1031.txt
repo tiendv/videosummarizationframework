@@ -1,0 +1,5 @@
+hammering(0.074)
+working(0.055)
+painting(0.043)
+slapping(0.030)
+adult+male+speaking(0.017)

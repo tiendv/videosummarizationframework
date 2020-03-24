@@ -1,5 +1,0 @@
-boiling(0.078)
-hammering(0.058)
-adult+female+singing(0.043)
-smoking(0.042)
-cooking(0.041)

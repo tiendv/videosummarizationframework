@@ -1,0 +1,5 @@
+working(0.083)
+adult+male+speaking(0.082)
+packaging(0.035)
+loading(0.031)
+building(0.031)

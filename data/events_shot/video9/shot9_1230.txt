@@ -1,5 +1,0 @@
-whistling(0.098)
-standing(0.048)
-adult+male+speaking(0.033)
-shaving(0.022)
-walking(0.018)

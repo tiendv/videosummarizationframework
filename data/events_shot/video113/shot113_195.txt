@@ -1,0 +1,5 @@
+massaging(0.150)
+adult+female+speaking(0.145)
+rubbing(0.033)
+interviewing(0.033)
+adult+male+speaking(0.031)

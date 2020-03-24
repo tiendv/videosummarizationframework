@@ -1,5 +1,0 @@
-painting(0.236)
-manicuring(0.136)
-drawing(0.068)
-crafting(0.043)
-dipping(0.022)

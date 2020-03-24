@@ -1,5 +1,0 @@
-fueling(0.373)
-exiting(0.071)
-stealing(0.070)
-emptying(0.046)
-unloading(0.037)

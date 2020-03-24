@@ -1,0 +1,5 @@
+cuddling(0.106)
+hugging(0.074)
+sneezing(0.055)
+waking(0.047)
+packing(0.043)

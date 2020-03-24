@@ -1,0 +1,5 @@
+adult+male+singing(0.130)
+adult+female+singing(0.073)
+singing(0.053)
+jumping(0.042)
+adult+male+speaking(0.036)

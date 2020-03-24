@@ -1,0 +1,5 @@
+standing(0.075)
+hanging(0.070)
+singing(0.043)
+child+singing(0.029)
+performing(0.028)

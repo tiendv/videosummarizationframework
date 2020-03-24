@@ -1,0 +1,5 @@
+slapping(0.048)
+hugging(0.041)
+coughing(0.031)
+arresting(0.028)
+talking(0.026)

@@ -1,0 +1,5 @@
+gripping(0.029)
+taping(0.023)
+removing(0.023)
+working(0.021)
+shaving(0.020)

@@ -1,0 +1,5 @@
+crafting(0.066)
+studying(0.036)
+writing(0.035)
+telephoning(0.033)
+hitting(0.028)

@@ -1,0 +1,5 @@
+chewing(0.693)
+eating(0.024)
+adult+female+speaking(0.023)
+sitting(0.017)
+biting(0.013)

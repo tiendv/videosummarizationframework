@@ -1,0 +1,5 @@
+feeding(0.274)
+laughing(0.087)
+sleeping(0.065)
+eating(0.056)
+cuddling(0.054)

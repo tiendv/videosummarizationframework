@@ -1,0 +1,5 @@
+raining(0.233)
+storming(0.131)
+pouring(0.044)
+dropping(0.034)
+dripping(0.020)

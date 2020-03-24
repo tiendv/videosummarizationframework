@@ -1,5 +1,0 @@
-praying(0.363)
-sneezing(0.258)
-coughing(0.073)
-bowing(0.029)
-adult+female+speaking(0.023)

@@ -1,0 +1,5 @@
+asking(0.151)
+adult+male+speaking(0.099)
+adult+female+speaking(0.096)
+walking(0.066)
+sneezing(0.046)

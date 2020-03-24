@@ -1,0 +1,5 @@
+adult+male+speaking(0.128)
+aiming(0.046)
+standing(0.045)
+guarding(0.039)
+officiating(0.028)

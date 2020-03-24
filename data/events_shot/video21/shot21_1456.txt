@@ -1,0 +1,5 @@
+adult+female+speaking(0.043)
+bathing(0.042)
+drying(0.033)
+washing(0.032)
+massaging(0.031)

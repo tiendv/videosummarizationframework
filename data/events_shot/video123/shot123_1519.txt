@@ -1,0 +1,5 @@
+adult+male+singing(0.174)
+roaring(0.064)
+yawning(0.057)
+fighting(0.040)
+shouting(0.035)

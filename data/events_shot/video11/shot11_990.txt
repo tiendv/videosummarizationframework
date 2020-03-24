@@ -1,0 +1,5 @@
+mopping(0.054)
+laughing(0.048)
+cleaning(0.044)
+standing(0.027)
+knocking(0.026)

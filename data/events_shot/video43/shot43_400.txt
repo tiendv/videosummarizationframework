@@ -1,0 +1,5 @@
+unpacking(0.135)
+unloading(0.104)
+packing(0.091)
+loading(0.067)
+fueling(0.044)

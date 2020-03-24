@@ -1,0 +1,5 @@
+walking(0.232)
+smiling(0.059)
+adult+male+speaking(0.051)
+coaching(0.037)
+pointing(0.032)

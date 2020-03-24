@@ -1,0 +1,5 @@
+opening(0.066)
+closing(0.055)
+locking(0.052)
+slapping(0.045)
+hugging(0.038)

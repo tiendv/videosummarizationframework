@@ -1,5 +1,0 @@
-raining(0.255)
-opening(0.129)
-closing(0.086)
-storming(0.034)
-falling(0.018)

@@ -1,0 +1,5 @@
+playing+videogames(0.100)
+starting(0.046)
+standing(0.043)
+walking(0.042)
+hunting(0.042)

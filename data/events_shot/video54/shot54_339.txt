@@ -1,0 +1,5 @@
+running(0.192)
+jogging(0.091)
+laughing(0.033)
+fencing(0.030)
+smiling(0.027)

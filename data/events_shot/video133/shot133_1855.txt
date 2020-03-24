@@ -1,0 +1,5 @@
+asking(0.102)
+stacking(0.060)
+adult+female+speaking(0.050)
+autographing(0.040)
+hugging(0.025)

@@ -1,0 +1,5 @@
+telephoning(0.060)
+calling(0.053)
+adult+male+speaking(0.042)
+sneezing(0.041)
+smoking(0.040)

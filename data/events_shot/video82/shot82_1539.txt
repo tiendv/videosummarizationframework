@@ -1,0 +1,5 @@
+cooking(0.293)
+baking(0.047)
+stirring(0.043)
+manicuring(0.040)
+talking(0.027)

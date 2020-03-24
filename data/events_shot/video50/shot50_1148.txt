@@ -1,5 +1,0 @@
-asking(0.061)
-hugging(0.035)
-unloading(0.033)
-adult+male+speaking(0.030)
-loading(0.030)

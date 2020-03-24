@@ -1,0 +1,5 @@
+cooking(0.130)
+dining(0.110)
+painting(0.078)
+stirring(0.058)
+eating(0.051)

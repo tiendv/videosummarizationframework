@@ -1,5 +1,0 @@
-spinning(0.416)
-turning(0.116)
-walking(0.115)
-hugging(0.032)
-kissing(0.020)

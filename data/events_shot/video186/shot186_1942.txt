@@ -1,5 +1,0 @@
-fencing(0.091)
-walking(0.079)
-stealing(0.059)
-fighting(0.035)
-exiting(0.028)

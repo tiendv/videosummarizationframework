@@ -1,0 +1,5 @@
+vacuuming(0.258)
+walking(0.042)
+cleaning(0.040)
+asking(0.033)
+sweeping(0.032)

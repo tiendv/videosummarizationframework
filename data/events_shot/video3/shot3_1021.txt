@@ -1,0 +1,5 @@
+interviewing(0.132)
+laughing(0.122)
+smiling(0.104)
+adult+male+speaking(0.092)
+squinting(0.074)

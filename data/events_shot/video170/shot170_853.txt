@@ -1,5 +1,0 @@
-sneezing(0.059)
-adult+female+speaking(0.050)
-adult+male+speaking(0.049)
-packing(0.048)
-handcuffing(0.033)

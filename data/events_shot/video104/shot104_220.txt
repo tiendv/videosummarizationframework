@@ -1,0 +1,5 @@
+reading(0.580)
+pointing(0.030)
+sitting(0.021)
+paying(0.018)
+autographing(0.016)

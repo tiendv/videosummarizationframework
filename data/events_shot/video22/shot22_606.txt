@@ -1,0 +1,5 @@
+adult+male+singing(0.042)
+cooking(0.041)
+adult+female+singing(0.038)
+adult+female+speaking(0.032)
+baking(0.030)

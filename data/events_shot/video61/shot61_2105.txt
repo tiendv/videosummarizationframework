@@ -1,0 +1,5 @@
+knocking(0.299)
+slapping(0.065)
+punching(0.037)
+walking(0.036)
+entering(0.031)

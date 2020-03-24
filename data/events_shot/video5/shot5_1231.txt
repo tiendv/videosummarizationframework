@@ -1,5 +1,0 @@
-adult+male+speaking(0.050)
-assembling(0.046)
-filming(0.041)
-asking(0.036)
-discussing(0.033)

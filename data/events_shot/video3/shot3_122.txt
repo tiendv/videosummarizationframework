@@ -1,0 +1,5 @@
+fencing(0.757)
+pointing(0.046)
+talking(0.011)
+working(0.011)
+sitting(0.010)

@@ -1,0 +1,5 @@
+queuing(0.176)
+adult+male+speaking(0.061)
+protesting(0.054)
+slapping(0.045)
+standing(0.034)

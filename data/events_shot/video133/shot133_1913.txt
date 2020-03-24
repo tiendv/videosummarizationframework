@@ -1,0 +1,5 @@
+opening(0.262)
+closing(0.143)
+dusting(0.055)
+baking(0.040)
+painting(0.023)

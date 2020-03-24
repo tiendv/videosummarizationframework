@@ -1,0 +1,5 @@
+adult+male+speaking(0.061)
+playing+videogames(0.058)
+fighting(0.031)
+hugging(0.028)
+kissing(0.027)

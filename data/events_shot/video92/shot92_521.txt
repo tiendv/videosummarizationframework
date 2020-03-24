@@ -1,0 +1,5 @@
+sailing(0.201)
+boating(0.175)
+floating(0.083)
+rowing(0.039)
+flowing(0.036)

@@ -1,5 +1,0 @@
-sneezing(0.060)
-turning(0.050)
-talking(0.044)
-loading(0.029)
-stopping(0.029)

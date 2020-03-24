@@ -1,0 +1,5 @@
+queuing(0.096)
+protesting(0.096)
+adult+male+singing(0.085)
+standing(0.062)
+singing(0.043)

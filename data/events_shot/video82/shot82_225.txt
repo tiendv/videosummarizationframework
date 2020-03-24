@@ -1,0 +1,5 @@
+driving(0.129)
+discussing(0.086)
+adult+male+speaking(0.060)
+frowning(0.043)
+sitting(0.040)

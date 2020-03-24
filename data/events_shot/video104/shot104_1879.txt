@@ -1,0 +1,5 @@
+measuring(0.424)
+pointing(0.044)
+typing(0.030)
+locking(0.028)
+plugging(0.025)

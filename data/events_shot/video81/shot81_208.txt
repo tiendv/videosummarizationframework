@@ -1,0 +1,5 @@
+painting(0.083)
+crafting(0.071)
+packing(0.070)
+unpacking(0.060)
+drawing(0.025)

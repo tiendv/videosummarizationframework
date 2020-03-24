@@ -1,5 +1,0 @@
-flicking(0.078)
-throwing(0.054)
-aiming(0.033)
-adult+female+singing(0.031)
-adult+male+speaking(0.027)

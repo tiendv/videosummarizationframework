@@ -1,0 +1,5 @@
+protesting(0.238)
+marching(0.054)
+standing(0.052)
+queuing(0.023)
+asking(0.019)

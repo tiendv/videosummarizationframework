@@ -1,0 +1,5 @@
+autographing(0.144)
+walking(0.111)
+protesting(0.094)
+queuing(0.067)
+arresting(0.036)

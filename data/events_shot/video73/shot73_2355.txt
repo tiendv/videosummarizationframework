@@ -1,0 +1,5 @@
+slapping(0.076)
+locking(0.038)
+carrying(0.038)
+crying(0.029)
+walking(0.025)

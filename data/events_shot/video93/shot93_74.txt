@@ -1,0 +1,5 @@
+telephoning(0.566)
+calling(0.083)
+shopping(0.069)
+adult+female+speaking(0.069)
+buying(0.022)

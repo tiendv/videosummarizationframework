@@ -1,0 +1,5 @@
+whistling(0.150)
+slapping(0.083)
+chewing(0.062)
+coughing(0.056)
+asking(0.041)

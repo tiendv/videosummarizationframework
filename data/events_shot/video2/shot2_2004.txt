@@ -1,0 +1,5 @@
+drying(0.109)
+combing(0.108)
+waving(0.031)
+storming(0.028)
+adult+female+singing(0.020)

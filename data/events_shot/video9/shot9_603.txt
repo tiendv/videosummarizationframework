@@ -1,5 +1,0 @@
-fencing(0.432)
-guarding(0.025)
-playing+videogames(0.022)
-locking(0.016)
-adult+male+speaking(0.014)

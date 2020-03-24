@@ -1,0 +1,5 @@
+filming(0.085)
+slapping(0.062)
+knocking(0.050)
+locking(0.044)
+guarding(0.039)

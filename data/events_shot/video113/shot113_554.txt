@@ -1,0 +1,5 @@
+baking(0.164)
+brushing(0.086)
+cooking(0.074)
+painting(0.054)
+crafting(0.034)

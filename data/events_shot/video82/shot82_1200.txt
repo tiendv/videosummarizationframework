@@ -1,0 +1,5 @@
+adult+male+speaking(0.056)
+guarding(0.026)
+laughing(0.025)
+opening(0.025)
+walking(0.025)

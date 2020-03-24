@@ -1,0 +1,5 @@
+fencing(0.083)
+starting(0.051)
+smiling(0.043)
+adult+male+speaking(0.042)
+talking(0.031)

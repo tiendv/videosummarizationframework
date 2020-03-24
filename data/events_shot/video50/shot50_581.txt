@@ -1,5 +1,0 @@
-fencing(0.103)
-standing(0.064)
-asking(0.046)
-adult+male+speaking(0.042)
-laughing(0.034)

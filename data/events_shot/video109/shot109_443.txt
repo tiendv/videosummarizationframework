@@ -1,5 +1,0 @@
-talking(0.063)
-sneezing(0.028)
-walking(0.026)
-adult+male+speaking(0.025)
-discussing(0.025)

@@ -1,0 +1,5 @@
+driving(0.391)
+steering(0.177)
+riding(0.079)
+talking(0.042)
+sitting(0.028)

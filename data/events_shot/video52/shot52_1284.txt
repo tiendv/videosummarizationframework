@@ -1,0 +1,5 @@
+adult+male+speaking(0.091)
+mowing(0.036)
+walking(0.033)
+handcuffing(0.033)
+asking(0.029)

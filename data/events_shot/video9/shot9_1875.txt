@@ -1,5 +1,0 @@
-asking(0.069)
-guarding(0.052)
-filming(0.042)
-adult+male+speaking(0.030)
-exiting(0.030)

@@ -1,0 +1,5 @@
+shaking(0.047)
+punching(0.037)
+slapping(0.033)
+standing(0.028)
+coaching(0.023)

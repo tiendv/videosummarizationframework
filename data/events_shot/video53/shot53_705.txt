@@ -1,0 +1,5 @@
+coaching(0.029)
+talking(0.021)
+fishing(0.021)
+standing(0.019)
+fueling(0.018)

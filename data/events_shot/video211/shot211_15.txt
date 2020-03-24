@@ -1,5 +1,0 @@
-fighting(0.124)
-walking(0.079)
-raining(0.054)
-playing+videogames(0.038)
-running(0.035)

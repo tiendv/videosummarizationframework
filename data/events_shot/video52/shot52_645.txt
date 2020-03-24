@@ -1,0 +1,5 @@
+adult+female+speaking(0.096)
+blowing(0.069)
+child+speaking(0.060)
+sneezing(0.048)
+sitting(0.044)

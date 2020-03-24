@@ -1,5 +1,0 @@
-hugging(0.197)
-adult+female+speaking(0.033)
-slapping(0.025)
-cuddling(0.024)
-playing+videogames(0.024)

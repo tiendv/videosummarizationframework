@@ -1,0 +1,5 @@
+walking(0.242)
+knocking(0.087)
+lecturing(0.052)
+locking(0.047)
+standing(0.040)

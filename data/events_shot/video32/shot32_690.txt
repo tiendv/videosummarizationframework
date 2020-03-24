@@ -1,0 +1,5 @@
+whistling(0.203)
+standing(0.070)
+walking(0.052)
+imitating(0.037)
+slapping(0.026)

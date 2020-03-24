@@ -1,0 +1,5 @@
+driving(0.101)
+riding(0.095)
+fueling(0.076)
+steering(0.062)
+bicycling(0.033)

@@ -1,0 +1,5 @@
+climbing(0.414)
+hanging(0.154)
+rising(0.077)
+jumping(0.070)
+leaping(0.039)

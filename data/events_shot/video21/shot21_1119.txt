@@ -1,0 +1,5 @@
+walking(0.049)
+asking(0.044)
+queuing(0.037)
+exiting(0.025)
+filming(0.024)

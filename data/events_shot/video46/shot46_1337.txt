@@ -1,5 +1,0 @@
-adult+male+speaking(0.077)
-coaching(0.055)
-slapping(0.044)
-walking(0.034)
-standing(0.031)

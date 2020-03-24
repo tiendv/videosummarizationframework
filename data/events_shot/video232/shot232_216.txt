@@ -1,5 +1,0 @@
-hitchhiking(0.159)
-towing(0.060)
-arresting(0.035)
-pushing(0.033)
-driving(0.032)

@@ -1,5 +1,0 @@
-dressing(0.226)
-walking(0.112)
-buttoning(0.112)
-standing(0.052)
-handcuffing(0.038)

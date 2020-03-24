@@ -1,0 +1,5 @@
+bathing(0.096)
+praying(0.082)
+crying(0.049)
+telephoning(0.036)
+adult+female+speaking(0.034)

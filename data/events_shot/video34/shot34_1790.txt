@@ -1,0 +1,5 @@
+sliding(0.872)
+slipping(0.034)
+descending(0.024)
+ascending(0.015)
+falling(0.003)

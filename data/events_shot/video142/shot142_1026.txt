@@ -1,5 +1,0 @@
-slapping(0.095)
-smiling(0.028)
-adult+female+speaking(0.026)
-adult+male+speaking(0.025)
-playing+videogames(0.023)

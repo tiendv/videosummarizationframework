@@ -1,0 +1,5 @@
+guarding(0.477)
+exiting(0.028)
+entering(0.026)
+running(0.023)
+walking(0.023)

@@ -1,5 +1,0 @@
-hammering(0.045)
-clipping(0.044)
-eating(0.035)
-chopping(0.030)
-cutting(0.028)

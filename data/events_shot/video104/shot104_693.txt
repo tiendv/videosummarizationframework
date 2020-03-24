@@ -1,0 +1,5 @@
+baptizing(0.085)
+queuing(0.041)
+adult+male+speaking(0.041)
+standing(0.031)
+asking(0.028)

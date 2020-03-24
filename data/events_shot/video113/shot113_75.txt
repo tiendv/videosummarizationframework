@@ -1,0 +1,5 @@
+fencing(0.973)
+waving(0.002)
+gripping(0.001)
+guarding(0.001)
+rocking(0.001)

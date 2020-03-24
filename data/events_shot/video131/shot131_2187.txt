@@ -1,0 +1,5 @@
+paying(0.772)
+measuring(0.077)
+selling(0.028)
+buying(0.026)
+telephoning(0.015)

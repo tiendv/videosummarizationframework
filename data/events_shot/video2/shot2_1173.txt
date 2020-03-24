@@ -1,0 +1,5 @@
+wrapping(0.265)
+opening(0.255)
+folding(0.130)
+closing(0.065)
+telephoning(0.021)

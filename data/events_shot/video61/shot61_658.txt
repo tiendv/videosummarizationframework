@@ -1,0 +1,5 @@
+shooting(0.063)
+spraying(0.029)
+slapping(0.027)
+removing(0.024)
+filming(0.022)

@@ -1,0 +1,5 @@
+squatting(0.031)
+bowing(0.031)
+standing(0.020)
+adult+male+speaking(0.020)
+sitting(0.019)

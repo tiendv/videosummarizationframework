@@ -1,0 +1,5 @@
+inflating(0.086)
+sleeping(0.071)
+resting(0.058)
+waking(0.035)
+painting(0.030)

@@ -1,0 +1,5 @@
+skating(0.079)
+running(0.060)
+walking(0.056)
+bicycling(0.026)
+protesting(0.025)

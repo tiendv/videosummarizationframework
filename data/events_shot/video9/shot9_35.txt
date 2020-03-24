@@ -1,5 +1,0 @@
-sneezing(0.069)
-laughing(0.050)
-stealing(0.042)
-coughing(0.030)
-exiting(0.019)

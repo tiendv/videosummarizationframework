@@ -1,0 +1,5 @@
+drying(0.092)
+carving(0.041)
+hanging(0.039)
+walking(0.034)
+diving(0.033)

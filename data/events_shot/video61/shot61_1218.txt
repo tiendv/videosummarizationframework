@@ -1,0 +1,5 @@
+adult+female+speaking(0.033)
+imitating(0.027)
+squinting(0.027)
+child+singing(0.025)
+walking(0.025)

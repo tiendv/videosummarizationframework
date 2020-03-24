@@ -1,0 +1,5 @@
+adult+female+singing(0.121)
+adult+female+speaking(0.050)
+cramming(0.029)
+crafting(0.024)
+fighting(0.024)

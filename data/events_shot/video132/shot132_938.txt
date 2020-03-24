@@ -1,0 +1,5 @@
+walking(0.073)
+laughing(0.051)
+standing(0.038)
+dining(0.033)
+talking(0.033)

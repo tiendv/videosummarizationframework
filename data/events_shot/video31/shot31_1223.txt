@@ -1,0 +1,5 @@
+praying(0.040)
+baptizing(0.036)
+sitting(0.030)
+opening(0.028)
+kneeling(0.026)

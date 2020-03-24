@@ -1,0 +1,5 @@
+telephoning(0.243)
+adult+female+speaking(0.104)
+sleeping(0.047)
+massaging(0.040)
+calling(0.030)

@@ -1,0 +1,5 @@
+sniffing(0.244)
+smelling(0.195)
+drinking(0.095)
+inflating(0.049)
+unpacking(0.047)

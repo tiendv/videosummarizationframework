@@ -1,5 +1,0 @@
-child+speaking(0.536)
-child+singing(0.040)
-teaching(0.026)
-knocking(0.022)
-standing(0.022)

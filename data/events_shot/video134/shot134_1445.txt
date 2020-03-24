@@ -1,0 +1,5 @@
+dressing(0.098)
+adult+female+speaking(0.056)
+adult+male+speaking(0.053)
+buttoning(0.043)
+smiling(0.035)

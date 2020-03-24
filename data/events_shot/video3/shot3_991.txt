@@ -1,0 +1,5 @@
+cooking(0.123)
+drinking(0.061)
+baking(0.044)
+standing(0.031)
+removing(0.022)

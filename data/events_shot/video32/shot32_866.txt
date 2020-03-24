@@ -1,0 +1,5 @@
+sneezing(0.086)
+drinking(0.082)
+sniffing(0.078)
+inflating(0.072)
+smelling(0.070)

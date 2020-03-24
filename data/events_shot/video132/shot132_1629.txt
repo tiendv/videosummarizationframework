@@ -1,0 +1,5 @@
+walking(0.049)
+standing(0.045)
+handcuffing(0.040)
+entering(0.039)
+laughing(0.039)

@@ -1,0 +1,5 @@
+plugging(0.130)
+locking(0.055)
+removing(0.047)
+shredding(0.044)
+loading(0.032)

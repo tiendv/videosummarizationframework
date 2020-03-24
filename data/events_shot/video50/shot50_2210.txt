@@ -1,5 +1,0 @@
-barbecuing(0.678)
-grilling(0.232)
-cooking(0.021)
-planting(0.013)
-stomping(0.013)

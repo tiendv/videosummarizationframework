@@ -1,5 +1,0 @@
-driving(0.036)
-adult+female+speaking(0.030)
-giving(0.023)
-talking(0.023)
-stealing(0.017)

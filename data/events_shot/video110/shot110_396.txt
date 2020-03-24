@@ -1,5 +1,0 @@
-camping(0.109)
-bowing(0.062)
-standing(0.029)
-swinging(0.021)
-falling(0.019)

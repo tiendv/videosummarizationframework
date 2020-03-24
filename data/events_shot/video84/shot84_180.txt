@@ -1,0 +1,5 @@
+brushing(0.048)
+drying(0.041)
+adult+female+speaking(0.038)
+adult+female+singing(0.036)
+shaving(0.029)

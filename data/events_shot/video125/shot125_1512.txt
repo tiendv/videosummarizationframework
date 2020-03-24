@@ -1,0 +1,5 @@
+adult+female+singing(0.262)
+dancing(0.116)
+adult+female+speaking(0.092)
+celebrating(0.041)
+bouncing(0.020)

@@ -1,0 +1,5 @@
+slapping(0.200)
+hugging(0.102)
+shrugging(0.057)
+adult+male+speaking(0.051)
+asking(0.045)

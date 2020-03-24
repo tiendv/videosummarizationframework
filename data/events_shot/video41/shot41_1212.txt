@@ -1,0 +1,5 @@
+gambling(0.101)
+sitting(0.054)
+laughing(0.045)
+aiming(0.039)
+talking(0.027)

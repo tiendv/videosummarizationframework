@@ -1,5 +1,0 @@
-adult+male+speaking(0.065)
-standing(0.032)
-laughing(0.028)
-eating(0.024)
-sneezing(0.023)

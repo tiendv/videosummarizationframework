@@ -1,5 +1,0 @@
-adult+male+speaking(0.070)
-standing(0.055)
-adult+female+speaking(0.045)
-hiking(0.036)
-slapping(0.036)

@@ -1,0 +1,5 @@
+bowing(0.038)
+adult+male+speaking(0.030)
+squatting(0.028)
+laughing(0.027)
+adult+female+speaking(0.024)

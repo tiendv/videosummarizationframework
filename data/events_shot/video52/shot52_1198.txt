@@ -1,0 +1,5 @@
+knocking(0.271)
+locking(0.049)
+adult+male+speaking(0.047)
+entering(0.041)
+punching(0.030)

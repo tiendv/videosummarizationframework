@@ -1,0 +1,5 @@
+raising(0.093)
+knocking(0.086)
+punching(0.064)
+hammering(0.037)
+shrugging(0.034)

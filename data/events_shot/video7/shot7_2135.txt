@@ -1,5 +1,0 @@
-rolling(0.113)
-putting(0.031)
-riding(0.030)
-bouncing(0.027)
-driving(0.025)

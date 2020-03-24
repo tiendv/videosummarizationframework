@@ -1,0 +1,5 @@
+adult+male+speaking(0.083)
+painting(0.042)
+shaving(0.041)
+coughing(0.037)
+sneezing(0.026)

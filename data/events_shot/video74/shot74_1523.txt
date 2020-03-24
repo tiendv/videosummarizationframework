@@ -1,5 +1,0 @@
-climbing(0.060)
-child+speaking(0.039)
-flipping(0.035)
-vacuuming(0.032)
-inflating(0.028)

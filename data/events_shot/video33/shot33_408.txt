@@ -1,0 +1,5 @@
+arresting(0.072)
+smiling(0.055)
+adult+male+speaking(0.046)
+slapping(0.037)
+locking(0.037)

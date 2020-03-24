@@ -1,0 +1,5 @@
+walking(0.052)
+hugging(0.046)
+bowing(0.041)
+drinking(0.029)
+filming(0.025)

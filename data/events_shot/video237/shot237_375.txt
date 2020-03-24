@@ -1,5 +1,0 @@
-walking(0.028)
-hammering(0.023)
-aiming(0.022)
-shooting(0.022)
-slapping(0.019)

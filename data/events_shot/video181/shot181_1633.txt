@@ -1,5 +1,0 @@
-guarding(0.196)
-hunting(0.145)
-adult+male+speaking(0.064)
-standing(0.055)
-sitting(0.051)

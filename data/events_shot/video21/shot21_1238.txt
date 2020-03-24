@@ -1,0 +1,5 @@
+taping(0.042)
+stretching(0.040)
+squatting(0.033)
+assembling(0.025)
+shrugging(0.021)

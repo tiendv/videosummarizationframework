@@ -1,5 +1,0 @@
-sitting(0.047)
-walking(0.023)
-driving(0.015)
-turning(0.015)
-vacuuming(0.015)

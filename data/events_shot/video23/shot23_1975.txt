@@ -1,0 +1,5 @@
+smiling(0.061)
+filming(0.056)
+adult+female+speaking(0.049)
+slapping(0.038)
+winking(0.034)

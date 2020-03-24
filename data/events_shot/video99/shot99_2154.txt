@@ -1,5 +1,0 @@
-talking(0.080)
-discussing(0.065)
-standing(0.060)
-drinking(0.058)
-sitting(0.035)

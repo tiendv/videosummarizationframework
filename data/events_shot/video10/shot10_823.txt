@@ -1,5 +1,0 @@
-giving(0.075)
-adult+female+speaking(0.053)
-stealing(0.036)
-adult+male+speaking(0.036)
-paying(0.029)

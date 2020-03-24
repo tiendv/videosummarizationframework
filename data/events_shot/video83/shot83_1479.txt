@@ -1,0 +1,5 @@
+cooking(0.166)
+cleaning(0.047)
+baking(0.045)
+tattooing(0.040)
+stirring(0.034)

@@ -1,0 +1,5 @@
+typing(0.243)
+telephoning(0.163)
+tapping(0.149)
+calling(0.076)
+sitting(0.026)

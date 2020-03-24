@@ -1,0 +1,5 @@
+painting(0.137)
+sneezing(0.093)
+stacking(0.085)
+laughing(0.082)
+coughing(0.047)

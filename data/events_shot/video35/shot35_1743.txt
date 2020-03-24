@@ -1,5 +1,0 @@
-queuing(0.381)
-sitting(0.062)
-arresting(0.043)
-adult+male+speaking(0.035)
-joining(0.028)

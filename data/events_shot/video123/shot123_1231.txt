@@ -1,0 +1,5 @@
+dressing(0.105)
+tying(0.084)
+drying(0.066)
+combing(0.043)
+hanging(0.038)

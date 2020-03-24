@@ -1,0 +1,5 @@
+handcuffing(0.123)
+adult+male+speaking(0.062)
+arresting(0.060)
+cooking(0.039)
+talking(0.025)

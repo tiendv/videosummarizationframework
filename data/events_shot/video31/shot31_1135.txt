@@ -1,0 +1,5 @@
+working(0.059)
+talking(0.029)
+assembling(0.028)
+laughing(0.027)
+dining(0.025)

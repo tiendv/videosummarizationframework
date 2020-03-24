@@ -1,0 +1,5 @@
+sneezing(0.093)
+praying(0.071)
+smoking(0.061)
+adult+male+speaking(0.048)
+coughing(0.039)

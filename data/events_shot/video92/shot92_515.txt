@@ -1,0 +1,5 @@
+aiming(0.237)
+shooting(0.066)
+adult+male+speaking(0.054)
+punching(0.052)
+frowning(0.038)

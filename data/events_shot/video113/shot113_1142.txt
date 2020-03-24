@@ -1,0 +1,5 @@
+waking(0.123)
+sleeping(0.059)
+telephoning(0.058)
+cracking(0.057)
+frowning(0.042)

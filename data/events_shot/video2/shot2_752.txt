@@ -1,0 +1,5 @@
+aiming(0.069)
+standing(0.037)
+filming(0.036)
+adult+female+speaking(0.026)
+drinking(0.023)

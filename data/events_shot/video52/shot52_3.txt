@@ -1,0 +1,5 @@
+handwriting(0.145)
+autographing(0.112)
+drawing(0.039)
+reading(0.039)
+writing(0.032)

@@ -1,5 +1,0 @@
-bicycling(0.160)
-stealing(0.028)
-stacking(0.023)
-adult+male+speaking(0.020)
-pedaling(0.020)

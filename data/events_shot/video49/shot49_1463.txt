@@ -1,5 +1,0 @@
-painting(0.098)
-lecturing(0.073)
-discussing(0.034)
-adult+male+speaking(0.034)
-sitting(0.032)

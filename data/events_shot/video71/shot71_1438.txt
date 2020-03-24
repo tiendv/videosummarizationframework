@@ -1,0 +1,5 @@
+crying(0.166)
+carrying(0.041)
+frowning(0.036)
+pointing(0.032)
+clipping(0.028)

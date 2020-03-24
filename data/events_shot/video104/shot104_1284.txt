@@ -1,0 +1,5 @@
+adult+male+speaking(0.050)
+sneezing(0.046)
+working(0.044)
+packaging(0.035)
+unpacking(0.035)

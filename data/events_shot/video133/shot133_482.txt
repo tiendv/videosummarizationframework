@@ -1,0 +1,5 @@
+snowing(0.161)
+raining(0.102)
+walking(0.060)
+knocking(0.036)
+filming(0.029)

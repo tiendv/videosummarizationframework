@@ -1,5 +1,0 @@
-planting(0.611)
-stomping(0.183)
-sowing(0.083)
-digging(0.047)
-burying(0.036)

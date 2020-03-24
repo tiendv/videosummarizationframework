@@ -1,0 +1,5 @@
+falling(0.044)
+storming(0.044)
+playing+videogames(0.039)
+raining(0.039)
+dropping(0.036)

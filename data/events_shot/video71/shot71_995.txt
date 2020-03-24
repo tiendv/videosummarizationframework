@@ -1,0 +1,5 @@
+arresting(0.655)
+guarding(0.110)
+handcuffing(0.056)
+protesting(0.032)
+snowing(0.010)

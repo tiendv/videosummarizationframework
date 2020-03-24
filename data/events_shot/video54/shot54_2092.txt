@@ -1,0 +1,5 @@
+flying(0.307)
+floating(0.154)
+hunting(0.059)
+swimming(0.029)
+shaking(0.028)

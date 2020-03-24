@@ -1,0 +1,5 @@
+closing(0.129)
+opening(0.129)
+washing(0.084)
+fueling(0.074)
+stopping(0.047)

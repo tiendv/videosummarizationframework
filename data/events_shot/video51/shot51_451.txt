@@ -1,0 +1,5 @@
+asking(0.079)
+laughing(0.067)
+walking(0.055)
+smiling(0.047)
+hugging(0.028)

@@ -1,0 +1,5 @@
+sneezing(0.088)
+coughing(0.054)
+praying(0.054)
+smelling(0.049)
+sniffing(0.043)

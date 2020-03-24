@@ -1,0 +1,5 @@
+slapping(0.030)
+laughing(0.027)
+asking(0.026)
+protesting(0.024)
+hugging(0.023)

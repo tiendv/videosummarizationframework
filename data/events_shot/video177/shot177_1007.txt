@@ -1,5 +1,0 @@
-adult+female+singing(0.138)
-adult+female+speaking(0.113)
-drinking(0.072)
-sneezing(0.023)
-smiling(0.018)

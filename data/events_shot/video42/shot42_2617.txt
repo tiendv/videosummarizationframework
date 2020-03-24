@@ -1,0 +1,5 @@
+slapping(0.071)
+cracking(0.034)
+waking(0.032)
+sneezing(0.031)
+adult+female+speaking(0.027)

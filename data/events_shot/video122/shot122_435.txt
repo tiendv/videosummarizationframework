@@ -1,0 +1,5 @@
+reading(0.071)
+paying(0.047)
+pointing(0.028)
+adult+female+speaking(0.025)
+adult+male+speaking(0.021)

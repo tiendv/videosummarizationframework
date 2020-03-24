@@ -1,0 +1,5 @@
+handcuffing(0.280)
+arresting(0.179)
+locking(0.103)
+attacking(0.053)
+fighting(0.043)

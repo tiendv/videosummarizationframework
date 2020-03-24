@@ -1,0 +1,5 @@
+adult+male+speaking(0.106)
+crying(0.073)
+cracking(0.039)
+adult+female+speaking(0.032)
+frowning(0.030)

@@ -1,0 +1,5 @@
+fencing(0.372)
+walking(0.022)
+standing(0.016)
+mowing(0.016)
+hunting(0.016)

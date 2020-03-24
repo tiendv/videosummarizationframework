@@ -1,0 +1,5 @@
+chasing(0.066)
+barking(0.057)
+howling(0.056)
+walking(0.033)
+stealing(0.024)

@@ -1,0 +1,5 @@
+sitting(0.057)
+laughing(0.039)
+adult+male+speaking(0.036)
+painting(0.028)
+sneezing(0.025)

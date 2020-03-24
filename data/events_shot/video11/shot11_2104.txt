@@ -1,0 +1,5 @@
+aiming(0.187)
+spinning(0.179)
+turning(0.073)
+playing+videogames(0.032)
+colliding(0.027)

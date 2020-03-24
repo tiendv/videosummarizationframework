@@ -1,0 +1,5 @@
+sneezing(0.058)
+waking(0.030)
+praying(0.021)
+cracking(0.017)
+adult+male+speaking(0.016)

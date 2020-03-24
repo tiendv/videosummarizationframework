@@ -1,5 +1,0 @@
-bicycling(0.210)
-driving(0.045)
-walking(0.042)
-riding(0.026)
-talking(0.025)

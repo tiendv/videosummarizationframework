@@ -1,0 +1,5 @@
+juggling(0.399)
+flying(0.053)
+spinning(0.045)
+peeling(0.041)
+bouncing(0.016)

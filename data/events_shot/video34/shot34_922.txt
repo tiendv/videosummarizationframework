@@ -1,0 +1,5 @@
+mopping(0.189)
+dusting(0.052)
+playing+music(0.041)
+cleaning(0.034)
+folding(0.027)

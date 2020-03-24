@@ -1,0 +1,5 @@
+working(0.062)
+mopping(0.040)
+cooking(0.037)
+sweeping(0.035)
+stirring(0.029)

@@ -1,5 +1,0 @@
-drinking(0.103)
-adult+male+speaking(0.058)
-standing(0.040)
-hugging(0.031)
-shopping(0.024)

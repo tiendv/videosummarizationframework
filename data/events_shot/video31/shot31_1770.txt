@@ -1,0 +1,5 @@
+adult+male+speaking(0.091)
+fighting(0.075)
+playing+videogames(0.056)
+knocking(0.051)
+talking(0.051)

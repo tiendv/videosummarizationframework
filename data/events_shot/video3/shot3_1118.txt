@@ -1,0 +1,5 @@
+cooking(0.096)
+drinking(0.075)
+sneezing(0.040)
+coughing(0.039)
+stirring(0.037)

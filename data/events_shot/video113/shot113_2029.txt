@@ -1,0 +1,5 @@
+singing(0.067)
+crying(0.055)
+adult+female+singing(0.054)
+adult+male+singing(0.044)
+carrying(0.025)

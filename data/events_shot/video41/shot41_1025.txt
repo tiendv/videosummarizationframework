@@ -1,0 +1,5 @@
+yawning(1.000)
+roaring(0.000)
+waking(0.000)
+coughing(0.000)
+shouting(0.000)

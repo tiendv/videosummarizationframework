@@ -1,5 +1,0 @@
-planting(0.140)
-gardening(0.053)
-attacking(0.041)
-raising(0.033)
-clipping(0.032)

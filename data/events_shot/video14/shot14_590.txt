@@ -1,0 +1,5 @@
+adult+female+singing(0.249)
+roaring(0.144)
+adult+female+speaking(0.057)
+cheerleading(0.027)
+sneezing(0.022)

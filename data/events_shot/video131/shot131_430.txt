@@ -1,0 +1,5 @@
+filming(0.079)
+hunting(0.053)
+guarding(0.048)
+standing(0.046)
+shooting(0.033)

@@ -1,0 +1,5 @@
+painting(0.054)
+smiling(0.033)
+applauding(0.032)
+autographing(0.030)
+officiating(0.029)

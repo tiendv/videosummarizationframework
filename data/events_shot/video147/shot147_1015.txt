@@ -1,5 +1,0 @@
-walking(0.128)
-driving(0.100)
-arresting(0.070)
-steering(0.052)
-adult+male+speaking(0.035)

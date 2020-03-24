@@ -1,0 +1,5 @@
+laughing(0.050)
+shopping(0.050)
+hugging(0.034)
+exiting(0.024)
+walking(0.024)

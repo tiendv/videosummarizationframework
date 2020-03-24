@@ -1,5 +1,0 @@
-cooking(0.159)
-baking(0.110)
-gripping(0.027)
-pressing(0.024)
-drying(0.023)

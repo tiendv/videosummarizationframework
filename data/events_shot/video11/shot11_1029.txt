@@ -1,0 +1,5 @@
+stacking(0.198)
+drinking(0.148)
+eating(0.046)
+sneezing(0.022)
+chewing(0.022)

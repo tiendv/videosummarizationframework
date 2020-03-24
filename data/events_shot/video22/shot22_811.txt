@@ -1,0 +1,5 @@
+cooking(0.047)
+slicing(0.044)
+cutting(0.040)
+chopping(0.036)
+dining(0.035)

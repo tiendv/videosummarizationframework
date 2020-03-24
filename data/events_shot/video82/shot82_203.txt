@@ -1,0 +1,5 @@
+fencing(0.144)
+spraying(0.092)
+painting(0.079)
+working(0.053)
+packaging(0.044)

@@ -1,0 +1,5 @@
+sitting(0.081)
+talking(0.066)
+working(0.056)
+flying(0.037)
+turning(0.031)

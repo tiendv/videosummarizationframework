@@ -1,0 +1,5 @@
+aiming(0.723)
+shooting(0.094)
+filming(0.041)
+pointing(0.018)
+piloting(0.013)

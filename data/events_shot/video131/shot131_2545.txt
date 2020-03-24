@@ -1,0 +1,5 @@
+standing(0.145)
+adult+male+singing(0.056)
+performing(0.039)
+officiating(0.035)
+celebrating(0.033)

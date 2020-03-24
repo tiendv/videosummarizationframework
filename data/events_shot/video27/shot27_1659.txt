@@ -1,5 +1,0 @@
-sanding(0.201)
-sawing(0.199)
-drilling(0.109)
-repairing(0.057)
-working(0.056)

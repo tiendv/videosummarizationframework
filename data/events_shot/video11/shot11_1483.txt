@@ -1,0 +1,5 @@
+flicking(0.042)
+standing(0.038)
+waving(0.037)
+signing(0.037)
+throwing(0.037)

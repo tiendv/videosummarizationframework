@@ -1,0 +1,5 @@
+folding(0.123)
+walking(0.040)
+attacking(0.029)
+dressing(0.028)
+fighting(0.027)

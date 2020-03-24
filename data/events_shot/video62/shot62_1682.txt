@@ -1,0 +1,5 @@
+adult+male+speaking(0.057)
+talking(0.043)
+guarding(0.038)
+filming(0.036)
+standing(0.031)

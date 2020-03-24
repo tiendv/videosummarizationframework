@@ -1,0 +1,5 @@
+knocking(0.125)
+arresting(0.104)
+locking(0.073)
+adult+male+speaking(0.050)
+slapping(0.049)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.058)
+walking(0.032)
+working(0.028)
+cooking(0.025)
+playing+videogames(0.025)

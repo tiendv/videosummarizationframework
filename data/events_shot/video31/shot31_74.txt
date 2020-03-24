@@ -1,0 +1,5 @@
+telephoning(0.510)
+calling(0.261)
+reading(0.038)
+typing(0.015)
+pressing(0.014)

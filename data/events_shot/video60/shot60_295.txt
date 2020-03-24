@@ -1,5 +1,0 @@
-dining(0.101)
-selling(0.037)
-giving(0.034)
-adult+male+speaking(0.031)
-paying(0.028)

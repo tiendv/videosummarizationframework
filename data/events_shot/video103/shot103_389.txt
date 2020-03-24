@@ -1,0 +1,5 @@
+asking(0.038)
+sneezing(0.037)
+smelling(0.035)
+slapping(0.031)
+teaching(0.026)

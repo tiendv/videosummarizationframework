@@ -1,0 +1,5 @@
+hugging(0.052)
+discussing(0.049)
+walking(0.043)
+pointing(0.042)
+opening(0.029)

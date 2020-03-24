@@ -1,0 +1,5 @@
+cooking(0.060)
+working(0.043)
+cleaning(0.036)
+carving(0.028)
+dining(0.025)

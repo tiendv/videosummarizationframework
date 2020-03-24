@@ -1,0 +1,5 @@
+fencing(0.857)
+towing(0.008)
+pulling(0.006)
+riding(0.005)
+barking(0.005)

@@ -1,5 +1,0 @@
-walking(0.049)
-discussing(0.028)
-asking(0.026)
-stacking(0.024)
-exiting(0.022)

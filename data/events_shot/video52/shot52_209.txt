@@ -1,0 +1,5 @@
+slapping(0.084)
+talking(0.065)
+discussing(0.042)
+imitating(0.036)
+standing(0.032)

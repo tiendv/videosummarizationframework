@@ -1,0 +1,5 @@
+walking(0.191)
+standing(0.107)
+singing(0.068)
+performing(0.059)
+praying(0.041)

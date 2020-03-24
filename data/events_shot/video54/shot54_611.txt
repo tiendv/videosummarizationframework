@@ -1,0 +1,5 @@
+adult+male+speaking(0.060)
+marrying(0.044)
+sitting(0.039)
+talking(0.039)
+buttoning(0.037)

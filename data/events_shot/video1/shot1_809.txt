@@ -1,0 +1,5 @@
+adult+male+speaking(0.067)
+punching(0.046)
+standing(0.044)
+talking(0.037)
+blocking(0.034)

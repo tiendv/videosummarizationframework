@@ -1,5 +1,0 @@
-walking(0.063)
-standing(0.040)
-adult+female+speaking(0.032)
-drinking(0.029)
-tattooing(0.023)

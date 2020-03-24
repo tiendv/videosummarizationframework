@@ -1,0 +1,5 @@
+flooding(0.052)
+talking(0.033)
+discussing(0.032)
+hugging(0.029)
+adult+female+speaking(0.027)

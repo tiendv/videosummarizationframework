@@ -1,0 +1,5 @@
+slapping(0.154)
+discussing(0.062)
+winking(0.040)
+smiling(0.035)
+frowning(0.034)

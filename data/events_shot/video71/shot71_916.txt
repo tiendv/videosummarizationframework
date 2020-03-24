@@ -1,0 +1,5 @@
+bathing(0.295)
+plunging(0.079)
+rinsing(0.053)
+splashing(0.045)
+adult+female+speaking(0.044)

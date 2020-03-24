@@ -1,0 +1,5 @@
+dining(0.754)
+eating(0.037)
+serving(0.025)
+drinking(0.018)
+selling(0.012)

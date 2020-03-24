@@ -1,0 +1,5 @@
+laughing(0.122)
+talking(0.102)
+sitting(0.100)
+hanging(0.075)
+standing(0.037)

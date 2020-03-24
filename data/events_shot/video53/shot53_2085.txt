@@ -1,0 +1,5 @@
+drawing(0.194)
+lecturing(0.073)
+teaching(0.059)
+sketching(0.058)
+pointing(0.049)

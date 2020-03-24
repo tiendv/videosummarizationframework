@@ -1,0 +1,5 @@
+sanding(0.046)
+spraying(0.036)
+adult+male+speaking(0.031)
+inflating(0.029)
+taping(0.023)

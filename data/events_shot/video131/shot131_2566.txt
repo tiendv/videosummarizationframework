@@ -1,0 +1,5 @@
+dressing(0.134)
+combing(0.123)
+rubbing(0.055)
+tying(0.044)
+brushing(0.043)

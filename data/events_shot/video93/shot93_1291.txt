@@ -1,0 +1,5 @@
+adult+female+singing(0.028)
+hugging(0.027)
+putting(0.021)
+adult+male+speaking(0.020)
+dressing(0.019)

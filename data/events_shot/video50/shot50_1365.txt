@@ -1,5 +1,0 @@
-driving(0.155)
-steering(0.066)
-swerving(0.054)
-playing+videogames(0.037)
-riding(0.028)

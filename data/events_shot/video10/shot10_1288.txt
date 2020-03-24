@@ -1,5 +1,0 @@
-sneezing(0.045)
-adult+male+speaking(0.043)
-playing+videogames(0.041)
-hammering(0.030)
-slapping(0.030)

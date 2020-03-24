@@ -1,0 +1,5 @@
+smoking(0.254)
+brushing(0.063)
+eating(0.060)
+coughing(0.058)
+chewing(0.044)

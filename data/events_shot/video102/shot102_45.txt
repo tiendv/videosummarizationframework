@@ -1,0 +1,5 @@
+adult+male+speaking(0.095)
+reading(0.062)
+discussing(0.042)
+talking(0.034)
+adult+female+speaking(0.026)

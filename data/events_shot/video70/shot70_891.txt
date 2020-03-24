@@ -1,5 +1,0 @@
-smoking(0.231)
-discussing(0.142)
-coughing(0.140)
-slapping(0.043)
-interviewing(0.032)

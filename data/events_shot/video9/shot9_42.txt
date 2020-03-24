@@ -1,5 +1,0 @@
-telephoning(0.040)
-hammering(0.038)
-drumming(0.031)
-cleaning(0.027)
-playing+music(0.021)

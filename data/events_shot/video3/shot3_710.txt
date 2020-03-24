@@ -1,0 +1,5 @@
+telephoning(0.498)
+calling(0.214)
+adult+female+speaking(0.017)
+adult+male+speaking(0.012)
+playing+videogames(0.012)

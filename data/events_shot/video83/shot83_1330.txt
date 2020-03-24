@@ -1,0 +1,5 @@
+sneezing(0.108)
+laughing(0.087)
+bowing(0.038)
+working(0.033)
+coughing(0.023)

@@ -1,0 +1,5 @@
+packing(0.039)
+waking(0.034)
+pointing(0.022)
+hugging(0.019)
+unpacking(0.018)

@@ -1,0 +1,5 @@
+hanging(0.048)
+adult+male+speaking(0.043)
+raising(0.041)
+reaching(0.034)
+filming(0.027)

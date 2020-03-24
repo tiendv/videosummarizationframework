@@ -1,0 +1,5 @@
+adult+male+speaking(0.110)
+hugging(0.038)
+cuddling(0.037)
+clipping(0.032)
+adult+male+singing(0.027)

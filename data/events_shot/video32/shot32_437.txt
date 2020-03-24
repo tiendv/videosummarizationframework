@@ -1,0 +1,5 @@
+stacking(0.120)
+loading(0.034)
+unloading(0.023)
+waving(0.021)
+laughing(0.018)

@@ -1,0 +1,5 @@
+clapping(0.243)
+slapping(0.088)
+signing(0.060)
+waving(0.045)
+snapping(0.044)

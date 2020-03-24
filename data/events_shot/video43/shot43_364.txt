@@ -1,0 +1,5 @@
+dining(0.039)
+serving(0.035)
+drying(0.033)
+hanging(0.026)
+queuing(0.026)

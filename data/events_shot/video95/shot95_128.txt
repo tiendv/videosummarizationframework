@@ -1,0 +1,5 @@
+drinking(0.170)
+laughing(0.061)
+crying(0.050)
+standing(0.030)
+praying(0.021)

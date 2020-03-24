@@ -1,5 +1,0 @@
-asking(0.143)
-adult+male+speaking(0.103)
-instructing(0.068)
-shrugging(0.059)
-guarding(0.049)

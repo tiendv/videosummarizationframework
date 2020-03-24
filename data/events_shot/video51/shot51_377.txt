@@ -1,0 +1,5 @@
+fighting(0.215)
+slapping(0.104)
+punching(0.094)
+washing(0.040)
+boxing(0.034)

@@ -1,5 +1,0 @@
-praying(0.042)
-cooking(0.029)
-massaging(0.025)
-crafting(0.024)
-adult+female+speaking(0.023)

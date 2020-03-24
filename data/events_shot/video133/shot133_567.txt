@@ -1,0 +1,5 @@
+tapping(0.437)
+playing+music(0.215)
+drinking(0.047)
+smoking(0.012)
+scratching(0.012)

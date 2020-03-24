@@ -1,5 +1,0 @@
-fighting(0.120)
-giving(0.104)
-slapping(0.051)
-falling(0.026)
-dropping(0.024)

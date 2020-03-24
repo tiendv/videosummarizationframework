@@ -1,0 +1,5 @@
+crying(0.168)
+sneezing(0.060)
+praying(0.057)
+adult+female+speaking(0.050)
+talking(0.036)

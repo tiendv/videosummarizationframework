@@ -1,0 +1,5 @@
+working(0.088)
+dining(0.080)
+drying(0.059)
+talking(0.043)
+discussing(0.027)

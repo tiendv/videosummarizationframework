@@ -1,5 +1,0 @@
-clapping(0.186)
-applauding(0.145)
-adult+female+speaking(0.046)
-waving(0.045)
-slapping(0.035)

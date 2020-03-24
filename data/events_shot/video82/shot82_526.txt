@@ -1,0 +1,5 @@
+drinking(0.424)
+cooking(0.043)
+painting(0.033)
+pouring(0.025)
+dipping(0.024)

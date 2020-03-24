@@ -1,0 +1,5 @@
+adult+male+speaking(0.043)
+crying(0.040)
+talking(0.036)
+squinting(0.034)
+telephoning(0.030)

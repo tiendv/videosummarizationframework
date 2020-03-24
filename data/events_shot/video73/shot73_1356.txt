@@ -1,0 +1,5 @@
+autographing(0.040)
+laughing(0.036)
+talking(0.029)
+signing(0.029)
+adult+male+speaking(0.025)

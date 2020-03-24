@@ -1,0 +1,5 @@
+talking(0.126)
+adult+male+speaking(0.116)
+whistling(0.072)
+discussing(0.054)
+standing(0.053)

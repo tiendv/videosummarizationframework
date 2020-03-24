@@ -1,0 +1,5 @@
+crying(0.831)
+opening(0.019)
+closing(0.015)
+carrying(0.012)
+raining(0.009)

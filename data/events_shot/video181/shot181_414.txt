@@ -1,5 +1,0 @@
-sprinting(0.076)
-jogging(0.048)
-applauding(0.045)
-clapping(0.039)
-coaching(0.037)

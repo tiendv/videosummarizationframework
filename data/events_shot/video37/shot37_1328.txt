@@ -1,5 +1,0 @@
-calling(0.062)
-adult+male+speaking(0.054)
-telephoning(0.053)
-sneezing(0.037)
-fighting(0.028)

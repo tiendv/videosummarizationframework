@@ -1,5 +1,0 @@
-walking(0.088)
-running(0.060)
-standing(0.041)
-hitchhiking(0.024)
-adult+male+speaking(0.024)

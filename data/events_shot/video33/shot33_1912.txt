@@ -1,0 +1,5 @@
+kissing(0.104)
+crying(0.028)
+adult+male+speaking(0.027)
+knocking(0.025)
+adult+female+speaking(0.023)

@@ -1,0 +1,5 @@
+throwing(0.253)
+pointing(0.163)
+adult+male+speaking(0.074)
+flicking(0.041)
+standing(0.029)

@@ -1,0 +1,5 @@
+queuing(0.343)
+officiating(0.048)
+bowing(0.039)
+arresting(0.036)
+standing(0.029)

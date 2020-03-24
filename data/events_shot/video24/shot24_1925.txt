@@ -1,0 +1,5 @@
+running(0.132)
+sprinting(0.047)
+bouncing(0.042)
+walking(0.041)
+standing(0.031)

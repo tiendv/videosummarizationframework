@@ -1,5 +1,0 @@
-bowing(0.280)
-kneeling(0.103)
-praying(0.048)
-playing+videogames(0.022)
-adult+male+speaking(0.021)

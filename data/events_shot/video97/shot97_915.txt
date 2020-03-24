@@ -1,5 +1,0 @@
-fencing(0.804)
-chasing(0.016)
-riding(0.013)
-driving(0.011)
-turning(0.007)

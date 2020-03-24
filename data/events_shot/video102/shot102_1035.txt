@@ -1,0 +1,5 @@
+cracking(0.099)
+hugging(0.050)
+dressing(0.033)
+walking(0.030)
+laughing(0.030)

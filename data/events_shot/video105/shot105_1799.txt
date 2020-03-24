@@ -1,0 +1,5 @@
+camping(0.249)
+adult+female+speaking(0.228)
+smiling(0.092)
+cuddling(0.058)
+discussing(0.033)

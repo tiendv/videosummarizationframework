@@ -1,0 +1,5 @@
+handcuffing(0.081)
+snapping(0.051)
+adult+male+speaking(0.051)
+locking(0.043)
+gripping(0.035)

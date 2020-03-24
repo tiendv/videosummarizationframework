@@ -1,0 +1,5 @@
+adult+male+speaking(0.185)
+discussing(0.090)
+talking(0.089)
+lecturing(0.075)
+pointing(0.063)

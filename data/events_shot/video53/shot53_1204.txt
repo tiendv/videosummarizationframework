@@ -1,0 +1,5 @@
+adult+female+speaking(0.205)
+discussing(0.104)
+drying(0.078)
+interviewing(0.078)
+talking(0.065)

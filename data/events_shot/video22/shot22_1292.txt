@@ -1,0 +1,5 @@
+arresting(0.072)
+handcuffing(0.048)
+adult+male+speaking(0.042)
+stealing(0.040)
+removing(0.028)

@@ -1,5 +1,0 @@
-flicking(0.246)
-aiming(0.225)
-throwing(0.067)
-flipping(0.042)
-shooting(0.032)

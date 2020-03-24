@@ -1,0 +1,5 @@
+brushing(0.289)
+washing(0.072)
+combing(0.044)
+drying(0.041)
+sneezing(0.025)

@@ -1,0 +1,5 @@
+giving(0.042)
+walking(0.036)
+opening(0.035)
+standing(0.033)
+adult+female+speaking(0.024)

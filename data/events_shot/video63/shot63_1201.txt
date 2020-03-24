@@ -1,0 +1,5 @@
+tapping(0.053)
+frowning(0.043)
+crying(0.042)
+brushing(0.031)
+hugging(0.025)

@@ -1,5 +1,0 @@
-combing(0.525)
-brushing(0.337)
-tapping(0.025)
-scratching(0.021)
-rubbing(0.014)

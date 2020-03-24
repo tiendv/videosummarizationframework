@@ -1,0 +1,5 @@
+adult+female+speaking(0.099)
+telephoning(0.041)
+hugging(0.040)
+adult+male+speaking(0.037)
+marrying(0.035)

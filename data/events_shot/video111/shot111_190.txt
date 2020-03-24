@@ -1,0 +1,5 @@
+scratching(0.384)
+rubbing(0.146)
+tapping(0.085)
+massaging(0.056)
+peeling(0.024)

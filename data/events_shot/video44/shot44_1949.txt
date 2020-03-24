@@ -1,0 +1,5 @@
+reading(0.117)
+cooking(0.072)
+adult+female+speaking(0.046)
+crafting(0.036)
+knitting(0.025)

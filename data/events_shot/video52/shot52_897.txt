@@ -1,0 +1,5 @@
+aiming(0.089)
+hitchhiking(0.063)
+piloting(0.059)
+hunting(0.039)
+throwing(0.035)

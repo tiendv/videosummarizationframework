@@ -1,0 +1,5 @@
+filming(0.052)
+locking(0.032)
+drying(0.031)
+opening(0.031)
+standing(0.027)

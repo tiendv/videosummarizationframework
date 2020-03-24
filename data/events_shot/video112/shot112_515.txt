@@ -1,0 +1,5 @@
+howling(0.132)
+barking(0.105)
+cuddling(0.078)
+resting(0.025)
+hugging(0.025)

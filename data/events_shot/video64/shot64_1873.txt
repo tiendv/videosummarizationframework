@@ -1,0 +1,5 @@
+spinning(0.434)
+drying(0.208)
+aiming(0.046)
+flooding(0.039)
+turning(0.033)

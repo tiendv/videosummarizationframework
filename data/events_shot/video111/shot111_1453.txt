@@ -1,0 +1,5 @@
+telephoning(0.146)
+baptizing(0.069)
+lecturing(0.049)
+typing(0.047)
+writing(0.038)

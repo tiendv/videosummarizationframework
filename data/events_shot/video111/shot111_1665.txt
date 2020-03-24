@@ -1,0 +1,5 @@
+talking(0.172)
+driving(0.072)
+starting(0.053)
+adult+male+speaking(0.049)
+discussing(0.045)

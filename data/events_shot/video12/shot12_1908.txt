@@ -1,0 +1,5 @@
+adult+female+speaking(0.187)
+talking(0.097)
+discussing(0.087)
+cooking(0.065)
+baking(0.054)

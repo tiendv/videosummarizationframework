@@ -1,0 +1,5 @@
+adult+female+singing(0.448)
+adult+male+singing(0.128)
+singing(0.035)
+washing(0.023)
+rinsing(0.021)

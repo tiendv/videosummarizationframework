@@ -1,0 +1,5 @@
+fighting(0.042)
+attacking(0.041)
+carrying(0.029)
+waking(0.027)
+clipping(0.019)

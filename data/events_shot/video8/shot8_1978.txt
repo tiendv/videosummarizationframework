@@ -1,5 +1,0 @@
-hiking(0.259)
-climbing(0.116)
-skiing(0.033)
-rafting(0.027)
-rising(0.018)

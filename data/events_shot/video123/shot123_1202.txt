@@ -1,0 +1,5 @@
+sliding(0.277)
+slipping(0.034)
+adult+female+singing(0.025)
+adult+male+singing(0.018)
+rocking(0.018)

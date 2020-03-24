@@ -1,0 +1,5 @@
+dining(0.155)
+autographing(0.104)
+eating(0.052)
+sitting(0.034)
+playing+videogames(0.030)

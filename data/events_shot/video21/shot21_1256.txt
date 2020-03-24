@@ -1,0 +1,5 @@
+standing(0.073)
+adult+male+singing(0.063)
+knocking(0.052)
+walking(0.041)
+playing+videogames(0.035)

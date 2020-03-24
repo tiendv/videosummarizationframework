@@ -1,0 +1,5 @@
+kissing(0.083)
+smelling(0.082)
+sniffing(0.076)
+chewing(0.054)
+hugging(0.052)

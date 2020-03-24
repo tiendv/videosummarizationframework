@@ -1,0 +1,5 @@
+cooking(0.240)
+mopping(0.113)
+baking(0.109)
+stirring(0.051)
+dusting(0.047)

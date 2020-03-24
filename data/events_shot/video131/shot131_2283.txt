@@ -1,0 +1,5 @@
+praying(0.527)
+officiating(0.426)
+marrying(0.019)
+baptizing(0.007)
+preaching(0.005)

@@ -1,5 +1,0 @@
-walking(0.042)
-fighting(0.036)
-running(0.036)
-attacking(0.031)
-adult+male+singing(0.030)

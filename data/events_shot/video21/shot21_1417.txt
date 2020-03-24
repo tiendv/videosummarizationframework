@@ -1,0 +1,5 @@
+dining(0.038)
+socializing(0.033)
+marrying(0.032)
+smiling(0.027)
+discussing(0.025)

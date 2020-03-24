@@ -1,0 +1,5 @@
+crying(0.180)
+raining(0.092)
+adult+male+singing(0.061)
+playing+videogames(0.039)
+laughing(0.030)

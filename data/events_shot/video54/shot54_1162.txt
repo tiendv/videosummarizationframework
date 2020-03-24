@@ -1,0 +1,5 @@
+adult+female+speaking(0.075)
+asking(0.072)
+applauding(0.042)
+smiling(0.039)
+cheering(0.035)

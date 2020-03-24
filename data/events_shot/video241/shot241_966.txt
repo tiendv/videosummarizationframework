@@ -1,5 +1,0 @@
-driving(0.175)
-riding(0.070)
-steering(0.037)
-hitchhiking(0.027)
-kissing(0.025)

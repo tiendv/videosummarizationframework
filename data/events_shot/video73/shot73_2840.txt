@@ -1,0 +1,5 @@
+drinking(0.079)
+adult+male+speaking(0.044)
+adult+female+speaking(0.044)
+smiling(0.041)
+celebrating(0.031)

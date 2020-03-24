@@ -1,0 +1,5 @@
+telephoning(0.696)
+calling(0.251)
+typing(0.011)
+tapping(0.006)
+adult+male+speaking(0.004)

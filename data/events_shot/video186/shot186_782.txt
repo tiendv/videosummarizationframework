@@ -1,5 +1,0 @@
-sneezing(0.120)
-coughing(0.053)
-fighting(0.042)
-running(0.034)
-drinking(0.024)

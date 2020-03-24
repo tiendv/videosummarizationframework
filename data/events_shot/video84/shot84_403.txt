@@ -1,0 +1,5 @@
+fighting(0.153)
+squatting(0.055)
+attacking(0.052)
+dancing(0.045)
+blocking(0.027)

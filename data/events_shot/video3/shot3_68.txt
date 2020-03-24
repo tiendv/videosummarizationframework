@@ -1,0 +1,5 @@
+talking(0.148)
+snowing(0.113)
+adult+male+speaking(0.072)
+standing(0.041)
+playing+videogames(0.039)

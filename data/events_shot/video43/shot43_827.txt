@@ -1,0 +1,5 @@
+pushing(0.040)
+sitting(0.033)
+walking(0.030)
+laughing(0.029)
+talking(0.028)

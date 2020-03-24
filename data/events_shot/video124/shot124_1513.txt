@@ -1,0 +1,5 @@
+adult+male+speaking(0.269)
+preaching(0.050)
+smoking(0.046)
+adult+male+singing(0.043)
+lecturing(0.041)

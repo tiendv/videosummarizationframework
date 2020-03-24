@@ -1,0 +1,5 @@
+knocking(0.066)
+calling(0.052)
+standing(0.035)
+coughing(0.034)
+walking(0.027)

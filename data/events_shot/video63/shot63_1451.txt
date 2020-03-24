@@ -1,0 +1,5 @@
+running(0.033)
+skipping(0.029)
+adult+male+speaking(0.024)
+slapping(0.022)
+leaping(0.018)

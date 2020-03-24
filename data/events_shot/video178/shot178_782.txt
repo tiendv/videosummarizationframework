@@ -1,5 +1,0 @@
-stacking(0.130)
-squatting(0.063)
-hugging(0.038)
-running(0.022)
-standing(0.020)

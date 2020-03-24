@@ -1,0 +1,5 @@
+opening(0.142)
+adult+female+speaking(0.072)
+closing(0.072)
+crying(0.041)
+discussing(0.032)

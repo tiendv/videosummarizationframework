@@ -1,0 +1,5 @@
+flooding(0.227)
+discussing(0.191)
+interviewing(0.081)
+boating(0.050)
+talking(0.041)

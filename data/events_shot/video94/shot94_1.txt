@@ -1,0 +1,5 @@
+hiking(0.070)
+diving(0.064)
+walking(0.038)
+crawling(0.034)
+climbing(0.034)

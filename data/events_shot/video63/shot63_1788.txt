@@ -1,0 +1,5 @@
+dining(0.090)
+adult+male+speaking(0.086)
+queuing(0.057)
+asking(0.036)
+discussing(0.034)

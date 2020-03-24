@@ -1,5 +1,0 @@
-crying(0.532)
-frowning(0.072)
-raining(0.023)
-waking(0.015)
-carrying(0.013)

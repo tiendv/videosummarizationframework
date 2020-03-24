@@ -1,0 +1,5 @@
+squatting(0.160)
+lifting(0.033)
+laughing(0.023)
+standing(0.022)
+adult+female+speaking(0.018)

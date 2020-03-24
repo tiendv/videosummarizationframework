@@ -1,0 +1,5 @@
+laughing(0.150)
+child+speaking(0.060)
+smiling(0.052)
+child+singing(0.029)
+grinning(0.028)

@@ -1,0 +1,5 @@
+kicking(0.100)
+slapping(0.032)
+punching(0.028)
+queuing(0.028)
+fighting(0.026)

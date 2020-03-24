@@ -1,0 +1,5 @@
+praying(0.117)
+adult+male+speaking(0.098)
+adult+female+speaking(0.049)
+discussing(0.043)
+sitting(0.031)

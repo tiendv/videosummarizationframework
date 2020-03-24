@@ -1,0 +1,5 @@
+carving(0.096)
+cooking(0.067)
+adult+male+speaking(0.027)
+dipping(0.024)
+stirring(0.023)

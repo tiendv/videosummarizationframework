@@ -1,0 +1,5 @@
+fencing(0.121)
+entering(0.119)
+walking(0.093)
+exiting(0.073)
+asking(0.028)

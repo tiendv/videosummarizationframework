@@ -1,5 +1,0 @@
-shopping(0.073)
-hugging(0.031)
-adult+male+speaking(0.027)
-pointing(0.026)
-slapping(0.025)

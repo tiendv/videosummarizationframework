@@ -1,5 +1,0 @@
-taping(0.131)
-slapping(0.084)
-punching(0.058)
-blocking(0.050)
-knocking(0.050)

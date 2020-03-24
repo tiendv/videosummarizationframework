@@ -1,0 +1,5 @@
+fencing(0.116)
+guarding(0.062)
+bowing(0.027)
+drying(0.026)
+stealing(0.019)

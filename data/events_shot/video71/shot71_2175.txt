@@ -1,0 +1,5 @@
+flying(0.049)
+hugging(0.044)
+opening(0.029)
+giving(0.026)
+closing(0.026)

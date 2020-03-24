@@ -1,0 +1,5 @@
+dining(0.257)
+officiating(0.054)
+giving(0.038)
+serving(0.038)
+marrying(0.032)

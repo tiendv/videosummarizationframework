@@ -1,0 +1,5 @@
+constructing(0.368)
+building(0.224)
+exiting(0.044)
+repairing(0.041)
+boarding(0.023)

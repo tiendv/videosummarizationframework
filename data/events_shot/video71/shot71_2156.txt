@@ -1,0 +1,5 @@
+packing(0.157)
+packaging(0.155)
+painting(0.079)
+drying(0.049)
+unpacking(0.042)

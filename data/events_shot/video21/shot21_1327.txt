@@ -1,0 +1,5 @@
+baptizing(0.078)
+standing(0.054)
+walking(0.037)
+adult+male+speaking(0.031)
+laughing(0.029)

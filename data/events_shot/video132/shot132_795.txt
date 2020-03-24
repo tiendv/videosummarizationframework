@@ -1,0 +1,5 @@
+calling(0.174)
+telephoning(0.170)
+filming(0.022)
+clipping(0.021)
+adult+male+speaking(0.015)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.560)
+packing(0.089)
+stitching(0.043)
+knitting(0.022)
+unpacking(0.021)

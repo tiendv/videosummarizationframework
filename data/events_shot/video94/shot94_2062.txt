@@ -1,0 +1,5 @@
+adult+male+singing(0.092)
+raining(0.052)
+cracking(0.043)
+storming(0.040)
+coughing(0.038)

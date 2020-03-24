@@ -1,0 +1,5 @@
+discussing(0.198)
+interviewing(0.174)
+signing(0.055)
+lecturing(0.054)
+adult+male+speaking(0.040)

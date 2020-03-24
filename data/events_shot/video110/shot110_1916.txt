@@ -1,5 +1,0 @@
-slapping(0.059)
-sneezing(0.043)
-attacking(0.042)
-adult+female+singing(0.040)
-fighting(0.031)

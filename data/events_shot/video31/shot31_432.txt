@@ -1,0 +1,5 @@
+calling(0.487)
+telephoning(0.359)
+adult+male+speaking(0.006)
+inflating(0.005)
+gripping(0.003)

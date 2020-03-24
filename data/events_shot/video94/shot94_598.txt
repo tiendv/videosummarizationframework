@@ -1,0 +1,5 @@
+adult+female+singing(0.063)
+fighting(0.039)
+blocking(0.022)
+running(0.019)
+cooking(0.019)

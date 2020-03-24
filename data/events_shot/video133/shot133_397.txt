@@ -1,0 +1,5 @@
+sitting(0.136)
+telephoning(0.070)
+resting(0.061)
+sleeping(0.050)
+calling(0.044)

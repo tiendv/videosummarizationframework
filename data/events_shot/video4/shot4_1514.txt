@@ -1,0 +1,5 @@
+walking(0.088)
+running(0.026)
+shooting(0.023)
+adult+male+speaking(0.020)
+attacking(0.020)

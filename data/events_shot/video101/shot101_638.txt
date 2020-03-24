@@ -1,0 +1,5 @@
+adult+female+speaking(0.127)
+slapping(0.051)
+playing+videogames(0.044)
+asking(0.043)
+adult+male+speaking(0.034)

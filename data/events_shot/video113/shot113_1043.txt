@@ -1,0 +1,5 @@
+protesting(0.100)
+fishing(0.080)
+bicycling(0.043)
+measuring(0.036)
+hitchhiking(0.034)

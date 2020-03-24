@@ -1,0 +1,5 @@
+aiming(0.359)
+steering(0.209)
+playing+videogames(0.057)
+starting(0.042)
+loading(0.026)

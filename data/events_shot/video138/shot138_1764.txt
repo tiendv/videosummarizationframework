@@ -1,5 +1,0 @@
-fencing(0.171)
-pointing(0.060)
-barking(0.026)
-discussing(0.026)
-adult+male+speaking(0.024)

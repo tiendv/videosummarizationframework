@@ -1,5 +1,0 @@
-fencing(0.053)
-adult+female+speaking(0.043)
-hugging(0.039)
-kissing(0.034)
-walking(0.026)

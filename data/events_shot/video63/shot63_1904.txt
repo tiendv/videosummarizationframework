@@ -1,0 +1,5 @@
+walking(0.049)
+cooking(0.034)
+adult+male+speaking(0.028)
+standing(0.027)
+stealing(0.017)

@@ -1,0 +1,5 @@
+standing(0.062)
+drinking(0.045)
+laughing(0.042)
+talking(0.035)
+inflating(0.029)

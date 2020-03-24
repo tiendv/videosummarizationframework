@@ -1,0 +1,5 @@
+arresting(0.064)
+frowning(0.051)
+talking(0.045)
+guarding(0.038)
+saluting(0.036)

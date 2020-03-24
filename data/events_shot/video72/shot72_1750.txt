@@ -1,0 +1,5 @@
+tattooing(0.076)
+packing(0.053)
+adult+male+speaking(0.036)
+adult+female+singing(0.035)
+adult+female+speaking(0.026)

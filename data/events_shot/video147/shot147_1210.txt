@@ -1,5 +1,0 @@
-adult+male+singing(0.110)
-coughing(0.060)
-cooking(0.044)
-adult+female+singing(0.036)
-adult+male+speaking(0.036)

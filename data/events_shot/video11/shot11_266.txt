@@ -1,0 +1,5 @@
+packing(0.140)
+unpacking(0.088)
+packaging(0.029)
+loading(0.018)
+cleaning(0.016)

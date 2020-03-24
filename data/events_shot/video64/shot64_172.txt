@@ -1,5 +1,0 @@
-calling(0.123)
-telephoning(0.103)
-fighting(0.063)
-walking(0.033)
-hugging(0.033)

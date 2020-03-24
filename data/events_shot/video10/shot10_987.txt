@@ -1,5 +1,0 @@
-walking(0.054)
-punching(0.047)
-slapping(0.044)
-adult+male+speaking(0.042)
-arresting(0.037)

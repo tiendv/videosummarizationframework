@@ -1,5 +1,0 @@
-fighting(0.055)
-smashing(0.047)
-slapping(0.036)
-dining(0.035)
-adult+male+speaking(0.028)

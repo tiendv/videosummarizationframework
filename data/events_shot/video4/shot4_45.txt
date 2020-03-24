@@ -1,0 +1,5 @@
+standing(0.029)
+bowing(0.028)
+raising(0.024)
+hanging(0.021)
+adult+male+speaking(0.017)

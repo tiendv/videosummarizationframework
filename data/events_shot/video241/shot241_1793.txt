@@ -1,5 +1,0 @@
-aiming(0.051)
-arresting(0.050)
-pointing(0.049)
-shooting(0.048)
-filming(0.042)

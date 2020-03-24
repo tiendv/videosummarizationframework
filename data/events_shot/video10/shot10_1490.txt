@@ -1,5 +1,0 @@
-tapping(0.060)
-slapping(0.054)
-adult+male+speaking(0.037)
-adult+female+speaking(0.033)
-rubbing(0.032)

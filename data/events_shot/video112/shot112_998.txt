@@ -1,0 +1,5 @@
+asking(0.058)
+hugging(0.055)
+walking(0.051)
+kissing(0.050)
+marrying(0.037)

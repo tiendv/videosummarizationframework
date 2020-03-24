@@ -1,0 +1,5 @@
+praying(0.327)
+bowing(0.167)
+sneezing(0.123)
+officiating(0.051)
+baptizing(0.029)

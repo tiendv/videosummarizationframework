@@ -1,0 +1,5 @@
+burying(0.318)
+digging(0.094)
+gardening(0.039)
+weeding(0.032)
+draining(0.026)

@@ -1,0 +1,5 @@
+slapping(0.047)
+standing(0.040)
+adult+male+speaking(0.036)
+fighting(0.035)
+drinking(0.030)

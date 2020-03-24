@@ -1,0 +1,5 @@
+fencing(0.266)
+mowing(0.038)
+gardening(0.036)
+weeding(0.033)
+hunting(0.026)

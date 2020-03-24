@@ -1,0 +1,5 @@
+bowing(0.052)
+adult+male+speaking(0.046)
+squatting(0.040)
+adult+female+speaking(0.029)
+playing+videogames(0.026)

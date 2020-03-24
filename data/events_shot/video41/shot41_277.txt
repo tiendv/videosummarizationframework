@@ -1,0 +1,5 @@
+laughing(0.185)
+tickling(0.057)
+sneezing(0.026)
+cleaning(0.025)
+adult+female+speaking(0.023)

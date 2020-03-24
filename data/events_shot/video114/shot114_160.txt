@@ -1,0 +1,5 @@
+telephoning(0.178)
+calling(0.166)
+crying(0.104)
+carrying(0.032)
+hugging(0.026)

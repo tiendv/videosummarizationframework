@@ -1,5 +1,0 @@
-adult+male+speaking(0.086)
-coaching(0.040)
-discussing(0.037)
-smiling(0.033)
-throwing(0.030)

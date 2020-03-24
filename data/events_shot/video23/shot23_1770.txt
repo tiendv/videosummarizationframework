@@ -1,0 +1,5 @@
+adult+male+speaking(0.232)
+discussing(0.094)
+assembling(0.060)
+handcuffing(0.026)
+interviewing(0.026)

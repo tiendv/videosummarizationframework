@@ -1,0 +1,5 @@
+discussing(0.085)
+adult+male+speaking(0.065)
+adult+female+speaking(0.057)
+talking(0.036)
+sneezing(0.030)

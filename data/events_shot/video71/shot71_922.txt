@@ -1,0 +1,5 @@
+adult+female+singing(0.499)
+dancing(0.064)
+performing(0.060)
+rocking(0.039)
+adult+female+speaking(0.025)

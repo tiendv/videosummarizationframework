@@ -1,0 +1,5 @@
+smoking(0.200)
+drinking(0.098)
+adult+female+speaking(0.052)
+sniffing(0.040)
+eating(0.040)

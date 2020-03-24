@@ -1,5 +1,0 @@
-smoking(0.103)
-chewing(0.061)
-adult+male+speaking(0.053)
-telephoning(0.050)
-coughing(0.043)

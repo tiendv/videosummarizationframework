@@ -1,5 +1,0 @@
-child+speaking(0.120)
-bouncing(0.086)
-jumping(0.085)
-child+singing(0.062)
-hanging(0.058)

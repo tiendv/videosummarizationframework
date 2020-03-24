@@ -1,0 +1,5 @@
+frowning(0.055)
+aiming(0.045)
+discussing(0.042)
+adult+male+speaking(0.042)
+saluting(0.040)

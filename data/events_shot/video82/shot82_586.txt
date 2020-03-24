@@ -1,0 +1,5 @@
+sneezing(0.112)
+chewing(0.050)
+tapping(0.040)
+brushing(0.033)
+coughing(0.033)

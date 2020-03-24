@@ -1,0 +1,5 @@
+walking(0.148)
+asking(0.046)
+exiting(0.043)
+interviewing(0.038)
+filming(0.028)

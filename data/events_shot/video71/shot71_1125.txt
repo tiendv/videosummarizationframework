@@ -1,0 +1,5 @@
+knocking(0.053)
+walking(0.052)
+standing(0.038)
+sneezing(0.025)
+filming(0.024)

@@ -1,0 +1,5 @@
+fencing(0.105)
+hugging(0.078)
+smiling(0.060)
+cuddling(0.058)
+adult+male+speaking(0.042)

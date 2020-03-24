@@ -1,0 +1,5 @@
+towing(0.549)
+driving(0.097)
+pulling(0.033)
+steering(0.022)
+stopping(0.021)

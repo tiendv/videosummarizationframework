@@ -1,5 +1,0 @@
-sneezing(0.060)
-drying(0.048)
-coughing(0.046)
-dressing(0.040)
-tying(0.033)

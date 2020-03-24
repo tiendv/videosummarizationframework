@@ -1,0 +1,5 @@
+arresting(0.112)
+queuing(0.073)
+hugging(0.059)
+stealing(0.029)
+handcuffing(0.022)

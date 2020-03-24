@@ -1,0 +1,5 @@
+opening(0.097)
+closing(0.096)
+locking(0.088)
+arresting(0.075)
+guarding(0.050)

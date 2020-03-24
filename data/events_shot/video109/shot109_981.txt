@@ -1,5 +1,0 @@
-sneezing(0.216)
-coughing(0.112)
-crying(0.030)
-adult+male+singing(0.019)
-cracking(0.019)

@@ -1,0 +1,5 @@
+drinking(0.725)
+shaving(0.161)
+smelling(0.011)
+sniffing(0.009)
+sneezing(0.003)

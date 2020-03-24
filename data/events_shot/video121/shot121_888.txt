@@ -1,0 +1,5 @@
+adult+female+speaking(0.107)
+yawning(0.078)
+stretching(0.073)
+adult+female+singing(0.060)
+roaring(0.039)

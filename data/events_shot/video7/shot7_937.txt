@@ -1,5 +1,0 @@
-hugging(0.046)
-walking(0.034)
-standing(0.030)
-asking(0.030)
-autographing(0.029)

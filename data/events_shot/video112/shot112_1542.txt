@@ -1,0 +1,5 @@
+lecturing(0.038)
+adult+female+speaking(0.030)
+standing(0.028)
+squinting(0.027)
+frowning(0.026)

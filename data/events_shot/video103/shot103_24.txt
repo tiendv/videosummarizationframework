@@ -1,0 +1,5 @@
+walking(0.310)
+standing(0.065)
+dressing(0.044)
+child+speaking(0.034)
+opening(0.026)

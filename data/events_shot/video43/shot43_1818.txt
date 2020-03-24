@@ -1,0 +1,5 @@
+cooking(0.246)
+stirring(0.192)
+talking(0.075)
+frying(0.057)
+dining(0.040)

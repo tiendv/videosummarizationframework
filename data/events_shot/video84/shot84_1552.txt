@@ -1,0 +1,5 @@
+laughing(0.131)
+walking(0.088)
+telephoning(0.080)
+calling(0.050)
+drinking(0.035)

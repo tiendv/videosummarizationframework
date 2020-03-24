@@ -1,0 +1,5 @@
+cooking(0.080)
+laughing(0.038)
+baking(0.025)
+carving(0.022)
+rubbing(0.021)

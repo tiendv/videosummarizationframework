@@ -1,0 +1,5 @@
+lecturing(0.128)
+pointing(0.060)
+adult+male+speaking(0.059)
+shrugging(0.047)
+talking(0.035)

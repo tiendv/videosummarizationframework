@@ -1,0 +1,5 @@
+tying(0.049)
+putting(0.043)
+tapping(0.035)
+placing(0.031)
+drinking(0.027)

@@ -1,5 +1,0 @@
-drying(0.041)
-standing(0.030)
-hugging(0.021)
-drinking(0.016)
-laughing(0.015)

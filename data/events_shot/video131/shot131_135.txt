@@ -1,0 +1,5 @@
+crying(0.103)
+frowning(0.088)
+waking(0.077)
+telephoning(0.045)
+calling(0.039)

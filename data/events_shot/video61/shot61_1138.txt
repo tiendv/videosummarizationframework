@@ -1,0 +1,5 @@
+building(0.062)
+shaving(0.051)
+working(0.042)
+painting(0.042)
+cleaning(0.035)

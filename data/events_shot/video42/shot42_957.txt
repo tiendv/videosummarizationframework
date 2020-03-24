@@ -1,0 +1,5 @@
+autographing(0.140)
+dining(0.045)
+applauding(0.035)
+queuing(0.030)
+walking(0.029)

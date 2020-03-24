@@ -1,5 +1,0 @@
-driving(0.075)
-sitting(0.063)
-riding(0.058)
-kissing(0.035)
-tattooing(0.033)

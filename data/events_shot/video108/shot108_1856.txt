@@ -1,5 +1,0 @@
-opening(0.050)
-closing(0.039)
-gripping(0.030)
-burying(0.022)
-leaning(0.021)

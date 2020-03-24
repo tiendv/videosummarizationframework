@@ -1,5 +1,0 @@
-bowling(0.033)
-adult+male+speaking(0.028)
-fueling(0.024)
-coaching(0.023)
-playing+videogames(0.022)

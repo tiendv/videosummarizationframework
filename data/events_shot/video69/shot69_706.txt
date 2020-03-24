@@ -1,5 +1,0 @@
-reading(0.095)
-talking(0.060)
-adult+male+speaking(0.059)
-sneezing(0.048)
-telephoning(0.040)

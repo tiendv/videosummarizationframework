@@ -1,0 +1,5 @@
+cleaning(0.325)
+mopping(0.182)
+vacuuming(0.030)
+dusting(0.024)
+washing(0.018)

@@ -1,0 +1,5 @@
+praying(0.292)
+officiating(0.038)
+bowing(0.033)
+photographing(0.030)
+adult+male+speaking(0.023)

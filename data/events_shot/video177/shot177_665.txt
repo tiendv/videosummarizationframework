@@ -1,5 +1,0 @@
-dining(0.085)
-autographing(0.062)
-drinking(0.047)
-discussing(0.041)
-adult+female+speaking(0.037)

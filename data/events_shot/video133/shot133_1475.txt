@@ -1,0 +1,5 @@
+bowing(0.044)
+punching(0.035)
+bending(0.026)
+kissing(0.025)
+lifting(0.025)

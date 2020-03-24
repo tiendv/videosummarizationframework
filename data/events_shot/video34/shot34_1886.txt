@@ -1,0 +1,5 @@
+smoking(0.051)
+drinking(0.041)
+spraying(0.031)
+pointing(0.025)
+shooting(0.021)

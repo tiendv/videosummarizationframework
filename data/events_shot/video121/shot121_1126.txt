@@ -1,0 +1,5 @@
+sleeping(0.166)
+adult+female+speaking(0.120)
+waking(0.111)
+cuddling(0.066)
+manicuring(0.063)

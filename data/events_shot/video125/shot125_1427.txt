@@ -1,0 +1,5 @@
+adult+female+speaking(0.349)
+asking(0.061)
+interviewing(0.036)
+smiling(0.026)
+cheerleading(0.022)

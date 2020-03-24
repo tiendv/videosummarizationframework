@@ -1,0 +1,5 @@
+marrying(0.195)
+laughing(0.087)
+adult+male+singing(0.076)
+standing(0.046)
+adult+female+singing(0.044)

@@ -1,0 +1,5 @@
+walking(0.070)
+guarding(0.070)
+filming(0.043)
+running(0.038)
+protesting(0.035)

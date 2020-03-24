@@ -1,0 +1,5 @@
+rinsing(0.450)
+washing(0.163)
+boiling(0.123)
+drying(0.057)
+stirring(0.034)

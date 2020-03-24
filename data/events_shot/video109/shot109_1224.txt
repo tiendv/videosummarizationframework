@@ -1,5 +1,0 @@
-drinking(0.056)
-bowling(0.036)
-mopping(0.034)
-sneezing(0.028)
-talking(0.024)

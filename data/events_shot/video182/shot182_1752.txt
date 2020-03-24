@@ -1,5 +1,0 @@
-slapping(0.026)
-turning(0.023)
-dusting(0.022)
-dressing(0.021)
-walking(0.020)

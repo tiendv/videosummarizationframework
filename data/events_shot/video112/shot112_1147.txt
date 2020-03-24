@@ -1,0 +1,5 @@
+fencing(0.380)
+adult+male+speaking(0.086)
+starting(0.065)
+gardening(0.063)
+squinting(0.030)

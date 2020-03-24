@@ -1,0 +1,5 @@
+filming(0.061)
+shaving(0.049)
+adult+male+speaking(0.046)
+knocking(0.045)
+blocking(0.024)

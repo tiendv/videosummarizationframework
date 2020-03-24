@@ -1,0 +1,5 @@
+bathing(0.187)
+rinsing(0.151)
+washing(0.100)
+crying(0.080)
+kissing(0.048)

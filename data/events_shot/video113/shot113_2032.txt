@@ -1,0 +1,5 @@
+kissing(0.257)
+hugging(0.174)
+cuddling(0.040)
+snuggling(0.018)
+playing+videogames(0.017)

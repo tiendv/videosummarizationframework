@@ -1,0 +1,5 @@
+drinking(0.199)
+running(0.036)
+walking(0.032)
+sneezing(0.030)
+adult+male+speaking(0.029)

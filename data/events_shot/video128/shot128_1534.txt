@@ -1,5 +1,0 @@
-building(0.124)
-hanging(0.040)
-bicycling(0.029)
-constructing(0.027)
-walking(0.024)

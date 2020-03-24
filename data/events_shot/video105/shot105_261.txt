@@ -1,0 +1,5 @@
+waking(0.345)
+sleeping(0.224)
+crying(0.132)
+resting(0.035)
+tickling(0.012)

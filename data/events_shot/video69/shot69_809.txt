@@ -1,5 +1,0 @@
-sneezing(0.054)
-flicking(0.047)
-throwing(0.032)
-adult+male+speaking(0.031)
-talking(0.029)

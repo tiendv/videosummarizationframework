@@ -1,0 +1,5 @@
+adult+male+singing(0.101)
+adult+female+singing(0.064)
+adult+male+speaking(0.045)
+drumming(0.042)
+slapping(0.041)

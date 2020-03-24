@@ -1,0 +1,5 @@
+knocking(0.139)
+walking(0.076)
+slapping(0.075)
+carrying(0.027)
+locking(0.026)

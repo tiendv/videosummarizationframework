@@ -1,5 +1,0 @@
-standing(0.048)
-adult+male+singing(0.044)
-running(0.043)
-knocking(0.034)
-rising(0.033)

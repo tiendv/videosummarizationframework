@@ -1,5 +1,0 @@
-calling(0.064)
-telephoning(0.055)
-adult+male+singing(0.037)
-fighting(0.034)
-drinking(0.027)

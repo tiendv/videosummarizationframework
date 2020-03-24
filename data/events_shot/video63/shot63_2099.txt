@@ -1,0 +1,5 @@
+plunging(0.127)
+splashing(0.048)
+bouncing(0.025)
+shaking(0.024)
+turning(0.021)

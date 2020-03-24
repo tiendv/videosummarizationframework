@@ -1,0 +1,5 @@
+smiling(0.060)
+filming(0.049)
+winking(0.034)
+walking(0.032)
+playing+videogames(0.029)

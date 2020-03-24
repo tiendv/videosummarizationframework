@@ -1,0 +1,5 @@
+adult+male+speaking(0.085)
+sitting(0.029)
+closing(0.027)
+opening(0.026)
+starting(0.026)

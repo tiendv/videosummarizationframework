@@ -1,0 +1,5 @@
+drying(0.048)
+talking(0.031)
+closing(0.028)
+whistling(0.024)
+opening(0.024)

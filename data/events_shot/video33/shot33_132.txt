@@ -1,0 +1,5 @@
+adult+male+speaking(0.130)
+arresting(0.105)
+hugging(0.088)
+walking(0.061)
+playing+videogames(0.050)

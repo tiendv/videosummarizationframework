@@ -1,0 +1,5 @@
+reading(0.172)
+adult+male+speaking(0.102)
+discussing(0.043)
+bowing(0.041)
+sneezing(0.039)

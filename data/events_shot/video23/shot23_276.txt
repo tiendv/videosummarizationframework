@@ -1,0 +1,5 @@
+slapping(0.904)
+spraying(0.013)
+punching(0.010)
+painting(0.008)
+adult+male+speaking(0.004)

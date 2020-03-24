@@ -1,0 +1,5 @@
+sneezing(0.123)
+coughing(0.052)
+handcuffing(0.032)
+dressing(0.032)
+adult+male+speaking(0.027)

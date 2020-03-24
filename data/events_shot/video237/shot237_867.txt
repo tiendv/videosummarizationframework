@@ -1,5 +1,0 @@
-drinking(0.094)
-standing(0.044)
-cheering(0.033)
-adult+male+singing(0.031)
-lifting(0.029)

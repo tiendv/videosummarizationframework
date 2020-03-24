@@ -1,0 +1,5 @@
+shooting(0.236)
+carrying(0.066)
+attacking(0.041)
+hugging(0.037)
+crying(0.037)

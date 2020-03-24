@@ -1,0 +1,5 @@
+roaring(0.325)
+stomping(0.225)
+standing(0.030)
+playing+videogames(0.019)
+bowing(0.019)

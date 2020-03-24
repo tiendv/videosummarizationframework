@@ -1,0 +1,5 @@
+aiming(0.141)
+jogging(0.057)
+pointing(0.041)
+standing(0.039)
+adult+male+speaking(0.039)

@@ -1,0 +1,5 @@
+selling(0.288)
+paying(0.205)
+shopping(0.163)
+buying(0.080)
+discussing(0.030)

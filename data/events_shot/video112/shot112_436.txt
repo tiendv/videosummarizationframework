@@ -1,0 +1,5 @@
+drying(0.078)
+punching(0.032)
+filming(0.031)
+hugging(0.029)
+walking(0.029)

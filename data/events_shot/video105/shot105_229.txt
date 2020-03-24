@@ -1,0 +1,5 @@
+shrugging(0.143)
+talking(0.110)
+walking(0.064)
+adult+male+speaking(0.059)
+squinting(0.046)

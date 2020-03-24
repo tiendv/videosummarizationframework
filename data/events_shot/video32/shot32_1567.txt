@@ -1,0 +1,5 @@
+talking(0.052)
+fighting(0.046)
+sitting(0.032)
+clipping(0.026)
+playing+videogames(0.024)

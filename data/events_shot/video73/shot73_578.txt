@@ -1,0 +1,5 @@
+manicuring(0.127)
+poking(0.099)
+peeling(0.053)
+folding(0.041)
+plugging(0.033)

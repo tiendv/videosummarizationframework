@@ -1,0 +1,5 @@
+crying(0.053)
+frowning(0.048)
+smoking(0.027)
+slapping(0.023)
+spitting(0.022)

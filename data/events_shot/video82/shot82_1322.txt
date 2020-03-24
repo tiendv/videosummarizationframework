@@ -1,0 +1,5 @@
+cooking(0.278)
+baking(0.143)
+dipping(0.120)
+poking(0.046)
+stirring(0.020)

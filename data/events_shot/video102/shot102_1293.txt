@@ -1,0 +1,5 @@
+dining(0.054)
+filming(0.050)
+walking(0.047)
+standing(0.035)
+adult+male+speaking(0.031)

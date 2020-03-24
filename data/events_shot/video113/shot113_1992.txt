@@ -1,0 +1,5 @@
+burying(0.121)
+adult+male+speaking(0.044)
+resting(0.025)
+roaring(0.025)
+whistling(0.025)

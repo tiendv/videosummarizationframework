@@ -1,0 +1,5 @@
+drinking(0.860)
+standing(0.008)
+asking(0.007)
+laughing(0.005)
+dining(0.005)

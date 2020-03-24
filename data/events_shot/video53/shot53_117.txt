@@ -1,0 +1,5 @@
+waving(0.094)
+clapping(0.047)
+pointing(0.039)
+slapping(0.037)
+painting(0.032)

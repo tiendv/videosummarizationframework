@@ -1,0 +1,5 @@
+asking(0.180)
+stacking(0.110)
+adult+female+speaking(0.053)
+adult+male+speaking(0.034)
+laughing(0.020)

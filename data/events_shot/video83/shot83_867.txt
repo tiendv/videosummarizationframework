@@ -1,0 +1,5 @@
+aiming(0.114)
+hugging(0.046)
+adult+male+speaking(0.030)
+driving(0.028)
+cuddling(0.024)

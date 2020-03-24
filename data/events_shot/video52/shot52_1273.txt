@@ -1,0 +1,5 @@
+asking(0.239)
+queuing(0.111)
+walking(0.057)
+filming(0.053)
+preaching(0.052)

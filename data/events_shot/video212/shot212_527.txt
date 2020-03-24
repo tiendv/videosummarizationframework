@@ -1,5 +1,0 @@
-talking(0.029)
-adult+male+speaking(0.027)
-standing(0.024)
-carrying(0.021)
-roaring(0.020)

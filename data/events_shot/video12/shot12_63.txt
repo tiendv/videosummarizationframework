@@ -1,0 +1,5 @@
+tapping(0.486)
+cleaning(0.033)
+rubbing(0.018)
+scratching(0.017)
+peeling(0.014)

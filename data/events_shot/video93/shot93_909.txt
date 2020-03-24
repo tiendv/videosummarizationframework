@@ -1,0 +1,5 @@
+drinking(0.779)
+standing(0.012)
+pouring(0.011)
+filming(0.010)
+talking(0.007)

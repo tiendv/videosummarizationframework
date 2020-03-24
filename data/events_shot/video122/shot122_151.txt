@@ -1,0 +1,5 @@
+reading(0.220)
+crying(0.116)
+praying(0.087)
+eating(0.018)
+writing(0.018)

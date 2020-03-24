@@ -1,0 +1,5 @@
+frowning(0.156)
+shrugging(0.126)
+discussing(0.110)
+adult+male+speaking(0.069)
+squinting(0.039)

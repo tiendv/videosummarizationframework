@@ -1,5 +1,0 @@
-teaching(0.184)
-adult+female+speaking(0.108)
-preaching(0.083)
-queuing(0.050)
-cramming(0.040)

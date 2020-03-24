@@ -1,5 +1,0 @@
-adult+female+speaking(0.221)
-signing(0.196)
-pointing(0.036)
-coughing(0.033)
-asking(0.029)

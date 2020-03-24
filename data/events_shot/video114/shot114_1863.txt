@@ -1,0 +1,5 @@
+stomping(0.083)
+drinking(0.026)
+pouring(0.023)
+standing(0.022)
+lifting(0.020)

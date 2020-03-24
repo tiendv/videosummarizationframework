@@ -1,5 +1,0 @@
-stomping(0.179)
-standing(0.046)
-sliding(0.026)
-walking(0.022)
-hanging(0.019)

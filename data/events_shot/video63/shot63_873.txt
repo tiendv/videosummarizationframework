@@ -1,0 +1,5 @@
+rubbing(0.037)
+massaging(0.033)
+stirring(0.030)
+cooking(0.024)
+dressing(0.022)

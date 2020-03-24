@@ -1,5 +1,0 @@
-protesting(0.081)
-walking(0.070)
-standing(0.041)
-attacking(0.036)
-bicycling(0.035)

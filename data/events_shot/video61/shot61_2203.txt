@@ -1,0 +1,5 @@
+walking(0.063)
+hiking(0.045)
+filming(0.030)
+falling(0.026)
+attacking(0.024)

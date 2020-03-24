@@ -1,0 +1,5 @@
+vacuuming(0.086)
+sliding(0.050)
+walking(0.026)
+climbing(0.026)
+dragging(0.020)

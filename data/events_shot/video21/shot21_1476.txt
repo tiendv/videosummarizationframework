@@ -1,0 +1,5 @@
+bathing(0.082)
+waking(0.047)
+sitting(0.031)
+smiling(0.030)
+discussing(0.030)

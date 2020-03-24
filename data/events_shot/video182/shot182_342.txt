@@ -1,5 +1,0 @@
-adult+female+speaking(0.175)
-packing(0.092)
-sneezing(0.053)
-smoking(0.038)
-coughing(0.036)

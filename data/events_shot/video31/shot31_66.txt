@@ -1,0 +1,5 @@
+packing(0.044)
+rubbing(0.042)
+unpacking(0.032)
+massaging(0.032)
+drying(0.030)

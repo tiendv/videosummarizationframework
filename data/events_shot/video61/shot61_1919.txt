@@ -1,0 +1,5 @@
+adult+female+speaking(0.039)
+walking(0.028)
+frowning(0.028)
+adult+male+speaking(0.027)
+hanging(0.022)

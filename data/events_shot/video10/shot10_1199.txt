@@ -1,5 +1,0 @@
-bicycling(0.739)
-pedaling(0.042)
-riding(0.025)
-driving(0.012)
-skating(0.008)

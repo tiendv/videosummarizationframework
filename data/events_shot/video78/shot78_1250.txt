@@ -1,5 +1,0 @@
-drying(0.073)
-hugging(0.040)
-talking(0.031)
-combing(0.026)
-adult+female+speaking(0.026)

@@ -1,0 +1,5 @@
+drinking(0.085)
+guarding(0.059)
+officiating(0.050)
+standing(0.045)
+sitting(0.043)

@@ -1,5 +1,0 @@
-climbing(0.044)
-balancing(0.033)
-running(0.033)
-reaching(0.028)
-opening(0.027)

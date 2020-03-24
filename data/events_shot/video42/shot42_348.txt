@@ -1,0 +1,5 @@
+planting(0.045)
+stealing(0.043)
+sniffing(0.035)
+working(0.032)
+handcuffing(0.027)

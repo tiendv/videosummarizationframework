@@ -1,0 +1,5 @@
+queuing(0.052)
+standing(0.049)
+reaching(0.046)
+pointing(0.027)
+slapping(0.024)

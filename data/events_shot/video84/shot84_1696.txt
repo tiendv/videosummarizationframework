@@ -1,0 +1,5 @@
+hugging(0.100)
+aiming(0.050)
+shooting(0.042)
+loading(0.020)
+adult+male+speaking(0.019)

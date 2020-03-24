@@ -1,0 +1,5 @@
+sneezing(0.220)
+telephoning(0.082)
+coughing(0.076)
+laughing(0.052)
+squatting(0.031)

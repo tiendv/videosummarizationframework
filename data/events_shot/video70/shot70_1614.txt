@@ -1,5 +1,0 @@
-fighting(0.100)
-adult+male+speaking(0.056)
-walking(0.054)
-knocking(0.052)
-playing+videogames(0.048)

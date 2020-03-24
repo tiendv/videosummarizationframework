@@ -1,0 +1,5 @@
+handcuffing(0.055)
+slapping(0.035)
+vacuuming(0.032)
+knocking(0.028)
+fighting(0.028)

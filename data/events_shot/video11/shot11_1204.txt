@@ -1,0 +1,5 @@
+raising(0.105)
+dressing(0.050)
+tying(0.047)
+shrugging(0.030)
+pointing(0.022)

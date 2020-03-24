@@ -1,0 +1,5 @@
+reading(0.149)
+studying(0.124)
+sneezing(0.106)
+cramming(0.051)
+asking(0.036)

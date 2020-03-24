@@ -1,0 +1,5 @@
+raining(0.046)
+laughing(0.041)
+talking(0.030)
+smiling(0.030)
+pointing(0.025)

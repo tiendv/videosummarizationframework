@@ -1,5 +1,0 @@
-smoking(0.533)
-adult+female+speaking(0.034)
-adult+male+speaking(0.027)
-snapping(0.025)
-pointing(0.019)

@@ -1,5 +1,0 @@
-hugging(0.077)
-adult+female+speaking(0.071)
-shopping(0.046)
-stealing(0.044)
-slapping(0.040)

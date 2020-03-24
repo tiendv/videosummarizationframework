@@ -1,5 +1,0 @@
-walking(0.125)
-slapping(0.080)
-sneezing(0.049)
-coughing(0.036)
-fighting(0.031)

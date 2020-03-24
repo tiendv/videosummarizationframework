@@ -1,5 +1,0 @@
-drinking(0.032)
-opening(0.024)
-hugging(0.021)
-laughing(0.020)
-dusting(0.019)

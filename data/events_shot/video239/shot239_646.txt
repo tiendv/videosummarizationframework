@@ -1,5 +1,0 @@
-adult+male+speaking(0.086)
-adult+male+singing(0.082)
-standing(0.077)
-stomping(0.058)
-fencing(0.042)

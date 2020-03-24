@@ -1,5 +1,0 @@
-cooking(0.129)
-baking(0.102)
-adult+female+speaking(0.047)
-stirring(0.032)
-laughing(0.029)

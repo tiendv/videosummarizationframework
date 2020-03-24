@@ -1,0 +1,5 @@
+tying(0.933)
+lecturing(0.017)
+buttoning(0.010)
+dressing(0.007)
+adult+male+speaking(0.005)

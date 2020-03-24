@@ -1,0 +1,5 @@
+frowning(0.084)
+adult+male+speaking(0.078)
+talking(0.062)
+squinting(0.052)
+arresting(0.024)

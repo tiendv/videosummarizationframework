@@ -1,0 +1,5 @@
+hugging(0.093)
+adult+male+speaking(0.036)
+baptizing(0.035)
+laughing(0.030)
+fighting(0.020)

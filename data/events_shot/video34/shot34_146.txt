@@ -1,5 +1,0 @@
-driving(0.556)
-towing(0.079)
-steering(0.077)
-riding(0.058)
-swerving(0.018)

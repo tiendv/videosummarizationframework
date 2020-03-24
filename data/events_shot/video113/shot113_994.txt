@@ -1,0 +1,5 @@
+taping(0.131)
+handcuffing(0.036)
+peeling(0.030)
+removing(0.029)
+packing(0.026)

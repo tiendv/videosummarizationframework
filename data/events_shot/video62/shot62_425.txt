@@ -1,0 +1,5 @@
+kissing(0.101)
+hugging(0.095)
+cuddling(0.048)
+filming(0.028)
+telephoning(0.027)

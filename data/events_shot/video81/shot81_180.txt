@@ -1,0 +1,5 @@
+falling(0.042)
+playing+videogames(0.033)
+dropping(0.032)
+dunking(0.027)
+running(0.022)

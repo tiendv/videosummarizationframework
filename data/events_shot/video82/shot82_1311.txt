@@ -1,0 +1,5 @@
+cleaning(0.120)
+painting(0.114)
+scrubbing(0.061)
+dusting(0.043)
+rubbing(0.039)

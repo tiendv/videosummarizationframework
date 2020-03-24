@@ -1,5 +1,0 @@
-filming(0.034)
-adult+male+singing(0.031)
-adult+male+speaking(0.026)
-adult+female+singing(0.025)
-clapping(0.022)

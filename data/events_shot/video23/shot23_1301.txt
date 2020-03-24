@@ -1,0 +1,5 @@
+frowning(0.163)
+squinting(0.053)
+adult+male+speaking(0.049)
+playing+videogames(0.042)
+talking(0.039)

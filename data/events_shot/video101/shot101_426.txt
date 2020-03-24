@@ -1,0 +1,5 @@
+crying(0.125)
+frowning(0.039)
+adult+female+speaking(0.039)
+smiling(0.038)
+slapping(0.028)

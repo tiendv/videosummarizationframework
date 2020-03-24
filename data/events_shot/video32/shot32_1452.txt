@@ -1,0 +1,5 @@
+stacking(0.169)
+teaching(0.066)
+adult+male+speaking(0.040)
+child+speaking(0.037)
+pointing(0.034)

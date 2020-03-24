@@ -1,5 +1,0 @@
-raining(0.547)
-storming(0.060)
-adult+female+singing(0.023)
-snowing(0.016)
-playing+videogames(0.015)

@@ -1,0 +1,5 @@
+burning(0.820)
+combusting(0.065)
+roaring(0.034)
+extinguishing(0.006)
+camping(0.006)

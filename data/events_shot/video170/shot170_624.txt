@@ -1,5 +1,0 @@
-filming(0.036)
-fueling(0.032)
-driving(0.028)
-starting(0.028)
-riding(0.026)

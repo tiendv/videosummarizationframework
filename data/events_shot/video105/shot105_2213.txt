@@ -1,0 +1,5 @@
+climbing(0.990)
+ascending(0.002)
+gripping(0.002)
+hiking(0.002)
+hanging(0.001)

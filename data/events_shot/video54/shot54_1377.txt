@@ -1,0 +1,5 @@
+cooking(0.120)
+stirring(0.089)
+frying(0.085)
+boiling(0.044)
+walking(0.025)

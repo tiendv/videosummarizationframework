@@ -1,0 +1,5 @@
+fencing(0.315)
+gardening(0.034)
+clipping(0.031)
+hunting(0.022)
+planting(0.017)

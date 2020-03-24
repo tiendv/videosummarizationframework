@@ -1,0 +1,5 @@
+fighting(0.123)
+adult+male+speaking(0.061)
+applauding(0.059)
+slapping(0.040)
+clapping(0.025)

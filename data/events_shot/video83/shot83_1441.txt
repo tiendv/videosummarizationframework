@@ -1,0 +1,5 @@
+arresting(0.224)
+walking(0.055)
+guarding(0.049)
+filming(0.044)
+asking(0.033)

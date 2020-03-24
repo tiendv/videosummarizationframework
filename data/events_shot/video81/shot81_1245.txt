@@ -1,0 +1,5 @@
+hugging(0.050)
+walking(0.046)
+crying(0.042)
+talking(0.034)
+eating(0.030)

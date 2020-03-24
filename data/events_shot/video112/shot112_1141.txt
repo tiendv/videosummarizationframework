@@ -1,0 +1,5 @@
+walking(0.067)
+bathing(0.056)
+hugging(0.030)
+washing(0.029)
+exiting(0.026)

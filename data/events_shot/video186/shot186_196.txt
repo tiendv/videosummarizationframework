@@ -1,5 +1,0 @@
-hugging(0.039)
-adult+female+singing(0.031)
-slapping(0.031)
-laughing(0.027)
-filming(0.023)

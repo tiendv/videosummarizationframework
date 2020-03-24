@@ -1,0 +1,5 @@
+squatting(0.107)
+lifting(0.083)
+playing+videogames(0.043)
+shrugging(0.025)
+aiming(0.022)

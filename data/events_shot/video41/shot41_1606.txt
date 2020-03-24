@@ -1,0 +1,5 @@
+exercising(0.284)
+raising(0.160)
+shaving(0.081)
+boxing(0.058)
+punching(0.045)

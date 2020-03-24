@@ -1,5 +1,0 @@
-adult+female+singing(0.101)
-knocking(0.070)
-fighting(0.068)
-standing(0.031)
-marrying(0.031)

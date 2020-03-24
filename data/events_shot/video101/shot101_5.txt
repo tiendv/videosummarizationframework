@@ -1,0 +1,5 @@
+painting(0.173)
+drawing(0.043)
+slapping(0.025)
+flipping(0.020)
+punching(0.019)

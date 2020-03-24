@@ -1,0 +1,5 @@
+walking(0.150)
+sneezing(0.080)
+coughing(0.071)
+child+singing(0.057)
+slapping(0.051)

@@ -1,0 +1,5 @@
+opening(0.092)
+pushing(0.076)
+sliding(0.069)
+closing(0.063)
+laughing(0.035)

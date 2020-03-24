@@ -1,0 +1,5 @@
+reading(0.689)
+selling(0.030)
+talking(0.023)
+discussing(0.021)
+adult+male+speaking(0.020)

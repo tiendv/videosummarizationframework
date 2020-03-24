@@ -1,0 +1,5 @@
+walking(0.100)
+crying(0.053)
+adult+female+speaking(0.046)
+slapping(0.029)
+entering(0.025)

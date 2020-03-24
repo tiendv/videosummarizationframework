@@ -1,0 +1,5 @@
+coughing(0.224)
+smoking(0.125)
+sneezing(0.119)
+eating(0.033)
+praying(0.032)

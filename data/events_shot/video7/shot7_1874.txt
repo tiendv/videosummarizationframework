@@ -1,5 +1,0 @@
-walking(0.140)
-coughing(0.134)
-whistling(0.057)
-sneezing(0.055)
-slapping(0.048)

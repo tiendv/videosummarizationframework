@@ -1,0 +1,5 @@
+autographing(0.080)
+paying(0.035)
+arresting(0.031)
+selling(0.030)
+queuing(0.029)

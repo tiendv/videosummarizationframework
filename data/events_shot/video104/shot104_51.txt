@@ -1,0 +1,5 @@
+pointing(0.080)
+shrugging(0.065)
+frowning(0.052)
+saluting(0.050)
+adult+male+speaking(0.046)

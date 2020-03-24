@@ -1,0 +1,5 @@
+cleaning(0.290)
+washing(0.040)
+opening(0.031)
+closing(0.028)
+dusting(0.024)

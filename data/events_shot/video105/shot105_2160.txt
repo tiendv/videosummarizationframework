@@ -1,0 +1,5 @@
+slapping(0.211)
+smiling(0.061)
+adult+male+speaking(0.052)
+knocking(0.049)
+adult+female+speaking(0.039)

@@ -1,5 +1,0 @@
-hanging(0.090)
-feeding(0.054)
-fencing(0.049)
-clawing(0.048)
-pushing(0.043)

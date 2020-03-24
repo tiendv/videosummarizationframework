@@ -1,0 +1,5 @@
+knocking(0.129)
+adult+female+speaking(0.028)
+adult+male+speaking(0.024)
+walking(0.023)
+standing(0.023)

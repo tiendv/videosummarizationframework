@@ -1,0 +1,5 @@
+stacking(0.091)
+unpacking(0.069)
+mopping(0.046)
+dusting(0.032)
+packing(0.029)

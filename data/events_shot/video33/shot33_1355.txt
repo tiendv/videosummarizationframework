@@ -1,0 +1,5 @@
+asking(0.191)
+running(0.045)
+stealing(0.041)
+hugging(0.038)
+jogging(0.038)

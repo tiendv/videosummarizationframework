@@ -1,0 +1,5 @@
+hugging(0.053)
+adult+female+singing(0.053)
+stomping(0.036)
+adult+female+speaking(0.033)
+dancing(0.031)

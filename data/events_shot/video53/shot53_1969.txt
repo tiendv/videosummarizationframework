@@ -1,0 +1,5 @@
+smoking(0.063)
+drinking(0.049)
+mopping(0.047)
+hugging(0.047)
+sweeping(0.044)

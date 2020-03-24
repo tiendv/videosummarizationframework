@@ -1,0 +1,5 @@
+tapping(0.089)
+adult+female+speaking(0.047)
+painting(0.041)
+discussing(0.029)
+smiling(0.028)

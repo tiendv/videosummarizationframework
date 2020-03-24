@@ -1,5 +1,0 @@
-guarding(0.176)
-dining(0.097)
-standing(0.054)
-child+speaking(0.026)
-sitting(0.024)

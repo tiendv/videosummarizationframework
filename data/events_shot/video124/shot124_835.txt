@@ -1,0 +1,5 @@
+hugging(0.069)
+slapping(0.051)
+smiling(0.030)
+imitating(0.027)
+child+speaking(0.025)

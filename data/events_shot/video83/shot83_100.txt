@@ -1,0 +1,5 @@
+autographing(0.091)
+queuing(0.081)
+adult+male+speaking(0.056)
+discussing(0.053)
+standing(0.051)

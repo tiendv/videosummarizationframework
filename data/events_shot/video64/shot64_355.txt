@@ -1,0 +1,5 @@
+stacking(0.065)
+playing(0.026)
+painting(0.022)
+child+speaking(0.020)
+punching(0.017)

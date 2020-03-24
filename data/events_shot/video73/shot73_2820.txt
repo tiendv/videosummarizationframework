@@ -1,0 +1,5 @@
+adult+female+singing(0.327)
+adult+female+speaking(0.086)
+smoking(0.048)
+combing(0.021)
+drying(0.017)

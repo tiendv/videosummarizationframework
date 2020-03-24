@@ -1,0 +1,5 @@
+marrying(0.112)
+dressing(0.105)
+officiating(0.104)
+standing(0.080)
+walking(0.060)

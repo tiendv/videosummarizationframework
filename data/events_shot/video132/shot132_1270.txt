@@ -1,0 +1,5 @@
+trimming(0.095)
+mowing(0.091)
+picking(0.072)
+hunting(0.035)
+stealing(0.033)

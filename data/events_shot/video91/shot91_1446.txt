@@ -1,0 +1,5 @@
+peeling(0.051)
+tapping(0.048)
+removing(0.026)
+adult+male+speaking(0.020)
+loading(0.019)

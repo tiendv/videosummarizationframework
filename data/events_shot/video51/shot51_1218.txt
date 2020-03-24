@@ -1,0 +1,5 @@
+adult+female+speaking(0.154)
+smiling(0.055)
+painting(0.031)
+tattooing(0.023)
+brushing(0.023)

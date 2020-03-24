@@ -1,0 +1,5 @@
+slapping(0.066)
+raising(0.058)
+adult+male+speaking(0.057)
+standing(0.029)
+sitting(0.026)

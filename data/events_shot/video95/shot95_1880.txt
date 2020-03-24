@@ -1,0 +1,5 @@
+adult+female+singing(0.314)
+running(0.058)
+bouncing(0.049)
+walking(0.048)
+fencing(0.047)

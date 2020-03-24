@@ -1,5 +1,0 @@
-telephoning(0.769)
-calling(0.201)
-adult+female+speaking(0.009)
-discussing(0.002)
-speaking(0.001)

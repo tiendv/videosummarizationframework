@@ -1,0 +1,5 @@
+slapping(0.183)
+tapping(0.074)
+scratching(0.035)
+shrugging(0.031)
+frowning(0.023)

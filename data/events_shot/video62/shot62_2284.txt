@@ -1,0 +1,5 @@
+poking(0.075)
+spinning(0.061)
+slapping(0.051)
+combusting(0.040)
+snapping(0.035)

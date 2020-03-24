@@ -1,5 +1,0 @@
-rising(0.065)
-playing+videogames(0.058)
-standing(0.035)
-adult+male+singing(0.035)
-snowing(0.034)

@@ -1,5 +1,0 @@
-adult+female+speaking(0.082)
-adult+male+speaking(0.069)
-discussing(0.068)
-walking(0.044)
-socializing(0.043)

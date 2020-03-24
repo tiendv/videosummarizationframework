@@ -1,0 +1,5 @@
+adult+female+speaking(0.084)
+adult+female+singing(0.042)
+dressing(0.041)
+brushing(0.029)
+smoking(0.028)

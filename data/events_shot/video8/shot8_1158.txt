@@ -1,5 +1,0 @@
-walking(0.071)
-adult+male+speaking(0.039)
-lecturing(0.033)
-exiting(0.027)
-pointing(0.027)

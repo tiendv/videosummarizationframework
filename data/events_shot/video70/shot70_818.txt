@@ -1,5 +1,0 @@
-cooking(0.098)
-handwriting(0.046)
-talking(0.040)
-stirring(0.039)
-boiling(0.034)

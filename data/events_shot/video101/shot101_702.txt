@@ -1,0 +1,5 @@
+driving(0.049)
+turning(0.040)
+aiming(0.039)
+frowning(0.038)
+pointing(0.038)

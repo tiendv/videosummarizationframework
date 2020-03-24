@@ -1,0 +1,5 @@
+adult+male+speaking(0.082)
+queuing(0.077)
+asking(0.075)
+protesting(0.070)
+arresting(0.039)

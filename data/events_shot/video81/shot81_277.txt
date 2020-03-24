@@ -1,0 +1,5 @@
+waking(0.124)
+opening(0.112)
+closing(0.064)
+crying(0.063)
+sleeping(0.036)

@@ -1,0 +1,5 @@
+putting(0.081)
+placing(0.058)
+playing(0.052)
+folding(0.040)
+removing(0.033)

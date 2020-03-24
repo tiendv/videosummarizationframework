@@ -1,0 +1,5 @@
+arresting(0.228)
+guarding(0.091)
+adult+male+speaking(0.050)
+filming(0.047)
+handcuffing(0.040)

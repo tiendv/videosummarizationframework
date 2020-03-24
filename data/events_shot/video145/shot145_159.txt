@@ -1,5 +1,0 @@
-hugging(0.140)
-standing(0.027)
-climbing(0.023)
-adult+male+speaking(0.020)
-celebrating(0.019)

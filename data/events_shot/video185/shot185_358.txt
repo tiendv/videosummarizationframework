@@ -1,5 +1,0 @@
-driving(0.117)
-hitchhiking(0.082)
-crashing(0.063)
-swerving(0.056)
-chasing(0.034)

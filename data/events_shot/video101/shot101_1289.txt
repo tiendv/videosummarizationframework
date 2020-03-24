@@ -1,0 +1,5 @@
+sneezing(0.088)
+adult+female+speaking(0.066)
+crying(0.045)
+coughing(0.035)
+filming(0.034)

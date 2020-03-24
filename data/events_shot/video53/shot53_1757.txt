@@ -1,0 +1,5 @@
+clapping(0.170)
+slapping(0.121)
+punching(0.041)
+celebrating(0.040)
+spinning(0.040)

@@ -1,0 +1,5 @@
+opening(0.037)
+knocking(0.033)
+closing(0.024)
+playing+videogames(0.019)
+dropping(0.016)

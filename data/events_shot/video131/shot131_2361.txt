@@ -1,0 +1,5 @@
+adult+male+speaking(0.148)
+applauding(0.098)
+clapping(0.080)
+smiling(0.066)
+squinting(0.052)

@@ -1,0 +1,5 @@
+walking(0.106)
+hugging(0.070)
+sneezing(0.052)
+exiting(0.026)
+stealing(0.022)

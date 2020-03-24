@@ -1,5 +1,0 @@
-sneezing(0.103)
-coughing(0.070)
-hiking(0.070)
-child+speaking(0.068)
-child+singing(0.067)

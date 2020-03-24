@@ -1,0 +1,5 @@
+smiling(0.047)
+crying(0.042)
+slapping(0.036)
+tattooing(0.033)
+smoking(0.022)

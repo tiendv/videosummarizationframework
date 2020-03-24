@@ -1,0 +1,5 @@
+camping(0.123)
+adult+female+speaking(0.120)
+rafting(0.077)
+discussing(0.044)
+sitting(0.035)

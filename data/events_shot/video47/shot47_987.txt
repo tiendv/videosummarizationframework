@@ -1,5 +1,0 @@
-adult+male+singing(0.069)
-running(0.048)
-adult+male+speaking(0.045)
-sneezing(0.039)
-cracking(0.023)

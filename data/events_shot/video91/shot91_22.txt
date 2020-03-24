@@ -1,0 +1,5 @@
+hugging(0.156)
+pointing(0.072)
+slapping(0.070)
+arresting(0.045)
+talking(0.027)

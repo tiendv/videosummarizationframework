@@ -1,0 +1,5 @@
+adult+male+speaking(0.112)
+walking(0.093)
+fighting(0.070)
+slapping(0.055)
+playing+videogames(0.054)

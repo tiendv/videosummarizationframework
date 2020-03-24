@@ -1,0 +1,5 @@
+dining(0.083)
+tattooing(0.068)
+autographing(0.061)
+giving(0.032)
+drinking(0.030)

@@ -1,0 +1,5 @@
+shaving(0.107)
+sneezing(0.067)
+laughing(0.066)
+walking(0.040)
+knocking(0.040)

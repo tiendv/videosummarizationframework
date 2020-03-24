@@ -1,0 +1,5 @@
+adult+male+speaking(0.451)
+discussing(0.103)
+coaching(0.049)
+socializing(0.016)
+walking(0.014)

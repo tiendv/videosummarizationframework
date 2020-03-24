@@ -1,0 +1,5 @@
+packing(0.215)
+unpacking(0.150)
+packaging(0.064)
+folding(0.061)
+sanding(0.038)

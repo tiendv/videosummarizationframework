@@ -1,0 +1,5 @@
+painting(0.198)
+playing+music(0.102)
+drawing(0.096)
+sitting(0.055)
+brushing(0.037)

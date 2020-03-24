@@ -1,0 +1,5 @@
+balancing(0.242)
+juggling(0.085)
+bicycling(0.049)
+pedaling(0.040)
+starting(0.016)

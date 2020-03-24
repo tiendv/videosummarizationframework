@@ -1,0 +1,5 @@
+adult+female+singing(0.306)
+adult+male+singing(0.145)
+yawning(0.099)
+singing(0.096)
+coughing(0.021)

@@ -1,0 +1,5 @@
+adult+female+speaking(0.059)
+arresting(0.041)
+driving(0.039)
+asking(0.035)
+adult+male+speaking(0.032)

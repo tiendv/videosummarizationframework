@@ -1,5 +1,0 @@
-arresting(0.026)
-running(0.026)
-slapping(0.025)
-walking(0.024)
-filming(0.021)

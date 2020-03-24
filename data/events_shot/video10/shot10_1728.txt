@@ -1,5 +1,0 @@
-walking(0.222)
-slapping(0.060)
-standing(0.040)
-crying(0.028)
-playing+videogames(0.026)

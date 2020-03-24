@@ -1,0 +1,5 @@
+waking(0.142)
+sneezing(0.066)
+massaging(0.036)
+cuddling(0.031)
+laughing(0.031)

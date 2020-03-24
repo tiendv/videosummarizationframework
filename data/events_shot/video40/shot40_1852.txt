@@ -1,5 +1,0 @@
-running(0.069)
-cleaning(0.037)
-dusting(0.034)
-walking(0.033)
-playing+videogames(0.024)

@@ -1,5 +1,0 @@
-adult+female+singing(0.238)
-adult+male+singing(0.057)
-licking(0.037)
-clipping(0.027)
-coughing(0.025)

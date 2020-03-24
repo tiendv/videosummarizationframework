@@ -1,0 +1,5 @@
+sneezing(0.060)
+coughing(0.055)
+smiling(0.049)
+shrugging(0.037)
+squinting(0.030)

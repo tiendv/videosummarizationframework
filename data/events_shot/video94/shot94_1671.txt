@@ -1,0 +1,5 @@
+sleeping(0.118)
+waking(0.053)
+adult+male+speaking(0.026)
+resting(0.023)
+cracking(0.022)

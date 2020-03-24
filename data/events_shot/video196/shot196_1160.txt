@@ -1,5 +1,0 @@
-flying(0.115)
-walking(0.102)
-hanging(0.053)
-playing+videogames(0.052)
-running(0.044)

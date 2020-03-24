@@ -1,0 +1,5 @@
+crying(0.220)
+sneezing(0.076)
+coughing(0.071)
+walking(0.038)
+removing(0.032)

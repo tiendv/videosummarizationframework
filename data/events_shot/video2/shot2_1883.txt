@@ -1,0 +1,5 @@
+walking(0.083)
+hugging(0.083)
+entering(0.053)
+exiting(0.051)
+arresting(0.036)

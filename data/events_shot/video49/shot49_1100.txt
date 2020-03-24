@@ -1,5 +1,0 @@
-dancing(0.144)
-mopping(0.100)
-adult+female+singing(0.063)
-slapping(0.031)
-dusting(0.026)

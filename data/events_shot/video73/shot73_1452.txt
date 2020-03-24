@@ -1,0 +1,5 @@
+adult+female+singing(0.114)
+opening(0.083)
+adult+female+speaking(0.066)
+wrapping(0.065)
+closing(0.030)

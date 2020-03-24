@@ -1,5 +1,0 @@
-storming(0.088)
-raining(0.075)
-painting(0.069)
-dusting(0.031)
-walking(0.030)

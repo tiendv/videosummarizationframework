@@ -1,0 +1,5 @@
+throwing(0.159)
+sitting(0.078)
+talking(0.066)
+working(0.052)
+flicking(0.042)

@@ -1,0 +1,5 @@
+knocking(0.075)
+walking(0.072)
+guarding(0.045)
+entering(0.043)
+standing(0.043)

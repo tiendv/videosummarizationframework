@@ -1,5 +1,0 @@
-walking(0.095)
-shopping(0.067)
-smelling(0.067)
-sniffing(0.058)
-adult+female+speaking(0.051)

@@ -1,0 +1,5 @@
+cooking(0.125)
+baking(0.065)
+talking(0.059)
+drinking(0.045)
+standing(0.030)

@@ -1,0 +1,5 @@
+chewing(0.031)
+knocking(0.026)
+slapping(0.016)
+walking(0.016)
+crying(0.015)

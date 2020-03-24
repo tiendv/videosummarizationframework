@@ -1,0 +1,5 @@
+roaring(0.064)
+sneezing(0.055)
+coughing(0.043)
+howling(0.039)
+yawning(0.028)

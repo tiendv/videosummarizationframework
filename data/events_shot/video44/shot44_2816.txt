@@ -1,5 +1,0 @@
-jumping(0.091)
-launching(0.083)
-diving(0.057)
-flying(0.055)
-playing+videogames(0.045)

@@ -1,0 +1,5 @@
+guarding(0.957)
+arresting(0.039)
+saluting(0.002)
+handcuffing(0.001)
+standing(0.000)

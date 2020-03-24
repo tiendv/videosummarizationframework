@@ -1,0 +1,5 @@
+discussing(0.080)
+dining(0.064)
+eating(0.057)
+talking(0.056)
+drinking(0.052)

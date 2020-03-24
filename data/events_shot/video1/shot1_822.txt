@@ -1,0 +1,5 @@
+queuing(0.158)
+asking(0.090)
+protesting(0.080)
+walking(0.078)
+filming(0.046)

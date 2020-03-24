@@ -1,0 +1,5 @@
+dressing(0.087)
+crafting(0.046)
+standing(0.027)
+mopping(0.022)
+folding(0.022)

@@ -1,0 +1,5 @@
+tapping(0.126)
+smiling(0.053)
+winking(0.034)
+telephoning(0.028)
+grinning(0.026)

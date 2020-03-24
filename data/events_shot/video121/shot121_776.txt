@@ -1,0 +1,5 @@
+waking(0.602)
+yawning(0.098)
+tickling(0.055)
+sneezing(0.037)
+coughing(0.025)

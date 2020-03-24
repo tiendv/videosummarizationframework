@@ -1,0 +1,5 @@
+towing(0.107)
+driving(0.080)
+bicycling(0.045)
+flooding(0.044)
+talking(0.027)

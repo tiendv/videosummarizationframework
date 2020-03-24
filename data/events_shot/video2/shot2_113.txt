@@ -1,0 +1,5 @@
+queuing(0.369)
+shopping(0.143)
+selling(0.123)
+standing(0.041)
+sitting(0.021)

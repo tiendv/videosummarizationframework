@@ -1,0 +1,5 @@
+adult+female+singing(0.084)
+hugging(0.050)
+adult+female+speaking(0.039)
+baptizing(0.035)
+adult+male+speaking(0.034)

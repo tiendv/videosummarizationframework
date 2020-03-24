@@ -1,0 +1,5 @@
+driving(0.616)
+steering(0.080)
+riding(0.038)
+hitchhiking(0.022)
+adult+male+singing(0.013)

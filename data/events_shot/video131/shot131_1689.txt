@@ -1,0 +1,5 @@
+brushing(0.167)
+drying(0.143)
+shaving(0.119)
+combing(0.068)
+washing(0.037)

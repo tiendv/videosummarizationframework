@@ -1,0 +1,5 @@
+adult+female+speaking(0.090)
+interviewing(0.066)
+sitting(0.062)
+signing(0.048)
+massaging(0.047)

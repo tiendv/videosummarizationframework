@@ -1,5 +1,0 @@
-telephoning(0.187)
-smoking(0.151)
-calling(0.097)
-coughing(0.067)
-drinking(0.039)

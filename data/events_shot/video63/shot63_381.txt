@@ -1,0 +1,5 @@
+adult+male+speaking(0.607)
+talking(0.070)
+starting(0.040)
+playing+videogames(0.018)
+discussing(0.015)

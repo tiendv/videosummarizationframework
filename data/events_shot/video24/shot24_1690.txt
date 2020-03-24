@@ -1,0 +1,5 @@
+drying(0.061)
+packing(0.030)
+cracking(0.023)
+walking(0.020)
+combing(0.018)

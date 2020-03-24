@@ -1,0 +1,5 @@
+driving(0.107)
+towing(0.102)
+raining(0.079)
+steering(0.057)
+riding(0.044)

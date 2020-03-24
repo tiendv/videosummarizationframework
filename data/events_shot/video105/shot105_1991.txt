@@ -1,0 +1,5 @@
+preaching(0.100)
+standing(0.050)
+adult+male+speaking(0.045)
+dropping(0.033)
+talking(0.030)

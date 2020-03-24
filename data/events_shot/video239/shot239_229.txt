@@ -1,5 +1,0 @@
-painting(0.062)
-adult+male+speaking(0.046)
-playing+videogames(0.042)
-blocking(0.031)
-fighting(0.031)

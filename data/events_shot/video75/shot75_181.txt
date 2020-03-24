@@ -1,5 +1,0 @@
-standing(0.070)
-barking(0.068)
-talking(0.040)
-knocking(0.037)
-adult+male+speaking(0.036)

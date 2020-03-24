@@ -1,0 +1,5 @@
+plugging(0.093)
+locking(0.070)
+closing(0.043)
+removing(0.043)
+opening(0.039)

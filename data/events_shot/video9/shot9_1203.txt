@@ -1,5 +1,0 @@
-cleaning(0.048)
-packing(0.036)
-dusting(0.023)
-removing(0.019)
-stealing(0.019)

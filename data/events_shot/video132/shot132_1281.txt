@@ -1,0 +1,5 @@
+pointing(0.055)
+scratching(0.051)
+discussing(0.040)
+adult+male+speaking(0.035)
+socializing(0.022)

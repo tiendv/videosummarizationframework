@@ -1,0 +1,5 @@
+adult+male+speaking(0.130)
+discussing(0.077)
+talking(0.062)
+asking(0.040)
+throwing(0.034)

@@ -1,0 +1,5 @@
+sneezing(0.296)
+coughing(0.153)
+yawning(0.023)
+imitating(0.023)
+adult+female+speaking(0.016)

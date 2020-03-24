@@ -1,0 +1,5 @@
+shooting(0.043)
+frowning(0.030)
+crying(0.029)
+pointing(0.025)
+aiming(0.024)

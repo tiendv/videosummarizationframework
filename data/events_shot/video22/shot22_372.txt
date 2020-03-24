@@ -1,0 +1,5 @@
+crying(0.477)
+frowning(0.053)
+telephoning(0.031)
+adult+male+speaking(0.026)
+laughing(0.025)

@@ -1,5 +1,0 @@
-shopping(0.050)
-smiling(0.044)
-selling(0.037)
-standing(0.035)
-grinning(0.035)

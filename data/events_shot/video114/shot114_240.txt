@@ -1,0 +1,5 @@
+guarding(0.098)
+adult+male+speaking(0.071)
+playing+videogames(0.063)
+standing(0.059)
+arresting(0.041)

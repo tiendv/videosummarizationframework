@@ -1,5 +1,0 @@
-crying(0.255)
-inflating(0.105)
-lifting(0.027)
-dressing(0.025)
-blowing(0.020)

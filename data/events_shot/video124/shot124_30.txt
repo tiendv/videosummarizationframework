@@ -1,0 +1,5 @@
+reading(0.149)
+adult+female+speaking(0.141)
+walking(0.035)
+sitting(0.033)
+standing(0.030)

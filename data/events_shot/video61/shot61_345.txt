@@ -1,0 +1,5 @@
+steering(0.354)
+driving(0.049)
+gripping(0.038)
+starting(0.033)
+assembling(0.026)

@@ -1,0 +1,5 @@
+crying(0.372)
+sneezing(0.046)
+raining(0.037)
+knocking(0.032)
+frowning(0.023)

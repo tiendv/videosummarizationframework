@@ -1,0 +1,5 @@
+guarding(0.107)
+adult+male+speaking(0.067)
+fencing(0.061)
+whistling(0.052)
+officiating(0.024)

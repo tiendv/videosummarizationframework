@@ -1,0 +1,5 @@
+frowning(0.102)
+shrugging(0.047)
+winking(0.046)
+painting(0.038)
+smiling(0.036)

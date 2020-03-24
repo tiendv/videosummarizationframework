@@ -1,0 +1,5 @@
+slapping(0.375)
+adult+female+speaking(0.053)
+crying(0.050)
+adult+male+speaking(0.036)
+spitting(0.032)

@@ -1,0 +1,5 @@
+slapping(0.065)
+hugging(0.060)
+fighting(0.051)
+kissing(0.040)
+raining(0.028)

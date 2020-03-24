@@ -1,5 +1,0 @@
-calling(0.253)
-telephoning(0.239)
-adult+male+singing(0.047)
-adult+male+speaking(0.035)
-raining(0.018)

@@ -1,0 +1,5 @@
+driving(0.101)
+discussing(0.098)
+adult+male+speaking(0.066)
+talking(0.038)
+steering(0.027)

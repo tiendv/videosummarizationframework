@@ -1,0 +1,5 @@
+brushing(0.219)
+painting(0.126)
+drawing(0.076)
+tapping(0.043)
+rubbing(0.037)

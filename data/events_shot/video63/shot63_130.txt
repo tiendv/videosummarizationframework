@@ -1,0 +1,5 @@
+typing(0.083)
+loading(0.042)
+working(0.039)
+unpacking(0.032)
+adult+male+speaking(0.030)

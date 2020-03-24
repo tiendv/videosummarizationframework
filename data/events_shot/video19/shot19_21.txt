@@ -1,5 +1,0 @@
-fighting(0.070)
-cooking(0.046)
-adult+female+singing(0.028)
-stirring(0.025)
-punching(0.018)

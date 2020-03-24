@@ -1,0 +1,5 @@
+queuing(0.326)
+exiting(0.169)
+walking(0.106)
+autographing(0.042)
+entering(0.042)

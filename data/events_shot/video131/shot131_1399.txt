@@ -1,0 +1,5 @@
+vacuuming(0.501)
+cleaning(0.026)
+playing+videogames(0.018)
+mopping(0.015)
+plugging(0.014)

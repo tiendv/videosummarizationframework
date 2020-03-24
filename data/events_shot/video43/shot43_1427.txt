@@ -1,0 +1,5 @@
+asking(0.093)
+smoking(0.071)
+interviewing(0.070)
+whistling(0.040)
+discussing(0.034)

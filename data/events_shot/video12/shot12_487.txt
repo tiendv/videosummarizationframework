@@ -1,0 +1,5 @@
+kissing(0.181)
+slapping(0.079)
+hugging(0.059)
+bowing(0.046)
+drinking(0.027)

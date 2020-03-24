@@ -1,5 +1,0 @@
-adult+female+speaking(0.095)
-dressing(0.032)
-removing(0.030)
-standing(0.025)
-brushing(0.023)

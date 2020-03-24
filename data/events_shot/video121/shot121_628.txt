@@ -1,0 +1,5 @@
+bowing(0.039)
+lifting(0.038)
+adult+male+speaking(0.029)
+cracking(0.028)
+handcuffing(0.027)

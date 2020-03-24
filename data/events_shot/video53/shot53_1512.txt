@@ -1,0 +1,5 @@
+asking(0.078)
+queuing(0.073)
+shopping(0.067)
+walking(0.046)
+exiting(0.041)

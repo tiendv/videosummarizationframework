@@ -1,5 +1,0 @@
-raining(0.075)
-knocking(0.061)
-talking(0.048)
-slapping(0.047)
-crying(0.038)

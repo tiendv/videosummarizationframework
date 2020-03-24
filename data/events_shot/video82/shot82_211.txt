@@ -1,0 +1,5 @@
+fencing(0.205)
+cooking(0.078)
+working(0.040)
+baking(0.036)
+adult+male+speaking(0.035)

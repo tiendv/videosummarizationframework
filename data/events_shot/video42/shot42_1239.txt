@@ -1,0 +1,5 @@
+adult+female+singing(0.104)
+adult+male+singing(0.054)
+adult+male+speaking(0.038)
+baptizing(0.037)
+filming(0.031)

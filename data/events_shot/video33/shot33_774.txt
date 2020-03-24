@@ -1,0 +1,5 @@
+crying(0.149)
+slapping(0.048)
+shooting(0.025)
+frowning(0.025)
+raining(0.024)

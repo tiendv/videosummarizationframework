@@ -1,0 +1,5 @@
+cooking(0.058)
+chewing(0.057)
+adult+female+speaking(0.050)
+rubbing(0.047)
+talking(0.040)

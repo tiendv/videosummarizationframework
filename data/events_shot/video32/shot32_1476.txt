@@ -1,0 +1,5 @@
+cooking(0.402)
+baking(0.127)
+eating(0.085)
+dipping(0.060)
+painting(0.027)

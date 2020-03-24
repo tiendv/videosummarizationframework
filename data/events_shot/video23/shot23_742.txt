@@ -1,0 +1,5 @@
+bicycling(0.661)
+pedaling(0.159)
+riding(0.019)
+walking(0.009)
+hugging(0.008)

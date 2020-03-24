@@ -1,0 +1,5 @@
+talking(0.287)
+starting(0.094)
+adult+male+speaking(0.060)
+shrugging(0.040)
+sitting(0.027)

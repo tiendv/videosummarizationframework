@@ -1,0 +1,5 @@
+interviewing(0.125)
+discussing(0.105)
+adult+male+speaking(0.103)
+preaching(0.093)
+slapping(0.079)

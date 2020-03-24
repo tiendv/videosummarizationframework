@@ -1,0 +1,5 @@
+dining(0.066)
+eating(0.047)
+drinking(0.045)
+cooking(0.044)
+baptizing(0.033)

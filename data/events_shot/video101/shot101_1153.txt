@@ -1,0 +1,5 @@
+closing(0.105)
+opening(0.102)
+cleaning(0.068)
+dusting(0.037)
+crashing(0.019)

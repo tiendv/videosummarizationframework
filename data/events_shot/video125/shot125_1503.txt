@@ -1,0 +1,5 @@
+roaring(0.059)
+throwing(0.033)
+flicking(0.033)
+adult+female+singing(0.028)
+adult+female+speaking(0.023)

@@ -1,0 +1,5 @@
+dressing(0.040)
+walking(0.030)
+waving(0.026)
+carrying(0.026)
+adult+female+singing(0.026)

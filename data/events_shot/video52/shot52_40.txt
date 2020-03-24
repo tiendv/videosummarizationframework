@@ -1,0 +1,5 @@
+dressing(0.055)
+hugging(0.033)
+walking(0.029)
+knocking(0.027)
+handcuffing(0.025)

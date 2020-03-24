@@ -1,0 +1,5 @@
+praying(0.080)
+officiating(0.066)
+playing+videogames(0.056)
+adult+male+speaking(0.056)
+standing(0.041)

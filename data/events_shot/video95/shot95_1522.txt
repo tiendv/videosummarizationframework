@@ -1,0 +1,5 @@
+drinking(0.250)
+dining(0.184)
+eating(0.061)
+coughing(0.035)
+smelling(0.031)

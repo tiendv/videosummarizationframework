@@ -1,0 +1,5 @@
+asking(0.089)
+arresting(0.077)
+adult+male+speaking(0.069)
+laughing(0.034)
+stealing(0.026)

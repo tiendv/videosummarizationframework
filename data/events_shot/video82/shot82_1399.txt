@@ -1,0 +1,5 @@
+hugging(0.078)
+adult+male+speaking(0.042)
+playing+videogames(0.029)
+stacking(0.023)
+stealing(0.017)

@@ -1,0 +1,5 @@
+clapping(0.073)
+celebrating(0.046)
+hugging(0.045)
+laughing(0.039)
+slapping(0.033)

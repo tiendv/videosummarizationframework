@@ -1,0 +1,5 @@
+crying(0.091)
+carrying(0.067)
+adult+female+speaking(0.040)
+shrugging(0.039)
+walking(0.037)

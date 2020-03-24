@@ -1,0 +1,5 @@
+frowning(0.082)
+slapping(0.058)
+discussing(0.053)
+adult+female+speaking(0.051)
+arresting(0.045)

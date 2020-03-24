@@ -1,0 +1,5 @@
+asking(0.204)
+walking(0.131)
+slapping(0.076)
+exiting(0.053)
+filming(0.028)

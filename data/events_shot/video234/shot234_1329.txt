@@ -1,5 +1,0 @@
-fighting(0.481)
-adult+female+singing(0.110)
-adult+male+singing(0.079)
-attacking(0.062)
-roaring(0.022)

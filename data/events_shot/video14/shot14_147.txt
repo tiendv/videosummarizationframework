@@ -1,0 +1,5 @@
+adult+male+speaking(0.043)
+talking(0.043)
+queuing(0.041)
+loading(0.033)
+selling(0.032)

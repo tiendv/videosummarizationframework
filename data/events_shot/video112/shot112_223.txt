@@ -1,0 +1,5 @@
+eating(0.077)
+chewing(0.051)
+coughing(0.047)
+adult+female+speaking(0.033)
+spitting(0.028)

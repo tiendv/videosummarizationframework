@@ -1,5 +1,0 @@
-preaching(0.242)
-asking(0.183)
-adult+male+speaking(0.138)
-adult+female+speaking(0.076)
-hitchhiking(0.043)

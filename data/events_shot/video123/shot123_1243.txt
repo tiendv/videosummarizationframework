@@ -1,0 +1,5 @@
+filming(0.095)
+adult+male+speaking(0.092)
+playing+videogames(0.067)
+talking(0.061)
+adult+male+singing(0.054)

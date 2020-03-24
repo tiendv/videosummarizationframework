@@ -1,0 +1,5 @@
+dining(0.442)
+drinking(0.116)
+eating(0.114)
+serving(0.022)
+praying(0.021)

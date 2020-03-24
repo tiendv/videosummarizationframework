@@ -1,0 +1,5 @@
+crying(0.068)
+opening(0.044)
+talking(0.043)
+locking(0.041)
+closing(0.035)

@@ -1,0 +1,5 @@
+hugging(0.428)
+taping(0.046)
+dressing(0.044)
+smelling(0.025)
+kissing(0.021)

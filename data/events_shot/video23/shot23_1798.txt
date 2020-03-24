@@ -1,0 +1,5 @@
+arresting(0.250)
+hitchhiking(0.132)
+walking(0.086)
+hiking(0.038)
+preaching(0.030)

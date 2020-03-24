@@ -1,0 +1,5 @@
+crying(0.100)
+bowing(0.068)
+smiling(0.038)
+hugging(0.026)
+typing(0.026)

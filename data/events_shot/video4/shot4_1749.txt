@@ -1,0 +1,5 @@
+balancing(0.456)
+measuring(0.255)
+scratching(0.033)
+sniffing(0.033)
+smelling(0.025)

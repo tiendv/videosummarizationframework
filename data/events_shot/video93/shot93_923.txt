@@ -1,0 +1,5 @@
+walking(0.290)
+knocking(0.040)
+standing(0.031)
+talking(0.029)
+barking(0.028)

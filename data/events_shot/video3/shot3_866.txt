@@ -1,0 +1,5 @@
+driving(0.340)
+snowing(0.058)
+sitting(0.050)
+talking(0.042)
+riding(0.040)

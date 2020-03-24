@@ -1,5 +1,0 @@
-packing(0.167)
-unpacking(0.113)
-baking(0.108)
-cooking(0.029)
-folding(0.017)

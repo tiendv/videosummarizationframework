@@ -1,0 +1,5 @@
+falling(0.080)
+running(0.061)
+sneezing(0.027)
+stealing(0.023)
+attacking(0.022)

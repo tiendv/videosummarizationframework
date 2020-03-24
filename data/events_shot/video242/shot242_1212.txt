@@ -1,5 +1,0 @@
-fencing(0.043)
-hugging(0.041)
-walking(0.029)
-adult+male+speaking(0.023)
-queuing(0.022)

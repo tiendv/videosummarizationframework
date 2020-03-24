@@ -1,0 +1,5 @@
+adult+female+speaking(0.209)
+cuddling(0.178)
+chewing(0.045)
+snuggling(0.042)
+sleeping(0.029)

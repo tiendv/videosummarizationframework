@@ -1,0 +1,5 @@
+adult+female+speaking(0.192)
+discussing(0.165)
+asking(0.065)
+interviewing(0.037)
+adult+male+speaking(0.036)

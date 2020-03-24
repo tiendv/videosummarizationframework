@@ -1,0 +1,5 @@
+crying(0.083)
+slapping(0.050)
+clipping(0.038)
+adult+male+speaking(0.034)
+talking(0.031)

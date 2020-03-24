@@ -1,5 +1,0 @@
-arresting(0.152)
-driving(0.125)
-riding(0.043)
-chasing(0.039)
-bicycling(0.028)

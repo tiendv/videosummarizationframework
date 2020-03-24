@@ -1,0 +1,5 @@
+pointing(0.042)
+knocking(0.037)
+working(0.037)
+adult+male+speaking(0.028)
+locking(0.025)

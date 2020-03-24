@@ -1,0 +1,5 @@
+hugging(0.069)
+adult+female+speaking(0.060)
+sleeping(0.051)
+crying(0.043)
+adult+male+speaking(0.042)

@@ -1,5 +1,0 @@
-packing(0.096)
-reading(0.066)
-studying(0.059)
-asking(0.052)
-adult+male+speaking(0.050)

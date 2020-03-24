@@ -1,0 +1,5 @@
+camping(0.455)
+adult+female+speaking(0.107)
+hiking(0.055)
+cuddling(0.026)
+adult+male+speaking(0.017)

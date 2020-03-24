@@ -1,0 +1,5 @@
+peeling(0.479)
+crying(0.129)
+rubbing(0.069)
+massaging(0.067)
+shaving(0.023)

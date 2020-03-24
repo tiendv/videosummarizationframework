@@ -1,5 +1,0 @@
-packing(0.390)
-unpacking(0.353)
-drying(0.023)
-adult+female+speaking(0.016)
-adult+female+singing(0.013)

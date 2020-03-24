@@ -1,0 +1,5 @@
+filming(0.153)
+hugging(0.081)
+guarding(0.061)
+photographing(0.059)
+smiling(0.035)

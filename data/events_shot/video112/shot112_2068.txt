@@ -1,0 +1,5 @@
+bowing(0.126)
+standing(0.041)
+working(0.035)
+starting(0.033)
+smiling(0.027)

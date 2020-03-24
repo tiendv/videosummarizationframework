@@ -1,0 +1,5 @@
+adult+male+speaking(0.060)
+drinking(0.046)
+bathing(0.022)
+sitting(0.021)
+walking(0.019)

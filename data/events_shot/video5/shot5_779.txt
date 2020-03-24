@@ -1,5 +1,0 @@
-child+speaking(0.086)
-throwing(0.032)
-slapping(0.025)
-flipping(0.023)
-standing(0.021)

@@ -1,0 +1,5 @@
+opening(0.236)
+closing(0.173)
+filming(0.046)
+guarding(0.039)
+standing(0.033)

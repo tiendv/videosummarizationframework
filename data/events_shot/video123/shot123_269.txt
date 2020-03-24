@@ -1,0 +1,5 @@
+telephoning(0.506)
+calling(0.354)
+paying(0.045)
+ascending(0.006)
+reading(0.005)

@@ -1,0 +1,5 @@
+arresting(0.071)
+coaching(0.050)
+adult+male+speaking(0.049)
+interviewing(0.045)
+discussing(0.040)

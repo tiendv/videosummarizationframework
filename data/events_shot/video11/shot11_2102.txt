@@ -1,0 +1,5 @@
+flying(0.200)
+launching(0.118)
+climbing(0.065)
+landing(0.050)
+rising(0.041)

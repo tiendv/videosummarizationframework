@@ -1,0 +1,5 @@
+weeding(0.221)
+digging(0.090)
+sowing(0.068)
+gardening(0.039)
+planting(0.036)

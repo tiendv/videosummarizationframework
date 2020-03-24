@@ -1,0 +1,5 @@
+calling(0.094)
+telephoning(0.073)
+fighting(0.055)
+adult+male+speaking(0.049)
+adult+female+speaking(0.024)

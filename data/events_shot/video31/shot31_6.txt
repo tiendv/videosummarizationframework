@@ -1,0 +1,5 @@
+surfing(0.995)
+sailing(0.001)
+flowing(0.001)
+wetting(0.001)
+splashing(0.000)

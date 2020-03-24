@@ -1,0 +1,5 @@
+cutting(0.488)
+crafting(0.117)
+slicing(0.073)
+chopping(0.024)
+painting(0.021)

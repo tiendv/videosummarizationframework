@@ -1,5 +1,0 @@
-dressing(0.073)
-opening(0.047)
-adult+female+speaking(0.040)
-closing(0.031)
-standing(0.029)

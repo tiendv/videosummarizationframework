@@ -1,0 +1,5 @@
+camping(0.193)
+hiking(0.097)
+signing(0.067)
+adult+male+speaking(0.064)
+asking(0.036)

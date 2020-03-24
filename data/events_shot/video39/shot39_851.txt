@@ -1,5 +1,0 @@
-talking(0.042)
-sneezing(0.040)
-laughing(0.027)
-standing(0.027)
-fighting(0.026)

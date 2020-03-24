@@ -1,5 +1,0 @@
-hiking(0.085)
-calling(0.071)
-adult+male+speaking(0.071)
-telephoning(0.048)
-walking(0.034)

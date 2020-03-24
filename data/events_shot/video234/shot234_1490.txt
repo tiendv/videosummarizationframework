@@ -1,5 +1,0 @@
-driving(0.153)
-towing(0.118)
-talking(0.083)
-walking(0.034)
-standing(0.031)

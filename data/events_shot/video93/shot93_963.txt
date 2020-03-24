@@ -1,0 +1,5 @@
+handwriting(0.687)
+writing(0.101)
+reading(0.031)
+studying(0.023)
+teaching(0.009)

@@ -1,0 +1,5 @@
+inflating(0.555)
+punching(0.050)
+boxing(0.032)
+interviewing(0.031)
+adult+female+speaking(0.029)

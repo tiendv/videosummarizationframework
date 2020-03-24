@@ -1,0 +1,5 @@
+raining(0.149)
+storming(0.147)
+howling(0.073)
+barking(0.041)
+playing+videogames(0.035)

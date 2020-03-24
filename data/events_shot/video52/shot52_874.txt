@@ -1,0 +1,5 @@
+storming(0.156)
+driving(0.156)
+hitchhiking(0.084)
+crashing(0.051)
+shooting(0.043)

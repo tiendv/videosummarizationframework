@@ -1,0 +1,5 @@
+painting(0.106)
+measuring(0.031)
+hanging(0.030)
+assembling(0.022)
+drawing(0.021)

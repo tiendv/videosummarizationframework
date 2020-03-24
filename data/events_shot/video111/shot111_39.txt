@@ -1,0 +1,5 @@
+painting(0.330)
+drawing(0.126)
+slapping(0.031)
+sketching(0.028)
+spraying(0.023)

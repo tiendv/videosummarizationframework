@@ -1,0 +1,5 @@
+adult+female+speaking(0.585)
+smoking(0.020)
+coughing(0.019)
+sneezing(0.016)
+reading(0.015)

@@ -1,0 +1,5 @@
+washing(0.296)
+fueling(0.123)
+rinsing(0.049)
+cleaning(0.043)
+camping(0.032)

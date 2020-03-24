@@ -1,0 +1,5 @@
+cleaning(0.042)
+rinsing(0.037)
+mopping(0.035)
+starting(0.030)
+playing+videogames(0.027)

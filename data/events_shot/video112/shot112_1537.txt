@@ -1,0 +1,5 @@
+boating(0.222)
+rowing(0.056)
+flooding(0.052)
+walking(0.052)
+punting(0.043)

@@ -1,0 +1,5 @@
+exiting(0.050)
+opening(0.047)
+closing(0.045)
+entering(0.036)
+adult+male+speaking(0.032)

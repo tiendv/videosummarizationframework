@@ -1,0 +1,5 @@
+stacking(0.346)
+cooking(0.103)
+baking(0.034)
+flipping(0.018)
+cleaning(0.018)

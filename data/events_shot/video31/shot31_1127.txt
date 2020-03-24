@@ -1,0 +1,5 @@
+walking(0.043)
+adult+male+speaking(0.040)
+standing(0.029)
+slapping(0.026)
+protesting(0.022)

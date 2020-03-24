@@ -1,0 +1,5 @@
+sitting(0.026)
+eating(0.020)
+opening(0.020)
+discussing(0.018)
+closing(0.018)

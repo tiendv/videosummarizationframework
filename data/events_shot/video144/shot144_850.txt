@@ -1,5 +1,0 @@
-flipping(0.022)
-hugging(0.018)
-cleaning(0.016)
-carrying(0.016)
-adult+female+singing(0.015)

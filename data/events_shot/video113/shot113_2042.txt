@@ -1,0 +1,5 @@
+fishing(0.391)
+climbing(0.238)
+rafting(0.195)
+drumming(0.018)
+diving(0.014)

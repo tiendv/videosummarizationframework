@@ -1,5 +1,0 @@
-climbing(0.063)
-adult+male+speaking(0.033)
-rocking(0.031)
-adult+female+speaking(0.025)
-walking(0.021)

@@ -1,0 +1,5 @@
+hunting(0.421)
+hiking(0.076)
+swinging(0.069)
+chasing(0.047)
+leaping(0.025)

@@ -1,5 +1,0 @@
-drinking(0.205)
-dining(0.108)
-slapping(0.044)
-hugging(0.041)
-fighting(0.032)

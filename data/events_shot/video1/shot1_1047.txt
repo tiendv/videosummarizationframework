@@ -1,0 +1,5 @@
+waking(0.280)
+sleeping(0.201)
+playing+videogames(0.061)
+resting(0.051)
+crying(0.025)

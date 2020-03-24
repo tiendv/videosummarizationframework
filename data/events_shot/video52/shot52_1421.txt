@@ -1,0 +1,5 @@
+barking(0.094)
+walking(0.073)
+mopping(0.067)
+pushing(0.037)
+standing(0.033)

@@ -1,0 +1,5 @@
+arresting(0.102)
+queuing(0.078)
+adult+male+speaking(0.071)
+handcuffing(0.049)
+discussing(0.037)

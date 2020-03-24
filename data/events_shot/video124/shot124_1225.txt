@@ -1,0 +1,5 @@
+waking(0.076)
+fighting(0.043)
+slapping(0.042)
+dragging(0.040)
+sleeping(0.034)

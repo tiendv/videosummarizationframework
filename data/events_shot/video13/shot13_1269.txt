@@ -1,0 +1,5 @@
+kissing(0.157)
+hugging(0.078)
+talking(0.035)
+filming(0.024)
+adult+male+speaking(0.022)

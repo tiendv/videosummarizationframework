@@ -1,0 +1,5 @@
+hitchhiking(0.349)
+walking(0.089)
+hugging(0.036)
+jogging(0.028)
+kissing(0.027)

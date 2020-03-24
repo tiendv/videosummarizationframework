@@ -1,0 +1,5 @@
+drinking(0.138)
+cleaning(0.094)
+washing(0.028)
+sneezing(0.027)
+coughing(0.025)

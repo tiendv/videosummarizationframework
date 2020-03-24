@@ -1,0 +1,5 @@
+standing(0.067)
+interviewing(0.059)
+walking(0.052)
+marrying(0.052)
+discussing(0.048)

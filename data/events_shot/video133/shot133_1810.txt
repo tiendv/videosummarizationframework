@@ -1,0 +1,5 @@
+painting(0.111)
+drawing(0.076)
+discussing(0.057)
+sketching(0.047)
+sitting(0.027)

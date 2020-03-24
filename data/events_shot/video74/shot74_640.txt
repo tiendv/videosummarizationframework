@@ -1,5 +1,0 @@
-preaching(0.305)
-adult+male+speaking(0.058)
-adult+male+singing(0.048)
-standing(0.039)
-laughing(0.018)

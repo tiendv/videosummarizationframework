@@ -1,0 +1,5 @@
+adult+male+singing(0.222)
+sprinting(0.145)
+shrugging(0.093)
+standing(0.054)
+adult+male+speaking(0.030)

@@ -1,0 +1,5 @@
+crying(0.074)
+bowing(0.030)
+clipping(0.029)
+carrying(0.028)
+sneezing(0.020)

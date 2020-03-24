@@ -1,0 +1,5 @@
+preaching(0.135)
+drinking(0.101)
+laughing(0.052)
+standing(0.037)
+cooking(0.029)

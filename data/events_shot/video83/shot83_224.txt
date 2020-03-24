@@ -1,0 +1,5 @@
+knocking(0.078)
+throwing(0.063)
+slapping(0.057)
+blocking(0.035)
+asking(0.032)

@@ -1,5 +1,0 @@
-stealing(0.239)
-assembling(0.162)
-working(0.100)
-painting(0.063)
-repairing(0.035)

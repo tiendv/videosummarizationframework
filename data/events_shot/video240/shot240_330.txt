@@ -1,5 +1,0 @@
-walking(0.061)
-standing(0.058)
-sneezing(0.044)
-laughing(0.029)
-squinting(0.027)

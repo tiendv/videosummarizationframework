@@ -1,0 +1,5 @@
+fencing(0.185)
+smoking(0.059)
+whistling(0.034)
+adult+male+speaking(0.033)
+bowing(0.033)

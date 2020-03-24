@@ -1,6 +1,0 @@
-arresting(0.125)
-punching(0.090)
-handcuffing(0.050)
-attacking(0.033)
-aiming(0.030)
-g(0.030)

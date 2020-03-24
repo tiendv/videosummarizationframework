@@ -1,0 +1,5 @@
+adult+male+speaking(0.109)
+talking(0.061)
+squinting(0.059)
+starting(0.045)
+smiling(0.036)

@@ -1,0 +1,5 @@
+whistling(0.094)
+singing(0.066)
+adult+male+singing(0.059)
+smoking(0.044)
+calling(0.030)

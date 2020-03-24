@@ -1,5 +1,0 @@
-painting(0.555)
-spraying(0.061)
-sanding(0.021)
-hammering(0.019)
-drawing(0.016)

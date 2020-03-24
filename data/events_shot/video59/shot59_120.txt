@@ -1,5 +1,0 @@
-walking(0.302)
-standing(0.048)
-adult+male+singing(0.046)
-hiking(0.046)
-filming(0.035)

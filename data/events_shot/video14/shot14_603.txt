@@ -1,0 +1,5 @@
+marching(0.518)
+parading(0.288)
+standing(0.018)
+walking(0.017)
+cheering(0.011)

@@ -1,0 +1,5 @@
+drinking(0.029)
+cooking(0.025)
+slapping(0.021)
+smelling(0.018)
+asking(0.017)

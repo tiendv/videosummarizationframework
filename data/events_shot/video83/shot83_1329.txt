@@ -1,0 +1,5 @@
+adult+male+speaking(0.065)
+bowing(0.045)
+sitting(0.045)
+kneeling(0.029)
+discussing(0.029)

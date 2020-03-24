@@ -1,0 +1,5 @@
+drinking(0.711)
+eating(0.009)
+standing(0.009)
+fighting(0.008)
+knocking(0.007)

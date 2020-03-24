@@ -1,0 +1,5 @@
+arresting(0.070)
+handcuffing(0.054)
+baptizing(0.048)
+tattooing(0.044)
+hugging(0.038)

@@ -1,0 +1,5 @@
+adult+male+speaking(0.176)
+praying(0.072)
+cracking(0.063)
+frowning(0.032)
+crying(0.026)

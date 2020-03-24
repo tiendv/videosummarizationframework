@@ -1,5 +1,0 @@
-queuing(0.081)
-arresting(0.066)
-guarding(0.055)
-asking(0.037)
-working(0.035)

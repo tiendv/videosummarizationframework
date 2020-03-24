@@ -1,0 +1,5 @@
+adult+female+speaking(0.283)
+asking(0.053)
+adult+female+singing(0.047)
+discussing(0.033)
+sitting(0.024)

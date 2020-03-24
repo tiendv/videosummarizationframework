@@ -1,0 +1,5 @@
+arresting(0.069)
+stealing(0.039)
+standing(0.034)
+adult+male+speaking(0.029)
+walking(0.029)

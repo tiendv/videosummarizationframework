@@ -1,5 +1,0 @@
-guarding(0.070)
-skiing(0.068)
-gripping(0.042)
-steering(0.034)
-snowing(0.026)

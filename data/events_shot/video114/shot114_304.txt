@@ -1,0 +1,5 @@
+smoking(0.058)
+kissing(0.056)
+adult+male+speaking(0.055)
+telephoning(0.051)
+calling(0.047)

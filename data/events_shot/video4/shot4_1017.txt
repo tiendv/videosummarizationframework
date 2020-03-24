@@ -1,0 +1,5 @@
+dining(0.101)
+hugging(0.075)
+asking(0.048)
+autographing(0.045)
+queuing(0.040)

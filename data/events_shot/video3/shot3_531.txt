@@ -1,0 +1,5 @@
+sleeping(0.138)
+praying(0.104)
+resting(0.075)
+bowing(0.053)
+waking(0.049)

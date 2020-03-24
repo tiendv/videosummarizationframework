@@ -1,0 +1,5 @@
+adult+male+speaking(0.155)
+discussing(0.114)
+socializing(0.050)
+blocking(0.039)
+pointing(0.031)
