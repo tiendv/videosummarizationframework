@@ -1,5 +1,0 @@
-walking(0.084)
-asking(0.054)
-laughing(0.036)
-adult+male+speaking(0.032)
-hitchhiking(0.024)

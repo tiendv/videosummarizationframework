@@ -1,5 +1,0 @@
-bouncing(0.134)
-dressing(0.061)
-walking(0.058)
-hugging(0.031)
-adult+female+speaking(0.026)

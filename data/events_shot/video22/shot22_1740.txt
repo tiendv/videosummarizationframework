@@ -1,5 +1,0 @@
-rinsing(0.125)
-washing(0.125)
-bathing(0.061)
-painting(0.055)
-scrubbing(0.034)

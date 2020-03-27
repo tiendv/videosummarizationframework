@@ -1,5 +1,0 @@
-walking(0.174)
-standing(0.075)
-dining(0.030)
-throwing(0.022)
-carrying(0.021)

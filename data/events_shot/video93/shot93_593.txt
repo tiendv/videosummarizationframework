@@ -1,5 +1,0 @@
-guarding(0.099)
-slapping(0.053)
-adult+male+speaking(0.053)
-saluting(0.039)
-pointing(0.031)

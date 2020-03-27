@@ -1,5 +1,0 @@
-boxing(0.108)
-punching(0.087)
-adult+male+speaking(0.067)
-slapping(0.066)
-officiating(0.032)

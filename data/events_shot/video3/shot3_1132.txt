@@ -1,5 +1,0 @@
-adult+female+speaking(0.113)
-adult+male+speaking(0.032)
-asking(0.032)
-talking(0.029)
-sneezing(0.026)

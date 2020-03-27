@@ -1,5 +1,0 @@
-arresting(0.201)
-discussing(0.131)
-frowning(0.083)
-adult+male+speaking(0.047)
-saluting(0.043)

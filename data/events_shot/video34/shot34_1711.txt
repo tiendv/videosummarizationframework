@@ -1,5 +1,0 @@
-adult+male+speaking(0.105)
-sneezing(0.074)
-laughing(0.068)
-dining(0.058)
-sitting(0.048)

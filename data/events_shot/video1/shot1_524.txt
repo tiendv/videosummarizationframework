@@ -1,5 +1,0 @@
-chewing(0.200)
-combing(0.098)
-adult+male+speaking(0.064)
-shaving(0.047)
-brushing(0.036)

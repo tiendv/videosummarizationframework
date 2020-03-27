@@ -1,5 +1,0 @@
-adult+female+speaking(0.144)
-dusting(0.131)
-adult+female+singing(0.041)
-cleaning(0.036)
-talking(0.035)

@@ -1,5 +1,0 @@
-camping(0.083)
-snowing(0.056)
-raining(0.042)
-hunting(0.032)
-playing+videogames(0.031)

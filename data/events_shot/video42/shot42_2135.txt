@@ -1,5 +1,0 @@
-driving(0.214)
-steering(0.099)
-riding(0.061)
-cleaning(0.021)
-washing(0.021)

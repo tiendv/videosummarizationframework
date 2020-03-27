@@ -1,5 +1,0 @@
-cooking(0.130)
-boiling(0.074)
-vacuuming(0.065)
-stirring(0.055)
-drying(0.052)

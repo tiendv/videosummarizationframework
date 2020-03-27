@@ -1,5 +1,0 @@
-sitting(0.063)
-queuing(0.040)
-adult+male+singing(0.037)
-asking(0.028)
-tattooing(0.028)

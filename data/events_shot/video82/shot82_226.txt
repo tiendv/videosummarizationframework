@@ -1,5 +1,0 @@
-reading(0.085)
-adult+male+speaking(0.049)
-adult+male+singing(0.034)
-praying(0.030)
-adult+female+singing(0.026)

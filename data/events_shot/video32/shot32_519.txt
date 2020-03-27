@@ -1,5 +1,0 @@
-arresting(0.104)
-smiling(0.065)
-talking(0.064)
-adult+male+speaking(0.064)
-standing(0.053)

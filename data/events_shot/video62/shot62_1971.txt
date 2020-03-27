@@ -1,5 +1,0 @@
-eating(0.059)
-licking(0.055)
-cuddling(0.053)
-chewing(0.052)
-biting(0.049)

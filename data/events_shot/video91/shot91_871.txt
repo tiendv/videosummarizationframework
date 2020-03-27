@@ -1,5 +1,0 @@
-crying(0.094)
-walking(0.086)
-raining(0.047)
-telephoning(0.046)
-calling(0.044)

@@ -1,5 +1,0 @@
-fencing(0.788)
-guarding(0.056)
-walking(0.009)
-arresting(0.007)
-handcuffing(0.006)

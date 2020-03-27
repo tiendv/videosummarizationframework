@@ -1,5 +1,0 @@
-running(0.035)
-unpacking(0.027)
-dusting(0.027)
-walking(0.024)
-cleaning(0.023)

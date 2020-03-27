@@ -1,5 +1,0 @@
-drying(0.054)
-cooking(0.042)
-baking(0.035)
-coughing(0.033)
-eating(0.029)

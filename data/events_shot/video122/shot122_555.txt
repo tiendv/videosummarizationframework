@@ -1,5 +1,0 @@
-piloting(0.070)
-standing(0.065)
-punting(0.047)
-fishing(0.042)
-flying(0.040)

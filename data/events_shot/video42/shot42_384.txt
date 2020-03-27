@@ -1,5 +1,0 @@
-gripping(0.719)
-handcuffing(0.042)
-locking(0.011)
-aiming(0.010)
-measuring(0.009)

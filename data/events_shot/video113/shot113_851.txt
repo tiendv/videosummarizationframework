@@ -1,5 +1,0 @@
-preaching(0.063)
-adult+male+speaking(0.045)
-bowing(0.040)
-lecturing(0.034)
-slapping(0.031)

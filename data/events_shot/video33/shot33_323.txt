@@ -1,5 +1,0 @@
-crying(0.356)
-frowning(0.050)
-punching(0.019)
-shooting(0.017)
-raining(0.017)

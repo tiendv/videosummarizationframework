@@ -1,5 +1,0 @@
-ascending(0.145)
-rising(0.125)
-descending(0.095)
-entering(0.055)
-climbing(0.045)

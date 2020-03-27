@@ -1,5 +1,0 @@
-adult+female+speaking(0.046)
-adult+female+singing(0.043)
-smiling(0.027)
-drying(0.025)
-kissing(0.020)

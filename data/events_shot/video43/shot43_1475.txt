@@ -1,5 +1,0 @@
-talking(0.053)
-adult+male+speaking(0.040)
-drying(0.025)
-brushing(0.025)
-painting(0.023)

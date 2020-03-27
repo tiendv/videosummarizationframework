@@ -1,5 +1,0 @@
-walking(0.109)
-standing(0.109)
-performing(0.050)
-dressing(0.036)
-bowing(0.033)

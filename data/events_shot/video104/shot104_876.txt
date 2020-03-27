@@ -1,5 +1,0 @@
-dressing(0.057)
-walking(0.047)
-dusting(0.039)
-sneezing(0.035)
-mopping(0.034)

@@ -1,5 +1,0 @@
-adult+female+singing(0.129)
-guarding(0.076)
-standing(0.049)
-hugging(0.039)
-walking(0.039)

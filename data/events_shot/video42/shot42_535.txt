@@ -1,5 +1,0 @@
-fueling(0.180)
-arresting(0.063)
-handcuffing(0.062)
-locking(0.044)
-adult+male+speaking(0.044)

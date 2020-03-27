@@ -1,5 +1,0 @@
-hanging(0.085)
-swinging(0.085)
-building(0.034)
-punching(0.027)
-standing(0.024)

@@ -1,5 +1,0 @@
-tapping(0.033)
-discussing(0.029)
-knocking(0.025)
-adult+female+speaking(0.023)
-locking(0.022)

@@ -1,5 +1,0 @@
-talking(0.243)
-sitting(0.205)
-discussing(0.132)
-interviewing(0.055)
-starting(0.050)

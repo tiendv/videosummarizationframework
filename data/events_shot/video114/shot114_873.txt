@@ -1,5 +1,0 @@
-dining(0.162)
-telephoning(0.079)
-eating(0.072)
-calling(0.063)
-drinking(0.062)

@@ -1,5 +1,0 @@
-walking(0.401)
-arresting(0.030)
-standing(0.025)
-exiting(0.023)
-smiling(0.022)

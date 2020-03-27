@@ -1,5 +1,0 @@
-walking(0.172)
-pushing(0.080)
-shopping(0.030)
-standing(0.029)
-laughing(0.027)

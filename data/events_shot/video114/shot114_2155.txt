@@ -1,5 +1,0 @@
-walking(0.730)
-hiking(0.054)
-carrying(0.016)
-standing(0.014)
-filming(0.013)

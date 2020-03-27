@@ -1,5 +1,0 @@
-hugging(0.039)
-adult+female+singing(0.029)
-coughing(0.029)
-waking(0.022)
-singing(0.021)

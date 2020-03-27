@@ -1,5 +1,0 @@
-adult+female+speaking(0.150)
-sleeping(0.098)
-resting(0.090)
-cuddling(0.062)
-knitting(0.051)

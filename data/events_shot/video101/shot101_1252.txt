@@ -1,5 +1,0 @@
-gripping(0.123)
-starting(0.063)
-steering(0.060)
-lifting(0.044)
-cracking(0.023)

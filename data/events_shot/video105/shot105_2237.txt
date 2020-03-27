@@ -1,5 +1,0 @@
-sweeping(0.184)
-boarding(0.147)
-vacuuming(0.131)
-mopping(0.122)
-skating(0.044)

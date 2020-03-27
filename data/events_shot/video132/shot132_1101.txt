@@ -1,5 +1,0 @@
-guarding(0.137)
-adult+male+speaking(0.107)
-asking(0.063)
-standing(0.057)
-discussing(0.041)

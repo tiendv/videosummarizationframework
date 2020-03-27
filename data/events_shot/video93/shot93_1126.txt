@@ -1,5 +1,0 @@
-sniffing(0.345)
-smelling(0.288)
-blowing(0.090)
-drinking(0.030)
-inflating(0.022)

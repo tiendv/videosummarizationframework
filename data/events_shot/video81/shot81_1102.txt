@@ -1,5 +1,0 @@
-hammering(0.056)
-rising(0.048)
-bowing(0.042)
-raising(0.026)
-standing(0.025)

@@ -1,5 +1,0 @@
-building(0.607)
-constructing(0.092)
-walking(0.088)
-fencing(0.023)
-standing(0.018)

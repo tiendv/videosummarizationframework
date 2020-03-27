@@ -1,5 +1,0 @@
-mowing(0.267)
-spinning(0.041)
-running(0.035)
-sprinting(0.034)
-chasing(0.029)

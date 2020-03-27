@@ -1,5 +1,0 @@
-combing(0.045)
-brushing(0.043)
-adult+female+speaking(0.041)
-slapping(0.039)
-massaging(0.034)

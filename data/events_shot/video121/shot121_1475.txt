@@ -1,5 +1,0 @@
-shaving(0.778)
-repairing(0.016)
-brushing(0.015)
-building(0.010)
-assembling(0.010)

@@ -1,5 +1,0 @@
-shopping(0.230)
-selling(0.149)
-gardening(0.088)
-buying(0.057)
-picking(0.027)

@@ -1,5 +1,0 @@
-telephoning(0.309)
-calling(0.173)
-breaking(0.016)
-fighting(0.016)
-adult+male+speaking(0.015)

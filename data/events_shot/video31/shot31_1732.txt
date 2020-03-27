@@ -1,5 +1,0 @@
-slapping(0.199)
-knocking(0.065)
-locking(0.061)
-hugging(0.043)
-walking(0.037)

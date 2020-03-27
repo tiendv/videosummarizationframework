@@ -1,5 +1,0 @@
-crying(0.148)
-biting(0.061)
-attacking(0.055)
-crawling(0.043)
-hugging(0.037)

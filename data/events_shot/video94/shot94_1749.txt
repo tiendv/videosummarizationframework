@@ -1,5 +1,0 @@
-drying(0.048)
-massaging(0.037)
-cracking(0.034)
-walking(0.031)
-slapping(0.020)

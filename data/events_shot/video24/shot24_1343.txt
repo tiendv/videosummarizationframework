@@ -1,5 +1,0 @@
-bicycling(0.225)
-running(0.138)
-walking(0.117)
-sitting(0.044)
-standing(0.032)

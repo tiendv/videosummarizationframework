@@ -1,5 +1,0 @@
-shooting(0.160)
-aiming(0.107)
-pointing(0.069)
-pressing(0.055)
-tapping(0.050)

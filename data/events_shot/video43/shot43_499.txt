@@ -1,5 +1,0 @@
-walking(0.077)
-squinting(0.053)
-turning(0.035)
-hiking(0.034)
-chewing(0.032)

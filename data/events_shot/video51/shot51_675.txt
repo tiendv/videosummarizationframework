@@ -1,5 +1,0 @@
-guarding(0.201)
-queuing(0.060)
-drying(0.044)
-packaging(0.033)
-standing(0.028)

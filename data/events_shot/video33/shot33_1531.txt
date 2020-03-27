@@ -1,5 +1,0 @@
-walking(0.155)
-standing(0.066)
-shopping(0.053)
-running(0.046)
-entering(0.037)

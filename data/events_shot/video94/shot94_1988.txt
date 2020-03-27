@@ -1,5 +1,0 @@
-asking(0.324)
-hugging(0.073)
-instructing(0.059)
-walking(0.038)
-preaching(0.037)

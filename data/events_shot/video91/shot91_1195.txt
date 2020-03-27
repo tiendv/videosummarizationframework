@@ -1,5 +1,0 @@
-frowning(0.121)
-adult+male+speaking(0.056)
-lecturing(0.050)
-talking(0.049)
-discussing(0.046)

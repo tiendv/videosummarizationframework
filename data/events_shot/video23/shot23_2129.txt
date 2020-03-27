@@ -1,5 +1,0 @@
-smiling(0.194)
-adult+female+singing(0.179)
-cheerleading(0.061)
-grinning(0.054)
-cheering(0.052)

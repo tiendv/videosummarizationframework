@@ -1,5 +1,0 @@
-brushing(0.091)
-scrubbing(0.091)
-shaving(0.081)
-drying(0.061)
-adult+male+speaking(0.057)

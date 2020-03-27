@@ -1,5 +1,0 @@
-stopping(0.056)
-driving(0.052)
-closing(0.040)
-adult+male+speaking(0.037)
-opening(0.033)

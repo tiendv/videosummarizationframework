@@ -1,5 +1,0 @@
-manicuring(0.271)
-cooking(0.192)
-baking(0.044)
-waxing(0.024)
-adult+female+speaking(0.021)

@@ -1,5 +1,0 @@
-coughing(0.107)
-yawning(0.063)
-eating(0.056)
-spitting(0.049)
-smelling(0.037)

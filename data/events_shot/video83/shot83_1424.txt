@@ -1,5 +1,0 @@
-tying(0.084)
-dressing(0.048)
-sneezing(0.047)
-adult+male+speaking(0.043)
-discussing(0.041)

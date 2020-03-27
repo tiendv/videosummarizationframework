@@ -1,5 +1,0 @@
-throwing(0.045)
-standing(0.033)
-adult+male+speaking(0.032)
-aiming(0.027)
-hugging(0.027)

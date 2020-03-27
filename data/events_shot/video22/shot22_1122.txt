@@ -1,5 +1,0 @@
-smiling(0.147)
-hugging(0.060)
-talking(0.048)
-shrugging(0.042)
-winking(0.039)

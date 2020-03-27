@@ -1,5 +1,0 @@
-talking(0.049)
-working(0.046)
-discussing(0.042)
-cooking(0.040)
-adult+female+speaking(0.026)

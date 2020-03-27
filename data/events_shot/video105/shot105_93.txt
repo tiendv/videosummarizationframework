@@ -1,5 +1,0 @@
-adult+male+speaking(0.046)
-walking(0.029)
-running(0.029)
-working(0.028)
-shaving(0.024)

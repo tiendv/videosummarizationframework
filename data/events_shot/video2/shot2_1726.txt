@@ -1,5 +1,0 @@
-adult+male+speaking(0.089)
-knocking(0.086)
-lecturing(0.073)
-standing(0.063)
-whistling(0.039)

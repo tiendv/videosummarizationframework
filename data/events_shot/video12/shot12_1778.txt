@@ -1,5 +1,0 @@
-packing(0.053)
-stealing(0.042)
-unpacking(0.038)
-unloading(0.030)
-packaging(0.028)

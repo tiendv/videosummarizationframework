@@ -1,5 +1,0 @@
-stacking(0.091)
-hugging(0.052)
-queuing(0.030)
-giving(0.024)
-standing(0.021)

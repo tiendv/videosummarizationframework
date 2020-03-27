@@ -1,5 +1,0 @@
-leaning(0.170)
-walking(0.107)
-climbing(0.036)
-running(0.033)
-playing+videogames(0.029)

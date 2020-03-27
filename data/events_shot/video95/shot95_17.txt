@@ -1,5 +1,0 @@
-dining(0.078)
-discussing(0.059)
-eating(0.043)
-socializing(0.032)
-working(0.031)

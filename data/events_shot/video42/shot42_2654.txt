@@ -1,5 +1,0 @@
-hugging(0.162)
-adult+male+speaking(0.082)
-asking(0.034)
-giving(0.032)
-carrying(0.024)

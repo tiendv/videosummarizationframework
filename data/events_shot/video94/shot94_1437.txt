@@ -1,5 +1,0 @@
-putting(0.041)
-tapping(0.031)
-pressing(0.030)
-talking(0.029)
-starting(0.029)

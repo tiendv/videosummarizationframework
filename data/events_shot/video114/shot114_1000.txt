@@ -1,5 +1,0 @@
-calling(0.061)
-guarding(0.043)
-telephoning(0.040)
-standing(0.039)
-leaning(0.037)

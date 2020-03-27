@@ -1,5 +1,0 @@
-sneezing(0.037)
-walking(0.035)
-adult+male+speaking(0.025)
-playing+videogames(0.025)
-laughing(0.024)

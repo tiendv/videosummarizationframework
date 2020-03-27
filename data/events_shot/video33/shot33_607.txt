@@ -1,5 +1,0 @@
-hitchhiking(0.050)
-standing(0.047)
-talking(0.045)
-preaching(0.043)
-interviewing(0.036)

@@ -1,5 +1,0 @@
-lecturing(0.046)
-adult+male+speaking(0.044)
-pointing(0.039)
-waving(0.033)
-slapping(0.023)

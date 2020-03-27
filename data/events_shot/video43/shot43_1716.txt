@@ -1,5 +1,0 @@
-fencing(0.563)
-guarding(0.034)
-raining(0.018)
-coughing(0.018)
-barking(0.017)

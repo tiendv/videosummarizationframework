@@ -1,5 +1,0 @@
-praying(0.046)
-sitting(0.037)
-adult+female+speaking(0.034)
-shopping(0.029)
-dining(0.028)

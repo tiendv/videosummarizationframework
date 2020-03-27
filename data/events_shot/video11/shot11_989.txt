@@ -1,5 +1,0 @@
-mopping(0.035)
-barking(0.035)
-vacuuming(0.021)
-whistling(0.017)
-inflating(0.015)

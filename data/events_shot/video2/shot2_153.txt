@@ -1,5 +1,0 @@
-queuing(0.164)
-hugging(0.143)
-arresting(0.033)
-sniffing(0.030)
-walking(0.028)

@@ -1,5 +1,0 @@
-walking(0.205)
-running(0.197)
-throwing(0.035)
-carrying(0.034)
-jogging(0.024)

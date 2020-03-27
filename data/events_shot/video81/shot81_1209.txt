@@ -1,5 +1,0 @@
-crying(0.108)
-coughing(0.064)
-sniffing(0.064)
-hugging(0.060)
-smelling(0.057)

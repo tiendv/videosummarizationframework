@@ -1,5 +1,0 @@
-shopping(0.065)
-packing(0.065)
-unpacking(0.060)
-picking(0.050)
-stealing(0.038)

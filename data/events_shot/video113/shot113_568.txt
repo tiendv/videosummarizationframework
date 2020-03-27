@@ -1,5 +1,0 @@
-punching(0.049)
-knocking(0.035)
-boxing(0.026)
-drying(0.018)
-plugging(0.018)

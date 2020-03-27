@@ -1,5 +1,0 @@
-painting(0.055)
-mopping(0.050)
-playing+videogames(0.038)
-slapping(0.028)
-dusting(0.025)

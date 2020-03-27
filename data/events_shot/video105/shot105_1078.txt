@@ -1,5 +1,0 @@
-walking(0.111)
-crying(0.088)
-slapping(0.071)
-arresting(0.041)
-carrying(0.039)

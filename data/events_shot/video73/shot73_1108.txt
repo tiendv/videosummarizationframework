@@ -1,5 +1,0 @@
-juggling(0.500)
-adult+female+speaking(0.046)
-preaching(0.030)
-asking(0.030)
-adult+male+speaking(0.016)

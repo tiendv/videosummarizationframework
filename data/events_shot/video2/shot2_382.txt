@@ -1,5 +1,0 @@
-dressing(0.122)
-combing(0.061)
-dusting(0.033)
-removing(0.031)
-brushing(0.030)

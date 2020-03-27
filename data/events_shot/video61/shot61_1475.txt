@@ -1,5 +1,0 @@
-adult+female+singing(0.087)
-sneezing(0.069)
-roaring(0.027)
-coughing(0.025)
-knocking(0.024)

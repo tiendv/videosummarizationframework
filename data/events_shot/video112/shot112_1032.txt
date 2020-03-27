@@ -1,5 +1,0 @@
-preaching(0.132)
-guarding(0.112)
-adult+male+speaking(0.091)
-fencing(0.060)
-asking(0.040)

@@ -1,5 +1,0 @@
-telephoning(0.095)
-adult+male+speaking(0.075)
-coughing(0.063)
-cooking(0.054)
-calling(0.036)

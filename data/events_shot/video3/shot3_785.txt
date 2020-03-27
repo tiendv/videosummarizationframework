@@ -1,5 +1,0 @@
-washing(0.443)
-fueling(0.209)
-crashing(0.080)
-cleaning(0.054)
-rinsing(0.048)

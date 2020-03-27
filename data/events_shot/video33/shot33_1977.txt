@@ -1,5 +1,0 @@
-crying(0.123)
-walking(0.075)
-riding(0.031)
-carrying(0.027)
-smiling(0.023)

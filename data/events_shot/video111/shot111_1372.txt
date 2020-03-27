@@ -1,5 +1,0 @@
-packing(0.214)
-asking(0.101)
-unpacking(0.092)
-slapping(0.060)
-adult+female+speaking(0.051)

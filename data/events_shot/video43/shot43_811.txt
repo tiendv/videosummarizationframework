@@ -1,5 +1,0 @@
-walking(0.063)
-standing(0.044)
-raising(0.039)
-lifting(0.031)
-fighting(0.029)

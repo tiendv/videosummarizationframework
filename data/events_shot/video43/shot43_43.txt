@@ -1,5 +1,0 @@
-hugging(0.060)
-frowning(0.047)
-crying(0.025)
-slapping(0.021)
-cuddling(0.020)

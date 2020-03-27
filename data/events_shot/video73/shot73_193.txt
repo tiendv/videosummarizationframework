@@ -1,5 +1,0 @@
-tapping(0.077)
-sitting(0.058)
-interviewing(0.030)
-discussing(0.028)
-adult+male+speaking(0.022)

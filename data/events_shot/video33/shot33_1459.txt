@@ -1,5 +1,0 @@
-hammering(0.108)
-aiming(0.077)
-shooting(0.056)
-pointing(0.054)
-adult+male+speaking(0.037)

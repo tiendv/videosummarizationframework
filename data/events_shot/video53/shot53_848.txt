@@ -1,5 +1,0 @@
-squatting(0.055)
-walking(0.043)
-smiling(0.041)
-hiking(0.036)
-adult+male+speaking(0.033)

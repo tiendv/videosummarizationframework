@@ -1,5 +1,0 @@
-drinking(0.276)
-eating(0.122)
-dining(0.053)
-sneezing(0.047)
-coughing(0.045)

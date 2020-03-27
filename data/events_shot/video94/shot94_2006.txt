@@ -1,5 +1,0 @@
-packing(0.057)
-cleaning(0.054)
-drying(0.028)
-mopping(0.026)
-washing(0.023)

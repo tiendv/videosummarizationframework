@@ -1,5 +1,0 @@
-painting(0.201)
-hugging(0.073)
-pointing(0.061)
-drawing(0.040)
-adult+female+speaking(0.040)

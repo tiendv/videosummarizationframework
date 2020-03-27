@@ -1,5 +1,0 @@
-walking(0.148)
-hugging(0.114)
-marching(0.095)
-parading(0.085)
-queuing(0.065)

@@ -1,5 +1,0 @@
-storming(0.249)
-climbing(0.242)
-hanging(0.079)
-barking(0.062)
-raining(0.042)

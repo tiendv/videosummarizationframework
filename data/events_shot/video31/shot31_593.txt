@@ -1,5 +1,0 @@
-hitchhiking(0.055)
-walking(0.042)
-stealing(0.038)
-loading(0.030)
-fueling(0.029)

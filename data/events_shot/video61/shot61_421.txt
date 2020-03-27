@@ -1,5 +1,0 @@
-hugging(0.100)
-chewing(0.072)
-cuddling(0.046)
-adult+female+speaking(0.038)
-cracking(0.032)

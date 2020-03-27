@@ -1,5 +1,0 @@
-gripping(0.184)
-squatting(0.111)
-bending(0.036)
-pressing(0.034)
-adult+male+speaking(0.032)

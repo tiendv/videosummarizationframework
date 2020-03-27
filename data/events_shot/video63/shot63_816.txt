@@ -1,5 +1,0 @@
-telephoning(0.053)
-pointing(0.044)
-adult+female+speaking(0.038)
-filming(0.029)
-smiling(0.027)

@@ -1,5 +1,0 @@
-walking(0.043)
-carrying(0.039)
-running(0.036)
-unpacking(0.035)
-falling(0.035)

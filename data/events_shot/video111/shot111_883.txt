@@ -1,5 +1,0 @@
-singing(0.096)
-fencing(0.066)
-sitting(0.054)
-laughing(0.051)
-adult+female+singing(0.048)

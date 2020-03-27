@@ -1,5 +1,0 @@
-vacuuming(0.107)
-coughing(0.075)
-laughing(0.069)
-sneezing(0.059)
-cleaning(0.034)

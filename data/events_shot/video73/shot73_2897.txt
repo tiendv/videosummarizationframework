@@ -1,5 +1,0 @@
-handcuffing(0.565)
-arresting(0.134)
-locking(0.014)
-guarding(0.011)
-gripping(0.011)

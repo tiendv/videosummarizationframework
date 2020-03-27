@@ -1,5 +1,0 @@
-hanging(0.248)
-gripping(0.056)
-climbing(0.019)
-cleaning(0.018)
-walking(0.018)

@@ -1,5 +1,0 @@
-balancing(0.101)
-pushing(0.056)
-stacking(0.036)
-pointing(0.028)
-brushing(0.023)

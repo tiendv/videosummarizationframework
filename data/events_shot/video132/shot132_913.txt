@@ -1,5 +1,0 @@
-walking(0.186)
-knocking(0.061)
-bowing(0.052)
-praying(0.045)
-exiting(0.039)

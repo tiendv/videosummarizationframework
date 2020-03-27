@@ -1,5 +1,0 @@
-assembling(0.293)
-repairing(0.116)
-measuring(0.057)
-locking(0.056)
-hanging(0.042)

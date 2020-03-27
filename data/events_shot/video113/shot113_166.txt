@@ -1,5 +1,0 @@
-hugging(0.069)
-jogging(0.035)
-adult+male+speaking(0.035)
-hiking(0.029)
-cuddling(0.026)

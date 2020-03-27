@@ -1,5 +1,0 @@
-blocking(0.149)
-adult+female+speaking(0.088)
-knocking(0.046)
-standing(0.043)
-adult+female+singing(0.040)

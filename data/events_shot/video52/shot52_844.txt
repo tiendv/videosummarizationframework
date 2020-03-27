@@ -1,5 +1,0 @@
-building(0.336)
-constructing(0.189)
-bicycling(0.038)
-driving(0.026)
-punting(0.020)

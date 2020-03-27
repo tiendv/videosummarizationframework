@@ -1,5 +1,0 @@
-bicycling(0.530)
-trimming(0.027)
-pedaling(0.021)
-walking(0.017)
-asking(0.016)

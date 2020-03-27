@@ -1,5 +1,0 @@
-driving(0.129)
-adult+female+speaking(0.092)
-discussing(0.065)
-fighting(0.047)
-chewing(0.036)

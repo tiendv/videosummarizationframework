@@ -1,5 +1,0 @@
-driving(0.063)
-asking(0.047)
-starting(0.039)
-hitchhiking(0.035)
-filming(0.034)

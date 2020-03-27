@@ -1,5 +1,0 @@
-raining(0.090)
-knocking(0.040)
-starting(0.037)
-locking(0.035)
-playing+videogames(0.033)

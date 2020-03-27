@@ -1,5 +1,0 @@
-walking(0.165)
-fighting(0.057)
-arresting(0.045)
-slapping(0.039)
-knocking(0.035)

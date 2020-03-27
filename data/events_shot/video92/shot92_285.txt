@@ -1,5 +1,0 @@
-standing(0.060)
-adult+female+speaking(0.045)
-interviewing(0.043)
-talking(0.042)
-protesting(0.039)

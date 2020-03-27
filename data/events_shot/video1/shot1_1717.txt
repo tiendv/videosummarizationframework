@@ -1,5 +1,0 @@
-talking(0.070)
-standing(0.056)
-adult+male+speaking(0.047)
-discussing(0.028)
-shrugging(0.025)

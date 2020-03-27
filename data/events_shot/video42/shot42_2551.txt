@@ -1,5 +1,0 @@
-drinking(0.071)
-smoking(0.041)
-smelling(0.034)
-coughing(0.033)
-crying(0.028)

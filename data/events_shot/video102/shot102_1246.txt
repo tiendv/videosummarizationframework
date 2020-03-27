@@ -1,5 +1,0 @@
-bouncing(0.810)
-rolling(0.050)
-dropping(0.014)
-spinning(0.013)
-peeling(0.012)

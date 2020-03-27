@@ -1,5 +1,0 @@
-storming(0.680)
-raining(0.241)
-sliding(0.006)
-knocking(0.006)
-twisting(0.004)

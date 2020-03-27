@@ -1,5 +1,0 @@
-walking(0.414)
-calling(0.050)
-carrying(0.031)
-telephoning(0.031)
-running(0.029)

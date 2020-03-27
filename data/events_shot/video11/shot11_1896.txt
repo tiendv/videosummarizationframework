@@ -1,5 +1,0 @@
-asking(0.085)
-handcuffing(0.047)
-adult+male+speaking(0.042)
-adult+female+speaking(0.041)
-stealing(0.035)

@@ -1,5 +1,0 @@
-bathing(0.558)
-washing(0.070)
-rinsing(0.053)
-shaving(0.013)
-drinking(0.011)

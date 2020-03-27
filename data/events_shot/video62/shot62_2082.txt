@@ -1,5 +1,0 @@
-cooking(0.067)
-stealing(0.059)
-coughing(0.030)
-sneezing(0.030)
-telephoning(0.027)

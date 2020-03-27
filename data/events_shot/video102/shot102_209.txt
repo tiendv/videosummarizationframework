@@ -1,5 +1,0 @@
-arresting(0.525)
-handcuffing(0.105)
-walking(0.063)
-autographing(0.044)
-asking(0.034)

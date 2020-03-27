@@ -1,5 +1,0 @@
-smiling(0.070)
-adult+female+speaking(0.054)
-hugging(0.051)
-cuddling(0.047)
-kissing(0.043)

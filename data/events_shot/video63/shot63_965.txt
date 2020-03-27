@@ -1,5 +1,0 @@
-crying(0.113)
-slapping(0.110)
-frowning(0.067)
-adult+male+speaking(0.065)
-coaching(0.027)

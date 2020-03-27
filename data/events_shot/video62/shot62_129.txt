@@ -1,5 +1,0 @@
-bowing(0.056)
-sneezing(0.033)
-cracking(0.031)
-slapping(0.028)
-walking(0.028)

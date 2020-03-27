@@ -1,5 +1,0 @@
-running(0.166)
-walking(0.065)
-hugging(0.048)
-carrying(0.038)
-playing+videogames(0.027)

@@ -1,5 +1,0 @@
-slapping(0.083)
-walking(0.054)
-crying(0.032)
-stopping(0.031)
-coaching(0.030)

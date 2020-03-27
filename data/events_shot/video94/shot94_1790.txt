@@ -1,5 +1,0 @@
-putting(0.049)
-removing(0.044)
-repairing(0.034)
-gripping(0.030)
-placing(0.027)

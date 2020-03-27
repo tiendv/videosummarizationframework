@@ -1,5 +1,0 @@
-shaving(0.630)
-cracking(0.027)
-clipping(0.020)
-adult+male+speaking(0.018)
-combing(0.015)

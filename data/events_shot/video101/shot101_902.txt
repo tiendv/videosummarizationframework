@@ -1,5 +1,0 @@
-yawning(0.124)
-adult+male+speaking(0.057)
-adult+male+singing(0.045)
-slapping(0.040)
-imitating(0.036)

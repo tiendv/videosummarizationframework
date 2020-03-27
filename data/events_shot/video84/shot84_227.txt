@@ -1,5 +1,0 @@
-shopping(0.277)
-drying(0.119)
-hanging(0.081)
-selling(0.059)
-buying(0.055)

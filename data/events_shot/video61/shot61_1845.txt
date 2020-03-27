@@ -1,5 +1,0 @@
-spinning(0.062)
-adult+female+speaking(0.055)
-adult+female+singing(0.032)
-dining(0.031)
-performing(0.030)

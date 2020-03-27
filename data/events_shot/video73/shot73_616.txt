@@ -1,5 +1,0 @@
-hugging(0.306)
-adult+female+speaking(0.105)
-cuddling(0.042)
-painting(0.027)
-handcuffing(0.025)

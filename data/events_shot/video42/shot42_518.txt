@@ -1,5 +1,0 @@
-protesting(0.234)
-marching(0.037)
-shouting(0.030)
-asking(0.030)
-standing(0.024)

@@ -1,5 +1,0 @@
-eating(0.312)
-drinking(0.119)
-bathing(0.050)
-chewing(0.047)
-adult+female+speaking(0.039)

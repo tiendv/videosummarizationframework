@@ -1,5 +1,0 @@
-swinging(0.236)
-hanging(0.095)
-child+singing(0.075)
-child+speaking(0.063)
-sitting(0.040)

@@ -1,5 +1,0 @@
-bowing(0.049)
-hugging(0.045)
-laughing(0.041)
-bouncing(0.035)
-dropping(0.033)

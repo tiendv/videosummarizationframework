@@ -1,5 +1,0 @@
-throwing(0.102)
-kneeling(0.088)
-squatting(0.073)
-stretching(0.042)
-bending(0.029)

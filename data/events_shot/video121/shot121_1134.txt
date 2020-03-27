@@ -1,5 +1,0 @@
-manicuring(0.365)
-sleeping(0.130)
-massaging(0.067)
-waking(0.044)
-resting(0.033)

@@ -1,5 +1,0 @@
-rising(0.149)
-adult+female+singing(0.099)
-roaring(0.089)
-adult+male+singing(0.077)
-jumping(0.041)

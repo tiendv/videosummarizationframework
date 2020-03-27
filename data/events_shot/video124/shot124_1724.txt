@@ -1,5 +1,0 @@
-talking(0.108)
-coughing(0.073)
-sneezing(0.050)
-slapping(0.042)
-adult+male+speaking(0.034)

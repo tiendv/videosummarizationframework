@@ -1,5 +1,0 @@
-hammering(0.384)
-repairing(0.041)
-working(0.041)
-carving(0.027)
-sanding(0.016)

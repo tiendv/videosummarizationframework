@@ -1,5 +1,0 @@
-bicycling(0.248)
-pedaling(0.140)
-riding(0.052)
-walking(0.043)
-pushing(0.042)

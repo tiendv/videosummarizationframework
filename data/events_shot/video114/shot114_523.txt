@@ -1,5 +1,0 @@
-telephoning(0.107)
-calling(0.096)
-yawning(0.094)
-adult+male+speaking(0.062)
-blocking(0.033)

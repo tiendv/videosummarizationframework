@@ -1,5 +1,0 @@
-sleeping(0.132)
-tapping(0.100)
-whistling(0.092)
-smoking(0.076)
-cracking(0.050)

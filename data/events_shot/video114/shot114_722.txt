@@ -1,5 +1,0 @@
-child+speaking(0.084)
-laughing(0.072)
-child+singing(0.041)
-baptizing(0.034)
-crying(0.031)

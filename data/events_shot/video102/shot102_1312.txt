@@ -1,5 +1,0 @@
-coaching(0.208)
-queuing(0.146)
-teaching(0.025)
-asking(0.024)
-discussing(0.024)

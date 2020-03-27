@@ -1,5 +1,0 @@
-mopping(0.077)
-hugging(0.040)
-dancing(0.037)
-cleaning(0.024)
-standing(0.018)

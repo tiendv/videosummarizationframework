@@ -1,5 +1,0 @@
-brushing(0.126)
-combing(0.076)
-painting(0.030)
-adult+female+speaking(0.023)
-sitting(0.020)

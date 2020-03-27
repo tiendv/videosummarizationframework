@@ -1,5 +1,0 @@
-drinking(0.038)
-slapping(0.038)
-adult+male+speaking(0.030)
-discussing(0.023)
-kissing(0.021)

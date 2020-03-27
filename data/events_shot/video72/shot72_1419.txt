@@ -1,5 +1,0 @@
-sleeping(0.216)
-waking(0.117)
-rubbing(0.043)
-poking(0.033)
-resting(0.032)

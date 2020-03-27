@@ -1,5 +1,0 @@
-crafting(0.080)
-building(0.066)
-sanding(0.052)
-painting(0.042)
-constructing(0.039)

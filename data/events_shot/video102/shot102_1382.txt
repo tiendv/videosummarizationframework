@@ -1,5 +1,0 @@
-painting(0.070)
-frowning(0.054)
-blocking(0.032)
-adult+female+speaking(0.032)
-adult+male+speaking(0.031)

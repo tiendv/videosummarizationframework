@@ -1,5 +1,0 @@
-attacking(0.047)
-fueling(0.046)
-aiming(0.044)
-arresting(0.041)
-stealing(0.030)

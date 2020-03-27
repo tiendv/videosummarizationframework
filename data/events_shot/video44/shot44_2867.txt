@@ -1,5 +1,0 @@
-standing(0.088)
-sprinting(0.039)
-running(0.037)
-applauding(0.032)
-officiating(0.029)

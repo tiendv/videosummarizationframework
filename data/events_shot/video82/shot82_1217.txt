@@ -1,5 +1,0 @@
-fueling(0.029)
-cleaning(0.022)
-painting(0.022)
-building(0.020)
-loading(0.018)

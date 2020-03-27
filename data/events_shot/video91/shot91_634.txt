@@ -1,5 +1,0 @@
-telephoning(0.698)
-calling(0.228)
-adult+female+speaking(0.014)
-coughing(0.007)
-adult+male+speaking(0.004)

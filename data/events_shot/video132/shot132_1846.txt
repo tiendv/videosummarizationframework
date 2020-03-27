@@ -1,5 +1,0 @@
-mopping(0.288)
-stacking(0.063)
-pressing(0.062)
-cleaning(0.044)
-spinning(0.039)

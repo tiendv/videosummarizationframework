@@ -1,5 +1,0 @@
-roaring(0.171)
-telephoning(0.061)
-calling(0.046)
-adult+female+singing(0.028)
-singing(0.025)

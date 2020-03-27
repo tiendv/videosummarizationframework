@@ -1,5 +1,0 @@
-inflating(0.704)
-asking(0.057)
-adult+female+speaking(0.030)
-guarding(0.022)
-adult+male+speaking(0.016)

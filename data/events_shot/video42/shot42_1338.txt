@@ -1,5 +1,0 @@
-carrying(0.276)
-hugging(0.273)
-walking(0.082)
-filming(0.028)
-smelling(0.014)

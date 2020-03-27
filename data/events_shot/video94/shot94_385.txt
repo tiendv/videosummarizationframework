@@ -1,5 +1,0 @@
-sleeping(0.053)
-waking(0.037)
-painting(0.032)
-cracking(0.030)
-breaking(0.025)

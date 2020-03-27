@@ -1,5 +1,0 @@
-brushing(0.116)
-combing(0.106)
-tapping(0.061)
-opening(0.031)
-snapping(0.030)

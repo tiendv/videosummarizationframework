@@ -1,5 +1,0 @@
-adult+female+speaking(0.104)
-adult+male+speaking(0.060)
-adult+female+singing(0.046)
-asking(0.036)
-smiling(0.035)

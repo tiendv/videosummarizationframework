@@ -1,5 +1,0 @@
-boating(0.806)
-floating(0.104)
-fishing(0.025)
-punting(0.022)
-rowing(0.008)

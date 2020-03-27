@@ -1,5 +1,0 @@
-raising(0.202)
-launching(0.194)
-lifting(0.135)
-jumping(0.036)
-throwing(0.033)

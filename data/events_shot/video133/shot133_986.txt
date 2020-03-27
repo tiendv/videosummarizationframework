@@ -1,5 +1,0 @@
-dining(0.057)
-stealing(0.050)
-laughing(0.043)
-sitting(0.034)
-sneezing(0.033)

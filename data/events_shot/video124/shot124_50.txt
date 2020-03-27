@@ -1,5 +1,0 @@
-smoking(0.155)
-arresting(0.085)
-handcuffing(0.079)
-telephoning(0.062)
-asking(0.040)

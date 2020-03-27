@@ -1,5 +1,0 @@
-cleaning(0.141)
-gripping(0.051)
-sweeping(0.031)
-building(0.031)
-shoveling(0.027)

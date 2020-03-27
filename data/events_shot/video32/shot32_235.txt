@@ -1,5 +1,0 @@
-sleeping(0.105)
-digging(0.097)
-burying(0.087)
-scratching(0.033)
-waking(0.032)

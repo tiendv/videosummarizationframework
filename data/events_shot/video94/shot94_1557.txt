@@ -1,5 +1,0 @@
-painting(0.205)
-adult+male+speaking(0.136)
-drawing(0.036)
-coughing(0.030)
-playing+videogames(0.030)

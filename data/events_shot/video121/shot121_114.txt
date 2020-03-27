@@ -1,5 +1,0 @@
-squinting(0.060)
-sneezing(0.035)
-standing(0.034)
-adult+female+speaking(0.033)
-asking(0.027)

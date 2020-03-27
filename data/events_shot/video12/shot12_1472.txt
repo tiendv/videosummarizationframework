@@ -1,5 +1,0 @@
-dining(0.236)
-discussing(0.205)
-adult+male+speaking(0.095)
-sitting(0.047)
-adult+female+speaking(0.033)

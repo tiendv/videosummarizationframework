@@ -1,5 +1,0 @@
-climbing(0.286)
-hanging(0.045)
-dripping(0.025)
-smoking(0.024)
-sliding(0.024)

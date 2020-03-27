@@ -1,5 +1,0 @@
-adult+male+singing(0.093)
-driving(0.089)
-adult+female+singing(0.056)
-roaring(0.036)
-turning(0.035)

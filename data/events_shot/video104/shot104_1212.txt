@@ -1,5 +1,0 @@
-crying(0.540)
-raining(0.160)
-walking(0.036)
-carrying(0.030)
-falling(0.010)

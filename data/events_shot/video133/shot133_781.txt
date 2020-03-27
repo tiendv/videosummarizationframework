@@ -1,5 +1,0 @@
-frowning(0.438)
-crying(0.362)
-shrugging(0.021)
-squinting(0.011)
-winking(0.010)

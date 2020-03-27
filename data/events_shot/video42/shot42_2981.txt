@@ -1,5 +1,0 @@
-fueling(0.121)
-opening(0.050)
-stealing(0.043)
-closing(0.041)
-washing(0.040)

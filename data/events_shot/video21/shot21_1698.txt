@@ -1,5 +1,0 @@
-hugging(0.060)
-walking(0.040)
-arresting(0.030)
-raining(0.028)
-knocking(0.027)

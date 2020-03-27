@@ -1,5 +1,0 @@
-walking(0.041)
-slapping(0.041)
-queuing(0.038)
-adult+female+singing(0.036)
-shaking(0.035)

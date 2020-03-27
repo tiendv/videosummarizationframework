@@ -1,5 +1,0 @@
-paying(0.077)
-telephoning(0.060)
-measuring(0.047)
-calling(0.043)
-adult+male+speaking(0.038)

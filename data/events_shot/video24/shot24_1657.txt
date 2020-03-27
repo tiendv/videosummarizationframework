@@ -1,5 +1,0 @@
-walking(0.089)
-queuing(0.066)
-dancing(0.032)
-exiting(0.028)
-filming(0.027)

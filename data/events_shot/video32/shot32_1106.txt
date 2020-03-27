@@ -1,5 +1,0 @@
-eating(0.083)
-manicuring(0.061)
-cooking(0.043)
-tattooing(0.035)
-shopping(0.032)

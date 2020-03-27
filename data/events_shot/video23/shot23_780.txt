@@ -1,5 +1,0 @@
-sitting(0.080)
-swinging(0.047)
-mowing(0.038)
-fencing(0.032)
-stretching(0.018)

@@ -1,5 +1,0 @@
-stacking(0.109)
-blocking(0.091)
-building(0.030)
-punching(0.030)
-slapping(0.029)

@@ -1,5 +1,0 @@
-walking(0.146)
-stomping(0.142)
-standing(0.075)
-dancing(0.024)
-imitating(0.020)

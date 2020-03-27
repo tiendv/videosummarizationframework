@@ -1,5 +1,0 @@
-arresting(0.385)
-handcuffing(0.119)
-guarding(0.109)
-tattooing(0.078)
-protesting(0.029)

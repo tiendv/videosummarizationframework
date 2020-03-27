@@ -1,5 +1,0 @@
-kneeling(0.069)
-squatting(0.050)
-stretching(0.042)
-exercising(0.034)
-painting(0.026)

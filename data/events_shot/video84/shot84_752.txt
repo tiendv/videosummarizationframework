@@ -1,5 +1,0 @@
-painting(0.048)
-talking(0.045)
-mopping(0.041)
-dusting(0.033)
-brushing(0.031)

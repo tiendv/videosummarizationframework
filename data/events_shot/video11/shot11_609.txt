@@ -1,5 +1,0 @@
-building(0.420)
-hanging(0.068)
-constructing(0.031)
-cleaning(0.031)
-assembling(0.020)

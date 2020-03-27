@@ -1,5 +1,0 @@
-entering(0.098)
-exiting(0.065)
-walking(0.039)
-adult+male+speaking(0.030)
-playing+videogames(0.029)

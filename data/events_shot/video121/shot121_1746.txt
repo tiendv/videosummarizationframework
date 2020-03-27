@@ -1,5 +1,0 @@
-standing(0.059)
-adult+male+speaking(0.048)
-protesting(0.046)
-stirring(0.035)
-dining(0.033)

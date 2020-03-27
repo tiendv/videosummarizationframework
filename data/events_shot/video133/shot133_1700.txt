@@ -1,5 +1,0 @@
-drying(0.251)
-hanging(0.084)
-baking(0.032)
-brushing(0.027)
-drinking(0.027)

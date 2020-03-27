@@ -1,5 +1,0 @@
-carving(0.175)
-praying(0.077)
-sanding(0.059)
-bowing(0.050)
-kneeling(0.045)

@@ -1,5 +1,0 @@
-handcuffing(0.067)
-adult+male+speaking(0.048)
-adult+female+speaking(0.040)
-adult+female+singing(0.033)
-standing(0.029)

@@ -1,5 +1,0 @@
-chasing(0.126)
-attacking(0.044)
-hunting(0.030)
-running(0.029)
-filming(0.028)

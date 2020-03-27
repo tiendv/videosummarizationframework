@@ -1,5 +1,0 @@
-sneezing(0.727)
-coughing(0.242)
-laughing(0.002)
-sniffing(0.002)
-telephoning(0.002)

@@ -1,5 +1,0 @@
-crafting(0.070)
-talking(0.053)
-sitting(0.036)
-pointing(0.033)
-working(0.033)

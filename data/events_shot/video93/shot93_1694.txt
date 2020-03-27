@@ -1,5 +1,0 @@
-adult+male+speaking(0.066)
-working(0.044)
-calling(0.033)
-guarding(0.029)
-arresting(0.027)

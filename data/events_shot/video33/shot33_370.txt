@@ -1,5 +1,0 @@
-towing(0.585)
-unloading(0.064)
-pushing(0.061)
-loading(0.053)
-pulling(0.026)

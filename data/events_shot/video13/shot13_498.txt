@@ -1,5 +1,0 @@
-adult+female+speaking(0.175)
-chewing(0.162)
-squinting(0.043)
-talking(0.042)
-eating(0.035)

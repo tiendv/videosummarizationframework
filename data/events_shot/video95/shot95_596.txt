@@ -1,5 +1,0 @@
-queuing(0.388)
-sitting(0.040)
-driving(0.029)
-piloting(0.027)
-discussing(0.027)

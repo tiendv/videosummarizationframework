@@ -1,5 +1,0 @@
-standing(0.037)
-hanging(0.032)
-sitting(0.028)
-talking(0.028)
-officiating(0.028)

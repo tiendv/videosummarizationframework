@@ -1,5 +1,0 @@
-crying(0.095)
-telephoning(0.036)
-packing(0.027)
-inflating(0.027)
-calling(0.025)

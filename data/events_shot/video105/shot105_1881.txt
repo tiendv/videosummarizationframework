@@ -1,5 +1,0 @@
-adult+male+speaking(0.067)
-laughing(0.048)
-coughing(0.041)
-adult+female+speaking(0.039)
-smoking(0.039)

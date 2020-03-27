@@ -1,5 +1,0 @@
-guarding(0.139)
-kicking(0.054)
-punching(0.043)
-boxing(0.033)
-dancing(0.029)

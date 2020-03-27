@@ -1,5 +1,0 @@
-raining(0.069)
-storming(0.054)
-walking(0.050)
-sneezing(0.039)
-coughing(0.033)

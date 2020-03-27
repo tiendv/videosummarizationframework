@@ -1,5 +1,0 @@
-telephoning(0.265)
-inflating(0.124)
-calling(0.074)
-packing(0.053)
-adult+female+speaking(0.043)

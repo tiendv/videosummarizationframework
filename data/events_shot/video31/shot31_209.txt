@@ -1,5 +1,0 @@
-packing(0.077)
-unpacking(0.060)
-shopping(0.044)
-drying(0.042)
-picking(0.040)

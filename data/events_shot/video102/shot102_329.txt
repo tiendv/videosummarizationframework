@@ -1,5 +1,0 @@
-applauding(0.037)
-standing(0.034)
-smiling(0.026)
-hugging(0.026)
-discussing(0.026)

@@ -1,5 +1,0 @@
-turning(0.047)
-waking(0.043)
-slapping(0.031)
-crying(0.030)
-sleeping(0.027)

@@ -1,5 +1,0 @@
-sitting(0.050)
-playing+music(0.025)
-drumming(0.022)
-snowing(0.021)
-riding(0.021)

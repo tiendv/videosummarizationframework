@@ -1,5 +1,0 @@
-hunting(0.100)
-sitting(0.044)
-adult+male+speaking(0.042)
-discussing(0.039)
-roaring(0.032)

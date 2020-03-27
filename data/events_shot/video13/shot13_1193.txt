@@ -1,5 +1,0 @@
-smiling(0.268)
-saluting(0.183)
-waving(0.151)
-guarding(0.090)
-grinning(0.046)

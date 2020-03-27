@@ -1,5 +1,0 @@
-reading(0.234)
-opening(0.048)
-adult+male+speaking(0.036)
-writing(0.025)
-closing(0.024)

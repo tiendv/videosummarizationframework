@@ -1,5 +1,0 @@
-throwing(0.195)
-running(0.085)
-walking(0.034)
-hugging(0.033)
-knocking(0.018)

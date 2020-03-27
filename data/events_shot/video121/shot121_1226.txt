@@ -1,5 +1,0 @@
-punching(0.124)
-singing(0.048)
-walking(0.044)
-knocking(0.042)
-standing(0.041)

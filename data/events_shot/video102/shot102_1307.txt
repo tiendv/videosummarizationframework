@@ -1,5 +1,0 @@
-dining(0.122)
-smiling(0.058)
-slapping(0.047)
-hugging(0.046)
-asking(0.043)

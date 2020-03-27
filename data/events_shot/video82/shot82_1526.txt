@@ -1,5 +1,0 @@
-shopping(0.138)
-selling(0.123)
-walking(0.042)
-adult+male+speaking(0.042)
-stealing(0.037)

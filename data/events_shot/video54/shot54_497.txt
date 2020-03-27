@@ -1,5 +1,0 @@
-queuing(0.097)
-bowing(0.071)
-hugging(0.067)
-praying(0.050)
-adult+male+speaking(0.034)

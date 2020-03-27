@@ -1,5 +1,0 @@
-cleaning(0.227)
-washing(0.084)
-drying(0.070)
-rinsing(0.039)
-scrubbing(0.030)

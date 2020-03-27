@@ -1,5 +1,0 @@
-queuing(0.132)
-adult+male+speaking(0.106)
-discussing(0.047)
-sitting(0.036)
-praying(0.033)

@@ -1,5 +1,0 @@
-boating(0.090)
-fueling(0.087)
-drying(0.034)
-floating(0.027)
-cleaning(0.026)

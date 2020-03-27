@@ -1,5 +1,0 @@
-adult+male+singing(0.184)
-laughing(0.063)
-resting(0.054)
-sleeping(0.048)
-adult+female+singing(0.027)

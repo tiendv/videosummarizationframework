@@ -1,5 +1,0 @@
-adult+female+speaking(0.078)
-coughing(0.037)
-smoking(0.035)
-knocking(0.029)
-talking(0.028)

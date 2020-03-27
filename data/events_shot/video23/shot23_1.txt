@@ -1,5 +1,0 @@
-ascending(0.074)
-flipping(0.066)
-pointing(0.062)
-running(0.055)
-aiming(0.049)

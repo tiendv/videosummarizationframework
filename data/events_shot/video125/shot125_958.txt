@@ -1,5 +1,0 @@
-running(0.078)
-cooking(0.038)
-baking(0.026)
-walking(0.023)
-cleaning(0.018)

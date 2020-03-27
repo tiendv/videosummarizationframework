@@ -1,5 +1,0 @@
-crafting(0.347)
-cutting(0.134)
-painting(0.080)
-peeling(0.037)
-carving(0.031)

@@ -1,5 +1,0 @@
-queuing(0.319)
-arresting(0.040)
-slapping(0.039)
-punching(0.028)
-filming(0.026)

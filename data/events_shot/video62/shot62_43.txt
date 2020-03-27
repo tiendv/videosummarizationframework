@@ -1,5 +1,0 @@
-opening(0.159)
-closing(0.119)
-adult+male+speaking(0.032)
-sliding(0.030)
-entering(0.027)

@@ -1,5 +1,0 @@
-walking(0.329)
-standing(0.074)
-adult+male+speaking(0.055)
-playing+videogames(0.052)
-guarding(0.045)

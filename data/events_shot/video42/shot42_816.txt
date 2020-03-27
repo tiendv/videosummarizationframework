@@ -1,5 +1,0 @@
-crying(0.765)
-removing(0.093)
-peeling(0.027)
-sneezing(0.009)
-frowning(0.008)

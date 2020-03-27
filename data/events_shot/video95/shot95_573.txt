@@ -1,5 +1,0 @@
-studying(0.085)
-reading(0.060)
-adult+male+speaking(0.053)
-pointing(0.045)
-laughing(0.034)

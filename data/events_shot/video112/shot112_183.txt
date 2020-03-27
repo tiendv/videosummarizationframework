@@ -1,5 +1,0 @@
-drinking(0.061)
-eating(0.042)
-adult+male+singing(0.039)
-chewing(0.036)
-sitting(0.034)

@@ -1,5 +1,0 @@
-bowing(0.129)
-adult+female+speaking(0.063)
-sneezing(0.058)
-adult+female+singing(0.035)
-starting(0.030)

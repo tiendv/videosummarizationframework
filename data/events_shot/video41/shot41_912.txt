@@ -1,5 +1,0 @@
-shaving(0.143)
-sneezing(0.125)
-eating(0.050)
-coughing(0.038)
-drinking(0.029)

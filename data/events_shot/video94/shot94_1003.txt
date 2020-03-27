@@ -1,5 +1,0 @@
-adult+male+speaking(0.085)
-saluting(0.055)
-whistling(0.050)
-standing(0.037)
-guarding(0.033)

@@ -1,5 +1,0 @@
-dropping(0.065)
-mopping(0.038)
-raining(0.027)
-cleaning(0.019)
-loading(0.017)

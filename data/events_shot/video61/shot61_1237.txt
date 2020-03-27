@@ -1,5 +1,0 @@
-shopping(0.082)
-adult+female+speaking(0.051)
-queuing(0.044)
-slapping(0.044)
-walking(0.044)

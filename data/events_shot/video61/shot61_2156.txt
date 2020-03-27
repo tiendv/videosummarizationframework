@@ -1,5 +1,0 @@
-hugging(0.121)
-adult+male+speaking(0.086)
-talking(0.080)
-discussing(0.073)
-tattooing(0.050)

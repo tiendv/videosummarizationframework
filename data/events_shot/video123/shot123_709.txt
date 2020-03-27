@@ -1,5 +1,0 @@
-walking(0.078)
-adult+male+speaking(0.055)
-adult+female+speaking(0.043)
-exiting(0.040)
-handcuffing(0.026)

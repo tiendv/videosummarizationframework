@@ -1,5 +1,0 @@
-preaching(0.042)
-adult+male+speaking(0.034)
-hanging(0.021)
-standing(0.020)
-adult+female+speaking(0.015)

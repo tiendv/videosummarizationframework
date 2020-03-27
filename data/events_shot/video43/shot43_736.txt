@@ -1,5 +1,0 @@
-hugging(0.132)
-drinking(0.038)
-adult+male+speaking(0.034)
-walking(0.028)
-sneezing(0.027)

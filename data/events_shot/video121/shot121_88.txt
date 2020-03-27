@@ -1,5 +1,0 @@
-trimming(0.111)
-fencing(0.077)
-mowing(0.072)
-clipping(0.032)
-cleaning(0.025)

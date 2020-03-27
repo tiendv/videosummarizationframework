@@ -1,5 +1,0 @@
-dancing(0.161)
-standing(0.050)
-tapping(0.048)
-walking(0.036)
-clapping(0.033)

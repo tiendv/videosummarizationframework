@@ -1,5 +1,0 @@
-cooking(0.146)
-stirring(0.048)
-baking(0.036)
-coaching(0.033)
-tying(0.025)

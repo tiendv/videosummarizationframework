@@ -1,5 +1,0 @@
-packing(0.290)
-unpacking(0.120)
-asking(0.047)
-handcuffing(0.044)
-adult+male+speaking(0.041)

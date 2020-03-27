@@ -1,5 +1,0 @@
-throwing(0.045)
-flicking(0.039)
-standing(0.039)
-laughing(0.022)
-adult+female+singing(0.021)

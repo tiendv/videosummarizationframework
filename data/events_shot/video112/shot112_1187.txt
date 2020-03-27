@@ -1,5 +1,0 @@
-hunting(0.134)
-shooting(0.053)
-barking(0.047)
-attacking(0.046)
-aiming(0.031)

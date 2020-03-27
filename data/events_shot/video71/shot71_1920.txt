@@ -1,5 +1,0 @@
-drying(0.159)
-selling(0.068)
-queuing(0.059)
-shopping(0.049)
-brushing(0.045)

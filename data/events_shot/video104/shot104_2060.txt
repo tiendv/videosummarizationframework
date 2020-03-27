@@ -1,5 +1,0 @@
-drawing(0.129)
-adult+female+singing(0.116)
-adult+female+speaking(0.077)
-adult+male+singing(0.066)
-tattooing(0.046)

@@ -1,5 +1,0 @@
-hugging(0.133)
-adult+male+speaking(0.038)
-frowning(0.036)
-turning(0.024)
-aiming(0.023)

@@ -1,5 +1,0 @@
-standing(0.106)
-walking(0.081)
-smiling(0.040)
-filming(0.035)
-laughing(0.034)

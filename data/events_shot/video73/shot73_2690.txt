@@ -1,5 +1,0 @@
-dressing(0.055)
-walking(0.052)
-hugging(0.046)
-exiting(0.035)
-opening(0.031)

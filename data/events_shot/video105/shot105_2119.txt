@@ -1,5 +1,0 @@
-walking(0.381)
-raining(0.041)
-calling(0.041)
-carrying(0.026)
-standing(0.023)

@@ -1,5 +1,0 @@
-cooking(0.213)
-drying(0.085)
-baking(0.047)
-adult+male+speaking(0.022)
-stirring(0.017)

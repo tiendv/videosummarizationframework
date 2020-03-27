@@ -1,5 +1,0 @@
-standing(0.048)
-sitting(0.038)
-squatting(0.037)
-adult+male+speaking(0.030)
-drinking(0.030)

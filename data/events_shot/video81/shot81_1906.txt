@@ -1,5 +1,0 @@
-pouring(0.029)
-putting(0.029)
-placing(0.026)
-falling(0.024)
-dropping(0.021)

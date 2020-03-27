@@ -1,5 +1,0 @@
-painting(0.523)
-drawing(0.049)
-building(0.046)
-sketching(0.028)
-assembling(0.017)

@@ -1,5 +1,0 @@
-frowning(0.202)
-interviewing(0.123)
-squinting(0.069)
-winking(0.058)
-talking(0.047)

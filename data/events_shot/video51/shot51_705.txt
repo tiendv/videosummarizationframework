@@ -1,5 +1,0 @@
-sitting(0.064)
-adult+female+speaking(0.044)
-laughing(0.039)
-child+singing(0.027)
-kneeling(0.027)

@@ -1,5 +1,0 @@
-drinking(0.330)
-pointing(0.059)
-aiming(0.045)
-fighting(0.036)
-shooting(0.033)

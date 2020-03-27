@@ -1,5 +1,0 @@
-dressing(0.156)
-walking(0.119)
-buttoning(0.036)
-standing(0.031)
-shopping(0.029)

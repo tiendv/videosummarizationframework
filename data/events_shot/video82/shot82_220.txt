@@ -1,5 +1,0 @@
-towing(0.245)
-fueling(0.085)
-driving(0.045)
-steering(0.044)
-boating(0.039)

@@ -1,5 +1,0 @@
-brushing(0.156)
-eating(0.082)
-shaving(0.056)
-painting(0.050)
-chewing(0.048)

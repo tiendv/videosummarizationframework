@@ -1,5 +1,0 @@
-asking(0.172)
-adult+male+speaking(0.055)
-stealing(0.047)
-arresting(0.036)
-walking(0.029)

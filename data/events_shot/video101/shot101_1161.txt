@@ -1,5 +1,0 @@
-waking(0.037)
-cracking(0.034)
-steering(0.030)
-sleeping(0.029)
-adult+male+speaking(0.024)

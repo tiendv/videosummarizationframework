@@ -1,5 +1,0 @@
-whistling(0.152)
-singing(0.057)
-child+singing(0.042)
-officiating(0.040)
-telephoning(0.038)

@@ -1,5 +1,0 @@
-smiling(0.080)
-adult+male+speaking(0.063)
-playing+videogames(0.041)
-talking(0.035)
-filming(0.025)

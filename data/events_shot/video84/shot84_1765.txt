@@ -1,5 +1,0 @@
-telephoning(0.547)
-calling(0.339)
-crying(0.008)
-coughing(0.004)
-carrying(0.004)

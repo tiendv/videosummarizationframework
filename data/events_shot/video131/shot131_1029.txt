@@ -1,5 +1,0 @@
-walking(0.152)
-mowing(0.065)
-riding(0.058)
-bicycling(0.056)
-vacuuming(0.042)

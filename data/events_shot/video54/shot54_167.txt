@@ -1,5 +1,0 @@
-crying(0.090)
-shaving(0.088)
-kissing(0.084)
-adult+male+speaking(0.035)
-telephoning(0.026)

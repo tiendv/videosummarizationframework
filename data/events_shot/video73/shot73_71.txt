@@ -1,5 +1,0 @@
-spraying(0.085)
-painting(0.079)
-aiming(0.032)
-cleaning(0.025)
-shooting(0.018)

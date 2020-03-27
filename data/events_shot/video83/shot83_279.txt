@@ -1,5 +1,0 @@
-drinking(0.110)
-standing(0.045)
-filming(0.036)
-asking(0.034)
-walking(0.032)

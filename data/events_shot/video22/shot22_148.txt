@@ -1,5 +1,0 @@
-walking(0.131)
-raining(0.087)
-carrying(0.057)
-snowing(0.021)
-exiting(0.020)

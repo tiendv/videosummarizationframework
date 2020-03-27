@@ -1,5 +1,0 @@
-crafting(0.295)
-talking(0.066)
-playing(0.046)
-selling(0.031)
-playing+videogames(0.025)

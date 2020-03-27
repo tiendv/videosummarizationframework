@@ -1,5 +1,0 @@
-kissing(0.099)
-marrying(0.070)
-adult+female+speaking(0.059)
-adult+male+speaking(0.038)
-bowing(0.038)

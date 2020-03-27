@@ -1,5 +1,0 @@
-inflating(0.197)
-adult+female+singing(0.060)
-adult+male+singing(0.033)
-standing(0.019)
-tattooing(0.015)

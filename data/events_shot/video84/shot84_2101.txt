@@ -1,5 +1,0 @@
-signing(0.216)
-snapping(0.049)
-standing(0.023)
-clapping(0.021)
-adult+male+speaking(0.020)

@@ -1,5 +1,0 @@
-opening(0.041)
-adult+female+speaking(0.036)
-standing(0.032)
-hugging(0.028)
-adult+female+singing(0.028)

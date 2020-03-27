@@ -1,5 +1,0 @@
-talking(0.229)
-sitting(0.061)
-discussing(0.055)
-interviewing(0.051)
-child+speaking(0.036)

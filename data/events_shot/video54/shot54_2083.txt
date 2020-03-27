@@ -1,5 +1,0 @@
-roaring(0.157)
-adult+female+singing(0.116)
-bowing(0.073)
-squatting(0.042)
-praying(0.038)

@@ -1,5 +1,0 @@
-gardening(0.257)
-planting(0.100)
-sowing(0.092)
-mowing(0.055)
-starting(0.036)

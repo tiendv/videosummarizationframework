@@ -1,5 +1,0 @@
-raining(0.039)
-roaring(0.030)
-rising(0.024)
-hanging(0.023)
-adult+female+singing(0.023)

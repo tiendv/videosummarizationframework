@@ -1,5 +1,0 @@
-adult+male+speaking(0.084)
-dusting(0.025)
-removing(0.023)
-knocking(0.022)
-sneezing(0.021)

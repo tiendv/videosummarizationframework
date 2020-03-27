@@ -1,5 +1,0 @@
-child+speaking(0.065)
-fighting(0.027)
-laughing(0.025)
-child+singing(0.025)
-adult+male+speaking(0.022)

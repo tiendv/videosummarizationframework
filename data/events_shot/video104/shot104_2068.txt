@@ -1,5 +1,0 @@
-spinning(0.530)
-turning(0.085)
-mopping(0.023)
-cleaning(0.022)
-talking(0.010)

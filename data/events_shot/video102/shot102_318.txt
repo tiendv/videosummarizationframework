@@ -1,5 +1,0 @@
-waving(0.259)
-pointing(0.082)
-saluting(0.049)
-smiling(0.025)
-standing(0.018)

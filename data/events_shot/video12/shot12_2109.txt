@@ -1,5 +1,0 @@
-drying(0.036)
-adult+male+speaking(0.025)
-cooking(0.023)
-standing(0.022)
-adult+female+speaking(0.020)

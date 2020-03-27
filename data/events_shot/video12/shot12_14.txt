@@ -1,5 +1,0 @@
-entering(0.062)
-walking(0.039)
-fencing(0.033)
-laughing(0.030)
-exiting(0.029)

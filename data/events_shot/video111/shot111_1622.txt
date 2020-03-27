@@ -1,5 +1,0 @@
-hugging(0.113)
-walking(0.099)
-standing(0.053)
-shopping(0.044)
-carrying(0.036)

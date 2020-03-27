@@ -1,5 +1,0 @@
-vacuuming(0.174)
-cleaning(0.028)
-walking(0.026)
-pulling(0.019)
-sleeping(0.014)

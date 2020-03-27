@@ -1,5 +1,0 @@
-hugging(0.254)
-cuddling(0.146)
-adult+male+speaking(0.036)
-queuing(0.029)
-photographing(0.029)

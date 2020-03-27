@@ -1,5 +1,0 @@
-crying(0.047)
-locking(0.046)
-adult+female+speaking(0.040)
-adult+male+speaking(0.028)
-knocking(0.023)

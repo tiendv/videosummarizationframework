@@ -1,5 +1,0 @@
-adult+male+speaking(0.178)
-coaching(0.157)
-discussing(0.146)
-talking(0.058)
-socializing(0.021)

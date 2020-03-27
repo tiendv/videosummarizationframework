@@ -1,5 +1,0 @@
-hugging(0.121)
-hiking(0.092)
-adult+female+speaking(0.057)
-cuddling(0.057)
-camping(0.040)

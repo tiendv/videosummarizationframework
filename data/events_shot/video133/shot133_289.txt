@@ -1,5 +1,0 @@
-dressing(0.164)
-buttoning(0.086)
-adult+female+speaking(0.056)
-measuring(0.055)
-tying(0.050)

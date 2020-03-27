@@ -1,5 +1,0 @@
-standing(0.152)
-adult+male+speaking(0.141)
-officiating(0.045)
-talking(0.045)
-guarding(0.043)

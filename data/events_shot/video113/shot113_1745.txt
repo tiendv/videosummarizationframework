@@ -1,5 +1,0 @@
-arresting(0.058)
-handcuffing(0.037)
-driving(0.036)
-smiling(0.030)
-calling(0.028)

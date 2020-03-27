@@ -1,5 +1,0 @@
-talking(0.047)
-closing(0.046)
-opening(0.042)
-discussing(0.042)
-frowning(0.042)

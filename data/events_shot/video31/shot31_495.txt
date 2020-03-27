@@ -1,5 +1,0 @@
-teaching(0.094)
-adult+female+speaking(0.072)
-interviewing(0.058)
-asking(0.050)
-sitting(0.041)

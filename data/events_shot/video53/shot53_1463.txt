@@ -1,5 +1,0 @@
-mowing(0.145)
-laughing(0.064)
-jogging(0.052)
-walking(0.038)
-adult+male+speaking(0.033)

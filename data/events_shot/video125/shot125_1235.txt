@@ -1,5 +1,0 @@
-eating(0.108)
-adult+female+speaking(0.063)
-laughing(0.048)
-coughing(0.045)
-chewing(0.039)

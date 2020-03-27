@@ -1,5 +1,0 @@
-yawning(0.880)
-coughing(0.020)
-sneezing(0.015)
-adult+male+singing(0.013)
-roaring(0.009)

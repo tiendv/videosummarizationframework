@@ -1,5 +1,0 @@
-piloting(0.154)
-storming(0.105)
-raining(0.049)
-flying(0.046)
-landing(0.028)

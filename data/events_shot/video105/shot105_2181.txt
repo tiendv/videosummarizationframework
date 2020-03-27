@@ -1,5 +1,0 @@
-landing(0.906)
-piloting(0.050)
-launching(0.010)
-flying(0.009)
-ascending(0.005)

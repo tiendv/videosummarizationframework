@@ -1,5 +1,0 @@
-bowling(0.386)
-talking(0.039)
-baking(0.039)
-standing(0.027)
-adult+female+speaking(0.024)

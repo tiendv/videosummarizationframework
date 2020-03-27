@@ -1,5 +1,0 @@
-bowing(0.069)
-adult+male+speaking(0.060)
-sneezing(0.047)
-shaving(0.043)
-drinking(0.036)

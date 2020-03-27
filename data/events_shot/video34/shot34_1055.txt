@@ -1,5 +1,0 @@
-child+singing(0.715)
-child+speaking(0.218)
-singing(0.016)
-crying(0.006)
-imitating(0.004)

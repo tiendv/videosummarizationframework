@@ -1,5 +1,0 @@
-hugging(0.049)
-talking(0.043)
-coughing(0.036)
-asking(0.027)
-laughing(0.024)

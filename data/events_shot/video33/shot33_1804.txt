@@ -1,5 +1,0 @@
-hammering(0.071)
-cracking(0.052)
-slapping(0.027)
-coughing(0.026)
-adult+male+speaking(0.023)

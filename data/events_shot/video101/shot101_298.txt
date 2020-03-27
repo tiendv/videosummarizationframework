@@ -1,5 +1,0 @@
-clawing(0.419)
-opening(0.123)
-closing(0.081)
-exiting(0.036)
-sliding(0.019)

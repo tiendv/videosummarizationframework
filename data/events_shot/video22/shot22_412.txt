@@ -1,5 +1,0 @@
-stacking(0.125)
-drinking(0.027)
-laughing(0.025)
-stealing(0.021)
-shopping(0.019)

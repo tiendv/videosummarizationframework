@@ -1,5 +1,0 @@
-sitting(0.064)
-fencing(0.062)
-squinting(0.051)
-smiling(0.043)
-resting(0.036)

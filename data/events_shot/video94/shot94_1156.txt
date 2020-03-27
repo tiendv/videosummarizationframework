@@ -1,5 +1,0 @@
-whistling(0.044)
-aiming(0.038)
-talking(0.032)
-smoking(0.031)
-frowning(0.030)

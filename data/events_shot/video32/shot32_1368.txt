@@ -1,5 +1,0 @@
-fencing(0.963)
-snowing(0.006)
-raining(0.002)
-feeding(0.001)
-building(0.001)

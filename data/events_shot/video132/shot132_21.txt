@@ -1,5 +1,0 @@
-spinning(0.883)
-turning(0.021)
-playing(0.007)
-steering(0.005)
-starting(0.004)

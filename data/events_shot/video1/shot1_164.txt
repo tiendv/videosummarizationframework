@@ -1,5 +1,0 @@
-crafting(0.099)
-painting(0.072)
-cooking(0.052)
-dining(0.038)
-drawing(0.031)

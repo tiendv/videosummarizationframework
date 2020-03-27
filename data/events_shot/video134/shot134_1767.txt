@@ -1,5 +1,0 @@
-walking(0.033)
-hitchhiking(0.026)
-standing(0.024)
-guarding(0.021)
-talking(0.020)

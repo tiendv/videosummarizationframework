@@ -1,5 +1,0 @@
-sliding(0.097)
-locking(0.053)
-falling(0.049)
-gripping(0.045)
-pulling(0.041)

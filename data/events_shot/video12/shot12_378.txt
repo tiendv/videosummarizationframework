@@ -1,5 +1,0 @@
-standing(0.045)
-gambling(0.033)
-dropping(0.032)
-talking(0.031)
-adult+male+speaking(0.025)

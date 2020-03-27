@@ -1,5 +1,0 @@
-hugging(0.263)
-adult+female+singing(0.032)
-walking(0.029)
-sneezing(0.024)
-kissing(0.018)

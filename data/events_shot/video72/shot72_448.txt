@@ -1,5 +1,0 @@
-telephoning(0.096)
-wrapping(0.068)
-unpacking(0.058)
-packing(0.054)
-calling(0.035)

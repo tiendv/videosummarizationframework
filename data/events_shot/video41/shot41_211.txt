@@ -1,5 +1,0 @@
-sitting(0.216)
-hugging(0.048)
-adult+male+speaking(0.044)
-laughing(0.027)
-squatting(0.023)

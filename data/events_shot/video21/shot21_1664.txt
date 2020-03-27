@@ -1,5 +1,0 @@
-driving(0.305)
-steering(0.145)
-riding(0.097)
-bicycling(0.029)
-blocking(0.021)

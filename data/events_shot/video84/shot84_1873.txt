@@ -1,5 +1,0 @@
-hanging(0.253)
-spinning(0.050)
-cleaning(0.043)
-turning(0.040)
-building(0.033)

@@ -1,5 +1,0 @@
-aiming(0.126)
-hunting(0.043)
-squatting(0.041)
-shooting(0.036)
-crouching(0.029)

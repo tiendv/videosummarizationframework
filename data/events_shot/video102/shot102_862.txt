@@ -1,5 +1,0 @@
-marrying(0.130)
-adult+female+speaking(0.108)
-preaching(0.060)
-standing(0.058)
-adult+male+speaking(0.053)

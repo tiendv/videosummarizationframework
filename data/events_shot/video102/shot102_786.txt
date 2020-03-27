@@ -1,5 +1,0 @@
-starting(0.063)
-standing(0.046)
-adult+male+speaking(0.026)
-knocking(0.025)
-stretching(0.020)

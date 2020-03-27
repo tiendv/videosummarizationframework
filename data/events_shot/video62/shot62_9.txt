@@ -1,5 +1,0 @@
-calling(0.050)
-telephoning(0.042)
-adult+male+speaking(0.033)
-walking(0.027)
-hugging(0.026)

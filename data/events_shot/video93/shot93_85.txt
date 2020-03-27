@@ -1,5 +1,0 @@
-shopping(0.328)
-buying(0.080)
-selling(0.080)
-autographing(0.046)
-paying(0.030)

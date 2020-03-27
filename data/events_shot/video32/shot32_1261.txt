@@ -1,5 +1,0 @@
-sniffing(0.157)
-coughing(0.142)
-sneezing(0.121)
-smelling(0.121)
-child+speaking(0.009)

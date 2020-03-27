@@ -1,5 +1,0 @@
-standing(0.041)
-dusting(0.030)
-dressing(0.029)
-baking(0.027)
-cooking(0.026)

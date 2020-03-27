@@ -1,5 +1,0 @@
-stacking(0.925)
-throwing(0.025)
-flipping(0.013)
-inflating(0.005)
-flicking(0.003)

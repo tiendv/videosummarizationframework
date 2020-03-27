@@ -1,5 +1,0 @@
-cracking(0.029)
-walking(0.029)
-standing(0.019)
-attacking(0.017)
-hugging(0.017)

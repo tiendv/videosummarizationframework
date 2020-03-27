@@ -1,5 +1,0 @@
-spinning(0.303)
-turning(0.176)
-walking(0.085)
-running(0.050)
-crying(0.015)

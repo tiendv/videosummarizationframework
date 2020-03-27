@@ -1,5 +1,0 @@
-exiting(0.179)
-arresting(0.156)
-boarding(0.082)
-closing(0.067)
-opening(0.052)

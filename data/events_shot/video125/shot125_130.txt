@@ -1,5 +1,0 @@
-adult+male+speaking(0.123)
-gambling(0.096)
-laughing(0.086)
-drinking(0.085)
-preaching(0.036)

@@ -1,5 +1,0 @@
-reading(0.152)
-adult+male+speaking(0.088)
-lecturing(0.054)
-signing(0.037)
-discussing(0.032)

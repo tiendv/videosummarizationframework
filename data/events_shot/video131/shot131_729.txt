@@ -1,5 +1,0 @@
-guarding(0.075)
-standing(0.062)
-entering(0.046)
-talking(0.037)
-discussing(0.033)

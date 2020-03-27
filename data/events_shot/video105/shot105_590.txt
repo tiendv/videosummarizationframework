@@ -1,5 +1,0 @@
-sitting(0.041)
-talking(0.030)
-walking(0.027)
-shrugging(0.026)
-starting(0.026)

@@ -1,5 +1,0 @@
-cooking(0.303)
-baking(0.116)
-stirring(0.033)
-packaging(0.033)
-packing(0.032)

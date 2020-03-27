@@ -1,5 +1,0 @@
-stomping(0.188)
-climbing(0.102)
-standing(0.081)
-fighting(0.048)
-rising(0.039)

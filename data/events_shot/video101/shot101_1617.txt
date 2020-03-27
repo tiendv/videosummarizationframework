@@ -1,5 +1,0 @@
-standing(0.112)
-walking(0.040)
-guarding(0.040)
-laughing(0.040)
-rocking(0.031)

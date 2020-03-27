@@ -1,5 +1,0 @@
-dragging(0.222)
-starting(0.091)
-pulling(0.082)
-steering(0.068)
-pressing(0.043)

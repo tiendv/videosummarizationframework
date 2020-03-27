@@ -1,5 +1,0 @@
-shrugging(0.418)
-walking(0.064)
-standing(0.047)
-punching(0.040)
-knocking(0.024)

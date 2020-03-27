@@ -1,5 +1,0 @@
-arresting(0.409)
-guarding(0.110)
-handcuffing(0.058)
-walking(0.047)
-locking(0.039)

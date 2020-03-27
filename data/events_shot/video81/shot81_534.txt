@@ -1,5 +1,0 @@
-starting(0.044)
-hunting(0.036)
-standing(0.031)
-pointing(0.027)
-talking(0.026)

@@ -1,5 +1,0 @@
-washing(0.047)
-knocking(0.046)
-adult+female+singing(0.045)
-bathing(0.042)
-slapping(0.041)

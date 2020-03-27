@@ -1,5 +1,0 @@
-squatting(0.248)
-shrugging(0.056)
-gripping(0.044)
-pulling(0.040)
-punching(0.027)

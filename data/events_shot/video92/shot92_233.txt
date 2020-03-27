@@ -1,5 +1,0 @@
-calling(0.201)
-telephoning(0.186)
-smiling(0.058)
-winking(0.046)
-leaning(0.021)

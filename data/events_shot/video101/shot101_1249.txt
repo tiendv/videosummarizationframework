@@ -1,5 +1,0 @@
-gripping(0.116)
-building(0.041)
-repairing(0.031)
-cleaning(0.027)
-loading(0.027)

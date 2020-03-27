@@ -1,5 +1,0 @@
-smiling(0.102)
-adult+male+speaking(0.059)
-laughing(0.053)
-talking(0.044)
-filming(0.040)

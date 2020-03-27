@@ -1,5 +1,0 @@
-shopping(0.037)
-walking(0.025)
-squatting(0.021)
-asking(0.020)
-stealing(0.020)

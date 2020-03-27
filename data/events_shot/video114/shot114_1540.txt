@@ -1,5 +1,0 @@
-adult+female+speaking(0.124)
-sitting(0.057)
-reading(0.037)
-painting(0.027)
-teaching(0.025)

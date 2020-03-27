@@ -1,5 +1,0 @@
-drinking(0.101)
-laughing(0.093)
-sneezing(0.079)
-coughing(0.047)
-mopping(0.029)

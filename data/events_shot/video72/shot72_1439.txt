@@ -1,5 +1,0 @@
-slapping(0.126)
-coughing(0.026)
-talking(0.025)
-discussing(0.021)
-adult+female+speaking(0.020)

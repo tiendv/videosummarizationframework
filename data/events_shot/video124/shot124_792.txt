@@ -1,5 +1,0 @@
-brushing(0.055)
-shaving(0.043)
-adult+female+singing(0.040)
-slapping(0.031)
-chewing(0.030)

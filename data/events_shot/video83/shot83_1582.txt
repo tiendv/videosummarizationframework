@@ -1,5 +1,0 @@
-handcuffing(0.323)
-gripping(0.126)
-locking(0.104)
-opening(0.022)
-tying(0.021)

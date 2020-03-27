@@ -1,5 +1,0 @@
-walking(0.122)
-crying(0.041)
-smiling(0.033)
-shrugging(0.033)
-talking(0.031)

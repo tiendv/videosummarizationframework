@@ -1,5 +1,0 @@
-sleeping(0.059)
-slapping(0.059)
-coughing(0.050)
-waking(0.029)
-punching(0.027)

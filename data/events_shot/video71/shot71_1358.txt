@@ -1,5 +1,0 @@
-frowning(0.280)
-crying(0.182)
-shrugging(0.073)
-arresting(0.031)
-carrying(0.026)

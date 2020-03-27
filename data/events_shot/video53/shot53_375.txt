@@ -1,5 +1,0 @@
-queuing(0.167)
-shopping(0.134)
-selling(0.131)
-paying(0.069)
-buying(0.066)

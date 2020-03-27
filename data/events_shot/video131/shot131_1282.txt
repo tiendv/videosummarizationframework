@@ -1,5 +1,0 @@
-officiating(0.091)
-adult+female+speaking(0.072)
-adult+male+speaking(0.068)
-standing(0.045)
-adult+female+singing(0.032)

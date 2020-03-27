@@ -1,5 +1,0 @@
-crying(0.116)
-frowning(0.086)
-adult+female+speaking(0.031)
-removing(0.029)
-dressing(0.020)

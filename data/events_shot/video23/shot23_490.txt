@@ -1,5 +1,0 @@
-hanging(0.045)
-adult+male+speaking(0.029)
-squatting(0.021)
-lifting(0.019)
-gripping(0.018)

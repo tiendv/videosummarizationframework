@@ -1,5 +1,0 @@
-hugging(0.090)
-adult+female+speaking(0.049)
-discussing(0.037)
-walking(0.033)
-sneezing(0.031)

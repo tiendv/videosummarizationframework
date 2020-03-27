@@ -1,5 +1,0 @@
-blocking(0.080)
-crafting(0.042)
-painting(0.031)
-destroying(0.030)
-assembling(0.023)

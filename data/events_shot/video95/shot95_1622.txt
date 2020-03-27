@@ -1,5 +1,0 @@
-adult+female+singing(0.231)
-bouncing(0.141)
-walking(0.047)
-jogging(0.040)
-running(0.028)

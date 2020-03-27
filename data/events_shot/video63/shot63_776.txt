@@ -1,5 +1,0 @@
-shrugging(0.155)
-smiling(0.140)
-walking(0.105)
-hugging(0.056)
-pointing(0.040)

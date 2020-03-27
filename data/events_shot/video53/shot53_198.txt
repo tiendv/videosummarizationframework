@@ -1,5 +1,0 @@
-turning(0.057)
-adult+male+singing(0.055)
-talking(0.047)
-crying(0.046)
-walking(0.039)

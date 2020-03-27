@@ -1,5 +1,0 @@
-spinning(0.239)
-turning(0.083)
-raining(0.023)
-driving(0.016)
-running(0.015)

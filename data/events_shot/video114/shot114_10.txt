@@ -1,5 +1,0 @@
-filming(0.050)
-walking(0.046)
-sneezing(0.025)
-standing(0.024)
-adult+female+singing(0.023)

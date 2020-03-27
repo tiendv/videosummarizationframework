@@ -1,5 +1,0 @@
-cooking(0.059)
-walking(0.041)
-standing(0.030)
-fighting(0.027)
-arresting(0.023)

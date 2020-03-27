@@ -1,5 +1,0 @@
-drinking(0.060)
-throwing(0.049)
-adult+male+speaking(0.048)
-laughing(0.046)
-flicking(0.035)

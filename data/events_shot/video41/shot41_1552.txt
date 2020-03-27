@@ -1,5 +1,0 @@
-raising(0.033)
-adult+male+speaking(0.032)
-filming(0.031)
-slapping(0.030)
-asking(0.027)

@@ -1,5 +1,0 @@
-plugging(0.186)
-gripping(0.083)
-locking(0.067)
-repairing(0.046)
-handcuffing(0.034)

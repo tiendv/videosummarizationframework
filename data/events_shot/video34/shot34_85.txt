@@ -1,5 +1,0 @@
-painting(0.180)
-riding(0.119)
-brushing(0.104)
-driving(0.102)
-steering(0.065)

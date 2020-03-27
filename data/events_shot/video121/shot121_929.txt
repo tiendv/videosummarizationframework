@@ -1,5 +1,0 @@
-painting(0.102)
-climbing(0.062)
-hanging(0.034)
-drawing(0.024)
-spinning(0.018)

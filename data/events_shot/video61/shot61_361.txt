@@ -1,5 +1,0 @@
-crafting(0.060)
-putting(0.029)
-talking(0.025)
-flipping(0.020)
-standing(0.019)

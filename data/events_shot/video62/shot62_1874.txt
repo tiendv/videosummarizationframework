@@ -1,5 +1,0 @@
-whistling(0.121)
-talking(0.063)
-frowning(0.061)
-discussing(0.043)
-standing(0.037)

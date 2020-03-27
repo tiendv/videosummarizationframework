@@ -1,5 +1,0 @@
-shopping(0.055)
-standing(0.049)
-walking(0.044)
-smiling(0.033)
-laughing(0.032)

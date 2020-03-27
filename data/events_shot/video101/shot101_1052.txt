@@ -1,5 +1,0 @@
-walking(0.111)
-stealing(0.061)
-dragging(0.055)
-adult+male+speaking(0.027)
-stomping(0.025)

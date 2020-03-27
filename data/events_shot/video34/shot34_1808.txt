@@ -1,5 +1,0 @@
-sitting(0.090)
-guarding(0.064)
-driving(0.053)
-arresting(0.053)
-discussing(0.053)

@@ -1,5 +1,0 @@
-opening(0.314)
-closing(0.189)
-adult+female+singing(0.059)
-laughing(0.037)
-locking(0.026)

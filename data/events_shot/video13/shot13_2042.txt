@@ -1,5 +1,0 @@
-spinning(0.164)
-starting(0.080)
-stopping(0.040)
-turning(0.039)
-adult+male+speaking(0.037)

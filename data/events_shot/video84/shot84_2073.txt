@@ -1,5 +1,0 @@
-spinning(0.055)
-pouring(0.031)
-drying(0.025)
-cooking(0.025)
-playing+music(0.022)

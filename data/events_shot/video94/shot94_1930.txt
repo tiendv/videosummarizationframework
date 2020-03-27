@@ -1,5 +1,0 @@
-driving(0.809)
-steering(0.105)
-riding(0.031)
-raining(0.012)
-towing(0.006)

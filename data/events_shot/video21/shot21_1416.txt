@@ -1,5 +1,0 @@
-smoking(0.055)
-shooting(0.041)
-standing(0.034)
-pointing(0.028)
-singing(0.027)

@@ -1,5 +1,0 @@
-crying(0.885)
-frowning(0.037)
-waking(0.019)
-telephoning(0.003)
-covering(0.003)

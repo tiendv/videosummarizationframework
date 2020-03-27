@@ -1,5 +1,0 @@
-driving(0.206)
-riding(0.069)
-dragging(0.060)
-rolling(0.025)
-pushing(0.023)

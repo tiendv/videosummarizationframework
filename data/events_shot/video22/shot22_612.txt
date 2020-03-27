@@ -1,5 +1,0 @@
-typing(0.315)
-telephoning(0.172)
-writing(0.083)
-calling(0.074)
-working(0.024)

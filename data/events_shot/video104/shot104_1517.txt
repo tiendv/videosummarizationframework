@@ -1,5 +1,0 @@
-drying(0.036)
-knocking(0.031)
-adult+male+speaking(0.028)
-adult+female+speaking(0.027)
-adult+female+singing(0.026)

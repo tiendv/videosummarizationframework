@@ -1,5 +1,0 @@
-hugging(0.063)
-stirring(0.054)
-cooking(0.046)
-sniffing(0.029)
-adult+female+speaking(0.029)

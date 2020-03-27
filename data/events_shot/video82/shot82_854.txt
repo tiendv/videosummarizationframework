@@ -1,5 +1,0 @@
-shaving(0.166)
-smiling(0.036)
-adult+male+speaking(0.035)
-combing(0.028)
-tattooing(0.028)

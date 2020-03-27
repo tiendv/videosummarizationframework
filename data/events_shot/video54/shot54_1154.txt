@@ -1,5 +1,0 @@
-asking(0.125)
-adult+male+speaking(0.076)
-interviewing(0.042)
-walking(0.040)
-preaching(0.035)

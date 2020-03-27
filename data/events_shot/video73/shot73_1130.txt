@@ -1,5 +1,0 @@
-drinking(0.331)
-stirring(0.139)
-cooking(0.052)
-dipping(0.036)
-washing(0.033)

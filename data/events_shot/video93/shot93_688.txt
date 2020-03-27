@@ -1,5 +1,0 @@
-drinking(0.236)
-aiming(0.059)
-pointing(0.056)
-filming(0.055)
-adult+male+speaking(0.049)

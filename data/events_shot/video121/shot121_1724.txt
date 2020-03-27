@@ -1,5 +1,0 @@
-crying(0.040)
-coughing(0.040)
-frowning(0.037)
-waking(0.029)
-sailing(0.027)

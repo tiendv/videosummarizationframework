@@ -1,5 +1,0 @@
-cooking(0.196)
-running(0.058)
-adult+male+speaking(0.050)
-standing(0.032)
-frying(0.027)

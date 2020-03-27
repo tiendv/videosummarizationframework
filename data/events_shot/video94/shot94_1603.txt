@@ -1,5 +1,0 @@
-planting(0.242)
-gardening(0.104)
-sowing(0.079)
-cooking(0.056)
-playing+videogames(0.046)

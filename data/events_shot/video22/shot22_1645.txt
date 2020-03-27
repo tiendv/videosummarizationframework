@@ -1,5 +1,0 @@
-telephoning(0.129)
-calling(0.097)
-walking(0.085)
-carrying(0.066)
-crying(0.061)

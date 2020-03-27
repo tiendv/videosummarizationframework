@@ -1,5 +1,0 @@
-child+speaking(0.053)
-laughing(0.038)
-unpacking(0.035)
-packing(0.034)
-sneezing(0.032)

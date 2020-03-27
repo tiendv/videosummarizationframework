@@ -1,5 +1,0 @@
-peeling(0.588)
-walking(0.022)
-smelling(0.021)
-sniffing(0.017)
-picking(0.016)

@@ -1,5 +1,0 @@
-walking(0.215)
-sneezing(0.040)
-filming(0.036)
-exiting(0.034)
-adult+female+speaking(0.032)

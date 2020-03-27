@@ -1,5 +1,0 @@
-slapping(0.056)
-stealing(0.046)
-shopping(0.045)
-adult+female+singing(0.030)
-adult+female+speaking(0.026)

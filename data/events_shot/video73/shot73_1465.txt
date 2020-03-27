@@ -1,5 +1,0 @@
-drinking(0.183)
-adult+female+singing(0.101)
-adult+female+speaking(0.094)
-inflating(0.030)
-kissing(0.023)

@@ -1,5 +1,0 @@
-fueling(0.152)
-arresting(0.126)
-stealing(0.058)
-walking(0.046)
-guarding(0.043)

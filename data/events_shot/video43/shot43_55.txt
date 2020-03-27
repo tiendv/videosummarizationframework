@@ -1,5 +1,0 @@
-opening(0.045)
-closing(0.038)
-knocking(0.037)
-adult+male+speaking(0.035)
-hanging(0.032)

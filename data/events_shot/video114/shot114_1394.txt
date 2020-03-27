@@ -1,5 +1,0 @@
-towing(0.042)
-mowing(0.034)
-driving(0.027)
-loading(0.026)
-bulldozing(0.026)

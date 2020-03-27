@@ -1,5 +1,0 @@
-adult+female+speaking(0.128)
-adult+male+speaking(0.054)
-hugging(0.051)
-adult+female+singing(0.038)
-slapping(0.031)

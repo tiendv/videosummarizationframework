@@ -1,5 +1,0 @@
-squatting(0.165)
-running(0.104)
-sprinting(0.078)
-jogging(0.044)
-adult+male+speaking(0.027)

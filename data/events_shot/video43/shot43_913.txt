@@ -1,5 +1,0 @@
-sleeping(0.115)
-waking(0.094)
-resting(0.051)
-sitting(0.032)
-arresting(0.019)

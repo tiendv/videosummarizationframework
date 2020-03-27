@@ -1,5 +1,0 @@
-hunting(0.251)
-sitting(0.090)
-discussing(0.053)
-eating(0.041)
-adult+male+speaking(0.041)

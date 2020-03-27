@@ -1,5 +1,0 @@
-sitting(0.042)
-standing(0.025)
-talking(0.023)
-shooting(0.022)
-rising(0.020)

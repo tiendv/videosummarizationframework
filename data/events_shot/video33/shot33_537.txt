@@ -1,5 +1,0 @@
-hugging(0.062)
-smoking(0.046)
-coughing(0.033)
-painting(0.025)
-sneezing(0.022)

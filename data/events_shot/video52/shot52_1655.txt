@@ -1,5 +1,0 @@
-bowing(0.073)
-fighting(0.061)
-sneezing(0.047)
-attacking(0.041)
-knocking(0.035)

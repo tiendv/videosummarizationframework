@@ -1,5 +1,0 @@
-stacking(0.089)
-adult+male+singing(0.039)
-adult+male+speaking(0.036)
-autographing(0.034)
-flipping(0.029)

@@ -1,5 +1,0 @@
-towing(0.112)
-driving(0.052)
-pulling(0.047)
-loading(0.025)
-talking(0.023)

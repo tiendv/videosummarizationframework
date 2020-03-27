@@ -1,5 +1,0 @@
-mopping(0.119)
-walking(0.089)
-cleaning(0.058)
-standing(0.058)
-dressing(0.038)

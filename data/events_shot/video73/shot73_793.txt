@@ -1,5 +1,0 @@
-raining(0.133)
-watering(0.077)
-crying(0.040)
-drenching(0.031)
-spraying(0.025)

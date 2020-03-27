@@ -1,5 +1,0 @@
-opening(0.235)
-closing(0.171)
-typing(0.067)
-unpacking(0.037)
-reading(0.033)

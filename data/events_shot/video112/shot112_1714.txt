@@ -1,5 +1,0 @@
-walking(0.049)
-drying(0.044)
-cleaning(0.033)
-combing(0.030)
-knocking(0.027)

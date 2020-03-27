@@ -1,5 +1,0 @@
-slapping(0.064)
-starting(0.064)
-locking(0.049)
-attacking(0.039)
-walking(0.034)

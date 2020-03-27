@@ -1,5 +1,0 @@
-standing(0.165)
-walking(0.144)
-hunting(0.036)
-stomping(0.028)
-adult+male+speaking(0.028)

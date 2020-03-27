@@ -1,5 +1,0 @@
-whistling(0.345)
-standing(0.067)
-adult+male+speaking(0.045)
-singing(0.045)
-laughing(0.038)

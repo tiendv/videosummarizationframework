@@ -1,5 +1,0 @@
-adult+male+singing(0.101)
-standing(0.092)
-arresting(0.067)
-singing(0.051)
-walking(0.047)

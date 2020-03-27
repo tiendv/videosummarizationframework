@@ -1,5 +1,0 @@
-typing(0.368)
-tapping(0.037)
-pressing(0.033)
-poking(0.028)
-writing(0.023)

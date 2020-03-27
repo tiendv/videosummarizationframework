@@ -1,5 +1,0 @@
-repairing(0.039)
-leaking(0.037)
-screwing(0.029)
-draining(0.027)
-adult+male+speaking(0.023)

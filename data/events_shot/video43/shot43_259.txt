@@ -1,5 +1,0 @@
-flying(0.832)
-landing(0.028)
-turning(0.024)
-piloting(0.014)
-riding(0.012)

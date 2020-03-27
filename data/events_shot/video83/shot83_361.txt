@@ -1,5 +1,0 @@
-sneezing(0.284)
-coughing(0.107)
-praying(0.093)
-reading(0.047)
-yawning(0.040)

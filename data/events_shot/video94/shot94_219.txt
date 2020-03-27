@@ -1,5 +1,0 @@
-walking(0.140)
-jogging(0.139)
-running(0.086)
-exiting(0.024)
-exercising(0.019)

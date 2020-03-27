@@ -1,5 +1,0 @@
-spinning(0.405)
-turning(0.041)
-playing(0.041)
-starting(0.029)
-playing+videogames(0.022)

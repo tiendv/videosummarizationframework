@@ -1,5 +1,0 @@
-walking(0.153)
-standing(0.056)
-entering(0.045)
-exiting(0.031)
-talking(0.031)

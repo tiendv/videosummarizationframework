@@ -1,5 +1,0 @@
-shopping(0.228)
-stealing(0.121)
-buying(0.062)
-asking(0.056)
-selling(0.050)

@@ -1,5 +1,0 @@
-working(0.070)
-standing(0.032)
-loading(0.031)
-turning(0.025)
-drinking(0.024)

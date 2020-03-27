@@ -1,5 +1,0 @@
-bending(0.033)
-assembling(0.032)
-kneeling(0.030)
-aiming(0.030)
-playing+videogames(0.030)

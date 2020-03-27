@@ -1,5 +1,0 @@
-walking(0.075)
-praying(0.045)
-stomping(0.039)
-hugging(0.037)
-joining(0.031)

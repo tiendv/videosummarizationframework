@@ -1,5 +1,0 @@
-towing(0.190)
-balancing(0.066)
-walking(0.050)
-hitchhiking(0.044)
-loading(0.038)

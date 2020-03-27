@@ -1,5 +1,0 @@
-arresting(0.140)
-stealing(0.073)
-hitchhiking(0.063)
-handcuffing(0.060)
-adult+male+speaking(0.035)

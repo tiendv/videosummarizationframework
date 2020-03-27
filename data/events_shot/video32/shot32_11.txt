@@ -1,5 +1,0 @@
-telephoning(0.255)
-calling(0.220)
-typing(0.031)
-putting(0.031)
-piloting(0.027)

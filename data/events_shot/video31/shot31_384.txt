@@ -1,5 +1,0 @@
-driving(0.086)
-calling(0.072)
-telephoning(0.031)
-towing(0.030)
-adult+male+speaking(0.029)

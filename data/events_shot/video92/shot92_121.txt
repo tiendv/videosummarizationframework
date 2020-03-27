@@ -1,5 +1,0 @@
-calling(0.079)
-telephoning(0.077)
-tying(0.035)
-adult+male+speaking(0.029)
-putting(0.020)

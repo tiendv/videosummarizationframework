@@ -1,5 +1,0 @@
-adult+female+speaking(0.052)
-adult+male+speaking(0.032)
-talking(0.027)
-sitting(0.022)
-handcuffing(0.021)

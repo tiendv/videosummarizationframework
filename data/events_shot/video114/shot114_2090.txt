@@ -1,5 +1,0 @@
-driving(0.063)
-aiming(0.039)
-playing+videogames(0.036)
-shooting(0.035)
-arresting(0.032)

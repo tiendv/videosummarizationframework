@@ -1,5 +1,0 @@
-adult+male+speaking(0.028)
-exiting(0.025)
-discussing(0.021)
-asking(0.021)
-blocking(0.017)

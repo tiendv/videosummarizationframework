@@ -1,5 +1,0 @@
-exiting(0.196)
-entering(0.143)
-queuing(0.098)
-walking(0.094)
-boarding(0.088)

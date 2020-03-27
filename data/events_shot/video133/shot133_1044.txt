@@ -1,5 +1,0 @@
-standing(0.051)
-adult+male+speaking(0.049)
-guarding(0.046)
-handcuffing(0.038)
-gripping(0.026)

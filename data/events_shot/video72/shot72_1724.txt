@@ -1,5 +1,0 @@
-chewing(0.122)
-biting(0.095)
-eating(0.084)
-licking(0.045)
-pointing(0.042)

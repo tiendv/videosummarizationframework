@@ -1,5 +1,0 @@
-smoking(0.062)
-adult+male+singing(0.043)
-coughing(0.034)
-whistling(0.030)
-standing(0.024)

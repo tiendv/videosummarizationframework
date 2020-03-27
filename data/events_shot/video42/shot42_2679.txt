@@ -1,5 +1,0 @@
-walking(0.096)
-carrying(0.047)
-pointing(0.044)
-standing(0.031)
-telephoning(0.030)

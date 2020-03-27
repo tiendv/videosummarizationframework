@@ -1,5 +1,0 @@
-running(0.183)
-walking(0.179)
-carrying(0.037)
-knocking(0.033)
-filming(0.027)

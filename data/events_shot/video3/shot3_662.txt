@@ -1,5 +1,0 @@
-slapping(0.048)
-rocking(0.045)
-knocking(0.032)
-laughing(0.023)
-adult+male+singing(0.023)

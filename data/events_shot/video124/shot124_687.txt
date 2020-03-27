@@ -1,5 +1,0 @@
-hugging(0.052)
-smiling(0.040)
-adult+female+speaking(0.036)
-shaving(0.032)
-combing(0.030)

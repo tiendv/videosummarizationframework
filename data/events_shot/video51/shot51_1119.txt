@@ -1,5 +1,0 @@
-sleeping(0.095)
-tapping(0.061)
-cuddling(0.038)
-licking(0.035)
-hugging(0.033)

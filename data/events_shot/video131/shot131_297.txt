@@ -1,5 +1,0 @@
-hugging(0.130)
-arresting(0.110)
-walking(0.085)
-carrying(0.075)
-filming(0.073)

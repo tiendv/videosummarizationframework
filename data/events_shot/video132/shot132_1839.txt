@@ -1,5 +1,0 @@
-packaging(0.042)
-shopping(0.034)
-placing(0.029)
-packing(0.028)
-dressing(0.026)

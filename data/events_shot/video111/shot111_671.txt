@@ -1,5 +1,0 @@
-vacuuming(0.882)
-mopping(0.072)
-sweeping(0.023)
-cleaning(0.015)
-dusting(0.006)

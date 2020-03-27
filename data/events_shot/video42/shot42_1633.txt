@@ -1,5 +1,0 @@
-crying(0.118)
-carrying(0.100)
-hugging(0.052)
-walking(0.040)
-bowing(0.025)

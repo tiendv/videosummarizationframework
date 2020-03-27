@@ -1,5 +1,0 @@
-stacking(0.963)
-sprinting(0.009)
-walking(0.004)
-running(0.003)
-standing(0.001)

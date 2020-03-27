@@ -1,5 +1,0 @@
-sitting(0.089)
-starting(0.078)
-adult+male+singing(0.057)
-playing+videogames(0.050)
-filming(0.048)

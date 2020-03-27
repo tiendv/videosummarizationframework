@@ -1,5 +1,0 @@
-laughing(0.040)
-fighting(0.039)
-mopping(0.035)
-cleaning(0.027)
-dusting(0.024)

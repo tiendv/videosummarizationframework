@@ -1,5 +1,0 @@
-queuing(0.070)
-packing(0.044)
-fueling(0.044)
-driving(0.034)
-riding(0.032)

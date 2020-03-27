@@ -1,5 +1,0 @@
-raining(0.440)
-walking(0.082)
-smoking(0.079)
-snowing(0.035)
-guarding(0.016)

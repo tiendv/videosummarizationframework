@@ -1,5 +1,0 @@
-hugging(0.406)
-smiling(0.061)
-kissing(0.037)
-drinking(0.035)
-adult+female+singing(0.029)

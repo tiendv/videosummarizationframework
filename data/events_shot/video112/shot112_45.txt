@@ -1,5 +1,0 @@
-whistling(0.831)
-howling(0.008)
-standing(0.007)
-coughing(0.006)
-walking(0.005)

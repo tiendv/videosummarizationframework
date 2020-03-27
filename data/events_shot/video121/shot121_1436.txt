@@ -1,5 +1,0 @@
-applauding(0.293)
-clapping(0.291)
-adult+female+speaking(0.041)
-discussing(0.038)
-smiling(0.023)

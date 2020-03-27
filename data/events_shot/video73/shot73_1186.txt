@@ -1,5 +1,0 @@
-baking(0.120)
-cooking(0.102)
-adult+female+speaking(0.087)
-talking(0.067)
-crafting(0.042)

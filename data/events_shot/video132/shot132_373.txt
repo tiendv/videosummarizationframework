@@ -1,5 +1,0 @@
-slapping(0.100)
-arresting(0.079)
-walking(0.062)
-knocking(0.053)
-adult+female+speaking(0.049)

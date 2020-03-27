@@ -1,5 +1,0 @@
-lecturing(0.071)
-coughing(0.055)
-sneezing(0.049)
-walking(0.037)
-standing(0.026)

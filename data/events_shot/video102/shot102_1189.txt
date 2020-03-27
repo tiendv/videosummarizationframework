@@ -1,5 +1,0 @@
-assembling(0.076)
-handcuffing(0.050)
-steering(0.050)
-rowing(0.039)
-lifting(0.038)

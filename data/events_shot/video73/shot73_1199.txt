@@ -1,5 +1,0 @@
-hunting(0.100)
-gripping(0.050)
-starting(0.047)
-adult+male+speaking(0.046)
-adult+male+singing(0.045)

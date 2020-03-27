@@ -1,5 +1,0 @@
-adult+male+speaking(0.111)
-packaging(0.036)
-giving(0.031)
-packing(0.029)
-unpacking(0.024)

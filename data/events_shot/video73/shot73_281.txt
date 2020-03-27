@@ -1,5 +1,0 @@
-sitting(0.130)
-talking(0.098)
-hugging(0.057)
-discussing(0.046)
-cuddling(0.032)

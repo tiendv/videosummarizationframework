@@ -1,5 +1,0 @@
-slapping(0.150)
-knocking(0.081)
-dusting(0.080)
-clapping(0.032)
-washing(0.025)

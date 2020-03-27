@@ -1,5 +1,0 @@
-spinning(0.113)
-stopping(0.071)
-pressing(0.055)
-poking(0.052)
-snapping(0.042)

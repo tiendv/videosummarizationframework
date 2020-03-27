@@ -1,5 +1,0 @@
-walking(0.102)
-standing(0.043)
-hugging(0.020)
-climbing(0.019)
-fencing(0.017)

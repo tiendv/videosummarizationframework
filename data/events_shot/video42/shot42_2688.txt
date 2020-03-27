@@ -1,5 +1,0 @@
-walking(0.102)
-dressing(0.093)
-adult+female+singing(0.062)
-entering(0.062)
-hugging(0.051)

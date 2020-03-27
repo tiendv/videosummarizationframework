@@ -1,5 +1,0 @@
-adult+male+speaking(0.115)
-dining(0.060)
-asking(0.041)
-discussing(0.038)
-adult+female+speaking(0.036)

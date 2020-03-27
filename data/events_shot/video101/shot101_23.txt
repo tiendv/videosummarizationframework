@@ -1,5 +1,0 @@
-walking(0.261)
-slapping(0.075)
-asking(0.063)
-exiting(0.028)
-interviewing(0.027)

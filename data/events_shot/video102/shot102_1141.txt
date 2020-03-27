@@ -1,5 +1,0 @@
-standing(0.077)
-guarding(0.062)
-slapping(0.038)
-asking(0.037)
-saluting(0.036)

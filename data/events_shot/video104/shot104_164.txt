@@ -1,5 +1,0 @@
-telephoning(0.502)
-calling(0.312)
-eating(0.008)
-adult+male+speaking(0.007)
-discussing(0.006)

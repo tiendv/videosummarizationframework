@@ -1,5 +1,0 @@
-filling(0.460)
-emptying(0.188)
-fueling(0.058)
-pouring(0.028)
-reading(0.019)

@@ -1,5 +1,0 @@
-aiming(0.124)
-pointing(0.101)
-slapping(0.073)
-flicking(0.062)
-throwing(0.027)

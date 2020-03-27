@@ -1,5 +1,0 @@
-rising(0.386)
-erupting(0.335)
-storming(0.083)
-ascending(0.022)
-descending(0.013)

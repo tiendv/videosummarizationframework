@@ -1,5 +1,0 @@
-arresting(0.057)
-handcuffing(0.040)
-adult+male+speaking(0.035)
-joining(0.031)
-attacking(0.028)

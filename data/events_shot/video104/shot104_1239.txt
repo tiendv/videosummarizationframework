@@ -1,5 +1,0 @@
-unloading(0.199)
-loading(0.173)
-packaging(0.068)
-walking(0.047)
-packing(0.041)

@@ -1,5 +1,0 @@
-knocking(0.165)
-entering(0.056)
-walking(0.053)
-handcuffing(0.039)
-exiting(0.037)

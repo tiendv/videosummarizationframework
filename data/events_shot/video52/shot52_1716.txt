@@ -1,5 +1,0 @@
-boating(0.363)
-sitting(0.089)
-arresting(0.041)
-driving(0.038)
-riding(0.025)

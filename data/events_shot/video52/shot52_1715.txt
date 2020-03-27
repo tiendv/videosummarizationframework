@@ -1,5 +1,0 @@
-boating(0.695)
-riding(0.078)
-piloting(0.050)
-sailing(0.043)
-launching(0.024)

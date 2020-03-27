@@ -1,5 +1,0 @@
-adult+female+singing(0.175)
-adult+female+speaking(0.089)
-child+singing(0.085)
-dusting(0.084)
-singing(0.063)

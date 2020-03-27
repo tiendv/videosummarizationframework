@@ -1,5 +1,0 @@
-packing(0.081)
-unpacking(0.039)
-stealing(0.026)
-adult+male+speaking(0.024)
-assembling(0.024)

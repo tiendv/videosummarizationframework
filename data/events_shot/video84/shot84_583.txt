@@ -1,5 +1,0 @@
-mopping(0.300)
-cleaning(0.101)
-sweeping(0.093)
-dusting(0.022)
-walking(0.020)

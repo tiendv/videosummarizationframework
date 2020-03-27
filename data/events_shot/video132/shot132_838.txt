@@ -1,5 +1,0 @@
-walking(0.096)
-adult+female+speaking(0.058)
-entering(0.029)
-exiting(0.026)
-hugging(0.025)

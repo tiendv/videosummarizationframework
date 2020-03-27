@@ -1,5 +1,0 @@
-calling(0.057)
-adult+male+singing(0.050)
-singing(0.038)
-coughing(0.033)
-adult+female+singing(0.029)

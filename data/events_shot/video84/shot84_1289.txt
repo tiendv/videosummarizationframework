@@ -1,5 +1,0 @@
-walking(0.082)
-crying(0.066)
-knocking(0.050)
-shrugging(0.048)
-whistling(0.031)

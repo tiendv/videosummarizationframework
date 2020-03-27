@@ -1,5 +1,0 @@
-bowing(0.466)
-shrugging(0.089)
-pushing(0.068)
-walking(0.025)
-leaning(0.021)

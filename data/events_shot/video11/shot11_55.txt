@@ -1,5 +1,0 @@
-sniffing(0.075)
-smelling(0.060)
-putting(0.053)
-drying(0.028)
-placing(0.027)

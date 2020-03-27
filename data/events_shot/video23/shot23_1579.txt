@@ -1,5 +1,0 @@
-coughing(0.041)
-walking(0.031)
-adult+female+speaking(0.028)
-talking(0.027)
-working(0.024)

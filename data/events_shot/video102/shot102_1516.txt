@@ -1,5 +1,0 @@
-hugging(0.116)
-baking(0.056)
-walking(0.046)
-cooking(0.042)
-standing(0.038)

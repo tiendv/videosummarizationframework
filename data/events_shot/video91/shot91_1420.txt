@@ -1,5 +1,0 @@
-sneezing(0.084)
-coughing(0.066)
-adult+female+speaking(0.060)
-reading(0.047)
-praying(0.043)

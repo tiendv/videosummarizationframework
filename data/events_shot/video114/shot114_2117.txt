@@ -1,5 +1,0 @@
-towing(0.246)
-driving(0.122)
-steering(0.061)
-adult+male+speaking(0.037)
-arresting(0.030)

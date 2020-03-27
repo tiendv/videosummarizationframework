@@ -1,5 +1,0 @@
-adult+male+speaking(0.150)
-adult+female+speaking(0.047)
-standing(0.045)
-talking(0.039)
-discussing(0.038)

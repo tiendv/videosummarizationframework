@@ -1,5 +1,0 @@
-preaching(0.197)
-adult+male+speaking(0.038)
-adult+female+speaking(0.033)
-reading(0.025)
-pointing(0.024)

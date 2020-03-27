@@ -1,5 +1,0 @@
-kneeling(0.101)
-blocking(0.063)
-sitting(0.059)
-instructing(0.050)
-taping(0.047)

@@ -1,5 +1,0 @@
-telephoning(0.100)
-signing(0.054)
-calling(0.048)
-autographing(0.045)
-sitting(0.035)

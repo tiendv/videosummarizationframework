@@ -1,5 +1,0 @@
-adult+female+singing(0.064)
-adult+female+speaking(0.057)
-drinking(0.045)
-cooking(0.027)
-smelling(0.025)

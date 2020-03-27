@@ -1,5 +1,0 @@
-vacuuming(0.324)
-inflating(0.027)
-plugging(0.025)
-steering(0.023)
-spinning(0.020)

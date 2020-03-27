@@ -1,5 +1,0 @@
-adult+female+speaking(0.131)
-sneezing(0.048)
-cuddling(0.048)
-hugging(0.039)
-talking(0.028)

@@ -1,5 +1,0 @@
-hitchhiking(0.324)
-walking(0.106)
-asking(0.082)
-hiking(0.068)
-standing(0.040)

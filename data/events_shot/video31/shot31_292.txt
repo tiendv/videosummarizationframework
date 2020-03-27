@@ -1,5 +1,0 @@
-knocking(0.125)
-vacuuming(0.046)
-entering(0.028)
-dusting(0.026)
-exiting(0.025)

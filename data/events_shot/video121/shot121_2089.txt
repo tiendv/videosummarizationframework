@@ -1,5 +1,0 @@
-digging(0.095)
-burying(0.055)
-flowing(0.042)
-burning(0.037)
-erupting(0.034)

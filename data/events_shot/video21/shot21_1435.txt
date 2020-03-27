@@ -1,5 +1,0 @@
-sneezing(0.167)
-coughing(0.078)
-dusting(0.032)
-cleaning(0.029)
-cooking(0.026)

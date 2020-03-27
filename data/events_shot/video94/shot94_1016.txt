@@ -1,5 +1,0 @@
-adult+male+speaking(0.040)
-towing(0.038)
-driving(0.026)
-starting(0.024)
-adult+male+singing(0.021)

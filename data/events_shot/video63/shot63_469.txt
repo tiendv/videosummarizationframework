@@ -1,5 +1,0 @@
-packing(0.190)
-unpacking(0.149)
-folding(0.047)
-adult+female+speaking(0.038)
-wrapping(0.034)

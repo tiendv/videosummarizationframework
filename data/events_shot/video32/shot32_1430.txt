@@ -1,5 +1,0 @@
-drinking(0.035)
-slapping(0.031)
-adult+female+singing(0.030)
-sneezing(0.029)
-pointing(0.028)

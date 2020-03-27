@@ -1,5 +1,0 @@
-climbing(0.141)
-hiking(0.106)
-picking(0.063)
-gardening(0.022)
-hunting(0.022)

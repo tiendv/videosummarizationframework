@@ -1,5 +1,0 @@
-sitting(0.056)
-adult+female+speaking(0.048)
-playing+videogames(0.030)
-standing(0.028)
-reading(0.028)

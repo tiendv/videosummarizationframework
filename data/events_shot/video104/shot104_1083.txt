@@ -1,5 +1,0 @@
-child+speaking(0.083)
-knocking(0.065)
-opening(0.053)
-slapping(0.042)
-closing(0.038)

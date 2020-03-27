@@ -1,5 +1,0 @@
-raining(0.042)
-driving(0.040)
-exiting(0.039)
-adult+female+singing(0.033)
-closing(0.032)

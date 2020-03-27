@@ -1,5 +1,0 @@
-autographing(0.111)
-hugging(0.071)
-adult+male+speaking(0.058)
-fighting(0.053)
-playing+videogames(0.031)

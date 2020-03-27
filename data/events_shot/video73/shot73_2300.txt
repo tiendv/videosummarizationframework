@@ -1,5 +1,0 @@
-hugging(0.221)
-adult+male+speaking(0.067)
-slapping(0.044)
-walking(0.037)
-kissing(0.031)

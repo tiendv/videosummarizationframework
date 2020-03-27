@@ -1,5 +1,0 @@
-packing(0.086)
-unpacking(0.071)
-adult+male+speaking(0.054)
-working(0.048)
-loading(0.047)

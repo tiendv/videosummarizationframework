@@ -1,5 +1,0 @@
-drying(0.088)
-boarding(0.072)
-washing(0.048)
-pulling(0.032)
-loading(0.029)

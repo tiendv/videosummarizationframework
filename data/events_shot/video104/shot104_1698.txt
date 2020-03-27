@@ -1,5 +1,0 @@
-walking(0.571)
-standing(0.037)
-hiking(0.027)
-asking(0.025)
-autographing(0.015)

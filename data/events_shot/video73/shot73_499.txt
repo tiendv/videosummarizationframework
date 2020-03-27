@@ -1,5 +1,0 @@
-waving(0.117)
-saluting(0.029)
-smiling(0.022)
-adult+male+speaking(0.021)
-cheering(0.020)

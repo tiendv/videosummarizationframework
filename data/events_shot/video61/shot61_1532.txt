@@ -1,5 +1,0 @@
-smiling(0.053)
-adult+male+speaking(0.046)
-closing(0.042)
-aiming(0.039)
-knocking(0.038)

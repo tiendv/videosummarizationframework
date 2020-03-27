@@ -1,5 +1,0 @@
-stomping(0.081)
-bouncing(0.044)
-slapping(0.044)
-walking(0.043)
-adult+male+singing(0.024)

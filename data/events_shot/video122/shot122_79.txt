@@ -1,5 +1,0 @@
-eating(0.251)
-chewing(0.047)
-crying(0.044)
-biting(0.042)
-coaching(0.035)

@@ -1,5 +1,0 @@
-mopping(0.048)
-talking(0.042)
-cooking(0.038)
-standing(0.034)
-dusting(0.032)

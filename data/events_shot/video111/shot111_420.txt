@@ -1,5 +1,0 @@
-washing(0.095)
-loading(0.061)
-unloading(0.060)
-closing(0.048)
-stacking(0.048)

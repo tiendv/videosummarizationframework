@@ -1,5 +1,0 @@
-adult+female+singing(0.131)
-adult+female+speaking(0.097)
-bathing(0.021)
-hugging(0.017)
-baking(0.016)

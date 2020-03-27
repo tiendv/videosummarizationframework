@@ -1,5 +1,0 @@
-queuing(0.054)
-dining(0.038)
-filming(0.034)
-autographing(0.030)
-applauding(0.026)

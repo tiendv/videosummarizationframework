@@ -1,5 +1,0 @@
-stomping(0.042)
-standing(0.023)
-stirring(0.022)
-cooking(0.015)
-playing+videogames(0.014)

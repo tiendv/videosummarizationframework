@@ -1,5 +1,0 @@
-sleeping(0.063)
-chewing(0.048)
-laughing(0.042)
-resting(0.041)
-crying(0.030)

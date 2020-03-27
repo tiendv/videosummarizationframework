@@ -1,5 +1,0 @@
-running(0.081)
-shooting(0.053)
-pointing(0.036)
-aiming(0.034)
-walking(0.028)

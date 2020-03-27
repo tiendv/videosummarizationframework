@@ -1,5 +1,0 @@
-packing(0.121)
-adult+female+speaking(0.101)
-adult+male+speaking(0.035)
-baking(0.033)
-unpacking(0.032)

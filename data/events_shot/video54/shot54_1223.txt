@@ -1,5 +1,0 @@
-walking(0.118)
-exiting(0.062)
-shopping(0.055)
-asking(0.044)
-entering(0.041)

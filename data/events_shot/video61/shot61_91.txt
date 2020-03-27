@@ -1,5 +1,0 @@
-painting(0.156)
-carving(0.130)
-crafting(0.101)
-drawing(0.088)
-sketching(0.041)

@@ -1,5 +1,0 @@
-spinning(0.224)
-playing+music(0.093)
-playing(0.064)
-tuning(0.049)
-bouncing(0.028)

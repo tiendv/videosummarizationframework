@@ -1,5 +1,0 @@
-guarding(0.068)
-arresting(0.068)
-fueling(0.056)
-walking(0.055)
-adult+male+speaking(0.055)

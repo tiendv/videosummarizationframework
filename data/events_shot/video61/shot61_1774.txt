@@ -1,5 +1,0 @@
-sliding(0.041)
-unloading(0.039)
-sawing(0.031)
-lifting(0.030)
-pulling(0.026)

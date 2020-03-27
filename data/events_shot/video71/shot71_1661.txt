@@ -1,5 +1,0 @@
-waking(0.063)
-combing(0.048)
-drying(0.033)
-resting(0.022)
-cracking(0.021)

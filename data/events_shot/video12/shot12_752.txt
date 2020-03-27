@@ -1,5 +1,0 @@
-adult+female+speaking(0.083)
-sleeping(0.080)
-resting(0.056)
-sitting(0.055)
-massaging(0.028)

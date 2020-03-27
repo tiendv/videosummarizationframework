@@ -1,5 +1,0 @@
-cooking(0.079)
-drinking(0.055)
-pouring(0.044)
-standing(0.025)
-baking(0.023)

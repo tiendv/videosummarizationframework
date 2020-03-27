@@ -1,5 +1,0 @@
-dressing(0.072)
-drying(0.056)
-inflating(0.037)
-sneezing(0.033)
-packing(0.026)

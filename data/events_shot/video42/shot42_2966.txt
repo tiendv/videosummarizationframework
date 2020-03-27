@@ -1,5 +1,0 @@
-hugging(0.058)
-adult+female+singing(0.056)
-adult+female+speaking(0.048)
-raining(0.034)
-playing+videogames(0.032)

@@ -1,5 +1,0 @@
-crying(0.918)
-frowning(0.011)
-blowing(0.007)
-sneezing(0.005)
-massaging(0.005)

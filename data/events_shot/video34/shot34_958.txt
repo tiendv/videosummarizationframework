@@ -1,5 +1,0 @@
-hugging(0.136)
-coaching(0.124)
-adult+male+speaking(0.057)
-queuing(0.056)
-applauding(0.030)

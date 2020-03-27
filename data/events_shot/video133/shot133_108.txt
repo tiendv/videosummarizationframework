@@ -1,5 +1,0 @@
-adult+female+singing(0.142)
-adult+male+singing(0.092)
-knocking(0.055)
-starting(0.036)
-playing+videogames(0.034)

@@ -1,5 +1,0 @@
-digging(0.145)
-shoveling(0.067)
-poking(0.054)
-removing(0.048)
-burying(0.043)

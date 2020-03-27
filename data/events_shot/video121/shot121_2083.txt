@@ -1,5 +1,0 @@
-sneezing(0.465)
-coughing(0.200)
-yawning(0.030)
-smelling(0.020)
-eating(0.017)

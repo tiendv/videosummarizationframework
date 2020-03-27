@@ -1,5 +1,0 @@
-frowning(0.261)
-crying(0.160)
-squinting(0.026)
-aiming(0.026)
-shooting(0.023)

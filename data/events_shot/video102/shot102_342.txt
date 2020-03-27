@@ -1,5 +1,0 @@
-sitting(0.033)
-filming(0.031)
-standing(0.029)
-squatting(0.022)
-adult+male+speaking(0.020)

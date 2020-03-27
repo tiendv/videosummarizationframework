@@ -1,5 +1,0 @@
-unpacking(0.091)
-putting(0.075)
-assembling(0.075)
-gripping(0.054)
-packing(0.041)

@@ -1,5 +1,0 @@
-adult+female+speaking(0.054)
-crying(0.042)
-removing(0.038)
-sneezing(0.037)
-coughing(0.032)

@@ -1,5 +1,0 @@
-standing(0.104)
-walking(0.065)
-laughing(0.050)
-waving(0.038)
-preaching(0.033)

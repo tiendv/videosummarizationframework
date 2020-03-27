@@ -1,5 +1,0 @@
-fencing(0.255)
-building(0.046)
-walking(0.034)
-adult+male+speaking(0.026)
-opening(0.022)

@@ -1,5 +1,0 @@
-arresting(0.083)
-fighting(0.063)
-filming(0.055)
-punching(0.052)
-asking(0.047)

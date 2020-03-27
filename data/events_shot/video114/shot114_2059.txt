@@ -1,5 +1,0 @@
-sitting(0.018)
-standing(0.017)
-walking(0.015)
-sleeping(0.014)
-hugging(0.013)

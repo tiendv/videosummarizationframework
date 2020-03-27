@@ -1,5 +1,0 @@
-shaving(0.148)
-dressing(0.031)
-combing(0.021)
-adult+male+speaking(0.020)
-knocking(0.020)

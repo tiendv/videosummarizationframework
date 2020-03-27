@@ -1,5 +1,0 @@
-roaring(0.056)
-adult+male+speaking(0.037)
-whistling(0.030)
-hunting(0.027)
-adult+female+singing(0.025)

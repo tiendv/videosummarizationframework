@@ -1,5 +1,0 @@
-stealing(0.103)
-stacking(0.063)
-fencing(0.051)
-loading(0.033)
-unloading(0.022)

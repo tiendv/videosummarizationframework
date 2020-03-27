@@ -1,5 +1,0 @@
-carving(0.071)
-opening(0.068)
-drying(0.048)
-building(0.048)
-cracking(0.041)

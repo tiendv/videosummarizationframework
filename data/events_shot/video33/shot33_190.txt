@@ -1,5 +1,0 @@
-crying(0.492)
-frowning(0.047)
-reading(0.035)
-praying(0.020)
-adult+female+speaking(0.019)

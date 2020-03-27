@@ -1,5 +1,0 @@
-adult+male+speaking(0.131)
-adult+male+singing(0.094)
-mopping(0.044)
-roaring(0.025)
-talking(0.024)

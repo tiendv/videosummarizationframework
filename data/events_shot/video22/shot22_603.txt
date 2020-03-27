@@ -1,5 +1,0 @@
-drying(0.410)
-cooking(0.181)
-boiling(0.098)
-baking(0.031)
-adult+female+singing(0.030)

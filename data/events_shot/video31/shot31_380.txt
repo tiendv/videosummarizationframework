@@ -1,5 +1,0 @@
-towing(0.431)
-hitchhiking(0.055)
-walking(0.041)
-fueling(0.040)
-stopping(0.033)

@@ -1,5 +1,0 @@
-fencing(0.866)
-opening(0.060)
-closing(0.024)
-guarding(0.005)
-locking(0.005)

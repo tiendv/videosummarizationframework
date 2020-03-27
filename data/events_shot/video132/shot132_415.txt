@@ -1,5 +1,0 @@
-adult+female+speaking(0.130)
-adult+female+singing(0.058)
-brushing(0.052)
-drinking(0.045)
-drying(0.034)

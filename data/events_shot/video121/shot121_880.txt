@@ -1,5 +1,0 @@
-shaving(0.174)
-telephoning(0.139)
-calling(0.057)
-adult+male+speaking(0.044)
-photographing(0.041)

@@ -1,5 +1,0 @@
-child+singing(0.133)
-child+speaking(0.122)
-crying(0.109)
-opening(0.043)
-measuring(0.040)

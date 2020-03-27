@@ -1,5 +1,0 @@
-chasing(0.159)
-driving(0.086)
-swerving(0.063)
-aiming(0.041)
-playing+videogames(0.037)

@@ -1,5 +1,0 @@
-jumping(0.131)
-leaping(0.098)
-fencing(0.064)
-howling(0.035)
-catching(0.024)

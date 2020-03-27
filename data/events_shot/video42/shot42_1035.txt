@@ -1,5 +1,0 @@
-playing+videogames(0.048)
-standing(0.048)
-walking(0.036)
-marching(0.032)
-stomping(0.026)

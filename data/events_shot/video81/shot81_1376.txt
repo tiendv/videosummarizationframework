@@ -1,5 +1,0 @@
-packing(0.082)
-unpacking(0.070)
-adult+male+speaking(0.058)
-telephoning(0.050)
-filming(0.030)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.071)
-bowing(0.048)
-coughing(0.044)
-crying(0.036)
-sneezing(0.028)

@@ -1,5 +1,0 @@
-crying(0.131)
-blowing(0.081)
-laughing(0.077)
-child+speaking(0.060)
-squinting(0.026)

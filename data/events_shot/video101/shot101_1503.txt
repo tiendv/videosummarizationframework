@@ -1,5 +1,0 @@
-brushing(0.110)
-painting(0.052)
-opening(0.030)
-closing(0.027)
-hugging(0.020)

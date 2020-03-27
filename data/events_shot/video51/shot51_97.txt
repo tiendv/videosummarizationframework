@@ -1,5 +1,0 @@
-grilling(0.142)
-barbecuing(0.123)
-cooking(0.047)
-selling(0.024)
-baking(0.015)

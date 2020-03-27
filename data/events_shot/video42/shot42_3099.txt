@@ -1,5 +1,0 @@
-bowling(0.071)
-hanging(0.054)
-adult+female+singing(0.048)
-bowing(0.033)
-performing(0.033)

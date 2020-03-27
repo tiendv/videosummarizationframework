@@ -1,5 +1,0 @@
-sleeping(0.677)
-waking(0.110)
-resting(0.058)
-reading(0.010)
-sneezing(0.006)

@@ -1,5 +1,0 @@
-driving(0.205)
-riding(0.077)
-towing(0.058)
-arresting(0.053)
-bicycling(0.043)

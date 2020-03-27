@@ -1,5 +1,0 @@
-asking(0.117)
-drinking(0.079)
-adult+male+singing(0.065)
-sneezing(0.060)
-adult+male+speaking(0.057)

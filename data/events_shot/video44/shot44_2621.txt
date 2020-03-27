@@ -1,5 +1,0 @@
-walking(0.662)
-queuing(0.061)
-standing(0.057)
-praying(0.008)
-working(0.008)

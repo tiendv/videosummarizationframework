@@ -1,5 +1,0 @@
-adult+male+speaking(0.050)
-sneezing(0.047)
-handcuffing(0.039)
-coughing(0.034)
-arresting(0.028)

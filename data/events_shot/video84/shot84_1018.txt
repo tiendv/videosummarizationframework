@@ -1,5 +1,0 @@
-knocking(0.175)
-fighting(0.080)
-arresting(0.045)
-entering(0.039)
-opening(0.038)

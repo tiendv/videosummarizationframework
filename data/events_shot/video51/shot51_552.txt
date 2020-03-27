@@ -1,5 +1,0 @@
-brushing(0.198)
-drying(0.064)
-scratching(0.040)
-combing(0.037)
-walking(0.037)

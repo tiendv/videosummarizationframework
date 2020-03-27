@@ -1,5 +1,0 @@
-adult+male+singing(0.137)
-child+singing(0.118)
-adult+female+singing(0.107)
-singing(0.105)
-praying(0.080)

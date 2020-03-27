@@ -1,5 +1,0 @@
-pressing(0.256)
-peeling(0.055)
-rubbing(0.027)
-gripping(0.026)
-poking(0.026)

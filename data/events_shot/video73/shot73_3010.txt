@@ -1,5 +1,0 @@
-aiming(0.115)
-hanging(0.055)
-shooting(0.054)
-carrying(0.041)
-guarding(0.037)

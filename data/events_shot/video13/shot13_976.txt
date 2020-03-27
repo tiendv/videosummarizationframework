@@ -1,5 +1,0 @@
-frowning(0.117)
-crying(0.038)
-opening(0.033)
-rubbing(0.031)
-walking(0.031)

@@ -1,5 +1,0 @@
-handwriting(0.096)
-writing(0.076)
-autographing(0.073)
-discussing(0.065)
-signing(0.059)

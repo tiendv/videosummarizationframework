@@ -1,5 +1,0 @@
-queuing(0.103)
-fencing(0.037)
-walking(0.032)
-standing(0.028)
-turning(0.027)

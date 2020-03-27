@@ -1,5 +1,0 @@
-walking(0.213)
-shrugging(0.074)
-rolling(0.043)
-turning(0.043)
-shaking(0.037)

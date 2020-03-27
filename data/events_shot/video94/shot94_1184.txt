@@ -1,5 +1,0 @@
-drying(0.033)
-drinking(0.033)
-cooking(0.020)
-washing(0.018)
-sitting(0.018)

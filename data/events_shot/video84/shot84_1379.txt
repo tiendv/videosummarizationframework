@@ -1,5 +1,0 @@
-walking(0.327)
-exiting(0.044)
-standing(0.044)
-child+singing(0.043)
-entering(0.028)

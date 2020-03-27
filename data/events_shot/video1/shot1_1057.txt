@@ -1,5 +1,0 @@
-waking(0.129)
-sleeping(0.095)
-adult+male+singing(0.059)
-resting(0.037)
-playing+videogames(0.028)

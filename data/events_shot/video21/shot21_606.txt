@@ -1,5 +1,0 @@
-whistling(0.209)
-slapping(0.108)
-coughing(0.099)
-spitting(0.047)
-smelling(0.032)

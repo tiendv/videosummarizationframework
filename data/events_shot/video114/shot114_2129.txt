@@ -1,5 +1,0 @@
-mopping(0.050)
-knocking(0.045)
-slapping(0.040)
-vacuuming(0.039)
-cleaning(0.039)

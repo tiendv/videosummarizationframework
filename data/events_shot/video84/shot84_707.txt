@@ -1,5 +1,0 @@
-walking(0.260)
-exiting(0.111)
-fencing(0.045)
-gardening(0.027)
-sniffing(0.022)

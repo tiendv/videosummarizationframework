@@ -1,5 +1,0 @@
-adult+male+speaking(0.075)
-sitting(0.036)
-laughing(0.032)
-arresting(0.030)
-punching(0.029)

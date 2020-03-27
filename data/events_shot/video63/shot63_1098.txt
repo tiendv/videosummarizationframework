@@ -1,5 +1,0 @@
-coughing(0.048)
-sneezing(0.047)
-adult+male+speaking(0.042)
-slapping(0.030)
-sitting(0.027)

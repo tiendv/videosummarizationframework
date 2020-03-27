@@ -1,5 +1,0 @@
-talking(0.105)
-crying(0.083)
-kissing(0.042)
-hugging(0.041)
-frowning(0.035)

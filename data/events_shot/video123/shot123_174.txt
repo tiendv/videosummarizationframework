@@ -1,5 +1,0 @@
-sitting(0.109)
-dining(0.103)
-discussing(0.089)
-gambling(0.088)
-playing+videogames(0.043)

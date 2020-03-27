@@ -1,5 +1,0 @@
-baking(0.287)
-cooking(0.124)
-crafting(0.027)
-rolling(0.025)
-putting(0.020)

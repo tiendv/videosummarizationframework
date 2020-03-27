@@ -1,5 +1,0 @@
-raining(0.056)
-entering(0.038)
-driving(0.036)
-riding(0.026)
-pulling(0.018)

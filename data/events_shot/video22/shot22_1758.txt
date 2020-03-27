@@ -1,5 +1,0 @@
-drying(0.165)
-cooking(0.090)
-burning(0.060)
-pouring(0.041)
-stirring(0.036)

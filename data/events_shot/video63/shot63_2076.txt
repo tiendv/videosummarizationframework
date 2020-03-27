@@ -1,5 +1,0 @@
-squatting(0.097)
-dining(0.063)
-sitting(0.063)
-lifting(0.042)
-standing(0.026)

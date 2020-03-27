@@ -1,5 +1,0 @@
-building(0.395)
-constructing(0.166)
-assembling(0.045)
-running(0.039)
-working(0.029)

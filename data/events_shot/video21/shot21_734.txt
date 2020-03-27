@@ -1,5 +1,0 @@
-drinking(0.067)
-inflating(0.054)
-crafting(0.036)
-smelling(0.033)
-sneezing(0.031)

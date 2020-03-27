@@ -1,5 +1,0 @@
-standing(0.258)
-guarding(0.048)
-talking(0.033)
-sitting(0.033)
-discussing(0.031)

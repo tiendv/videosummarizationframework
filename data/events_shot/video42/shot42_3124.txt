@@ -1,5 +1,0 @@
-bowling(0.412)
-adult+male+speaking(0.031)
-slapping(0.029)
-bowing(0.027)
-fighting(0.024)

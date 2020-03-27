@@ -1,5 +1,0 @@
-standing(0.063)
-squatting(0.043)
-interviewing(0.039)
-asking(0.038)
-sitting(0.036)

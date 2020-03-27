@@ -1,5 +1,0 @@
-adult+male+singing(0.203)
-performing(0.114)
-standing(0.098)
-singing(0.081)
-playing+music(0.029)

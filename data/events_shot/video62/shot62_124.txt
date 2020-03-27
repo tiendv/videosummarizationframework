@@ -1,5 +1,0 @@
-sneezing(0.106)
-walking(0.034)
-packing(0.033)
-stealing(0.028)
-dressing(0.026)

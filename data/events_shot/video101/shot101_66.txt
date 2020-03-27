@@ -1,5 +1,0 @@
-standing(0.061)
-handcuffing(0.050)
-knocking(0.050)
-arresting(0.047)
-walking(0.046)

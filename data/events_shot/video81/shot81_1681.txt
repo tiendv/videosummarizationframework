@@ -1,5 +1,0 @@
-inflating(0.111)
-adult+female+speaking(0.057)
-adult+male+speaking(0.038)
-adult+female+singing(0.031)
-asking(0.022)

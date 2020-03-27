@@ -1,5 +1,0 @@
-bouncing(0.095)
-bubbling(0.084)
-inflating(0.061)
-adult+female+singing(0.034)
-twisting(0.029)

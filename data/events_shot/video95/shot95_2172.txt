@@ -1,5 +1,0 @@
-vacuuming(0.128)
-asking(0.055)
-adult+female+speaking(0.048)
-child+speaking(0.029)
-slapping(0.026)

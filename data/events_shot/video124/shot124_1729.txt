@@ -1,5 +1,0 @@
-cooking(0.111)
-boiling(0.058)
-stirring(0.048)
-drying(0.045)
-playing+videogames(0.043)

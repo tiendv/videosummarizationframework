@@ -1,5 +1,0 @@
-child+singing(0.051)
-child+speaking(0.040)
-talking(0.036)
-discussing(0.033)
-adult+female+speaking(0.030)

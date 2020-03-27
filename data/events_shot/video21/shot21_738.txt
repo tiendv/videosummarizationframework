@@ -1,5 +1,0 @@
-adult+female+speaking(0.250)
-interviewing(0.063)
-handwriting(0.050)
-studying(0.049)
-writing(0.047)

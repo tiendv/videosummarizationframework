@@ -1,5 +1,0 @@
-spinning(0.722)
-turning(0.266)
-twisting(0.001)
-rolling(0.001)
-balancing(0.001)

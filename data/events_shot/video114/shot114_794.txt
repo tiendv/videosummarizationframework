@@ -1,5 +1,0 @@
-exiting(0.065)
-adult+male+speaking(0.058)
-smiling(0.057)
-laughing(0.047)
-walking(0.045)

@@ -1,5 +1,0 @@
-adult+female+singing(0.168)
-adult+female+speaking(0.099)
-climbing(0.039)
-hunting(0.025)
-standing(0.022)

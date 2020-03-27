@@ -1,5 +1,0 @@
-sneezing(0.154)
-reading(0.149)
-tapping(0.142)
-coughing(0.073)
-studying(0.044)

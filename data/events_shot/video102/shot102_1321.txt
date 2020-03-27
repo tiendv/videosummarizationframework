@@ -1,5 +1,0 @@
-yawning(0.248)
-roaring(0.089)
-adult+female+singing(0.062)
-adult+female+speaking(0.038)
-coughing(0.029)

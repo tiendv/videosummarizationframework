@@ -1,5 +1,0 @@
-painting(0.169)
-running(0.035)
-opening(0.034)
-exiting(0.033)
-loading(0.033)

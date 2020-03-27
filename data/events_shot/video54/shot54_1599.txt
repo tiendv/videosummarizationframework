@@ -1,5 +1,0 @@
-drinking(0.111)
-spitting(0.040)
-smelling(0.030)
-pointing(0.027)
-discussing(0.026)

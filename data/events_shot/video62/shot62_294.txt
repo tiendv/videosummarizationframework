@@ -1,5 +1,0 @@
-frowning(0.256)
-crying(0.192)
-carrying(0.037)
-shrugging(0.028)
-clipping(0.019)

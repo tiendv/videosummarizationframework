@@ -1,5 +1,0 @@
-standing(0.046)
-adult+female+speaking(0.044)
-hanging(0.035)
-walking(0.023)
-officiating(0.023)

@@ -1,5 +1,0 @@
-arresting(0.693)
-handcuffing(0.105)
-driving(0.015)
-hitchhiking(0.014)
-guarding(0.014)

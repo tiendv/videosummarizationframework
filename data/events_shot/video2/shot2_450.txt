@@ -1,5 +1,0 @@
-sneezing(0.242)
-coughing(0.160)
-hugging(0.109)
-kissing(0.029)
-crying(0.025)

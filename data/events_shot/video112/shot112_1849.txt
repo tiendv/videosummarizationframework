@@ -1,5 +1,0 @@
-sleeping(0.067)
-adult+male+speaking(0.060)
-playing+videogames(0.041)
-fighting(0.038)
-attacking(0.036)

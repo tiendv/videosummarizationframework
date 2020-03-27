@@ -1,5 +1,0 @@
-walking(0.285)
-running(0.037)
-standing(0.026)
-sneezing(0.026)
-removing(0.024)

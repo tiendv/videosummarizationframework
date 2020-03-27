@@ -1,5 +1,0 @@
-adult+male+speaking(0.129)
-coughing(0.080)
-eating(0.068)
-drinking(0.047)
-telephoning(0.028)

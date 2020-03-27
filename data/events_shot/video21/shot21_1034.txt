@@ -1,5 +1,0 @@
-shopping(0.290)
-selling(0.067)
-stealing(0.058)
-laughing(0.052)
-sneezing(0.047)

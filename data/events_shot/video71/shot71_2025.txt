@@ -1,5 +1,0 @@
-opening(0.144)
-cuddling(0.060)
-closing(0.056)
-adult+female+speaking(0.038)
-laughing(0.031)

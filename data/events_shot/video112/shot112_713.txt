@@ -1,5 +1,0 @@
-barking(0.051)
-smiling(0.039)
-sneezing(0.032)
-sitting(0.032)
-laughing(0.028)

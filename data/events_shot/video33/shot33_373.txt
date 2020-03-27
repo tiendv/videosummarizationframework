@@ -1,5 +1,0 @@
-towing(0.122)
-driving(0.110)
-steering(0.050)
-crashing(0.035)
-playing+videogames(0.029)

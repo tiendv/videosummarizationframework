@@ -1,5 +1,0 @@
-walking(0.218)
-calling(0.105)
-telephoning(0.101)
-exiting(0.054)
-shopping(0.020)

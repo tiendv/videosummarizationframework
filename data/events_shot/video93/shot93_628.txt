@@ -1,5 +1,0 @@
-chewing(0.123)
-stacking(0.044)
-eating(0.030)
-child+speaking(0.026)
-brushing(0.021)

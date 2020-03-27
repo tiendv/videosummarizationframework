@@ -1,5 +1,0 @@
-walking(0.119)
-queuing(0.086)
-stealing(0.044)
-shopping(0.043)
-arresting(0.039)

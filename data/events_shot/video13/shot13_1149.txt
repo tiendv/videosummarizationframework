@@ -1,5 +1,0 @@
-walking(0.241)
-queuing(0.080)
-arresting(0.065)
-guarding(0.051)
-exiting(0.047)

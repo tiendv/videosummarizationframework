@@ -1,5 +1,0 @@
-queuing(0.123)
-joining(0.049)
-hugging(0.046)
-adult+male+singing(0.038)
-slapping(0.036)

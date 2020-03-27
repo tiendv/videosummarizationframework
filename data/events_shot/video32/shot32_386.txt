@@ -1,5 +1,0 @@
-hugging(0.078)
-pointing(0.027)
-adult+male+speaking(0.023)
-adult+female+speaking(0.021)
-brushing(0.020)

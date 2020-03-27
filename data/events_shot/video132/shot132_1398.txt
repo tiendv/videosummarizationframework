@@ -1,5 +1,0 @@
-spinning(0.543)
-turning(0.105)
-riding(0.033)
-roaring(0.023)
-raining(0.023)

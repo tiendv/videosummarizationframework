@@ -1,5 +1,0 @@
-crafting(0.123)
-manicuring(0.105)
-taping(0.089)
-cooking(0.060)
-waxing(0.027)

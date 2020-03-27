@@ -1,5 +1,0 @@
-slapping(0.181)
-fencing(0.089)
-adult+male+speaking(0.068)
-guarding(0.046)
-attacking(0.034)

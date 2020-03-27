@@ -1,5 +1,0 @@
-kissing(0.206)
-hugging(0.115)
-adult+male+singing(0.032)
-marrying(0.026)
-standing(0.020)

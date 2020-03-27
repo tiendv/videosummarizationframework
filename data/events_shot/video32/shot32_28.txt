@@ -1,5 +1,0 @@
-raining(0.067)
-walking(0.066)
-snowing(0.062)
-playing+videogames(0.027)
-storming(0.020)

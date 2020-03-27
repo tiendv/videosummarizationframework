@@ -1,5 +1,0 @@
-cleaning(0.049)
-walking(0.040)
-asking(0.029)
-sneezing(0.024)
-adult+male+speaking(0.024)

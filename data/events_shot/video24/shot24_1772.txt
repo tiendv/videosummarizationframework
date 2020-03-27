@@ -1,5 +1,0 @@
-tapping(0.296)
-chewing(0.146)
-sitting(0.048)
-interviewing(0.037)
-discussing(0.031)

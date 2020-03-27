@@ -1,5 +1,0 @@
-driving(0.055)
-playing+videogames(0.055)
-walking(0.037)
-filming(0.034)
-riding(0.028)

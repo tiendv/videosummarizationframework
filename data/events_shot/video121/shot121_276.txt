@@ -1,5 +1,0 @@
-drawing(0.156)
-writing(0.131)
-sketching(0.111)
-handwriting(0.108)
-autographing(0.067)

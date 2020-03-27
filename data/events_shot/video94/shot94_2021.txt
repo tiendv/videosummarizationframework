@@ -1,5 +1,0 @@
-asking(0.298)
-interviewing(0.161)
-adult+male+speaking(0.126)
-discussing(0.043)
-filming(0.019)

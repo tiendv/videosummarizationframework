@@ -1,5 +1,0 @@
-brushing(0.052)
-combing(0.050)
-crying(0.045)
-adult+female+singing(0.036)
-raining(0.029)

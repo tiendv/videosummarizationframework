@@ -1,5 +1,0 @@
-talking(0.080)
-adult+male+speaking(0.077)
-frowning(0.075)
-pushing(0.049)
-arresting(0.040)

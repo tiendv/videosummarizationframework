@@ -1,5 +1,0 @@
-rising(0.101)
-roaring(0.094)
-playing+videogames(0.037)
-attacking(0.029)
-adult+male+speaking(0.026)

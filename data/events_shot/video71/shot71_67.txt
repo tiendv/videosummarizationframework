@@ -1,5 +1,0 @@
-hugging(0.127)
-adult+female+speaking(0.062)
-cuddling(0.034)
-dressing(0.027)
-tattooing(0.027)

@@ -1,5 +1,0 @@
-jumping(0.168)
-climbing(0.121)
-hanging(0.067)
-diving(0.051)
-flying(0.048)

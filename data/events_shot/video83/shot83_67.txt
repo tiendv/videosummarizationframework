@@ -1,5 +1,0 @@
-fueling(0.469)
-paying(0.200)
-selling(0.047)
-serving(0.028)
-filling(0.022)

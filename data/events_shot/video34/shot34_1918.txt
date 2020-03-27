@@ -1,5 +1,0 @@
-fencing(0.184)
-running(0.109)
-racing(0.026)
-sprinting(0.025)
-jumping(0.020)

@@ -1,5 +1,0 @@
-sitting(0.079)
-preaching(0.037)
-adult+male+speaking(0.036)
-lecturing(0.031)
-discussing(0.030)

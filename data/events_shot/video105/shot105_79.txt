@@ -1,5 +1,0 @@
-cooking(0.098)
-packing(0.098)
-dipping(0.085)
-unpacking(0.051)
-stirring(0.027)

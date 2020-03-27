@@ -1,5 +1,0 @@
-fencing(0.350)
-fighting(0.078)
-slapping(0.068)
-smiling(0.027)
-punching(0.027)

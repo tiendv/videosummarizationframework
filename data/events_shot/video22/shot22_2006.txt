@@ -1,5 +1,0 @@
-spinning(0.590)
-turning(0.085)
-starting(0.030)
-adult+female+speaking(0.014)
-rolling(0.014)

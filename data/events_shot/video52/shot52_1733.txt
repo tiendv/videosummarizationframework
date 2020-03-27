@@ -1,5 +1,0 @@
-hiking(0.275)
-hunting(0.170)
-descending(0.042)
-walking(0.040)
-running(0.036)

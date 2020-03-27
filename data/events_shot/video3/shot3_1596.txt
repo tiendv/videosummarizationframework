@@ -1,5 +1,0 @@
-child+singing(0.104)
-singing(0.069)
-adult+female+speaking(0.060)
-child+speaking(0.059)
-knocking(0.058)

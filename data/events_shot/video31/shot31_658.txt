@@ -1,5 +1,0 @@
-crying(0.456)
-praying(0.060)
-adult+female+speaking(0.036)
-sneezing(0.026)
-smoking(0.023)

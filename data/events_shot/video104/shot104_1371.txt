@@ -1,5 +1,0 @@
-sitting(0.046)
-parading(0.043)
-marching(0.032)
-cheerleading(0.032)
-standing(0.029)

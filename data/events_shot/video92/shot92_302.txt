@@ -1,5 +1,0 @@
-building(0.068)
-working(0.044)
-fencing(0.035)
-cleaning(0.032)
-mopping(0.030)

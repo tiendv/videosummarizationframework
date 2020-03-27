@@ -1,5 +1,0 @@
-adult+female+speaking(0.049)
-walking(0.042)
-constructing(0.036)
-adult+male+speaking(0.034)
-building(0.034)

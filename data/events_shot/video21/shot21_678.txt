@@ -1,5 +1,0 @@
-gripping(0.062)
-tying(0.040)
-climbing(0.039)
-fighting(0.031)
-spinning(0.027)

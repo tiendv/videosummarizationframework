@@ -1,5 +1,0 @@
-towing(0.100)
-crushing(0.042)
-destroying(0.033)
-pushing(0.031)
-crashing(0.030)

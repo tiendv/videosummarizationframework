@@ -1,5 +1,0 @@
-raising(0.197)
-shrugging(0.192)
-standing(0.054)
-walking(0.041)
-leaning(0.033)

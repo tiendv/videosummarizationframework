@@ -1,5 +1,0 @@
-tapping(0.256)
-chewing(0.057)
-scratching(0.042)
-adult+female+speaking(0.029)
-crying(0.027)

@@ -1,5 +1,0 @@
-shooting(0.084)
-aiming(0.068)
-cleaning(0.042)
-guarding(0.033)
-walking(0.018)

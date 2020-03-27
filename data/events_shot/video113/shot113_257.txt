@@ -1,5 +1,0 @@
-adult+male+speaking(0.156)
-adult+male+singing(0.101)
-standing(0.040)
-smiling(0.039)
-officiating(0.036)

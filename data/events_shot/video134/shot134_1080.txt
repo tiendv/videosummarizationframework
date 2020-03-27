@@ -1,5 +1,0 @@
-saluting(0.129)
-guarding(0.061)
-adult+male+speaking(0.040)
-waving(0.035)
-hitchhiking(0.031)

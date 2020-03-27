@@ -1,5 +1,0 @@
-sneezing(0.084)
-talking(0.072)
-laughing(0.071)
-eating(0.055)
-coughing(0.047)

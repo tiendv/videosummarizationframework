@@ -1,5 +1,0 @@
-adult+male+speaking(0.083)
-walking(0.058)
-playing+videogames(0.041)
-gripping(0.039)
-hitchhiking(0.036)

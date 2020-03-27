@@ -1,5 +1,0 @@
-gardening(0.067)
-fencing(0.047)
-walking(0.041)
-carrying(0.041)
-picking(0.026)

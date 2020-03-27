@@ -1,5 +1,0 @@
-sneezing(0.078)
-laughing(0.066)
-walking(0.053)
-hiking(0.053)
-spitting(0.038)

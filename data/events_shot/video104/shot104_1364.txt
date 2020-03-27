@@ -1,5 +1,0 @@
-waking(0.262)
-sleeping(0.250)
-packing(0.125)
-closing(0.086)
-opening(0.075)

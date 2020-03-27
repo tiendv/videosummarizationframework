@@ -1,5 +1,0 @@
-drawing(0.281)
-painting(0.234)
-sketching(0.079)
-asking(0.022)
-smiling(0.018)

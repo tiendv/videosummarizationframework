@@ -1,5 +1,0 @@
-bouncing(0.496)
-fencing(0.037)
-shaking(0.014)
-stretching(0.012)
-falling(0.012)

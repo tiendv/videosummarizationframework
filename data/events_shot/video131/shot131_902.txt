@@ -1,5 +1,0 @@
-applauding(0.096)
-standing(0.071)
-walking(0.051)
-marrying(0.048)
-clapping(0.047)

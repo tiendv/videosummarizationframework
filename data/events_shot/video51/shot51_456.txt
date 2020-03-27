@@ -1,5 +1,0 @@
-painting(0.296)
-manicuring(0.072)
-autographing(0.060)
-adult+female+speaking(0.043)
-drawing(0.024)

@@ -1,5 +1,0 @@
-walking(0.051)
-waking(0.030)
-tapping(0.026)
-sitting(0.021)
-slapping(0.020)

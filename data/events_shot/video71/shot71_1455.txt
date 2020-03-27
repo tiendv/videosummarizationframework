@@ -1,5 +1,0 @@
-combing(0.085)
-tapping(0.075)
-frowning(0.069)
-discussing(0.041)
-slapping(0.035)

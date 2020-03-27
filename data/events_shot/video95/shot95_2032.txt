@@ -1,5 +1,0 @@
-opening(0.048)
-closing(0.032)
-vacuuming(0.030)
-playing+music(0.020)
-laughing(0.018)

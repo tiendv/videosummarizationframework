@@ -1,5 +1,0 @@
-running(0.057)
-walking(0.040)
-barking(0.037)
-exercising(0.033)
-boxing(0.031)

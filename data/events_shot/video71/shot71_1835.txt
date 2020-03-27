@@ -1,5 +1,0 @@
-adult+female+speaking(0.042)
-coughing(0.036)
-brushing(0.032)
-clapping(0.027)
-poking(0.026)

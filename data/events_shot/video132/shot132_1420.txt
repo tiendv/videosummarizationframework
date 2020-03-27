@@ -1,5 +1,0 @@
-boxing(0.341)
-punching(0.096)
-adult+male+speaking(0.066)
-wrapping(0.049)
-taping(0.037)

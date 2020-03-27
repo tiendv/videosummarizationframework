@@ -1,5 +1,0 @@
-dressing(0.116)
-packing(0.075)
-drying(0.056)
-combing(0.052)
-folding(0.036)

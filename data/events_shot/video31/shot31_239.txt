@@ -1,5 +1,0 @@
-bathing(0.078)
-shaving(0.065)
-adult+male+speaking(0.054)
-smiling(0.050)
-tattooing(0.036)

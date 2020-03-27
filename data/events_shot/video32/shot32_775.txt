@@ -1,5 +1,0 @@
-carrying(0.094)
-walking(0.070)
-crying(0.070)
-adult+male+speaking(0.052)
-filming(0.040)

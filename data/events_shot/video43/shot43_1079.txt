@@ -1,5 +1,0 @@
-sleeping(0.055)
-stealing(0.035)
-laughing(0.031)
-waking(0.029)
-resting(0.025)

@@ -1,5 +1,0 @@
-tapping(0.093)
-putting(0.030)
-child+speaking(0.028)
-giving(0.026)
-taping(0.023)

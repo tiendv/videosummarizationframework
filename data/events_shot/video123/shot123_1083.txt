@@ -1,5 +1,0 @@
-guarding(0.200)
-walking(0.127)
-standing(0.067)
-waving(0.059)
-preaching(0.038)

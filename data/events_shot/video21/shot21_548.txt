@@ -1,5 +1,0 @@
-walking(0.129)
-standing(0.046)
-shopping(0.036)
-hugging(0.034)
-autographing(0.028)

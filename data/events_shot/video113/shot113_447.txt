@@ -1,5 +1,0 @@
-coughing(0.067)
-adult+male+speaking(0.058)
-talking(0.035)
-cracking(0.031)
-whistling(0.030)

@@ -1,5 +1,0 @@
-locking(0.037)
-bowing(0.033)
-adult+female+speaking(0.026)
-poking(0.025)
-stretching(0.022)

@@ -1,5 +1,0 @@
-bouncing(0.050)
-juggling(0.049)
-turning(0.045)
-laughing(0.045)
-spinning(0.037)

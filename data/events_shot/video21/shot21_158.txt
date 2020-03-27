@@ -1,5 +1,0 @@
-vacuuming(0.812)
-unpacking(0.026)
-mopping(0.020)
-hammering(0.015)
-packing(0.014)

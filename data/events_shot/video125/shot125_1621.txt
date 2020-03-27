@@ -1,5 +1,0 @@
-whistling(0.812)
-smoking(0.080)
-bubbling(0.013)
-coughing(0.013)
-squinting(0.005)

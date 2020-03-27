@@ -1,5 +1,0 @@
-walking(0.047)
-guarding(0.047)
-filming(0.047)
-whistling(0.045)
-carrying(0.037)

@@ -1,5 +1,0 @@
-saluting(0.214)
-marching(0.130)
-standing(0.111)
-parading(0.087)
-guarding(0.041)

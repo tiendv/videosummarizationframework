@@ -1,5 +1,0 @@
-baking(0.385)
-cooking(0.324)
-walking(0.016)
-talking(0.012)
-rolling(0.012)

@@ -1,5 +1,0 @@
-shaving(0.026)
-standing(0.024)
-walking(0.023)
-adult+male+speaking(0.022)
-entering(0.017)

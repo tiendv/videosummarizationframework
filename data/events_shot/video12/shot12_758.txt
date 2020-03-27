@@ -1,5 +1,0 @@
-adult+female+singing(0.120)
-adult+male+singing(0.055)
-adult+female+speaking(0.046)
-tattooing(0.041)
-manicuring(0.025)

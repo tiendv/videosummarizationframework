@@ -1,5 +1,0 @@
-tapping(0.222)
-telephoning(0.129)
-calling(0.102)
-adult+male+speaking(0.031)
-chewing(0.020)

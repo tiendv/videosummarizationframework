@@ -1,5 +1,0 @@
-saluting(0.069)
-frowning(0.064)
-adult+male+speaking(0.047)
-squinting(0.041)
-painting(0.029)

@@ -1,5 +1,0 @@
-stacking(0.052)
-talking(0.043)
-standing(0.036)
-adult+male+speaking(0.035)
-working(0.032)

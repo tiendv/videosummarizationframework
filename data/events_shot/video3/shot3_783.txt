@@ -1,5 +1,0 @@
-fueling(0.299)
-closing(0.120)
-exiting(0.114)
-opening(0.080)
-arresting(0.058)

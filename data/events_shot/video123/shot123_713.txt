@@ -1,5 +1,0 @@
-sneezing(0.431)
-coughing(0.132)
-squinting(0.019)
-slapping(0.017)
-waking(0.015)

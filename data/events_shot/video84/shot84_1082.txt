@@ -1,5 +1,0 @@
-talking(0.168)
-adult+male+speaking(0.097)
-discussing(0.054)
-starting(0.037)
-standing(0.030)

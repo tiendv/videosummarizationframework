@@ -1,5 +1,0 @@
-knocking(0.109)
-adult+female+speaking(0.096)
-adult+female+singing(0.071)
-smiling(0.033)
-opening(0.024)

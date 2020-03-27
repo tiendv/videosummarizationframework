@@ -1,5 +1,0 @@
-flying(0.112)
-diving(0.065)
-rolling(0.052)
-ascending(0.044)
-descending(0.042)

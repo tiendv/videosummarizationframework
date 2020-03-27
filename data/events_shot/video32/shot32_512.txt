@@ -1,5 +1,0 @@
-walking(0.099)
-hugging(0.062)
-fighting(0.041)
-carrying(0.040)
-kissing(0.034)

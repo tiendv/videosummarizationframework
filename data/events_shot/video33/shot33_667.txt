@@ -1,5 +1,0 @@
-waking(0.162)
-crying(0.076)
-squinting(0.057)
-resting(0.052)
-adult+male+speaking(0.044)

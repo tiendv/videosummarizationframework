@@ -1,5 +1,0 @@
-steering(0.045)
-riding(0.038)
-pulling(0.035)
-chasing(0.030)
-aiming(0.025)

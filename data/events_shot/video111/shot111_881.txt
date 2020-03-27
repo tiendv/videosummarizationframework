@@ -1,5 +1,0 @@
-asking(0.059)
-walking(0.033)
-hugging(0.031)
-slapping(0.029)
-adult+female+speaking(0.028)

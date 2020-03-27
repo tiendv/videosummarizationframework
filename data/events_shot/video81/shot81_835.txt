@@ -1,5 +1,0 @@
-raining(0.054)
-praying(0.048)
-laughing(0.029)
-snowing(0.025)
-adult+male+speaking(0.023)

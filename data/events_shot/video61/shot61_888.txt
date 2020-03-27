@@ -1,5 +1,0 @@
-walking(0.541)
-shrugging(0.043)
-dressing(0.023)
-exiting(0.020)
-opening(0.020)

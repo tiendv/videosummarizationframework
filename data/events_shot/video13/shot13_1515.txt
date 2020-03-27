@@ -1,5 +1,0 @@
-clawing(0.245)
-jumping(0.026)
-flipping(0.023)
-packing(0.018)
-stealing(0.017)

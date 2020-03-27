@@ -1,5 +1,0 @@
-building(0.095)
-adult+male+speaking(0.053)
-entering(0.048)
-walking(0.045)
-guarding(0.043)

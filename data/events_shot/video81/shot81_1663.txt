@@ -1,5 +1,0 @@
-clapping(0.075)
-slapping(0.072)
-drumming(0.052)
-applauding(0.049)
-rocking(0.036)

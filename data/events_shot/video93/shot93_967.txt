@@ -1,5 +1,0 @@
-lecturing(0.117)
-discussing(0.094)
-sitting(0.065)
-handwriting(0.054)
-studying(0.047)

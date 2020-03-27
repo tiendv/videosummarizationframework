@@ -1,5 +1,0 @@
-spinning(0.373)
-turning(0.090)
-building(0.077)
-hanging(0.037)
-standing(0.028)

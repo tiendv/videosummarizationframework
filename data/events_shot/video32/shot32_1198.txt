@@ -1,5 +1,0 @@
-adult+female+singing(0.140)
-adult+female+speaking(0.039)
-performing(0.031)
-adult+male+singing(0.023)
-dancing(0.021)

@@ -1,5 +1,0 @@
-sneezing(0.186)
-coughing(0.086)
-roaring(0.034)
-hunting(0.023)
-spitting(0.022)

@@ -1,5 +1,0 @@
-protesting(0.078)
-standing(0.076)
-walking(0.050)
-talking(0.047)
-hanging(0.043)

@@ -1,5 +1,0 @@
-drawing(0.102)
-handwriting(0.087)
-assembling(0.057)
-sketching(0.038)
-measuring(0.037)

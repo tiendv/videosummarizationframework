@@ -1,5 +1,0 @@
-aiming(0.838)
-shooting(0.030)
-pointing(0.029)
-hunting(0.014)
-starting(0.012)

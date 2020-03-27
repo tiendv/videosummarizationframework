@@ -1,5 +1,0 @@
-walking(0.250)
-waving(0.040)
-standing(0.033)
-exiting(0.030)
-talking(0.029)

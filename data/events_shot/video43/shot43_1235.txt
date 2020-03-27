@@ -1,5 +1,0 @@
-opening(0.083)
-closing(0.071)
-talking(0.046)
-adult+female+speaking(0.042)
-driving(0.040)

@@ -1,5 +1,0 @@
-blocking(0.096)
-adult+male+speaking(0.069)
-knocking(0.052)
-punching(0.049)
-gripping(0.033)

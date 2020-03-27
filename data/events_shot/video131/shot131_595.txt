@@ -1,5 +1,0 @@
-running(0.050)
-blocking(0.038)
-sitting(0.029)
-laughing(0.027)
-knocking(0.026)

@@ -1,5 +1,0 @@
-fueling(0.142)
-washing(0.073)
-towing(0.062)
-walking(0.041)
-loading(0.039)

@@ -1,5 +1,0 @@
-shopping(0.255)
-smelling(0.101)
-sniffing(0.066)
-buying(0.065)
-stealing(0.049)

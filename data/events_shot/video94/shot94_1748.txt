@@ -1,5 +1,0 @@
-adult+female+singing(0.046)
-child+singing(0.041)
-squinting(0.021)
-sneezing(0.019)
-rocking(0.019)

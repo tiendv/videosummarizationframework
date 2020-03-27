@@ -1,5 +1,0 @@
-hammering(0.088)
-punching(0.049)
-pressing(0.028)
-attacking(0.018)
-stomping(0.017)

@@ -1,5 +1,0 @@
-massaging(0.096)
-gripping(0.094)
-rubbing(0.076)
-handcuffing(0.040)
-adult+male+speaking(0.034)

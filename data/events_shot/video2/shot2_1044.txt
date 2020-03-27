@@ -1,5 +1,0 @@
-kissing(0.055)
-adult+male+speaking(0.050)
-laughing(0.028)
-licking(0.026)
-drinking(0.022)

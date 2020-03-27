@@ -1,5 +1,0 @@
-racing(0.324)
-driving(0.178)
-riding(0.139)
-talking(0.023)
-mowing(0.020)

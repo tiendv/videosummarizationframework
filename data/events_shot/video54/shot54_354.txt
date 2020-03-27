@@ -1,5 +1,0 @@
-squatting(0.859)
-kneeling(0.050)
-stretching(0.027)
-exercising(0.013)
-crouching(0.005)

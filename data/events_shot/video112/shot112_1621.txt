@@ -1,5 +1,0 @@
-studying(0.100)
-sitting(0.079)
-cramming(0.044)
-sneezing(0.043)
-eating(0.037)

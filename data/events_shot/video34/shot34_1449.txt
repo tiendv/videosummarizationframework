@@ -1,5 +1,0 @@
-walking(0.106)
-hugging(0.068)
-coaching(0.049)
-lecturing(0.037)
-standing(0.037)

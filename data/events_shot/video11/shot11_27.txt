@@ -1,5 +1,0 @@
-spinning(0.249)
-adult+female+singing(0.169)
-walking(0.120)
-turning(0.112)
-singing(0.033)

@@ -1,5 +1,0 @@
-slapping(0.096)
-asking(0.050)
-imitating(0.030)
-standing(0.027)
-adult+male+speaking(0.027)

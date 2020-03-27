@@ -1,5 +1,0 @@
-spraying(0.140)
-fencing(0.096)
-walking(0.074)
-standing(0.038)
-running(0.027)

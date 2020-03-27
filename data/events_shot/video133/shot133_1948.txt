@@ -1,5 +1,0 @@
-tapping(0.700)
-drinking(0.037)
-scratching(0.021)
-rubbing(0.016)
-poking(0.016)

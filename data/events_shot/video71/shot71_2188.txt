@@ -1,5 +1,0 @@
-racing(0.128)
-running(0.055)
-attacking(0.042)
-skiing(0.040)
-chasing(0.038)

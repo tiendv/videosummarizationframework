@@ -1,5 +1,0 @@
-drying(0.150)
-combing(0.146)
-winking(0.088)
-adult+female+speaking(0.069)
-smiling(0.065)

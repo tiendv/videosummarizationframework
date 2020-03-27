@@ -1,5 +1,0 @@
-walking(0.075)
-bicycling(0.054)
-riding(0.054)
-pointing(0.043)
-sitting(0.028)

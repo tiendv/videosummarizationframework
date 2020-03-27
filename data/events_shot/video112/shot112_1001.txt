@@ -1,5 +1,0 @@
-asking(0.061)
-standing(0.061)
-hugging(0.055)
-laughing(0.036)
-marrying(0.033)

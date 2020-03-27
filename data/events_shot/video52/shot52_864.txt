@@ -1,5 +1,0 @@
-adult+female+speaking(0.274)
-child+speaking(0.166)
-sitting(0.037)
-knitting(0.020)
-brushing(0.020)

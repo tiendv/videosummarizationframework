@@ -1,5 +1,0 @@
-tapping(0.175)
-opening(0.075)
-locking(0.059)
-closing(0.059)
-scratching(0.048)

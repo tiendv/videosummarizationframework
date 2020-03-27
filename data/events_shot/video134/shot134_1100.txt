@@ -1,5 +1,0 @@
-guarding(0.150)
-leaning(0.100)
-hanging(0.079)
-squatting(0.033)
-photographing(0.032)

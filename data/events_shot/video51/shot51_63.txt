@@ -1,5 +1,0 @@
-adult+male+speaking(0.062)
-adult+female+speaking(0.035)
-lecturing(0.030)
-cooking(0.029)
-stirring(0.026)

@@ -1,5 +1,0 @@
-fishing(0.394)
-hunting(0.353)
-catching(0.056)
-shooting(0.016)
-feeding(0.010)

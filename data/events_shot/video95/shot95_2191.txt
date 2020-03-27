@@ -1,5 +1,0 @@
-opening(0.048)
-singing(0.031)
-standing(0.026)
-sitting(0.020)
-performing(0.019)

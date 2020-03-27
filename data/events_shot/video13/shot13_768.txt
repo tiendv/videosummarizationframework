@@ -1,5 +1,0 @@
-dining(0.863)
-lecturing(0.026)
-sitting(0.012)
-serving(0.010)
-discussing(0.009)

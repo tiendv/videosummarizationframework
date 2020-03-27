@@ -1,5 +1,0 @@
-assembling(0.342)
-repairing(0.242)
-working(0.076)
-plugging(0.041)
-building(0.035)

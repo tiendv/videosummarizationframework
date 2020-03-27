@@ -1,5 +1,0 @@
-sitting(0.045)
-asking(0.044)
-discussing(0.036)
-autographing(0.034)
-studying(0.030)

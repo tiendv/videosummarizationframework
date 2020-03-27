@@ -1,5 +1,0 @@
-spinning(0.279)
-turning(0.215)
-talking(0.026)
-driving(0.025)
-walking(0.019)

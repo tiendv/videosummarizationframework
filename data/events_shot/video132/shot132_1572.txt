@@ -1,5 +1,0 @@
-typing(0.207)
-tapping(0.054)
-writing(0.044)
-discussing(0.043)
-adult+female+speaking(0.033)

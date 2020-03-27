@@ -1,5 +1,0 @@
-dining(0.151)
-eating(0.132)
-gambling(0.116)
-praying(0.051)
-chewing(0.049)

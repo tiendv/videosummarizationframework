@@ -1,5 +1,0 @@
-parading(0.295)
-marching(0.205)
-shopping(0.117)
-walking(0.075)
-queuing(0.028)

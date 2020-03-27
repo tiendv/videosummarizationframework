@@ -1,5 +1,0 @@
-dressing(0.101)
-standing(0.044)
-crafting(0.038)
-buttoning(0.026)
-knocking(0.026)

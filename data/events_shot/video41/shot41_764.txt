@@ -1,5 +1,0 @@
-boiling(0.317)
-draining(0.048)
-vacuuming(0.048)
-pressing(0.044)
-leaking(0.042)

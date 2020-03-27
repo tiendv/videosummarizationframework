@@ -1,5 +1,0 @@
-bowing(0.085)
-shrugging(0.052)
-walking(0.033)
-slapping(0.032)
-adult+male+speaking(0.029)

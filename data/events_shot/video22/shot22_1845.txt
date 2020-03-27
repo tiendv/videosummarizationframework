@@ -1,5 +1,0 @@
-adult+male+speaking(0.100)
-crying(0.036)
-standing(0.035)
-coaching(0.031)
-asking(0.024)

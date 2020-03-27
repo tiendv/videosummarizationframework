@@ -1,5 +1,0 @@
-adult+male+speaking(0.128)
-discussing(0.043)
-talking(0.029)
-sneezing(0.025)
-laughing(0.022)

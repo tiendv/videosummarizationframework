@@ -1,5 +1,0 @@
-squatting(0.048)
-jumping(0.041)
-sitting(0.023)
-standing(0.023)
-dancing(0.021)

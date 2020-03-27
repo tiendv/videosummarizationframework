@@ -1,5 +1,0 @@
-fueling(0.091)
-packaging(0.050)
-stealing(0.035)
-loading(0.031)
-shopping(0.028)

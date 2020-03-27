@@ -1,5 +1,0 @@
-rising(0.130)
-adult+female+singing(0.054)
-lifting(0.044)
-walking(0.033)
-playing+videogames(0.028)

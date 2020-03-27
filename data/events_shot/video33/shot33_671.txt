@@ -1,5 +1,0 @@
-filming(0.049)
-barking(0.045)
-knocking(0.036)
-playing+videogames(0.030)
-howling(0.030)

@@ -1,5 +1,0 @@
-eating(0.180)
-chewing(0.120)
-dining(0.035)
-drinking(0.024)
-biting(0.022)

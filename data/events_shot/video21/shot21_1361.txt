@@ -1,5 +1,0 @@
-vacuuming(0.069)
-cleaning(0.065)
-mopping(0.063)
-flipping(0.062)
-flicking(0.058)

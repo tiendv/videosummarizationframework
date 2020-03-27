@@ -1,5 +1,0 @@
-driving(0.045)
-riding(0.042)
-opening(0.037)
-adult+female+speaking(0.036)
-sleeping(0.036)

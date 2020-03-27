@@ -1,5 +1,0 @@
-coughing(0.092)
-laughing(0.085)
-chewing(0.077)
-whistling(0.067)
-sneezing(0.061)

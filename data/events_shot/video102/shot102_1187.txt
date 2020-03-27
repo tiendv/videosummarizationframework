@@ -1,5 +1,0 @@
-handcuffing(0.125)
-assembling(0.063)
-loading(0.040)
-arresting(0.029)
-gripping(0.023)

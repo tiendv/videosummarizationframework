@@ -1,5 +1,0 @@
-cooking(0.176)
-boiling(0.069)
-walking(0.050)
-stirring(0.047)
-talking(0.028)

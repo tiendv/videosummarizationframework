@@ -1,5 +1,0 @@
-throwing(0.060)
-guarding(0.055)
-walking(0.044)
-standing(0.042)
-officiating(0.039)

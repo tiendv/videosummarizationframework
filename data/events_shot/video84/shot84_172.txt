@@ -1,5 +1,0 @@
-shaving(0.425)
-smoking(0.120)
-brushing(0.067)
-drinking(0.029)
-adult+female+singing(0.028)

@@ -1,5 +1,0 @@
-shrugging(0.060)
-asking(0.042)
-squatting(0.042)
-lifting(0.038)
-standing(0.026)

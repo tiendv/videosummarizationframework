@@ -1,5 +1,0 @@
-queuing(0.071)
-arresting(0.041)
-slapping(0.041)
-handcuffing(0.018)
-smashing(0.018)

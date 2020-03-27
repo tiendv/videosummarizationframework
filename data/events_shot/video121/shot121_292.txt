@@ -1,5 +1,0 @@
-adult+male+speaking(0.146)
-pointing(0.095)
-starting(0.046)
-fencing(0.045)
-adult+female+speaking(0.036)

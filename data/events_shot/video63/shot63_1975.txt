@@ -1,5 +1,0 @@
-hugging(0.147)
-tapping(0.072)
-frowning(0.063)
-squinting(0.043)
-crying(0.035)

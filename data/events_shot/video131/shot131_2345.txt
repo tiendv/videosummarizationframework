@@ -1,5 +1,0 @@
-dressing(0.360)
-marrying(0.155)
-buttoning(0.065)
-adult+female+speaking(0.033)
-standing(0.026)

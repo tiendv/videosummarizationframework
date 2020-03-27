@@ -1,5 +1,0 @@
-spinning(0.163)
-vacuuming(0.075)
-turning(0.042)
-mopping(0.042)
-pressing(0.040)

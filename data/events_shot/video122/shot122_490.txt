@@ -1,5 +1,0 @@
-cooking(0.085)
-fencing(0.069)
-adult+male+speaking(0.048)
-cracking(0.047)
-walking(0.021)

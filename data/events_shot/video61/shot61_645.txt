@@ -1,5 +1,0 @@
-cooking(0.046)
-baking(0.046)
-dipping(0.041)
-taping(0.038)
-serving(0.035)

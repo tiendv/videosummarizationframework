@@ -1,5 +1,0 @@
-shoveling(0.055)
-standing(0.047)
-laughing(0.044)
-guarding(0.042)
-walking(0.032)

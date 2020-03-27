@@ -1,5 +1,0 @@
-dressing(0.110)
-walking(0.083)
-sneezing(0.038)
-buttoning(0.033)
-standing(0.024)

@@ -1,5 +1,0 @@
-walking(0.047)
-sanding(0.030)
-spraying(0.029)
-cleaning(0.024)
-adult+female+singing(0.024)

@@ -1,5 +1,0 @@
-walking(0.099)
-handcuffing(0.045)
-adult+female+singing(0.039)
-arresting(0.027)
-exiting(0.025)

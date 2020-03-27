@@ -1,5 +1,0 @@
-flipping(0.099)
-cooking(0.077)
-baking(0.060)
-cleaning(0.058)
-mopping(0.046)

@@ -1,5 +1,0 @@
-drinking(0.112)
-cooking(0.089)
-cleaning(0.050)
-sneezing(0.039)
-stirring(0.038)

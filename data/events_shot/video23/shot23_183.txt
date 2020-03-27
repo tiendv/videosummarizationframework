@@ -1,5 +1,0 @@
-child+speaking(0.073)
-adult+female+speaking(0.065)
-talking(0.042)
-standing(0.031)
-baking(0.024)

@@ -1,5 +1,0 @@
-dining(0.047)
-carving(0.033)
-gripping(0.030)
-wrestling(0.029)
-drinking(0.025)

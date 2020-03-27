@@ -1,5 +1,0 @@
-inflating(0.999)
-blowing(0.001)
-adult+female+speaking(0.000)
-bouncing(0.000)
-adult+female+singing(0.000)

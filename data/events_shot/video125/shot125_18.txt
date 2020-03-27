@@ -1,5 +1,0 @@
-loading(0.245)
-unloading(0.103)
-unpacking(0.060)
-stacking(0.052)
-packaging(0.046)

@@ -1,5 +1,0 @@
-hanging(0.343)
-opening(0.092)
-closing(0.088)
-guarding(0.045)
-sliding(0.027)

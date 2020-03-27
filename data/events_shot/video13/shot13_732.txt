@@ -1,5 +1,0 @@
-queuing(0.166)
-guarding(0.127)
-blocking(0.047)
-standing(0.031)
-adult+male+speaking(0.031)

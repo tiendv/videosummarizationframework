@@ -1,5 +1,0 @@
-opening(0.078)
-playing+music(0.059)
-sitting(0.057)
-painting(0.044)
-closing(0.032)

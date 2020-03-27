@@ -1,5 +1,0 @@
-adult+female+singing(0.116)
-adult+female+speaking(0.064)
-handcuffing(0.028)
-slapping(0.026)
-knocking(0.025)

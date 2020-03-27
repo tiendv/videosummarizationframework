@@ -1,5 +1,0 @@
-boxing(0.398)
-punching(0.279)
-hugging(0.019)
-exercising(0.012)
-coaching(0.011)

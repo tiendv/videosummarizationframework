@@ -1,5 +1,0 @@
-vacuuming(0.190)
-mopping(0.036)
-plugging(0.030)
-adult+male+speaking(0.030)
-telephoning(0.026)

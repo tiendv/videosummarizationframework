@@ -1,5 +1,0 @@
-stacking(0.506)
-bouncing(0.025)
-spinning(0.015)
-rolling(0.012)
-playing(0.012)

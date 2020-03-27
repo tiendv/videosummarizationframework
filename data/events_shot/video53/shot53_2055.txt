@@ -1,5 +1,0 @@
-frowning(0.757)
-winking(0.020)
-squinting(0.020)
-aiming(0.019)
-fighting(0.015)

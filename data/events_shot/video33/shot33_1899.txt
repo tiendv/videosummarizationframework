@@ -1,5 +1,0 @@
-calling(0.086)
-telephoning(0.076)
-standing(0.056)
-laughing(0.038)
-walking(0.033)

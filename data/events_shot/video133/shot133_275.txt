@@ -1,5 +1,0 @@
-throwing(0.108)
-knocking(0.085)
-aiming(0.062)
-flicking(0.050)
-adult+male+speaking(0.025)

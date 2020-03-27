@@ -1,5 +1,0 @@
-bouncing(0.078)
-running(0.066)
-splashing(0.054)
-standing(0.033)
-plunging(0.031)

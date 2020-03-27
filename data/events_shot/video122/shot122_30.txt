@@ -1,5 +1,0 @@
-sitting(0.369)
-leaning(0.027)
-talking(0.023)
-reading(0.023)
-praying(0.021)

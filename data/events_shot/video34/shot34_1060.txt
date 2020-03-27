@@ -1,5 +1,0 @@
-smiling(0.089)
-laughing(0.081)
-walking(0.079)
-pushing(0.035)
-child+speaking(0.029)

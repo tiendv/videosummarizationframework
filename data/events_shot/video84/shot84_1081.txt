@@ -1,5 +1,0 @@
-baking(0.050)
-child+speaking(0.038)
-stirring(0.034)
-cooking(0.033)
-crafting(0.030)

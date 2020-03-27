@@ -1,5 +1,0 @@
-building(0.264)
-constructing(0.245)
-repairing(0.076)
-opening(0.037)
-assembling(0.018)

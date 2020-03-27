@@ -1,5 +1,0 @@
-knitting(0.125)
-tying(0.123)
-stitching(0.113)
-folding(0.090)
-sewing(0.040)

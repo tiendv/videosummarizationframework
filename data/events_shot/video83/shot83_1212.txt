@@ -1,5 +1,0 @@
-stacking(0.047)
-chewing(0.038)
-drinking(0.034)
-mopping(0.033)
-coughing(0.030)

@@ -1,5 +1,0 @@
-tapping(0.042)
-pushing(0.034)
-sneezing(0.031)
-walking(0.024)
-playing+music(0.023)

@@ -1,5 +1,0 @@
-walking(0.402)
-standing(0.092)
-smiling(0.039)
-carrying(0.020)
-officiating(0.018)

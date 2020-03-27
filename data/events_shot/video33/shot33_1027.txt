@@ -1,5 +1,0 @@
-painting(0.135)
-child+speaking(0.041)
-spraying(0.025)
-slapping(0.022)
-wrapping(0.022)

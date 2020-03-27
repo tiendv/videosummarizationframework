@@ -1,5 +1,0 @@
-stirring(0.132)
-cooking(0.130)
-drinking(0.053)
-adult+male+singing(0.028)
-adult+male+speaking(0.025)

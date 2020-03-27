@@ -1,5 +1,0 @@
-hugging(0.075)
-opening(0.041)
-closing(0.036)
-walking(0.023)
-shopping(0.023)

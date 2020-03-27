@@ -1,5 +1,0 @@
-laughing(0.055)
-standing(0.053)
-fighting(0.040)
-stomping(0.038)
-adult+female+singing(0.033)

@@ -1,5 +1,0 @@
-child+singing(0.320)
-child+speaking(0.148)
-officiating(0.088)
-asking(0.045)
-preaching(0.031)

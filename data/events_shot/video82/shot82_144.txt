@@ -1,5 +1,0 @@
-cleaning(0.081)
-mopping(0.059)
-washing(0.035)
-painting(0.033)
-fueling(0.032)

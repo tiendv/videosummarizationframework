@@ -1,5 +1,0 @@
-sitting(0.111)
-talking(0.086)
-asking(0.050)
-discussing(0.048)
-selling(0.042)

@@ -1,5 +1,0 @@
-fighting(0.087)
-walking(0.057)
-turning(0.049)
-spinning(0.047)
-carrying(0.044)

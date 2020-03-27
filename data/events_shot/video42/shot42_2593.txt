@@ -1,5 +1,0 @@
-arresting(0.256)
-handcuffing(0.071)
-stealing(0.034)
-hugging(0.024)
-exiting(0.023)

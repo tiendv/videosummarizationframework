@@ -1,5 +1,0 @@
-knocking(0.144)
-guarding(0.100)
-locking(0.061)
-hanging(0.034)
-fencing(0.023)

@@ -1,5 +1,0 @@
-smoking(0.252)
-drinking(0.191)
-adult+male+speaking(0.031)
-discussing(0.022)
-shaving(0.021)

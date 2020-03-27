@@ -1,5 +1,0 @@
-queuing(0.393)
-arresting(0.078)
-fueling(0.041)
-stopping(0.031)
-walking(0.029)

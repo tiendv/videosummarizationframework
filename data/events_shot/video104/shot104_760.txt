@@ -1,5 +1,0 @@
-kicking(0.045)
-slapping(0.040)
-adult+male+speaking(0.029)
-discussing(0.025)
-standing(0.024)

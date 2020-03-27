@@ -1,5 +1,0 @@
-guarding(0.060)
-fencing(0.049)
-hitchhiking(0.036)
-walking(0.036)
-cleaning(0.030)

@@ -1,5 +1,0 @@
-locking(0.037)
-hanging(0.028)
-painting(0.028)
-knocking(0.022)
-climbing(0.019)

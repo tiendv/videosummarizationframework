@@ -1,5 +1,0 @@
-sitting(0.109)
-baking(0.067)
-cooking(0.041)
-adult+female+speaking(0.036)
-talking(0.029)

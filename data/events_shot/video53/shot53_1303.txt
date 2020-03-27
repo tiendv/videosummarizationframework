@@ -1,5 +1,0 @@
-stacking(0.170)
-adult+male+singing(0.096)
-adult+male+speaking(0.044)
-baptizing(0.043)
-standing(0.025)

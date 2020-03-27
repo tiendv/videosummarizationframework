@@ -1,5 +1,0 @@
-arresting(0.051)
-handcuffing(0.049)
-dragging(0.043)
-gripping(0.037)
-hugging(0.037)

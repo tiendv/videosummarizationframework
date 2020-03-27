@@ -1,5 +1,0 @@
-fencing(0.702)
-adult+female+speaking(0.026)
-standing(0.016)
-smiling(0.009)
-resting(0.009)

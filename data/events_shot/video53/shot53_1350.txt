@@ -1,5 +1,0 @@
-arresting(0.105)
-adult+male+speaking(0.092)
-handcuffing(0.070)
-discussing(0.038)
-asking(0.033)

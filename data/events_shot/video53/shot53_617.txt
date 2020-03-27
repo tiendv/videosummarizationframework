@@ -1,5 +1,0 @@
-raising(0.031)
-bowing(0.028)
-filming(0.022)
-adult+male+speaking(0.021)
-crying(0.016)

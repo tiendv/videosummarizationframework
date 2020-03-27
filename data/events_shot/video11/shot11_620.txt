@@ -1,5 +1,0 @@
-cooking(0.032)
-pouring(0.031)
-adult+male+speaking(0.030)
-raining(0.020)
-playing+videogames(0.018)

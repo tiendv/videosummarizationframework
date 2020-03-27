@@ -1,5 +1,0 @@
-slapping(0.140)
-shaving(0.070)
-sneezing(0.057)
-adult+female+speaking(0.041)
-laughing(0.040)

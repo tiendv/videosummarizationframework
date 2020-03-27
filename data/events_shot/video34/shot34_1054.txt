@@ -1,5 +1,0 @@
-coughing(0.188)
-sneezing(0.113)
-singing(0.029)
-imitating(0.025)
-adult+male+singing(0.022)

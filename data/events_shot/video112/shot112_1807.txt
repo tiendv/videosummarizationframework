@@ -1,5 +1,0 @@
-opening(0.046)
-dusting(0.038)
-closing(0.032)
-adult+female+speaking(0.020)
-cleaning(0.019)

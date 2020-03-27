@@ -1,5 +1,0 @@
-walking(0.097)
-pointing(0.041)
-carrying(0.037)
-standing(0.036)
-slapping(0.035)

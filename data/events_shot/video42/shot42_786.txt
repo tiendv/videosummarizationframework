@@ -1,5 +1,0 @@
-blowing(0.682)
-dining(0.138)
-eating(0.014)
-sitting(0.011)
-inflating(0.010)

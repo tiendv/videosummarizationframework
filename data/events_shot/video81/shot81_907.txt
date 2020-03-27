@@ -1,5 +1,0 @@
-cooking(0.156)
-frying(0.090)
-playing+videogames(0.066)
-aiming(0.045)
-boiling(0.043)

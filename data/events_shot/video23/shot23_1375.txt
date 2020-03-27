@@ -1,5 +1,0 @@
-talking(0.118)
-turning(0.077)
-shopping(0.075)
-standing(0.061)
-cooking(0.047)

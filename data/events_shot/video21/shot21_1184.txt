@@ -1,5 +1,0 @@
-spraying(0.055)
-working(0.040)
-attacking(0.032)
-sanding(0.025)
-pulling(0.018)

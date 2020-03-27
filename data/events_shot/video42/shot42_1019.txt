@@ -1,5 +1,0 @@
-bowing(0.205)
-sneezing(0.146)
-walking(0.045)
-dressing(0.031)
-praying(0.023)

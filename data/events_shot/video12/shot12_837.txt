@@ -1,5 +1,0 @@
-asking(0.137)
-interviewing(0.107)
-queuing(0.084)
-walking(0.068)
-discussing(0.037)

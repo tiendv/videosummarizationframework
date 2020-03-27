@@ -1,5 +1,0 @@
-turning(0.110)
-standing(0.082)
-talking(0.078)
-walking(0.066)
-starting(0.027)

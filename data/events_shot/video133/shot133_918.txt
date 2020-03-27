@@ -1,5 +1,0 @@
-hugging(0.076)
-praying(0.048)
-adult+female+speaking(0.040)
-adult+male+speaking(0.036)
-crying(0.032)

@@ -1,5 +1,0 @@
-knocking(0.075)
-drinking(0.056)
-sneezing(0.050)
-slapping(0.037)
-crying(0.036)

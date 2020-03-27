@@ -1,5 +1,0 @@
-closing(0.056)
-cracking(0.056)
-opening(0.054)
-sliding(0.027)
-adult+female+speaking(0.026)

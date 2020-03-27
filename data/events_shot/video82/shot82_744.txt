@@ -1,5 +1,0 @@
-stirring(0.089)
-emptying(0.076)
-drying(0.058)
-filling(0.050)
-pouring(0.044)

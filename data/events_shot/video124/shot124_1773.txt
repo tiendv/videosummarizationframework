@@ -1,5 +1,0 @@
-fighting(0.046)
-attacking(0.040)
-adult+female+singing(0.025)
-cheerleading(0.019)
-slapping(0.019)

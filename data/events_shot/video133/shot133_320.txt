@@ -1,5 +1,0 @@
-shooting(0.073)
-hugging(0.054)
-pointing(0.050)
-arresting(0.045)
-aiming(0.043)

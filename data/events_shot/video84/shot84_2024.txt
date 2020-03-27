@@ -1,5 +1,0 @@
-typing(0.048)
-walking(0.023)
-hugging(0.019)
-telephoning(0.019)
-tapping(0.018)

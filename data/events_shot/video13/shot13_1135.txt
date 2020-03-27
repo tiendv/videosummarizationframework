@@ -1,5 +1,0 @@
-walking(0.257)
-hiking(0.039)
-arresting(0.035)
-adult+male+speaking(0.028)
-hitchhiking(0.028)

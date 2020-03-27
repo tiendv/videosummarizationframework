@@ -1,5 +1,0 @@
-bicycling(0.077)
-hanging(0.063)
-climbing(0.045)
-pedaling(0.033)
-drilling(0.027)

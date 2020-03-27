@@ -1,5 +1,0 @@
-slapping(0.239)
-sneezing(0.045)
-adult+male+speaking(0.035)
-knocking(0.025)
-barking(0.025)

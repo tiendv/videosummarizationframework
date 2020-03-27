@@ -1,5 +1,0 @@
-adult+female+singing(0.065)
-standing(0.041)
-storming(0.035)
-dusting(0.034)
-child+singing(0.027)

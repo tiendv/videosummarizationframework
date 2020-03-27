@@ -1,5 +1,0 @@
-tying(0.048)
-hugging(0.042)
-joining(0.032)
-fencing(0.032)
-queuing(0.030)

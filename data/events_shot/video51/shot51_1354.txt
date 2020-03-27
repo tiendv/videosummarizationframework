@@ -1,5 +1,0 @@
-repairing(0.080)
-sanding(0.056)
-adult+male+speaking(0.049)
-hammering(0.046)
-screwing(0.034)

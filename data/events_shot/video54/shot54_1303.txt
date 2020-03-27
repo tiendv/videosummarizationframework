@@ -1,5 +1,0 @@
-praying(0.103)
-bowing(0.079)
-eating(0.073)
-adult+male+speaking(0.052)
-spitting(0.043)

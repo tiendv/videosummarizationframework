@@ -1,5 +1,0 @@
-rubbing(0.048)
-coughing(0.033)
-sanding(0.032)
-sneezing(0.028)
-working(0.027)

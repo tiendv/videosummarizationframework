@@ -1,5 +1,0 @@
-aiming(0.243)
-adult+male+singing(0.123)
-pointing(0.044)
-shooting(0.042)
-standing(0.031)

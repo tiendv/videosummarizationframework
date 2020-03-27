@@ -1,5 +1,0 @@
-tapping(0.230)
-sneezing(0.207)
-coughing(0.066)
-smelling(0.021)
-filming(0.017)

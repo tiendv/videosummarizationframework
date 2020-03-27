@@ -1,5 +1,0 @@
-walking(0.060)
-whistling(0.045)
-frowning(0.040)
-adult+male+speaking(0.032)
-smiling(0.030)

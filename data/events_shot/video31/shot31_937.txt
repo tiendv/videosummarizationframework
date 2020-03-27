@@ -1,5 +1,0 @@
-fueling(0.173)
-stealing(0.057)
-queuing(0.054)
-walking(0.044)
-arresting(0.039)

@@ -1,5 +1,0 @@
-talking(0.165)
-sitting(0.046)
-standing(0.046)
-squinting(0.037)
-starting(0.031)

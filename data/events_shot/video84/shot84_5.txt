@@ -1,5 +1,0 @@
-mopping(0.339)
-cleaning(0.279)
-vacuuming(0.128)
-sweeping(0.060)
-scrubbing(0.028)

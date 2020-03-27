@@ -1,5 +1,0 @@
-carving(0.715)
-cooking(0.061)
-stirring(0.012)
-baking(0.009)
-playing+music(0.009)

@@ -1,5 +1,0 @@
-riding(0.100)
-sitting(0.030)
-roaring(0.028)
-starting(0.023)
-laughing(0.018)

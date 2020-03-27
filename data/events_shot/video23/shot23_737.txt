@@ -1,5 +1,0 @@
-fencing(0.163)
-shooting(0.081)
-pointing(0.035)
-guarding(0.028)
-throwing(0.025)

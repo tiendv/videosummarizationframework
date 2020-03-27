@@ -1,5 +1,0 @@
-bouncing(0.133)
-hunting(0.106)
-flying(0.064)
-swinging(0.045)
-jumping(0.044)

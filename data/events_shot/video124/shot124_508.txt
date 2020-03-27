@@ -1,5 +1,0 @@
-crying(0.563)
-waking(0.114)
-frowning(0.052)
-sneezing(0.038)
-sleeping(0.033)

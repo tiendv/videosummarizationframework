@@ -1,5 +1,0 @@
-balancing(0.147)
-stretching(0.104)
-adult+male+speaking(0.082)
-adult+female+speaking(0.067)
-standing(0.056)

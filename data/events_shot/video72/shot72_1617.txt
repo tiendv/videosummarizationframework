@@ -1,5 +1,0 @@
-handcuffing(0.227)
-arresting(0.156)
-wrestling(0.067)
-fighting(0.066)
-adult+male+speaking(0.035)

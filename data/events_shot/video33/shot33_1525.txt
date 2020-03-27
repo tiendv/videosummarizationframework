@@ -1,5 +1,0 @@
-guarding(0.098)
-standing(0.061)
-arresting(0.058)
-discussing(0.052)
-interviewing(0.051)

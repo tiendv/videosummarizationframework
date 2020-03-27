@@ -1,5 +1,0 @@
-talking(0.080)
-discussing(0.076)
-adult+female+speaking(0.069)
-sitting(0.054)
-cleaning(0.050)

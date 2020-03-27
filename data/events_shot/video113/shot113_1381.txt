@@ -1,5 +1,0 @@
-walking(0.651)
-running(0.016)
-coaching(0.015)
-jogging(0.013)
-exiting(0.013)

@@ -1,5 +1,0 @@
-tying(0.380)
-dressing(0.110)
-buttoning(0.046)
-hugging(0.026)
-standing(0.021)

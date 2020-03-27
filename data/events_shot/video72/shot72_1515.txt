@@ -1,5 +1,0 @@
-smiling(0.067)
-walking(0.035)
-waving(0.032)
-shrugging(0.027)
-queuing(0.026)

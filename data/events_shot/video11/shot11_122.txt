@@ -1,5 +1,0 @@
-baking(0.040)
-cooking(0.039)
-adult+female+speaking(0.028)
-adult+male+speaking(0.027)
-standing(0.026)

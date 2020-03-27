@@ -1,5 +1,0 @@
-walking(0.089)
-standing(0.067)
-preaching(0.031)
-praying(0.028)
-bowing(0.028)

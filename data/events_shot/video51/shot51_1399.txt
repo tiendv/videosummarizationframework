@@ -1,5 +1,0 @@
-packing(0.334)
-unpacking(0.245)
-vacuuming(0.053)
-packaging(0.049)
-cleaning(0.014)

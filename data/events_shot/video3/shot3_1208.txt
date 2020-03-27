@@ -1,5 +1,0 @@
-gripping(0.201)
-pulling(0.165)
-lifting(0.085)
-pressing(0.043)
-shrugging(0.025)

@@ -1,5 +1,0 @@
-fencing(0.310)
-adult+male+speaking(0.041)
-giving(0.030)
-standing(0.021)
-serving(0.015)

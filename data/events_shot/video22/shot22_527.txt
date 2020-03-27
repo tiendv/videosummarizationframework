@@ -1,5 +1,0 @@
-squatting(0.265)
-bowing(0.086)
-crouching(0.073)
-kneeling(0.065)
-adult+male+speaking(0.046)

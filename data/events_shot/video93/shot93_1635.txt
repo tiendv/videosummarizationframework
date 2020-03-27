@@ -1,5 +1,0 @@
-standing(0.023)
-shaking(0.021)
-pointing(0.019)
-guarding(0.017)
-sitting(0.017)

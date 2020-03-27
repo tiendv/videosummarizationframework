@@ -1,5 +1,0 @@
-baking(0.043)
-placing(0.032)
-putting(0.032)
-stealing(0.030)
-cooking(0.023)

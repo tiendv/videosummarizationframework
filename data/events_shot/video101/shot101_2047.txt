@@ -1,5 +1,0 @@
-jumping(0.180)
-leaping(0.049)
-bouncing(0.031)
-dunking(0.026)
-cheerleading(0.026)

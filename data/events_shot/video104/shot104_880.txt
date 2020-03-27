@@ -1,5 +1,0 @@
-eating(0.224)
-chewing(0.055)
-laughing(0.043)
-smelling(0.036)
-clapping(0.035)

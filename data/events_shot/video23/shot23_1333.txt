@@ -1,5 +1,0 @@
-adult+male+speaking(0.030)
-laughing(0.027)
-slapping(0.020)
-working(0.020)
-cleaning(0.016)

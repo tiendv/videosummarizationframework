@@ -1,5 +1,0 @@
-dining(0.073)
-serving(0.032)
-sitting(0.032)
-drinking(0.029)
-talking(0.025)

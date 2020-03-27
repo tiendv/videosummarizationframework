@@ -1,5 +1,0 @@
-drinking(0.110)
-adult+male+speaking(0.041)
-standing(0.032)
-talking(0.031)
-pouring(0.019)

@@ -1,5 +1,0 @@
-drinking(0.120)
-dining(0.085)
-eating(0.084)
-autographing(0.083)
-sniffing(0.037)

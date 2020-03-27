@@ -1,5 +1,0 @@
-child+speaking(0.085)
-painting(0.063)
-pointing(0.050)
-talking(0.029)
-playing(0.023)

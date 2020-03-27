@@ -1,5 +1,0 @@
-standing(0.048)
-adult+male+speaking(0.043)
-gripping(0.041)
-drinking(0.037)
-preaching(0.036)

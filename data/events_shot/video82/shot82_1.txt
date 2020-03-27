@@ -1,5 +1,0 @@
-hiking(0.085)
-diving(0.057)
-crawling(0.053)
-ascending(0.051)
-descending(0.048)

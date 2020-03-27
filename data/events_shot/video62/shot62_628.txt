@@ -1,5 +1,0 @@
-adult+male+singing(0.093)
-fencing(0.079)
-gripping(0.064)
-adult+female+singing(0.058)
-roaring(0.032)

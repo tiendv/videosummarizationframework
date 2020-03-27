@@ -1,5 +1,0 @@
-stirring(0.083)
-cooking(0.051)
-boiling(0.039)
-playing+music(0.036)
-painting(0.030)

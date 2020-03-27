@@ -1,5 +1,0 @@
-shopping(0.100)
-laughing(0.052)
-hugging(0.036)
-walking(0.035)
-adult+male+speaking(0.032)

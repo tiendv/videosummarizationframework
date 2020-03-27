@@ -1,5 +1,0 @@
-waking(0.332)
-sleeping(0.160)
-resting(0.096)
-camping(0.063)
-squinting(0.021)

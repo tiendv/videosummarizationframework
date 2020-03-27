@@ -1,5 +1,0 @@
-hanging(0.129)
-gripping(0.052)
-squatting(0.037)
-adult+female+singing(0.032)
-adult+male+singing(0.029)

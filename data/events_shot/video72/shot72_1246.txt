@@ -1,5 +1,0 @@
-driving(0.134)
-riding(0.097)
-steering(0.051)
-boating(0.034)
-towing(0.024)

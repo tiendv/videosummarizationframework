@@ -1,5 +1,0 @@
-child+singing(0.100)
-adult+male+singing(0.072)
-coaching(0.063)
-standing(0.042)
-adult+male+speaking(0.038)

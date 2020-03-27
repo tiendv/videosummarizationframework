@@ -1,5 +1,0 @@
-drinking(0.040)
-smelling(0.027)
-spitting(0.020)
-kissing(0.019)
-carrying(0.019)

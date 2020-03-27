@@ -1,5 +1,0 @@
-standing(0.064)
-applauding(0.060)
-cheering(0.026)
-hanging(0.024)
-adult+male+speaking(0.024)

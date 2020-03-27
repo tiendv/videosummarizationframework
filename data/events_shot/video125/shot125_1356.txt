@@ -1,5 +1,0 @@
-punching(0.514)
-boxing(0.101)
-hanging(0.078)
-child+singing(0.021)
-whistling(0.020)

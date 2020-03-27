@@ -1,5 +1,0 @@
-sneezing(0.045)
-adult+male+speaking(0.044)
-knocking(0.035)
-turning(0.025)
-standing(0.021)

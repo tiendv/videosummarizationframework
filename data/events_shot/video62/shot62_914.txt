@@ -1,5 +1,0 @@
-punching(0.036)
-hugging(0.030)
-boxing(0.029)
-adult+male+speaking(0.025)
-stirring(0.021)

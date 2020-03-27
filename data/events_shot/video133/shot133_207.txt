@@ -1,5 +1,0 @@
-dining(0.171)
-standing(0.072)
-officiating(0.058)
-sitting(0.049)
-filming(0.038)

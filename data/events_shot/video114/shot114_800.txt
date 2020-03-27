@@ -1,5 +1,0 @@
-shooting(0.058)
-aiming(0.044)
-filming(0.034)
-hanging(0.031)
-walking(0.025)

@@ -1,5 +1,0 @@
-saluting(0.104)
-guarding(0.052)
-adult+male+speaking(0.034)
-standing(0.034)
-hanging(0.027)

@@ -1,5 +1,0 @@
-slapping(0.088)
-sprinting(0.055)
-punching(0.048)
-racing(0.034)
-adult+male+speaking(0.031)

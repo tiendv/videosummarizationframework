@@ -1,5 +1,0 @@
-asking(0.107)
-adult+male+singing(0.101)
-adult+male+speaking(0.071)
-adult+female+speaking(0.062)
-dining(0.045)

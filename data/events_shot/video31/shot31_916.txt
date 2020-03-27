@@ -1,5 +1,0 @@
-opening(0.155)
-guarding(0.114)
-closing(0.101)
-locking(0.060)
-roaring(0.040)

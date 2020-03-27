@@ -1,5 +1,0 @@
-handcuffing(0.100)
-tying(0.059)
-drying(0.053)
-adult+male+speaking(0.041)
-combing(0.040)

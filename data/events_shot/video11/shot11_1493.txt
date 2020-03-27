@@ -1,5 +1,0 @@
-dining(0.067)
-adult+male+speaking(0.065)
-hugging(0.063)
-cuddling(0.044)
-laughing(0.025)

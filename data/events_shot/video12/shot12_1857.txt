@@ -1,5 +1,0 @@
-peeling(0.340)
-cooking(0.140)
-picking(0.064)
-eating(0.042)
-dining(0.036)

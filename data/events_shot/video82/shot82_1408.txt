@@ -1,5 +1,0 @@
-drinking(0.070)
-sitting(0.036)
-sneezing(0.033)
-talking(0.027)
-cracking(0.024)

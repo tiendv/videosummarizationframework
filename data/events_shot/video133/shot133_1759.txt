@@ -1,5 +1,0 @@
-packing(0.120)
-selling(0.076)
-stacking(0.067)
-unpacking(0.055)
-stealing(0.040)

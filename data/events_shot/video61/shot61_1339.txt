@@ -1,5 +1,0 @@
-sitting(0.056)
-adult+female+speaking(0.051)
-hitchhiking(0.038)
-camping(0.036)
-adult+male+speaking(0.032)

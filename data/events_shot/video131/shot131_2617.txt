@@ -1,5 +1,0 @@
-walking(0.093)
-guarding(0.044)
-dancing(0.035)
-standing(0.028)
-performing(0.026)

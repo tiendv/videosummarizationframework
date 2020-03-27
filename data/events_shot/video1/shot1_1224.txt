@@ -1,5 +1,0 @@
-driving(0.155)
-adult+male+speaking(0.052)
-riding(0.051)
-hitchhiking(0.049)
-bicycling(0.045)

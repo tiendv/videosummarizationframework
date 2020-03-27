@@ -1,5 +1,0 @@
-sitting(0.105)
-adult+female+speaking(0.062)
-marrying(0.062)
-standing(0.044)
-talking(0.043)

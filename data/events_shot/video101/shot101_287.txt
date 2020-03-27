@@ -1,5 +1,0 @@
-cooking(0.059)
-painting(0.048)
-manicuring(0.044)
-talking(0.043)
-adult+female+speaking(0.036)

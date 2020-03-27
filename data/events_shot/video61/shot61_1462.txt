@@ -1,5 +1,0 @@
-asking(0.133)
-adult+male+speaking(0.106)
-adult+female+speaking(0.102)
-marrying(0.059)
-selling(0.050)

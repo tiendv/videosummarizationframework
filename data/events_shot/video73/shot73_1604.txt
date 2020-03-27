@@ -1,5 +1,0 @@
-kissing(0.202)
-telephoning(0.126)
-waking(0.082)
-calling(0.060)
-sleeping(0.059)

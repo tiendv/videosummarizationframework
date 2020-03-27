@@ -1,5 +1,0 @@
-adult+female+singing(0.225)
-raining(0.097)
-walking(0.040)
-singing(0.036)
-child+singing(0.027)

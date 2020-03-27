@@ -1,5 +1,0 @@
-kissing(0.227)
-telephoning(0.044)
-hugging(0.038)
-calling(0.036)
-adult+male+speaking(0.034)

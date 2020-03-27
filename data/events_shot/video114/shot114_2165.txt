@@ -1,5 +1,0 @@
-standing(0.066)
-raining(0.050)
-walking(0.050)
-sitting(0.041)
-flooding(0.027)

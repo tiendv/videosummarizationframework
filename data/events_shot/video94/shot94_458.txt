@@ -1,5 +1,0 @@
-coughing(0.303)
-sneezing(0.246)
-whistling(0.031)
-telephoning(0.027)
-child+speaking(0.026)

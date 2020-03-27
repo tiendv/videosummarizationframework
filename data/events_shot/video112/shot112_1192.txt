@@ -1,5 +1,0 @@
-standing(0.082)
-socializing(0.056)
-walking(0.042)
-working(0.042)
-pointing(0.029)

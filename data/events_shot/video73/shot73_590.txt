@@ -1,5 +1,0 @@
-adult+male+speaking(0.035)
-tapping(0.024)
-calling(0.020)
-asking(0.018)
-playing+music(0.018)

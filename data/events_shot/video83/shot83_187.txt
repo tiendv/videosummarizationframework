@@ -1,5 +1,0 @@
-kissing(0.104)
-hugging(0.084)
-exiting(0.041)
-entering(0.035)
-opening(0.033)

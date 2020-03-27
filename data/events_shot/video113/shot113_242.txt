@@ -1,5 +1,0 @@
-adult+male+singing(0.094)
-standing(0.035)
-singing(0.031)
-laughing(0.025)
-imitating(0.025)

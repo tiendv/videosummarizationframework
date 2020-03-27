@@ -1,5 +1,0 @@
-falling(0.037)
-burning(0.030)
-carrying(0.029)
-rising(0.025)
-dropping(0.024)

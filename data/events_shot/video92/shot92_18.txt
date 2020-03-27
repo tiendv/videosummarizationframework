@@ -1,5 +1,0 @@
-adult+male+speaking(0.081)
-squinting(0.029)
-sleeping(0.027)
-sneezing(0.023)
-coughing(0.022)

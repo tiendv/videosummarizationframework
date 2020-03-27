@@ -1,5 +1,0 @@
-dancing(0.182)
-singing(0.128)
-performing(0.094)
-adult+male+singing(0.061)
-child+singing(0.047)

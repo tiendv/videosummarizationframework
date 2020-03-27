@@ -1,5 +1,0 @@
-standing(0.054)
-opening(0.050)
-talking(0.039)
-putting(0.035)
-throwing(0.028)

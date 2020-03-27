@@ -1,5 +1,0 @@
-pointing(0.063)
-adult+male+speaking(0.050)
-dressing(0.044)
-standing(0.044)
-buttoning(0.030)

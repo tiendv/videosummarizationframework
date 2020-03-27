@@ -1,5 +1,0 @@
-exiting(0.118)
-driving(0.076)
-steering(0.035)
-stopping(0.031)
-queuing(0.029)

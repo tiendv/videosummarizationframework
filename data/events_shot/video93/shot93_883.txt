@@ -1,5 +1,0 @@
-carrying(0.039)
-adult+male+speaking(0.036)
-hugging(0.026)
-cuddling(0.026)
-adult+female+speaking(0.025)

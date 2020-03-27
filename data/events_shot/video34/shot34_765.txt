@@ -1,5 +1,0 @@
-vacuuming(0.382)
-mopping(0.108)
-cleaning(0.064)
-assembling(0.040)
-plugging(0.035)

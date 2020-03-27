@@ -1,5 +1,0 @@
-sneezing(0.223)
-coughing(0.037)
-mopping(0.020)
-dressing(0.019)
-slapping(0.018)

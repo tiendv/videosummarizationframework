@@ -1,5 +1,0 @@
-colliding(0.131)
-stirring(0.100)
-frying(0.091)
-diving(0.047)
-spinning(0.044)

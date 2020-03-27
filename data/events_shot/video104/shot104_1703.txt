@@ -1,5 +1,0 @@
-camping(0.521)
-hiking(0.066)
-walking(0.027)
-raining(0.025)
-driving(0.017)

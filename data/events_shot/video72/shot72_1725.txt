@@ -1,5 +1,0 @@
-arresting(0.055)
-queuing(0.048)
-hugging(0.042)
-slapping(0.022)
-joining(0.022)

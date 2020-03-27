@@ -1,5 +1,0 @@
-adult+female+singing(0.056)
-adult+female+speaking(0.048)
-dining(0.033)
-marrying(0.031)
-shopping(0.025)

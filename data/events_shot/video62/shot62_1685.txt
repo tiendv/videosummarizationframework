@@ -1,5 +1,0 @@
-drinking(0.088)
-shaving(0.033)
-adult+male+speaking(0.031)
-cracking(0.029)
-telephoning(0.021)

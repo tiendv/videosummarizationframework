@@ -1,5 +1,0 @@
-child+speaking(0.234)
-sitting(0.068)
-studying(0.054)
-teaching(0.032)
-asking(0.032)

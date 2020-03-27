@@ -1,5 +1,0 @@
-swimming(0.226)
-diving(0.145)
-feeding(0.108)
-wetting(0.029)
-attacking(0.024)

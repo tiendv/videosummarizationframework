@@ -1,5 +1,0 @@
-pointing(0.160)
-hiking(0.061)
-adult+male+speaking(0.038)
-snapping(0.035)
-standing(0.026)

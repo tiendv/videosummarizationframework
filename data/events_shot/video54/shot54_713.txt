@@ -1,5 +1,0 @@
-walking(0.079)
-pushing(0.050)
-adult+male+speaking(0.028)
-queuing(0.027)
-stopping(0.027)

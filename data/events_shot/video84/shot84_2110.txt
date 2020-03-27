@@ -1,5 +1,0 @@
-playing(0.124)
-hunting(0.074)
-chasing(0.066)
-barking(0.064)
-running(0.061)

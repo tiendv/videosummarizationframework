@@ -1,5 +1,0 @@
-queuing(0.145)
-dining(0.141)
-serving(0.058)
-selling(0.058)
-shopping(0.038)

@@ -1,5 +1,0 @@
-slapping(0.303)
-walking(0.030)
-singing(0.021)
-fighting(0.019)
-standing(0.017)

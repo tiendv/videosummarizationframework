@@ -1,5 +1,0 @@
-walking(0.199)
-standing(0.093)
-entering(0.038)
-whistling(0.028)
-talking(0.024)

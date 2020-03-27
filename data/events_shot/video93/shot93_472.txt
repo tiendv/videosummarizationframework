@@ -1,5 +1,0 @@
-talking(0.051)
-reading(0.046)
-crying(0.045)
-raining(0.033)
-writing(0.030)

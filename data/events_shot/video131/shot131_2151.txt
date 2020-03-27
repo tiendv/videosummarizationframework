@@ -1,5 +1,0 @@
-dining(0.105)
-standing(0.078)
-officiating(0.057)
-marrying(0.042)
-guarding(0.033)

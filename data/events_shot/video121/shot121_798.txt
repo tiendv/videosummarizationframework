@@ -1,5 +1,0 @@
-smiling(0.093)
-adult+male+speaking(0.080)
-talking(0.060)
-squinting(0.052)
-winking(0.044)

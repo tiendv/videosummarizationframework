@@ -1,5 +1,0 @@
-walking(0.051)
-standing(0.049)
-guarding(0.049)
-aiming(0.038)
-shopping(0.035)

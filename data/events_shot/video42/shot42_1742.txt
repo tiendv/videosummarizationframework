@@ -1,5 +1,0 @@
-blowing(0.339)
-inflating(0.129)
-coughing(0.049)
-laughing(0.038)
-adult+female+speaking(0.037)

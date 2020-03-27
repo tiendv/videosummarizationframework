@@ -1,5 +1,0 @@
-adult+female+speaking(0.053)
-adult+male+speaking(0.031)
-crafting(0.031)
-playing(0.022)
-handcuffing(0.021)

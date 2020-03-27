@@ -1,5 +1,0 @@
-drinking(0.956)
-shaving(0.009)
-dining(0.003)
-smelling(0.002)
-adult+male+speaking(0.002)

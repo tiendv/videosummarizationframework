@@ -1,5 +1,0 @@
-sitting(0.300)
-mowing(0.063)
-painting(0.053)
-rocking(0.021)
-talking(0.020)

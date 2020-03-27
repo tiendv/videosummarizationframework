@@ -1,5 +1,0 @@
-adult+male+speaking(0.100)
-asking(0.077)
-standing(0.073)
-discussing(0.048)
-handcuffing(0.042)

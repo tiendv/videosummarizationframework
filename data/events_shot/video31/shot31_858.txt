@@ -1,5 +1,0 @@
-arresting(0.128)
-asking(0.088)
-discussing(0.078)
-slapping(0.072)
-guarding(0.063)

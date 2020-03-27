@@ -1,5 +1,0 @@
-hitchhiking(0.145)
-driving(0.073)
-hunting(0.051)
-chasing(0.048)
-hiking(0.038)

@@ -1,5 +1,0 @@
-smiling(0.042)
-adult+male+speaking(0.034)
-cracking(0.022)
-smoking(0.021)
-working(0.021)

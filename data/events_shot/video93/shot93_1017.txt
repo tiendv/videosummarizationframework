@@ -1,5 +1,0 @@
-walking(0.079)
-fencing(0.045)
-cleaning(0.030)
-standing(0.030)
-laughing(0.019)

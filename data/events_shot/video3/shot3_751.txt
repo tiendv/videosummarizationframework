@@ -1,5 +1,0 @@
-dining(0.626)
-drinking(0.037)
-eating(0.028)
-celebrating(0.017)
-serving(0.015)

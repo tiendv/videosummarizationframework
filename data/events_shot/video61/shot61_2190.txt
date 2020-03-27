@@ -1,5 +1,0 @@
-crying(0.155)
-frowning(0.082)
-shrugging(0.046)
-tapping(0.040)
-combing(0.032)

@@ -1,5 +1,0 @@
-hugging(0.045)
-walking(0.031)
-carrying(0.029)
-building(0.027)
-cuddling(0.024)

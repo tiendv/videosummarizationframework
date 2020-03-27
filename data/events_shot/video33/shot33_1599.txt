@@ -1,5 +1,0 @@
-locking(0.113)
-opening(0.072)
-closing(0.058)
-assembling(0.038)
-painting(0.028)

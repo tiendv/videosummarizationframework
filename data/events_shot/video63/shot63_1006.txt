@@ -1,5 +1,0 @@
-drinking(0.214)
-dressing(0.039)
-knocking(0.037)
-standing(0.035)
-adult+male+speaking(0.024)

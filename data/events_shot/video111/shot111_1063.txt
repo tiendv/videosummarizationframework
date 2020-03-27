@@ -1,5 +1,0 @@
-stacking(0.345)
-adult+female+speaking(0.057)
-adult+female+singing(0.041)
-applauding(0.022)
-discussing(0.021)

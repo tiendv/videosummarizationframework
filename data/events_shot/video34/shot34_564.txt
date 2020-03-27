@@ -1,5 +1,0 @@
-drinking(0.037)
-squatting(0.025)
-adult+female+singing(0.023)
-standing(0.021)
-adult+male+speaking(0.020)

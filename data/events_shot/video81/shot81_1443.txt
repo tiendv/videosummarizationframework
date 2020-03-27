@@ -1,5 +1,0 @@
-brushing(0.354)
-eating(0.129)
-licking(0.047)
-spitting(0.037)
-smoking(0.028)

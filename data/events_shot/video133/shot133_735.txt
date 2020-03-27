@@ -1,5 +1,0 @@
-laughing(0.249)
-smiling(0.037)
-talking(0.035)
-standing(0.029)
-adult+female+singing(0.025)

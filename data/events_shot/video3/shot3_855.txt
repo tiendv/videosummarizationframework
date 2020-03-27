@@ -1,5 +1,0 @@
-driving(0.098)
-talking(0.068)
-piloting(0.060)
-raining(0.053)
-snowing(0.048)

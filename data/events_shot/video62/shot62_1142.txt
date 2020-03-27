@@ -1,5 +1,0 @@
-walking(0.181)
-calling(0.097)
-telephoning(0.089)
-raining(0.046)
-filming(0.032)

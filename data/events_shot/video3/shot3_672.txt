@@ -1,5 +1,0 @@
-hammering(0.263)
-slapping(0.075)
-punching(0.054)
-knocking(0.031)
-raising(0.025)

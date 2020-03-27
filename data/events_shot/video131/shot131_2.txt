@@ -1,5 +1,0 @@
-climbing(0.397)
-diving(0.242)
-digging(0.027)
-crawling(0.023)
-burying(0.017)

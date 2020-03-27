@@ -1,5 +1,0 @@
-waving(0.030)
-floating(0.029)
-spinning(0.026)
-performing(0.019)
-standing(0.017)

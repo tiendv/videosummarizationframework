@@ -1,5 +1,0 @@
-stacking(0.251)
-opening(0.044)
-closing(0.036)
-packaging(0.030)
-loading(0.024)

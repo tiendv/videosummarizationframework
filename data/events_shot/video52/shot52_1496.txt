@@ -1,5 +1,0 @@
-smiling(0.073)
-opening(0.062)
-crying(0.056)
-knocking(0.049)
-closing(0.048)

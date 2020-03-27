@@ -1,5 +1,0 @@
-crying(0.083)
-carrying(0.040)
-frowning(0.032)
-reading(0.029)
-opening(0.028)

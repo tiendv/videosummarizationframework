@@ -1,5 +1,0 @@
-guarding(0.529)
-arresting(0.100)
-slapping(0.039)
-saluting(0.034)
-coaching(0.028)

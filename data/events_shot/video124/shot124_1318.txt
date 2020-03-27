@@ -1,5 +1,0 @@
-shaving(0.300)
-drinking(0.184)
-adult+male+speaking(0.036)
-standing(0.033)
-spitting(0.029)

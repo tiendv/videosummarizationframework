@@ -1,5 +1,0 @@
-cooking(0.077)
-opening(0.048)
-hugging(0.038)
-baking(0.031)
-closing(0.030)

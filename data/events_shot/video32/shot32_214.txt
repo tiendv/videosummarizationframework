@@ -1,5 +1,0 @@
-raining(0.596)
-storming(0.093)
-hitchhiking(0.046)
-roaring(0.037)
-driving(0.023)

@@ -1,5 +1,0 @@
-walking(0.073)
-sneezing(0.052)
-filming(0.039)
-coughing(0.033)
-adult+female+speaking(0.025)

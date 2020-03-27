@@ -1,5 +1,0 @@
-painting(0.084)
-spraying(0.059)
-pouring(0.050)
-drying(0.024)
-watering(0.023)

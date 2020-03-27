@@ -1,5 +1,0 @@
-fencing(0.409)
-punching(0.030)
-guarding(0.026)
-blocking(0.020)
-boxing(0.020)

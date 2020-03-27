@@ -1,5 +1,0 @@
-sanding(0.078)
-inflating(0.069)
-repairing(0.059)
-adult+male+speaking(0.045)
-gripping(0.032)

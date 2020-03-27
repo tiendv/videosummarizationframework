@@ -1,5 +1,0 @@
-stacking(0.180)
-opening(0.027)
-standing(0.018)
-shaking(0.016)
-closing(0.015)

@@ -1,5 +1,0 @@
-aiming(0.062)
-adult+male+speaking(0.050)
-laughing(0.046)
-knocking(0.045)
-standing(0.042)

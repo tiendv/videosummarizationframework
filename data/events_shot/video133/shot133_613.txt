@@ -1,5 +1,0 @@
-queuing(0.071)
-adult+male+speaking(0.031)
-standing(0.027)
-sneezing(0.024)
-fencing(0.021)

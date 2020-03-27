@@ -1,5 +1,0 @@
-adult+male+speaking(0.242)
-asking(0.057)
-preaching(0.055)
-blocking(0.035)
-fighting(0.034)

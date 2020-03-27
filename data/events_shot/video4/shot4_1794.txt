@@ -1,5 +1,0 @@
-dancing(0.087)
-hugging(0.066)
-standing(0.040)
-walking(0.032)
-marrying(0.031)

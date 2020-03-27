@@ -1,5 +1,0 @@
-shooting(0.166)
-attacking(0.047)
-breaking(0.046)
-smashing(0.038)
-crashing(0.035)

@@ -1,5 +1,0 @@
-scratching(0.051)
-tapping(0.047)
-brushing(0.045)
-sneezing(0.040)
-adult+male+speaking(0.038)

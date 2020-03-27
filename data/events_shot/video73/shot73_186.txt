@@ -1,5 +1,0 @@
-adult+female+speaking(0.037)
-knocking(0.037)
-locking(0.033)
-telephoning(0.030)
-crying(0.019)

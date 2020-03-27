@@ -1,5 +1,0 @@
-adult+female+speaking(0.088)
-adult+female+singing(0.086)
-adult+male+speaking(0.031)
-asking(0.030)
-tattooing(0.026)

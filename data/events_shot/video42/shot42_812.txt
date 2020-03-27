@@ -1,5 +1,0 @@
-climbing(0.676)
-rising(0.020)
-hanging(0.018)
-gripping(0.017)
-reaching(0.010)

@@ -1,5 +1,0 @@
-marching(0.121)
-parading(0.041)
-guarding(0.040)
-standing(0.026)
-running(0.024)

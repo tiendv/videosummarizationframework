@@ -1,5 +1,0 @@
-asking(0.089)
-talking(0.065)
-whistling(0.065)
-adult+male+speaking(0.061)
-standing(0.046)

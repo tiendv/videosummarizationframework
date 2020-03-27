@@ -1,5 +1,0 @@
-punching(0.062)
-tapping(0.052)
-adult+female+singing(0.040)
-boxing(0.037)
-combing(0.023)

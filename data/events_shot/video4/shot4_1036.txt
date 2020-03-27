@@ -1,5 +1,0 @@
-fencing(0.068)
-slapping(0.061)
-smiling(0.048)
-walking(0.047)
-adult+male+speaking(0.036)

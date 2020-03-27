@@ -1,5 +1,0 @@
-imitating(0.083)
-sneezing(0.049)
-jumping(0.047)
-standing(0.037)
-walking(0.035)

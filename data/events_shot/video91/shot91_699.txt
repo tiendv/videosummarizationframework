@@ -1,5 +1,0 @@
-packing(0.139)
-unpacking(0.082)
-assembling(0.031)
-packaging(0.025)
-handcuffing(0.023)

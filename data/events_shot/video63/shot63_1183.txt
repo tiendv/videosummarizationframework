@@ -1,5 +1,0 @@
-queuing(0.089)
-adult+male+speaking(0.070)
-coaching(0.070)
-asking(0.035)
-discussing(0.032)

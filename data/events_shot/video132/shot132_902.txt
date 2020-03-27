@@ -1,5 +1,0 @@
-talking(0.103)
-hunting(0.088)
-discussing(0.075)
-hiking(0.063)
-adult+male+speaking(0.052)

@@ -1,5 +1,0 @@
-talking(0.135)
-laughing(0.056)
-sneezing(0.048)
-child+speaking(0.046)
-discussing(0.028)

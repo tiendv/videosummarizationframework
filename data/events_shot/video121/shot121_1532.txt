@@ -1,5 +1,0 @@
-brushing(0.037)
-packing(0.036)
-combing(0.033)
-cleaning(0.032)
-unpacking(0.022)

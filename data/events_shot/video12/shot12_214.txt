@@ -1,5 +1,0 @@
-punching(0.078)
-adult+male+speaking(0.056)
-cracking(0.037)
-handcuffing(0.034)
-shaving(0.034)

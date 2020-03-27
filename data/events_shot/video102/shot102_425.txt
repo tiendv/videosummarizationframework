@@ -1,5 +1,0 @@
-adult+female+singing(0.104)
-adult+female+speaking(0.089)
-drying(0.048)
-baptizing(0.032)
-cleaning(0.016)

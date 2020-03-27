@@ -1,5 +1,0 @@
-singing(0.044)
-talking(0.033)
-performing(0.030)
-sitting(0.027)
-smoking(0.026)

@@ -1,5 +1,0 @@
-crying(0.158)
-frowning(0.110)
-tapping(0.055)
-rubbing(0.043)
-adult+female+speaking(0.039)

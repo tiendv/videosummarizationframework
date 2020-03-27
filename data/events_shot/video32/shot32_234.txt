@@ -1,5 +1,0 @@
-attacking(0.090)
-digging(0.068)
-storming(0.058)
-destroying(0.047)
-burying(0.039)

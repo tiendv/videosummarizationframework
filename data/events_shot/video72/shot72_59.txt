@@ -1,5 +1,0 @@
-smoking(0.142)
-hanging(0.054)
-sniffing(0.024)
-blowing(0.023)
-adult+male+speaking(0.019)

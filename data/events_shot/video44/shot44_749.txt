@@ -1,5 +1,0 @@
-crying(0.879)
-frowning(0.021)
-laughing(0.006)
-squinting(0.004)
-playing+videogames(0.004)

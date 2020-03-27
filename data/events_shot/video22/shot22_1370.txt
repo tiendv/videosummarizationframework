@@ -1,5 +1,0 @@
-adult+female+speaking(0.111)
-dressing(0.042)
-standing(0.023)
-sitting(0.022)
-signing(0.020)

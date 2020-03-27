@@ -1,5 +1,0 @@
-punching(0.040)
-fighting(0.028)
-hugging(0.025)
-filming(0.024)
-adult+male+speaking(0.023)

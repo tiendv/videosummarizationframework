@@ -1,5 +1,0 @@
-lecturing(0.100)
-preaching(0.074)
-pointing(0.045)
-teaching(0.024)
-guarding(0.024)

@@ -1,5 +1,0 @@
-winking(0.101)
-knocking(0.082)
-smiling(0.059)
-opening(0.046)
-crying(0.033)

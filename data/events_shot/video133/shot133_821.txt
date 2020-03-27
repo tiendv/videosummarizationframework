@@ -1,5 +1,0 @@
-shopping(0.242)
-buying(0.110)
-selling(0.090)
-walking(0.029)
-standing(0.022)

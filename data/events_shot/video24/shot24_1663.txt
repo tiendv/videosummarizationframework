@@ -1,5 +1,0 @@
-flooding(0.083)
-raining(0.074)
-storming(0.029)
-fencing(0.025)
-running(0.025)

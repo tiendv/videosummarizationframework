@@ -1,5 +1,0 @@
-slapping(0.099)
-howling(0.095)
-barking(0.064)
-knocking(0.052)
-sneezing(0.046)

@@ -1,5 +1,0 @@
-hammering(0.525)
-vacuuming(0.171)
-stomping(0.164)
-crushing(0.031)
-sweeping(0.022)

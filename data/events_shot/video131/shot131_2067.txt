@@ -1,5 +1,0 @@
-queuing(0.610)
-walking(0.054)
-entering(0.031)
-praying(0.028)
-officiating(0.016)

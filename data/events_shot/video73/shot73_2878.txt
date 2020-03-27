@@ -1,5 +1,0 @@
-mopping(0.047)
-vacuuming(0.041)
-adult+female+singing(0.037)
-cleaning(0.030)
-dusting(0.028)

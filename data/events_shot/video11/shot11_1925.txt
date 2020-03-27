@@ -1,5 +1,0 @@
-handwriting(0.095)
-combusting(0.081)
-adult+male+speaking(0.070)
-lecturing(0.065)
-reading(0.055)

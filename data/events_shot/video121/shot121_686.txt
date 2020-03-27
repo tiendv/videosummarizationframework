@@ -1,5 +1,0 @@
-sitting(0.073)
-talking(0.069)
-laughing(0.055)
-child+speaking(0.038)
-teaching(0.033)

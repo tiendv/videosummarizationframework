@@ -1,5 +1,0 @@
-adult+male+speaking(0.218)
-asking(0.139)
-adult+female+speaking(0.035)
-preaching(0.032)
-arresting(0.030)

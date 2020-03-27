@@ -1,5 +1,0 @@
-asking(0.172)
-adult+female+speaking(0.170)
-adult+male+speaking(0.104)
-discussing(0.056)
-socializing(0.037)

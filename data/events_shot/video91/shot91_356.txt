@@ -1,5 +1,0 @@
-waking(0.187)
-resting(0.060)
-sleeping(0.059)
-adult+female+singing(0.055)
-stretching(0.035)

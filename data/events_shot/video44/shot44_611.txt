@@ -1,5 +1,0 @@
-driving(0.121)
-slapping(0.090)
-turning(0.030)
-talking(0.025)
-kissing(0.024)

@@ -1,5 +1,0 @@
-arresting(0.109)
-asking(0.102)
-adult+male+speaking(0.079)
-stealing(0.059)
-handcuffing(0.039)

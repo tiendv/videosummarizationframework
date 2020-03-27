@@ -1,5 +1,0 @@
-chewing(0.100)
-sneezing(0.088)
-barking(0.070)
-sitting(0.054)
-attacking(0.047)

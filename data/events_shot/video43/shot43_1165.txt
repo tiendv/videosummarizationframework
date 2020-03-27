@@ -1,5 +1,0 @@
-rolling(0.092)
-hanging(0.084)
-shrugging(0.083)
-raising(0.038)
-frowning(0.033)

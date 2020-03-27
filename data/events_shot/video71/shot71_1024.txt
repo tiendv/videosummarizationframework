@@ -1,5 +1,0 @@
-arresting(0.242)
-walking(0.107)
-adult+male+speaking(0.050)
-handcuffing(0.036)
-playing+videogames(0.032)

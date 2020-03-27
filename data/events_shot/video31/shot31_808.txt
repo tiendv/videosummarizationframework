@@ -1,5 +1,0 @@
-walking(0.068)
-carrying(0.037)
-talking(0.036)
-cooking(0.032)
-adult+male+speaking(0.032)

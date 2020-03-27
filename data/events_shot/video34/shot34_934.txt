@@ -1,5 +1,0 @@
-applauding(0.137)
-queuing(0.112)
-sitting(0.091)
-standing(0.070)
-preaching(0.055)

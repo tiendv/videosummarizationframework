@@ -1,5 +1,0 @@
-unpacking(0.107)
-tearing(0.101)
-packing(0.095)
-folding(0.080)
-wrapping(0.063)

@@ -1,5 +1,0 @@
-catching(0.066)
-throwing(0.050)
-gripping(0.032)
-bicycling(0.021)
-standing(0.020)

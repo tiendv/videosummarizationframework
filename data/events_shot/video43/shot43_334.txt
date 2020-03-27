@@ -1,5 +1,0 @@
-cooking(0.093)
-gripping(0.053)
-stirring(0.044)
-injecting(0.031)
-rubbing(0.026)

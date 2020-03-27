@@ -1,5 +1,0 @@
-cooking(0.070)
-folding(0.044)
-flipping(0.040)
-dressing(0.037)
-adult+female+speaking(0.033)

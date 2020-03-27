@@ -1,5 +1,0 @@
-eating(0.069)
-dining(0.054)
-adult+female+speaking(0.033)
-asking(0.030)
-giving(0.024)

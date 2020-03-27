@@ -1,5 +1,0 @@
-dining(0.087)
-opening(0.069)
-walking(0.043)
-discussing(0.042)
-closing(0.034)

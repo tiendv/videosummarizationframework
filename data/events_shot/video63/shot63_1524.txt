@@ -1,5 +1,0 @@
-fencing(0.453)
-walking(0.083)
-balancing(0.027)
-standing(0.026)
-hitchhiking(0.026)

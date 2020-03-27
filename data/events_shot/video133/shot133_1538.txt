@@ -1,5 +1,0 @@
-taping(0.080)
-tattooing(0.075)
-manicuring(0.023)
-discussing(0.021)
-adult+female+speaking(0.021)

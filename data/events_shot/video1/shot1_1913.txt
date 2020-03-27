@@ -1,5 +1,0 @@
-praying(0.125)
-eating(0.069)
-reading(0.050)
-playing+videogames(0.032)
-aiming(0.030)

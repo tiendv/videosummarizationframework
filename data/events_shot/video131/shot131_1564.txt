@@ -1,5 +1,0 @@
-stomping(0.484)
-walking(0.065)
-standing(0.048)
-bowing(0.028)
-adult+female+singing(0.025)

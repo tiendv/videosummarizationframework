@@ -1,5 +1,0 @@
-shaking(0.055)
-adult+male+speaking(0.053)
-talking(0.028)
-working(0.024)
-standing(0.022)

@@ -1,5 +1,0 @@
-walking(0.091)
-asking(0.063)
-slapping(0.060)
-arresting(0.055)
-adult+female+speaking(0.047)

@@ -1,5 +1,0 @@
-trimming(0.143)
-building(0.066)
-bicycling(0.027)
-dropping(0.021)
-cutting(0.021)

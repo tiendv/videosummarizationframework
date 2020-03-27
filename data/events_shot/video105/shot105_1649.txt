@@ -1,5 +1,0 @@
-asking(0.061)
-sitting(0.055)
-studying(0.054)
-discussing(0.041)
-telephoning(0.041)

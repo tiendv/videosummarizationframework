@@ -1,5 +1,0 @@
-adult+male+speaking(0.090)
-fencing(0.059)
-discussing(0.048)
-talking(0.042)
-blocking(0.042)

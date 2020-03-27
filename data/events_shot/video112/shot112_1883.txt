@@ -1,5 +1,0 @@
-stacking(0.818)
-loading(0.059)
-unloading(0.026)
-fueling(0.008)
-drying(0.004)

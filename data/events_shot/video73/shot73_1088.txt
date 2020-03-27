@@ -1,5 +1,0 @@
-spinning(0.159)
-turning(0.121)
-walking(0.041)
-standing(0.032)
-playing+videogames(0.032)

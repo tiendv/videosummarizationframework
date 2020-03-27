@@ -1,5 +1,0 @@
-watering(0.240)
-gardening(0.149)
-smelling(0.072)
-picking(0.048)
-planting(0.046)

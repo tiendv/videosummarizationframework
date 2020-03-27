@@ -1,5 +1,0 @@
-running(0.091)
-flooding(0.046)
-walking(0.042)
-stealing(0.028)
-entering(0.026)

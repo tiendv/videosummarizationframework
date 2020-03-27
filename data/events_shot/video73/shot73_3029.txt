@@ -1,5 +1,0 @@
-climbing(0.339)
-hammering(0.024)
-shoveling(0.021)
-running(0.019)
-hiking(0.018)

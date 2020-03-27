@@ -1,5 +1,0 @@
-arresting(0.123)
-walking(0.076)
-filming(0.039)
-handcuffing(0.036)
-stealing(0.025)

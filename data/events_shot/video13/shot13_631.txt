@@ -1,5 +1,0 @@
-queuing(0.530)
-arresting(0.042)
-protesting(0.028)
-entering(0.026)
-asking(0.023)

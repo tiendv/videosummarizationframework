@@ -1,5 +1,0 @@
-cleaning(0.791)
-sweeping(0.038)
-building(0.022)
-walking(0.014)
-fencing(0.010)

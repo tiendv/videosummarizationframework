@@ -1,5 +1,0 @@
-rowing(0.068)
-coaching(0.036)
-running(0.031)
-adult+male+speaking(0.029)
-talking(0.028)

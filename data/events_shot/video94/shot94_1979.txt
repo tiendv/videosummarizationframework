@@ -1,5 +1,0 @@
-walking(0.472)
-asking(0.054)
-running(0.044)
-queuing(0.030)
-standing(0.022)

@@ -1,5 +1,0 @@
-bowing(0.106)
-stealing(0.036)
-standing(0.032)
-stomping(0.029)
-walking(0.025)

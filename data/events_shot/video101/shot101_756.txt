@@ -1,5 +1,0 @@
-rising(0.061)
-slapping(0.054)
-falling(0.024)
-adult+male+singing(0.021)
-dropping(0.021)

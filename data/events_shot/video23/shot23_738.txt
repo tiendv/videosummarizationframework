@@ -1,5 +1,0 @@
-walking(0.091)
-fencing(0.043)
-standing(0.037)
-filming(0.032)
-hugging(0.027)

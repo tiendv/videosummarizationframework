@@ -1,5 +1,0 @@
-sneezing(0.590)
-coughing(0.100)
-laughing(0.032)
-unpacking(0.017)
-packing(0.011)

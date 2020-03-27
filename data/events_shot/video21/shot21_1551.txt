@@ -1,5 +1,0 @@
-adult+male+singing(0.382)
-adult+female+singing(0.131)
-smoking(0.093)
-singing(0.036)
-whistling(0.033)

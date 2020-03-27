@@ -1,5 +1,0 @@
-arresting(0.113)
-handcuffing(0.067)
-hitchhiking(0.055)
-asking(0.042)
-walking(0.038)

@@ -1,5 +1,0 @@
-whistling(0.127)
-queuing(0.061)
-guarding(0.031)
-fencing(0.029)
-saluting(0.024)

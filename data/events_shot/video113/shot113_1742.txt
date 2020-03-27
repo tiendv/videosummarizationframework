@@ -1,5 +1,0 @@
-adult+male+singing(0.226)
-singing(0.040)
-calling(0.035)
-laughing(0.034)
-shouting(0.034)

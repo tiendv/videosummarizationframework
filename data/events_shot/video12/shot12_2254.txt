@@ -1,5 +1,0 @@
-juggling(0.629)
-spinning(0.025)
-hanging(0.016)
-standing(0.009)
-clapping(0.009)

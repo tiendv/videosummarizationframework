@@ -1,5 +1,0 @@
-arresting(0.100)
-stealing(0.059)
-walking(0.049)
-exiting(0.043)
-handcuffing(0.026)

@@ -1,5 +1,0 @@
-weeding(0.307)
-digging(0.092)
-sowing(0.062)
-mowing(0.056)
-gardening(0.042)

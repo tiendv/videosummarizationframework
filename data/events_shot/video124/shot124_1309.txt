@@ -1,5 +1,0 @@
-talking(0.064)
-smelling(0.038)
-cooking(0.037)
-adult+female+speaking(0.033)
-walking(0.031)

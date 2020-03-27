@@ -1,5 +1,0 @@
-drawing(0.133)
-flipping(0.061)
-painting(0.053)
-crafting(0.038)
-sketching(0.035)

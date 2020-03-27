@@ -1,5 +1,0 @@
-calling(0.242)
-telephoning(0.147)
-knocking(0.069)
-punching(0.047)
-locking(0.029)

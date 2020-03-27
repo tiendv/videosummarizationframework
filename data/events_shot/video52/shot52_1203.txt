@@ -1,5 +1,0 @@
-cooking(0.248)
-boiling(0.048)
-frying(0.046)
-cleaning(0.042)
-dining(0.038)

@@ -1,5 +1,0 @@
-adult+female+singing(0.107)
-crying(0.052)
-drinking(0.043)
-sneezing(0.028)
-adult+female+speaking(0.028)

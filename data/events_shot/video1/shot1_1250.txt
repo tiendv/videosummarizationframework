@@ -1,5 +1,0 @@
-adult+female+speaking(0.317)
-crying(0.079)
-eating(0.038)
-smoking(0.031)
-talking(0.026)

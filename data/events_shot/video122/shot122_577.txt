@@ -1,5 +1,0 @@
-peeling(0.131)
-inflating(0.118)
-adult+female+speaking(0.068)
-manicuring(0.065)
-tattooing(0.044)

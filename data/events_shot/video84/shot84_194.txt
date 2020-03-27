@@ -1,5 +1,0 @@
-arresting(0.393)
-handcuffing(0.095)
-stealing(0.058)
-packing(0.046)
-carrying(0.039)

@@ -1,5 +1,0 @@
-cleaning(0.132)
-building(0.046)
-walking(0.032)
-spinning(0.029)
-scrubbing(0.029)

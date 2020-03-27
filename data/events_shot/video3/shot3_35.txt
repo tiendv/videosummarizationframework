@@ -1,5 +1,0 @@
-drinking(0.527)
-bowing(0.028)
-lifting(0.021)
-standing(0.020)
-squatting(0.017)

@@ -1,5 +1,0 @@
-jumping(0.144)
-bicycling(0.078)
-riding(0.059)
-leaping(0.030)
-driving(0.026)

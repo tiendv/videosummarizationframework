@@ -1,5 +1,0 @@
-saluting(0.100)
-standing(0.083)
-filming(0.056)
-hunting(0.053)
-adult+male+singing(0.044)

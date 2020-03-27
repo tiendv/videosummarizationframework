@@ -1,5 +1,0 @@
-walking(0.099)
-asking(0.067)
-slapping(0.060)
-child+speaking(0.058)
-imitating(0.036)

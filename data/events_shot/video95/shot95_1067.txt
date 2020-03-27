@@ -1,5 +1,0 @@
-whistling(0.142)
-standing(0.054)
-adult+female+speaking(0.044)
-talking(0.044)
-walking(0.036)

@@ -1,5 +1,0 @@
-hanging(0.062)
-guarding(0.049)
-aiming(0.027)
-climbing(0.026)
-inflating(0.023)

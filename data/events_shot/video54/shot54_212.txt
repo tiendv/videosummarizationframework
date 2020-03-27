@@ -1,5 +1,0 @@
-arresting(0.178)
-handcuffing(0.168)
-hugging(0.163)
-adult+male+speaking(0.050)
-slapping(0.016)

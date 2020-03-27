@@ -1,5 +1,0 @@
-tapping(0.066)
-reading(0.054)
-adult+male+speaking(0.050)
-chewing(0.033)
-discussing(0.030)

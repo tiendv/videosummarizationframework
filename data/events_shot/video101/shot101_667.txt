@@ -1,5 +1,0 @@
-storming(0.186)
-raining(0.117)
-snowing(0.096)
-standing(0.044)
-opening(0.030)

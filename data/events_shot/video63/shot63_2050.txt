@@ -1,5 +1,0 @@
-mopping(0.103)
-bending(0.037)
-cleaning(0.031)
-smoking(0.029)
-dipping(0.025)

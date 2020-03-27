@@ -1,5 +1,0 @@
-sliding(0.088)
-closing(0.073)
-opening(0.063)
-bending(0.054)
-locking(0.047)

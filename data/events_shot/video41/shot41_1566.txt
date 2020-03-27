@@ -1,5 +1,0 @@
-preaching(0.190)
-standing(0.071)
-adult+male+speaking(0.057)
-talking(0.052)
-adult+female+speaking(0.044)

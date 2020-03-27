@@ -1,5 +1,0 @@
-child+speaking(0.078)
-talking(0.051)
-cooking(0.039)
-adult+male+speaking(0.037)
-flipping(0.037)

@@ -1,5 +1,0 @@
-serving(0.175)
-manicuring(0.088)
-cooking(0.081)
-baking(0.059)
-cleaning(0.042)

@@ -1,5 +1,0 @@
-howling(0.533)
-barking(0.165)
-cuddling(0.032)
-yawning(0.027)
-snuggling(0.020)

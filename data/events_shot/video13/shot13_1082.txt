@@ -1,5 +1,0 @@
-walking(0.530)
-standing(0.026)
-filming(0.020)
-slapping(0.018)
-exiting(0.017)

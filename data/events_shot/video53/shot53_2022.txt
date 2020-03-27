@@ -1,5 +1,0 @@
-guarding(0.135)
-hanging(0.109)
-building(0.086)
-carving(0.045)
-leaning(0.043)

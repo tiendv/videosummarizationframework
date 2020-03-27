@@ -1,5 +1,0 @@
-tapping(0.093)
-tying(0.058)
-rubbing(0.036)
-scratching(0.029)
-gripping(0.020)

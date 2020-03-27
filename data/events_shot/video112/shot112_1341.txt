@@ -1,5 +1,0 @@
-adult+female+speaking(0.037)
-drying(0.031)
-walking(0.030)
-removing(0.029)
-cracking(0.026)

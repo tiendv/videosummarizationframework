@@ -1,5 +1,0 @@
-stirring(0.048)
-drilling(0.045)
-mopping(0.039)
-draining(0.030)
-dipping(0.024)

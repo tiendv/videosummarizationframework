@@ -1,5 +1,0 @@
-driving(0.169)
-queuing(0.107)
-steering(0.078)
-arresting(0.067)
-riding(0.045)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.033)
-hanging(0.032)
-walking(0.031)
-guarding(0.026)
-whistling(0.024)

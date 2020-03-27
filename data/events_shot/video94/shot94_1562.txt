@@ -1,5 +1,0 @@
-adult+male+speaking(0.187)
-punching(0.051)
-hugging(0.050)
-smiling(0.033)
-adult+male+singing(0.032)

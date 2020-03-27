@@ -1,5 +1,0 @@
-guarding(0.143)
-queuing(0.063)
-arresting(0.045)
-stealing(0.038)
-handcuffing(0.032)

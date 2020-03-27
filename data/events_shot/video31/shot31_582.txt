@@ -1,5 +1,0 @@
-riding(0.164)
-driving(0.118)
-stopping(0.059)
-fueling(0.058)
-bicycling(0.045)

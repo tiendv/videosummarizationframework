@@ -1,5 +1,0 @@
-mopping(0.110)
-adult+male+speaking(0.064)
-cleaning(0.033)
-measuring(0.031)
-stealing(0.021)

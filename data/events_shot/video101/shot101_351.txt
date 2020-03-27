@@ -1,5 +1,0 @@
-adult+female+singing(0.064)
-adult+male+singing(0.044)
-drinking(0.040)
-stomping(0.035)
-slapping(0.035)

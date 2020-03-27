@@ -1,5 +1,0 @@
-adult+male+speaking(0.129)
-talking(0.074)
-cooking(0.035)
-walking(0.032)
-working(0.029)

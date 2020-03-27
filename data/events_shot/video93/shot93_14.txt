@@ -1,5 +1,0 @@
-hugging(0.083)
-adult+female+singing(0.054)
-arresting(0.048)
-handcuffing(0.047)
-fighting(0.038)

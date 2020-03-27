@@ -1,5 +1,0 @@
-drinking(0.065)
-spitting(0.053)
-eating(0.047)
-slapping(0.041)
-crying(0.040)

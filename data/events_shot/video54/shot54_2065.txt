@@ -1,5 +1,0 @@
-pressing(0.100)
-pushing(0.047)
-starting(0.034)
-talking(0.032)
-driving(0.028)

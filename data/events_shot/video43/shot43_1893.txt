@@ -1,5 +1,0 @@
-squinting(0.142)
-smiling(0.051)
-walking(0.050)
-adult+female+speaking(0.050)
-standing(0.044)

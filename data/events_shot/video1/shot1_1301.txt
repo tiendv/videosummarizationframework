@@ -1,5 +1,0 @@
-queuing(0.125)
-walking(0.076)
-filming(0.060)
-hugging(0.051)
-asking(0.041)

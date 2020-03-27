@@ -1,5 +1,0 @@
-frowning(0.123)
-crying(0.083)
-whistling(0.036)
-adult+female+speaking(0.026)
-handcuffing(0.019)

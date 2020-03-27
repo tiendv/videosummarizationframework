@@ -1,5 +1,0 @@
-howling(0.089)
-storming(0.067)
-barking(0.064)
-raining(0.040)
-roaring(0.033)

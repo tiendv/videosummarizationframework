@@ -1,5 +1,0 @@
-drinking(0.119)
-shrugging(0.073)
-adult+male+speaking(0.056)
-standing(0.044)
-talking(0.033)

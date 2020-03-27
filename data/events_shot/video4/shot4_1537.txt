@@ -1,5 +1,0 @@
-smoking(0.071)
-talking(0.045)
-adult+male+speaking(0.045)
-whistling(0.043)
-squinting(0.038)

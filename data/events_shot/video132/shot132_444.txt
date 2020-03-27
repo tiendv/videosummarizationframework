@@ -1,5 +1,0 @@
-eating(0.211)
-sneezing(0.105)
-coughing(0.068)
-smelling(0.060)
-knitting(0.058)

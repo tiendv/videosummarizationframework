@@ -1,5 +1,0 @@
-cooking(0.095)
-adult+male+speaking(0.074)
-pointing(0.035)
-stirring(0.032)
-lecturing(0.031)

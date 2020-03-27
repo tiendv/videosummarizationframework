@@ -1,5 +1,0 @@
-interviewing(0.123)
-talking(0.116)
-discussing(0.085)
-adult+female+speaking(0.068)
-sitting(0.041)

@@ -1,5 +1,0 @@
-mopping(0.271)
-constructing(0.042)
-cleaning(0.038)
-dusting(0.036)
-blocking(0.032)

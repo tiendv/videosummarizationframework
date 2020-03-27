@@ -1,5 +1,0 @@
-queuing(0.316)
-walking(0.036)
-asking(0.034)
-standing(0.030)
-adult+female+speaking(0.017)

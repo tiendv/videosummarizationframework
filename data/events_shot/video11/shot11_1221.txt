@@ -1,5 +1,0 @@
-frowning(0.142)
-slapping(0.091)
-shrugging(0.069)
-crying(0.047)
-throwing(0.037)

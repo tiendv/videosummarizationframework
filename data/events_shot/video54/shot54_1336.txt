@@ -1,5 +1,0 @@
-shaving(0.215)
-discussing(0.169)
-sitting(0.070)
-interviewing(0.070)
-adult+male+speaking(0.055)

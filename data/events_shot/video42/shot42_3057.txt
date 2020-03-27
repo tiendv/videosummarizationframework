@@ -1,5 +1,0 @@
-talking(0.071)
-raining(0.044)
-crying(0.037)
-fighting(0.032)
-walking(0.032)

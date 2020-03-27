@@ -1,5 +1,0 @@
-adult+female+speaking(0.053)
-talking(0.044)
-opening(0.037)
-crying(0.030)
-closing(0.029)

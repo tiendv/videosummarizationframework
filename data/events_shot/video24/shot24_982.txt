@@ -1,5 +1,0 @@
-chewing(0.133)
-eating(0.094)
-coughing(0.078)
-drinking(0.056)
-whistling(0.054)

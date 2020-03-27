@@ -1,5 +1,0 @@
-drinking(0.366)
-pouring(0.285)
-emptying(0.033)
-dining(0.028)
-serving(0.020)

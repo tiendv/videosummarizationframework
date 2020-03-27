@@ -1,5 +1,0 @@
-sweeping(0.072)
-juggling(0.057)
-mopping(0.054)
-vacuuming(0.040)
-stealing(0.032)

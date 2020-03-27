@@ -1,5 +1,0 @@
-queuing(0.092)
-adult+male+speaking(0.065)
-discussing(0.053)
-adult+female+speaking(0.030)
-sitting(0.025)

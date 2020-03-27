@@ -1,5 +1,0 @@
-unpacking(0.114)
-packing(0.109)
-flipping(0.098)
-stacking(0.081)
-balancing(0.053)

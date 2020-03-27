@@ -1,5 +1,0 @@
-walking(0.075)
-standing(0.058)
-smiling(0.030)
-stomping(0.025)
-marrying(0.025)

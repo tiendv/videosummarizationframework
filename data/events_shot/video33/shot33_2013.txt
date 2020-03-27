@@ -1,5 +1,0 @@
-marrying(0.070)
-walking(0.068)
-fencing(0.050)
-standing(0.047)
-guarding(0.030)

@@ -1,5 +1,0 @@
-kissing(0.472)
-hugging(0.364)
-cuddling(0.025)
-smiling(0.011)
-adult+female+singing(0.007)

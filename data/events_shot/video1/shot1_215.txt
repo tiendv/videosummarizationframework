@@ -1,5 +1,0 @@
-bowling(0.108)
-stopping(0.059)
-adult+male+speaking(0.057)
-blocking(0.030)
-knocking(0.029)

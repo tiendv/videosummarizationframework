@@ -1,5 +1,0 @@
-kneeling(0.387)
-sitting(0.055)
-squatting(0.031)
-adult+male+speaking(0.022)
-discussing(0.017)

@@ -1,5 +1,0 @@
-guarding(0.206)
-arresting(0.060)
-protesting(0.054)
-standing(0.041)
-walking(0.037)

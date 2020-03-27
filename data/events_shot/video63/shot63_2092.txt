@@ -1,5 +1,0 @@
-waving(0.068)
-shaking(0.066)
-dropping(0.051)
-falling(0.033)
-spilling(0.029)

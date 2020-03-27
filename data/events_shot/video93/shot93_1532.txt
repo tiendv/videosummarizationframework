@@ -1,5 +1,0 @@
-mowing(0.067)
-clearing(0.046)
-turning(0.030)
-pulling(0.026)
-removing(0.024)

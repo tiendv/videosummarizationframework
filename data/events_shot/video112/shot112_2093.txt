@@ -1,5 +1,0 @@
-sneezing(0.167)
-blowing(0.075)
-planting(0.041)
-gardening(0.039)
-picking(0.037)

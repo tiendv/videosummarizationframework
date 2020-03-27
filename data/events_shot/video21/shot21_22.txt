@@ -1,5 +1,0 @@
-carving(0.038)
-walking(0.037)
-cooking(0.033)
-standing(0.028)
-laughing(0.024)

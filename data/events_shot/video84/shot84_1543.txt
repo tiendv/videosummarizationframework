@@ -1,5 +1,0 @@
-sleeping(0.650)
-waking(0.092)
-resting(0.050)
-vacuuming(0.028)
-praying(0.012)

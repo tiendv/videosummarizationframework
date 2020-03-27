@@ -1,5 +1,0 @@
-driving(0.120)
-stopping(0.034)
-hitchhiking(0.033)
-riding(0.033)
-talking(0.026)

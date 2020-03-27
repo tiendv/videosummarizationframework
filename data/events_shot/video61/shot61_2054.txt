@@ -1,5 +1,0 @@
-fencing(0.192)
-walking(0.043)
-standing(0.026)
-adult+female+speaking(0.022)
-adult+female+singing(0.020)

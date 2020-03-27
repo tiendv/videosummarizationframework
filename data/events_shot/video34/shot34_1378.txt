@@ -1,5 +1,0 @@
-vacuuming(0.147)
-adult+female+singing(0.137)
-rocking(0.087)
-laughing(0.056)
-adult+female+speaking(0.038)

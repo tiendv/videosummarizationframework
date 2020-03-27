@@ -1,5 +1,0 @@
-tickling(0.090)
-hugging(0.056)
-cuddling(0.048)
-sneezing(0.039)
-coughing(0.035)

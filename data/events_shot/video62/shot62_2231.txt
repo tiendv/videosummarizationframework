@@ -1,5 +1,0 @@
-standing(0.082)
-laughing(0.075)
-walking(0.057)
-marrying(0.050)
-child+speaking(0.045)

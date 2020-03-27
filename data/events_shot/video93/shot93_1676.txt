@@ -1,5 +1,0 @@
-walking(0.031)
-painting(0.028)
-shaving(0.022)
-cooking(0.022)
-laughing(0.021)

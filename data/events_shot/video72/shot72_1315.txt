@@ -1,5 +1,0 @@
-adult+male+speaking(0.155)
-telephoning(0.040)
-knocking(0.036)
-calling(0.033)
-hammering(0.031)

@@ -1,5 +1,0 @@
-winking(0.173)
-smiling(0.128)
-opening(0.075)
-squinting(0.075)
-closing(0.066)

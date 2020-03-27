@@ -1,5 +1,0 @@
-sitting(0.102)
-handcuffing(0.057)
-asking(0.038)
-adult+male+speaking(0.033)
-guarding(0.025)

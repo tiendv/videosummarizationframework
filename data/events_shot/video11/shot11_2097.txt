@@ -1,5 +1,0 @@
-crawling(0.202)
-climbing(0.131)
-fighting(0.095)
-playing+videogames(0.091)
-attacking(0.080)

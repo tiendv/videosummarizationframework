@@ -1,5 +1,0 @@
-adult+female+speaking(0.162)
-crying(0.096)
-lecturing(0.031)
-telephoning(0.027)
-adult+female+singing(0.026)

@@ -1,5 +1,0 @@
-arresting(0.107)
-guarding(0.043)
-walking(0.036)
-discussing(0.035)
-standing(0.035)

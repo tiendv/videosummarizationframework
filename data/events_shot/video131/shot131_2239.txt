@@ -1,5 +1,0 @@
-filming(0.078)
-hanging(0.060)
-knocking(0.032)
-locking(0.032)
-walking(0.024)

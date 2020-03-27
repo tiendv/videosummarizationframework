@@ -1,5 +1,0 @@
-crying(0.076)
-sitting(0.039)
-walking(0.036)
-talking(0.028)
-closing(0.026)

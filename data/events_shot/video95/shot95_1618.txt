@@ -1,5 +1,0 @@
-planting(0.052)
-gardening(0.051)
-sneezing(0.047)
-stomping(0.030)
-mowing(0.027)

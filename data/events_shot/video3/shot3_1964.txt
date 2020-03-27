@@ -1,5 +1,0 @@
-adult+male+speaking(0.068)
-adult+female+speaking(0.048)
-shaving(0.032)
-laughing(0.028)
-combing(0.027)

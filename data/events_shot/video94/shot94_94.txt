@@ -1,5 +1,0 @@
-child+speaking(0.563)
-child+singing(0.165)
-teaching(0.031)
-adult+female+speaking(0.013)
-imitating(0.011)

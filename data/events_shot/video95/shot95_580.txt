@@ -1,5 +1,0 @@
-arresting(0.128)
-handcuffing(0.120)
-hugging(0.053)
-playing+videogames(0.045)
-adult+male+speaking(0.037)

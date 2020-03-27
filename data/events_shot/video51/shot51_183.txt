@@ -1,5 +1,0 @@
-smoking(0.031)
-blowing(0.029)
-drying(0.026)
-putting(0.022)
-drinking(0.021)

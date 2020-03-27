@@ -1,5 +1,0 @@
-building(0.055)
-hammering(0.040)
-working(0.033)
-adult+male+speaking(0.029)
-sitting(0.025)

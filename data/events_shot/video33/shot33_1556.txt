@@ -1,5 +1,0 @@
-asking(0.063)
-taping(0.060)
-chewing(0.039)
-adult+female+speaking(0.025)
-discussing(0.024)

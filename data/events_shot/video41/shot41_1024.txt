@@ -1,5 +1,0 @@
-yawning(0.999)
-sneezing(0.000)
-coughing(0.000)
-roaring(0.000)
-licking(0.000)

@@ -1,5 +1,0 @@
-drinking(0.255)
-standing(0.033)
-celebrating(0.029)
-smiling(0.022)
-smelling(0.021)

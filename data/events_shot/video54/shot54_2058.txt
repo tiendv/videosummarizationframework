@@ -1,5 +1,0 @@
-roaring(0.715)
-attacking(0.064)
-hunting(0.061)
-fighting(0.022)
-adult+male+singing(0.011)

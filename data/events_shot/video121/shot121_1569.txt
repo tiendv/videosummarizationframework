@@ -1,5 +1,0 @@
-sitting(0.035)
-adult+male+speaking(0.028)
-waking(0.026)
-filming(0.020)
-playing+videogames(0.020)

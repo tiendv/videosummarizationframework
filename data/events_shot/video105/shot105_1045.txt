@@ -1,5 +1,0 @@
-sleeping(0.046)
-adult+male+speaking(0.032)
-resting(0.030)
-hugging(0.028)
-kissing(0.026)

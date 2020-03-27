@@ -1,5 +1,0 @@
-frowning(0.167)
-crying(0.120)
-raining(0.037)
-talking(0.035)
-clipping(0.025)

@@ -1,5 +1,0 @@
-walking(0.072)
-slapping(0.042)
-fighting(0.027)
-shaking(0.026)
-adult+male+speaking(0.023)

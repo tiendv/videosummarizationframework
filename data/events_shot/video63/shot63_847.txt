@@ -1,5 +1,0 @@
-opening(0.210)
-crying(0.204)
-closing(0.180)
-frowning(0.029)
-carrying(0.022)

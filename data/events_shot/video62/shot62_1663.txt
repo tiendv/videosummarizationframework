@@ -1,5 +1,0 @@
-dipping(0.639)
-cooking(0.201)
-baking(0.042)
-stirring(0.032)
-serving(0.005)

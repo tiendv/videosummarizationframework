@@ -1,5 +1,0 @@
-walking(0.183)
-sneezing(0.063)
-slapping(0.055)
-knocking(0.025)
-carrying(0.023)

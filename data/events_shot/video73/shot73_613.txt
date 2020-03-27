@@ -1,5 +1,0 @@
-painting(0.818)
-drawing(0.036)
-sketching(0.011)
-sitting(0.008)
-adult+female+speaking(0.006)

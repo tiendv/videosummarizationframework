@@ -1,5 +1,0 @@
-coughing(0.241)
-sneezing(0.078)
-whistling(0.035)
-adult+male+speaking(0.030)
-yawning(0.028)

@@ -1,5 +1,0 @@
-kissing(0.120)
-hugging(0.035)
-standing(0.029)
-turning(0.027)
-filming(0.025)

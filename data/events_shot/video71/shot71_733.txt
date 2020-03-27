@@ -1,5 +1,0 @@
-raining(0.089)
-walking(0.061)
-filming(0.051)
-calling(0.033)
-adult+female+singing(0.028)

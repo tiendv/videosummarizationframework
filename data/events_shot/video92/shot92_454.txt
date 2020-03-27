@@ -1,5 +1,0 @@
-building(0.113)
-measuring(0.087)
-adult+male+speaking(0.050)
-painting(0.042)
-constructing(0.042)

@@ -1,5 +1,0 @@
-asking(0.157)
-hugging(0.078)
-adult+male+speaking(0.061)
-adult+female+speaking(0.038)
-autographing(0.027)

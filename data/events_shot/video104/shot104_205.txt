@@ -1,5 +1,0 @@
-shopping(0.128)
-selling(0.089)
-talking(0.078)
-sitting(0.061)
-discussing(0.050)

@@ -1,5 +1,0 @@
-adult+female+speaking(0.124)
-adult+female+singing(0.046)
-shrugging(0.030)
-massaging(0.020)
-asking(0.020)

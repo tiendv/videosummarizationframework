@@ -1,5 +1,0 @@
-painting(0.329)
-drawing(0.070)
-brushing(0.042)
-removing(0.028)
-sawing(0.020)

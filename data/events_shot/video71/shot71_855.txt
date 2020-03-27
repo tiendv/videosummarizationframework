@@ -1,5 +1,0 @@
-adult+female+singing(0.105)
-punching(0.064)
-adult+male+singing(0.048)
-walking(0.036)
-singing(0.034)

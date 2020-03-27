@@ -1,5 +1,0 @@
-rising(0.245)
-attacking(0.082)
-launching(0.076)
-ascending(0.054)
-fighting(0.041)

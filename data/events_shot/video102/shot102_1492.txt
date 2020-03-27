@@ -1,5 +1,0 @@
-applauding(0.236)
-clapping(0.155)
-coughing(0.039)
-sneezing(0.036)
-rubbing(0.021)

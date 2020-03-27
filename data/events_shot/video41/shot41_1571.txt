@@ -1,5 +1,0 @@
-spinning(0.095)
-stacking(0.055)
-assembling(0.025)
-combusting(0.021)
-turning(0.019)

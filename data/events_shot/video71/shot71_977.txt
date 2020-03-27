@@ -1,5 +1,0 @@
-arresting(0.389)
-aiming(0.377)
-shooting(0.049)
-guarding(0.032)
-flooding(0.020)

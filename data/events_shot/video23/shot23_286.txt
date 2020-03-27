@@ -1,5 +1,0 @@
-marrying(0.216)
-dining(0.080)
-smiling(0.050)
-officiating(0.036)
-adult+male+speaking(0.035)

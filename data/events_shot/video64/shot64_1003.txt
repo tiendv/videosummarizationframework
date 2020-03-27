@@ -1,5 +1,0 @@
-walking(0.080)
-calling(0.043)
-telephoning(0.039)
-smashing(0.032)
-hitting(0.027)

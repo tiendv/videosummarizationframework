@@ -1,5 +1,0 @@
-drinking(0.651)
-eating(0.061)
-dining(0.034)
-adult+female+singing(0.014)
-laughing(0.011)

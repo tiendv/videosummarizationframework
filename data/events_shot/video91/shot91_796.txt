@@ -1,5 +1,0 @@
-building(0.353)
-constructing(0.109)
-walking(0.075)
-loading(0.036)
-running(0.024)

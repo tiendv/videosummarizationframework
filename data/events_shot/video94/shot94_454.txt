@@ -1,5 +1,0 @@
-coughing(0.160)
-sneezing(0.089)
-whistling(0.085)
-child+speaking(0.042)
-blowing(0.039)

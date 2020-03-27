@@ -1,5 +1,0 @@
-handcuffing(0.089)
-gripping(0.055)
-adult+female+speaking(0.039)
-dressing(0.033)
-putting(0.023)

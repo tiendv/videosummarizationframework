@@ -1,5 +1,0 @@
-driving(0.504)
-steering(0.309)
-riding(0.079)
-piloting(0.006)
-bulldozing(0.005)

@@ -1,5 +1,0 @@
-storming(0.170)
-raining(0.125)
-howling(0.034)
-snowing(0.024)
-dusting(0.023)

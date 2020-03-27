@@ -1,5 +1,0 @@
-running(0.115)
-walking(0.087)
-filming(0.035)
-adult+female+singing(0.028)
-chasing(0.021)

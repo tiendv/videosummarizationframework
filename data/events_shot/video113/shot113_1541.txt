@@ -1,5 +1,0 @@
-fencing(0.039)
-walking(0.034)
-knocking(0.034)
-opening(0.021)
-locking(0.019)

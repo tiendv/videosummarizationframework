@@ -1,5 +1,0 @@
-interviewing(0.092)
-flooding(0.072)
-discussing(0.069)
-lecturing(0.062)
-adult+male+speaking(0.060)

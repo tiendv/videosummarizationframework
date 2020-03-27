@@ -1,5 +1,0 @@
-aiming(0.081)
-adult+male+speaking(0.065)
-playing+videogames(0.030)
-pointing(0.025)
-standing(0.023)

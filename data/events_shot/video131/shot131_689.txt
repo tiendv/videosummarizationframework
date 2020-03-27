@@ -1,5 +1,0 @@
-dressing(0.085)
-knocking(0.066)
-entering(0.058)
-locking(0.040)
-opening(0.034)

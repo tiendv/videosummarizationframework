@@ -1,5 +1,0 @@
-asking(0.555)
-interviewing(0.045)
-adult+male+speaking(0.031)
-autographing(0.027)
-walking(0.026)

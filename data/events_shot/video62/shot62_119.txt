@@ -1,5 +1,0 @@
-walking(0.139)
-asking(0.055)
-filming(0.041)
-running(0.041)
-exiting(0.033)

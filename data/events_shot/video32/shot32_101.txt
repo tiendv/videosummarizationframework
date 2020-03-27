@@ -1,5 +1,0 @@
-chewing(0.037)
-shaking(0.037)
-walking(0.034)
-fighting(0.026)
-adult+female+singing(0.021)

@@ -1,5 +1,0 @@
-cooking(0.166)
-baking(0.103)
-standing(0.046)
-talking(0.043)
-laughing(0.023)

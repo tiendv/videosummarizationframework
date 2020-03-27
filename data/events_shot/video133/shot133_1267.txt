@@ -1,5 +1,0 @@
-frowning(0.170)
-hugging(0.157)
-squinting(0.048)
-talking(0.025)
-standing(0.023)

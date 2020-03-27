@@ -1,5 +1,0 @@
-crying(0.675)
-sneezing(0.077)
-blowing(0.058)
-coughing(0.046)
-adult+female+singing(0.045)

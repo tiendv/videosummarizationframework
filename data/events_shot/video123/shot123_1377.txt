@@ -1,5 +1,0 @@
-aiming(0.220)
-shooting(0.108)
-gripping(0.083)
-pointing(0.081)
-handcuffing(0.026)

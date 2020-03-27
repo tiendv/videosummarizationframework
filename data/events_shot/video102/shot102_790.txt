@@ -1,5 +1,0 @@
-knocking(0.273)
-aiming(0.049)
-locking(0.036)
-shooting(0.034)
-pointing(0.028)

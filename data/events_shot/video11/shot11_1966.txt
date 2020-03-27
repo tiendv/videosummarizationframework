@@ -1,5 +1,0 @@
-sitting(0.146)
-discussing(0.087)
-adult+female+speaking(0.069)
-adult+male+speaking(0.055)
-standing(0.050)

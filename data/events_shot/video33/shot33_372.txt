@@ -1,5 +1,0 @@
-driving(0.069)
-steering(0.050)
-talking(0.041)
-pointing(0.027)
-adult+male+speaking(0.027)

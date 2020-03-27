@@ -1,5 +1,0 @@
-adult+female+speaking(0.204)
-camping(0.080)
-smiling(0.070)
-talking(0.034)
-standing(0.030)

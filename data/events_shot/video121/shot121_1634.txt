@@ -1,5 +1,0 @@
-driving(0.292)
-steering(0.046)
-raining(0.042)
-playing+videogames(0.040)
-racing(0.038)

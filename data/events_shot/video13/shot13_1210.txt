@@ -1,5 +1,0 @@
-brushing(0.300)
-combing(0.081)
-frowning(0.054)
-pointing(0.028)
-slapping(0.022)

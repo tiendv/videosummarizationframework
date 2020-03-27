@@ -1,5 +1,0 @@
-roaring(0.824)
-yawning(0.021)
-adult+male+speaking(0.016)
-starting(0.014)
-clawing(0.008)

@@ -1,5 +1,0 @@
-adult+female+singing(0.119)
-adult+female+speaking(0.041)
-cheerleading(0.033)
-clapping(0.032)
-applauding(0.030)

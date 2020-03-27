@@ -1,5 +1,0 @@
-autographing(0.063)
-sneezing(0.056)
-coughing(0.036)
-adult+male+speaking(0.035)
-discussing(0.034)

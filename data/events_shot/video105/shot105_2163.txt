@@ -1,5 +1,0 @@
-burying(0.035)
-adult+male+speaking(0.035)
-standing(0.029)
-hunting(0.020)
-whistling(0.020)

@@ -1,5 +1,0 @@
-boating(0.053)
-arresting(0.053)
-guarding(0.040)
-standing(0.040)
-walking(0.037)

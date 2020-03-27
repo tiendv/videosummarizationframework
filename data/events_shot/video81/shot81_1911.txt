@@ -1,5 +1,0 @@
-floating(0.314)
-boating(0.075)
-hanging(0.063)
-rowing(0.062)
-balancing(0.033)

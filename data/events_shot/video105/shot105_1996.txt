@@ -1,5 +1,0 @@
-preaching(0.182)
-sneezing(0.122)
-praying(0.068)
-standing(0.068)
-adult+male+speaking(0.049)

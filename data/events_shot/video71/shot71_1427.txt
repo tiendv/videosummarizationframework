@@ -1,5 +1,0 @@
-child+speaking(0.729)
-child+singing(0.082)
-snapping(0.011)
-slapping(0.011)
-cracking(0.007)

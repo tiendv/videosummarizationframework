@@ -1,5 +1,0 @@
-drying(0.080)
-hanging(0.061)
-knocking(0.033)
-removing(0.032)
-combing(0.031)

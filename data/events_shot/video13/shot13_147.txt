@@ -1,5 +1,0 @@
-bowling(0.035)
-wrapping(0.030)
-autographing(0.029)
-stacking(0.021)
-playing+videogames(0.017)

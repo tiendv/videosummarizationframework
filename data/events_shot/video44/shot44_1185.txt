@@ -1,5 +1,0 @@
-sliding(0.135)
-slipping(0.054)
-skiing(0.038)
-playing+videogames(0.036)
-falling(0.026)

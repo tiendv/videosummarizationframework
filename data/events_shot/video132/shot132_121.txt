@@ -1,5 +1,0 @@
-pointing(0.356)
-reading(0.170)
-handwriting(0.122)
-typing(0.041)
-studying(0.033)

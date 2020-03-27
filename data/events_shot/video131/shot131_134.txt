@@ -1,5 +1,0 @@
-telephoning(0.124)
-sleeping(0.084)
-frowning(0.076)
-waking(0.070)
-calling(0.068)

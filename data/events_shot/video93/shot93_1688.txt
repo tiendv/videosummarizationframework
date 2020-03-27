@@ -1,5 +1,0 @@
-walking(0.150)
-filming(0.069)
-carrying(0.036)
-punching(0.027)
-rising(0.025)

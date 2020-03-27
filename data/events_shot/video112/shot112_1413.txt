@@ -1,5 +1,0 @@
-queuing(0.315)
-walking(0.081)
-hugging(0.053)
-exiting(0.027)
-preaching(0.025)

@@ -1,5 +1,0 @@
-driving(0.180)
-washing(0.105)
-rinsing(0.068)
-steering(0.044)
-crashing(0.041)

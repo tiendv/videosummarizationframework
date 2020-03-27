@@ -1,5 +1,0 @@
-boxing(0.192)
-punching(0.159)
-knocking(0.034)
-dusting(0.027)
-cleaning(0.022)

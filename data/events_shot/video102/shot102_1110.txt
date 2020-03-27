@@ -1,5 +1,0 @@
-jogging(0.121)
-running(0.105)
-slapping(0.058)
-punching(0.048)
-walking(0.048)

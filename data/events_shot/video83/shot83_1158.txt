@@ -1,5 +1,0 @@
-sliding(0.059)
-knocking(0.046)
-plunging(0.045)
-adult+female+singing(0.039)
-slapping(0.036)

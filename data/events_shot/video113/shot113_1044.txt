@@ -1,5 +1,0 @@
-writing(0.065)
-handwriting(0.044)
-adult+male+speaking(0.040)
-typing(0.039)
-poking(0.025)

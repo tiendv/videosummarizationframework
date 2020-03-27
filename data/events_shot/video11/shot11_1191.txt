@@ -1,5 +1,0 @@
-roaring(0.058)
-raising(0.050)
-lifting(0.041)
-falling(0.039)
-adult+female+singing(0.029)

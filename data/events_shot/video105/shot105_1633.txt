@@ -1,5 +1,0 @@
-knocking(0.056)
-adult+female+singing(0.050)
-adult+male+speaking(0.043)
-standing(0.032)
-hugging(0.031)

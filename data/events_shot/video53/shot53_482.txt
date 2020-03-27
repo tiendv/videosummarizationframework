@@ -1,5 +1,0 @@
-adult+male+speaking(0.112)
-pointing(0.081)
-talking(0.079)
-turning(0.031)
-reaching(0.023)

@@ -1,5 +1,0 @@
-adult+male+singing(0.187)
-adult+male+speaking(0.087)
-talking(0.060)
-singing(0.042)
-standing(0.037)

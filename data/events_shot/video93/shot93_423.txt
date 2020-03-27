@@ -1,5 +1,0 @@
-filming(0.038)
-drinking(0.033)
-singing(0.029)
-adult+male+singing(0.029)
-pointing(0.029)

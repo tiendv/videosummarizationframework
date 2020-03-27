@@ -1,5 +1,0 @@
-giving(0.095)
-stealing(0.048)
-packaging(0.044)
-paying(0.042)
-shaking(0.032)

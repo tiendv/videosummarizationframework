@@ -1,5 +1,0 @@
-adult+female+singing(0.077)
-adult+female+speaking(0.062)
-eating(0.047)
-drinking(0.038)
-chewing(0.037)

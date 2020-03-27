@@ -1,5 +1,0 @@
-blocking(0.035)
-arresting(0.030)
-adult+male+speaking(0.028)
-exiting(0.024)
-locking(0.023)

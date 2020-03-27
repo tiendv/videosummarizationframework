@@ -1,5 +1,0 @@
-sneezing(0.175)
-coughing(0.127)
-smoking(0.082)
-drinking(0.043)
-spitting(0.023)

@@ -1,5 +1,0 @@
-child+speaking(0.119)
-asking(0.083)
-slapping(0.056)
-imitating(0.045)
-interviewing(0.045)

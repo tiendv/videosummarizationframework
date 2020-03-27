@@ -1,5 +1,0 @@
-loading(0.488)
-unloading(0.464)
-stacking(0.015)
-carrying(0.004)
-placing(0.003)

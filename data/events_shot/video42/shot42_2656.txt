@@ -1,5 +1,0 @@
-hitchhiking(0.092)
-preaching(0.072)
-exiting(0.064)
-adult+male+speaking(0.049)
-walking(0.036)

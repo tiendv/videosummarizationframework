@@ -1,5 +1,0 @@
-walking(0.178)
-standing(0.038)
-pushing(0.027)
-arresting(0.023)
-dressing(0.020)

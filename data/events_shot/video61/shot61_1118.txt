@@ -1,5 +1,0 @@
-fencing(0.340)
-walking(0.079)
-punching(0.062)
-slapping(0.061)
-boxing(0.036)

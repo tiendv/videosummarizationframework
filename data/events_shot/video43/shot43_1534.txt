@@ -1,5 +1,0 @@
-shooting(0.159)
-pointing(0.079)
-carrying(0.051)
-walking(0.038)
-slapping(0.035)

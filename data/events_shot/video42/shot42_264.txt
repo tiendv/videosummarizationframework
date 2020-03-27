@@ -1,5 +1,0 @@
-fencing(0.075)
-standing(0.055)
-guarding(0.047)
-knocking(0.041)
-officiating(0.038)

@@ -1,5 +1,0 @@
-walking(0.131)
-hiking(0.075)
-standing(0.060)
-barking(0.019)
-rocking(0.018)

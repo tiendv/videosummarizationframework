@@ -1,5 +1,0 @@
-walking(0.154)
-standing(0.123)
-stomping(0.088)
-dressing(0.055)
-asking(0.038)

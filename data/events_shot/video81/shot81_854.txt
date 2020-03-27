@@ -1,5 +1,0 @@
-shaving(0.094)
-brushing(0.062)
-drinking(0.058)
-combing(0.050)
-adult+male+speaking(0.036)

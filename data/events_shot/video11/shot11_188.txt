@@ -1,5 +1,0 @@
-frowning(0.166)
-crying(0.138)
-driving(0.093)
-shooting(0.027)
-riding(0.027)

@@ -1,5 +1,0 @@
-massaging(0.049)
-combing(0.040)
-rubbing(0.035)
-stacking(0.035)
-child+speaking(0.032)

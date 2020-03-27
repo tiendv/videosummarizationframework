@@ -1,5 +1,0 @@
-clipping(0.069)
-walking(0.060)
-carrying(0.053)
-arresting(0.037)
-locking(0.036)

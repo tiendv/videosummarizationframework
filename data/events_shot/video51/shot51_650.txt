@@ -1,5 +1,0 @@
-sneezing(0.358)
-coughing(0.106)
-adult+male+speaking(0.060)
-crying(0.023)
-hugging(0.021)

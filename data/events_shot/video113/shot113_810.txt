@@ -1,5 +1,0 @@
-yawning(0.292)
-coughing(0.150)
-sneezing(0.100)
-spitting(0.038)
-licking(0.024)

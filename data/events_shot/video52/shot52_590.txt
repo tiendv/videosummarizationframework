@@ -1,5 +1,0 @@
-fueling(0.302)
-buying(0.084)
-shopping(0.080)
-stealing(0.041)
-selling(0.038)

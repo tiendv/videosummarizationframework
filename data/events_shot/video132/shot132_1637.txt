@@ -1,5 +1,0 @@
-drinking(0.759)
-watering(0.025)
-pouring(0.014)
-wetting(0.010)
-spitting(0.007)

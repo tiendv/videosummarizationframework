@@ -1,5 +1,0 @@
-smiling(0.074)
-adult+female+speaking(0.065)
-drying(0.065)
-slapping(0.049)
-brushing(0.040)

@@ -1,5 +1,0 @@
-blowing(0.575)
-inflating(0.332)
-coughing(0.010)
-sniffing(0.007)
-eating(0.006)

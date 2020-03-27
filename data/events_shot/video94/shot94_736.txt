@@ -1,5 +1,0 @@
-singing(0.073)
-child+singing(0.060)
-adult+female+singing(0.045)
-baking(0.041)
-child+speaking(0.038)

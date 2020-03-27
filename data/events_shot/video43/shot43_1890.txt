@@ -1,5 +1,0 @@
-fencing(0.075)
-licking(0.052)
-eating(0.032)
-asking(0.023)
-adult+female+speaking(0.021)

@@ -1,5 +1,0 @@
-knocking(0.725)
-hitting(0.023)
-standing(0.014)
-colliding(0.013)
-smashing(0.011)

@@ -1,5 +1,0 @@
-sneezing(0.040)
-working(0.039)
-drinking(0.038)
-coughing(0.028)
-cleaning(0.028)

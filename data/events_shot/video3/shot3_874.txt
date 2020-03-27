@@ -1,5 +1,0 @@
-driving(0.084)
-talking(0.082)
-sitting(0.070)
-smoking(0.050)
-starting(0.031)

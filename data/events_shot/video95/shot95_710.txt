@@ -1,5 +1,0 @@
-fighting(0.052)
-hunting(0.050)
-attacking(0.044)
-hugging(0.042)
-fishing(0.033)

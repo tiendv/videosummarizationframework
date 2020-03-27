@@ -1,5 +1,0 @@
-queuing(0.128)
-asking(0.106)
-adult+female+speaking(0.048)
-adult+male+speaking(0.046)
-hugging(0.037)

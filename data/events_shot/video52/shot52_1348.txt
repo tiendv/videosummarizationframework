@@ -1,5 +1,0 @@
-crying(0.076)
-walking(0.047)
-protesting(0.039)
-saluting(0.039)
-marching(0.032)

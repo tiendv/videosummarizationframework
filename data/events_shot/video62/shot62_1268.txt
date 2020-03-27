@@ -1,5 +1,0 @@
-stirring(0.049)
-dining(0.047)
-drinking(0.042)
-adult+male+speaking(0.040)
-cooking(0.038)

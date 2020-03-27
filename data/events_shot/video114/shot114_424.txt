@@ -1,5 +1,0 @@
-standing(0.033)
-handcuffing(0.029)
-adult+male+speaking(0.027)
-slapping(0.024)
-hugging(0.023)

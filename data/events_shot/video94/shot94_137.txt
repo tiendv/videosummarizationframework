@@ -1,5 +1,0 @@
-coughing(0.102)
-walking(0.081)
-whistling(0.047)
-sneezing(0.046)
-arresting(0.038)

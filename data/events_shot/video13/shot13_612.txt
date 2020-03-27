@@ -1,5 +1,0 @@
-adult+male+speaking(0.084)
-coaching(0.066)
-asking(0.043)
-discussing(0.038)
-instructing(0.029)

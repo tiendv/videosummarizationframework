@@ -1,5 +1,0 @@
-slapping(0.089)
-aiming(0.049)
-guarding(0.048)
-arresting(0.043)
-walking(0.042)

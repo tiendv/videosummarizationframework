@@ -1,5 +1,0 @@
-brushing(0.064)
-adult+female+speaking(0.044)
-combing(0.041)
-chewing(0.031)
-manicuring(0.022)

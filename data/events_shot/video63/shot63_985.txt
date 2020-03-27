@@ -1,5 +1,0 @@
-talking(0.094)
-opening(0.076)
-closing(0.071)
-standing(0.057)
-walking(0.051)

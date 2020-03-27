@@ -1,5 +1,0 @@
-dining(0.103)
-autographing(0.103)
-eating(0.089)
-adult+male+speaking(0.054)
-discussing(0.050)

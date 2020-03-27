@@ -1,5 +1,0 @@
-marrying(0.270)
-walking(0.097)
-standing(0.071)
-hugging(0.039)
-hiking(0.031)

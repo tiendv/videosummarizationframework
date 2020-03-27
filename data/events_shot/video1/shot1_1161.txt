@@ -1,5 +1,0 @@
-handcuffing(0.058)
-gripping(0.035)
-emptying(0.034)
-filling(0.027)
-arresting(0.023)

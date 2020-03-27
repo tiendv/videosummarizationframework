@@ -1,5 +1,0 @@
-arresting(0.205)
-pointing(0.063)
-slapping(0.061)
-adult+male+speaking(0.057)
-guarding(0.052)

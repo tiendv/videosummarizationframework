@@ -1,5 +1,0 @@
-sitting(0.048)
-interviewing(0.041)
-talking(0.034)
-dressing(0.029)
-cooking(0.026)

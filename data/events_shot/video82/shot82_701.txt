@@ -1,5 +1,0 @@
-dining(0.150)
-eating(0.052)
-selling(0.048)
-adult+male+speaking(0.045)
-stealing(0.038)

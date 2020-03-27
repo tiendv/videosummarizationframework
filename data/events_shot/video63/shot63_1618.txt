@@ -1,5 +1,0 @@
-hugging(0.095)
-marching(0.048)
-sitting(0.046)
-applauding(0.041)
-queuing(0.030)

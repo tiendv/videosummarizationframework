@@ -1,5 +1,0 @@
-bouncing(0.489)
-shaking(0.035)
-jogging(0.020)
-dancing(0.019)
-plunging(0.016)

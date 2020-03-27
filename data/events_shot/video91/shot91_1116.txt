@@ -1,5 +1,0 @@
-tuning(0.879)
-driving(0.008)
-starting(0.007)
-stopping(0.006)
-roaring(0.004)

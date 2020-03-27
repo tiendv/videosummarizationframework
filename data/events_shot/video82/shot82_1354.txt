@@ -1,5 +1,0 @@
-talking(0.090)
-adult+male+speaking(0.081)
-throwing(0.040)
-standing(0.039)
-flicking(0.036)

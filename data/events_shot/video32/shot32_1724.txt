@@ -1,5 +1,0 @@
-spinning(0.239)
-barking(0.072)
-rolling(0.069)
-turning(0.058)
-whistling(0.048)

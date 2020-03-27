@@ -1,5 +1,0 @@
-handcuffing(0.380)
-arresting(0.105)
-guarding(0.052)
-dressing(0.037)
-opening(0.031)

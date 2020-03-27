@@ -1,5 +1,0 @@
-fighting(0.049)
-standing(0.028)
-celebrating(0.025)
-wrestling(0.021)
-laughing(0.021)

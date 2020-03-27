@@ -1,5 +1,0 @@
-loading(0.039)
-exiting(0.030)
-removing(0.025)
-unloading(0.024)
-carrying(0.022)

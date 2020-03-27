@@ -1,5 +1,0 @@
-adult+female+speaking(0.129)
-painting(0.102)
-brushing(0.067)
-smiling(0.043)
-crying(0.038)

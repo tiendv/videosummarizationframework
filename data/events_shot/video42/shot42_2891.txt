@@ -1,5 +1,0 @@
-driving(0.055)
-talking(0.041)
-tuning(0.031)
-smiling(0.028)
-buying(0.027)

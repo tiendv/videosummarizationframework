@@ -1,5 +1,0 @@
-baking(0.192)
-cooking(0.110)
-packing(0.067)
-unpacking(0.041)
-grilling(0.024)

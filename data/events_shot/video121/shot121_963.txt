@@ -1,5 +1,0 @@
-waking(0.118)
-coughing(0.084)
-sneezing(0.075)
-adult+female+speaking(0.048)
-adult+male+speaking(0.046)

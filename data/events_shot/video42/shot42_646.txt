@@ -1,5 +1,0 @@
-pouring(0.087)
-stirring(0.072)
-dipping(0.065)
-crafting(0.053)
-cooking(0.051)

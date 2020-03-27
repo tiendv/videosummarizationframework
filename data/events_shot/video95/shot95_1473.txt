@@ -1,5 +1,0 @@
-bowing(0.091)
-squatting(0.050)
-crouching(0.043)
-crying(0.034)
-lifting(0.029)

@@ -1,5 +1,0 @@
-barking(0.237)
-howling(0.055)
-biting(0.032)
-slapping(0.028)
-adult+male+speaking(0.026)

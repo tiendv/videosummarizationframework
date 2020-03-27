@@ -1,5 +1,0 @@
-adult+female+speaking(0.043)
-squatting(0.041)
-adult+male+speaking(0.025)
-lifting(0.021)
-bowing(0.020)

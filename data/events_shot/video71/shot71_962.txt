@@ -1,5 +1,0 @@
-lecturing(0.104)
-telephoning(0.096)
-adult+female+speaking(0.096)
-adult+male+speaking(0.062)
-asking(0.041)

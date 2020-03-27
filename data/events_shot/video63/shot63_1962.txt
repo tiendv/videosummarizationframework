@@ -1,5 +1,0 @@
-handcuffing(0.033)
-asking(0.031)
-arresting(0.028)
-slapping(0.027)
-knocking(0.027)

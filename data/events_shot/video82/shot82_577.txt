@@ -1,5 +1,0 @@
-drying(0.310)
-sneezing(0.243)
-coughing(0.113)
-drinking(0.053)
-dressing(0.017)

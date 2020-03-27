@@ -1,5 +1,0 @@
-hugging(0.045)
-crying(0.029)
-adult+female+speaking(0.025)
-shrugging(0.025)
-walking(0.019)

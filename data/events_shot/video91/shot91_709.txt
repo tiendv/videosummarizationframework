@@ -1,5 +1,0 @@
-opening(0.077)
-closing(0.055)
-sprinting(0.031)
-licking(0.022)
-starting(0.018)

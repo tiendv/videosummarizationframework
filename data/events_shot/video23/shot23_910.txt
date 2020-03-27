@@ -1,5 +1,0 @@
-drinking(0.148)
-pouring(0.078)
-smoking(0.031)
-watering(0.023)
-sitting(0.023)

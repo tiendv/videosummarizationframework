@@ -1,5 +1,0 @@
-walking(0.194)
-mowing(0.063)
-fencing(0.045)
-guarding(0.030)
-stealing(0.025)

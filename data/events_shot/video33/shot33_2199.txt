@@ -1,5 +1,0 @@
-kicking(0.140)
-punching(0.064)
-instructing(0.033)
-standing(0.033)
-sitting(0.027)

@@ -1,5 +1,0 @@
-crafting(0.166)
-reading(0.084)
-studying(0.058)
-working(0.043)
-wrapping(0.032)

@@ -1,5 +1,0 @@
-saluting(0.114)
-standing(0.081)
-pointing(0.071)
-adult+male+speaking(0.048)
-waving(0.040)

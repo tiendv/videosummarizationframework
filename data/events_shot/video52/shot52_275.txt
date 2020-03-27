@@ -1,5 +1,0 @@
-packing(0.430)
-unpacking(0.125)
-selling(0.049)
-drying(0.032)
-shopping(0.017)

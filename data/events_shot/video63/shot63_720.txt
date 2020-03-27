@@ -1,5 +1,0 @@
-walking(0.059)
-turning(0.042)
-adult+female+speaking(0.041)
-spinning(0.038)
-bicycling(0.033)

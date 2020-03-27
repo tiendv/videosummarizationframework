@@ -1,5 +1,0 @@
-punching(0.086)
-combing(0.085)
-brushing(0.076)
-attacking(0.061)
-slapping(0.041)

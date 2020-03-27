@@ -1,5 +1,0 @@
-applauding(0.362)
-cheering(0.175)
-clapping(0.090)
-marching(0.043)
-shouting(0.041)

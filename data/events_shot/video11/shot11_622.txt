@@ -1,5 +1,0 @@
-drinking(0.272)
-adult+male+speaking(0.043)
-sneezing(0.038)
-laughing(0.028)
-smelling(0.024)

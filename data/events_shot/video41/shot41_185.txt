@@ -1,5 +1,0 @@
-walking(0.243)
-carrying(0.031)
-standing(0.031)
-filming(0.029)
-guarding(0.022)

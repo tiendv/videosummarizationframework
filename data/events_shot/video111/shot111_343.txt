@@ -1,5 +1,0 @@
-crying(0.100)
-adult+female+speaking(0.046)
-smelling(0.031)
-laughing(0.031)
-sniffing(0.031)

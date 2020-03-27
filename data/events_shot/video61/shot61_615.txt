@@ -1,5 +1,0 @@
-talking(0.052)
-working(0.050)
-lecturing(0.042)
-child+speaking(0.038)
-standing(0.031)

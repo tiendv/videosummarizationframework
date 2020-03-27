@@ -1,5 +1,0 @@
-fencing(0.152)
-walking(0.082)
-climbing(0.050)
-hiking(0.038)
-asking(0.030)

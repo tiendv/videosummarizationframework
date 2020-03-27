@@ -1,5 +1,0 @@
-laughing(0.037)
-standing(0.033)
-sitting(0.025)
-raising(0.024)
-lifting(0.022)

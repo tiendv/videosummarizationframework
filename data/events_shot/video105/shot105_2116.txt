@@ -1,5 +1,0 @@
-drinking(0.223)
-sneezing(0.188)
-bowing(0.087)
-crying(0.041)
-smelling(0.031)

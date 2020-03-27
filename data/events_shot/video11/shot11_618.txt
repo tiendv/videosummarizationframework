@@ -1,5 +1,0 @@
-running(0.050)
-cleaning(0.039)
-jogging(0.032)
-bouncing(0.028)
-drying(0.024)

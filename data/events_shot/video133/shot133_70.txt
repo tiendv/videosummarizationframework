@@ -1,5 +1,0 @@
-sitting(0.267)
-talking(0.173)
-adult+male+speaking(0.161)
-discussing(0.094)
-starting(0.057)

@@ -1,5 +1,0 @@
-hammering(0.040)
-packing(0.035)
-working(0.027)
-unpacking(0.027)
-assembling(0.026)

@@ -1,5 +1,0 @@
-snowing(0.052)
-adult+male+speaking(0.042)
-laughing(0.038)
-talking(0.024)
-telephoning(0.020)

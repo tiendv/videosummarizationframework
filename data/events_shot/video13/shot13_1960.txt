@@ -1,5 +1,0 @@
-opening(0.034)
-dressing(0.032)
-locking(0.031)
-adult+female+speaking(0.030)
-smelling(0.026)

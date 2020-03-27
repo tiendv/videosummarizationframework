@@ -1,5 +1,0 @@
-driving(0.141)
-washing(0.112)
-tuning(0.090)
-crashing(0.046)
-fueling(0.041)

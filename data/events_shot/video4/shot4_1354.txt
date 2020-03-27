@@ -1,5 +1,0 @@
-bowing(0.151)
-sweeping(0.092)
-cleaning(0.075)
-mopping(0.057)
-vacuuming(0.032)

@@ -1,5 +1,0 @@
-cheerleading(0.168)
-smiling(0.094)
-laughing(0.072)
-slapping(0.042)
-adult+female+speaking(0.038)

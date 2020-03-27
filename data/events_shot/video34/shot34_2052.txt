@@ -1,5 +1,0 @@
-drying(0.653)
-sowing(0.068)
-gardening(0.033)
-planting(0.028)
-trimming(0.010)

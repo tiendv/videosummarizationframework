@@ -1,5 +1,0 @@
-sweeping(0.026)
-guarding(0.024)
-walking(0.024)
-stealing(0.021)
-standing(0.018)

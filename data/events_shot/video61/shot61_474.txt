@@ -1,5 +1,0 @@
-walking(0.095)
-exiting(0.091)
-marrying(0.066)
-smelling(0.043)
-interviewing(0.038)

@@ -1,5 +1,0 @@
-stacking(0.849)
-kneeling(0.008)
-bowing(0.006)
-laughing(0.005)
-adult+male+singing(0.004)

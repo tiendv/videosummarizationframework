@@ -1,5 +1,0 @@
-walking(0.094)
-drinking(0.031)
-spraying(0.028)
-bathing(0.024)
-washing(0.020)

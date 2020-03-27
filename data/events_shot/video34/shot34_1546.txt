@@ -1,5 +1,0 @@
-sleeping(0.089)
-smelling(0.057)
-licking(0.053)
-winking(0.047)
-waking(0.045)

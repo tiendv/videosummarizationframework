@@ -1,5 +1,0 @@
-frowning(0.108)
-squinting(0.103)
-adult+male+speaking(0.087)
-whistling(0.044)
-talking(0.041)

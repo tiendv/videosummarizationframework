@@ -1,5 +1,0 @@
-guarding(0.189)
-sitting(0.147)
-discussing(0.096)
-adult+male+speaking(0.094)
-laughing(0.047)

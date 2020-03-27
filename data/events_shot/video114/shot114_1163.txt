@@ -1,5 +1,0 @@
-walking(0.321)
-adult+male+speaking(0.043)
-jogging(0.040)
-running(0.029)
-arresting(0.029)

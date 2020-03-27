@@ -1,5 +1,0 @@
-walking(0.407)
-rising(0.063)
-running(0.039)
-descending(0.024)
-ascending(0.022)

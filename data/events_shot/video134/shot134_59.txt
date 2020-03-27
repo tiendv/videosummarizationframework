@@ -1,5 +1,0 @@
-riding(0.057)
-queuing(0.052)
-arresting(0.048)
-sitting(0.037)
-pushing(0.037)

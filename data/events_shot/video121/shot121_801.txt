@@ -1,5 +1,0 @@
-waking(0.297)
-sneezing(0.134)
-sleeping(0.071)
-massaging(0.038)
-resting(0.034)

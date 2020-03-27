@@ -1,5 +1,0 @@
-hugging(0.070)
-spinning(0.032)
-walking(0.028)
-turning(0.025)
-adult+female+singing(0.024)

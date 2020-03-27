@@ -1,5 +1,0 @@
-stretching(0.192)
-kneeling(0.114)
-sitting(0.076)
-squatting(0.053)
-leaning(0.023)

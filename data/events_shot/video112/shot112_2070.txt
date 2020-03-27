@@ -1,5 +1,0 @@
-bowing(0.075)
-adult+male+singing(0.059)
-adult+male+speaking(0.043)
-starting(0.031)
-standing(0.030)

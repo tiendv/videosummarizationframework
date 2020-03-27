@@ -1,5 +1,0 @@
-painting(0.154)
-dining(0.079)
-discussing(0.048)
-smiling(0.042)
-adult+female+speaking(0.038)

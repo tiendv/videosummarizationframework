@@ -1,5 +1,0 @@
-hugging(0.297)
-adult+male+singing(0.046)
-aiming(0.037)
-photographing(0.027)
-reaching(0.027)

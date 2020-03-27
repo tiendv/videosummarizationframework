@@ -1,5 +1,0 @@
-shaving(0.073)
-hammering(0.044)
-punching(0.044)
-slapping(0.042)
-adult+male+speaking(0.038)

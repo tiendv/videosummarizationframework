@@ -1,5 +1,0 @@
-queuing(0.261)
-exiting(0.167)
-arresting(0.150)
-entering(0.108)
-boarding(0.080)

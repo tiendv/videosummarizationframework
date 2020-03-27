@@ -1,5 +1,0 @@
-adult+female+singing(0.237)
-adult+female+speaking(0.161)
-brushing(0.031)
-talking(0.029)
-combing(0.024)

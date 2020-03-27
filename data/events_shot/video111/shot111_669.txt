@@ -1,5 +1,0 @@
-cracking(0.066)
-bowing(0.048)
-adult+male+speaking(0.041)
-walking(0.031)
-jogging(0.029)

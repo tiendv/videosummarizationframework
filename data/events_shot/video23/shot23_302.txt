@@ -1,5 +1,0 @@
-raining(0.058)
-telephoning(0.041)
-calling(0.037)
-adult+male+speaking(0.028)
-kissing(0.026)

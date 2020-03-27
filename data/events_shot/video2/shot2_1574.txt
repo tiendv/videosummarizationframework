@@ -1,5 +1,0 @@
-telephoning(0.055)
-laughing(0.036)
-sneezing(0.033)
-adult+female+speaking(0.032)
-inflating(0.029)

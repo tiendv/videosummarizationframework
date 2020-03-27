@@ -1,5 +1,0 @@
-praying(0.486)
-smoking(0.059)
-singing(0.055)
-calling(0.037)
-coughing(0.028)

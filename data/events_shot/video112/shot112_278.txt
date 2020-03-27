@@ -1,5 +1,0 @@
-inflating(0.335)
-bowling(0.055)
-punching(0.053)
-boxing(0.042)
-adult+male+speaking(0.025)

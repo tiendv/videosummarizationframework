@@ -1,5 +1,0 @@
-stacking(0.086)
-sneezing(0.051)
-laughing(0.027)
-squatting(0.018)
-adult+male+speaking(0.018)

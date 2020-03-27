@@ -1,5 +1,0 @@
-asking(0.100)
-adult+female+speaking(0.066)
-walking(0.061)
-bicycling(0.047)
-adult+male+speaking(0.043)

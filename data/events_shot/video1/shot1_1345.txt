@@ -1,5 +1,0 @@
-queuing(0.040)
-entering(0.029)
-adult+male+speaking(0.028)
-sneezing(0.028)
-standing(0.027)

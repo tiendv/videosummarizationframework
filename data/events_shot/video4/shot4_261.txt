@@ -1,5 +1,0 @@
-walking(0.066)
-standing(0.035)
-mowing(0.032)
-hitchhiking(0.029)
-pointing(0.028)

@@ -1,5 +1,0 @@
-arresting(0.083)
-slapping(0.048)
-adult+female+speaking(0.040)
-discussing(0.038)
-knocking(0.036)

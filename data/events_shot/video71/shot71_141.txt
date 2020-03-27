@@ -1,5 +1,0 @@
-walking(0.127)
-drying(0.125)
-talking(0.054)
-filming(0.052)
-shaking(0.036)

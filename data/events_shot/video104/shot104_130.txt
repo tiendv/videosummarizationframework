@@ -1,5 +1,0 @@
-asking(0.242)
-adult+female+speaking(0.125)
-selling(0.053)
-adult+male+speaking(0.049)
-autographing(0.042)

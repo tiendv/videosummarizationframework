@@ -1,5 +1,0 @@
-arresting(0.255)
-walking(0.231)
-handcuffing(0.033)
-adult+male+speaking(0.030)
-exiting(0.026)

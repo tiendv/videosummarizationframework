@@ -1,5 +1,0 @@
-waking(0.072)
-sleeping(0.060)
-crying(0.037)
-shaving(0.025)
-rubbing(0.021)

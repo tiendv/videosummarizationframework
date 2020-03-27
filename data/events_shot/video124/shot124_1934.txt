@@ -1,5 +1,0 @@
-cooking(0.053)
-cleaning(0.045)
-walking(0.028)
-cracking(0.027)
-smashing(0.022)

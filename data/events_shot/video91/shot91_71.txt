@@ -1,5 +1,0 @@
-adult+male+speaking(0.307)
-standing(0.048)
-officiating(0.047)
-talking(0.035)
-coaching(0.033)

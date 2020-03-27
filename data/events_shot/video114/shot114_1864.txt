@@ -1,5 +1,0 @@
-attacking(0.031)
-arresting(0.026)
-handcuffing(0.026)
-adult+female+singing(0.024)
-lifting(0.022)

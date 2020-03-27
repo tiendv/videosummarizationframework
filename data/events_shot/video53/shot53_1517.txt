@@ -1,5 +1,0 @@
-roaring(0.047)
-punching(0.044)
-adult+male+speaking(0.043)
-fighting(0.040)
-attacking(0.034)

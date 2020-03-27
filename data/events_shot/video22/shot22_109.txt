@@ -1,5 +1,0 @@
-fighting(0.045)
-raining(0.040)
-slapping(0.033)
-stealing(0.030)
-knocking(0.030)

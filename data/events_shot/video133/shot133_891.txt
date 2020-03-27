@@ -1,5 +1,0 @@
-sitting(0.060)
-praying(0.057)
-calling(0.048)
-adult+male+speaking(0.042)
-telephoning(0.040)

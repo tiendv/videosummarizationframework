@@ -1,5 +1,0 @@
-yawning(0.892)
-coughing(0.045)
-howling(0.013)
-sneezing(0.013)
-waking(0.007)

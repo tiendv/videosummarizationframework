@@ -1,5 +1,0 @@
-reading(0.110)
-knitting(0.099)
-adult+female+speaking(0.077)
-crafting(0.026)
-dressing(0.024)

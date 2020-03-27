@@ -1,5 +1,0 @@
-starting(0.125)
-talking(0.076)
-discussing(0.053)
-squinting(0.049)
-adult+female+speaking(0.048)

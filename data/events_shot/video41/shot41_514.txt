@@ -1,5 +1,0 @@
-adult+male+singing(0.115)
-adult+male+speaking(0.113)
-talking(0.080)
-knocking(0.053)
-starting(0.049)

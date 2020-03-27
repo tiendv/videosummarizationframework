@@ -1,5 +1,0 @@
-jumping(0.378)
-leaping(0.051)
-skiing(0.024)
-boarding(0.019)
-roaring(0.017)

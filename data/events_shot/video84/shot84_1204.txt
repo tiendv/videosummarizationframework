@@ -1,5 +1,0 @@
-adult+male+speaking(0.055)
-sneezing(0.050)
-slapping(0.042)
-filming(0.033)
-cracking(0.031)

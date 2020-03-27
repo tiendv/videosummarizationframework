@@ -1,5 +1,0 @@
-walking(0.039)
-camping(0.039)
-driving(0.028)
-exiting(0.027)
-carrying(0.019)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.083)
-squinting(0.081)
-snapping(0.073)
-frowning(0.059)
-discussing(0.045)

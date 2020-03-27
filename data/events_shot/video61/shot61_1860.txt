@@ -1,5 +1,0 @@
-blocking(0.248)
-drying(0.196)
-throwing(0.077)
-shooting(0.040)
-walking(0.028)

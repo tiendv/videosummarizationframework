@@ -1,5 +1,0 @@
-coughing(0.053)
-sneezing(0.051)
-injecting(0.050)
-drinking(0.047)
-manicuring(0.036)

@@ -1,5 +1,0 @@
-adult+female+speaking(0.083)
-adult+male+speaking(0.060)
-smoking(0.056)
-praying(0.050)
-discussing(0.037)

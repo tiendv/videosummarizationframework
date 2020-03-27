@@ -1,5 +1,0 @@
-dressing(0.385)
-tying(0.164)
-buttoning(0.057)
-stitching(0.039)
-inflating(0.036)

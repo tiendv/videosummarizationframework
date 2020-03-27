@@ -1,5 +1,0 @@
-stealing(0.054)
-walking(0.045)
-exiting(0.040)
-opening(0.038)
-entering(0.032)

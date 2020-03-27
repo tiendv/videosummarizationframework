@@ -1,5 +1,0 @@
-adult+female+singing(0.205)
-adult+female+speaking(0.092)
-handcuffing(0.049)
-baptizing(0.048)
-adult+male+speaking(0.033)

@@ -1,5 +1,0 @@
-sneezing(0.085)
-coughing(0.057)
-adult+male+speaking(0.050)
-playing+videogames(0.024)
-filming(0.021)

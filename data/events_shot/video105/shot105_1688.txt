@@ -1,5 +1,0 @@
-walking(0.280)
-queuing(0.128)
-exiting(0.047)
-coaching(0.027)
-entering(0.026)

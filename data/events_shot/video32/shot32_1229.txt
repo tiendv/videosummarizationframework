@@ -1,5 +1,0 @@
-vacuuming(0.120)
-inflating(0.063)
-packing(0.058)
-unpacking(0.048)
-child+speaking(0.019)

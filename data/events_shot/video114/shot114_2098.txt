@@ -1,5 +1,0 @@
-driving(0.118)
-talking(0.092)
-riding(0.064)
-adult+female+speaking(0.059)
-turning(0.050)

@@ -1,5 +1,0 @@
-guarding(0.123)
-standing(0.073)
-playing+videogames(0.056)
-sitting(0.032)
-saluting(0.023)

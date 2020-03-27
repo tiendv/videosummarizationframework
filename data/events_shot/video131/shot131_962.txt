@@ -1,5 +1,0 @@
-slapping(0.044)
-asking(0.033)
-singing(0.029)
-adult+female+singing(0.029)
-smiling(0.024)

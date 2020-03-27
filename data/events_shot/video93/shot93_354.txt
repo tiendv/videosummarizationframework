@@ -1,5 +1,0 @@
-adult+male+speaking(0.089)
-waking(0.082)
-sleeping(0.056)
-telephoning(0.054)
-calling(0.037)

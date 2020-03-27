@@ -1,5 +1,0 @@
-draining(0.043)
-working(0.040)
-pouring(0.034)
-sawing(0.026)
-filling(0.023)

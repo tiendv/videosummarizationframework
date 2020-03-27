@@ -1,5 +1,0 @@
-handcuffing(0.488)
-playing+music(0.161)
-gripping(0.098)
-arresting(0.036)
-locking(0.012)

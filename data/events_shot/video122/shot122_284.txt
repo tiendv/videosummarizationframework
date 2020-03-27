@@ -1,5 +1,0 @@
-child+speaking(0.153)
-interviewing(0.079)
-talking(0.078)
-teaching(0.033)
-adult+male+speaking(0.031)

@@ -1,5 +1,0 @@
-aiming(0.090)
-bouncing(0.062)
-standing(0.042)
-skipping(0.039)
-pointing(0.038)

@@ -1,5 +1,0 @@
-drawing(0.086)
-sketching(0.086)
-splashing(0.028)
-bouncing(0.024)
-plunging(0.023)

@@ -1,5 +1,0 @@
-coughing(0.310)
-sneezing(0.224)
-smelling(0.026)
-adult+male+speaking(0.024)
-sniffing(0.022)

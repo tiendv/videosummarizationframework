@@ -1,5 +1,0 @@
-driving(0.074)
-hitchhiking(0.052)
-raining(0.050)
-playing+videogames(0.049)
-storming(0.029)

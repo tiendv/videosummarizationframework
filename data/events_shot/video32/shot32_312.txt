@@ -1,5 +1,0 @@
-driving(0.102)
-pointing(0.030)
-steering(0.023)
-filming(0.021)
-playing+videogames(0.020)

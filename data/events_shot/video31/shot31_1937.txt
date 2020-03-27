@@ -1,5 +1,0 @@
-stacking(0.355)
-adult+male+singing(0.171)
-adult+female+singing(0.035)
-loading(0.020)
-adult+male+speaking(0.014)

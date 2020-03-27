@@ -1,5 +1,0 @@
-yawning(0.208)
-adult+male+singing(0.090)
-coughing(0.067)
-imitating(0.054)
-child+singing(0.051)

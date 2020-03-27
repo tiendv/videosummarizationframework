@@ -1,5 +1,0 @@
-snowing(0.049)
-standing(0.042)
-talking(0.040)
-adult+male+speaking(0.038)
-discussing(0.031)

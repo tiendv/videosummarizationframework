@@ -1,5 +1,0 @@
-selling(0.061)
-talking(0.050)
-crafting(0.049)
-drawing(0.045)
-adult+male+speaking(0.038)

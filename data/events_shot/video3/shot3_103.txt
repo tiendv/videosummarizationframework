@@ -1,5 +1,0 @@
-walking(0.042)
-standing(0.033)
-stomping(0.026)
-crushing(0.020)
-dropping(0.015)

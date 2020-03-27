@@ -1,5 +1,0 @@
-fencing(0.221)
-hanging(0.083)
-gripping(0.024)
-painting(0.018)
-carving(0.015)

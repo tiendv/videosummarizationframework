@@ -1,5 +1,0 @@
-sneezing(0.051)
-fighting(0.027)
-attacking(0.027)
-coughing(0.023)
-hugging(0.020)

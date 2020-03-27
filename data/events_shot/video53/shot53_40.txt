@@ -1,5 +1,0 @@
-walking(0.105)
-asking(0.045)
-running(0.028)
-sneezing(0.027)
-standing(0.025)

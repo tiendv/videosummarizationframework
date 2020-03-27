@@ -1,5 +1,0 @@
-spraying(0.147)
-painting(0.120)
-aiming(0.100)
-pointing(0.029)
-shooting(0.026)

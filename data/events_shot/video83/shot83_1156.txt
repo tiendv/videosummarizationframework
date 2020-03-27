@@ -1,5 +1,0 @@
-shaving(0.057)
-painting(0.051)
-dusting(0.051)
-spraying(0.051)
-scrubbing(0.045)

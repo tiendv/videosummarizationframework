@@ -1,5 +1,0 @@
-adult+female+speaking(0.368)
-child+speaking(0.044)
-knitting(0.038)
-dressing(0.018)
-laughing(0.016)

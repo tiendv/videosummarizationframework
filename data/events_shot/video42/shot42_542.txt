@@ -1,5 +1,0 @@
-marching(0.086)
-parading(0.079)
-standing(0.057)
-applauding(0.047)
-saluting(0.034)

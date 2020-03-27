@@ -1,5 +1,0 @@
-shooting(0.627)
-aiming(0.067)
-loading(0.052)
-stacking(0.029)
-unloading(0.028)

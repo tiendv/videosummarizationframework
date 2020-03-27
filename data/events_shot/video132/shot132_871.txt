@@ -1,5 +1,0 @@
-raining(0.120)
-mopping(0.096)
-storming(0.050)
-sweeping(0.047)
-cleaning(0.030)

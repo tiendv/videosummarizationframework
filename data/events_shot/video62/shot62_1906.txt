@@ -1,5 +1,0 @@
-crying(0.107)
-sneezing(0.057)
-talking(0.056)
-frowning(0.047)
-playing+videogames(0.044)

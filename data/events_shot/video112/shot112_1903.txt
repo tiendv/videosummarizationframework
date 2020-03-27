@@ -1,5 +1,0 @@
-exiting(0.042)
-packing(0.037)
-stealing(0.037)
-unpacking(0.030)
-walking(0.030)

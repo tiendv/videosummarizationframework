@@ -1,5 +1,0 @@
-saluting(0.244)
-frowning(0.071)
-arresting(0.062)
-guarding(0.055)
-aiming(0.040)

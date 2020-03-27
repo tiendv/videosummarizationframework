@@ -1,5 +1,0 @@
-bicycling(0.229)
-pedaling(0.067)
-skating(0.027)
-shoveling(0.025)
-sweeping(0.023)

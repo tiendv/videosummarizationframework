@@ -1,5 +1,0 @@
-sleeping(0.071)
-adult+male+speaking(0.059)
-sneezing(0.049)
-waking(0.039)
-resting(0.037)

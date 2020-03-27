@@ -1,5 +1,0 @@
-cleaning(0.030)
-repairing(0.021)
-removing(0.018)
-assembling(0.017)
-rubbing(0.016)

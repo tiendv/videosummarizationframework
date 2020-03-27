@@ -1,5 +1,0 @@
-raining(0.037)
-walking(0.030)
-arresting(0.028)
-queuing(0.027)
-driving(0.020)

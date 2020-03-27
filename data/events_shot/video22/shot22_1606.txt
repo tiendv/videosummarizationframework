@@ -1,5 +1,0 @@
-packing(0.063)
-unpacking(0.054)
-walking(0.033)
-cleaning(0.026)
-building(0.023)

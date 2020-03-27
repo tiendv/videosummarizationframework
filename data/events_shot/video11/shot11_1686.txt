@@ -1,5 +1,0 @@
-spinning(0.822)
-turning(0.100)
-talking(0.007)
-squinting(0.005)
-adult+female+speaking(0.005)

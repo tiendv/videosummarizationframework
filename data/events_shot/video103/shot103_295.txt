@@ -1,5 +1,0 @@
-slapping(0.075)
-adult+male+speaking(0.050)
-smiling(0.047)
-winking(0.042)
-coaching(0.038)

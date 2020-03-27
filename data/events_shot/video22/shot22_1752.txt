@@ -1,5 +1,0 @@
-smoking(0.437)
-burning(0.429)
-combusting(0.072)
-blowing(0.004)
-extinguishing(0.004)

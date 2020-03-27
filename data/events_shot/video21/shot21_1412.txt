@@ -1,5 +1,0 @@
-camping(0.203)
-cleaning(0.143)
-washing(0.087)
-driving(0.050)
-raining(0.039)

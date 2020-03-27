@@ -1,5 +1,0 @@
-driving(0.309)
-riding(0.148)
-raining(0.098)
-shopping(0.042)
-walking(0.041)

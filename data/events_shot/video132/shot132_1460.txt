@@ -1,5 +1,0 @@
-calling(0.090)
-discussing(0.061)
-coughing(0.055)
-telephoning(0.051)
-talking(0.046)

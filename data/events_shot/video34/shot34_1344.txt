@@ -1,5 +1,0 @@
-opening(0.101)
-child+speaking(0.090)
-baking(0.046)
-dipping(0.046)
-cooking(0.030)

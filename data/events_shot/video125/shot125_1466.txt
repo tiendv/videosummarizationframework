@@ -1,5 +1,0 @@
-vacuuming(0.416)
-mopping(0.300)
-dusting(0.036)
-cleaning(0.026)
-adult+female+speaking(0.024)

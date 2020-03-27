@@ -1,5 +1,0 @@
-crying(0.200)
-hugging(0.094)
-kissing(0.087)
-adult+male+speaking(0.068)
-bowing(0.029)

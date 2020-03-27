@@ -1,5 +1,0 @@
-sliding(0.365)
-talking(0.042)
-howling(0.035)
-adult+male+speaking(0.034)
-ascending(0.026)

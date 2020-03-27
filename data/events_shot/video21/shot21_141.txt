@@ -1,5 +1,0 @@
-packaging(0.048)
-adult+male+speaking(0.033)
-punching(0.030)
-fighting(0.028)
-unpacking(0.026)

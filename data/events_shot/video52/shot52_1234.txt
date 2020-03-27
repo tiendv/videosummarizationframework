@@ -1,5 +1,0 @@
-spinning(0.210)
-turning(0.074)
-driving(0.031)
-riding(0.027)
-swinging(0.027)

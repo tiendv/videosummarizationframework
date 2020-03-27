@@ -1,5 +1,0 @@
-walking(0.101)
-carrying(0.024)
-dressing(0.023)
-working(0.023)
-cleaning(0.021)

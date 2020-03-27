@@ -1,5 +1,0 @@
-raining(0.393)
-storming(0.168)
-adult+male+singing(0.024)
-playing+videogames(0.021)
-whistling(0.019)

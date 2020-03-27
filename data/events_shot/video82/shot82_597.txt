@@ -1,5 +1,0 @@
-queuing(0.082)
-asking(0.060)
-stealing(0.043)
-adult+male+speaking(0.043)
-smiling(0.041)

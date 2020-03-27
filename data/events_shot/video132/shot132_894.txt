@@ -1,5 +1,0 @@
-walking(0.042)
-smelling(0.041)
-dining(0.034)
-eating(0.026)
-drinking(0.025)

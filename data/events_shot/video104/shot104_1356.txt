@@ -1,5 +1,0 @@
-walking(0.061)
-slapping(0.053)
-standing(0.044)
-entering(0.041)
-pointing(0.036)

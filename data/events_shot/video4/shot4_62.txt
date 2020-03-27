@@ -1,5 +1,0 @@
-protesting(0.212)
-standing(0.119)
-walking(0.060)
-preaching(0.040)
-queuing(0.038)

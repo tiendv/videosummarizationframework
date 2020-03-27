@@ -1,5 +1,0 @@
-clawing(0.057)
-hanging(0.040)
-climbing(0.032)
-gripping(0.021)
-stealing(0.020)

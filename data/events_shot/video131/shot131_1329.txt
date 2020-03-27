@@ -1,5 +1,0 @@
-washing(0.074)
-rinsing(0.071)
-crying(0.037)
-eating(0.037)
-bathing(0.032)

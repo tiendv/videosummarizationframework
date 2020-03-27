@@ -1,5 +1,0 @@
-hugging(0.085)
-running(0.050)
-raining(0.036)
-adult+female+singing(0.035)
-falling(0.026)

@@ -1,5 +1,0 @@
-pointing(0.066)
-standing(0.052)
-asking(0.037)
-adult+male+speaking(0.034)
-hunting(0.034)

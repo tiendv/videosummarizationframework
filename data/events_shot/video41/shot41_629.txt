@@ -1,5 +1,0 @@
-hugging(0.075)
-talking(0.069)
-adult+male+speaking(0.045)
-playing+videogames(0.043)
-walking(0.042)

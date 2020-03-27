@@ -1,5 +1,0 @@
-driving(0.190)
-steering(0.169)
-adult+female+speaking(0.036)
-telephoning(0.033)
-raining(0.030)

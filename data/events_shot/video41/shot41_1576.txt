@@ -1,5 +1,0 @@
-bouncing(0.689)
-splashing(0.032)
-jumping(0.029)
-playing+videogames(0.020)
-flipping(0.018)

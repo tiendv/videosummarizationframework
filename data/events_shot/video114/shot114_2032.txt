@@ -1,5 +1,0 @@
-painting(0.205)
-drawing(0.056)
-dusting(0.022)
-smoking(0.019)
-spraying(0.019)

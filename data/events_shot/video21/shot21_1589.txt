@@ -1,5 +1,0 @@
-cooking(0.196)
-dipping(0.081)
-baking(0.075)
-coughing(0.050)
-crafting(0.042)

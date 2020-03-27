@@ -1,5 +1,0 @@
-coughing(0.040)
-slapping(0.038)
-adult+female+singing(0.037)
-crying(0.034)
-waking(0.033)

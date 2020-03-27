@@ -1,5 +1,0 @@
-adult+female+singing(0.223)
-adult+male+singing(0.138)
-officiating(0.043)
-performing(0.031)
-playing+videogames(0.025)

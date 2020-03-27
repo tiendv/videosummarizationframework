@@ -1,5 +1,0 @@
-queuing(0.222)
-adult+male+singing(0.115)
-standing(0.051)
-adult+male+speaking(0.039)
-guarding(0.023)

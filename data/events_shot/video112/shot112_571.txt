@@ -1,5 +1,0 @@
-running(0.117)
-jumping(0.048)
-bowling(0.045)
-leaping(0.031)
-walking(0.031)

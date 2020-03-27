@@ -1,5 +1,0 @@
-packing(0.237)
-unpacking(0.179)
-cooking(0.066)
-wrapping(0.054)
-vacuuming(0.045)

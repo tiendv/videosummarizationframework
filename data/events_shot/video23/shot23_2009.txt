@@ -1,5 +1,0 @@
-coaching(0.096)
-lecturing(0.093)
-pointing(0.066)
-adult+male+speaking(0.050)
-hugging(0.041)

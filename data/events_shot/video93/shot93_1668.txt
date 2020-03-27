@@ -1,5 +1,0 @@
-cooking(0.413)
-stirring(0.042)
-baking(0.027)
-working(0.026)
-drying(0.018)

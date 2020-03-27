@@ -1,5 +1,0 @@
-drawing(0.498)
-painting(0.283)
-sketching(0.035)
-autographing(0.028)
-playing(0.018)

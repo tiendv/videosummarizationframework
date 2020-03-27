@@ -1,5 +1,0 @@
-opening(0.117)
-closing(0.082)
-walking(0.070)
-standing(0.043)
-hugging(0.030)

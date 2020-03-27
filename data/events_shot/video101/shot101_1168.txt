@@ -1,5 +1,0 @@
-teaching(0.137)
-shopping(0.132)
-reading(0.049)
-adult+female+speaking(0.049)
-crafting(0.035)

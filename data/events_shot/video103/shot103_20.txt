@@ -1,5 +1,0 @@
-adult+female+speaking(0.075)
-adult+male+speaking(0.063)
-crying(0.050)
-coaching(0.033)
-discussing(0.026)

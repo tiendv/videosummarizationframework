@@ -1,5 +1,0 @@
-stacking(0.139)
-walking(0.057)
-painting(0.042)
-selling(0.038)
-shopping(0.034)

@@ -1,5 +1,0 @@
-snowing(0.083)
-walking(0.045)
-raining(0.038)
-spitting(0.037)
-drinking(0.027)

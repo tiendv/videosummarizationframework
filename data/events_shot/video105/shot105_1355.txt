@@ -1,5 +1,0 @@
-locking(0.093)
-knocking(0.059)
-adult+male+speaking(0.050)
-starting(0.047)
-measuring(0.034)

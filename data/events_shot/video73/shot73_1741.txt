@@ -1,5 +1,0 @@
-hanging(0.060)
-picking(0.045)
-gardening(0.045)
-standing(0.028)
-planting(0.025)

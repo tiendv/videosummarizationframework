@@ -1,5 +1,0 @@
-hiking(0.297)
-walking(0.090)
-running(0.062)
-hunting(0.055)
-arresting(0.035)

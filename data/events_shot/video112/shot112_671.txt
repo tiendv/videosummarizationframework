@@ -1,5 +1,0 @@
-standing(0.050)
-child+singing(0.046)
-working(0.035)
-dusting(0.034)
-child+speaking(0.031)

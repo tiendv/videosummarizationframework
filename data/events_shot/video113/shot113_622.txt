@@ -1,5 +1,0 @@
-knocking(0.100)
-adult+male+speaking(0.055)
-shaving(0.053)
-drinking(0.020)
-coughing(0.019)

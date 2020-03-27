@@ -1,5 +1,0 @@
-adult+male+singing(0.205)
-adult+female+singing(0.059)
-singing(0.047)
-raining(0.032)
-standing(0.031)

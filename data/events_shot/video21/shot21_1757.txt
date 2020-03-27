@@ -1,5 +1,0 @@
-sitting(0.039)
-discussing(0.026)
-adult+male+speaking(0.025)
-walking(0.023)
-boating(0.022)

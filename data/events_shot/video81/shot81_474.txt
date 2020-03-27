@@ -1,5 +1,0 @@
-pointing(0.071)
-adult+male+speaking(0.063)
-standing(0.040)
-shrugging(0.033)
-dressing(0.029)

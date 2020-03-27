@@ -1,5 +1,0 @@
-packing(0.241)
-unpacking(0.098)
-packaging(0.053)
-sliding(0.042)
-child+speaking(0.025)

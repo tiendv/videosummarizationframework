@@ -1,5 +1,0 @@
-mopping(0.046)
-cooking(0.039)
-stirring(0.038)
-walking(0.025)
-imitating(0.024)

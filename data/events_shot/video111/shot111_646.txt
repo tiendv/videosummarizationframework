@@ -1,5 +1,0 @@
-adult+female+speaking(0.145)
-asking(0.133)
-reading(0.122)
-protesting(0.031)
-adult+male+speaking(0.028)

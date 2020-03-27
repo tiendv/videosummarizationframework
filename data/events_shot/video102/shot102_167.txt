@@ -1,5 +1,0 @@
-slapping(0.085)
-asking(0.075)
-knocking(0.046)
-discussing(0.042)
-coaching(0.027)

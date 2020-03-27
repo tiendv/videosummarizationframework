@@ -1,5 +1,0 @@
-waking(0.275)
-sleeping(0.128)
-cracking(0.033)
-slapping(0.031)
-attacking(0.028)

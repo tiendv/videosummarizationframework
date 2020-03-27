@@ -1,5 +1,0 @@
-adult+female+speaking(0.137)
-telephoning(0.083)
-smiling(0.045)
-sitting(0.035)
-calling(0.030)

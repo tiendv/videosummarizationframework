@@ -1,5 +1,0 @@
-adult+female+speaking(0.083)
-child+speaking(0.043)
-reading(0.036)
-discussing(0.029)
-cuddling(0.026)

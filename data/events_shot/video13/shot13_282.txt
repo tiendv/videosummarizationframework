@@ -1,5 +1,0 @@
-talking(0.060)
-crying(0.045)
-sitting(0.044)
-discussing(0.042)
-calling(0.029)

@@ -1,5 +1,0 @@
-dining(0.120)
-walking(0.106)
-standing(0.048)
-adult+female+singing(0.040)
-socializing(0.039)

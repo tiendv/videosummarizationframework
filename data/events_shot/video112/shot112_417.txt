@@ -1,5 +1,0 @@
-waving(0.041)
-drumming(0.041)
-steering(0.037)
-riding(0.035)
-driving(0.032)

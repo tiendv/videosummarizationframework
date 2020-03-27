@@ -1,5 +1,0 @@
-walking(0.078)
-carrying(0.029)
-standing(0.029)
-laughing(0.026)
-entering(0.024)

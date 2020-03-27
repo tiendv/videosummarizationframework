@@ -1,5 +1,0 @@
-saluting(0.343)
-guarding(0.142)
-smiling(0.131)
-waving(0.127)
-adult+male+speaking(0.027)

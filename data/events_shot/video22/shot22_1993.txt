@@ -1,5 +1,0 @@
-raining(0.293)
-dropping(0.123)
-falling(0.080)
-cheering(0.073)
-storming(0.048)

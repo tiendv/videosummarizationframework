@@ -1,5 +1,0 @@
-adult+female+singing(0.104)
-dancing(0.040)
-hugging(0.034)
-rocking(0.030)
-adult+male+singing(0.028)

@@ -1,5 +1,0 @@
-fencing(0.129)
-preaching(0.057)
-guarding(0.050)
-walking(0.049)
-standing(0.038)

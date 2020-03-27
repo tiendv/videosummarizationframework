@@ -1,5 +1,0 @@
-baking(0.384)
-cooking(0.149)
-standing(0.032)
-stirring(0.030)
-sitting(0.029)

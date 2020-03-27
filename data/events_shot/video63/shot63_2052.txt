@@ -1,5 +1,0 @@
-aiming(0.048)
-drying(0.038)
-packing(0.032)
-putting(0.031)
-placing(0.030)

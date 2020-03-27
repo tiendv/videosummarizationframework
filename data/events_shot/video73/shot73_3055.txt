@@ -1,5 +1,0 @@
-eating(0.048)
-dining(0.041)
-standing(0.031)
-laughing(0.024)
-autographing(0.023)

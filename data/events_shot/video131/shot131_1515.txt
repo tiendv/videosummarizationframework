@@ -1,5 +1,0 @@
-standing(0.081)
-dressing(0.054)
-knocking(0.050)
-smiling(0.040)
-hanging(0.036)

@@ -1,5 +1,0 @@
-walking(0.072)
-carrying(0.053)
-adult+female+speaking(0.031)
-praying(0.024)
-reading(0.023)

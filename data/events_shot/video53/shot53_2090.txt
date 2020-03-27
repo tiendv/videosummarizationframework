@@ -1,5 +1,0 @@
-roaring(0.645)
-eating(0.051)
-adult+female+singing(0.016)
-calling(0.014)
-chewing(0.013)

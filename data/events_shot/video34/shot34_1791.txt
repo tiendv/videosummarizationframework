@@ -1,5 +1,0 @@
-sliding(0.199)
-running(0.058)
-slipping(0.056)
-jumping(0.040)
-dunking(0.039)

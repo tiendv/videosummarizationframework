@@ -1,5 +1,0 @@
-talking(0.082)
-discussing(0.078)
-interviewing(0.067)
-slapping(0.059)
-adult+male+speaking(0.045)

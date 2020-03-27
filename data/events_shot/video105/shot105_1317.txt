@@ -1,5 +1,0 @@
-cooking(0.085)
-baking(0.044)
-painting(0.040)
-working(0.024)
-packing(0.020)

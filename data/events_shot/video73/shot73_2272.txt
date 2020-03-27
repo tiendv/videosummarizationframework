@@ -1,5 +1,0 @@
-smiling(0.143)
-adult+male+speaking(0.072)
-photographing(0.042)
-filming(0.040)
-painting(0.040)

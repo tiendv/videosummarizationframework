@@ -1,5 +1,0 @@
-washing(0.080)
-drying(0.060)
-cleaning(0.054)
-tattooing(0.035)
-brushing(0.028)

@@ -1,5 +1,0 @@
-cooking(0.109)
-drinking(0.097)
-baking(0.052)
-bathing(0.034)
-standing(0.033)

@@ -1,5 +1,0 @@
-drinking(0.045)
-adult+female+speaking(0.038)
-inflating(0.031)
-child+speaking(0.025)
-laughing(0.023)

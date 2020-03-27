@@ -1,5 +1,0 @@
-eating(0.096)
-cooking(0.077)
-laughing(0.070)
-drinking(0.054)
-sneezing(0.048)

@@ -1,5 +1,0 @@
-running(0.050)
-fighting(0.037)
-carrying(0.037)
-walking(0.035)
-attacking(0.034)

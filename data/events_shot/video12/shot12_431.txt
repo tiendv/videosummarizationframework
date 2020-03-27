@@ -1,5 +1,0 @@
-brushing(0.047)
-adult+female+speaking(0.041)
-slapping(0.037)
-painting(0.030)
-adult+female+singing(0.029)

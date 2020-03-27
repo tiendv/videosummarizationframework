@@ -1,5 +1,0 @@
-asking(0.042)
-walking(0.036)
-stealing(0.032)
-queuing(0.025)
-sniffing(0.023)

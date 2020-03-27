@@ -1,5 +1,0 @@
-loading(0.057)
-unloading(0.056)
-cleaning(0.050)
-exiting(0.045)
-walking(0.037)

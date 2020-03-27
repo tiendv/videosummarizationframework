@@ -1,5 +1,0 @@
-smelling(0.030)
-talking(0.028)
-walking(0.026)
-playing+videogames(0.024)
-sniffing(0.020)

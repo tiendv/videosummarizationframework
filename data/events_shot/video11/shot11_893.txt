@@ -1,5 +1,0 @@
-slapping(0.063)
-sneezing(0.052)
-adult+male+speaking(0.050)
-drinking(0.034)
-blocking(0.030)

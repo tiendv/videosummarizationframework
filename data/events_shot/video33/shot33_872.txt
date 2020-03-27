@@ -1,5 +1,0 @@
-shopping(0.086)
-mopping(0.059)
-talking(0.038)
-laughing(0.036)
-adult+female+speaking(0.034)

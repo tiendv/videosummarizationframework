@@ -1,5 +1,0 @@
-adult+male+speaking(0.051)
-queuing(0.050)
-asking(0.050)
-arresting(0.041)
-filming(0.040)

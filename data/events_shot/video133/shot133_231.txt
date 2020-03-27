@@ -1,5 +1,0 @@
-sitting(0.245)
-child+speaking(0.142)
-talking(0.045)
-dining(0.041)
-eating(0.038)

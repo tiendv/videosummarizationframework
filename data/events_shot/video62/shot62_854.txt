@@ -1,5 +1,0 @@
-brushing(0.089)
-chewing(0.078)
-slapping(0.046)
-squinting(0.033)
-adult+female+speaking(0.025)

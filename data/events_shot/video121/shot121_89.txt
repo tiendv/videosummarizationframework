@@ -1,5 +1,0 @@
-barking(0.121)
-guarding(0.105)
-stealing(0.078)
-fencing(0.067)
-sniffing(0.032)

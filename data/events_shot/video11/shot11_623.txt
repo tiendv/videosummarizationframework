@@ -1,5 +1,0 @@
-hanging(0.264)
-guarding(0.064)
-cleaning(0.040)
-standing(0.030)
-building(0.025)

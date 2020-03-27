@@ -1,5 +1,0 @@
-telephoning(0.740)
-calling(0.254)
-adult+male+speaking(0.001)
-smoking(0.000)
-discussing(0.000)

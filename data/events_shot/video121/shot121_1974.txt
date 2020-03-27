@@ -1,5 +1,0 @@
-sneezing(0.056)
-talking(0.040)
-squinting(0.035)
-slapping(0.030)
-combing(0.028)

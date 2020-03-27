@@ -1,5 +1,0 @@
-drinking(0.123)
-smoking(0.072)
-shaving(0.036)
-brushing(0.030)
-eating(0.017)

@@ -1,5 +1,0 @@
-packing(0.100)
-unpacking(0.047)
-stealing(0.040)
-carrying(0.028)
-hugging(0.027)

@@ -1,5 +1,0 @@
-stomping(0.127)
-fighting(0.041)
-standing(0.038)
-adult+male+speaking(0.036)
-laughing(0.035)

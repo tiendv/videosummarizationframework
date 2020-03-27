@@ -1,5 +1,0 @@
-sitting(0.062)
-fencing(0.051)
-smoking(0.036)
-discussing(0.029)
-interviewing(0.026)

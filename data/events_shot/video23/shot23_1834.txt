@@ -1,5 +1,0 @@
-waving(0.163)
-clapping(0.125)
-slapping(0.108)
-pointing(0.080)
-reaching(0.052)

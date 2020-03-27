@@ -1,5 +1,0 @@
-adult+male+singing(0.054)
-adult+female+speaking(0.049)
-hiking(0.045)
-adult+female+singing(0.041)
-gardening(0.030)

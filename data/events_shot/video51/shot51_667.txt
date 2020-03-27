@@ -1,5 +1,0 @@
-handwriting(0.882)
-writing(0.108)
-signing(0.002)
-studying(0.001)
-autographing(0.001)

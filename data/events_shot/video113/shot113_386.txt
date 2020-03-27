@@ -1,5 +1,0 @@
-squatting(0.059)
-leaning(0.051)
-hugging(0.046)
-sitting(0.043)
-stealing(0.034)

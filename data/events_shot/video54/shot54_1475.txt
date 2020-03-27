@@ -1,5 +1,0 @@
-opening(0.058)
-giving(0.041)
-wrapping(0.037)
-closing(0.031)
-adult+female+speaking(0.023)

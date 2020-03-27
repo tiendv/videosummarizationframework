@@ -1,5 +1,0 @@
-washing(0.099)
-bathing(0.062)
-raining(0.052)
-slapping(0.040)
-rinsing(0.040)

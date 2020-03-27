@@ -1,5 +1,0 @@
-hugging(0.041)
-adult+male+speaking(0.039)
-coaching(0.038)
-crying(0.035)
-punching(0.025)

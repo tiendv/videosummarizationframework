@@ -1,5 +1,0 @@
-marching(0.198)
-parading(0.083)
-standing(0.065)
-adult+female+speaking(0.034)
-protesting(0.031)

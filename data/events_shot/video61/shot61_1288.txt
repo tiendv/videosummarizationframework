@@ -1,5 +1,0 @@
-adult+female+speaking(0.117)
-adult+male+speaking(0.045)
-child+speaking(0.044)
-talking(0.043)
-flooding(0.041)

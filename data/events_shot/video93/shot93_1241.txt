@@ -1,5 +1,0 @@
-hugging(0.043)
-adult+male+speaking(0.043)
-coughing(0.037)
-sneezing(0.036)
-arresting(0.028)

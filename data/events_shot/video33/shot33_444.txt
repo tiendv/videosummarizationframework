@@ -1,5 +1,0 @@
-baking(0.324)
-drinking(0.117)
-cooking(0.109)
-dipping(0.025)
-adult+female+speaking(0.019)

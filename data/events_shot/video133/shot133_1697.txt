@@ -1,5 +1,0 @@
-cleaning(0.061)
-mopping(0.037)
-dusting(0.030)
-laughing(0.026)
-walking(0.025)

@@ -1,5 +1,0 @@
-waking(0.084)
-sleeping(0.081)
-crying(0.068)
-laughing(0.021)
-sitting(0.020)

@@ -1,5 +1,0 @@
-raining(0.212)
-storming(0.080)
-smoking(0.058)
-snowing(0.022)
-wetting(0.019)

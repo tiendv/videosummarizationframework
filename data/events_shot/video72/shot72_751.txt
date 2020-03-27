@@ -1,5 +1,0 @@
-fencing(0.478)
-building(0.137)
-constructing(0.071)
-locking(0.026)
-opening(0.014)

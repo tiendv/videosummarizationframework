@@ -1,5 +1,0 @@
-playing(0.127)
-mopping(0.096)
-stacking(0.085)
-sanding(0.033)
-playing+videogames(0.024)

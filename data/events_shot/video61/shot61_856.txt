@@ -1,5 +1,0 @@
-shrugging(0.100)
-talking(0.038)
-adult+female+speaking(0.033)
-asking(0.031)
-discussing(0.030)

@@ -1,5 +1,0 @@
-bowing(0.163)
-cracking(0.047)
-cleaning(0.042)
-bending(0.039)
-adult+male+speaking(0.035)

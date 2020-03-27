@@ -1,5 +1,0 @@
-bowing(0.095)
-standing(0.065)
-shaking(0.038)
-giving(0.036)
-officiating(0.031)

@@ -1,5 +1,0 @@
-chewing(0.117)
-eating(0.059)
-sneezing(0.049)
-shaking(0.047)
-slapping(0.045)

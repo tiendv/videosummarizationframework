@@ -1,5 +1,0 @@
-adult+female+speaking(0.123)
-kissing(0.114)
-asking(0.110)
-slapping(0.082)
-adult+male+speaking(0.039)

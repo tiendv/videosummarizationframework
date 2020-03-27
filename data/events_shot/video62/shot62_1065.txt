@@ -1,5 +1,0 @@
-painting(0.079)
-drawing(0.073)
-handwriting(0.039)
-writing(0.038)
-tattooing(0.037)

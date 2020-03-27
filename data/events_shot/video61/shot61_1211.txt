@@ -1,5 +1,0 @@
-eating(0.110)
-feeding(0.047)
-sleeping(0.030)
-sitting(0.029)
-sneezing(0.027)

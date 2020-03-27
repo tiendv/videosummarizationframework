@@ -1,5 +1,0 @@
-cooking(0.087)
-hugging(0.036)
-adult+male+speaking(0.031)
-queuing(0.025)
-baking(0.023)

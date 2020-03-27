@@ -1,5 +1,0 @@
-bicycling(0.049)
-handcuffing(0.037)
-riding(0.030)
-walking(0.027)
-arresting(0.026)

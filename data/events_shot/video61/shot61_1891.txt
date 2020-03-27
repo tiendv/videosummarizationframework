@@ -1,5 +1,0 @@
-running(0.189)
-raining(0.046)
-jogging(0.034)
-playing+videogames(0.029)
-adult+male+speaking(0.024)

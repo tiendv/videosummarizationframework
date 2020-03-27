@@ -1,5 +1,0 @@
-gripping(0.071)
-adult+male+speaking(0.064)
-standing(0.032)
-asking(0.031)
-closing(0.027)

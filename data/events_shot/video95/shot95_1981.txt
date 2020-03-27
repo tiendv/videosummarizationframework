@@ -1,5 +1,0 @@
-shooting(0.344)
-pointing(0.068)
-fighting(0.054)
-aiming(0.053)
-attacking(0.031)

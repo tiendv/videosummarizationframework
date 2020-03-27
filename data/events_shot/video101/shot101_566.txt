@@ -1,5 +1,0 @@
-mopping(0.063)
-cleaning(0.046)
-running(0.044)
-stealing(0.039)
-walking(0.031)

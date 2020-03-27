@@ -1,5 +1,0 @@
-hanging(0.061)
-running(0.046)
-painting(0.018)
-adult+male+speaking(0.017)
-working(0.017)

@@ -1,5 +1,0 @@
-balancing(0.482)
-skating(0.213)
-boarding(0.114)
-sweeping(0.017)
-standing(0.009)

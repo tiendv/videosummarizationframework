@@ -1,5 +1,0 @@
-bicycling(0.166)
-rolling(0.053)
-riding(0.042)
-walking(0.040)
-racing(0.039)

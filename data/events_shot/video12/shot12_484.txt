@@ -1,5 +1,0 @@
-climbing(0.131)
-sleeping(0.062)
-kneeling(0.042)
-fighting(0.038)
-playing+videogames(0.035)

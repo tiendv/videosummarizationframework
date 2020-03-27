@@ -1,5 +1,0 @@
-jogging(0.096)
-walking(0.046)
-mowing(0.039)
-running(0.035)
-exercising(0.032)

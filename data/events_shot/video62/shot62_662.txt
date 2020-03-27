@@ -1,5 +1,0 @@
-walking(0.200)
-building(0.065)
-working(0.033)
-entering(0.032)
-running(0.029)

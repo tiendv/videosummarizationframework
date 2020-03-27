@@ -1,5 +1,0 @@
-boating(0.075)
-fishing(0.042)
-coaching(0.042)
-rowing(0.039)
-adult+male+speaking(0.025)

@@ -1,5 +1,0 @@
-packing(0.075)
-unpacking(0.068)
-sneezing(0.043)
-dusting(0.022)
-coughing(0.019)

@@ -1,5 +1,0 @@
-asking(0.037)
-turning(0.033)
-standing(0.033)
-adult+male+speaking(0.027)
-selling(0.022)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.091)
-telephoning(0.036)
-playing+videogames(0.031)
-calling(0.024)
-coughing(0.023)

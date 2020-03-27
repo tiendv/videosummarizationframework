@@ -1,5 +1,0 @@
-mopping(0.056)
-cleaning(0.039)
-adult+male+speaking(0.033)
-walking(0.030)
-fencing(0.026)

@@ -1,5 +1,0 @@
-squatting(0.058)
-gripping(0.037)
-handcuffing(0.029)
-aiming(0.028)
-cleaning(0.023)

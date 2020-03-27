@@ -1,5 +1,0 @@
-shrugging(0.071)
-walking(0.059)
-opening(0.043)
-standing(0.038)
-talking(0.032)

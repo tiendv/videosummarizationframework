@@ -1,5 +1,0 @@
-preaching(0.245)
-protesting(0.229)
-adult+male+speaking(0.051)
-walking(0.049)
-adult+female+speaking(0.047)

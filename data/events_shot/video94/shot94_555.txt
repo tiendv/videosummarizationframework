@@ -1,5 +1,0 @@
-sneezing(0.087)
-cleaning(0.048)
-laughing(0.046)
-coughing(0.027)
-running(0.025)

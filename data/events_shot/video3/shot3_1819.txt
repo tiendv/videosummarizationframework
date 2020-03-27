@@ -1,5 +1,0 @@
-shaking(0.046)
-standing(0.042)
-walking(0.037)
-performing(0.033)
-adult+male+speaking(0.028)

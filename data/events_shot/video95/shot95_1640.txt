@@ -1,5 +1,0 @@
-building(0.063)
-drying(0.055)
-raining(0.024)
-walking(0.022)
-smoking(0.021)

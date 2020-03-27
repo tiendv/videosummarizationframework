@@ -1,5 +1,0 @@
-waking(0.218)
-sleeping(0.149)
-resting(0.059)
-playing+videogames(0.059)
-crying(0.018)

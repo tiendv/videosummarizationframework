@@ -1,5 +1,0 @@
-chewing(0.056)
-smelling(0.055)
-eating(0.053)
-sniffing(0.052)
-adult+female+speaking(0.041)

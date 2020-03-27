@@ -1,5 +1,0 @@
-adult+male+speaking(0.199)
-asking(0.100)
-discussing(0.058)
-hunting(0.040)
-aiming(0.030)

@@ -1,5 +1,0 @@
-sleeping(0.211)
-waking(0.071)
-cuddling(0.056)
-resting(0.039)
-hugging(0.033)

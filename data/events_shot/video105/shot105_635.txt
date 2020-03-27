@@ -1,5 +1,0 @@
-baking(0.050)
-cooking(0.028)
-cracking(0.020)
-crafting(0.018)
-dusting(0.018)

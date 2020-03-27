@@ -1,5 +1,0 @@
-dining(0.058)
-sitting(0.037)
-adult+male+speaking(0.027)
-smiling(0.023)
-discussing(0.021)

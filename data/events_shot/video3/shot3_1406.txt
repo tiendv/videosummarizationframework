@@ -1,5 +1,0 @@
-standing(0.038)
-entering(0.031)
-mopping(0.028)
-walking(0.027)
-dressing(0.023)

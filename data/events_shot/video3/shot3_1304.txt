@@ -1,5 +1,0 @@
-stacking(0.048)
-sneezing(0.039)
-stopping(0.021)
-laughing(0.016)
-queuing(0.016)

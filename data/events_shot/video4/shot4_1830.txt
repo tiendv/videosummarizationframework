@@ -1,5 +1,0 @@
-drying(0.100)
-opening(0.094)
-playing+videogames(0.047)
-closing(0.043)
-carving(0.039)

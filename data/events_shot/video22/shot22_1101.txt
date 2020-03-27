@@ -1,5 +1,0 @@
-shrugging(0.068)
-hugging(0.050)
-smiling(0.038)
-asking(0.031)
-adult+male+speaking(0.027)

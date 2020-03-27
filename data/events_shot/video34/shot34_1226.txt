@@ -1,5 +1,0 @@
-adult+male+speaking(0.050)
-slapping(0.041)
-asking(0.036)
-fencing(0.033)
-interviewing(0.028)

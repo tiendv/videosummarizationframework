@@ -1,5 +1,0 @@
-bicycling(0.206)
-racing(0.081)
-steering(0.047)
-starting(0.039)
-playing+videogames(0.038)

@@ -1,5 +1,0 @@
-painting(0.131)
-pouring(0.067)
-poking(0.054)
-peeling(0.052)
-dripping(0.047)

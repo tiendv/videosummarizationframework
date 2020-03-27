@@ -1,5 +1,0 @@
-drinking(0.128)
-clapping(0.043)
-stacking(0.033)
-standing(0.030)
-child+singing(0.027)

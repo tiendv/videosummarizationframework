@@ -1,5 +1,0 @@
-bicycling(0.124)
-shooting(0.038)
-storming(0.038)
-raining(0.036)
-attacking(0.035)

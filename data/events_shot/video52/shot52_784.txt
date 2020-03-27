@@ -1,5 +1,0 @@
-laughing(0.300)
-sitting(0.052)
-sneezing(0.046)
-child+speaking(0.040)
-rocking(0.022)

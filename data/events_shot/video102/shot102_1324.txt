@@ -1,5 +1,0 @@
-walking(0.056)
-attacking(0.037)
-painting(0.037)
-slapping(0.036)
-fighting(0.030)

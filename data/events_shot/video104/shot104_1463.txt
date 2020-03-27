@@ -1,5 +1,0 @@
-hugging(0.106)
-walking(0.072)
-coaching(0.057)
-exiting(0.043)
-pointing(0.042)

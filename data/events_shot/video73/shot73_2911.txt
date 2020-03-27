@@ -1,5 +1,0 @@
-telephoning(0.090)
-adult+male+speaking(0.070)
-calling(0.037)
-standing(0.034)
-playing+videogames(0.034)

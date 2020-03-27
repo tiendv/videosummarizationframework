@@ -1,5 +1,0 @@
-flying(0.164)
-landing(0.103)
-roaring(0.072)
-riding(0.069)
-piloting(0.063)

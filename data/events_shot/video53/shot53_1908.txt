@@ -1,5 +1,0 @@
-camping(0.055)
-smiling(0.040)
-talking(0.032)
-adult+male+speaking(0.030)
-discussing(0.030)

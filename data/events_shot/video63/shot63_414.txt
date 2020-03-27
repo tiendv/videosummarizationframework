@@ -1,5 +1,0 @@
-walking(0.107)
-standing(0.051)
-painting(0.028)
-entering(0.025)
-adult+female+speaking(0.023)

@@ -1,5 +1,0 @@
-talking(0.050)
-telephoning(0.044)
-snowing(0.041)
-calling(0.035)
-raining(0.025)

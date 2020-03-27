@@ -1,5 +1,0 @@
-packing(0.035)
-cooking(0.032)
-wrapping(0.031)
-packaging(0.028)
-painting(0.024)

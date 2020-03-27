@@ -1,5 +1,0 @@
-throwing(0.057)
-guarding(0.055)
-smiling(0.045)
-asking(0.038)
-standing(0.038)

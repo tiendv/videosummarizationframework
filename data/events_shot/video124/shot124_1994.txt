@@ -1,5 +1,0 @@
-child+speaking(0.154)
-sneezing(0.070)
-talking(0.055)
-child+singing(0.049)
-chewing(0.044)

@@ -1,5 +1,0 @@
-building(0.109)
-sawing(0.056)
-driving(0.045)
-aiming(0.038)
-riding(0.026)

@@ -1,5 +1,0 @@
-drawing(0.128)
-sleeping(0.124)
-waking(0.111)
-cuddling(0.065)
-sketching(0.044)

@@ -1,5 +1,0 @@
-drying(0.505)
-cooking(0.067)
-cleaning(0.020)
-grilling(0.016)
-hanging(0.014)

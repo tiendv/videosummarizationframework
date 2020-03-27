@@ -1,5 +1,0 @@
-standing(0.035)
-drying(0.032)
-walking(0.023)
-bowing(0.023)
-cleaning(0.021)

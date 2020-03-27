@@ -1,5 +1,0 @@
-fencing(0.988)
-knocking(0.001)
-barking(0.001)
-adult+male+speaking(0.001)
-whistling(0.000)

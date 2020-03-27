@@ -1,5 +1,0 @@
-arresting(0.055)
-adult+male+speaking(0.046)
-guarding(0.042)
-entering(0.039)
-knocking(0.032)

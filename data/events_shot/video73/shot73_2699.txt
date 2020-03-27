@@ -1,5 +1,0 @@
-landing(0.164)
-flying(0.105)
-piloting(0.070)
-driving(0.069)
-flooding(0.063)

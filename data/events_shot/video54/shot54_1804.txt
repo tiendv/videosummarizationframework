@@ -1,5 +1,0 @@
-opening(0.101)
-walking(0.058)
-standing(0.052)
-entering(0.050)
-child+speaking(0.050)

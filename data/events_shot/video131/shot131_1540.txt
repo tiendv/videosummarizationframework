@@ -1,5 +1,0 @@
-washing(0.058)
-rinsing(0.039)
-clearing(0.033)
-cleaning(0.026)
-removing(0.026)

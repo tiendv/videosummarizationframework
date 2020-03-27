@@ -1,5 +1,0 @@
-lecturing(0.263)
-officiating(0.090)
-adult+female+speaking(0.064)
-discussing(0.055)
-adult+male+speaking(0.050)

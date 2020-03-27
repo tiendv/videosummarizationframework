@@ -1,5 +1,0 @@
-smoking(0.496)
-coughing(0.018)
-whistling(0.012)
-sleeping(0.012)
-adult+male+speaking(0.012)

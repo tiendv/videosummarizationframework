@@ -1,5 +1,0 @@
-crying(0.075)
-slapping(0.046)
-smelling(0.040)
-adult+male+speaking(0.033)
-coughing(0.031)

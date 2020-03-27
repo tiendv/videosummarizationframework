@@ -1,5 +1,0 @@
-climbing(0.142)
-dropping(0.136)
-descending(0.095)
-falling(0.081)
-ascending(0.061)

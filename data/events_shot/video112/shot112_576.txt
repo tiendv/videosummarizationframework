@@ -1,5 +1,0 @@
-spinning(0.098)
-vacuuming(0.080)
-slapping(0.045)
-playing+videogames(0.044)
-adult+male+speaking(0.021)

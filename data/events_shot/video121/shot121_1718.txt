@@ -1,5 +1,0 @@
-waking(0.038)
-coughing(0.035)
-crying(0.034)
-adult+male+speaking(0.028)
-discussing(0.022)

@@ -1,5 +1,0 @@
-cooking(0.139)
-baking(0.125)
-crafting(0.087)
-stitching(0.057)
-knitting(0.046)

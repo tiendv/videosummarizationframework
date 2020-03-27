@@ -1,5 +1,0 @@
-drinking(0.038)
-crying(0.024)
-smelling(0.023)
-frowning(0.020)
-adult+male+speaking(0.018)

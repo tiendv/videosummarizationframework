@@ -1,5 +1,0 @@
-kneeling(0.048)
-sitting(0.038)
-autographing(0.026)
-squatting(0.021)
-playing+music(0.020)

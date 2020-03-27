@@ -1,5 +1,0 @@
-painting(0.096)
-mopping(0.060)
-crafting(0.033)
-drawing(0.029)
-dusting(0.025)

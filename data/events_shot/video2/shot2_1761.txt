@@ -1,5 +1,0 @@
-smoking(0.063)
-drinking(0.048)
-adult+male+speaking(0.047)
-shaving(0.020)
-adult+female+speaking(0.018)

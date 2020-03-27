@@ -1,5 +1,0 @@
-drawing(0.218)
-reading(0.112)
-flipping(0.045)
-folding(0.040)
-sketching(0.028)

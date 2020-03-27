@@ -1,5 +1,0 @@
-hugging(0.070)
-adult+male+speaking(0.035)
-painting(0.027)
-cooking(0.022)
-hammering(0.020)

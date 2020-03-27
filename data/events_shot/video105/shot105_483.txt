@@ -1,5 +1,0 @@
-hugging(0.065)
-marching(0.059)
-walking(0.056)
-entering(0.047)
-adult+male+speaking(0.044)

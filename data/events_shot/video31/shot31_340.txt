@@ -1,5 +1,0 @@
-walking(0.195)
-guarding(0.132)
-standing(0.050)
-queuing(0.029)
-asking(0.028)

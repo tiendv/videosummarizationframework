@@ -1,5 +1,0 @@
-queuing(0.070)
-walking(0.067)
-shopping(0.047)
-playing+videogames(0.035)
-selling(0.029)

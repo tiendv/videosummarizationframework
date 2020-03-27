@@ -1,5 +1,0 @@
-attacking(0.152)
-fighting(0.124)
-shooting(0.080)
-rising(0.026)
-destroying(0.026)

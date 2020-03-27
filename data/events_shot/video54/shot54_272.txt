@@ -1,5 +1,0 @@
-sitting(0.040)
-stealing(0.036)
-laughing(0.032)
-sneezing(0.029)
-coughing(0.020)

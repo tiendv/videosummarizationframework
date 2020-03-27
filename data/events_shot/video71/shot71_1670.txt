@@ -1,5 +1,0 @@
-waking(0.105)
-hugging(0.052)
-cuddling(0.046)
-adult+male+speaking(0.038)
-sleeping(0.033)

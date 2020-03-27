@@ -1,5 +1,0 @@
-fencing(0.250)
-drying(0.049)
-hanging(0.040)
-knocking(0.032)
-exercising(0.024)

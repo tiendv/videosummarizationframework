@@ -1,5 +1,0 @@
-baking(0.204)
-cooking(0.120)
-putting(0.032)
-adult+female+speaking(0.022)
-dressing(0.022)

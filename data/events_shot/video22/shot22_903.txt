@@ -1,5 +1,0 @@
-slapping(0.043)
-punching(0.038)
-stacking(0.035)
-standing(0.022)
-child+speaking(0.021)

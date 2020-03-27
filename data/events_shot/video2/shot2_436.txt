@@ -1,5 +1,0 @@
-shopping(0.096)
-stealing(0.071)
-selling(0.047)
-exiting(0.046)
-unloading(0.039)

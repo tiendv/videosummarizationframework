@@ -1,5 +1,0 @@
-standing(0.083)
-walking(0.072)
-marrying(0.058)
-officiating(0.056)
-adult+female+speaking(0.050)

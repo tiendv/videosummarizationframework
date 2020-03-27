@@ -1,5 +1,0 @@
-barbecuing(0.230)
-cooking(0.135)
-grilling(0.101)
-slicing(0.091)
-peeling(0.051)

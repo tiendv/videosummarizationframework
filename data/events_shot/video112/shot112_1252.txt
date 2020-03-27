@@ -1,5 +1,0 @@
-asking(0.130)
-walking(0.046)
-stealing(0.046)
-preaching(0.041)
-shopping(0.039)

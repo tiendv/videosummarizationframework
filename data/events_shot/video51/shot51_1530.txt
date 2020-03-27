@@ -1,5 +1,0 @@
-smoking(0.075)
-filming(0.066)
-hugging(0.057)
-coughing(0.055)
-sneezing(0.042)

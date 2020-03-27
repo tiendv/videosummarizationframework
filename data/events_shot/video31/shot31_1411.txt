@@ -1,5 +1,0 @@
-crying(0.576)
-frowning(0.051)
-laughing(0.045)
-sneezing(0.031)
-adult+female+speaking(0.028)

@@ -1,5 +1,0 @@
-walking(0.075)
-asking(0.057)
-preaching(0.054)
-blocking(0.043)
-stealing(0.038)

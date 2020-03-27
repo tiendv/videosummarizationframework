@@ -1,5 +1,0 @@
-walking(0.060)
-putting(0.053)
-packing(0.049)
-shaking(0.039)
-unpacking(0.036)

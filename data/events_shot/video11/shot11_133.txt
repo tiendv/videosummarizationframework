@@ -1,5 +1,0 @@
-walking(0.338)
-fencing(0.142)
-filming(0.028)
-guarding(0.025)
-running(0.016)

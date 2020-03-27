@@ -1,5 +1,0 @@
-adult+male+singing(0.060)
-yawning(0.058)
-licking(0.050)
-adult+female+singing(0.036)
-coughing(0.036)

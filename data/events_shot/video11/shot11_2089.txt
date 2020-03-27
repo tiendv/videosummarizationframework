@@ -1,5 +1,0 @@
-resting(0.034)
-snapping(0.029)
-adult+male+speaking(0.027)
-burying(0.026)
-sleeping(0.024)

@@ -1,5 +1,0 @@
-putting(0.090)
-painting(0.085)
-assembling(0.036)
-plugging(0.035)
-locking(0.034)

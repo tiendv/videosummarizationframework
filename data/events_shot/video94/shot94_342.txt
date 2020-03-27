@@ -1,5 +1,0 @@
-fencing(0.122)
-building(0.093)
-opening(0.068)
-closing(0.045)
-measuring(0.023)

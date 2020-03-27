@@ -1,5 +1,0 @@
-crying(0.061)
-slapping(0.057)
-hugging(0.056)
-adult+male+speaking(0.043)
-talking(0.033)

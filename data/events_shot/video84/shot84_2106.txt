@@ -1,5 +1,0 @@
-spinning(0.567)
-turning(0.242)
-bouncing(0.020)
-rolling(0.014)
-talking(0.011)

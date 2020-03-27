@@ -1,5 +1,0 @@
-dragging(0.119)
-walking(0.047)
-stomping(0.039)
-fighting(0.036)
-falling(0.033)

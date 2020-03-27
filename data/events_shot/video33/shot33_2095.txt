@@ -1,5 +1,0 @@
-adult+male+speaking(0.034)
-snapping(0.026)
-attacking(0.024)
-stopping(0.022)
-pushing(0.021)

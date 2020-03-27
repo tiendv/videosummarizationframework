@@ -1,5 +1,0 @@
-praying(0.057)
-crying(0.050)
-bowing(0.047)
-kneeling(0.029)
-crouching(0.027)

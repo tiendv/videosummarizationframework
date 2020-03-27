@@ -1,5 +1,0 @@
-reading(0.291)
-adult+female+speaking(0.042)
-talking(0.038)
-coughing(0.031)
-sitting(0.028)

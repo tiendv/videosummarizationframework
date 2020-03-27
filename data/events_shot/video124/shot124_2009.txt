@@ -1,5 +1,0 @@
-driving(0.360)
-steering(0.268)
-riding(0.108)
-sitting(0.060)
-gripping(0.017)

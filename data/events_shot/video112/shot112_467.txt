@@ -1,5 +1,0 @@
-shooting(0.051)
-driving(0.044)
-pointing(0.029)
-aiming(0.029)
-painting(0.027)

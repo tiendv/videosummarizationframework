@@ -1,5 +1,0 @@
-throwing(0.265)
-fencing(0.037)
-raining(0.031)
-walking(0.027)
-running(0.021)

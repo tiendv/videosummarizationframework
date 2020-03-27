@@ -1,5 +1,0 @@
-biting(0.710)
-chewing(0.053)
-attacking(0.045)
-licking(0.038)
-feeding(0.029)

@@ -1,5 +1,0 @@
-painting(0.686)
-brushing(0.033)
-playing(0.021)
-drawing(0.019)
-child+speaking(0.016)

@@ -1,5 +1,0 @@
-building(0.300)
-flying(0.077)
-constructing(0.058)
-repairing(0.023)
-playing+videogames(0.023)

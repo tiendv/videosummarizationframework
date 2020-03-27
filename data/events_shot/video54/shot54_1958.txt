@@ -1,5 +1,0 @@
-stomping(0.453)
-sleeping(0.105)
-playing+videogames(0.043)
-waking(0.036)
-resting(0.021)

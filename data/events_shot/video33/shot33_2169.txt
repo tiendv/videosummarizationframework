@@ -1,5 +1,0 @@
-selling(0.185)
-stacking(0.122)
-paying(0.067)
-buying(0.035)
-adult+male+speaking(0.035)

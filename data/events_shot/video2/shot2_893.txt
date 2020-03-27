@@ -1,5 +1,0 @@
-fencing(0.108)
-gripping(0.052)
-handcuffing(0.030)
-leaning(0.027)
-climbing(0.027)

@@ -1,5 +1,0 @@
-squinting(0.040)
-smiling(0.035)
-painting(0.031)
-frowning(0.030)
-laughing(0.027)

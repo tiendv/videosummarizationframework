@@ -1,5 +1,0 @@
-adult+female+speaking(0.116)
-slapping(0.074)
-laughing(0.056)
-sneezing(0.051)
-smiling(0.033)

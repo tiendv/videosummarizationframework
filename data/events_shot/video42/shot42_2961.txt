@@ -1,5 +1,0 @@
-dressing(0.250)
-folding(0.068)
-drying(0.048)
-stitching(0.035)
-buttoning(0.032)

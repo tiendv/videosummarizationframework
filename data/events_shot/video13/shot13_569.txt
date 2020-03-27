@@ -1,5 +1,0 @@
-howling(0.095)
-sneezing(0.092)
-laughing(0.088)
-barking(0.059)
-chewing(0.026)

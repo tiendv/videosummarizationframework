@@ -1,5 +1,0 @@
-adult+female+speaking(0.069)
-sneezing(0.068)
-closing(0.042)
-opening(0.042)
-talking(0.040)

@@ -1,5 +1,0 @@
-spinning(0.153)
-pointing(0.071)
-shaking(0.066)
-taping(0.045)
-rocking(0.037)

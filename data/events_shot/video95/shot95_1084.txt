@@ -1,5 +1,0 @@
-stacking(0.183)
-pouring(0.147)
-dropping(0.062)
-emptying(0.049)
-spilling(0.038)

@@ -1,5 +1,0 @@
-waking(0.133)
-sleeping(0.098)
-roaring(0.079)
-resting(0.041)
-slapping(0.028)

@@ -1,5 +1,0 @@
-crying(0.083)
-walking(0.058)
-opening(0.058)
-adult+male+speaking(0.050)
-closing(0.042)

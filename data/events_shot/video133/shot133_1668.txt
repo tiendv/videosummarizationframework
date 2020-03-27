@@ -1,5 +1,0 @@
-crying(0.132)
-walking(0.035)
-calling(0.031)
-adult+male+speaking(0.028)
-kissing(0.023)

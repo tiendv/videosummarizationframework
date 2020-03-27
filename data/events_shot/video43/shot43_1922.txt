@@ -1,5 +1,0 @@
-balancing(0.085)
-adult+male+speaking(0.084)
-roaring(0.082)
-playing+videogames(0.071)
-mopping(0.046)

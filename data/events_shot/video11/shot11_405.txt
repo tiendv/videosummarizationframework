@@ -1,5 +1,0 @@
-gambling(0.052)
-sneezing(0.045)
-adult+male+speaking(0.026)
-coughing(0.025)
-discussing(0.024)

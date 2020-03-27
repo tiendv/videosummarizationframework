@@ -1,5 +1,0 @@
-slapping(0.143)
-pointing(0.085)
-standing(0.040)
-guarding(0.028)
-discussing(0.024)

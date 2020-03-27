@@ -1,5 +1,0 @@
-barking(0.445)
-knocking(0.119)
-slapping(0.113)
-storming(0.079)
-howling(0.045)

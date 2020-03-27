@@ -1,5 +1,0 @@
-walking(0.100)
-standing(0.069)
-sneezing(0.062)
-child+speaking(0.025)
-dressing(0.023)

@@ -1,5 +1,0 @@
-walking(0.192)
-slapping(0.100)
-barking(0.070)
-knocking(0.067)
-whistling(0.061)

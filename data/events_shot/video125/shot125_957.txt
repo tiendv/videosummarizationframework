@@ -1,5 +1,0 @@
-cooking(0.104)
-baking(0.094)
-vacuuming(0.049)
-dusting(0.035)
-sneezing(0.034)

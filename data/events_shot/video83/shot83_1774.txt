@@ -1,5 +1,0 @@
-sitting(0.062)
-standing(0.055)
-shrugging(0.041)
-walking(0.027)
-raising(0.025)

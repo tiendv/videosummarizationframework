@@ -1,5 +1,0 @@
-walking(0.160)
-attacking(0.049)
-standing(0.047)
-baptizing(0.040)
-fighting(0.038)

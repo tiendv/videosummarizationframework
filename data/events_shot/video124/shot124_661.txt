@@ -1,5 +1,0 @@
-praying(0.052)
-bowing(0.037)
-sitting(0.035)
-discussing(0.034)
-smoking(0.031)

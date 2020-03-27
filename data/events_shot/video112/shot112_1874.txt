@@ -1,5 +1,0 @@
-drinking(0.135)
-eating(0.133)
-dining(0.057)
-bowing(0.032)
-praying(0.027)

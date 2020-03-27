@@ -1,5 +1,0 @@
-crying(0.948)
-frowning(0.025)
-sneezing(0.005)
-covering(0.004)
-rubbing(0.003)

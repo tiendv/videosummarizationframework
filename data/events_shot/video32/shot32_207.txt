@@ -1,5 +1,0 @@
-snowing(0.065)
-camping(0.061)
-vacuuming(0.045)
-driving(0.032)
-playing+videogames(0.029)

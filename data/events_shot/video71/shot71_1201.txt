@@ -1,5 +1,0 @@
-talking(0.044)
-pointing(0.041)
-adult+male+speaking(0.037)
-slapping(0.032)
-calling(0.029)

@@ -1,5 +1,0 @@
-aiming(0.235)
-flicking(0.095)
-shooting(0.076)
-throwing(0.040)
-playing+videogames(0.028)

@@ -1,5 +1,0 @@
-hugging(0.542)
-shooting(0.074)
-aiming(0.044)
-pointing(0.023)
-carrying(0.012)

@@ -1,5 +1,0 @@
-eating(0.081)
-chewing(0.072)
-fighting(0.064)
-drinking(0.053)
-dining(0.031)

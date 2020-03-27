@@ -1,5 +1,0 @@
-ascending(0.149)
-rising(0.114)
-adult+male+singing(0.085)
-adult+male+speaking(0.066)
-starting(0.060)

@@ -1,5 +1,0 @@
-adult+female+speaking(0.030)
-giving(0.030)
-fighting(0.029)
-chewing(0.025)
-adult+male+speaking(0.019)

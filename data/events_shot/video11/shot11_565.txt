@@ -1,5 +1,0 @@
-walking(0.343)
-running(0.155)
-asking(0.152)
-marching(0.040)
-guarding(0.030)

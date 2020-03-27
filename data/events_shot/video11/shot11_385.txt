@@ -1,5 +1,0 @@
-measuring(0.244)
-locking(0.076)
-playing+music(0.060)
-pressing(0.041)
-tuning(0.033)

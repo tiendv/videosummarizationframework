@@ -1,5 +1,0 @@
-crying(0.301)
-raining(0.031)
-frowning(0.026)
-opening(0.017)
-closing(0.016)

@@ -1,5 +1,0 @@
-adult+female+speaking(0.162)
-telephoning(0.108)
-smoking(0.076)
-sitting(0.047)
-calling(0.039)

@@ -1,5 +1,0 @@
-sneezing(0.146)
-coughing(0.109)
-removing(0.039)
-cleaning(0.024)
-working(0.022)

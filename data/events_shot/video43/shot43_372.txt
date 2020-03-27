@@ -1,5 +1,0 @@
-eating(0.064)
-sneezing(0.047)
-sniffing(0.042)
-painting(0.041)
-laughing(0.040)

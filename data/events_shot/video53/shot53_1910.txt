@@ -1,5 +1,0 @@
-laughing(0.091)
-smiling(0.085)
-adult+male+speaking(0.062)
-coaching(0.057)
-socializing(0.040)

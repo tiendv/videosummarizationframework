@@ -1,5 +1,0 @@
-drinking(0.499)
-manicuring(0.050)
-eating(0.033)
-laughing(0.023)
-smelling(0.012)

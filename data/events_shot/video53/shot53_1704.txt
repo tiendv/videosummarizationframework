@@ -1,5 +1,0 @@
-taping(0.072)
-handcuffing(0.060)
-asking(0.060)
-pointing(0.049)
-adult+male+speaking(0.049)

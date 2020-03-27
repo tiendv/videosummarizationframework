@@ -1,5 +1,0 @@
-drinking(0.096)
-cooking(0.068)
-standing(0.032)
-adult+male+singing(0.025)
-adult+female+singing(0.020)

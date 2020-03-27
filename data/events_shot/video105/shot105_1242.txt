@@ -1,5 +1,0 @@
-slapping(0.100)
-driving(0.041)
-adult+male+speaking(0.028)
-painting(0.022)
-spitting(0.019)

@@ -1,5 +1,0 @@
-slapping(0.080)
-painting(0.050)
-brushing(0.048)
-adult+female+speaking(0.039)
-pointing(0.036)

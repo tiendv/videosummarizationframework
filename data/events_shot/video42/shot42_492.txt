@@ -1,5 +1,0 @@
-standing(0.061)
-queuing(0.050)
-walking(0.023)
-protesting(0.023)
-autographing(0.022)

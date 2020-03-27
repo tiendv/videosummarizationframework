@@ -1,5 +1,0 @@
-standing(0.068)
-fighting(0.053)
-walking(0.050)
-adult+male+speaking(0.046)
-handcuffing(0.024)

@@ -1,5 +1,0 @@
-washing(0.117)
-fueling(0.059)
-opening(0.031)
-stopping(0.030)
-tuning(0.029)

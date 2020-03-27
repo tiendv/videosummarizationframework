@@ -1,5 +1,0 @@
-plugging(0.126)
-removing(0.083)
-assembling(0.052)
-repairing(0.045)
-inflating(0.040)

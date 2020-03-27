@@ -1,5 +1,0 @@
-drinking(0.060)
-hugging(0.047)
-adult+male+speaking(0.043)
-filming(0.036)
-laughing(0.034)

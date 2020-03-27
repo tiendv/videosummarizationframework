@@ -1,5 +1,0 @@
-sneezing(0.554)
-waking(0.209)
-coughing(0.157)
-slapping(0.020)
-yawning(0.010)

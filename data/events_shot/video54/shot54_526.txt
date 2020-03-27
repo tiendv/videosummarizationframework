@@ -1,5 +1,0 @@
-skating(0.072)
-bicycling(0.070)
-running(0.049)
-hitchhiking(0.045)
-jogging(0.031)

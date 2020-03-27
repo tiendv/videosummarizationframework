@@ -1,5 +1,0 @@
-gripping(0.049)
-handcuffing(0.041)
-hanging(0.034)
-adult+male+speaking(0.030)
-piloting(0.022)

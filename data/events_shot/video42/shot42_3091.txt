@@ -1,5 +1,0 @@
-shooting(0.065)
-aiming(0.039)
-standing(0.037)
-performing(0.033)
-saluting(0.028)

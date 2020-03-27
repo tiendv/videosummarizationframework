@@ -1,5 +1,0 @@
-opening(0.052)
-closing(0.047)
-fueling(0.046)
-turning(0.029)
-entering(0.027)

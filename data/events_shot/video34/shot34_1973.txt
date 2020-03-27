@@ -1,5 +1,0 @@
-driving(0.234)
-smiling(0.072)
-riding(0.058)
-hugging(0.038)
-steering(0.036)

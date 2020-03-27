@@ -1,5 +1,0 @@
-sitting(0.058)
-squatting(0.038)
-massaging(0.035)
-cuddling(0.033)
-adult+female+speaking(0.029)

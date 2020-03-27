@@ -1,5 +1,0 @@
-adult+female+singing(0.093)
-fighting(0.093)
-driving(0.075)
-talking(0.038)
-singing(0.035)

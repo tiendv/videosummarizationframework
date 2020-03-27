@@ -1,5 +1,0 @@
-drinking(0.825)
-smelling(0.021)
-sniffing(0.014)
-adult+female+speaking(0.012)
-sneezing(0.008)

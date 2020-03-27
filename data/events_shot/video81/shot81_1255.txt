@@ -1,5 +1,0 @@
-crying(0.117)
-attacking(0.021)
-calling(0.021)
-fighting(0.020)
-adult+male+speaking(0.018)

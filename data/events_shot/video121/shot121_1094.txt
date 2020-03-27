@@ -1,5 +1,0 @@
-arresting(0.043)
-laughing(0.037)
-standing(0.029)
-aiming(0.026)
-guarding(0.024)

@@ -1,5 +1,0 @@
-standing(0.056)
-bowing(0.047)
-stomping(0.031)
-gripping(0.031)
-adult+female+singing(0.031)

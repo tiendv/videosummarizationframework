@@ -1,5 +1,0 @@
-walking(0.085)
-falling(0.082)
-clipping(0.044)
-adult+male+singing(0.036)
-shaking(0.035)

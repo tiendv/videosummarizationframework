@@ -1,5 +1,0 @@
-pouring(0.286)
-emptying(0.067)
-filling(0.058)
-serving(0.043)
-cooking(0.035)

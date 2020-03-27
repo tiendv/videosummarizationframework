@@ -1,5 +1,0 @@
-arresting(0.165)
-walking(0.075)
-handcuffing(0.060)
-hitchhiking(0.052)
-kissing(0.051)

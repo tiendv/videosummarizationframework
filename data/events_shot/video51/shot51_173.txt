@@ -1,5 +1,0 @@
-reading(0.101)
-adult+female+speaking(0.081)
-tapping(0.080)
-sleeping(0.033)
-knitting(0.032)

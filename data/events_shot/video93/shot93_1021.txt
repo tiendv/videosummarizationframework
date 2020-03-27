@@ -1,5 +1,0 @@
-tapping(0.452)
-rubbing(0.050)
-massaging(0.034)
-brushing(0.022)
-walking(0.015)

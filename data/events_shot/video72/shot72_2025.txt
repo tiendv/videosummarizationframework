@@ -1,5 +1,0 @@
-dragging(0.235)
-pulling(0.165)
-boating(0.032)
-boarding(0.030)
-riding(0.028)

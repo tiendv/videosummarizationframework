@@ -1,5 +1,0 @@
-jogging(0.141)
-punching(0.124)
-exercising(0.119)
-boxing(0.093)
-running(0.074)

@@ -1,5 +1,0 @@
-smiling(0.083)
-adult+male+speaking(0.043)
-typing(0.041)
-reading(0.035)
-frowning(0.032)

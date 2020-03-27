@@ -1,5 +1,0 @@
-adult+male+speaking(0.083)
-fencing(0.047)
-pointing(0.028)
-aiming(0.027)
-standing(0.024)

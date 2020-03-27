@@ -1,5 +1,0 @@
-eating(0.449)
-chewing(0.149)
-dining(0.037)
-peeling(0.027)
-brushing(0.020)

@@ -1,5 +1,0 @@
-walking(0.269)
-hugging(0.069)
-standing(0.036)
-carrying(0.025)
-guarding(0.023)

@@ -1,5 +1,0 @@
-tying(0.312)
-dressing(0.060)
-sneezing(0.048)
-coughing(0.043)
-putting(0.028)

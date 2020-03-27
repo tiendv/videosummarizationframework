@@ -1,5 +1,0 @@
-packing(0.045)
-adult+male+speaking(0.034)
-unpacking(0.028)
-sitting(0.025)
-slapping(0.025)

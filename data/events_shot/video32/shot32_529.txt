@@ -1,5 +1,0 @@
-mopping(0.066)
-stomping(0.024)
-kicking(0.023)
-sliding(0.022)
-sweeping(0.020)

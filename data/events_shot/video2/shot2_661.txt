@@ -1,5 +1,0 @@
-dipping(0.353)
-cooking(0.152)
-stirring(0.081)
-stomping(0.071)
-baking(0.041)

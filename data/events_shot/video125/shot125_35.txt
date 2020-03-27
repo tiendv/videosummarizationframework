@@ -1,5 +1,0 @@
-studying(0.050)
-telephoning(0.046)
-adult+male+speaking(0.042)
-writing(0.034)
-discussing(0.034)

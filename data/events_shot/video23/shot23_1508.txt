@@ -1,5 +1,0 @@
-frowning(0.120)
-interviewing(0.101)
-discussing(0.048)
-squinting(0.042)
-shrugging(0.037)

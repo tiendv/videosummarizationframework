@@ -1,5 +1,0 @@
-sneezing(0.109)
-packing(0.078)
-unpacking(0.050)
-adult+female+speaking(0.045)
-slapping(0.026)

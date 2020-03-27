@@ -1,5 +1,0 @@
-telephoning(0.244)
-calling(0.077)
-punching(0.045)
-blowing(0.040)
-adult+female+speaking(0.027)

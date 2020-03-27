@@ -1,5 +1,0 @@
-adult+male+speaking(0.075)
-painting(0.074)
-drawing(0.053)
-telephoning(0.051)
-calling(0.040)

@@ -1,5 +1,0 @@
-walking(0.353)
-riding(0.031)
-carrying(0.025)
-towing(0.022)
-hiking(0.021)

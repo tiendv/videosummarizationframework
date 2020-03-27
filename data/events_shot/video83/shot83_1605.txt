@@ -1,5 +1,0 @@
-drinking(0.065)
-talking(0.053)
-discussing(0.048)
-smiling(0.040)
-filming(0.032)

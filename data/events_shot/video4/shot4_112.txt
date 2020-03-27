@@ -1,5 +1,0 @@
-camping(0.100)
-signing(0.058)
-snapping(0.043)
-discussing(0.032)
-adult+female+speaking(0.030)

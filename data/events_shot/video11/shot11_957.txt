@@ -1,5 +1,0 @@
-adult+male+speaking(0.084)
-lecturing(0.057)
-talking(0.044)
-standing(0.033)
-autographing(0.020)

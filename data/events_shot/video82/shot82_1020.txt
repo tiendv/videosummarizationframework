@@ -1,5 +1,0 @@
-storming(0.419)
-raining(0.328)
-sliding(0.128)
-falling(0.017)
-snowing(0.009)

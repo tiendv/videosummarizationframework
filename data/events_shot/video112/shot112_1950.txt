@@ -1,5 +1,0 @@
-sitting(0.044)
-fencing(0.034)
-queuing(0.030)
-standing(0.024)
-filming(0.019)

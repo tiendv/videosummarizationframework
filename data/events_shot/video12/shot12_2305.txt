@@ -1,5 +1,0 @@
-flying(0.248)
-landing(0.035)
-driving(0.030)
-riding(0.026)
-floating(0.025)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.108)
-adult+male+singing(0.037)
-telephoning(0.026)
-asking(0.023)
-calling(0.022)

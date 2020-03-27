@@ -1,5 +1,0 @@
-drinking(0.043)
-adult+male+speaking(0.035)
-giving(0.030)
-baptizing(0.024)
-gambling(0.017)

@@ -1,5 +1,0 @@
-cooking(0.113)
-fighting(0.027)
-adult+male+speaking(0.026)
-stirring(0.025)
-blocking(0.023)

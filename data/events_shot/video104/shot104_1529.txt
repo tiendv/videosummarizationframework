@@ -1,5 +1,0 @@
-drinking(0.121)
-dining(0.031)
-fighting(0.027)
-standing(0.026)
-filming(0.025)

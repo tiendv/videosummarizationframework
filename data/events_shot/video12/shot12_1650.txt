@@ -1,5 +1,0 @@
-frowning(0.092)
-shrugging(0.057)
-talking(0.036)
-slapping(0.029)
-playing+videogames(0.024)

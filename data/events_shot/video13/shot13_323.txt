@@ -1,5 +1,0 @@
-adult+female+speaking(0.092)
-mopping(0.036)
-adult+male+speaking(0.034)
-telephoning(0.025)
-dusting(0.021)

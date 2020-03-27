@@ -1,5 +1,0 @@
-adult+male+singing(0.070)
-walking(0.050)
-hugging(0.044)
-laughing(0.033)
-baptizing(0.028)

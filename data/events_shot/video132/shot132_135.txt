@@ -1,5 +1,0 @@
-talking(0.193)
-child+speaking(0.099)
-laughing(0.055)
-drinking(0.032)
-standing(0.032)

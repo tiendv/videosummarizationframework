@@ -1,5 +1,0 @@
-walking(0.080)
-cooking(0.033)
-painting(0.027)
-adult+male+speaking(0.023)
-working(0.022)

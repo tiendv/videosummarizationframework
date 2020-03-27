@@ -1,5 +1,0 @@
-reading(0.180)
-handwriting(0.046)
-drawing(0.035)
-peeling(0.034)
-adult+male+speaking(0.026)

@@ -1,5 +1,0 @@
-swimming(0.529)
-diving(0.071)
-splashing(0.040)
-rafting(0.024)
-surfing(0.023)

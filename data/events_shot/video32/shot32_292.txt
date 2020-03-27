@@ -1,5 +1,0 @@
-kneeling(0.135)
-bowing(0.039)
-raining(0.037)
-burying(0.035)
-sleeping(0.028)

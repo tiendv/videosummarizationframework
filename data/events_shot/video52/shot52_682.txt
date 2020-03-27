@@ -1,5 +1,0 @@
-driving(0.137)
-talking(0.048)
-walking(0.041)
-arresting(0.039)
-stealing(0.033)

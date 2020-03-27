@@ -1,5 +1,0 @@
-carrying(0.078)
-slapping(0.078)
-crying(0.071)
-sneezing(0.052)
-knocking(0.038)

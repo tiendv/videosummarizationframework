@@ -1,5 +1,0 @@
-guarding(0.271)
-arresting(0.249)
-fighting(0.086)
-playing+videogames(0.048)
-attacking(0.046)

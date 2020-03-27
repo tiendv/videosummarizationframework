@@ -1,5 +1,0 @@
-arresting(0.047)
-asking(0.041)
-adult+male+speaking(0.034)
-bicycling(0.034)
-towing(0.029)

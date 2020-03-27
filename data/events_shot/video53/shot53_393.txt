@@ -1,5 +1,0 @@
-drying(0.036)
-jumping(0.027)
-putting(0.026)
-running(0.025)
-shaving(0.023)

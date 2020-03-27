@@ -1,5 +1,0 @@
-coughing(0.052)
-talking(0.039)
-standing(0.038)
-walking(0.035)
-crying(0.031)

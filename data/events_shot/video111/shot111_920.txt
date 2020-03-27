@@ -1,5 +1,0 @@
-walking(0.362)
-hugging(0.079)
-pushing(0.048)
-exiting(0.042)
-arresting(0.033)

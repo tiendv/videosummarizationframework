@@ -1,5 +1,0 @@
-queuing(0.045)
-officiating(0.042)
-standing(0.038)
-adult+male+speaking(0.038)
-marrying(0.037)

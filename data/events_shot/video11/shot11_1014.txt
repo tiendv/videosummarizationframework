@@ -1,5 +1,0 @@
-mopping(0.231)
-sweeping(0.119)
-dusting(0.030)
-handcuffing(0.025)
-vacuuming(0.023)

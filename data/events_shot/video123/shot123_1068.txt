@@ -1,5 +1,0 @@
-coughing(0.408)
-sneezing(0.244)
-smoking(0.023)
-whistling(0.022)
-sitting(0.016)

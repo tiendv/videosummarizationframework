@@ -1,5 +1,0 @@
-telephoning(0.113)
-calling(0.099)
-adult+male+speaking(0.028)
-typing(0.025)
-pressing(0.021)

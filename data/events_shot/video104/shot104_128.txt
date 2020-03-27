@@ -1,5 +1,0 @@
-teaching(0.281)
-sitting(0.046)
-child+speaking(0.046)
-instructing(0.039)
-crafting(0.038)

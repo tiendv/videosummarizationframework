@@ -1,5 +1,0 @@
-hugging(0.183)
-smiling(0.047)
-laughing(0.041)
-adult+male+speaking(0.029)
-talking(0.027)

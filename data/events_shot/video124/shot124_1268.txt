@@ -1,5 +1,0 @@
-smiling(0.080)
-sitting(0.080)
-asking(0.053)
-autographing(0.048)
-laughing(0.041)

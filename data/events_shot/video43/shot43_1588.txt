@@ -1,5 +1,0 @@
-running(0.080)
-walking(0.067)
-adult+male+speaking(0.062)
-adult+female+singing(0.044)
-standing(0.044)

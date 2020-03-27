@@ -1,5 +1,0 @@
-running(0.032)
-sitting(0.029)
-adult+male+speaking(0.026)
-eating(0.021)
-adult+female+speaking(0.016)

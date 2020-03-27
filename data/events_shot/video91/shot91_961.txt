@@ -1,5 +1,0 @@
-adult+male+singing(0.077)
-guarding(0.070)
-standing(0.046)
-laughing(0.038)
-saluting(0.032)

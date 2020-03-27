@@ -1,5 +1,0 @@
-running(0.071)
-walking(0.049)
-spraying(0.048)
-cleaning(0.029)
-laughing(0.028)

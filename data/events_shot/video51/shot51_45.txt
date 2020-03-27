@@ -1,5 +1,0 @@
-eating(0.181)
-drinking(0.101)
-telephoning(0.089)
-coughing(0.037)
-chewing(0.037)

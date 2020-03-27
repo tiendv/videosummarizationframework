@@ -1,5 +1,0 @@
-fencing(0.253)
-adult+male+speaking(0.128)
-playing+videogames(0.050)
-fighting(0.036)
-starting(0.034)

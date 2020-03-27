@@ -1,5 +1,0 @@
-driving(0.144)
-sitting(0.094)
-discussing(0.059)
-talking(0.053)
-queuing(0.045)

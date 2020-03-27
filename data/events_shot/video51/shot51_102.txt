@@ -1,5 +1,0 @@
-bicycling(0.190)
-hiking(0.094)
-walking(0.071)
-adult+male+speaking(0.041)
-camping(0.025)

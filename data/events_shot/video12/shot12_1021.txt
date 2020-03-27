@@ -1,5 +1,0 @@
-painting(0.306)
-crafting(0.035)
-drinking(0.026)
-adult+male+speaking(0.022)
-adult+female+singing(0.022)

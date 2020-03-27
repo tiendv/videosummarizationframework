@@ -1,5 +1,0 @@
-rising(0.043)
-playing+music(0.041)
-pushing(0.033)
-playing+videogames(0.031)
-walking(0.030)

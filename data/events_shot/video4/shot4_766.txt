@@ -1,5 +1,0 @@
-hugging(0.079)
-talking(0.053)
-standing(0.037)
-arresting(0.034)
-adult+female+speaking(0.033)

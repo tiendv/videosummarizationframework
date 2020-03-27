@@ -1,5 +1,0 @@
-adult+male+singing(0.053)
-sitting(0.051)
-standing(0.037)
-bending(0.030)
-stacking(0.030)

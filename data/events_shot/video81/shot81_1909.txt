@@ -1,5 +1,0 @@
-jumping(0.160)
-leaping(0.057)
-throwing(0.038)
-flipping(0.033)
-hanging(0.029)

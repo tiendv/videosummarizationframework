@@ -1,5 +1,0 @@
-adult+female+speaking(0.090)
-brushing(0.071)
-discussing(0.067)
-frowning(0.060)
-squinting(0.052)

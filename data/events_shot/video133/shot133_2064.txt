@@ -1,5 +1,0 @@
-stacking(0.044)
-adult+female+singing(0.035)
-painting(0.026)
-adult+female+speaking(0.021)
-smiling(0.018)

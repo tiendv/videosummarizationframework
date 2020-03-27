@@ -1,5 +1,0 @@
-cooking(0.056)
-giving(0.046)
-reading(0.044)
-serving(0.044)
-eating(0.035)

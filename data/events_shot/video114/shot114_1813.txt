@@ -1,5 +1,0 @@
-standing(0.048)
-hugging(0.030)
-adult+female+speaking(0.023)
-photographing(0.022)
-gripping(0.020)

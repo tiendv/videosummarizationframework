@@ -1,5 +1,0 @@
-raining(0.124)
-crying(0.077)
-snowing(0.031)
-adult+male+speaking(0.026)
-smoking(0.024)

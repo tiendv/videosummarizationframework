@@ -1,5 +1,0 @@
-starting(0.095)
-talking(0.091)
-gardening(0.062)
-whistling(0.056)
-adult+male+speaking(0.049)

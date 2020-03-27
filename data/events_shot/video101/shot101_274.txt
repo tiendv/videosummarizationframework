@@ -1,5 +1,0 @@
-fencing(0.117)
-pointing(0.072)
-boxing(0.035)
-adult+male+speaking(0.028)
-punching(0.024)

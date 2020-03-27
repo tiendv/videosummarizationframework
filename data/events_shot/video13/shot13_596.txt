@@ -1,5 +1,0 @@
-aiming(0.101)
-shooting(0.074)
-running(0.069)
-walking(0.049)
-raining(0.047)

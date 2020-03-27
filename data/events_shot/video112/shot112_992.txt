@@ -1,5 +1,0 @@
-walking(0.628)
-pushing(0.036)
-standing(0.025)
-hugging(0.024)
-baptizing(0.020)

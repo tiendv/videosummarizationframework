@@ -1,5 +1,0 @@
-adult+male+singing(0.138)
-adult+female+singing(0.087)
-sitting(0.037)
-playing+music(0.031)
-talking(0.022)

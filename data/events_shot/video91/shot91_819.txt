@@ -1,5 +1,0 @@
-adult+female+speaking(0.047)
-pointing(0.036)
-adult+male+speaking(0.029)
-smoking(0.029)
-reading(0.022)

@@ -1,5 +1,0 @@
-talking(0.077)
-standing(0.042)
-cooking(0.041)
-laughing(0.031)
-sneezing(0.025)

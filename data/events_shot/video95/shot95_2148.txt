@@ -1,5 +1,0 @@
-bouncing(0.198)
-standing(0.035)
-exercising(0.032)
-dancing(0.024)
-shaking(0.021)

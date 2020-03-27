@@ -1,5 +1,0 @@
-waving(0.061)
-smiling(0.061)
-adult+female+singing(0.047)
-imitating(0.044)
-slapping(0.037)

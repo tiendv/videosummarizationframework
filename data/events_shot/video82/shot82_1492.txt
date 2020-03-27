@@ -1,5 +1,0 @@
-baking(0.380)
-rolling(0.135)
-cooking(0.097)
-crafting(0.027)
-packaging(0.025)

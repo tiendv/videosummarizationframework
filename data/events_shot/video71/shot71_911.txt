@@ -1,5 +1,0 @@
-crying(0.145)
-talking(0.055)
-whistling(0.033)
-walking(0.026)
-standing(0.020)

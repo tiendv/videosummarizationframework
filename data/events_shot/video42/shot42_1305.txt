@@ -1,5 +1,0 @@
-frowning(0.233)
-punching(0.078)
-crying(0.070)
-shrugging(0.058)
-hanging(0.025)

@@ -1,5 +1,0 @@
-standing(0.059)
-hugging(0.037)
-hunting(0.034)
-attacking(0.031)
-adult+male+speaking(0.030)

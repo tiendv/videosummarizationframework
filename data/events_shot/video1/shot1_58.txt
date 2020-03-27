@@ -1,5 +1,0 @@
-bicycling(0.068)
-spinning(0.052)
-walking(0.037)
-vacuuming(0.028)
-filming(0.027)

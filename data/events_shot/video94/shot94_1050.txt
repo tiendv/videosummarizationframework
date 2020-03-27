@@ -1,5 +1,0 @@
-frowning(0.056)
-tapping(0.039)
-scratching(0.034)
-shrugging(0.031)
-chewing(0.031)

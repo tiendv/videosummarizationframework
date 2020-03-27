@@ -1,5 +1,0 @@
-queuing(0.263)
-adult+male+singing(0.026)
-child+singing(0.021)
-arresting(0.015)
-standing(0.015)

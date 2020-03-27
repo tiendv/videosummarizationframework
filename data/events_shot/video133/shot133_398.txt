@@ -1,5 +1,0 @@
-sitting(0.081)
-frowning(0.068)
-talking(0.065)
-waking(0.041)
-squinting(0.039)

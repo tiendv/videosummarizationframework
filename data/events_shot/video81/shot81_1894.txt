@@ -1,5 +1,0 @@
-adult+female+singing(0.200)
-adult+female+speaking(0.049)
-massaging(0.043)
-singing(0.041)
-rubbing(0.037)

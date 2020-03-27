@@ -1,5 +1,0 @@
-carrying(0.069)
-walking(0.068)
-talking(0.046)
-raining(0.046)
-opening(0.045)

@@ -1,5 +1,0 @@
-opening(0.364)
-closing(0.119)
-wrapping(0.106)
-folding(0.058)
-unpacking(0.044)

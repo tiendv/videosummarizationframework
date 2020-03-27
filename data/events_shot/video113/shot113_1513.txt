@@ -1,5 +1,0 @@
-crying(0.113)
-frowning(0.077)
-shooting(0.049)
-aiming(0.047)
-attacking(0.035)

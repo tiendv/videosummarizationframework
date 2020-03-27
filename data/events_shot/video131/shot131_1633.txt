@@ -1,5 +1,0 @@
-knocking(0.091)
-smiling(0.078)
-adult+female+speaking(0.055)
-adult+male+speaking(0.038)
-discussing(0.038)

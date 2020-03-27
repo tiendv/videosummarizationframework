@@ -1,5 +1,0 @@
-arresting(0.089)
-pointing(0.065)
-guarding(0.061)
-shooting(0.055)
-walking(0.035)

@@ -1,5 +1,0 @@
-hugging(0.173)
-adult+male+speaking(0.074)
-talking(0.043)
-cracking(0.042)
-handcuffing(0.032)

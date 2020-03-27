@@ -1,5 +1,0 @@
-adult+female+speaking(0.064)
-telephoning(0.048)
-coughing(0.046)
-smelling(0.038)
-cooking(0.028)

@@ -1,5 +1,0 @@
-fencing(0.085)
-talking(0.084)
-adult+male+speaking(0.072)
-standing(0.051)
-flooding(0.043)

@@ -1,5 +1,0 @@
-guarding(0.201)
-saluting(0.143)
-standing(0.062)
-skating(0.026)
-sitting(0.023)

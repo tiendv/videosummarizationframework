@@ -1,5 +1,0 @@
-opening(0.134)
-closing(0.116)
-aiming(0.081)
-locking(0.049)
-shooting(0.043)

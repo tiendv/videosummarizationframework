@@ -1,5 +1,0 @@
-opening(0.048)
-exiting(0.044)
-closing(0.042)
-aiming(0.041)
-snapping(0.036)

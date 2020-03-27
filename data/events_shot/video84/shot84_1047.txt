@@ -1,5 +1,0 @@
-opening(0.021)
-bowing(0.020)
-standing(0.020)
-playing+music(0.019)
-walking(0.018)

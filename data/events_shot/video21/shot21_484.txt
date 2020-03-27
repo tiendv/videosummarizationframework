@@ -1,5 +1,0 @@
-walking(0.098)
-hugging(0.039)
-turning(0.033)
-standing(0.027)
-smiling(0.022)

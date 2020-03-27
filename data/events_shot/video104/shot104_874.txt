@@ -1,5 +1,0 @@
-cooking(0.349)
-baking(0.060)
-frying(0.029)
-squatting(0.028)
-stirring(0.027)

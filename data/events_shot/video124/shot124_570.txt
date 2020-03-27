@@ -1,5 +1,0 @@
-shopping(0.183)
-walking(0.076)
-running(0.041)
-selling(0.040)
-queuing(0.034)

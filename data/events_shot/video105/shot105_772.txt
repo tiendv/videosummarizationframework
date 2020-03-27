@@ -1,5 +1,0 @@
-adult+male+speaking(0.060)
-standing(0.033)
-gripping(0.027)
-blocking(0.019)
-laughing(0.019)

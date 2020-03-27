@@ -1,5 +1,0 @@
-adult+male+speaking(0.239)
-shaving(0.122)
-adult+female+speaking(0.054)
-asking(0.038)
-lecturing(0.028)

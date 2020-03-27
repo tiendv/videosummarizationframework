@@ -1,5 +1,0 @@
-chewing(0.060)
-hiking(0.044)
-sniffing(0.027)
-eating(0.023)
-adult+female+speaking(0.022)

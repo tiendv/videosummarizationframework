@@ -1,5 +1,0 @@
-eating(0.168)
-chewing(0.130)
-cooking(0.063)
-adult+female+speaking(0.057)
-dipping(0.044)

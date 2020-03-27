@@ -1,5 +1,0 @@
-driving(0.063)
-fueling(0.052)
-unloading(0.033)
-towing(0.033)
-riding(0.031)

@@ -1,5 +1,0 @@
-building(0.072)
-shooting(0.066)
-measuring(0.037)
-gripping(0.035)
-aiming(0.034)

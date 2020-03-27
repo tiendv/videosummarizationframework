@@ -1,5 +1,0 @@
-vacuuming(0.067)
-storming(0.044)
-barking(0.043)
-raining(0.039)
-attacking(0.037)

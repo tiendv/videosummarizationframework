@@ -1,5 +1,0 @@
-knocking(0.142)
-dusting(0.133)
-painting(0.105)
-mopping(0.031)
-barking(0.030)

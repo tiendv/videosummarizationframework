@@ -1,5 +1,0 @@
-climbing(0.134)
-hiking(0.100)
-fishing(0.100)
-arresting(0.065)
-walking(0.048)

@@ -1,5 +1,0 @@
-running(0.143)
-jogging(0.045)
-laughing(0.021)
-standing(0.021)
-playing+fun(0.020)

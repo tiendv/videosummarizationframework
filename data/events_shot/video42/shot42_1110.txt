@@ -1,5 +1,0 @@
-sitting(0.038)
-standing(0.034)
-adult+male+singing(0.032)
-slapping(0.031)
-cracking(0.025)

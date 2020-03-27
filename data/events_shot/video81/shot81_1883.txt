@@ -1,5 +1,0 @@
-turning(0.049)
-shredding(0.043)
-emptying(0.039)
-filling(0.037)
-crushing(0.029)

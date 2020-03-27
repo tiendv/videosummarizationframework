@@ -1,5 +1,0 @@
-spraying(0.068)
-shopping(0.054)
-cleaning(0.036)
-stealing(0.031)
-painting(0.026)

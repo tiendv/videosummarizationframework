@@ -1,5 +1,0 @@
-pressing(0.061)
-gripping(0.033)
-locking(0.030)
-lifting(0.030)
-cracking(0.028)

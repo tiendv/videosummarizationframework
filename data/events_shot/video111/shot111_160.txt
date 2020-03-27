@@ -1,5 +1,0 @@
-slapping(0.143)
-sneezing(0.070)
-coughing(0.045)
-imitating(0.036)
-pointing(0.027)

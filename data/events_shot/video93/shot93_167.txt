@@ -1,5 +1,0 @@
-talking(0.070)
-sitting(0.067)
-frowning(0.027)
-standing(0.026)
-filming(0.026)

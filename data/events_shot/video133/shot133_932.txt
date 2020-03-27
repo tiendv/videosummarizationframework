@@ -1,5 +1,0 @@
-calling(0.452)
-telephoning(0.428)
-putting(0.017)
-paying(0.010)
-locking(0.010)

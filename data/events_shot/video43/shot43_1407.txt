@@ -1,5 +1,0 @@
-fighting(0.361)
-attacking(0.106)
-slapping(0.083)
-barking(0.038)
-fencing(0.035)

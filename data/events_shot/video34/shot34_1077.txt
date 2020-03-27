@@ -1,5 +1,0 @@
-drinking(0.118)
-discussing(0.077)
-laughing(0.067)
-spitting(0.062)
-adult+male+speaking(0.045)

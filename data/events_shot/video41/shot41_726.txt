@@ -1,5 +1,0 @@
-falling(0.062)
-fighting(0.061)
-carrying(0.051)
-clipping(0.040)
-hugging(0.037)

@@ -1,5 +1,0 @@
-sitting(0.081)
-cracking(0.078)
-adult+male+speaking(0.066)
-locking(0.054)
-starting(0.052)

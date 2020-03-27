@@ -1,5 +1,0 @@
-mopping(0.058)
-stealing(0.037)
-vacuuming(0.028)
-dining(0.023)
-pushing(0.019)

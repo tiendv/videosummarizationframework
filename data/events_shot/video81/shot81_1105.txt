@@ -1,5 +1,0 @@
-building(0.832)
-constructing(0.054)
-hanging(0.015)
-raising(0.011)
-raining(0.010)

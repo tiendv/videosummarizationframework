@@ -1,5 +1,0 @@
-cooking(0.077)
-drying(0.030)
-boiling(0.026)
-washing(0.021)
-cracking(0.021)

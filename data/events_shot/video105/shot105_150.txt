@@ -1,5 +1,0 @@
-cooking(0.326)
-walking(0.056)
-adult+male+speaking(0.033)
-stirring(0.031)
-baking(0.023)

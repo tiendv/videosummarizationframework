@@ -1,5 +1,0 @@
-shaving(0.908)
-brushing(0.035)
-combing(0.012)
-drinking(0.004)
-rubbing(0.003)

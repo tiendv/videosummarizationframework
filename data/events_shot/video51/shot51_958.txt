@@ -1,5 +1,0 @@
-child+singing(0.086)
-child+speaking(0.064)
-whistling(0.060)
-squinting(0.057)
-talking(0.039)

@@ -1,5 +1,0 @@
-walking(0.050)
-dining(0.039)
-fighting(0.034)
-standing(0.031)
-slapping(0.029)

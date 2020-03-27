@@ -1,5 +1,0 @@
-chewing(0.110)
-adult+female+speaking(0.103)
-child+speaking(0.041)
-talking(0.034)
-eating(0.034)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.102)
-asking(0.057)
-slapping(0.043)
-squinting(0.038)
-sneezing(0.029)

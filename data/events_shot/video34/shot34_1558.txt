@@ -1,5 +1,0 @@
-fencing(0.095)
-bowing(0.052)
-adult+male+speaking(0.043)
-playing+videogames(0.041)
-kneeling(0.040)

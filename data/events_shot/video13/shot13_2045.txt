@@ -1,5 +1,0 @@
-climbing(0.224)
-gripping(0.062)
-cooking(0.022)
-diving(0.015)
-tattooing(0.015)

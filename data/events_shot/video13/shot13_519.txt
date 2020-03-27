@@ -1,5 +1,0 @@
-crying(0.090)
-walking(0.079)
-laughing(0.053)
-smiling(0.053)
-squinting(0.036)

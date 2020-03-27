@@ -1,5 +1,0 @@
-bathing(0.073)
-drinking(0.043)
-bubbling(0.027)
-dining(0.025)
-adult+female+speaking(0.025)

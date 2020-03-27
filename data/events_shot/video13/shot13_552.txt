@@ -1,5 +1,0 @@
-bouncing(0.044)
-flipping(0.032)
-adult+female+singing(0.024)
-standing(0.020)
-hammering(0.019)

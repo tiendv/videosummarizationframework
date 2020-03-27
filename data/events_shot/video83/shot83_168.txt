@@ -1,5 +1,0 @@
-queuing(0.367)
-guarding(0.234)
-standing(0.044)
-arresting(0.027)
-sitting(0.019)

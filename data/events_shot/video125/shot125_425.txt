@@ -1,5 +1,0 @@
-smoking(0.039)
-sitting(0.024)
-working(0.021)
-talking(0.020)
-adult+male+speaking(0.019)

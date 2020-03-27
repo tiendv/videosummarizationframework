@@ -1,5 +1,0 @@
-adult+female+singing(0.095)
-clapping(0.064)
-performing(0.044)
-adult+female+speaking(0.042)
-dancing(0.040)

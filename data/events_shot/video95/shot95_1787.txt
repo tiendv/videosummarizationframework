@@ -1,5 +1,0 @@
-arresting(0.086)
-slapping(0.070)
-hugging(0.066)
-asking(0.044)
-kissing(0.031)

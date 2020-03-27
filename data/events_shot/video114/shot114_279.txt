@@ -1,5 +1,0 @@
-adult+female+speaking(0.428)
-reading(0.180)
-talking(0.026)
-loading(0.017)
-adult+male+speaking(0.015)

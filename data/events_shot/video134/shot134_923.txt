@@ -1,5 +1,0 @@
-coughing(0.152)
-sneezing(0.145)
-slapping(0.079)
-barking(0.038)
-whistling(0.033)

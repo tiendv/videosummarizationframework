@@ -1,5 +1,0 @@
-hugging(0.094)
-adult+female+speaking(0.079)
-slapping(0.073)
-filming(0.045)
-asking(0.037)

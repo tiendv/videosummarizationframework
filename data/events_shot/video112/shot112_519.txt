@@ -1,5 +1,0 @@
-howling(0.900)
-barking(0.097)
-roaring(0.001)
-yawning(0.000)
-sitting(0.000)

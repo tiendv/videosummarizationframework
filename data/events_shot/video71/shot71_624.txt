@@ -1,5 +1,0 @@
-slapping(0.075)
-raining(0.069)
-standing(0.052)
-knocking(0.051)
-whistling(0.032)

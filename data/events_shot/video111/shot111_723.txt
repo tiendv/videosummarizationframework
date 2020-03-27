@@ -1,5 +1,0 @@
-fueling(0.090)
-loading(0.034)
-exiting(0.027)
-stopping(0.022)
-walking(0.021)

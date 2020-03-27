@@ -1,5 +1,0 @@
-sitting(0.047)
-dining(0.028)
-throwing(0.028)
-squatting(0.025)
-kneeling(0.023)

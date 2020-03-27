@@ -1,5 +1,0 @@
-arresting(0.070)
-handcuffing(0.039)
-autographing(0.030)
-drying(0.028)
-adult+female+speaking(0.024)

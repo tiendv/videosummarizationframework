@@ -1,5 +1,0 @@
-drying(0.136)
-sneezing(0.095)
-hugging(0.082)
-combing(0.043)
-carrying(0.029)

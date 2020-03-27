@@ -1,5 +1,0 @@
-walking(0.110)
-slapping(0.083)
-carrying(0.039)
-clipping(0.030)
-exiting(0.030)

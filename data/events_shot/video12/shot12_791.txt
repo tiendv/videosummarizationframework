@@ -1,5 +1,0 @@
-painting(0.082)
-cooking(0.078)
-eating(0.046)
-talking(0.043)
-stirring(0.038)

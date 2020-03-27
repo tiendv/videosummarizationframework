@@ -1,5 +1,0 @@
-asking(0.118)
-mowing(0.097)
-walking(0.061)
-driving(0.037)
-steering(0.025)

@@ -1,5 +1,0 @@
-whistling(0.075)
-adult+male+speaking(0.062)
-blowing(0.051)
-talking(0.040)
-praying(0.036)

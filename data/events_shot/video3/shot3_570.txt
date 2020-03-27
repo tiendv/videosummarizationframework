@@ -1,5 +1,0 @@
-slapping(0.060)
-walking(0.040)
-cooking(0.033)
-adult+male+speaking(0.024)
-dining(0.021)

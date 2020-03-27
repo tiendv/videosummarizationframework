@@ -1,5 +1,0 @@
-cutting(0.141)
-slicing(0.063)
-stitching(0.037)
-peeling(0.036)
-crafting(0.028)

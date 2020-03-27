@@ -1,5 +1,0 @@
-drying(0.656)
-washing(0.060)
-sneezing(0.042)
-cleaning(0.022)
-filming(0.014)

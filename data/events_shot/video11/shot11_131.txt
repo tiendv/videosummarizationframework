@@ -1,5 +1,0 @@
-fencing(0.815)
-hanging(0.011)
-swinging(0.009)
-climbing(0.006)
-hunting(0.005)

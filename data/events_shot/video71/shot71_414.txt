@@ -1,5 +1,0 @@
-drinking(0.059)
-smoking(0.037)
-opening(0.028)
-smelling(0.022)
-giving(0.020)

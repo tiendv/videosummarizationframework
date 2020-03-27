@@ -1,5 +1,0 @@
-sitting(0.067)
-hugging(0.064)
-cuddling(0.043)
-sneezing(0.024)
-adult+male+speaking(0.024)

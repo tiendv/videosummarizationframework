@@ -1,5 +1,0 @@
-carrying(0.052)
-adult+female+speaking(0.041)
-whistling(0.038)
-guarding(0.037)
-standing(0.033)

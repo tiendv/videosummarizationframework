@@ -1,5 +1,0 @@
-arresting(0.238)
-asking(0.155)
-handcuffing(0.091)
-guarding(0.074)
-adult+female+speaking(0.065)

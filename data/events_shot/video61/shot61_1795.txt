@@ -1,5 +1,0 @@
-driving(0.091)
-cleaning(0.055)
-rocking(0.043)
-steering(0.037)
-removing(0.030)

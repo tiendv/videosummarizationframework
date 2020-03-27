@@ -1,5 +1,0 @@
-gripping(0.111)
-hammering(0.045)
-cleaning(0.043)
-adult+male+speaking(0.036)
-licking(0.032)

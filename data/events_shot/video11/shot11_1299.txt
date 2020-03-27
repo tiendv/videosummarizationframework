@@ -1,5 +1,0 @@
-walking(0.156)
-entering(0.082)
-exiting(0.075)
-sneezing(0.050)
-adult+female+speaking(0.046)

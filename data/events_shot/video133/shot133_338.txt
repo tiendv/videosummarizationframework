@@ -1,5 +1,0 @@
-sneezing(0.037)
-laughing(0.030)
-standing(0.027)
-slapping(0.026)
-stealing(0.023)

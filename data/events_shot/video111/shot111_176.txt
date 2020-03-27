@@ -1,5 +1,0 @@
-gripping(0.063)
-lifting(0.043)
-adult+female+singing(0.031)
-cheerleading(0.028)
-cleaning(0.020)

@@ -1,5 +1,0 @@
-gripping(0.177)
-handcuffing(0.125)
-assembling(0.055)
-working(0.033)
-locking(0.030)

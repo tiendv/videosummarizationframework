@@ -1,5 +1,0 @@
-flooding(0.082)
-storming(0.081)
-raining(0.049)
-driving(0.044)
-hiking(0.027)

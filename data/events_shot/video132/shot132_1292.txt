@@ -1,5 +1,0 @@
-pointing(0.102)
-hugging(0.075)
-knocking(0.053)
-adult+male+speaking(0.050)
-filming(0.040)

@@ -1,5 +1,0 @@
-standing(0.162)
-walking(0.120)
-guarding(0.067)
-adult+female+singing(0.047)
-arresting(0.039)

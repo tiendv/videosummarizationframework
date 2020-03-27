@@ -1,5 +1,0 @@
-cleaning(0.542)
-mopping(0.073)
-scrubbing(0.035)
-dusting(0.033)
-stacking(0.026)

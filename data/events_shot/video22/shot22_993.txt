@@ -1,5 +1,0 @@
-hanging(0.089)
-climbing(0.074)
-building(0.067)
-fencing(0.044)
-cleaning(0.042)

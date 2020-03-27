@@ -1,5 +1,0 @@
-walking(0.062)
-running(0.054)
-adult+male+speaking(0.039)
-asking(0.038)
-coaching(0.030)

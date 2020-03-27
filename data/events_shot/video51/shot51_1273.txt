@@ -1,5 +1,0 @@
-shooting(0.067)
-laughing(0.066)
-aiming(0.042)
-smiling(0.040)
-crying(0.032)

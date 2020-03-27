@@ -1,5 +1,0 @@
-raising(0.181)
-hanging(0.111)
-lifting(0.060)
-gripping(0.059)
-shrugging(0.040)

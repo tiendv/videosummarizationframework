@@ -1,5 +1,0 @@
-playing(0.036)
-giving(0.031)
-paying(0.029)
-dropping(0.026)
-adult+male+speaking(0.021)

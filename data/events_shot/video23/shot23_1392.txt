@@ -1,5 +1,0 @@
-adult+male+speaking(0.055)
-laughing(0.045)
-coughing(0.039)
-walking(0.032)
-drinking(0.030)

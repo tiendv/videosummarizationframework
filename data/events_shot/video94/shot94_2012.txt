@@ -1,5 +1,0 @@
-guarding(0.156)
-walking(0.114)
-queuing(0.104)
-instructing(0.077)
-coaching(0.046)

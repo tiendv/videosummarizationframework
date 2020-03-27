@@ -1,5 +1,0 @@
-baking(0.313)
-cooking(0.099)
-inflating(0.032)
-crafting(0.016)
-packing(0.015)

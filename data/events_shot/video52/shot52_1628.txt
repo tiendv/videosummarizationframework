@@ -1,5 +1,0 @@
-discussing(0.163)
-adult+male+speaking(0.080)
-adult+female+speaking(0.076)
-smoking(0.036)
-coughing(0.027)

@@ -1,5 +1,0 @@
-eating(0.080)
-crying(0.072)
-chewing(0.056)
-smelling(0.042)
-biting(0.038)

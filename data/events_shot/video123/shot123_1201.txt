@@ -1,5 +1,0 @@
-sliding(0.089)
-pushing(0.060)
-rowing(0.052)
-aiming(0.046)
-playing+videogames(0.029)

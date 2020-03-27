@@ -1,5 +1,0 @@
-arresting(0.099)
-talking(0.069)
-adult+male+speaking(0.060)
-shrugging(0.055)
-filming(0.038)

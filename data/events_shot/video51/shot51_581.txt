@@ -1,5 +1,0 @@
-slapping(0.100)
-waking(0.079)
-sneezing(0.046)
-sleeping(0.032)
-coughing(0.022)

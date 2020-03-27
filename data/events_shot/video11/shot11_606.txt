@@ -1,5 +1,0 @@
-drying(0.184)
-walking(0.147)
-building(0.105)
-hanging(0.036)
-carrying(0.034)

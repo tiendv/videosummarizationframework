@@ -1,5 +1,0 @@
-flipping(0.209)
-kicking(0.102)
-jumping(0.050)
-throwing(0.036)
-bouncing(0.030)

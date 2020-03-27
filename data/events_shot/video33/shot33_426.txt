@@ -1,5 +1,0 @@
-arresting(0.182)
-handcuffing(0.063)
-stealing(0.052)
-locking(0.042)
-driving(0.037)

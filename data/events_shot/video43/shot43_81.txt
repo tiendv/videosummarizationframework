@@ -1,5 +1,0 @@
-cooking(0.094)
-flipping(0.046)
-baking(0.034)
-drinking(0.033)
-stacking(0.033)

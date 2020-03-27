@@ -1,5 +1,0 @@
-dining(0.044)
-working(0.042)
-sitting(0.036)
-carving(0.026)
-hammering(0.024)

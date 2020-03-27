@@ -1,5 +1,0 @@
-howling(0.244)
-barking(0.241)
-sneezing(0.030)
-scratching(0.028)
-clawing(0.024)

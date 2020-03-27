@@ -1,5 +1,0 @@
-adult+male+speaking(0.100)
-discussing(0.042)
-slapping(0.025)
-assembling(0.025)
-blocking(0.024)

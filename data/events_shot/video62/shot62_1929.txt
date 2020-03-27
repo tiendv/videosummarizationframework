@@ -1,5 +1,0 @@
-talking(0.081)
-raining(0.077)
-hugging(0.066)
-adult+male+speaking(0.040)
-discussing(0.037)

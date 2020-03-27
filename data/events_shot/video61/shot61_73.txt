@@ -1,5 +1,0 @@
-opening(0.058)
-closing(0.050)
-standing(0.031)
-shooting(0.028)
-guarding(0.027)

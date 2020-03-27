@@ -1,5 +1,0 @@
-locking(0.036)
-walking(0.036)
-guarding(0.032)
-knocking(0.031)
-standing(0.031)

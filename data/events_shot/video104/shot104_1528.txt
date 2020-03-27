@@ -1,5 +1,0 @@
-walking(0.214)
-sneezing(0.036)
-coughing(0.022)
-knocking(0.021)
-filming(0.021)

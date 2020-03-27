@@ -1,5 +1,0 @@
-sitting(0.055)
-adult+male+speaking(0.054)
-filming(0.047)
-interviewing(0.041)
-discussing(0.027)

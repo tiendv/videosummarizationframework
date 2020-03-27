@@ -1,5 +1,0 @@
-fencing(0.266)
-blocking(0.219)
-fighting(0.079)
-knocking(0.030)
-gripping(0.026)

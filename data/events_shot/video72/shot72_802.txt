@@ -1,5 +1,0 @@
-squatting(0.064)
-hanging(0.054)
-painting(0.022)
-standing(0.019)
-pulling(0.017)

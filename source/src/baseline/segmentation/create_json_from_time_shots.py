@@ -1,7 +1,5 @@
 import  json
-import sys
-import os
-
+import sys,os,glob
 from config.config import cfg
 
 data_json = {
@@ -83,6 +81,8 @@ def create_json4shots(path_json, name_vid,list_begin,list_score=None,id="shot_gt
           os.makedirs(path_save)
     with open(os.path.join(path_save,"{}.json".format(name_vid)),'w+') as f:
         json.dump(data_json, f)
+
+
 
 def create_multi_json(path_time_shots,path_json_shot):
     print(path_time_shots)

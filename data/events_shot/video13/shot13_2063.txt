@@ -1,5 +1,0 @@
-peeling(0.104)
-dining(0.061)
-slicing(0.048)
-eating(0.043)
-talking(0.031)

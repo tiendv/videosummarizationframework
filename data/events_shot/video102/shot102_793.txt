@@ -1,5 +1,0 @@
-walking(0.080)
-rocking(0.061)
-fencing(0.029)
-standing(0.027)
-kicking(0.023)

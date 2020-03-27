@@ -1,5 +1,0 @@
-eating(0.110)
-discussing(0.096)
-adult+female+speaking(0.096)
-dining(0.093)
-chewing(0.065)

@@ -1,5 +1,0 @@
-exiting(0.278)
-boarding(0.202)
-walking(0.111)
-entering(0.080)
-camping(0.044)

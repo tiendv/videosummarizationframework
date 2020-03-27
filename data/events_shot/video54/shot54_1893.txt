@@ -1,5 +1,0 @@
-bowing(0.231)
-kneeling(0.036)
-punching(0.022)
-crying(0.022)
-hugging(0.017)

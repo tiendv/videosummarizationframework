@@ -1,5 +1,0 @@
-sitting(0.086)
-smiling(0.040)
-leaning(0.037)
-talking(0.033)
-telephoning(0.028)

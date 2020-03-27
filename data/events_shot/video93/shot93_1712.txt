@@ -1,5 +1,0 @@
-laughing(0.055)
-walking(0.030)
-pointing(0.026)
-talking(0.026)
-waving(0.021)

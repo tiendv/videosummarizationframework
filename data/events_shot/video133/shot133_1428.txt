@@ -1,5 +1,0 @@
-pointing(0.256)
-knocking(0.101)
-standing(0.051)
-raising(0.028)
-measuring(0.025)

@@ -1,5 +1,0 @@
-sneezing(0.124)
-shaving(0.060)
-adult+male+speaking(0.059)
-brushing(0.055)
-drying(0.044)

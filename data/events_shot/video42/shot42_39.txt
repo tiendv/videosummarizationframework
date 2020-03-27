@@ -1,5 +1,0 @@
-sneezing(0.069)
-child+speaking(0.066)
-coughing(0.063)
-baking(0.061)
-cooking(0.038)

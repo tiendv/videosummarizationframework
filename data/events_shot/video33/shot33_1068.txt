@@ -1,5 +1,0 @@
-storming(0.053)
-raining(0.049)
-adult+male+speaking(0.026)
-adult+female+speaking(0.020)
-walking(0.015)

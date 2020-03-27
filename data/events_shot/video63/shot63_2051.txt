@@ -1,5 +1,0 @@
-squatting(0.070)
-mopping(0.038)
-cleaning(0.035)
-working(0.034)
-sowing(0.030)

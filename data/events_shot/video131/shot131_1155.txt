@@ -1,5 +1,0 @@
-handwriting(0.265)
-reading(0.074)
-poking(0.056)
-typing(0.040)
-putting(0.032)

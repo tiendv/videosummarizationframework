@@ -1,5 +1,0 @@
-brushing(0.211)
-drying(0.191)
-combing(0.111)
-opening(0.051)
-closing(0.044)

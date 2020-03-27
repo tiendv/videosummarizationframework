@@ -1,5 +1,0 @@
-walking(0.112)
-standing(0.026)
-cleaning(0.020)
-swinging(0.018)
-hanging(0.017)

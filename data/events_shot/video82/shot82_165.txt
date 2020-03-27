@@ -1,5 +1,0 @@
-cooking(0.116)
-baking(0.089)
-coaching(0.068)
-stirring(0.022)
-adult+male+speaking(0.018)

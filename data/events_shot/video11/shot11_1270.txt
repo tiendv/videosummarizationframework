@@ -1,5 +1,0 @@
-walking(0.426)
-raining(0.080)
-hitchhiking(0.063)
-standing(0.028)
-running(0.020)

@@ -1,5 +1,0 @@
-standing(0.135)
-child+singing(0.069)
-performing(0.045)
-child+speaking(0.038)
-walking(0.036)

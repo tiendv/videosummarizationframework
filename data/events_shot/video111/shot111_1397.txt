@@ -1,5 +1,0 @@
-cooking(0.042)
-asking(0.035)
-adult+male+speaking(0.032)
-cramming(0.029)
-shopping(0.027)

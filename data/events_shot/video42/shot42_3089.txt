@@ -1,5 +1,0 @@
-hugging(0.123)
-standing(0.066)
-cuddling(0.037)
-adult+male+singing(0.031)
-marrying(0.030)

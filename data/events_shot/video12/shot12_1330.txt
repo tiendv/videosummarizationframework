@@ -1,5 +1,0 @@
-building(0.048)
-working(0.045)
-packing(0.028)
-unpacking(0.028)
-repairing(0.024)

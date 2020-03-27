@@ -1,5 +1,0 @@
-telephoning(0.520)
-calling(0.409)
-crying(0.011)
-filming(0.003)
-adult+male+speaking(0.003)

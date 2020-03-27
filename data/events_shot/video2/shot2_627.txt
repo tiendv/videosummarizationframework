@@ -1,5 +1,0 @@
-boxing(0.117)
-punching(0.104)
-adult+male+speaking(0.082)
-autographing(0.027)
-playing+videogames(0.020)

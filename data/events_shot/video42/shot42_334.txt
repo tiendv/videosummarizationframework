@@ -1,5 +1,0 @@
-packing(0.102)
-unpacking(0.075)
-putting(0.024)
-cooking(0.023)
-child+speaking(0.020)

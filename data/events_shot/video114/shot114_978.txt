@@ -1,5 +1,0 @@
-sneezing(0.192)
-coughing(0.171)
-adult+male+speaking(0.039)
-waking(0.031)
-drying(0.022)

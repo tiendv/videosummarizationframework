@@ -1,5 +1,0 @@
-walking(0.054)
-drinking(0.033)
-standing(0.025)
-slapping(0.025)
-asking(0.023)

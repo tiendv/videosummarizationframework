@@ -1,5 +1,0 @@
-adult+female+singing(0.123)
-performing(0.119)
-kissing(0.065)
-singing(0.045)
-hugging(0.034)

@@ -1,5 +1,0 @@
-fencing(0.923)
-building(0.009)
-gardening(0.003)
-hanging(0.003)
-cleaning(0.002)

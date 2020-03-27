@@ -1,5 +1,0 @@
-giving(0.077)
-dining(0.051)
-standing(0.029)
-walking(0.029)
-officiating(0.027)

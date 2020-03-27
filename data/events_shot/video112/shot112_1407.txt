@@ -1,5 +1,0 @@
-child+speaking(0.037)
-adult+male+speaking(0.033)
-standing(0.032)
-asking(0.030)
-lecturing(0.029)

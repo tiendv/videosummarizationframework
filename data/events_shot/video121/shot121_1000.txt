@@ -1,5 +1,0 @@
-loading(0.233)
-unloading(0.114)
-building(0.057)
-walking(0.034)
-towing(0.029)

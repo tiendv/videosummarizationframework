@@ -1,5 +1,0 @@
-sneezing(0.194)
-coughing(0.139)
-slapping(0.102)
-waking(0.055)
-massaging(0.039)

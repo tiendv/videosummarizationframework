@@ -1,5 +1,0 @@
-guarding(0.770)
-opening(0.023)
-closing(0.017)
-saluting(0.016)
-entering(0.010)

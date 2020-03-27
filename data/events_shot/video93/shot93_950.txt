@@ -1,5 +1,0 @@
-running(0.097)
-raining(0.037)
-walking(0.036)
-adult+female+singing(0.030)
-spinning(0.027)

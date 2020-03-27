@@ -1,5 +1,0 @@
-buttoning(0.109)
-dressing(0.086)
-tying(0.059)
-tearing(0.059)
-wrapping(0.036)

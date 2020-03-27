@@ -1,5 +1,0 @@
-walking(0.095)
-shrugging(0.073)
-pushing(0.058)
-slapping(0.043)
-bowing(0.040)

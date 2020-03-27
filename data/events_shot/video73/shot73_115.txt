@@ -1,5 +1,0 @@
-shopping(0.053)
-walking(0.040)
-dining(0.038)
-cooking(0.037)
-talking(0.024)

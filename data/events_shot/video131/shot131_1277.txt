@@ -1,5 +1,0 @@
-standing(0.037)
-adult+female+singing(0.035)
-adult+male+speaking(0.030)
-playing+videogames(0.029)
-sitting(0.026)

@@ -1,5 +1,0 @@
-talking(0.064)
-dropping(0.055)
-clipping(0.049)
-adult+male+speaking(0.040)
-falling(0.033)

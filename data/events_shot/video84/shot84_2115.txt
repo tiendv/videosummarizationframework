@@ -1,5 +1,0 @@
-balancing(0.388)
-bending(0.091)
-inflating(0.043)
-bouncing(0.041)
-spinning(0.028)

@@ -1,5 +1,0 @@
-adult+female+singing(0.182)
-fighting(0.049)
-adult+male+singing(0.037)
-raining(0.037)
-walking(0.031)

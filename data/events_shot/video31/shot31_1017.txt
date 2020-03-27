@@ -1,5 +1,0 @@
-walking(0.029)
-cooking(0.027)
-exiting(0.025)
-loading(0.024)
-baking(0.021)

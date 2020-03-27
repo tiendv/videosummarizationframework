@@ -1,5 +1,0 @@
-crying(0.146)
-walking(0.139)
-raining(0.079)
-talking(0.063)
-playing+videogames(0.034)

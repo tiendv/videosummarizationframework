@@ -1,5 +1,0 @@
-eating(0.149)
-punching(0.071)
-chewing(0.060)
-boxing(0.057)
-spitting(0.030)

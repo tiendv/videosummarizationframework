@@ -1,5 +1,0 @@
-punting(0.149)
-putting(0.112)
-standing(0.097)
-throwing(0.060)
-coaching(0.051)

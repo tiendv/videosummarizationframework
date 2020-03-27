@@ -1,5 +1,0 @@
-raining(0.033)
-asking(0.023)
-studying(0.022)
-adult+male+speaking(0.017)
-pointing(0.015)

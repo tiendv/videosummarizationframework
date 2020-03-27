@@ -1,5 +1,0 @@
-baptizing(0.287)
-arresting(0.140)
-handcuffing(0.069)
-hugging(0.068)
-adult+male+speaking(0.012)

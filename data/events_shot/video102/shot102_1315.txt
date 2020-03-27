@@ -1,5 +1,0 @@
-sneezing(0.100)
-laughing(0.063)
-adult+female+speaking(0.056)
-child+speaking(0.055)
-coughing(0.049)

@@ -1,5 +1,0 @@
-painting(0.406)
-spraying(0.280)
-sanding(0.156)
-cleaning(0.021)
-dusting(0.017)

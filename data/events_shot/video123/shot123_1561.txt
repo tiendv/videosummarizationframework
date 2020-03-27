@@ -1,5 +1,0 @@
-flying(0.105)
-juggling(0.040)
-spinning(0.033)
-destroying(0.021)
-starting(0.020)

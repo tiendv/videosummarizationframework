@@ -1,5 +1,0 @@
-cleaning(0.124)
-mopping(0.107)
-vacuuming(0.091)
-unpacking(0.081)
-building(0.064)

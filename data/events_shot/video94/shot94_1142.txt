@@ -1,5 +1,0 @@
-fencing(0.204)
-sliding(0.126)
-snowing(0.064)
-shaking(0.035)
-entering(0.023)

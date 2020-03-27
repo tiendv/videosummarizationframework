@@ -1,5 +1,0 @@
-fencing(0.260)
-guarding(0.121)
-hanging(0.061)
-exiting(0.050)
-walking(0.028)

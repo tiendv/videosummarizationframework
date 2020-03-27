@@ -1,5 +1,0 @@
-child+speaking(0.125)
-child+singing(0.088)
-standing(0.042)
-adult+female+singing(0.025)
-imitating(0.022)

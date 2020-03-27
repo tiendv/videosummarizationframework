@@ -1,5 +1,0 @@
-child+singing(0.177)
-child+speaking(0.146)
-brushing(0.105)
-adult+female+singing(0.075)
-singing(0.047)

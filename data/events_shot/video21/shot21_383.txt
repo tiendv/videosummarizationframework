@@ -1,5 +1,0 @@
-attacking(0.156)
-fighting(0.097)
-slapping(0.092)
-protesting(0.052)
-barking(0.045)

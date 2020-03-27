@@ -1,5 +1,0 @@
-driving(0.117)
-flooding(0.101)
-steering(0.071)
-racing(0.061)
-chasing(0.033)

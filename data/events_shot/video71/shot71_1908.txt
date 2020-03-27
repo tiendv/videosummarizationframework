@@ -1,5 +1,0 @@
-squatting(0.096)
-stacking(0.047)
-standing(0.041)
-working(0.035)
-lifting(0.032)

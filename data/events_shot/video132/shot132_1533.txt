@@ -1,5 +1,0 @@
-gripping(0.049)
-hunting(0.031)
-handcuffing(0.030)
-aiming(0.027)
-standing(0.022)

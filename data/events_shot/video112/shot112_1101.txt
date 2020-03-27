@@ -1,5 +1,0 @@
-shaving(0.060)
-combing(0.039)
-tapping(0.037)
-adult+female+speaking(0.033)
-adult+male+speaking(0.027)

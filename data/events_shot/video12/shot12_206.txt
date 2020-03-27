@@ -1,5 +1,0 @@
-hugging(0.036)
-adult+male+speaking(0.033)
-standing(0.028)
-preaching(0.027)
-aiming(0.026)

@@ -1,5 +1,0 @@
-sitting(0.114)
-shaking(0.080)
-talking(0.071)
-adult+male+speaking(0.052)
-shrugging(0.034)

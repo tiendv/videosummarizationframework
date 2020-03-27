@@ -1,5 +1,0 @@
-sneezing(0.152)
-inflating(0.121)
-packing(0.065)
-coughing(0.059)
-unpacking(0.051)

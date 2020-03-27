@@ -1,5 +1,0 @@
-drying(0.180)
-snowing(0.081)
-adult+female+singing(0.032)
-adult+male+singing(0.026)
-covering(0.026)

@@ -1,5 +1,0 @@
-filming(0.099)
-hugging(0.078)
-adult+female+singing(0.044)
-arresting(0.035)
-walking(0.034)

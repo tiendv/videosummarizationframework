@@ -1,5 +1,0 @@
-adult+female+speaking(0.040)
-adult+male+speaking(0.036)
-knocking(0.029)
-filming(0.022)
-snapping(0.021)

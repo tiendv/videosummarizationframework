@@ -1,5 +1,0 @@
-tearing(0.226)
-shredding(0.203)
-unpacking(0.074)
-packaging(0.030)
-packing(0.025)

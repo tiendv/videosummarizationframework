@@ -1,5 +1,0 @@
-walking(0.208)
-asking(0.065)
-stealing(0.041)
-adult+female+speaking(0.033)
-adult+male+speaking(0.032)

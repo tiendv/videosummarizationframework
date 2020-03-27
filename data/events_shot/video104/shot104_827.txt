@@ -1,5 +1,0 @@
-walking(0.077)
-laughing(0.055)
-standing(0.045)
-stealing(0.028)
-exiting(0.023)

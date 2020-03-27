@@ -1,5 +1,0 @@
-drying(0.041)
-walking(0.031)
-sitting(0.027)
-shaving(0.026)
-selling(0.025)

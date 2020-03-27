@@ -1,5 +1,0 @@
-shooting(0.123)
-filming(0.095)
-playing+videogames(0.050)
-aiming(0.049)
-piloting(0.033)

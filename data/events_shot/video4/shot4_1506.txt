@@ -1,5 +1,0 @@
-stomping(0.315)
-cleaning(0.275)
-vacuuming(0.072)
-sweeping(0.035)
-scrubbing(0.034)

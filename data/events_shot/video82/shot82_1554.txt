@@ -1,5 +1,0 @@
-attacking(0.052)
-cooking(0.051)
-kicking(0.044)
-eating(0.041)
-punching(0.033)

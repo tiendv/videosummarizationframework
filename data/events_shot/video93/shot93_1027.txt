@@ -1,5 +1,0 @@
-falling(0.029)
-opening(0.027)
-crying(0.025)
-sneezing(0.022)
-walking(0.022)

@@ -1,5 +1,0 @@
-dropping(0.044)
-flipping(0.034)
-mopping(0.032)
-kicking(0.026)
-putting(0.018)

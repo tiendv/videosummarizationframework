@@ -1,5 +1,0 @@
-hugging(0.118)
-adult+female+singing(0.074)
-queuing(0.046)
-arresting(0.044)
-adult+female+speaking(0.034)

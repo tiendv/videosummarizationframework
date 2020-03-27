@@ -1,5 +1,0 @@
-telephoning(0.437)
-calling(0.322)
-eating(0.038)
-cooking(0.014)
-adult+female+speaking(0.013)

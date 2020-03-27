@@ -1,5 +1,0 @@
-adult+male+singing(0.145)
-queuing(0.142)
-arresting(0.055)
-slapping(0.050)
-coaching(0.039)

@@ -1,5 +1,0 @@
-hugging(0.059)
-smiling(0.049)
-entering(0.043)
-adult+female+singing(0.033)
-exiting(0.032)

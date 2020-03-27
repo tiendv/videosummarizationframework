@@ -1,5 +1,0 @@
-walking(0.364)
-fencing(0.179)
-carrying(0.024)
-turning(0.022)
-mowing(0.016)

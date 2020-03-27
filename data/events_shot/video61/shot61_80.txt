@@ -1,5 +1,0 @@
-cleaning(0.235)
-removing(0.154)
-brushing(0.103)
-dusting(0.042)
-painting(0.041)

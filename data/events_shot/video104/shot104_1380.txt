@@ -1,5 +1,0 @@
-locking(0.476)
-opening(0.131)
-closing(0.111)
-plugging(0.088)
-starting(0.028)

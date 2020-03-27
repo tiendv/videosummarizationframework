@@ -1,5 +1,0 @@
-raising(0.089)
-lifting(0.063)
-hanging(0.033)
-adult+male+speaking(0.025)
-slapping(0.022)

@@ -1,5 +1,0 @@
-sneezing(0.070)
-coughing(0.030)
-removing(0.026)
-pointing(0.020)
-punching(0.020)

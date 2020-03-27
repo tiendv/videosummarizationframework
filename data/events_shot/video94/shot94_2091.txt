@@ -1,5 +1,0 @@
-sneezing(0.227)
-blowing(0.050)
-gardening(0.038)
-planting(0.038)
-coughing(0.033)

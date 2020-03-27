@@ -1,5 +1,0 @@
-fencing(0.145)
-standing(0.045)
-walking(0.027)
-adult+male+speaking(0.021)
-starting(0.016)

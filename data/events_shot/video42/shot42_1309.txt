@@ -1,5 +1,0 @@
-blocking(0.289)
-handcuffing(0.105)
-arresting(0.070)
-measuring(0.067)
-knocking(0.062)

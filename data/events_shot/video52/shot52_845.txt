@@ -1,5 +1,0 @@
-building(0.457)
-constructing(0.166)
-loading(0.039)
-unloading(0.027)
-assembling(0.015)

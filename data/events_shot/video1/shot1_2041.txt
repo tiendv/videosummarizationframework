@@ -1,5 +1,0 @@
-stacking(0.669)
-constructing(0.113)
-building(0.090)
-assembling(0.022)
-loading(0.020)

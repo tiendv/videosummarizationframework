@@ -1,5 +1,0 @@
-arresting(0.180)
-guarding(0.138)
-attacking(0.055)
-protesting(0.055)
-walking(0.043)

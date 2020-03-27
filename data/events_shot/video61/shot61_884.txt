@@ -1,5 +1,0 @@
-adult+male+speaking(0.055)
-slapping(0.051)
-interviewing(0.048)
-squinting(0.039)
-frowning(0.037)

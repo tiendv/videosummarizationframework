@@ -1,5 +1,0 @@
-standing(0.119)
-walking(0.035)
-imitating(0.034)
-pointing(0.029)
-filming(0.027)

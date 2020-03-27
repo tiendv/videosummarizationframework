@@ -1,5 +1,0 @@
-adult+male+speaking(0.097)
-adult+male+singing(0.038)
-adult+female+singing(0.030)
-asking(0.028)
-stomping(0.023)

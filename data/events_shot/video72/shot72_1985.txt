@@ -1,5 +1,0 @@
-dancing(0.080)
-shaking(0.031)
-standing(0.028)
-bowing(0.022)
-turning(0.021)

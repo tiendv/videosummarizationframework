@@ -1,5 +1,0 @@
-hiking(0.305)
-camping(0.102)
-walking(0.056)
-standing(0.038)
-adult+female+speaking(0.028)

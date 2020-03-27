@@ -1,5 +1,0 @@
-shaving(0.200)
-adult+male+speaking(0.071)
-drinking(0.053)
-discussing(0.025)
-asking(0.024)

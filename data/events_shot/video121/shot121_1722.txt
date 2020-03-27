@@ -1,5 +1,0 @@
-driving(0.057)
-coughing(0.038)
-smelling(0.036)
-sailing(0.026)
-crying(0.021)

@@ -1,5 +1,0 @@
-walking(0.154)
-riding(0.043)
-sitting(0.035)
-running(0.032)
-pushing(0.029)

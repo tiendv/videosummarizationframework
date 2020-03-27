@@ -1,5 +1,0 @@
-carving(0.678)
-peeling(0.125)
-cracking(0.027)
-slicing(0.019)
-inflating(0.011)

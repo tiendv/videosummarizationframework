@@ -1,5 +1,0 @@
-walking(0.080)
-fencing(0.071)
-preaching(0.058)
-barking(0.050)
-adult+male+speaking(0.033)

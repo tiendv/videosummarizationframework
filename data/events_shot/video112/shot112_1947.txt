@@ -1,5 +1,0 @@
-sitting(0.067)
-squinting(0.041)
-adult+male+speaking(0.038)
-fencing(0.037)
-starting(0.030)

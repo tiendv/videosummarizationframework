@@ -1,5 +1,0 @@
-queuing(0.117)
-packing(0.039)
-packaging(0.027)
-walking(0.026)
-shopping(0.025)

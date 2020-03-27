@@ -1,5 +1,0 @@
-hugging(0.143)
-walking(0.127)
-sniffing(0.052)
-smelling(0.050)
-kissing(0.022)

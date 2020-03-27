@@ -1,5 +1,0 @@
-arresting(0.083)
-hugging(0.061)
-adult+male+singing(0.033)
-fighting(0.028)
-slapping(0.026)

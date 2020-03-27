@@ -1,5 +1,0 @@
-hanging(0.076)
-guarding(0.071)
-gripping(0.051)
-balancing(0.045)
-raising(0.028)

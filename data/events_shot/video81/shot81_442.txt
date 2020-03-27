@@ -1,5 +1,0 @@
-walking(0.100)
-adult+male+speaking(0.021)
-cleaning(0.020)
-playing+videogames(0.019)
-drying(0.018)

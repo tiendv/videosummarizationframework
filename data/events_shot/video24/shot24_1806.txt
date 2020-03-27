@@ -1,5 +1,0 @@
-studying(0.123)
-reading(0.098)
-chewing(0.074)
-sneezing(0.042)
-tapping(0.041)

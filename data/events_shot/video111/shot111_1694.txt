@@ -1,5 +1,0 @@
-adult+female+speaking(0.073)
-adult+female+singing(0.063)
-spinning(0.063)
-standing(0.041)
-stomping(0.036)

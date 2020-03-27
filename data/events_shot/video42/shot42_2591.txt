@@ -1,5 +1,0 @@
-stitching(0.111)
-repairing(0.104)
-cracking(0.068)
-removing(0.047)
-carving(0.043)

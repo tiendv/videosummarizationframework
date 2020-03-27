@@ -1,5 +1,0 @@
-arresting(0.107)
-building(0.074)
-handcuffing(0.066)
-bicycling(0.065)
-guarding(0.053)

@@ -1,5 +1,0 @@
-sweeping(0.130)
-walking(0.062)
-mopping(0.053)
-vacuuming(0.036)
-shopping(0.029)

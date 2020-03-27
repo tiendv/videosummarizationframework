@@ -1,5 +1,0 @@
-shopping(0.215)
-stealing(0.067)
-selling(0.061)
-adult+female+speaking(0.053)
-adult+male+speaking(0.043)

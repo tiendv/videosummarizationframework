@@ -1,5 +1,0 @@
-child+speaking(0.050)
-laughing(0.033)
-crying(0.030)
-inflating(0.028)
-adult+female+speaking(0.024)

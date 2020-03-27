@@ -1,5 +1,0 @@
-smoking(0.050)
-slapping(0.039)
-laughing(0.036)
-adult+male+speaking(0.032)
-crying(0.032)

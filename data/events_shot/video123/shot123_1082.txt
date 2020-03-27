@@ -1,5 +1,0 @@
-standing(0.093)
-walking(0.069)
-guarding(0.052)
-waving(0.044)
-entering(0.025)

@@ -1,5 +1,0 @@
-telephoning(0.123)
-packing(0.072)
-unpacking(0.068)
-cleaning(0.057)
-cooking(0.034)

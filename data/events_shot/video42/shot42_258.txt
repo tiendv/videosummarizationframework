@@ -1,5 +1,0 @@
-praying(0.100)
-adult+male+speaking(0.082)
-officiating(0.082)
-baptizing(0.049)
-hugging(0.045)

@@ -1,5 +1,0 @@
-dining(0.258)
-marrying(0.238)
-adult+female+singing(0.061)
-officiating(0.048)
-celebrating(0.039)

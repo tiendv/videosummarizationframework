@@ -1,5 +1,0 @@
-dining(0.055)
-adult+male+speaking(0.042)
-standing(0.038)
-gambling(0.028)
-queuing(0.028)

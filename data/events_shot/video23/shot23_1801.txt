@@ -1,5 +1,0 @@
-mowing(0.056)
-aiming(0.054)
-walking(0.033)
-playing+videogames(0.031)
-sprinting(0.030)

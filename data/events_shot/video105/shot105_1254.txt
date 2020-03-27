@@ -1,5 +1,0 @@
-pushing(0.118)
-driving(0.062)
-asking(0.051)
-arresting(0.042)
-walking(0.039)

@@ -1,5 +1,0 @@
-running(0.100)
-playing+videogames(0.059)
-adult+male+speaking(0.027)
-attacking(0.025)
-resting(0.025)

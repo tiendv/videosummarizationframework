@@ -1,5 +1,0 @@
-dunking(0.207)
-climbing(0.069)
-assembling(0.046)
-blocking(0.042)
-gripping(0.033)

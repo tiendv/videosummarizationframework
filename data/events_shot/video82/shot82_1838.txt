@@ -1,5 +1,0 @@
-spinning(0.823)
-turning(0.029)
-mopping(0.026)
-talking(0.005)
-pushing(0.005)

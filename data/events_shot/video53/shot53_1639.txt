@@ -1,5 +1,0 @@
-squatting(0.031)
-lifting(0.026)
-running(0.020)
-working(0.015)
-drinking(0.014)

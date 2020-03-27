@@ -1,5 +1,0 @@
-eating(0.059)
-shaving(0.054)
-peeling(0.054)
-brushing(0.049)
-drinking(0.039)

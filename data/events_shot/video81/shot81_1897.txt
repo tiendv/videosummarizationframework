@@ -1,5 +1,0 @@
-adult+female+speaking(0.035)
-balancing(0.035)
-imitating(0.030)
-lifting(0.029)
-adult+female+singing(0.028)

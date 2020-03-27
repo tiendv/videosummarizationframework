@@ -1,5 +1,0 @@
-hugging(0.065)
-exiting(0.054)
-loading(0.051)
-entering(0.042)
-closing(0.030)

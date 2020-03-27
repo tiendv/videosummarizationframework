@@ -1,5 +1,0 @@
-cooking(0.166)
-baking(0.065)
-drinking(0.044)
-washing(0.021)
-boiling(0.020)

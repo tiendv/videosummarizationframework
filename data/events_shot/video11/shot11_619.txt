@@ -1,5 +1,0 @@
-smoking(0.268)
-raining(0.106)
-extinguishing(0.050)
-storming(0.039)
-drenching(0.022)

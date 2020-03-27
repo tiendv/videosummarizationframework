@@ -1,5 +1,0 @@
-bicycling(0.043)
-walking(0.029)
-standing(0.019)
-towing(0.017)
-adult+male+speaking(0.016)

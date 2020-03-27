@@ -1,5 +1,0 @@
-brushing(0.356)
-drying(0.263)
-combing(0.059)
-adult+female+singing(0.055)
-washing(0.030)

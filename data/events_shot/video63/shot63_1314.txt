@@ -1,5 +1,0 @@
-talking(0.062)
-opening(0.060)
-walking(0.052)
-adult+male+speaking(0.049)
-winking(0.046)

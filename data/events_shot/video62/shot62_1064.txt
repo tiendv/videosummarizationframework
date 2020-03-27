@@ -1,5 +1,0 @@
-telephoning(0.097)
-adult+female+singing(0.085)
-handcuffing(0.073)
-adult+female+speaking(0.043)
-arresting(0.030)

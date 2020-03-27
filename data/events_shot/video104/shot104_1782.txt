@@ -1,5 +1,0 @@
-sitting(0.146)
-adult+male+speaking(0.068)
-talking(0.041)
-praying(0.037)
-hanging(0.034)

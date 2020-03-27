@@ -1,5 +1,0 @@
-arresting(0.082)
-slapping(0.066)
-taping(0.044)
-shooting(0.043)
-guarding(0.037)

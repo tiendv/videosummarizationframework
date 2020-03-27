@@ -1,5 +1,0 @@
-cooking(0.081)
-baking(0.071)
-adult+female+speaking(0.054)
-crafting(0.038)
-dusting(0.033)

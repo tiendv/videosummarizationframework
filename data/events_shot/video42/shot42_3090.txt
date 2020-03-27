@@ -1,5 +1,0 @@
-roaring(0.203)
-squatting(0.037)
-knocking(0.035)
-standing(0.032)
-adult+female+singing(0.026)

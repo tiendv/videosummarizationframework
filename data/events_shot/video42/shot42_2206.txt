@@ -1,5 +1,0 @@
-raining(0.120)
-starting(0.050)
-talking(0.024)
-crying(0.019)
-adult+male+singing(0.018)

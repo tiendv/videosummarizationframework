@@ -1,5 +1,0 @@
-dining(0.143)
-smiling(0.028)
-laughing(0.027)
-grinning(0.023)
-playing+videogames(0.023)

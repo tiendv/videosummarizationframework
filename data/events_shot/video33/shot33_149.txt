@@ -1,5 +1,0 @@
-drinking(0.063)
-asking(0.048)
-adult+male+speaking(0.044)
-slapping(0.037)
-knocking(0.032)

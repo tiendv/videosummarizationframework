@@ -1,5 +1,0 @@
-drying(0.102)
-driving(0.076)
-brushing(0.046)
-riding(0.028)
-racing(0.019)

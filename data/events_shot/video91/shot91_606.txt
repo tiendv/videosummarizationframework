@@ -1,5 +1,0 @@
-adult+female+speaking(0.099)
-shopping(0.088)
-talking(0.042)
-stealing(0.041)
-laughing(0.031)

@@ -1,5 +1,0 @@
-flooding(0.272)
-fishing(0.168)
-storming(0.067)
-boating(0.065)
-flowing(0.050)

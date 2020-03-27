@@ -1,5 +1,0 @@
-adult+female+speaking(0.025)
-blocking(0.021)
-putting(0.020)
-playing+videogames(0.019)
-discussing(0.018)

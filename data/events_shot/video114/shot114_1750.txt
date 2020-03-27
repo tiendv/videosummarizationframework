@@ -1,5 +1,0 @@
-lecturing(0.170)
-adult+male+speaking(0.071)
-preaching(0.049)
-instructing(0.047)
-teaching(0.041)

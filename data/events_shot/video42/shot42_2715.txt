@@ -1,5 +1,0 @@
-sleeping(0.079)
-tapping(0.061)
-hugging(0.043)
-waking(0.033)
-scratching(0.025)

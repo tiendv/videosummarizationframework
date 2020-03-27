@@ -1,5 +1,0 @@
-slicing(0.122)
-cutting(0.119)
-peeling(0.063)
-inflating(0.052)
-trimming(0.044)

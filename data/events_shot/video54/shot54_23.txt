@@ -1,5 +1,0 @@
-talking(0.056)
-cooking(0.052)
-sneezing(0.033)
-adult+male+speaking(0.030)
-hugging(0.028)

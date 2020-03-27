@@ -1,5 +1,0 @@
-painting(0.126)
-tapping(0.091)
-brushing(0.036)
-frowning(0.035)
-adult+male+speaking(0.033)

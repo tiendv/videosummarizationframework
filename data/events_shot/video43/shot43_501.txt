@@ -1,5 +1,0 @@
-adult+male+speaking(0.050)
-shouting(0.032)
-crying(0.030)
-smiling(0.030)
-cuddling(0.020)

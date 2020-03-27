@@ -1,5 +1,0 @@
-slapping(0.085)
-smoking(0.053)
-talking(0.041)
-whistling(0.040)
-adult+male+speaking(0.037)

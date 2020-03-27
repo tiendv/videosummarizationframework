@@ -1,5 +1,0 @@
-sitting(0.150)
-talking(0.053)
-discussing(0.037)
-child+speaking(0.036)
-drying(0.031)

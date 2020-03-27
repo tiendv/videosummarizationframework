@@ -1,5 +1,0 @@
-adult+male+speaking(0.090)
-laughing(0.050)
-eating(0.026)
-asking(0.024)
-talking(0.020)

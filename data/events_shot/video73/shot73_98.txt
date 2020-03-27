@@ -1,5 +1,0 @@
-walking(0.094)
-turning(0.045)
-riding(0.036)
-carrying(0.035)
-guarding(0.034)

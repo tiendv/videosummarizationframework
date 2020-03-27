@@ -1,5 +1,0 @@
-fencing(0.822)
-opening(0.019)
-sliding(0.012)
-barking(0.012)
-closing(0.009)

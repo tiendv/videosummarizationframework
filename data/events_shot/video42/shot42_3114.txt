@@ -1,5 +1,0 @@
-opening(0.453)
-closing(0.267)
-adult+female+singing(0.035)
-smoking(0.014)
-singing(0.014)

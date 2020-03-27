@@ -1,5 +1,0 @@
-hammering(0.038)
-shooting(0.035)
-drinking(0.031)
-fighting(0.030)
-sawing(0.029)

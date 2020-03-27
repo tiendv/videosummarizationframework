@@ -1,5 +1,0 @@
-smiling(0.123)
-hugging(0.075)
-grinning(0.044)
-laughing(0.035)
-giggling(0.025)

@@ -1,5 +1,0 @@
-raining(0.651)
-storming(0.061)
-snowing(0.037)
-talking(0.022)
-sitting(0.016)

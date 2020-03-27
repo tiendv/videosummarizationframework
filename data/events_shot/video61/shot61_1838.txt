@@ -1,5 +1,0 @@
-waving(0.039)
-walking(0.030)
-running(0.028)
-jogging(0.023)
-sneezing(0.019)

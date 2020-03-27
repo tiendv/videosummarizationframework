@@ -1,5 +1,0 @@
-lecturing(0.069)
-adult+male+speaking(0.056)
-discussing(0.047)
-adult+female+speaking(0.046)
-whistling(0.033)

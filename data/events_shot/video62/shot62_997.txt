@@ -1,5 +1,0 @@
-drinking(0.080)
-adult+male+speaking(0.046)
-laughing(0.027)
-selling(0.025)
-shopping(0.024)

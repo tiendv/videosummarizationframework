@@ -1,5 +1,0 @@
-adult+female+singing(0.065)
-adult+female+speaking(0.055)
-slapping(0.036)
-coughing(0.032)
-baking(0.031)

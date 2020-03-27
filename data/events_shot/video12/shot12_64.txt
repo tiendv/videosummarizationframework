@@ -1,5 +1,0 @@
-handcuffing(0.124)
-plugging(0.075)
-steering(0.038)
-driving(0.031)
-locking(0.030)

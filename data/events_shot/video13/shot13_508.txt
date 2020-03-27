@@ -1,5 +1,0 @@
-painting(0.825)
-drawing(0.056)
-sketching(0.013)
-adult+male+speaking(0.006)
-slapping(0.005)

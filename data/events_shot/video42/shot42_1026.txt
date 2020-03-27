@@ -1,5 +1,0 @@
-packing(0.078)
-stitching(0.059)
-putting(0.039)
-unpacking(0.038)
-assembling(0.036)

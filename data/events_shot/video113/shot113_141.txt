@@ -1,5 +1,0 @@
-handcuffing(0.034)
-knocking(0.033)
-standing(0.032)
-adult+male+speaking(0.030)
-dressing(0.027)

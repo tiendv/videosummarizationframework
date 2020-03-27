@@ -1,5 +1,0 @@
-loading(0.235)
-unloading(0.225)
-lifting(0.053)
-stacking(0.050)
-raising(0.039)

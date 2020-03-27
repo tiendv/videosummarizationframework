@@ -1,5 +1,0 @@
-crying(0.475)
-frowning(0.023)
-hugging(0.019)
-arresting(0.017)
-adult+female+speaking(0.013)

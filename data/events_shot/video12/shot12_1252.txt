@@ -1,5 +1,0 @@
-bowing(0.075)
-sitting(0.054)
-standing(0.045)
-praying(0.029)
-adult+female+speaking(0.027)

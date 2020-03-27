@@ -1,5 +1,0 @@
-squatting(0.050)
-adult+female+speaking(0.038)
-climbing(0.030)
-standing(0.021)
-hanging(0.020)

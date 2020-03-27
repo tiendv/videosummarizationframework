@@ -1,5 +1,0 @@
-fueling(0.075)
-packing(0.058)
-unpacking(0.049)
-cleaning(0.044)
-handcuffing(0.034)

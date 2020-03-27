@@ -1,5 +1,0 @@
-drying(0.570)
-washing(0.037)
-walking(0.015)
-shaking(0.015)
-rinsing(0.013)

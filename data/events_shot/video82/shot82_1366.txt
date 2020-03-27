@@ -1,5 +1,0 @@
-sneezing(0.513)
-coughing(0.059)
-talking(0.027)
-packing(0.020)
-drinking(0.018)

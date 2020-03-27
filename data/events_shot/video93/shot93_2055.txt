@@ -1,5 +1,0 @@
-walking(0.216)
-spraying(0.061)
-asking(0.058)
-jogging(0.038)
-adult+male+speaking(0.033)

@@ -1,5 +1,0 @@
-asking(0.202)
-exiting(0.199)
-adult+female+speaking(0.070)
-opening(0.056)
-closing(0.051)

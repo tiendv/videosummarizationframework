@@ -1,5 +1,0 @@
-drinking(0.625)
-dining(0.059)
-opening(0.034)
-closing(0.016)
-serving(0.013)

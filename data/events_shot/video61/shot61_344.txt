@@ -1,5 +1,0 @@
-assembling(0.145)
-plugging(0.070)
-steering(0.060)
-gripping(0.052)
-putting(0.035)

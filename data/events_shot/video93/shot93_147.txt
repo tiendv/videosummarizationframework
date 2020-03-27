@@ -1,5 +1,0 @@
-hugging(0.094)
-adult+female+speaking(0.052)
-arresting(0.040)
-smiling(0.038)
-slapping(0.036)

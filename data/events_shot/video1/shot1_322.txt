@@ -1,5 +1,0 @@
-reading(0.296)
-sleeping(0.042)
-sitting(0.039)
-telephoning(0.037)
-waking(0.035)

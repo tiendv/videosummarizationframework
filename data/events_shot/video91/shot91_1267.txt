@@ -1,5 +1,0 @@
-hugging(0.069)
-adult+male+speaking(0.065)
-standing(0.055)
-adult+male+singing(0.041)
-filming(0.040)

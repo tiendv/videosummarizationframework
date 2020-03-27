@@ -1,5 +1,0 @@
-painting(0.085)
-dusting(0.060)
-crafting(0.056)
-cleaning(0.052)
-drying(0.040)

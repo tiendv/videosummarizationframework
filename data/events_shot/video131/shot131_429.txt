@@ -1,5 +1,0 @@
-walking(0.435)
-asking(0.214)
-interviewing(0.061)
-smiling(0.037)
-filming(0.034)

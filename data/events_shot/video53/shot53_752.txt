@@ -1,5 +1,0 @@
-walking(0.077)
-running(0.055)
-fighting(0.029)
-joining(0.025)
-filming(0.025)

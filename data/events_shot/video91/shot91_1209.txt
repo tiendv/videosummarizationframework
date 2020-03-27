@@ -1,5 +1,0 @@
-driving(0.095)
-building(0.072)
-riding(0.071)
-playing(0.065)
-storming(0.050)

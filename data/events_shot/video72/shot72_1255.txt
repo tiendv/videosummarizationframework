@@ -1,5 +1,0 @@
-exiting(0.097)
-driving(0.060)
-entering(0.042)
-riding(0.034)
-walking(0.032)

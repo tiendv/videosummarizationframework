@@ -1,5 +1,0 @@
-adult+male+speaking(0.026)
-adult+female+speaking(0.026)
-bowing(0.025)
-tying(0.023)
-knitting(0.021)

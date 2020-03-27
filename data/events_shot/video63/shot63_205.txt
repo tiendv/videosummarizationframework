@@ -1,5 +1,0 @@
-fencing(0.540)
-guarding(0.039)
-adult+female+speaking(0.031)
-adult+male+speaking(0.021)
-stealing(0.014)

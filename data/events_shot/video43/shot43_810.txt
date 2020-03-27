@@ -1,5 +1,0 @@
-assembling(0.108)
-building(0.077)
-unpacking(0.057)
-packing(0.039)
-packaging(0.035)

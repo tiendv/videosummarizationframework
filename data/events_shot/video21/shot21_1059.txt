@@ -1,5 +1,0 @@
-raining(0.218)
-adult+female+singing(0.048)
-playing+videogames(0.043)
-smoking(0.036)
-walking(0.030)

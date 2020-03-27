@@ -1,5 +1,0 @@
-sneezing(0.234)
-coughing(0.158)
-discussing(0.069)
-talking(0.057)
-adult+female+speaking(0.034)

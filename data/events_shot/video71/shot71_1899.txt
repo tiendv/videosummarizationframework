@@ -1,5 +1,0 @@
-hugging(0.248)
-adult+female+singing(0.028)
-cooking(0.025)
-smelling(0.019)
-baking(0.018)

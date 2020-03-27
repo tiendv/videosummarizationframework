@@ -1,5 +1,0 @@
-dressing(0.212)
-buttoning(0.110)
-putting(0.094)
-handcuffing(0.044)
-opening(0.033)

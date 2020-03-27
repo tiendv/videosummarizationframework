@@ -1,5 +1,0 @@
-spinning(0.096)
-mopping(0.036)
-storming(0.036)
-starting(0.034)
-driving(0.033)

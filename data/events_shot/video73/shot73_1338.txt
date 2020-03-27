@@ -1,5 +1,0 @@
-queuing(0.164)
-guarding(0.039)
-standing(0.035)
-saluting(0.031)
-filming(0.028)

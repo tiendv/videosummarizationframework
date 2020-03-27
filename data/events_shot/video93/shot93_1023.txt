@@ -1,5 +1,0 @@
-laughing(0.075)
-crying(0.059)
-adult+female+speaking(0.056)
-cracking(0.047)
-tickling(0.041)

@@ -1,5 +1,0 @@
-dining(0.644)
-eating(0.049)
-drinking(0.039)
-serving(0.032)
-adult+male+speaking(0.010)

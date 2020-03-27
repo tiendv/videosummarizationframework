@@ -1,5 +1,0 @@
-crying(0.253)
-frowning(0.047)
-adult+male+speaking(0.038)
-playing+videogames(0.019)
-carrying(0.019)

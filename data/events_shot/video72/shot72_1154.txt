@@ -1,5 +1,0 @@
-walking(0.147)
-crying(0.106)
-sneezing(0.035)
-slapping(0.034)
-carrying(0.032)

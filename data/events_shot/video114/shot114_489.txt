@@ -1,5 +1,0 @@
-dining(0.156)
-flicking(0.086)
-throwing(0.056)
-sitting(0.032)
-eating(0.029)

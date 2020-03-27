@@ -1,5 +1,0 @@
-fishing(0.157)
-wetting(0.030)
-boating(0.030)
-standing(0.024)
-floating(0.024)

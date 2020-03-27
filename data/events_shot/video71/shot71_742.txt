@@ -1,5 +1,0 @@
-crying(0.740)
-frowning(0.115)
-slapping(0.021)
-brushing(0.008)
-winking(0.006)

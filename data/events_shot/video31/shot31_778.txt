@@ -1,5 +1,0 @@
-walking(0.558)
-hiking(0.316)
-hitchhiking(0.021)
-saluting(0.016)
-standing(0.012)

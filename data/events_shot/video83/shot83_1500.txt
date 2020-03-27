@@ -1,5 +1,0 @@
-talking(0.046)
-hugging(0.039)
-walking(0.039)
-standing(0.036)
-filming(0.033)

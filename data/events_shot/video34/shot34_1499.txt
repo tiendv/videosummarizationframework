@@ -1,5 +1,0 @@
-crying(0.100)
-handcuffing(0.042)
-sneezing(0.042)
-slapping(0.032)
-coughing(0.024)

@@ -1,5 +1,0 @@
-raining(0.054)
-dropping(0.050)
-storming(0.049)
-burning(0.033)
-starting(0.023)

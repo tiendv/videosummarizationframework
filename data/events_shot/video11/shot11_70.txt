@@ -1,5 +1,0 @@
-cutting(0.035)
-turning(0.031)
-sanding(0.026)
-spinning(0.020)
-working(0.019)

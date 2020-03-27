@@ -1,5 +1,0 @@
-crying(0.072)
-inflating(0.051)
-coughing(0.041)
-knocking(0.038)
-laughing(0.034)

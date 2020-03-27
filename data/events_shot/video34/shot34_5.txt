@@ -1,5 +1,0 @@
-cleaning(0.146)
-building(0.067)
-hanging(0.063)
-guarding(0.061)
-walking(0.035)

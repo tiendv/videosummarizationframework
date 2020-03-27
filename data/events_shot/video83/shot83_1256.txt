@@ -1,5 +1,0 @@
-fighting(0.057)
-squatting(0.053)
-cleaning(0.040)
-punching(0.036)
-adult+male+speaking(0.029)

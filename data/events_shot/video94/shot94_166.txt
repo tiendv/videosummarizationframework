@@ -1,5 +1,0 @@
-adult+female+speaking(0.060)
-adult+male+speaking(0.058)
-fencing(0.057)
-working(0.047)
-talking(0.040)

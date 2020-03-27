@@ -1,5 +1,0 @@
-asking(0.192)
-walking(0.076)
-shopping(0.049)
-standing(0.033)
-hugging(0.030)

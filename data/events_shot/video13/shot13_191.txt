@@ -1,5 +1,0 @@
-shaving(0.083)
-measuring(0.050)
-sniffing(0.040)
-dressing(0.035)
-smelling(0.034)

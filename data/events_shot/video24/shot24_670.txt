@@ -1,5 +1,0 @@
-swerving(0.077)
-driving(0.072)
-stopping(0.072)
-hitchhiking(0.053)
-towing(0.052)

@@ -1,5 +1,0 @@
-walking(0.066)
-raining(0.031)
-discussing(0.031)
-arresting(0.030)
-asking(0.027)

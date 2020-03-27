@@ -1,5 +1,0 @@
-hunting(0.159)
-walking(0.131)
-hiking(0.073)
-planting(0.030)
-standing(0.029)

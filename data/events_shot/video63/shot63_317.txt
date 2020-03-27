@@ -1,5 +1,0 @@
-preaching(0.223)
-adult+male+speaking(0.130)
-walking(0.038)
-standing(0.034)
-lecturing(0.033)

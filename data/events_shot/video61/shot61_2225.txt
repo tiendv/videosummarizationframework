@@ -1,5 +1,0 @@
-pressing(0.205)
-gripping(0.080)
-hanging(0.047)
-exercising(0.034)
-shrugging(0.032)

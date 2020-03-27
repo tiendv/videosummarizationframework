@@ -1,5 +1,0 @@
-preaching(0.333)
-officiating(0.160)
-adult+male+speaking(0.078)
-lecturing(0.069)
-praying(0.041)

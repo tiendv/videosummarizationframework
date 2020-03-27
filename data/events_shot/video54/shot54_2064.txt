@@ -1,5 +1,0 @@
-aiming(0.066)
-turning(0.034)
-spinning(0.033)
-driving(0.026)
-pressing(0.026)

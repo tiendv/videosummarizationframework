@@ -1,5 +1,0 @@
-filming(0.134)
-fueling(0.061)
-bicycling(0.058)
-playing+videogames(0.046)
-steering(0.036)

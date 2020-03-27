@@ -1,5 +1,0 @@
-fighting(0.564)
-attacking(0.150)
-roaring(0.078)
-knocking(0.019)
-stomping(0.013)

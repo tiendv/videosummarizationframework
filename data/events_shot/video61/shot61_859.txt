@@ -1,5 +1,0 @@
-knocking(0.046)
-slapping(0.044)
-coughing(0.033)
-standing(0.029)
-sneezing(0.027)

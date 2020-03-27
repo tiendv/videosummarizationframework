@@ -1,5 +1,0 @@
-opening(0.062)
-closing(0.039)
-standing(0.033)
-dressing(0.027)
-handcuffing(0.027)

@@ -1,5 +1,0 @@
-running(0.048)
-smoking(0.025)
-stirring(0.025)
-walking(0.022)
-cooking(0.022)

@@ -1,5 +1,0 @@
-squatting(0.284)
-gripping(0.078)
-climbing(0.053)
-hanging(0.046)
-kneeling(0.016)

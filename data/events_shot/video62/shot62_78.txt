@@ -1,5 +1,0 @@
-sitting(0.171)
-adult+male+speaking(0.093)
-talking(0.059)
-waking(0.050)
-yawning(0.046)

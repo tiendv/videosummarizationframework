@@ -1,5 +1,0 @@
-asking(0.102)
-lecturing(0.100)
-adult+male+speaking(0.094)
-pointing(0.062)
-smiling(0.042)

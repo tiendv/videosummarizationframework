@@ -1,5 +1,0 @@
-telephoning(0.229)
-calling(0.101)
-writing(0.066)
-studying(0.050)
-adult+female+speaking(0.049)

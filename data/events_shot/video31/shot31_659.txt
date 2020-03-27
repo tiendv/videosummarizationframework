@@ -1,5 +1,0 @@
-adult+female+speaking(0.090)
-lecturing(0.065)
-praying(0.047)
-adult+male+speaking(0.044)
-shrugging(0.034)

@@ -1,5 +1,0 @@
-adult+female+speaking(0.066)
-discussing(0.046)
-adult+male+speaking(0.040)
-walking(0.034)
-arresting(0.033)

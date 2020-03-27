@@ -1,5 +1,0 @@
-telephoning(0.256)
-calling(0.126)
-filming(0.042)
-adult+female+speaking(0.033)
-photographing(0.029)

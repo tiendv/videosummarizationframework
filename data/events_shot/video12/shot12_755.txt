@@ -1,5 +1,0 @@
-adult+male+speaking(0.065)
-praying(0.041)
-sitting(0.024)
-shaving(0.023)
-adult+female+speaking(0.021)

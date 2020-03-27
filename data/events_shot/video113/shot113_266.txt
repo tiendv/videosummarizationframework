@@ -1,5 +1,0 @@
-slapping(0.125)
-queuing(0.087)
-arresting(0.037)
-asking(0.033)
-coaching(0.028)

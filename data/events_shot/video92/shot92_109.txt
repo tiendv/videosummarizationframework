@@ -1,5 +1,0 @@
-adult+male+speaking(0.054)
-laughing(0.052)
-crying(0.049)
-tattooing(0.042)
-adult+female+speaking(0.037)

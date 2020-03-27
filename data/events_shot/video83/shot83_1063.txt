@@ -1,5 +1,0 @@
-dipping(0.125)
-manicuring(0.085)
-stacking(0.084)
-crafting(0.053)
-drinking(0.053)

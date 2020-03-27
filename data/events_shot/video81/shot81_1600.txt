@@ -1,5 +1,0 @@
-adult+female+singing(0.146)
-adult+male+singing(0.080)
-slapping(0.056)
-filming(0.032)
-walking(0.030)

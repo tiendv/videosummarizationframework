@@ -1,5 +1,0 @@
-flooding(0.199)
-rafting(0.086)
-raining(0.044)
-drenching(0.022)
-floating(0.017)

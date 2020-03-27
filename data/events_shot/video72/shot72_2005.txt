@@ -1,5 +1,0 @@
-rising(0.064)
-adult+female+singing(0.064)
-blowing(0.030)
-ascending(0.030)
-cracking(0.029)

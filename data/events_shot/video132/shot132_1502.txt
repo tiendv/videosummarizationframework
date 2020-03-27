@@ -1,5 +1,0 @@
-smoking(0.051)
-drinking(0.049)
-gripping(0.025)
-playing+videogames(0.022)
-smelling(0.021)

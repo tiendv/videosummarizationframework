@@ -1,5 +1,0 @@
-winking(0.032)
-marrying(0.029)
-frowning(0.025)
-adult+male+speaking(0.025)
-smiling(0.024)

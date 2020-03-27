@@ -1,5 +1,0 @@
-snowing(0.059)
-talking(0.054)
-fencing(0.038)
-praying(0.030)
-standing(0.024)

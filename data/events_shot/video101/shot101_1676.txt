@@ -1,5 +1,0 @@
-packing(0.408)
-unpacking(0.117)
-adult+male+speaking(0.041)
-discussing(0.027)
-smiling(0.019)

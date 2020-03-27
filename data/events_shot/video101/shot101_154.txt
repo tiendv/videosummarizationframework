@@ -1,5 +1,0 @@
-working(0.107)
-assembling(0.067)
-drilling(0.044)
-repairing(0.029)
-standing(0.026)

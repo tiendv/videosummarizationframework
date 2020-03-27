@@ -1,5 +1,0 @@
-camping(0.182)
-building(0.077)
-repairing(0.066)
-painting(0.047)
-hiking(0.033)

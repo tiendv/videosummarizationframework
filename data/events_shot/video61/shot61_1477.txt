@@ -1,5 +1,0 @@
-sitting(0.085)
-camping(0.062)
-adult+male+speaking(0.033)
-interviewing(0.031)
-sleeping(0.029)

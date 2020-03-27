@@ -1,5 +1,0 @@
-stacking(0.065)
-standing(0.058)
-baking(0.035)
-talking(0.033)
-child+speaking(0.032)

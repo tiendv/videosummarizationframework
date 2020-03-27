@@ -1,5 +1,0 @@
-flooding(0.297)
-boating(0.080)
-flowing(0.049)
-jogging(0.031)
-wetting(0.030)

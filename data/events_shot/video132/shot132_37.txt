@@ -1,5 +1,0 @@
-cooking(0.087)
-mopping(0.042)
-stirring(0.035)
-brushing(0.034)
-adult+male+speaking(0.034)

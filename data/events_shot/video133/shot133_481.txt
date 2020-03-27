@@ -1,5 +1,0 @@
-raining(0.309)
-fighting(0.085)
-walking(0.067)
-snowing(0.034)
-attacking(0.032)

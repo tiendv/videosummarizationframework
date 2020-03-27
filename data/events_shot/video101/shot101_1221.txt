@@ -1,5 +1,0 @@
-adult+male+speaking(0.132)
-talking(0.094)
-interviewing(0.072)
-opening(0.058)
-standing(0.050)

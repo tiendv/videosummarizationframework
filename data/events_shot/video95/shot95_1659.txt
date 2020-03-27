@@ -1,5 +1,0 @@
-barking(0.372)
-sniffing(0.186)
-howling(0.061)
-smelling(0.059)
-laughing(0.015)

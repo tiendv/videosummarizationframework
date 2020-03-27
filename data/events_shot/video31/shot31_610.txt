@@ -1,5 +1,0 @@
-knocking(0.291)
-locking(0.150)
-standing(0.049)
-shaking(0.046)
-asking(0.030)

@@ -1,5 +1,0 @@
-adult+female+singing(0.155)
-crying(0.112)
-coughing(0.084)
-adult+male+singing(0.064)
-yawning(0.061)

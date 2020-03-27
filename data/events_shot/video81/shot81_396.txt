@@ -1,5 +1,0 @@
-adult+female+speaking(0.100)
-asking(0.054)
-adult+male+speaking(0.035)
-discussing(0.032)
-smelling(0.029)

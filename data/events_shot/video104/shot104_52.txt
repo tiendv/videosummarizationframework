@@ -1,5 +1,0 @@
-walking(0.045)
-towing(0.038)
-exiting(0.035)
-driving(0.035)
-standing(0.031)

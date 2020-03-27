@@ -1,5 +1,0 @@
-aiming(0.182)
-pointing(0.055)
-locking(0.040)
-loading(0.037)
-putting(0.020)

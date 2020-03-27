@@ -1,5 +1,0 @@
-sneezing(0.059)
-walking(0.059)
-stacking(0.039)
-exiting(0.031)
-loading(0.027)

@@ -1,5 +1,0 @@
-combing(0.050)
-smiling(0.034)
-adult+male+speaking(0.033)
-brushing(0.029)
-sneezing(0.028)

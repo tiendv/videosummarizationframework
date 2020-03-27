@@ -1,5 +1,0 @@
-bouncing(0.363)
-jumping(0.152)
-leaping(0.123)
-flipping(0.056)
-adult+male+singing(0.039)

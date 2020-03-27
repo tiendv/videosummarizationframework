@@ -1,5 +1,0 @@
-drying(0.034)
-sneezing(0.028)
-coughing(0.026)
-cleaning(0.023)
-adult+female+speaking(0.023)

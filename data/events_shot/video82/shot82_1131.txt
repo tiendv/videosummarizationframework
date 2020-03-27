@@ -1,5 +1,0 @@
-asking(0.028)
-pointing(0.026)
-singing(0.025)
-adult+female+singing(0.025)
-performing(0.024)

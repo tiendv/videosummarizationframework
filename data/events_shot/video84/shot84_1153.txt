@@ -1,5 +1,0 @@
-slapping(0.065)
-coaching(0.047)
-lecturing(0.040)
-pointing(0.026)
-adult+male+speaking(0.024)

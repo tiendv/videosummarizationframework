@@ -1,5 +1,0 @@
-diving(0.093)
-attacking(0.046)
-flying(0.041)
-hunting(0.023)
-crawling(0.022)

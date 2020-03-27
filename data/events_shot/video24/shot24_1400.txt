@@ -1,5 +1,0 @@
-walking(0.051)
-building(0.042)
-bowing(0.039)
-standing(0.038)
-assembling(0.025)

@@ -1,5 +1,0 @@
-talking(0.080)
-signing(0.050)
-standing(0.045)
-snowing(0.039)
-adult+female+speaking(0.033)

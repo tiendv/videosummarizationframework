@@ -1,5 +1,0 @@
-packaging(0.033)
-adult+male+speaking(0.026)
-constructing(0.025)
-playing+videogames(0.024)
-building(0.022)

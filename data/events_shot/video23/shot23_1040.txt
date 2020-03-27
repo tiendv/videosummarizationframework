@@ -1,5 +1,0 @@
-walking(0.277)
-arresting(0.094)
-stomping(0.055)
-standing(0.038)
-hiking(0.029)

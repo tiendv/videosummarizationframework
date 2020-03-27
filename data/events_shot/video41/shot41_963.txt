@@ -1,5 +1,0 @@
-kneeling(0.093)
-bending(0.085)
-bowing(0.052)
-shaving(0.046)
-tattooing(0.029)

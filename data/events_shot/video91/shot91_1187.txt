@@ -1,5 +1,0 @@
-sleeping(0.086)
-sitting(0.045)
-cuddling(0.045)
-resting(0.044)
-queuing(0.040)

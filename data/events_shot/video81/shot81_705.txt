@@ -1,5 +1,0 @@
-arresting(0.081)
-playing+videogames(0.071)
-adult+female+singing(0.070)
-adult+male+speaking(0.049)
-standing(0.044)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.094)
-adult+male+singing(0.046)
-asking(0.045)
-hugging(0.042)
-baptizing(0.040)

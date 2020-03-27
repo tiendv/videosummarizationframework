@@ -1,5 +1,0 @@
-walking(0.671)
-exiting(0.026)
-standing(0.012)
-asking(0.012)
-carrying(0.011)

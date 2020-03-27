@@ -1,5 +1,0 @@
-fishing(0.782)
-catching(0.064)
-boating(0.027)
-flooding(0.017)
-punting(0.008)

@@ -1,5 +1,0 @@
-drinking(0.772)
-smelling(0.010)
-adult+male+speaking(0.009)
-telephoning(0.006)
-pouring(0.006)

@@ -1,5 +1,0 @@
-yawning(0.254)
-coughing(0.169)
-sneezing(0.102)
-imitating(0.023)
-raising(0.020)

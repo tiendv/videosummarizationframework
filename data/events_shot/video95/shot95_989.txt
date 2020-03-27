@@ -1,5 +1,0 @@
-tapping(0.685)
-scratching(0.065)
-rubbing(0.017)
-sneezing(0.012)
-waking(0.010)

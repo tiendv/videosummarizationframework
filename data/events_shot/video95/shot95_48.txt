@@ -1,5 +1,0 @@
-crafting(0.073)
-wrapping(0.049)
-packaging(0.029)
-opening(0.029)
-giving(0.024)

@@ -1,5 +1,0 @@
-smiling(0.225)
-waving(0.156)
-shrugging(0.066)
-winking(0.052)
-playing+videogames(0.050)

@@ -1,5 +1,0 @@
-brushing(0.283)
-combing(0.191)
-drying(0.035)
-adult+female+speaking(0.022)
-putting(0.016)

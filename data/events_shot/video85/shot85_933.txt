@@ -1,5 +1,0 @@
-queuing(0.210)
-walking(0.069)
-shopping(0.042)
-standing(0.024)
-boarding(0.017)

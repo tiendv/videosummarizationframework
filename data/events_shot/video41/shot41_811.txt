@@ -1,5 +1,0 @@
-telephoning(0.299)
-calling(0.235)
-drinking(0.039)
-arresting(0.028)
-adult+male+speaking(0.023)

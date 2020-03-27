@@ -1,5 +1,0 @@
-peeling(0.044)
-rubbing(0.041)
-drinking(0.030)
-adult+female+speaking(0.029)
-injecting(0.027)

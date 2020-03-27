@@ -1,5 +1,0 @@
-knitting(0.036)
-dressing(0.030)
-adult+female+speaking(0.028)
-crafting(0.022)
-injecting(0.022)

@@ -1,5 +1,0 @@
-lecturing(0.047)
-hugging(0.047)
-pointing(0.033)
-adult+male+speaking(0.030)
-crying(0.024)

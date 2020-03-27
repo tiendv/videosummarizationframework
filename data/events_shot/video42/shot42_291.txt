@@ -1,5 +1,0 @@
-walking(0.561)
-exiting(0.055)
-entering(0.034)
-guarding(0.030)
-carrying(0.026)

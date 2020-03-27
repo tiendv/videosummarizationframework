@@ -1,5 +1,0 @@
-raining(0.114)
-adult+female+speaking(0.054)
-adult+female+singing(0.041)
-washing(0.030)
-slapping(0.020)

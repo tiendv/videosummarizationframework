@@ -1,5 +1,0 @@
-cleaning(0.077)
-mopping(0.045)
-scrubbing(0.044)
-cooking(0.044)
-painting(0.041)

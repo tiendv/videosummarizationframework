@@ -1,5 +1,0 @@
-dressing(0.080)
-tying(0.077)
-combing(0.049)
-standing(0.038)
-snapping(0.026)

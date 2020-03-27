@@ -1,5 +1,0 @@
-raining(0.058)
-crying(0.053)
-walking(0.045)
-adult+female+speaking(0.040)
-talking(0.031)

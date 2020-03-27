@@ -1,5 +1,0 @@
-riding(0.082)
-starting(0.063)
-driving(0.048)
-knocking(0.047)
-steering(0.040)

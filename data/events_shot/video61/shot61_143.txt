@@ -1,5 +1,0 @@
-walking(0.104)
-knocking(0.071)
-standing(0.037)
-pointing(0.024)
-working(0.024)

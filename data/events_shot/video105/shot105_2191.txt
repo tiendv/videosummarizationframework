@@ -1,5 +1,0 @@
-driving(0.146)
-flooding(0.099)
-camping(0.092)
-bicycling(0.089)
-riding(0.077)

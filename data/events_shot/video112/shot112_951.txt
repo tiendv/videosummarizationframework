@@ -1,5 +1,0 @@
-sneezing(0.065)
-adult+female+speaking(0.038)
-chewing(0.037)
-slapping(0.036)
-brushing(0.028)

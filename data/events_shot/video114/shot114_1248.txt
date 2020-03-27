@@ -1,5 +1,0 @@
-adult+female+speaking(0.095)
-drinking(0.091)
-adult+male+speaking(0.060)
-cooking(0.032)
-hugging(0.031)

@@ -1,5 +1,0 @@
-talking(0.146)
-adult+female+speaking(0.118)
-child+speaking(0.086)
-whistling(0.079)
-sitting(0.067)

@@ -1,5 +1,0 @@
-crying(0.125)
-frowning(0.039)
-shrugging(0.026)
-carrying(0.019)
-bowing(0.019)

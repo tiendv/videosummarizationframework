@@ -1,5 +1,0 @@
-arresting(0.095)
-guarding(0.033)
-adult+male+speaking(0.032)
-camping(0.031)
-standing(0.024)

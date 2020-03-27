@@ -1,5 +1,0 @@
-driving(0.125)
-filming(0.063)
-talking(0.050)
-turning(0.031)
-adult+male+speaking(0.031)

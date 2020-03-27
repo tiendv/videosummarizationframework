@@ -1,5 +1,0 @@
-adult+male+speaking(0.101)
-walking(0.065)
-playing+sports(0.045)
-coaching(0.035)
-protesting(0.033)

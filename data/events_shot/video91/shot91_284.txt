@@ -1,5 +1,0 @@
-cooking(0.070)
-stirring(0.068)
-coaching(0.048)
-spitting(0.026)
-smelling(0.026)

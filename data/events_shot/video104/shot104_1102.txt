@@ -1,5 +1,0 @@
-sneezing(0.116)
-signing(0.047)
-coughing(0.036)
-discussing(0.028)
-drinking(0.027)

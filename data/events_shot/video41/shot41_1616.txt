@@ -1,5 +1,0 @@
-flying(0.104)
-storming(0.061)
-raining(0.043)
-spreading(0.025)
-gardening(0.020)

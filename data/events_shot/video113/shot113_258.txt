@@ -1,5 +1,0 @@
-stacking(0.181)
-bowling(0.061)
-shrugging(0.032)
-adult+male+speaking(0.030)
-squinting(0.025)

@@ -1,5 +1,0 @@
-feeding(0.133)
-licking(0.117)
-eating(0.073)
-gripping(0.062)
-chewing(0.050)

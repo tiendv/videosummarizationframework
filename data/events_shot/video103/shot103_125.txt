@@ -1,5 +1,0 @@
-walking(0.104)
-dining(0.046)
-standing(0.036)
-filming(0.033)
-sitting(0.025)

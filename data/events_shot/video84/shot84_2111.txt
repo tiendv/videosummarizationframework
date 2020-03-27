@@ -1,5 +1,0 @@
-mowing(0.173)
-walking(0.168)
-riding(0.057)
-standing(0.044)
-planting(0.023)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.194)
-laughing(0.063)
-barking(0.048)
-imitating(0.027)
-adult+male+singing(0.027)

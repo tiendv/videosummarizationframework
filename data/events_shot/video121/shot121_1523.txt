@@ -1,5 +1,0 @@
-kissing(0.300)
-hugging(0.201)
-cuddling(0.060)
-laughing(0.042)
-snuggling(0.030)

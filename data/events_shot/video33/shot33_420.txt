@@ -1,5 +1,0 @@
-riding(0.051)
-descending(0.046)
-ascending(0.036)
-sitting(0.036)
-boating(0.034)

@@ -1,5 +1,0 @@
-arresting(0.727)
-fueling(0.172)
-handcuffing(0.035)
-stealing(0.013)
-guarding(0.011)

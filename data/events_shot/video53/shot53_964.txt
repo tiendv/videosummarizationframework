@@ -1,5 +1,0 @@
-adult+male+speaking(0.069)
-stopping(0.033)
-gambling(0.030)
-queuing(0.029)
-asking(0.028)

@@ -1,5 +1,0 @@
-roaring(0.045)
-adult+male+speaking(0.039)
-adult+female+speaking(0.026)
-painting(0.024)
-pouring(0.023)

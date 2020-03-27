@@ -1,5 +1,0 @@
-adult+female+speaking(0.086)
-giving(0.055)
-asking(0.035)
-opening(0.032)
-packing(0.032)

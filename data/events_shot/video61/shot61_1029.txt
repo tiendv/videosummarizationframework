@@ -1,5 +1,0 @@
-handwriting(0.259)
-typing(0.238)
-reading(0.163)
-writing(0.144)
-teaching(0.015)

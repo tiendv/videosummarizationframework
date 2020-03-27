@@ -1,5 +1,0 @@
-shooting(0.088)
-smoking(0.081)
-pointing(0.062)
-aiming(0.042)
-drinking(0.038)

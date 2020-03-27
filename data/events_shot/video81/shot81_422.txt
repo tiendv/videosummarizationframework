@@ -1,5 +1,0 @@
-walking(0.170)
-adult+female+singing(0.095)
-stomping(0.073)
-playing+videogames(0.044)
-standing(0.031)

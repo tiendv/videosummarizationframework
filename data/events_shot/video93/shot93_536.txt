@@ -1,5 +1,0 @@
-asking(0.077)
-queuing(0.046)
-standing(0.034)
-preaching(0.022)
-walking(0.022)

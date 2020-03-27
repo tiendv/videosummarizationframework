@@ -1,5 +1,0 @@
-walking(0.087)
-adult+male+speaking(0.086)
-arresting(0.077)
-queuing(0.063)
-filming(0.041)

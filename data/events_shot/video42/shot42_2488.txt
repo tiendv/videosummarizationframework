@@ -1,5 +1,0 @@
-drinking(0.080)
-standing(0.062)
-playing+music(0.054)
-playing+videogames(0.046)
-marching(0.045)

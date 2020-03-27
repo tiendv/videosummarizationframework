@@ -1,5 +1,0 @@
-snowing(0.131)
-bubbling(0.109)
-drenching(0.053)
-raining(0.053)
-flowing(0.050)

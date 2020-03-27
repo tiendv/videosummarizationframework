@@ -1,5 +1,0 @@
-adult+male+speaking(0.142)
-talking(0.049)
-queuing(0.046)
-discussing(0.043)
-arresting(0.035)

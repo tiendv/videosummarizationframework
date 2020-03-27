@@ -1,5 +1,0 @@
-tapping(0.080)
-filming(0.079)
-telephoning(0.032)
-interviewing(0.032)
-discussing(0.030)

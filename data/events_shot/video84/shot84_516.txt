@@ -1,5 +1,0 @@
-flipping(0.081)
-reading(0.077)
-cooking(0.039)
-packaging(0.022)
-adult+male+speaking(0.021)

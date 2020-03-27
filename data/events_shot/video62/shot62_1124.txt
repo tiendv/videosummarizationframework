@@ -1,5 +1,0 @@
-reading(0.103)
-adult+male+speaking(0.082)
-sleeping(0.063)
-resting(0.052)
-cuddling(0.035)

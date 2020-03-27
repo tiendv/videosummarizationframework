@@ -1,5 +1,0 @@
-drinking(0.085)
-standing(0.022)
-stacking(0.018)
-walking(0.017)
-opening(0.015)

@@ -1,5 +1,0 @@
-mowing(0.095)
-adult+female+speaking(0.090)
-gardening(0.087)
-adult+male+speaking(0.058)
-asking(0.052)

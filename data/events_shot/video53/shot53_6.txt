@@ -1,5 +1,0 @@
-walking(0.089)
-carrying(0.032)
-knocking(0.028)
-crying(0.025)
-removing(0.023)

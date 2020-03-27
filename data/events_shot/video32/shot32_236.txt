@@ -1,5 +1,0 @@
-stomping(0.133)
-roaring(0.089)
-walking(0.077)
-standing(0.051)
-playing+videogames(0.041)

@@ -1,5 +1,0 @@
-rising(0.075)
-ascending(0.068)
-piloting(0.063)
-launching(0.039)
-stealing(0.033)

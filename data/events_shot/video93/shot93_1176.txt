@@ -1,5 +1,0 @@
-lecturing(0.098)
-studying(0.082)
-writing(0.064)
-asking(0.061)
-handwriting(0.059)

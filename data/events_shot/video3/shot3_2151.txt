@@ -1,5 +1,0 @@
-shooting(0.122)
-launching(0.078)
-attacking(0.076)
-piloting(0.072)
-rising(0.050)

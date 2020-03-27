@@ -1,5 +1,0 @@
-adult+female+speaking(0.148)
-signing(0.141)
-discussing(0.117)
-pointing(0.075)
-interviewing(0.064)

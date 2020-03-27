@@ -1,5 +1,0 @@
-bowing(0.125)
-vacuuming(0.038)
-sneezing(0.025)
-laughing(0.019)
-inflating(0.017)

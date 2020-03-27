@@ -1,5 +1,0 @@
-raining(0.255)
-camping(0.145)
-walking(0.096)
-storming(0.041)
-arresting(0.022)

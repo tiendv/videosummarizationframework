@@ -1,5 +1,0 @@
-camping(0.237)
-hiking(0.066)
-gripping(0.038)
-barbecuing(0.026)
-adult+male+speaking(0.017)

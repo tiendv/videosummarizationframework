@@ -1,5 +1,0 @@
-adult+female+speaking(0.069)
-stirring(0.045)
-sniffing(0.040)
-coughing(0.039)
-talking(0.036)

@@ -1,5 +1,0 @@
-adult+male+singing(0.582)
-child+singing(0.064)
-singing(0.063)
-queuing(0.032)
-adult+female+singing(0.028)

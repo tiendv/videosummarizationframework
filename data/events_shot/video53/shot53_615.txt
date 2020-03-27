@@ -1,5 +1,0 @@
-sneezing(0.145)
-coughing(0.057)
-slapping(0.040)
-discussing(0.037)
-talking(0.034)

@@ -1,5 +1,0 @@
-tapping(0.058)
-putting(0.037)
-gripping(0.032)
-chewing(0.025)
-unpacking(0.022)

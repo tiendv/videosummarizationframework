@@ -1,5 +1,0 @@
-adult+male+singing(0.049)
-standing(0.031)
-adult+female+singing(0.030)
-hanging(0.026)
-guarding(0.024)

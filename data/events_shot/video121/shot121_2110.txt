@@ -1,5 +1,0 @@
-running(0.333)
-jogging(0.094)
-coaching(0.064)
-sprinting(0.038)
-celebrating(0.033)

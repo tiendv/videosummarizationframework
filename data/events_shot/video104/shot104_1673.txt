@@ -1,5 +1,0 @@
-hugging(0.110)
-adult+male+speaking(0.046)
-knocking(0.043)
-punching(0.042)
-fighting(0.042)

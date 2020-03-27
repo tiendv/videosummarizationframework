@@ -1,5 +1,0 @@
-carving(0.794)
-peeling(0.049)
-slicing(0.036)
-cutting(0.020)
-clawing(0.014)

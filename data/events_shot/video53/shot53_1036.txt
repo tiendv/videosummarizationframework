@@ -1,5 +1,0 @@
-adult+female+speaking(0.303)
-chewing(0.106)
-adult+female+singing(0.049)
-brushing(0.043)
-adult+male+speaking(0.025)

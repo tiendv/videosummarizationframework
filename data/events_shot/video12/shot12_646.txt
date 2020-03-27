@@ -1,5 +1,0 @@
-coughing(0.138)
-sneezing(0.084)
-eating(0.070)
-praying(0.065)
-adult+male+speaking(0.042)

@@ -1,5 +1,0 @@
-filling(0.379)
-emptying(0.195)
-fueling(0.041)
-pouring(0.030)
-tapping(0.021)

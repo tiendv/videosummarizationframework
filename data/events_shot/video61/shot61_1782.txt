@@ -1,5 +1,0 @@
-fencing(0.507)
-jogging(0.021)
-adult+female+speaking(0.017)
-walking(0.015)
-running(0.015)

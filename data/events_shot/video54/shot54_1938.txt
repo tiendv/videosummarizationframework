@@ -1,5 +1,0 @@
-fencing(0.111)
-hanging(0.089)
-adult+male+speaking(0.043)
-swinging(0.039)
-standing(0.035)

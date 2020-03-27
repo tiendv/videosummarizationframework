@@ -1,5 +1,0 @@
-bowing(0.163)
-saluting(0.045)
-standing(0.038)
-falling(0.027)
-walking(0.024)

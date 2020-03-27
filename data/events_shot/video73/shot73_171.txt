@@ -1,5 +1,0 @@
-walking(0.149)
-carrying(0.031)
-bowing(0.025)
-adult+female+singing(0.024)
-filming(0.023)

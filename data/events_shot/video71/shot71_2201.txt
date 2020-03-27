@@ -1,5 +1,0 @@
-climbing(0.160)
-attacking(0.075)
-running(0.060)
-hunting(0.045)
-roaring(0.043)

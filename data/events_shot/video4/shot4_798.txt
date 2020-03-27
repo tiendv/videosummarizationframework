@@ -1,5 +1,0 @@
-spinning(0.584)
-poking(0.078)
-tapping(0.028)
-turning(0.016)
-gripping(0.011)

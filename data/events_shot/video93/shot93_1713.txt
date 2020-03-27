@@ -1,5 +1,0 @@
-flipping(0.125)
-handcuffing(0.096)
-cleaning(0.067)
-cooking(0.033)
-arresting(0.022)

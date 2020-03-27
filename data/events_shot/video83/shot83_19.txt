@@ -1,5 +1,0 @@
-smoking(0.110)
-adult+female+singing(0.086)
-waving(0.062)
-dancing(0.035)
-adult+female+speaking(0.021)

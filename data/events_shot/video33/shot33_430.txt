@@ -1,5 +1,0 @@
-driving(0.368)
-steering(0.088)
-riding(0.036)
-hitchhiking(0.028)
-asking(0.012)

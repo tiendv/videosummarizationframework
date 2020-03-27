@@ -1,5 +1,0 @@
-whistling(0.086)
-adult+female+speaking(0.084)
-standing(0.060)
-asking(0.041)
-signing(0.038)

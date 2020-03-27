@@ -1,5 +1,0 @@
-falling(0.043)
-walking(0.025)
-hanging(0.023)
-sneezing(0.022)
-hugging(0.021)

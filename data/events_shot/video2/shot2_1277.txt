@@ -1,5 +1,0 @@
-baking(0.278)
-cooking(0.258)
-carving(0.117)
-crafting(0.021)
-packing(0.017)

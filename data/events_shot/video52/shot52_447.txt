@@ -1,5 +1,0 @@
-driving(0.096)
-talking(0.049)
-child+singing(0.039)
-riding(0.034)
-sitting(0.033)

@@ -1,5 +1,0 @@
-drying(0.182)
-adult+female+speaking(0.044)
-sneezing(0.033)
-drinking(0.020)
-talking(0.019)

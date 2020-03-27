@@ -1,5 +1,0 @@
-crying(0.140)
-yawning(0.069)
-roaring(0.037)
-adult+male+speaking(0.035)
-adult+male+singing(0.030)

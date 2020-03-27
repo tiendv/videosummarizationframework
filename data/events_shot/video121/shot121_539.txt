@@ -1,5 +1,0 @@
-autographing(0.094)
-hugging(0.053)
-adult+female+speaking(0.041)
-giving(0.039)
-marrying(0.037)

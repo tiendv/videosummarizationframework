@@ -1,5 +1,0 @@
-steering(0.224)
-talking(0.141)
-driving(0.113)
-starting(0.097)
-towing(0.060)

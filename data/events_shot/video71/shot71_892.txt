@@ -1,5 +1,0 @@
-drinking(0.172)
-dining(0.060)
-marrying(0.047)
-slapping(0.040)
-adult+female+speaking(0.038)

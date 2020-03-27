@@ -1,5 +1,0 @@
-cleaning(0.081)
-mopping(0.047)
-hugging(0.042)
-dusting(0.023)
-leaning(0.023)

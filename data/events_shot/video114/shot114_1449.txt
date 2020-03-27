@@ -1,5 +1,0 @@
-hugging(0.164)
-adult+male+speaking(0.039)
-dressing(0.034)
-snuggling(0.028)
-drawing(0.024)

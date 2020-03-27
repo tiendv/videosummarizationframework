@@ -1,5 +1,0 @@
-squatting(0.025)
-kneeling(0.022)
-putting(0.022)
-mopping(0.021)
-cleaning(0.021)

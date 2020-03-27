@@ -1,5 +1,0 @@
-stealing(0.049)
-blocking(0.042)
-walking(0.037)
-driving(0.032)
-raining(0.029)

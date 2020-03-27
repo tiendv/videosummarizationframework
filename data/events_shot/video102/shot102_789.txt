@@ -1,5 +1,0 @@
-stretching(0.095)
-starting(0.048)
-adult+female+singing(0.047)
-adult+male+singing(0.037)
-sitting(0.033)

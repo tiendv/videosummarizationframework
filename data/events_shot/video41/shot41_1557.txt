@@ -1,5 +1,0 @@
-shouting(0.062)
-adult+male+singing(0.053)
-yawning(0.051)
-laughing(0.036)
-filming(0.026)

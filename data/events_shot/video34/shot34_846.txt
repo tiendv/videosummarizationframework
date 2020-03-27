@@ -1,5 +1,0 @@
-combing(0.134)
-vacuuming(0.131)
-spinning(0.098)
-drying(0.075)
-brushing(0.052)

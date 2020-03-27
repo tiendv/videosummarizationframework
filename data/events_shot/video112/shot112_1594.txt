@@ -1,5 +1,0 @@
-waving(0.110)
-standing(0.057)
-adult+female+singing(0.038)
-dressing(0.037)
-blowing(0.031)

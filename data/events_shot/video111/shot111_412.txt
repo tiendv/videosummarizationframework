@@ -1,5 +1,0 @@
-running(0.115)
-fighting(0.056)
-throwing(0.042)
-leaping(0.031)
-flipping(0.028)

@@ -1,5 +1,0 @@
-walking(0.244)
-adult+male+speaking(0.066)
-preaching(0.050)
-spraying(0.044)
-standing(0.043)

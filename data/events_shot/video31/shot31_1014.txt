@@ -1,5 +1,0 @@
-sniffing(0.062)
-smelling(0.057)
-adult+male+speaking(0.051)
-giving(0.051)
-asking(0.039)

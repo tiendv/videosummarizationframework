@@ -1,5 +1,0 @@
-standing(0.034)
-squatting(0.026)
-adult+male+speaking(0.024)
-queuing(0.022)
-guarding(0.019)

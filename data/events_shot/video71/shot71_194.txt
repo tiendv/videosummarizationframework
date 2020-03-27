@@ -1,5 +1,0 @@
-walking(0.094)
-pushing(0.080)
-handcuffing(0.062)
-adult+male+speaking(0.052)
-cracking(0.049)

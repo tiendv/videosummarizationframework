@@ -1,5 +1,0 @@
-fencing(0.180)
-walking(0.066)
-stealing(0.037)
-exiting(0.026)
-cleaning(0.021)

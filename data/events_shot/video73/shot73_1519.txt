@@ -1,5 +1,0 @@
-dining(0.033)
-painting(0.027)
-discussing(0.025)
-stealing(0.025)
-playing+videogames(0.023)

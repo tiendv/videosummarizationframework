@@ -1,5 +1,0 @@
-arresting(0.076)
-driving(0.057)
-filming(0.044)
-steering(0.036)
-exiting(0.027)

@@ -1,5 +1,0 @@
-balancing(0.050)
-walking(0.042)
-stealing(0.037)
-skating(0.035)
-sprinting(0.031)

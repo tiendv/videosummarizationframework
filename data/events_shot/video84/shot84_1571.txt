@@ -1,5 +1,0 @@
-slapping(0.089)
-laughing(0.050)
-hugging(0.050)
-adult+male+speaking(0.032)
-walking(0.031)

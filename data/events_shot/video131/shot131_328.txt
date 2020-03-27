@@ -1,5 +1,0 @@
-tapping(0.138)
-tearing(0.127)
-scratching(0.040)
-shredding(0.040)
-wrapping(0.034)

@@ -1,5 +1,0 @@
-riding(0.070)
-walking(0.069)
-standing(0.040)
-driving(0.039)
-kissing(0.030)

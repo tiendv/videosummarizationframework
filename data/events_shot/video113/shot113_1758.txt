@@ -1,5 +1,0 @@
-eating(0.219)
-dining(0.177)
-drinking(0.115)
-discussing(0.054)
-chewing(0.048)

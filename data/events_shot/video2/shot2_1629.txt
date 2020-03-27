@@ -1,5 +1,0 @@
-filming(0.123)
-walking(0.042)
-photographing(0.034)
-pointing(0.030)
-knocking(0.028)

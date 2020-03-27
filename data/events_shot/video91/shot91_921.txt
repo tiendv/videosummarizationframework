@@ -1,5 +1,0 @@
-shopping(0.296)
-selling(0.144)
-buying(0.065)
-paying(0.040)
-talking(0.034)

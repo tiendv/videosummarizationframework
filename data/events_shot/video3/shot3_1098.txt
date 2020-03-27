@@ -1,5 +1,0 @@
-aiming(0.355)
-pointing(0.066)
-shooting(0.037)
-gripping(0.029)
-adult+male+speaking(0.022)

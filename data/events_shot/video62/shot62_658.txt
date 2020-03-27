@@ -1,5 +1,0 @@
-sneezing(0.190)
-crawling(0.104)
-coughing(0.070)
-shaking(0.048)
-chewing(0.035)

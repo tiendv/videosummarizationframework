@@ -1,5 +1,0 @@
-stealing(0.077)
-walking(0.057)
-running(0.056)
-jogging(0.038)
-adult+male+speaking(0.034)

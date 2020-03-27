@@ -1,5 +1,0 @@
-asking(0.043)
-adult+male+speaking(0.041)
-adult+female+speaking(0.029)
-raining(0.024)
-coughing(0.024)

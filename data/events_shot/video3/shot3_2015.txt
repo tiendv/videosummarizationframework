@@ -1,5 +1,0 @@
-coughing(0.070)
-adult+male+speaking(0.048)
-adult+female+speaking(0.038)
-rocking(0.033)
-spitting(0.029)

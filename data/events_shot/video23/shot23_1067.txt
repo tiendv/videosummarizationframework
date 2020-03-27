@@ -1,5 +1,0 @@
-aiming(0.029)
-cooking(0.026)
-sleeping(0.021)
-playing+videogames(0.019)
-resting(0.017)

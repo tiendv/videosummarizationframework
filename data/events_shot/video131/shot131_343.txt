@@ -1,5 +1,0 @@
-drying(0.150)
-baking(0.048)
-putting(0.041)
-cooking(0.033)
-placing(0.021)

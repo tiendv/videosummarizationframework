@@ -1,5 +1,0 @@
-stacking(0.075)
-inflating(0.050)
-flipping(0.040)
-pushing(0.025)
-cleaning(0.024)

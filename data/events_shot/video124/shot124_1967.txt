@@ -1,5 +1,0 @@
-pouring(0.152)
-stacking(0.055)
-painting(0.040)
-sliding(0.028)
-filling(0.027)

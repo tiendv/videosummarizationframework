@@ -1,5 +1,0 @@
-pointing(0.100)
-boating(0.080)
-guarding(0.038)
-arresting(0.029)
-driving(0.025)

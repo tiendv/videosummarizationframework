@@ -1,5 +1,0 @@
-painting(0.337)
-crafting(0.144)
-bouncing(0.044)
-dropping(0.021)
-flipping(0.018)

@@ -1,5 +1,0 @@
-drinking(0.818)
-adult+male+speaking(0.013)
-kissing(0.011)
-adult+male+singing(0.011)
-smoking(0.006)

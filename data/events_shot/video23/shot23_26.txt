@@ -1,5 +1,0 @@
-lecturing(0.264)
-handwriting(0.077)
-reading(0.061)
-adult+male+speaking(0.035)
-writing(0.028)

@@ -1,5 +1,0 @@
-roaring(0.108)
-sitting(0.042)
-adult+male+speaking(0.029)
-flying(0.026)
-hanging(0.026)

@@ -1,5 +1,0 @@
-packing(0.658)
-unpacking(0.285)
-packaging(0.009)
-wrapping(0.004)
-folding(0.003)

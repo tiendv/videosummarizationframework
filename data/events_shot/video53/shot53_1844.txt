@@ -1,5 +1,0 @@
-bathing(0.095)
-adult+female+singing(0.077)
-baptizing(0.047)
-officiating(0.027)
-standing(0.022)

@@ -1,5 +1,0 @@
-baking(0.334)
-cooking(0.196)
-stirring(0.036)
-sneezing(0.020)
-coughing(0.014)

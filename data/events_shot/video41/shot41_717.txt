@@ -1,5 +1,0 @@
-stirring(0.162)
-cooking(0.116)
-frying(0.066)
-drinking(0.041)
-playing+videogames(0.031)

@@ -1,5 +1,0 @@
-hugging(0.058)
-walking(0.048)
-punching(0.044)
-sneezing(0.042)
-laughing(0.035)

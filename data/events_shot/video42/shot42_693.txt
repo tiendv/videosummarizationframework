@@ -1,5 +1,0 @@
-dining(0.224)
-giving(0.132)
-marrying(0.052)
-drinking(0.047)
-eating(0.032)

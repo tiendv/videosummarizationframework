@@ -1,5 +1,0 @@
-winking(0.155)
-marrying(0.085)
-frowning(0.079)
-smiling(0.052)
-licking(0.031)

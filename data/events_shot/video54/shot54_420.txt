@@ -1,5 +1,0 @@
-painting(0.132)
-carving(0.051)
-tattooing(0.048)
-repairing(0.046)
-working(0.043)

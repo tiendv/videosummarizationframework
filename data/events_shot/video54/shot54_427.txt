@@ -1,5 +1,0 @@
-eating(0.103)
-cooking(0.072)
-adult+female+speaking(0.055)
-painting(0.040)
-sitting(0.038)

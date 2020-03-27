@@ -1,5 +1,0 @@
-diving(0.061)
-boating(0.054)
-fishing(0.036)
-adult+male+speaking(0.032)
-guarding(0.026)

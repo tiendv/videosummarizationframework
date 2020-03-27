@@ -1,5 +1,0 @@
-driving(0.132)
-hitchhiking(0.115)
-steering(0.061)
-washing(0.051)
-stealing(0.035)

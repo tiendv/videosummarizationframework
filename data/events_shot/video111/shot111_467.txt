@@ -1,5 +1,0 @@
-washing(0.206)
-drying(0.079)
-rinsing(0.077)
-cleaning(0.040)
-aiming(0.021)

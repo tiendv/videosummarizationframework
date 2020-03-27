@@ -1,5 +1,0 @@
-frowning(0.113)
-shrugging(0.058)
-coughing(0.057)
-sneezing(0.056)
-slapping(0.048)

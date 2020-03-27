@@ -1,5 +1,0 @@
-walking(0.082)
-adult+male+speaking(0.070)
-running(0.049)
-rowing(0.024)
-squinting(0.023)

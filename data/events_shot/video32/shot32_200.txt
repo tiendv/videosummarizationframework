@@ -1,5 +1,0 @@
-welding(0.040)
-launching(0.035)
-standing(0.032)
-talking(0.028)
-hanging(0.021)

@@ -1,5 +1,0 @@
-flicking(0.050)
-flipping(0.045)
-adult+female+singing(0.043)
-throwing(0.042)
-hugging(0.036)

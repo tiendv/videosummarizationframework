@@ -1,5 +1,0 @@
-adult+female+singing(0.304)
-adult+female+speaking(0.102)
-kissing(0.032)
-slapping(0.026)
-roaring(0.016)

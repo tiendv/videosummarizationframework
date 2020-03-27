@@ -1,5 +1,0 @@
-tickling(0.152)
-laughing(0.146)
-adult+female+speaking(0.111)
-sneezing(0.060)
-adult+female+singing(0.022)

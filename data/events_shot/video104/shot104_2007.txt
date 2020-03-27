@@ -1,5 +1,0 @@
-coughing(0.097)
-blowing(0.093)
-peeling(0.069)
-inflating(0.064)
-chewing(0.058)

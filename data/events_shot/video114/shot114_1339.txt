@@ -1,5 +1,0 @@
-baking(0.191)
-cooking(0.140)
-standing(0.022)
-walking(0.021)
-adult+female+speaking(0.021)

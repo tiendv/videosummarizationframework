@@ -1,5 +1,0 @@
-drying(0.071)
-removing(0.044)
-cleaning(0.036)
-washing(0.025)
-knocking(0.024)

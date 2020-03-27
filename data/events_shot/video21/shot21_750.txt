@@ -1,5 +1,0 @@
-packing(0.280)
-unpacking(0.102)
-adult+female+speaking(0.037)
-tattooing(0.032)
-sitting(0.027)

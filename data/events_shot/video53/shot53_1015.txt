@@ -1,5 +1,0 @@
-laughing(0.080)
-howling(0.054)
-vacuuming(0.033)
-child+speaking(0.023)
-barking(0.019)

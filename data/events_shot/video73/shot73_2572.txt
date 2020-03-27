@@ -1,5 +1,0 @@
-walking(0.107)
-adult+male+speaking(0.097)
-pushing(0.047)
-standing(0.043)
-pointing(0.026)

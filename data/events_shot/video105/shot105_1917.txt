@@ -1,5 +1,0 @@
-smoking(0.091)
-sitting(0.057)
-sleeping(0.047)
-adult+male+speaking(0.040)
-interviewing(0.035)

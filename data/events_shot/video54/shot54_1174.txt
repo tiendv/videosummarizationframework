@@ -1,5 +1,0 @@
-cooking(0.101)
-baking(0.076)
-fighting(0.041)
-standing(0.022)
-playing+videogames(0.019)

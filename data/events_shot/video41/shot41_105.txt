@@ -1,5 +1,0 @@
-walking(0.158)
-adult+male+speaking(0.060)
-standing(0.045)
-preaching(0.035)
-turning(0.024)

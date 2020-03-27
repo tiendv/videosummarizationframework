@@ -1,5 +1,0 @@
-shrugging(0.123)
-standing(0.050)
-adult+female+speaking(0.041)
-walking(0.036)
-dressing(0.022)

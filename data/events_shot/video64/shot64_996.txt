@@ -1,5 +1,0 @@
-hitchhiking(0.180)
-walking(0.097)
-pointing(0.036)
-adult+male+speaking(0.036)
-driving(0.023)

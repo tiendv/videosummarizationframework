@@ -1,5 +1,0 @@
-baking(0.182)
-cooking(0.097)
-standing(0.047)
-stirring(0.047)
-dressing(0.035)

@@ -1,5 +1,0 @@
-spinning(0.104)
-stacking(0.080)
-adult+male+singing(0.048)
-starting(0.021)
-playing(0.021)

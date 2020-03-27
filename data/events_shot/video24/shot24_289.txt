@@ -1,5 +1,0 @@
-sneezing(0.304)
-coughing(0.098)
-eating(0.084)
-crying(0.079)
-adult+male+singing(0.065)

@@ -1,5 +1,0 @@
-sleeping(0.100)
-kissing(0.077)
-yawning(0.056)
-licking(0.056)
-bowing(0.047)

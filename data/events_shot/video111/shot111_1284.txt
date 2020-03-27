@@ -1,5 +1,0 @@
-running(0.229)
-walking(0.112)
-shopping(0.080)
-jogging(0.032)
-stealing(0.028)

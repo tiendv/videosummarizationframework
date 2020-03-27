@@ -1,5 +1,0 @@
-raining(0.087)
-falling(0.040)
-carrying(0.038)
-crying(0.037)
-shooting(0.032)

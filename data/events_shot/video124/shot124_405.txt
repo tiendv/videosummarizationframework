@@ -1,5 +1,0 @@
-tapping(0.188)
-interviewing(0.065)
-adult+male+speaking(0.055)
-discussing(0.043)
-filming(0.039)

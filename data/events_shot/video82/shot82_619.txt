@@ -1,5 +1,0 @@
-walking(0.066)
-giving(0.056)
-adult+male+speaking(0.040)
-standing(0.036)
-stealing(0.028)

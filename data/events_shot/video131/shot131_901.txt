@@ -1,5 +1,0 @@
-parading(0.067)
-standing(0.062)
-saluting(0.047)
-attacking(0.041)
-rocking(0.026)

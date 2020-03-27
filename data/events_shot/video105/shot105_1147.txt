@@ -1,5 +1,0 @@
-bowing(0.119)
-sleeping(0.099)
-waking(0.082)
-crying(0.068)
-praying(0.067)

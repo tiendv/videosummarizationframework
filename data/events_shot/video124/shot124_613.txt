@@ -1,5 +1,0 @@
-slapping(0.075)
-frowning(0.055)
-shrugging(0.051)
-discussing(0.040)
-spitting(0.031)

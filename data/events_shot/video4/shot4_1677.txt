@@ -1,5 +1,0 @@
-drinking(0.080)
-adult+male+speaking(0.052)
-playing+videogames(0.052)
-tattooing(0.026)
-handcuffing(0.024)

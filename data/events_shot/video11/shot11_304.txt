@@ -1,5 +1,0 @@
-hugging(0.117)
-entering(0.080)
-exiting(0.066)
-walking(0.037)
-knocking(0.030)

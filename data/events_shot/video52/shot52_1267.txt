@@ -1,5 +1,0 @@
-falling(0.036)
-fighting(0.033)
-attacking(0.025)
-tickling(0.023)
-waking(0.018)

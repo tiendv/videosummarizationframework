@@ -1,5 +1,0 @@
-smoking(0.052)
-chewing(0.048)
-tapping(0.025)
-raining(0.022)
-adult+male+speaking(0.020)

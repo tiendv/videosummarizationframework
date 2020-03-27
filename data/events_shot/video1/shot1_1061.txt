@@ -1,5 +1,0 @@
-building(0.137)
-stacking(0.102)
-assembling(0.088)
-crafting(0.050)
-working(0.048)

@@ -1,5 +1,0 @@
-chewing(0.043)
-smelling(0.041)
-sniffing(0.036)
-gripping(0.036)
-putting(0.032)

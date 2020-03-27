@@ -1,5 +1,0 @@
-child+speaking(0.104)
-standing(0.026)
-sitting(0.025)
-talking(0.021)
-stealing(0.019)

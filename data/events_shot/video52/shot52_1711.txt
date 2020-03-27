@@ -1,5 +1,0 @@
-arresting(0.189)
-hitchhiking(0.160)
-stealing(0.055)
-towing(0.036)
-asking(0.032)

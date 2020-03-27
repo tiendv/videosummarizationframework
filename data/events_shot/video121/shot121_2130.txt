@@ -1,5 +1,0 @@
-walking(0.087)
-carrying(0.042)
-camping(0.034)
-bowing(0.026)
-running(0.022)

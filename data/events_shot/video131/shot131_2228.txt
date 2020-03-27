@@ -1,5 +1,0 @@
-filming(0.158)
-standing(0.035)
-walking(0.031)
-knocking(0.030)
-talking(0.028)

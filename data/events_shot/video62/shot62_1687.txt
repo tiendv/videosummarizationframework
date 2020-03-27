@@ -1,5 +1,0 @@
-cooking(0.069)
-dressing(0.026)
-baking(0.025)
-opening(0.025)
-packing(0.023)

@@ -1,5 +1,0 @@
-walking(0.052)
-laughing(0.039)
-running(0.025)
-bicycling(0.024)
-shopping(0.021)

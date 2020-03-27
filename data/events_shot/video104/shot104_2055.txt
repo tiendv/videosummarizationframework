@@ -1,5 +1,0 @@
-sitting(0.150)
-talking(0.078)
-shrugging(0.053)
-standing(0.042)
-discussing(0.041)

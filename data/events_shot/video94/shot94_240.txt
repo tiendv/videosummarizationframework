@@ -1,5 +1,0 @@
-pointing(0.077)
-signing(0.056)
-adult+female+speaking(0.045)
-talking(0.032)
-smiling(0.031)

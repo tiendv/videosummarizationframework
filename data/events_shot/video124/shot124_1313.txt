@@ -1,5 +1,0 @@
-drinking(0.051)
-adult+male+speaking(0.041)
-standing(0.036)
-shrugging(0.028)
-smelling(0.026)

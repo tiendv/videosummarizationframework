@@ -1,5 +1,0 @@
-aiming(0.271)
-kneeling(0.061)
-gambling(0.044)
-sitting(0.030)
-rolling(0.025)

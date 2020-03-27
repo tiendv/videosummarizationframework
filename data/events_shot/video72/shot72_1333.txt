@@ -1,5 +1,0 @@
-fencing(0.543)
-walking(0.038)
-standing(0.023)
-sitting(0.018)
-boxing(0.014)

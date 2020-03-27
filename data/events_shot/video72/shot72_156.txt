@@ -1,5 +1,0 @@
-spitting(0.080)
-hugging(0.060)
-smiling(0.045)
-crying(0.034)
-slapping(0.034)

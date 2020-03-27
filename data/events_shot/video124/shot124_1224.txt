@@ -1,5 +1,0 @@
-waking(0.129)
-cuddling(0.043)
-attacking(0.043)
-sleeping(0.040)
-fighting(0.029)

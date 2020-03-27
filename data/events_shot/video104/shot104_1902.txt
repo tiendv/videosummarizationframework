@@ -1,5 +1,0 @@
-adult+male+speaking(0.042)
-smiling(0.041)
-starting(0.039)
-adult+male+singing(0.031)
-coaching(0.031)

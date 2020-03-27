@@ -1,5 +1,0 @@
-roaring(0.500)
-eating(0.025)
-storming(0.022)
-writing(0.022)
-pouring(0.021)

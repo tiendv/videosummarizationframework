@@ -1,5 +1,0 @@
-adult+female+speaking(0.101)
-dressing(0.087)
-adult+female+singing(0.041)
-tying(0.037)
-putting(0.032)

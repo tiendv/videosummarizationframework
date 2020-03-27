@@ -1,5 +1,0 @@
-adult+male+speaking(0.089)
-adult+female+speaking(0.068)
-discussing(0.068)
-interviewing(0.056)
-coaching(0.041)

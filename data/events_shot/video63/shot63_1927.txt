@@ -1,5 +1,0 @@
-winking(0.210)
-smiling(0.200)
-shrugging(0.112)
-filming(0.044)
-pointing(0.043)

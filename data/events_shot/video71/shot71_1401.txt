@@ -1,5 +1,0 @@
-sleeping(0.122)
-waking(0.067)
-massaging(0.048)
-resting(0.047)
-drawing(0.036)

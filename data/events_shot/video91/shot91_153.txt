@@ -1,5 +1,0 @@
-brushing(0.310)
-tapping(0.061)
-rubbing(0.059)
-combing(0.053)
-adult+female+speaking(0.034)

@@ -1,5 +1,0 @@
-stomping(0.084)
-standing(0.056)
-performing(0.046)
-roaring(0.042)
-adult+male+singing(0.042)

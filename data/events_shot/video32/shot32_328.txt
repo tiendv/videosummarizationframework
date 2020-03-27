@@ -1,5 +1,0 @@
-adult+female+singing(0.525)
-adult+male+singing(0.080)
-performing(0.035)
-standing(0.030)
-singing(0.026)

@@ -1,5 +1,0 @@
-walking(0.487)
-pushing(0.040)
-exiting(0.026)
-shrugging(0.022)
-standing(0.017)

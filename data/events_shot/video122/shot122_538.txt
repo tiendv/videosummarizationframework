@@ -1,5 +1,0 @@
-turning(0.049)
-crying(0.034)
-frowning(0.033)
-knocking(0.025)
-scratching(0.020)

@@ -1,5 +1,0 @@
-shaving(0.161)
-drying(0.061)
-rinsing(0.053)
-washing(0.049)
-cleaning(0.033)

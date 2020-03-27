@@ -1,5 +1,0 @@
-vacuuming(0.082)
-sowing(0.048)
-cleaning(0.043)
-dusting(0.037)
-weeding(0.028)

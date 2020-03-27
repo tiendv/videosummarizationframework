@@ -1,5 +1,0 @@
-crying(0.379)
-frowning(0.043)
-massaging(0.037)
-child+speaking(0.037)
-adult+female+speaking(0.035)

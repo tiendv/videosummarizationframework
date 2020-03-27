@@ -1,5 +1,0 @@
-drinking(0.090)
-blowing(0.078)
-inflating(0.051)
-discussing(0.042)
-adult+female+speaking(0.040)

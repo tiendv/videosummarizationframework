@@ -1,5 +1,0 @@
-drinking(0.319)
-eating(0.032)
-opening(0.020)
-stacking(0.019)
-reading(0.019)

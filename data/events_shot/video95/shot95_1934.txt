@@ -1,5 +1,0 @@
-drawing(0.056)
-jumping(0.045)
-running(0.044)
-tapping(0.033)
-bathing(0.028)

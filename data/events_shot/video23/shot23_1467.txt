@@ -1,5 +1,0 @@
-adult+male+speaking(0.146)
-coughing(0.033)
-discussing(0.031)
-interviewing(0.030)
-asking(0.030)

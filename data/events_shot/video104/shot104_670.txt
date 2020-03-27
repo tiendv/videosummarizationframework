@@ -1,5 +1,0 @@
-tapping(0.092)
-crying(0.084)
-smiling(0.050)
-adult+female+speaking(0.048)
-frowning(0.038)

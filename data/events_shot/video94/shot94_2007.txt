@@ -1,5 +1,0 @@
-hanging(0.033)
-drying(0.029)
-massaging(0.018)
-cleaning(0.018)
-putting(0.015)

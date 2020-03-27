@@ -1,5 +1,0 @@
-crying(0.204)
-walking(0.056)
-frowning(0.037)
-talking(0.032)
-opening(0.029)

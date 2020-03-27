@@ -1,5 +1,0 @@
-roaring(0.081)
-drumming(0.069)
-adult+female+singing(0.066)
-singing(0.045)
-playing+music(0.042)

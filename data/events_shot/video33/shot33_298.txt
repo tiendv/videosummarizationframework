@@ -1,5 +1,0 @@
-attacking(0.049)
-standing(0.047)
-handcuffing(0.043)
-hunting(0.042)
-fighting(0.035)

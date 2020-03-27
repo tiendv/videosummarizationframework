@@ -1,5 +1,0 @@
-crying(0.147)
-laughing(0.038)
-sneezing(0.037)
-coughing(0.033)
-waking(0.030)

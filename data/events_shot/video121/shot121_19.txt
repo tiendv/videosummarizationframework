@@ -1,5 +1,0 @@
-packing(0.333)
-unpacking(0.257)
-sleeping(0.033)
-waking(0.032)
-inflating(0.023)

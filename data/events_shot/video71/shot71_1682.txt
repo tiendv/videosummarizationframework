@@ -1,5 +1,0 @@
-locking(0.058)
-knocking(0.047)
-handcuffing(0.043)
-arresting(0.039)
-adult+male+speaking(0.037)

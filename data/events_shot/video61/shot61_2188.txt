@@ -1,5 +1,0 @@
-aiming(0.164)
-frowning(0.095)
-squinting(0.054)
-winking(0.031)
-playing+videogames(0.030)

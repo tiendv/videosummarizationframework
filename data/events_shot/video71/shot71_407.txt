@@ -1,5 +1,0 @@
-adult+female+speaking(0.040)
-dining(0.038)
-standing(0.034)
-shopping(0.031)
-dancing(0.028)

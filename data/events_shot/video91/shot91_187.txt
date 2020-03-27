@@ -1,5 +1,0 @@
-adult+male+speaking(0.085)
-fishing(0.071)
-cooking(0.070)
-walking(0.048)
-hiking(0.048)

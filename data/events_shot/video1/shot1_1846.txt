@@ -1,5 +1,0 @@
-inflating(0.119)
-vacuuming(0.050)
-calling(0.038)
-walking(0.035)
-dressing(0.034)

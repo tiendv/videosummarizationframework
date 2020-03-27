@@ -1,5 +1,0 @@
-walking(0.110)
-locking(0.083)
-knocking(0.058)
-filming(0.042)
-talking(0.038)

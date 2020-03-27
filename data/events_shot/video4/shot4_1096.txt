@@ -1,5 +1,0 @@
-shopping(0.193)
-dressing(0.114)
-picking(0.088)
-buying(0.065)
-tying(0.046)

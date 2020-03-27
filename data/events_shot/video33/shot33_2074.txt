@@ -1,5 +1,0 @@
-smiling(0.148)
-winking(0.093)
-shrugging(0.067)
-adult+female+speaking(0.037)
-talking(0.034)

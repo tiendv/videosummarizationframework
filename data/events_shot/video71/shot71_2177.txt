@@ -1,5 +1,0 @@
-crying(0.111)
-smoking(0.109)
-frowning(0.083)
-squinting(0.032)
-pointing(0.031)

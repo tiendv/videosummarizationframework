@@ -1,5 +1,0 @@
-walking(0.035)
-building(0.028)
-exiting(0.024)
-entering(0.019)
-loading(0.019)

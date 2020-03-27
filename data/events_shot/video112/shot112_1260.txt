@@ -1,5 +1,0 @@
-adult+male+speaking(0.117)
-pointing(0.085)
-coaching(0.075)
-knocking(0.056)
-asking(0.033)

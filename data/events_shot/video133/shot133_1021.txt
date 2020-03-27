@@ -1,5 +1,0 @@
-hanging(0.575)
-walking(0.055)
-building(0.054)
-flying(0.025)
-standing(0.021)

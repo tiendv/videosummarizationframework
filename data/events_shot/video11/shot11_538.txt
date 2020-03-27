@@ -1,5 +1,0 @@
-arresting(0.127)
-hugging(0.096)
-smiling(0.055)
-asking(0.032)
-standing(0.028)

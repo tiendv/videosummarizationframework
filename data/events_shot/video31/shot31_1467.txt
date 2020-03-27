@@ -1,5 +1,0 @@
-tapping(0.117)
-gripping(0.087)
-rubbing(0.041)
-putting(0.040)
-scratching(0.035)

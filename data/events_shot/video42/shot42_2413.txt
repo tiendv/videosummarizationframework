@@ -1,5 +1,0 @@
-handcuffing(0.162)
-cracking(0.098)
-chewing(0.042)
-arresting(0.026)
-adult+male+speaking(0.023)

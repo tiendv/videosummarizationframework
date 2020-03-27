@@ -1,5 +1,0 @@
-queuing(0.052)
-filming(0.051)
-walking(0.031)
-adult+female+speaking(0.031)
-sneezing(0.029)

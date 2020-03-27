@@ -1,5 +1,0 @@
-camping(0.290)
-driving(0.060)
-steering(0.043)
-discussing(0.032)
-starting(0.022)

@@ -1,5 +1,0 @@
-sneezing(0.139)
-laughing(0.101)
-child+speaking(0.058)
-stealing(0.045)
-sniffing(0.033)

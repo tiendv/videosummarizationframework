@@ -1,5 +1,0 @@
-storming(0.864)
-raining(0.064)
-flooding(0.030)
-pointing(0.003)
-drenching(0.003)

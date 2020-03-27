@@ -1,5 +1,0 @@
-swinging(0.674)
-hanging(0.223)
-adult+female+singing(0.010)
-rocking(0.008)
-shaking(0.003)

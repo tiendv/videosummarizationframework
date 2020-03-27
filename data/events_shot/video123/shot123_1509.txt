@@ -1,5 +1,0 @@
-adult+male+speaking(0.091)
-standing(0.040)
-adult+male+singing(0.038)
-hammering(0.035)
-rising(0.026)

@@ -1,5 +1,0 @@
-spinning(0.054)
-walking(0.026)
-turning(0.024)
-opening(0.024)
-dining(0.023)

@@ -1,5 +1,0 @@
-cooking(0.176)
-baking(0.062)
-stirring(0.033)
-painting(0.033)
-competing(0.032)

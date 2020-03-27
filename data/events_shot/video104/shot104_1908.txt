@@ -1,5 +1,0 @@
-crying(0.475)
-raining(0.054)
-frowning(0.041)
-falling(0.015)
-sneezing(0.014)

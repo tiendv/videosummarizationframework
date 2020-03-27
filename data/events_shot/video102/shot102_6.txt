@@ -1,5 +1,0 @@
-burying(0.307)
-digging(0.115)
-gardening(0.077)
-weeding(0.044)
-planting(0.044)

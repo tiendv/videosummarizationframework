@@ -1,5 +1,0 @@
-driving(0.370)
-steering(0.330)
-riding(0.087)
-raining(0.027)
-snowing(0.017)

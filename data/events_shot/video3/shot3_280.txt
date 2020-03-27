@@ -1,5 +1,0 @@
-arresting(0.068)
-closing(0.067)
-opening(0.058)
-walking(0.042)
-handcuffing(0.038)

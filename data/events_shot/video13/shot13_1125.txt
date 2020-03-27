@@ -1,5 +1,0 @@
-running(0.641)
-sprinting(0.130)
-jogging(0.045)
-spinning(0.020)
-walking(0.019)

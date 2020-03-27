@@ -1,5 +1,0 @@
-coaching(0.044)
-walking(0.042)
-standing(0.040)
-adult+male+singing(0.036)
-giving(0.035)

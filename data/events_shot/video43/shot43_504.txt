@@ -1,5 +1,0 @@
-riding(0.042)
-walking(0.039)
-driving(0.030)
-flying(0.026)
-hunting(0.025)

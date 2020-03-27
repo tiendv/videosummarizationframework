@@ -1,5 +1,0 @@
-drawing(0.126)
-painting(0.108)
-brushing(0.101)
-tattooing(0.028)
-sketching(0.022)

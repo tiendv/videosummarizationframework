@@ -1,5 +1,0 @@
-adult+female+speaking(0.133)
-adult+female+singing(0.056)
-slapping(0.046)
-child+speaking(0.036)
-cracking(0.030)

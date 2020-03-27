@@ -1,5 +1,0 @@
-bouncing(0.052)
-falling(0.044)
-walking(0.033)
-jumping(0.033)
-running(0.026)

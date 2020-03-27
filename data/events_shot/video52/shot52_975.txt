@@ -1,5 +1,0 @@
-skating(0.113)
-walking(0.073)
-aiming(0.053)
-building(0.050)
-unloading(0.040)

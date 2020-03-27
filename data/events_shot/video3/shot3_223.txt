@@ -1,5 +1,0 @@
-asking(0.140)
-laughing(0.086)
-adult+male+speaking(0.040)
-sneezing(0.030)
-spitting(0.029)

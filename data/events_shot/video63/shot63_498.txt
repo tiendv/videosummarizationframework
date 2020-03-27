@@ -1,5 +1,0 @@
-fighting(0.150)
-punching(0.044)
-wrestling(0.040)
-crying(0.034)
-blocking(0.033)

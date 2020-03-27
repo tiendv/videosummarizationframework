@@ -1,5 +1,0 @@
-twisting(0.056)
-rocking(0.041)
-bouncing(0.019)
-snapping(0.018)
-spinning(0.017)

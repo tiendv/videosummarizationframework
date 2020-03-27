@@ -1,5 +1,0 @@
-arresting(0.548)
-guarding(0.155)
-handcuffing(0.050)
-saluting(0.028)
-filming(0.020)

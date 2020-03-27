@@ -1,5 +1,0 @@
-painting(0.038)
-sleeping(0.036)
-waking(0.032)
-frowning(0.030)
-brushing(0.029)

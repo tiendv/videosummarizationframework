@@ -1,5 +1,0 @@
-rinsing(0.055)
-cooking(0.053)
-washing(0.033)
-pouring(0.032)
-adult+male+speaking(0.024)

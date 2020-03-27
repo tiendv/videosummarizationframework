@@ -1,5 +1,0 @@
-drinking(0.047)
-talking(0.039)
-eating(0.038)
-laughing(0.036)
-discussing(0.032)

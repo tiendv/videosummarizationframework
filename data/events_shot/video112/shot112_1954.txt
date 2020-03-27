@@ -1,5 +1,0 @@
-boxing(0.068)
-asking(0.067)
-adult+male+speaking(0.042)
-punching(0.041)
-bowling(0.039)

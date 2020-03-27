@@ -1,5 +1,0 @@
-drying(0.070)
-unloading(0.030)
-cleaning(0.024)
-sliding(0.024)
-building(0.024)

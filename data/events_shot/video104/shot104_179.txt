@@ -1,5 +1,0 @@
-dining(0.090)
-queuing(0.088)
-drinking(0.038)
-baptizing(0.036)
-hugging(0.033)

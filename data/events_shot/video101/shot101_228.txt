@@ -1,5 +1,0 @@
-adult+male+speaking(0.122)
-slapping(0.118)
-arresting(0.051)
-asking(0.033)
-blocking(0.033)

@@ -1,5 +1,0 @@
-driving(0.067)
-raining(0.056)
-playing+videogames(0.047)
-talking(0.030)
-turning(0.027)

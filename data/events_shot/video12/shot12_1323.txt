@@ -1,5 +1,0 @@
-hugging(0.145)
-walking(0.068)
-adult+male+speaking(0.059)
-coaching(0.037)
-smiling(0.033)

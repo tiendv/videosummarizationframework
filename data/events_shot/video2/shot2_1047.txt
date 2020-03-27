@@ -1,5 +1,0 @@
-drinking(0.060)
-sneezing(0.048)
-laughing(0.042)
-punching(0.041)
-playing+videogames(0.040)

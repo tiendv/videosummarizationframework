@@ -1,5 +1,0 @@
-bouncing(0.120)
-adult+female+singing(0.090)
-dancing(0.046)
-plunging(0.024)
-performing(0.024)

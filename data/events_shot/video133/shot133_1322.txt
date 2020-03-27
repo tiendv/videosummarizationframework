@@ -1,5 +1,0 @@
-walking(0.126)
-locking(0.050)
-opening(0.047)
-telephoning(0.045)
-knocking(0.039)

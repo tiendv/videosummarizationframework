@@ -1,5 +1,0 @@
-bicycling(0.100)
-walking(0.060)
-adult+male+speaking(0.044)
-adult+female+speaking(0.042)
-pedaling(0.036)

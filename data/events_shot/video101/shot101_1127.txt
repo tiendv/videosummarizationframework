@@ -1,5 +1,0 @@
-aiming(0.110)
-punching(0.065)
-hammering(0.062)
-adult+male+speaking(0.048)
-playing+videogames(0.046)

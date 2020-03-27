@@ -1,5 +1,0 @@
-putting(0.063)
-hanging(0.050)
-dressing(0.046)
-standing(0.037)
-child+speaking(0.034)

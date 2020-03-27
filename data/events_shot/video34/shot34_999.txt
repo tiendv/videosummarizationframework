@@ -1,5 +1,0 @@
-walking(0.087)
-standing(0.036)
-shopping(0.028)
-stomping(0.017)
-selling(0.013)

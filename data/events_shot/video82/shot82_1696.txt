@@ -1,5 +1,0 @@
-crying(0.039)
-smoking(0.032)
-adult+female+speaking(0.026)
-slapping(0.023)
-telephoning(0.015)

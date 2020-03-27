@@ -1,5 +1,0 @@
-painting(0.376)
-drawing(0.051)
-brushing(0.032)
-adult+male+speaking(0.028)
-shaving(0.018)

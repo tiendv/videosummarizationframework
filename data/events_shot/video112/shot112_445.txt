@@ -1,5 +1,0 @@
-boxing(0.137)
-punching(0.105)
-licking(0.045)
-wrestling(0.037)
-bathing(0.026)

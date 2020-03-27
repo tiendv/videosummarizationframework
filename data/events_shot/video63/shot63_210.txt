@@ -1,5 +1,0 @@
-gardening(0.111)
-picking(0.091)
-planting(0.048)
-hunting(0.045)
-adult+male+speaking(0.032)

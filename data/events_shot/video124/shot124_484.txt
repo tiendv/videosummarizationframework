@@ -1,5 +1,0 @@
-adult+male+speaking(0.073)
-smiling(0.065)
-tapping(0.048)
-grinning(0.036)
-reading(0.026)

@@ -1,5 +1,0 @@
-raining(0.453)
-driving(0.348)
-steering(0.032)
-drenching(0.026)
-riding(0.024)

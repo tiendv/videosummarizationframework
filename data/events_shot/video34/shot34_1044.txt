@@ -1,5 +1,0 @@
-drying(0.065)
-talking(0.029)
-standing(0.026)
-adult+female+speaking(0.024)
-smiling(0.023)

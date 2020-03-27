@@ -1,5 +1,0 @@
-spinning(0.105)
-turning(0.066)
-playing+videogames(0.047)
-attacking(0.041)
-fighting(0.039)

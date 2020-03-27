@@ -1,5 +1,0 @@
-adult+female+singing(0.156)
-adult+male+singing(0.040)
-sneezing(0.036)
-running(0.034)
-telephoning(0.028)

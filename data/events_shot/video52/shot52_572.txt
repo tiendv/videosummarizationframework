@@ -1,5 +1,0 @@
-raining(0.679)
-driving(0.138)
-storming(0.050)
-smoking(0.033)
-snowing(0.026)

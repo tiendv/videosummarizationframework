@@ -1,5 +1,0 @@
-squatting(0.045)
-adult+male+speaking(0.030)
-adult+female+speaking(0.027)
-standing(0.027)
-shrugging(0.026)

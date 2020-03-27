@@ -1,5 +1,0 @@
-gripping(0.408)
-assembling(0.071)
-handcuffing(0.057)
-adult+female+speaking(0.022)
-adult+male+speaking(0.020)

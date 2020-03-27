@@ -1,5 +1,0 @@
-exiting(0.044)
-entering(0.042)
-knocking(0.030)
-closing(0.028)
-unpacking(0.024)

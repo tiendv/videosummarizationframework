@@ -1,5 +1,0 @@
-drinking(0.158)
-standing(0.041)
-fighting(0.028)
-walking(0.021)
-stomping(0.019)

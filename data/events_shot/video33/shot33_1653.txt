@@ -1,5 +1,0 @@
-shooting(0.047)
-crying(0.030)
-climbing(0.025)
-aiming(0.024)
-fighting(0.019)

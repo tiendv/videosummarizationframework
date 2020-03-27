@@ -1,5 +1,0 @@
-interviewing(0.098)
-adult+female+speaking(0.093)
-discussing(0.065)
-frowning(0.059)
-tapping(0.050)

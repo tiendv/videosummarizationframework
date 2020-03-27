@@ -1,5 +1,0 @@
-pointing(0.145)
-aiming(0.082)
-crafting(0.062)
-measuring(0.048)
-smoking(0.019)

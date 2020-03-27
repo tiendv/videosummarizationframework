@@ -1,5 +1,0 @@
-cleaning(0.070)
-adult+female+singing(0.052)
-standing(0.049)
-dusting(0.032)
-knocking(0.027)

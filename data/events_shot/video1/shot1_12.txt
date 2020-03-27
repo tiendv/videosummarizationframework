@@ -1,5 +1,0 @@
-driving(0.159)
-adult+female+speaking(0.093)
-smiling(0.062)
-adult+male+speaking(0.040)
-adult+male+singing(0.040)

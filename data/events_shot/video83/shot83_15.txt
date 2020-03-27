@@ -1,5 +1,0 @@
-spinning(0.650)
-bicycling(0.070)
-pedaling(0.027)
-turning(0.015)
-walking(0.007)

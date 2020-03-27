@@ -1,5 +1,0 @@
-talking(0.063)
-hugging(0.052)
-smiling(0.037)
-marrying(0.034)
-standing(0.031)

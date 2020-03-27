@@ -1,5 +1,0 @@
-hanging(0.068)
-swinging(0.040)
-balancing(0.035)
-sliding(0.022)
-standing(0.021)

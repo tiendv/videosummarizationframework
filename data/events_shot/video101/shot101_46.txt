@@ -1,5 +1,0 @@
-adult+male+speaking(0.090)
-standing(0.032)
-reaching(0.028)
-slapping(0.026)
-sneezing(0.026)

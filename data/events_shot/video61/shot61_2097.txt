@@ -1,5 +1,0 @@
-brushing(0.361)
-hugging(0.087)
-combing(0.065)
-adult+female+speaking(0.022)
-child+speaking(0.018)

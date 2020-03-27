@@ -1,5 +1,0 @@
-planting(0.132)
-walking(0.068)
-gardening(0.060)
-digging(0.027)
-mowing(0.025)

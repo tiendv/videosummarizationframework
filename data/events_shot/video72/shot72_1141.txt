@@ -1,5 +1,0 @@
-crying(0.137)
-frowning(0.108)
-arresting(0.084)
-locking(0.076)
-guarding(0.047)

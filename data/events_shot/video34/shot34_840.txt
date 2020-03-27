@@ -1,5 +1,0 @@
-sprinting(0.065)
-playing+videogames(0.058)
-jogging(0.048)
-bicycling(0.045)
-running(0.041)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.084)
-shaving(0.059)
-adult+male+singing(0.043)
-smoking(0.038)
-telephoning(0.025)

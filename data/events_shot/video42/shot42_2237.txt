@@ -1,5 +1,0 @@
-piloting(0.063)
-driving(0.047)
-talking(0.046)
-filming(0.045)
-arresting(0.023)

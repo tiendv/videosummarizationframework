@@ -1,5 +1,0 @@
-guarding(0.314)
-fencing(0.088)
-exiting(0.070)
-entering(0.039)
-opening(0.033)

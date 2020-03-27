@@ -1,5 +1,0 @@
-piloting(0.091)
-driving(0.089)
-hitchhiking(0.030)
-walking(0.030)
-filming(0.029)

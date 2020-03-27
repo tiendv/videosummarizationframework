@@ -1,5 +1,0 @@
-hugging(0.214)
-pointing(0.142)
-arresting(0.031)
-adult+male+speaking(0.023)
-smiling(0.019)

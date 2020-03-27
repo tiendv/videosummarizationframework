@@ -1,5 +1,0 @@
-drinking(0.239)
-adult+male+speaking(0.031)
-playing+videogames(0.027)
-laughing(0.025)
-sneezing(0.025)

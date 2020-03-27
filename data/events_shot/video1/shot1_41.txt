@@ -1,5 +1,0 @@
-running(0.089)
-walking(0.032)
-adult+male+speaking(0.029)
-competing(0.024)
-playing+sports(0.022)

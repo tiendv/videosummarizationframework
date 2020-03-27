@@ -1,5 +1,0 @@
-standing(0.060)
-cooking(0.037)
-whistling(0.029)
-adult+female+speaking(0.028)
-talking(0.025)

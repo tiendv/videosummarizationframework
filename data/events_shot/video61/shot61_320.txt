@@ -1,5 +1,0 @@
-hugging(0.170)
-adult+female+speaking(0.110)
-smiling(0.046)
-inflating(0.043)
-opening(0.032)

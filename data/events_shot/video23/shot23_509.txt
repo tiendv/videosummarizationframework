@@ -1,5 +1,0 @@
-hugging(0.079)
-opening(0.045)
-adult+male+speaking(0.044)
-pointing(0.040)
-closing(0.039)

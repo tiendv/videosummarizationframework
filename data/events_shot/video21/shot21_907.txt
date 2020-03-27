@@ -1,5 +1,0 @@
-opening(0.100)
-waking(0.040)
-closing(0.038)
-laughing(0.037)
-blowing(0.032)

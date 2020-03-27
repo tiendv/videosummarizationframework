@@ -1,5 +1,0 @@
-driving(0.292)
-riding(0.184)
-steering(0.143)
-piloting(0.124)
-flying(0.024)

@@ -1,5 +1,0 @@
-dropping(0.040)
-walking(0.031)
-punching(0.030)
-standing(0.024)
-fighting(0.024)

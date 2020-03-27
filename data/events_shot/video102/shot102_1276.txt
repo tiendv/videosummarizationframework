@@ -1,5 +1,0 @@
-cleaning(0.065)
-drying(0.030)
-cooking(0.029)
-washing(0.027)
-packing(0.021)

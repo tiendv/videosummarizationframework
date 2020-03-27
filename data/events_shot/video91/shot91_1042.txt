@@ -1,5 +1,0 @@
-waking(0.075)
-adult+female+speaking(0.075)
-adult+male+speaking(0.066)
-slapping(0.037)
-sleeping(0.033)

@@ -1,5 +1,0 @@
-bicycling(0.384)
-pedaling(0.102)
-steering(0.045)
-riding(0.040)
-starting(0.018)

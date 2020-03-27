@@ -1,5 +1,0 @@
-driving(0.111)
-fighting(0.075)
-hitting(0.045)
-shooting(0.044)
-crashing(0.028)

@@ -1,5 +1,0 @@
-sneezing(0.101)
-bowing(0.060)
-laughing(0.059)
-adult+male+singing(0.052)
-adult+female+singing(0.027)

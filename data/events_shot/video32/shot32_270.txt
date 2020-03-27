@@ -1,5 +1,0 @@
-roaring(0.049)
-adult+male+speaking(0.037)
-playing+videogames(0.031)
-waking(0.026)
-calling(0.023)

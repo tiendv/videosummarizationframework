@@ -1,5 +1,0 @@
-opening(0.276)
-closing(0.109)
-packing(0.043)
-unpacking(0.040)
-adult+female+speaking(0.037)

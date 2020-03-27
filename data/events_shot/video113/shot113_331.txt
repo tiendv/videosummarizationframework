@@ -1,5 +1,0 @@
-hugging(0.190)
-driving(0.044)
-adult+female+speaking(0.040)
-adult+male+speaking(0.029)
-kissing(0.026)

@@ -1,5 +1,0 @@
-adult+male+speaking(0.108)
-officiating(0.096)
-standing(0.040)
-walking(0.036)
-smelling(0.027)

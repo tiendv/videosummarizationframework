@@ -1,5 +1,0 @@
-arresting(0.102)
-guarding(0.069)
-standing(0.048)
-filming(0.038)
-fighting(0.031)

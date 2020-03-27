@@ -1,5 +1,0 @@
-frowning(0.279)
-squinting(0.066)
-saluting(0.036)
-shrugging(0.028)
-arresting(0.028)

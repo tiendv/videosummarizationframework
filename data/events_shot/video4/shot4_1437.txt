@@ -1,5 +1,0 @@
-cooking(0.220)
-dipping(0.167)
-slicing(0.089)
-stirring(0.045)
-carving(0.032)

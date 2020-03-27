@@ -1,5 +1,0 @@
-shopping(0.215)
-selling(0.095)
-asking(0.066)
-buying(0.047)
-slapping(0.044)

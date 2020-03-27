@@ -1,5 +1,0 @@
-hitchhiking(0.166)
-towing(0.056)
-loading(0.054)
-closing(0.044)
-opening(0.040)

@@ -1,5 +1,0 @@
-knocking(0.121)
-standing(0.048)
-walking(0.047)
-adult+male+singing(0.030)
-pointing(0.022)

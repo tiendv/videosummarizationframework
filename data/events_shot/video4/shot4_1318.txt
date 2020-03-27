@@ -1,5 +1,0 @@
-baking(0.040)
-cooking(0.035)
-taping(0.028)
-shaving(0.028)
-dusting(0.023)

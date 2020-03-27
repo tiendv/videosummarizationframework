@@ -1,5 +1,0 @@
-gripping(0.275)
-lifting(0.104)
-squatting(0.064)
-shrugging(0.049)
-dressing(0.044)

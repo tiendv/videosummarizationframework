@@ -1,5 +1,0 @@
-walking(0.198)
-asking(0.120)
-standing(0.061)
-slapping(0.055)
-interviewing(0.050)

@@ -1,5 +1,0 @@
-folding(0.089)
-cracking(0.060)
-waking(0.033)
-coughing(0.026)
-adult+male+speaking(0.020)

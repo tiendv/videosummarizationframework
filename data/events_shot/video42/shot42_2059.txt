@@ -1,5 +1,0 @@
-walking(0.145)
-slapping(0.048)
-crying(0.037)
-knocking(0.025)
-carrying(0.018)

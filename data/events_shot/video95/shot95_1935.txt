@@ -1,5 +1,0 @@
-running(0.219)
-walking(0.152)
-bouncing(0.049)
-tapping(0.048)
-tying(0.023)

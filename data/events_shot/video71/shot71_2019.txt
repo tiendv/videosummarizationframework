@@ -1,5 +1,0 @@
-arresting(0.695)
-handcuffing(0.070)
-asking(0.063)
-guarding(0.022)
-filming(0.017)

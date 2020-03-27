@@ -1,5 +1,0 @@
-slapping(0.056)
-hammering(0.048)
-raising(0.029)
-hanging(0.024)
-standing(0.023)

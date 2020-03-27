@@ -1,5 +1,0 @@
-guarding(0.072)
-queuing(0.060)
-adult+male+speaking(0.049)
-standing(0.049)
-filming(0.040)

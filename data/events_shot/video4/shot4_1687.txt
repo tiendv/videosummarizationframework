@@ -1,5 +1,0 @@
-cooking(0.070)
-baking(0.058)
-slapping(0.052)
-walking(0.029)
-standing(0.024)

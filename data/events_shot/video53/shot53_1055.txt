@@ -1,5 +1,0 @@
-adult+male+singing(0.170)
-adult+male+speaking(0.120)
-playing+videogames(0.071)
-walking(0.057)
-arresting(0.049)

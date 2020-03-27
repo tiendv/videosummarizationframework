@@ -1,5 +1,0 @@
-punching(0.045)
-slapping(0.031)
-adult+male+speaking(0.029)
-pointing(0.027)
-standing(0.024)

@@ -1,5 +1,0 @@
-coaching(0.140)
-walking(0.110)
-queuing(0.063)
-instructing(0.051)
-pushing(0.038)

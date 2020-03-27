@@ -1,5 +1,0 @@
-gambling(0.166)
-sitting(0.086)
-playing(0.069)
-aiming(0.049)
-standing(0.042)

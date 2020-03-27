@@ -1,5 +1,0 @@
-cooking(0.100)
-working(0.036)
-adult+male+speaking(0.036)
-stirring(0.026)
-fishing(0.024)

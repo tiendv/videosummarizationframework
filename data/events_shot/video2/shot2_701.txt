@@ -1,5 +1,0 @@
-blocking(0.275)
-fighting(0.136)
-giving(0.109)
-knocking(0.045)
-shaking(0.031)

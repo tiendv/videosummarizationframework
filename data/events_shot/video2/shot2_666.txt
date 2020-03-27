@@ -1,5 +1,0 @@
-coughing(0.039)
-sneezing(0.030)
-locking(0.027)
-adult+male+speaking(0.026)
-opening(0.018)

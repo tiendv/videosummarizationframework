@@ -1,5 +1,0 @@
-walking(0.033)
-hugging(0.030)
-slapping(0.028)
-pushing(0.021)
-asking(0.018)

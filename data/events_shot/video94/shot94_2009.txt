@@ -1,5 +1,0 @@
-mopping(0.099)
-adult+female+speaking(0.045)
-stealing(0.039)
-walking(0.034)
-adult+male+speaking(0.026)

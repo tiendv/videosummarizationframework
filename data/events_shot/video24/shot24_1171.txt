@@ -1,5 +1,0 @@
-drinking(0.075)
-squatting(0.027)
-fighting(0.023)
-standing(0.022)
-boxing(0.017)

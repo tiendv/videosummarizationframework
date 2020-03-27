@@ -1,5 +1,0 @@
-tapping(0.399)
-drinking(0.183)
-discussing(0.027)
-pouring(0.022)
-sitting(0.020)

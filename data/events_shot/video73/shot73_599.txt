@@ -1,5 +1,0 @@
-dining(0.061)
-walking(0.040)
-standing(0.029)
-hugging(0.026)
-drinking(0.024)

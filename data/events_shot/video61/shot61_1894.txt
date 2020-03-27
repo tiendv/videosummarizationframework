@@ -1,5 +1,0 @@
-handcuffing(0.064)
-gripping(0.044)
-squatting(0.041)
-asking(0.027)
-tickling(0.024)

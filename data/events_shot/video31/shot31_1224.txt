@@ -1,5 +1,0 @@
-dining(0.044)
-autographing(0.039)
-walking(0.033)
-standing(0.032)
-bowling(0.025)

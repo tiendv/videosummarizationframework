@@ -1,5 +1,0 @@
-dusting(0.047)
-dressing(0.041)
-hugging(0.031)
-standing(0.028)
-mopping(0.027)

@@ -1,5 +1,0 @@
-cooking(0.047)
-fighting(0.037)
-giving(0.031)
-hugging(0.027)
-standing(0.026)

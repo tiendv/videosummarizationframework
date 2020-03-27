@@ -1,5 +1,0 @@
-planting(0.177)
-sowing(0.094)
-gardening(0.066)
-fencing(0.050)
-digging(0.042)

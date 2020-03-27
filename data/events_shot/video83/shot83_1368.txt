@@ -1,5 +1,0 @@
-mopping(0.096)
-standing(0.042)
-child+speaking(0.035)
-dusting(0.027)
-baking(0.027)

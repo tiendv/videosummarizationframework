@@ -1,5 +1,0 @@
-walking(0.042)
-carrying(0.031)
-giving(0.027)
-filming(0.026)
-slapping(0.025)

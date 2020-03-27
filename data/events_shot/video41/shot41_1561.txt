@@ -1,5 +1,0 @@
-standing(0.060)
-walking(0.049)
-bowing(0.044)
-filming(0.042)
-photographing(0.027)

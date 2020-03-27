@@ -1,5 +1,0 @@
-stomping(0.430)
-walking(0.091)
-sneezing(0.048)
-asking(0.043)
-hugging(0.029)

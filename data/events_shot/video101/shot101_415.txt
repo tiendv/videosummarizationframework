@@ -1,5 +1,0 @@
-knocking(0.061)
-running(0.042)
-cleaning(0.041)
-dusting(0.033)
-exiting(0.026)

@@ -1,5 +1,0 @@
-packing(0.073)
-unpacking(0.053)
-putting(0.030)
-adult+female+speaking(0.025)
-gripping(0.025)

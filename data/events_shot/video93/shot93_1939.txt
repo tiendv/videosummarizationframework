@@ -1,5 +1,0 @@
-kissing(0.101)
-brushing(0.055)
-tattooing(0.052)
-adult+female+speaking(0.047)
-adult+female+singing(0.037)

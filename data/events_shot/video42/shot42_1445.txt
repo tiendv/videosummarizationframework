@@ -1,5 +1,0 @@
-handcuffing(0.115)
-guarding(0.042)
-climbing(0.042)
-cleaning(0.032)
-arresting(0.030)

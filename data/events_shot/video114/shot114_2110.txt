@@ -1,5 +1,0 @@
-adult+female+singing(0.061)
-adult+female+speaking(0.051)
-boarding(0.034)
-riding(0.034)
-walking(0.034)

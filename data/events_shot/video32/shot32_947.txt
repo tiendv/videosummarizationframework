@@ -1,5 +1,0 @@
-talking(0.080)
-smiling(0.049)
-squinting(0.042)
-sitting(0.033)
-child+speaking(0.032)

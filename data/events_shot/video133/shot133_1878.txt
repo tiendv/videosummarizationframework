@@ -1,5 +1,0 @@
-dancing(0.055)
-exiting(0.048)
-exercising(0.028)
-walking(0.026)
-skipping(0.024)

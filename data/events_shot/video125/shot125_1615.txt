@@ -1,5 +1,0 @@
-child+singing(0.233)
-child+speaking(0.110)
-sitting(0.039)
-officiating(0.020)
-standing(0.020)

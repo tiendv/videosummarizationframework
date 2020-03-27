@@ -1,5 +1,0 @@
-sleeping(0.090)
-tapping(0.085)
-drinking(0.053)
-scratching(0.047)
-resting(0.041)

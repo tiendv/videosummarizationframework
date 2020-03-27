@@ -1,5 +1,0 @@
-crying(0.095)
-laughing(0.088)
-smiling(0.053)
-waking(0.049)
-tickling(0.026)

@@ -1,5 +1,0 @@
-stacking(0.182)
-manicuring(0.030)
-cleaning(0.024)
-painting(0.022)
-drinking(0.016)

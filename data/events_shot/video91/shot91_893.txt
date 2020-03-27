@@ -1,5 +1,0 @@
-clearing(0.090)
-trimming(0.081)
-mowing(0.059)
-cutting(0.040)
-digging(0.040)

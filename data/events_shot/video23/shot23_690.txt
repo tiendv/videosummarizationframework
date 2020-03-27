@@ -1,5 +1,0 @@
-preaching(0.173)
-guarding(0.075)
-asking(0.053)
-stealing(0.043)
-adult+male+speaking(0.039)

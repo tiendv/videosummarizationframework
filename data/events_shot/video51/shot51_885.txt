@@ -1,5 +1,0 @@
-adult+male+speaking(0.068)
-waking(0.052)
-adult+female+speaking(0.045)
-smiling(0.038)
-frowning(0.032)

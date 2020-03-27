@@ -1,5 +1,0 @@
-opening(0.168)
-closing(0.136)
-packing(0.042)
-shopping(0.029)
-unpacking(0.027)

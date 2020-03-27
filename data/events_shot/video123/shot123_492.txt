@@ -1,5 +1,0 @@
-mopping(0.206)
-punching(0.043)
-dusting(0.041)
-knocking(0.023)
-vacuuming(0.023)

@@ -1,5 +1,0 @@
-guarding(0.158)
-saluting(0.107)
-dressing(0.063)
-standing(0.035)
-walking(0.027)

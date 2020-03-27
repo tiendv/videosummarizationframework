@@ -1,5 +1,0 @@
-waking(0.064)
-adult+male+singing(0.064)
-adult+male+speaking(0.047)
-hugging(0.039)
-sleeping(0.033)

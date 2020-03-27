@@ -1,5 +1,0 @@
-child+speaking(0.084)
-adult+female+speaking(0.084)
-adult+female+singing(0.059)
-laughing(0.043)
-blowing(0.028)

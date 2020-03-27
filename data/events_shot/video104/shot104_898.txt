@@ -1,5 +1,0 @@
-bowing(0.043)
-sneezing(0.025)
-cracking(0.021)
-opening(0.021)
-laughing(0.019)

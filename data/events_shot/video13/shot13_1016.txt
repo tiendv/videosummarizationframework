@@ -1,5 +1,0 @@
-arresting(0.060)
-handcuffing(0.058)
-adult+female+speaking(0.042)
-gripping(0.042)
-adult+male+speaking(0.039)

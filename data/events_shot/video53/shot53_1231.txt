@@ -1,5 +1,0 @@
-shooting(0.148)
-pointing(0.096)
-aiming(0.070)
-slapping(0.051)
-fencing(0.040)

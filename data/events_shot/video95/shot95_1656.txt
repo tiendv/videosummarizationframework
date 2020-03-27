@@ -1,5 +1,0 @@
-baptizing(0.110)
-standing(0.081)
-walking(0.070)
-child+speaking(0.066)
-singing(0.053)

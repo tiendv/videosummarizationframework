@@ -1,5 +1,0 @@
-adult+male+speaking(0.042)
-guarding(0.036)
-cuddling(0.030)
-standing(0.025)
-scratching(0.025)

@@ -1,5 +1,0 @@
-mopping(0.293)
-cleaning(0.230)
-dusting(0.040)
-scrubbing(0.029)
-child+speaking(0.023)

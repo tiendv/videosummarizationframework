@@ -1,5 +1,0 @@
-smoking(0.532)
-cracking(0.080)
-coughing(0.045)
-whistling(0.042)
-slapping(0.025)

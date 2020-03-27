@@ -1,5 +1,0 @@
-standing(0.107)
-adult+male+speaking(0.097)
-sitting(0.057)
-celebrating(0.028)
-protesting(0.024)

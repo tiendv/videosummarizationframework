@@ -1,5 +1,0 @@
-adult+male+speaking(0.123)
-aiming(0.070)
-discussing(0.068)
-interviewing(0.052)
-coaching(0.027)

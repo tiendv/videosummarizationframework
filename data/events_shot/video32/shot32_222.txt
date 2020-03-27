@@ -1,5 +1,0 @@
-walking(0.055)
-fishing(0.035)
-digging(0.032)
-hunting(0.029)
-slapping(0.027)

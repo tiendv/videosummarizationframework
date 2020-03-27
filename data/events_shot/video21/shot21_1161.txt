@@ -1,5 +1,0 @@
-walking(0.241)
-hitchhiking(0.046)
-hiking(0.042)
-running(0.042)
-jogging(0.041)

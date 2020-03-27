@@ -1,5 +1,0 @@
-roaring(0.268)
-yawning(0.252)
-smoking(0.053)
-adult+male+speaking(0.018)
-sitting(0.016)

@@ -1,5 +1,0 @@
-coughing(0.154)
-sneezing(0.149)
-manicuring(0.047)
-adult+female+speaking(0.043)
-drinking(0.028)

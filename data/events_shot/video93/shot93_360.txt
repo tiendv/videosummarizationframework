@@ -1,5 +1,0 @@
-jogging(0.229)
-arresting(0.069)
-running(0.058)
-hitchhiking(0.030)
-stealing(0.028)

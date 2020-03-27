@@ -1,5 +1,0 @@
-mopping(0.342)
-vacuuming(0.083)
-measuring(0.040)
-plugging(0.034)
-cleaning(0.032)

@@ -1,5 +1,0 @@
-camping(0.546)
-packing(0.055)
-unpacking(0.037)
-hiking(0.018)
-arresting(0.013)

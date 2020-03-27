@@ -1,5 +1,0 @@
-rising(0.046)
-attacking(0.039)
-falling(0.031)
-fighting(0.030)
-tattooing(0.028)

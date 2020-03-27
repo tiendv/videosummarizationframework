@@ -1,5 +1,0 @@
-crying(0.412)
-frowning(0.073)
-shrugging(0.031)
-sneezing(0.030)
-walking(0.017)

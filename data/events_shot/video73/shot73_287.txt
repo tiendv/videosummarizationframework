@@ -1,5 +1,0 @@
-baking(0.106)
-cooking(0.051)
-planting(0.036)
-starting(0.035)
-serving(0.019)

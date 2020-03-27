@@ -1,5 +1,0 @@
-adult+male+speaking(0.039)
-bicycling(0.028)
-gripping(0.026)
-hanging(0.026)
-walking(0.023)

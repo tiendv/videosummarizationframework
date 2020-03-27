@@ -1,5 +1,0 @@
-bowing(0.077)
-telephoning(0.040)
-massaging(0.032)
-adult+male+speaking(0.031)
-praying(0.030)

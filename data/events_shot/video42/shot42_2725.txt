@@ -1,5 +1,0 @@
-dressing(0.231)
-mopping(0.062)
-dusting(0.046)
-cleaning(0.039)
-folding(0.036)

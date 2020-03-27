@@ -1,5 +1,0 @@
-cracking(0.032)
-covering(0.030)
-adult+female+singing(0.028)
-singing(0.028)
-squinting(0.024)

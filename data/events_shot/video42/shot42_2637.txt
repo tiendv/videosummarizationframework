@@ -1,5 +1,0 @@
-walking(0.039)
-building(0.033)
-carrying(0.033)
-turning(0.028)
-assembling(0.026)

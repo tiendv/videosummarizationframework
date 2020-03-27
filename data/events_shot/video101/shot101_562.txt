@@ -1,5 +1,0 @@
-walking(0.250)
-standing(0.045)
-arresting(0.043)
-marrying(0.028)
-cooking(0.027)

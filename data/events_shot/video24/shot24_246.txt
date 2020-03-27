@@ -1,5 +1,0 @@
-adult+female+singing(0.120)
-attacking(0.046)
-walking(0.041)
-sneezing(0.034)
-roaring(0.033)

@@ -1,5 +1,0 @@
-barking(0.091)
-rocking(0.062)
-singing(0.056)
-howling(0.050)
-adult+female+singing(0.049)

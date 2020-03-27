@@ -1,5 +1,0 @@
-raining(0.100)
-clipping(0.080)
-slapping(0.030)
-filming(0.026)
-drying(0.026)

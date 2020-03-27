@@ -1,5 +1,0 @@
-adult+male+speaking(0.090)
-eating(0.077)
-laughing(0.069)
-sniffing(0.041)
-chewing(0.041)

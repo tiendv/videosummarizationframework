@@ -1,5 +1,0 @@
-brushing(0.111)
-pointing(0.092)
-talking(0.035)
-lecturing(0.023)
-adult+female+speaking(0.020)

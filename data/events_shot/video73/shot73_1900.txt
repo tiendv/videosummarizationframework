@@ -1,5 +1,0 @@
-vacuuming(0.059)
-waking(0.048)
-sleeping(0.039)
-cleaning(0.026)
-stretching(0.023)

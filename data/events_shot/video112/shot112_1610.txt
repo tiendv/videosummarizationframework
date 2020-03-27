@@ -1,5 +1,0 @@
-sneezing(0.320)
-crying(0.161)
-walking(0.096)
-coughing(0.062)
-spraying(0.030)

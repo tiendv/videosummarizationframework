@@ -1,5 +1,0 @@
-swimming(0.630)
-submerging(0.197)
-wetting(0.021)
-splashing(0.021)
-diving(0.018)

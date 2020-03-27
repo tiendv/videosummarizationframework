@@ -1,5 +1,0 @@
-knocking(0.338)
-dusting(0.055)
-opening(0.050)
-brushing(0.045)
-painting(0.040)

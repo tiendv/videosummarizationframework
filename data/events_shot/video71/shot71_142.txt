@@ -1,5 +1,0 @@
-walking(0.112)
-talking(0.057)
-exiting(0.031)
-playing+videogames(0.028)
-filming(0.028)

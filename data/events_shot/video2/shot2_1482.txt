@@ -1,5 +1,0 @@
-fighting(0.120)
-hugging(0.100)
-gambling(0.086)
-drinking(0.034)
-punching(0.033)

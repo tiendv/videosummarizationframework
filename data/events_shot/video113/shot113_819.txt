@@ -1,5 +1,0 @@
-baptizing(0.083)
-bathing(0.040)
-walking(0.032)
-adult+male+speaking(0.027)
-praying(0.025)

@@ -1,5 +1,0 @@
-cleaning(0.034)
-dusting(0.027)
-hanging(0.027)
-vacuuming(0.026)
-walking(0.023)

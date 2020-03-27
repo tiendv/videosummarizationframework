@@ -1,5 +1,0 @@
-waking(0.262)
-sleeping(0.143)
-crying(0.109)
-tickling(0.037)
-packing(0.023)

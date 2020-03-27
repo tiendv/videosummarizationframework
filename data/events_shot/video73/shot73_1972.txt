@@ -1,5 +1,0 @@
-working(0.038)
-walking(0.018)
-cleaning(0.016)
-attacking(0.016)
-standing(0.015)

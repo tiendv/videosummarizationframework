@@ -1,5 +1,0 @@
-coughing(0.166)
-sneezing(0.073)
-hugging(0.043)
-adult+female+speaking(0.039)
-slapping(0.027)

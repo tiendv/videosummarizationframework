@@ -1,5 +1,0 @@
-raining(0.068)
-smoking(0.052)
-fencing(0.035)
-adult+female+singing(0.034)
-starting(0.026)

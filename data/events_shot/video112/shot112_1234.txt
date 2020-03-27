@@ -1,5 +1,0 @@
-barking(0.305)
-fencing(0.037)
-imitating(0.029)
-howling(0.026)
-chewing(0.022)

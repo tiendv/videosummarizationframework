@@ -1,5 +1,0 @@
-hugging(0.114)
-adult+male+speaking(0.059)
-kissing(0.046)
-filming(0.039)
-queuing(0.038)

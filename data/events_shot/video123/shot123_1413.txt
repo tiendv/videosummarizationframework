@@ -1,5 +1,0 @@
-washing(0.061)
-drying(0.055)
-laughing(0.030)
-slapping(0.025)
-adult+female+speaking(0.022)

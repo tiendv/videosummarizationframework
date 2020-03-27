@@ -1,5 +1,0 @@
-packing(0.027)
-slapping(0.023)
-walking(0.020)
-attacking(0.019)
-unpacking(0.019)

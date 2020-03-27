@@ -1,5 +1,0 @@
-cooking(0.122)
-stirring(0.104)
-painting(0.096)
-tattooing(0.069)
-brushing(0.034)

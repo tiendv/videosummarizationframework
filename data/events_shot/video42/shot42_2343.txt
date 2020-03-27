@@ -1,5 +1,0 @@
-adult+male+speaking(0.091)
-howling(0.077)
-squinting(0.073)
-barking(0.068)
-roaring(0.059)

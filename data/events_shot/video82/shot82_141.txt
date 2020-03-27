@@ -1,5 +1,0 @@
-queuing(0.050)
-shaking(0.049)
-blocking(0.027)
-coaching(0.026)
-stopping(0.024)

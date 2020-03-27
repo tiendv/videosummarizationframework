@@ -1,5 +1,0 @@
-marrying(0.179)
-standing(0.067)
-walking(0.056)
-entering(0.045)
-queuing(0.042)

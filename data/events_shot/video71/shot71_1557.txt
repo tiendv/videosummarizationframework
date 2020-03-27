@@ -1,5 +1,0 @@
-stretching(0.228)
-bending(0.106)
-pushing(0.058)
-walking(0.045)
-crawling(0.030)

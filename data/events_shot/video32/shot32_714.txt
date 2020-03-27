@@ -1,5 +1,0 @@
-measuring(0.098)
-adult+male+speaking(0.051)
-adult+female+speaking(0.036)
-blocking(0.035)
-crafting(0.034)

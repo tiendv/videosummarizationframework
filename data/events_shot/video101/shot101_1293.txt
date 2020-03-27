@@ -1,5 +1,0 @@
-adult+female+speaking(0.088)
-smoking(0.062)
-adult+male+speaking(0.037)
-asking(0.036)
-discussing(0.035)

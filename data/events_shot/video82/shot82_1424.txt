@@ -1,5 +1,0 @@
-crafting(0.080)
-stitching(0.043)
-painting(0.033)
-manicuring(0.030)
-sitting(0.024)

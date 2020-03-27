@@ -1,5 +1,0 @@
-hugging(0.214)
-walking(0.089)
-carrying(0.061)
-coughing(0.033)
-whistling(0.031)

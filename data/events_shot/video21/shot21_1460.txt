@@ -1,5 +1,0 @@
-adult+female+speaking(0.168)
-adult+female+singing(0.155)
-bathing(0.055)
-filming(0.024)
-telephoning(0.019)

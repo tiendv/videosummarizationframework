@@ -1,5 +1,0 @@
-adult+female+speaking(0.695)
-packing(0.029)
-adult+female+singing(0.026)
-asking(0.013)
-knitting(0.012)

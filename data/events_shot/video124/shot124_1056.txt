@@ -1,5 +1,0 @@
-standing(0.046)
-hanging(0.043)
-gripping(0.030)
-adult+male+speaking(0.028)
-laughing(0.024)

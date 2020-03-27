@@ -1,5 +1,0 @@
-fencing(0.736)
-walking(0.030)
-standing(0.025)
-snowing(0.015)
-hiking(0.013)

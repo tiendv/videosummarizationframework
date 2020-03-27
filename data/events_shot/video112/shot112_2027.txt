@@ -1,5 +1,0 @@
-packing(0.039)
-carrying(0.036)
-unpacking(0.028)
-stealing(0.024)
-attacking(0.020)

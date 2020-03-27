@@ -1,5 +1,0 @@
-lecturing(0.046)
-adult+female+speaking(0.041)
-reading(0.038)
-handwriting(0.036)
-talking(0.036)

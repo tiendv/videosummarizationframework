@@ -1,5 +1,0 @@
-waking(0.481)
-sleeping(0.095)
-crying(0.052)
-fighting(0.037)
-blocking(0.036)

@@ -1,5 +1,0 @@
-coughing(0.056)
-adult+female+speaking(0.046)
-dining(0.043)
-eating(0.041)
-drinking(0.037)

@@ -1,5 +1,0 @@
-walking(0.068)
-running(0.047)
-driving(0.045)
-adult+male+speaking(0.031)
-stopping(0.026)

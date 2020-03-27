@@ -1,5 +1,0 @@
-cooking(0.148)
-baking(0.080)
-cleaning(0.033)
-crafting(0.029)
-dusting(0.028)

@@ -1,5 +1,0 @@
-adult+female+speaking(0.061)
-talking(0.056)
-crying(0.042)
-winking(0.031)
-smiling(0.028)

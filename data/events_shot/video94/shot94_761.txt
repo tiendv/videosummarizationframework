@@ -1,5 +1,0 @@
-filming(0.044)
-talking(0.040)
-sneezing(0.035)
-coughing(0.032)
-adult+male+speaking(0.031)

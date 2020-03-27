@@ -1,5 +1,0 @@
-frowning(0.201)
-combing(0.100)
-brushing(0.092)
-winking(0.045)
-shrugging(0.033)

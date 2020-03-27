@@ -1,5 +1,0 @@
-squatting(0.089)
-lifting(0.050)
-exercising(0.028)
-smoking(0.026)
-bowing(0.024)

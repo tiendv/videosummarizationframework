@@ -1,5 +1,0 @@
-throwing(0.077)
-slapping(0.054)
-raising(0.036)
-punching(0.023)
-standing(0.023)

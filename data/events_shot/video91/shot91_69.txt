@@ -1,5 +1,0 @@
-adult+male+speaking(0.057)
-coughing(0.049)
-walking(0.047)
-sniffing(0.041)
-smelling(0.038)

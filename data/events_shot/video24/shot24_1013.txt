@@ -1,5 +1,0 @@
-playing(0.032)
-unpacking(0.020)
-talking(0.017)
-adult+male+speaking(0.017)
-packaging(0.016)

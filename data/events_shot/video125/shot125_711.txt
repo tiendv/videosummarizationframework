@@ -1,5 +1,0 @@
-bowing(0.130)
-bending(0.061)
-telephoning(0.060)
-adult+male+speaking(0.055)
-sitting(0.053)

@@ -1,5 +1,0 @@
-blowing(0.060)
-coughing(0.046)
-smoking(0.034)
-whistling(0.031)
-praying(0.023)

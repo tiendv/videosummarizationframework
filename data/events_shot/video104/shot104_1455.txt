@@ -1,5 +1,0 @@
-hugging(0.333)
-arresting(0.041)
-smelling(0.028)
-cuddling(0.025)
-adult+male+speaking(0.025)

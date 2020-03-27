@@ -1,5 +1,0 @@
-walking(0.083)
-stealing(0.033)
-carrying(0.031)
-guarding(0.029)
-arresting(0.025)

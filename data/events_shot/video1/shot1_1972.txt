@@ -1,5 +1,0 @@
-drinking(0.066)
-knocking(0.026)
-standing(0.020)
-laughing(0.016)
-walking(0.016)

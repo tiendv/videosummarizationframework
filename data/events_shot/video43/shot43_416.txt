@@ -1,5 +1,0 @@
-jumping(0.068)
-child+speaking(0.050)
-dancing(0.040)
-standing(0.036)
-child+singing(0.028)

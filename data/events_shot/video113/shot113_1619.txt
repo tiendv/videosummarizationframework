@@ -1,5 +1,0 @@
-walking(0.084)
-dancing(0.050)
-slapping(0.048)
-standing(0.042)
-queuing(0.038)

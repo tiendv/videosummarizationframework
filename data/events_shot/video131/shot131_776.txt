@@ -1,5 +1,0 @@
-adult+male+singing(0.485)
-baptizing(0.336)
-officiating(0.025)
-adult+female+singing(0.023)
-adult+male+speaking(0.014)

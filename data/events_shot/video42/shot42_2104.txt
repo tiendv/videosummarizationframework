@@ -1,5 +1,0 @@
-aiming(0.070)
-frowning(0.068)
-playing+videogames(0.045)
-talking(0.043)
-adult+male+speaking(0.041)

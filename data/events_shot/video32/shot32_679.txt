@@ -1,5 +1,0 @@
-carving(0.830)
-adult+male+speaking(0.010)
-peeling(0.010)
-hammering(0.009)
-cooking(0.007)

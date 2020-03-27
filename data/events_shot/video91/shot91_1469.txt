@@ -1,5 +1,0 @@
-mowing(0.485)
-aiming(0.032)
-hunting(0.027)
-weeding(0.021)
-rolling(0.018)

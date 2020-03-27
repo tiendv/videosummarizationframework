@@ -1,5 +1,0 @@
-piloting(0.055)
-adult+male+speaking(0.032)
-adult+female+singing(0.026)
-bowling(0.025)
-launching(0.023)

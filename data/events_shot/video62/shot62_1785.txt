@@ -1,5 +1,0 @@
-flooding(0.145)
-talking(0.078)
-storming(0.045)
-standing(0.037)
-interviewing(0.036)

@@ -1,5 +1,0 @@
-cooking(0.128)
-serving(0.074)
-peeling(0.056)
-dining(0.047)
-baking(0.043)

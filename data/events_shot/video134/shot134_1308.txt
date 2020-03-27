@@ -1,5 +1,0 @@
-waking(0.062)
-dining(0.055)
-drinking(0.054)
-sleeping(0.035)
-opening(0.033)

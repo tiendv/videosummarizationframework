@@ -1,5 +1,0 @@
-manicuring(0.115)
-cooking(0.112)
-baking(0.078)
-sitting(0.062)
-dining(0.058)

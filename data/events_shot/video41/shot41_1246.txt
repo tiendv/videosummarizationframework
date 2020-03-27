@@ -1,5 +1,0 @@
-repairing(0.123)
-shaving(0.073)
-painting(0.062)
-assembling(0.055)
-gripping(0.021)

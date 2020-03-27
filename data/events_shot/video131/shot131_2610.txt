@@ -1,5 +1,0 @@
-whistling(0.045)
-turning(0.033)
-carrying(0.031)
-hugging(0.030)
-tapping(0.028)

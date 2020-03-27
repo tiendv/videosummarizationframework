@@ -1,5 +1,0 @@
-adult+female+singing(0.032)
-adult+female+speaking(0.028)
-hugging(0.023)
-packing(0.018)
-squatting(0.017)

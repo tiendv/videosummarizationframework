@@ -1,5 +1,0 @@
-telephoning(0.073)
-calling(0.041)
-adult+male+speaking(0.035)
-hammering(0.033)
-cracking(0.025)

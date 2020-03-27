@@ -1,5 +1,0 @@
-manicuring(0.300)
-sleeping(0.100)
-massaging(0.059)
-waking(0.046)
-adult+female+speaking(0.033)

@@ -1,5 +1,0 @@
-preaching(0.750)
-praying(0.030)
-adult+male+speaking(0.018)
-building(0.013)
-lecturing(0.011)

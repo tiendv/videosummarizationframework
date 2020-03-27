@@ -1,5 +1,0 @@
-calling(0.230)
-telephoning(0.159)
-talking(0.035)
-sitting(0.034)
-adult+male+speaking(0.034)

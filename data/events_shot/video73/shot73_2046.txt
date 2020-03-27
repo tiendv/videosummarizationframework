@@ -1,5 +1,0 @@
-cleaning(0.087)
-cooking(0.085)
-baking(0.071)
-washing(0.029)
-stirring(0.024)

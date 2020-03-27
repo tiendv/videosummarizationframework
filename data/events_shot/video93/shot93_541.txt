@@ -1,5 +1,0 @@
-squatting(0.120)
-drilling(0.065)
-working(0.043)
-climbing(0.038)
-stacking(0.036)

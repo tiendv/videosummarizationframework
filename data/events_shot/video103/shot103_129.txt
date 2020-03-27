@@ -1,5 +1,0 @@
-standing(0.060)
-talking(0.056)
-walking(0.045)
-cooking(0.040)
-working(0.040)

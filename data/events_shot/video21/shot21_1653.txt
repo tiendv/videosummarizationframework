@@ -1,5 +1,0 @@
-drinking(0.062)
-pointing(0.036)
-asking(0.022)
-laughing(0.022)
-waving(0.021)

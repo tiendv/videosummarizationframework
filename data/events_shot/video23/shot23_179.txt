@@ -1,5 +1,0 @@
-opening(0.120)
-closing(0.103)
-adult+male+speaking(0.037)
-stacking(0.031)
-locking(0.030)

@@ -1,5 +1,0 @@
-drinking(0.045)
-cooking(0.045)
-baking(0.036)
-playing+videogames(0.029)
-hugging(0.022)

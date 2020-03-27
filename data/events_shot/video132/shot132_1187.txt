@@ -1,5 +1,0 @@
-calling(0.112)
-telephoning(0.059)
-adult+male+speaking(0.049)
-discussing(0.044)
-gambling(0.042)

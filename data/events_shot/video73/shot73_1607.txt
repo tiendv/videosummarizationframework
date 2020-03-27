@@ -1,5 +1,0 @@
-dressing(0.082)
-adult+female+singing(0.048)
-adult+female+speaking(0.038)
-playing+music(0.027)
-gripping(0.023)

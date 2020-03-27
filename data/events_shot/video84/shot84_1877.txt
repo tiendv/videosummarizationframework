@@ -1,5 +1,0 @@
-building(0.130)
-adult+female+speaking(0.046)
-cleaning(0.046)
-discussing(0.027)
-assembling(0.024)

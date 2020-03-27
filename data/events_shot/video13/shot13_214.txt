@@ -1,5 +1,0 @@
-stacking(0.100)
-hugging(0.053)
-adult+female+speaking(0.027)
-smiling(0.025)
-child+speaking(0.024)

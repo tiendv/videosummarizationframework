@@ -1,5 +1,0 @@
-towing(0.195)
-tuning(0.068)
-driving(0.050)
-talking(0.027)
-starting(0.026)

@@ -1,5 +1,0 @@
-queuing(0.037)
-adult+male+speaking(0.035)
-hanging(0.024)
-boxing(0.022)
-punching(0.022)

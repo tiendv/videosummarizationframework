@@ -1,5 +1,0 @@
-flooding(0.184)
-floating(0.162)
-spinning(0.085)
-boating(0.059)
-raining(0.054)

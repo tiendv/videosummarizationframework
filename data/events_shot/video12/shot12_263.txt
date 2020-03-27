@@ -1,5 +1,0 @@
-adult+female+speaking(0.125)
-talking(0.107)
-discussing(0.043)
-reading(0.030)
-sneezing(0.028)

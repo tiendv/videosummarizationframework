@@ -1,5 +1,0 @@
-coughing(0.168)
-sneezing(0.137)
-praying(0.085)
-cracking(0.065)
-massaging(0.056)

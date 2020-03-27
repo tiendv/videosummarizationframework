@@ -1,5 +1,0 @@
-drinking(0.388)
-bathing(0.139)
-smoking(0.046)
-washing(0.043)
-watering(0.035)

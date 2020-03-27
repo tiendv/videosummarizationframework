@@ -1,5 +1,0 @@
-walking(0.124)
-smelling(0.039)
-standing(0.039)
-sniffing(0.037)
-marrying(0.019)

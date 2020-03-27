@@ -1,5 +1,0 @@
-walking(0.197)
-asking(0.061)
-arresting(0.057)
-jogging(0.052)
-socializing(0.032)

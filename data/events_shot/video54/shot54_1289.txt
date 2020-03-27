@@ -1,5 +1,0 @@
-gripping(0.113)
-hanging(0.072)
-squatting(0.045)
-stretching(0.040)
-balancing(0.029)

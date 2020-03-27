@@ -1,5 +1,0 @@
-kneeling(0.050)
-vacuuming(0.044)
-inflating(0.026)
-cleaning(0.022)
-pushing(0.018)

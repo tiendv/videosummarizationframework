@@ -1,5 +1,0 @@
-putting(0.056)
-dressing(0.037)
-asking(0.036)
-discussing(0.029)
-adult+male+speaking(0.028)

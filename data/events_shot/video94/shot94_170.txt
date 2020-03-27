@@ -1,5 +1,0 @@
-swinging(0.175)
-sitting(0.089)
-hanging(0.066)
-talking(0.043)
-smoking(0.021)

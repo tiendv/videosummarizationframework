@@ -1,5 +1,0 @@
-bowing(0.041)
-walking(0.040)
-stealing(0.032)
-standing(0.031)
-preaching(0.027)

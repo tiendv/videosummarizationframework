@@ -1,5 +1,0 @@
-child+speaking(0.205)
-talking(0.074)
-slapping(0.068)
-standing(0.037)
-knocking(0.031)

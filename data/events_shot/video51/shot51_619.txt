@@ -1,5 +1,0 @@
-telephoning(0.483)
-calling(0.204)
-adult+male+speaking(0.040)
-coughing(0.027)
-sneezing(0.015)

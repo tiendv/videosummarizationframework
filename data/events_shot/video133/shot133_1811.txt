@@ -1,5 +1,0 @@
-reading(0.128)
-tapping(0.123)
-telephoning(0.044)
-calling(0.034)
-painting(0.024)

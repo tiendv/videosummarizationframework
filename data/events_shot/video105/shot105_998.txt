@@ -1,5 +1,0 @@
-arresting(0.224)
-slapping(0.084)
-knocking(0.070)
-handcuffing(0.067)
-punching(0.042)

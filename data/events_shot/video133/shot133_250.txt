@@ -1,5 +1,0 @@
-adult+female+speaking(0.097)
-drawing(0.083)
-painting(0.071)
-writing(0.044)
-studying(0.041)

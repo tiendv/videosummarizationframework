@@ -1,5 +1,0 @@
-fighting(0.082)
-attacking(0.068)
-walking(0.058)
-marching(0.054)
-protesting(0.050)

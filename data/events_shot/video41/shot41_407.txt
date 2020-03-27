@@ -1,5 +1,0 @@
-drinking(0.116)
-dining(0.097)
-eating(0.079)
-queuing(0.041)
-standing(0.026)

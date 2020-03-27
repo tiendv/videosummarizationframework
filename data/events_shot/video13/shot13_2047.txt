@@ -1,5 +1,0 @@
-adult+female+speaking(0.204)
-smiling(0.090)
-crying(0.071)
-telephoning(0.053)
-adult+female+singing(0.049)

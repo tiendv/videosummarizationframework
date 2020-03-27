@@ -1,5 +1,0 @@
-adult+male+speaking(0.040)
-punching(0.028)
-standing(0.022)
-laughing(0.020)
-stealing(0.020)

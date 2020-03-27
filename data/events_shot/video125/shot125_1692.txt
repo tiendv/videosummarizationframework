@@ -1,5 +1,0 @@
-adult+male+singing(0.146)
-stacking(0.131)
-lifting(0.045)
-singing(0.039)
-standing(0.036)

@@ -1,5 +1,0 @@
-telephoning(0.237)
-calling(0.233)
-preaching(0.044)
-adult+male+speaking(0.040)
-adult+male+singing(0.026)

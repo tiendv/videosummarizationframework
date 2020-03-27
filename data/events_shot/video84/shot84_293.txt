@@ -1,5 +1,0 @@
-adult+female+speaking(0.045)
-painting(0.043)
-drinking(0.034)
-pouring(0.030)
-smoking(0.030)

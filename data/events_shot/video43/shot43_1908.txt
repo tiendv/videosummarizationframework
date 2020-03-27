@@ -1,5 +1,0 @@
-adult+male+singing(0.106)
-adult+female+singing(0.053)
-raining(0.027)
-singing(0.025)
-cracking(0.021)

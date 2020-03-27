@@ -1,5 +1,0 @@
-climbing(0.063)
-hiking(0.046)
-adult+female+singing(0.040)
-hunting(0.034)
-standing(0.024)

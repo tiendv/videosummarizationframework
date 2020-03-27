@@ -1,5 +1,0 @@
-walking(0.083)
-carrying(0.030)
-standing(0.019)
-stealing(0.018)
-guarding(0.016)

@@ -1,5 +1,0 @@
-barking(0.193)
-sneezing(0.141)
-howling(0.130)
-yawning(0.075)
-roaring(0.032)

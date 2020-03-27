@@ -1,5 +1,0 @@
-bowing(0.106)
-slapping(0.067)
-sneezing(0.060)
-adult+male+speaking(0.033)
-coughing(0.029)

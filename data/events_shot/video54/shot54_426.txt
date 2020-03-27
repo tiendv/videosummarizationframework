@@ -1,5 +1,0 @@
-cooking(0.188)
-eating(0.105)
-slicing(0.056)
-carving(0.048)
-dining(0.036)

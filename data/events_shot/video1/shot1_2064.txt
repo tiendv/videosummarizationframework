@@ -1,5 +1,0 @@
-diving(0.256)
-swimming(0.210)
-hunting(0.099)
-fishing(0.099)
-feeding(0.043)

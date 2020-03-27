@@ -1,5 +1,0 @@
-adult+male+singing(0.099)
-standing(0.061)
-adult+male+speaking(0.058)
-imitating(0.032)
-slapping(0.030)

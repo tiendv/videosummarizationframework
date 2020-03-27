@@ -1,5 +1,0 @@
-adult+female+speaking(0.270)
-asking(0.054)
-standing(0.047)
-talking(0.043)
-walking(0.036)

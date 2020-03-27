@@ -1,5 +1,0 @@
-crafting(0.357)
-drawing(0.105)
-painting(0.048)
-handwriting(0.039)
-assembling(0.033)

@@ -1,5 +1,0 @@
-mopping(0.043)
-cleaning(0.039)
-dusting(0.037)
-packing(0.033)
-working(0.026)

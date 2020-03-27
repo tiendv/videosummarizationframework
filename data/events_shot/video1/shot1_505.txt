@@ -1,5 +1,0 @@
-walking(0.085)
-loading(0.082)
-unloading(0.076)
-driving(0.052)
-towing(0.051)

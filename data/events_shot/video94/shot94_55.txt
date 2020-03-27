@@ -1,5 +1,0 @@
-arresting(0.375)
-guarding(0.088)
-knocking(0.061)
-handcuffing(0.054)
-locking(0.042)

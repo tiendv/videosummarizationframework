@@ -1,5 +1,0 @@
-applauding(0.090)
-clapping(0.062)
-filming(0.054)
-standing(0.044)
-waving(0.042)

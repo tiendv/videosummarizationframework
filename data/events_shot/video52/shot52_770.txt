@@ -1,5 +1,0 @@
-drinking(0.078)
-fighting(0.044)
-dining(0.026)
-attacking(0.022)
-smashing(0.021)

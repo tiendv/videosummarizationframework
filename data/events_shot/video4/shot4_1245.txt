@@ -1,5 +1,0 @@
-dressing(0.081)
-knocking(0.050)
-adult+female+singing(0.036)
-hugging(0.033)
-kissing(0.030)

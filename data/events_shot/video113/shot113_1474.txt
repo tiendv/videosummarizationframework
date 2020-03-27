@@ -1,5 +1,0 @@
-dining(0.060)
-eating(0.055)
-handcuffing(0.029)
-opening(0.028)
-drinking(0.026)

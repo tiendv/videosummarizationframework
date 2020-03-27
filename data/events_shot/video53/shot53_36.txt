@@ -1,5 +1,0 @@
-packing(0.454)
-unpacking(0.255)
-selling(0.040)
-wrapping(0.019)
-packaging(0.011)

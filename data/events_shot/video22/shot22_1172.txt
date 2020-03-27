@@ -1,5 +1,0 @@
-punching(0.121)
-raising(0.094)
-standing(0.043)
-boxing(0.029)
-shrugging(0.027)

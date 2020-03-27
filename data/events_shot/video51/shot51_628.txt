@@ -1,5 +1,0 @@
-sitting(0.068)
-adult+male+speaking(0.047)
-standing(0.036)
-instructing(0.033)
-coaching(0.033)

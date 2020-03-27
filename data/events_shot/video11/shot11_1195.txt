@@ -1,5 +1,0 @@
-carrying(0.057)
-hugging(0.054)
-knocking(0.046)
-removing(0.034)
-slapping(0.033)

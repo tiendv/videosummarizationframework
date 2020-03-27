@@ -1,5 +1,0 @@
-walking(0.600)
-carrying(0.082)
-exiting(0.029)
-crying(0.026)
-calling(0.021)

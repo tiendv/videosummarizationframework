@@ -1,5 +1,0 @@
-filming(0.083)
-adult+male+singing(0.070)
-adult+female+singing(0.066)
-playing+videogames(0.052)
-adult+male+speaking(0.047)

@@ -1,5 +1,0 @@
-guarding(0.212)
-driving(0.060)
-steering(0.054)
-pointing(0.027)
-riding(0.025)

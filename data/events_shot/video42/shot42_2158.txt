@@ -1,5 +1,0 @@
-talking(0.085)
-discussing(0.053)
-turning(0.036)
-adult+male+speaking(0.030)
-driving(0.026)

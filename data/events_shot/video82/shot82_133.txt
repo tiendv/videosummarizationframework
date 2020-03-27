@@ -1,5 +1,0 @@
-fencing(0.200)
-blocking(0.083)
-fighting(0.064)
-building(0.031)
-adult+male+speaking(0.020)

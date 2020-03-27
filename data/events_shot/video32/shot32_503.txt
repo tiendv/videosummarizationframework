@@ -1,5 +1,0 @@
-imitating(0.118)
-sneezing(0.115)
-laughing(0.052)
-standing(0.032)
-child+speaking(0.031)

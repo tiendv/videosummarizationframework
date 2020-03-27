@@ -1,5 +1,0 @@
-swinging(0.082)
-running(0.054)
-skipping(0.047)
-hanging(0.037)
-adult+female+singing(0.036)

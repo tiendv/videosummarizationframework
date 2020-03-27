@@ -1,5 +1,0 @@
-walking(0.056)
-jogging(0.037)
-exiting(0.028)
-adult+male+speaking(0.025)
-hitchhiking(0.022)

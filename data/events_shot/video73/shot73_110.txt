@@ -1,5 +1,0 @@
-whistling(0.056)
-standing(0.048)
-talking(0.045)
-blowing(0.033)
-adult+male+speaking(0.028)

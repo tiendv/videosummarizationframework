@@ -1,5 +1,0 @@
-flipping(0.124)
-twisting(0.050)
-jumping(0.031)
-skipping(0.026)
-bouncing(0.026)

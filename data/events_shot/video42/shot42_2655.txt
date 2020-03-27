@@ -1,5 +1,0 @@
-walking(0.089)
-adult+male+speaking(0.082)
-hitchhiking(0.062)
-slapping(0.036)
-arresting(0.033)

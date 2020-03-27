@@ -1,5 +1,0 @@
-adult+male+speaking(0.149)
-building(0.125)
-constructing(0.092)
-walking(0.061)
-standing(0.050)

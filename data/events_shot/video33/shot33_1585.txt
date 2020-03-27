@@ -1,5 +1,0 @@
-talking(0.245)
-crying(0.056)
-standing(0.043)
-squinting(0.037)
-sitting(0.036)

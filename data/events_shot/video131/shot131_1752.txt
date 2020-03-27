@@ -1,5 +1,0 @@
-guarding(0.089)
-arresting(0.039)
-clipping(0.032)
-adult+male+speaking(0.030)
-locking(0.029)

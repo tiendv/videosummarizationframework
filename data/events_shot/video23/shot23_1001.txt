@@ -1,5 +1,0 @@
-chewing(0.092)
-cracking(0.070)
-adult+male+speaking(0.059)
-licking(0.044)
-squinting(0.025)

@@ -1,5 +1,0 @@
-drying(0.239)
-boiling(0.107)
-stirring(0.075)
-cooking(0.057)
-dipping(0.026)

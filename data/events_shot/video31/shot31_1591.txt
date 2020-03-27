@@ -1,5 +1,0 @@
-telephoning(0.180)
-calling(0.112)
-slapping(0.081)
-punching(0.048)
-fighting(0.043)

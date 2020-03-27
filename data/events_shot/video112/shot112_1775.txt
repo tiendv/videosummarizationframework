@@ -1,5 +1,0 @@
-fencing(0.877)
-walking(0.019)
-building(0.010)
-running(0.006)
-exiting(0.005)

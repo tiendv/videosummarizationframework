@@ -1,5 +1,0 @@
-twisting(0.050)
-spinning(0.031)
-crafting(0.030)
-covering(0.028)
-shaking(0.024)

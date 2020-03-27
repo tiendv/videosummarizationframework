@@ -1,5 +1,0 @@
-fighting(0.130)
-attacking(0.077)
-punching(0.048)
-walking(0.046)
-arresting(0.043)

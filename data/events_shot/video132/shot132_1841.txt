@@ -1,5 +1,0 @@
-cutting(0.174)
-drying(0.068)
-slicing(0.055)
-clipping(0.045)
-combing(0.038)

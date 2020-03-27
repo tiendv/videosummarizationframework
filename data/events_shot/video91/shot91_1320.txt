@@ -1,5 +1,0 @@
-folding(0.127)
-adult+female+speaking(0.125)
-packing(0.094)
-adult+female+singing(0.054)
-adult+male+speaking(0.040)

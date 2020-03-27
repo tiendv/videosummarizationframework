@@ -1,5 +1,0 @@
-hugging(0.054)
-sitting(0.049)
-queuing(0.043)
-talking(0.038)
-standing(0.038)

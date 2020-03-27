@@ -1,5 +1,0 @@
-spinning(0.125)
-turning(0.117)
-opening(0.041)
-closing(0.040)
-waving(0.029)

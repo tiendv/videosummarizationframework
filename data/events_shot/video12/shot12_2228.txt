@@ -1,5 +1,0 @@
-locking(0.135)
-assembling(0.058)
-shooting(0.050)
-gripping(0.049)
-building(0.048)

@@ -1,5 +1,0 @@
-handcuffing(0.036)
-stealing(0.035)
-hugging(0.031)
-dressing(0.026)
-adult+male+speaking(0.025)

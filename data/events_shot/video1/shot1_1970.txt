@@ -1,5 +1,0 @@
-hugging(0.185)
-pointing(0.097)
-aiming(0.052)
-filming(0.039)
-standing(0.039)

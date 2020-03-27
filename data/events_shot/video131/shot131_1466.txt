@@ -1,5 +1,0 @@
-walking(0.056)
-running(0.039)
-stomping(0.027)
-rising(0.026)
-bowing(0.022)

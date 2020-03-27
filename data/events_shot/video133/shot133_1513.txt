@@ -1,5 +1,0 @@
-opening(0.081)
-sitting(0.078)
-closing(0.071)
-hanging(0.067)
-discussing(0.063)

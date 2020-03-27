@@ -1,5 +1,0 @@
-pointing(0.064)
-chewing(0.045)
-talking(0.037)
-sitting(0.036)
-adult+male+speaking(0.024)

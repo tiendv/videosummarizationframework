@@ -1,5 +1,0 @@
-grilling(0.184)
-cooking(0.100)
-barbecuing(0.080)
-playing+music(0.036)
-baking(0.027)

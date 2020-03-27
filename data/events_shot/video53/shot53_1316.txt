@@ -1,5 +1,0 @@
-towing(0.116)
-driving(0.089)
-fueling(0.080)
-walking(0.065)
-queuing(0.059)

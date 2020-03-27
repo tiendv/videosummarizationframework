@@ -1,5 +1,0 @@
-tapping(0.135)
-brushing(0.076)
-waking(0.074)
-massaging(0.072)
-sleeping(0.061)

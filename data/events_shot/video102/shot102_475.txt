@@ -1,5 +1,0 @@
-hiking(0.063)
-sneezing(0.058)
-coughing(0.037)
-standing(0.031)
-climbing(0.029)

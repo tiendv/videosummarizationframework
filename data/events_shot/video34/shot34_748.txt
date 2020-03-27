@@ -1,5 +1,0 @@
-hugging(0.087)
-adult+male+speaking(0.068)
-stacking(0.067)
-packing(0.041)
-unpacking(0.029)

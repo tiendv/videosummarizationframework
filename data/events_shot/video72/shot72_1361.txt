@@ -1,5 +1,0 @@
-smiling(0.066)
-stopping(0.045)
-driving(0.039)
-slapping(0.035)
-spitting(0.030)

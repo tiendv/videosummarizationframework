@@ -1,5 +1,0 @@
-lecturing(0.072)
-sitting(0.061)
-talking(0.055)
-adult+female+speaking(0.055)
-adult+male+speaking(0.050)

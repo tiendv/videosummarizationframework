@@ -1,5 +1,0 @@
-fencing(0.099)
-building(0.026)
-cleaning(0.024)
-standing(0.021)
-knocking(0.021)

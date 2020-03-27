@@ -1,5 +1,0 @@
-drinking(0.120)
-painting(0.062)
-stacking(0.058)
-sneezing(0.031)
-adult+female+speaking(0.031)

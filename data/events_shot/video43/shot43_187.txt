@@ -1,5 +1,0 @@
-walking(0.703)
-exiting(0.049)
-filming(0.018)
-entering(0.016)
-standing(0.015)

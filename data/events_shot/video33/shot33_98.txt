@@ -1,5 +1,0 @@
-fishing(0.065)
-autographing(0.045)
-tattooing(0.036)
-hammering(0.027)
-adult+male+speaking(0.023)

@@ -1,5 +1,0 @@
-raising(0.136)
-lifting(0.061)
-standing(0.039)
-shrugging(0.038)
-laughing(0.022)

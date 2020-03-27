@@ -1,5 +1,0 @@
-mowing(0.109)
-bicycling(0.105)
-inflating(0.063)
-pedaling(0.060)
-pushing(0.056)

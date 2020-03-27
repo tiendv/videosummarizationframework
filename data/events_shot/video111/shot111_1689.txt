@@ -1,5 +1,0 @@
-towing(0.185)
-hitchhiking(0.069)
-reading(0.056)
-loading(0.030)
-adult+male+speaking(0.030)

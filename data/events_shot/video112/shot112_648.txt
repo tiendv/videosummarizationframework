@@ -1,5 +1,0 @@
-standing(0.146)
-talking(0.100)
-guarding(0.050)
-starting(0.040)
-adult+male+speaking(0.038)

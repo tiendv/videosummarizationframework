@@ -1,5 +1,0 @@
-signing(0.142)
-adult+female+speaking(0.139)
-interviewing(0.044)
-talking(0.040)
-asking(0.038)

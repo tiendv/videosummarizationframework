@@ -1,5 +1,0 @@
-drilling(0.208)
-screwing(0.110)
-repairing(0.073)
-locking(0.057)
-working(0.041)

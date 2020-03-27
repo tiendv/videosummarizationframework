@@ -1,5 +1,0 @@
-punching(0.102)
-guarding(0.053)
-adult+male+speaking(0.048)
-blocking(0.040)
-arresting(0.034)

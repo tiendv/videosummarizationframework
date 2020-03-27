@@ -1,5 +1,0 @@
-dining(0.055)
-standing(0.039)
-bowing(0.032)
-adult+female+singing(0.029)
-adult+male+singing(0.025)

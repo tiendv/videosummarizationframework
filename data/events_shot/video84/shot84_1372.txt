@@ -1,5 +1,0 @@
-reading(0.993)
-studying(0.001)
-child+speaking(0.001)
-stacking(0.001)
-flipping(0.000)

@@ -1,5 +1,0 @@
-sneezing(0.359)
-coughing(0.055)
-laughing(0.052)
-cracking(0.046)
-sitting(0.043)

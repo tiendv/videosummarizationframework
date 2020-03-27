@@ -1,5 +1,0 @@
-pointing(0.166)
-adult+male+speaking(0.066)
-coaching(0.060)
-asking(0.036)
-guarding(0.032)

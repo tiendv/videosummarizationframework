@@ -1,5 +1,0 @@
-stomping(0.068)
-climbing(0.023)
-gripping(0.023)
-crushing(0.022)
-handcuffing(0.021)

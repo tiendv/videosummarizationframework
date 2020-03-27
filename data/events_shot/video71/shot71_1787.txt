@@ -1,5 +1,0 @@
-pointing(0.064)
-standing(0.062)
-adult+male+speaking(0.045)
-imitating(0.029)
-talking(0.022)

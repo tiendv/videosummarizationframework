@@ -1,5 +1,0 @@
-rinsing(0.197)
-washing(0.134)
-raining(0.052)
-drenching(0.037)
-waking(0.024)

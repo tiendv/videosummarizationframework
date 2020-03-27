@@ -1,5 +1,0 @@
-walking(0.116)
-punching(0.052)
-knocking(0.043)
-guarding(0.034)
-pushing(0.026)

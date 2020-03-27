@@ -1,5 +1,0 @@
-sneezing(0.048)
-sniffing(0.036)
-smelling(0.032)
-giving(0.030)
-adult+female+speaking(0.023)

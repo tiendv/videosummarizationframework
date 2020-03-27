@@ -1,5 +1,0 @@
-sneezing(0.119)
-coughing(0.094)
-adult+male+singing(0.080)
-adult+male+speaking(0.065)
-asking(0.040)

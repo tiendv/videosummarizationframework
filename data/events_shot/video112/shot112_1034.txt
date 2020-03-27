@@ -1,5 +1,0 @@
-fencing(0.949)
-adult+male+speaking(0.004)
-guarding(0.003)
-preaching(0.003)
-walking(0.002)

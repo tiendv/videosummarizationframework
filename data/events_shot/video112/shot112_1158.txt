@@ -1,5 +1,0 @@
-child+speaking(0.165)
-asking(0.082)
-pointing(0.063)
-teaching(0.050)
-child+singing(0.043)

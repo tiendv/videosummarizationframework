@@ -1,5 +1,0 @@
-sleeping(0.616)
-waking(0.185)
-resting(0.063)
-massaging(0.061)
-cracking(0.012)

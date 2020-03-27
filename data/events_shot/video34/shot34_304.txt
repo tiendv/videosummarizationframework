@@ -1,5 +1,0 @@
-cooking(0.135)
-baking(0.103)
-chewing(0.082)
-talking(0.074)
-coughing(0.046)

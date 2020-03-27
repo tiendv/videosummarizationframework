@@ -1,5 +1,0 @@
-handcuffing(0.108)
-cracking(0.091)
-hugging(0.031)
-gripping(0.030)
-adult+male+speaking(0.029)

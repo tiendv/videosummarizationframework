@@ -1,5 +1,0 @@
-talking(0.075)
-tattooing(0.063)
-sitting(0.049)
-manicuring(0.045)
-adult+female+speaking(0.045)

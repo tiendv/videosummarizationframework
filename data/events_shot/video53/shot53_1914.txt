@@ -1,5 +1,0 @@
-fencing(0.213)
-pointing(0.132)
-discussing(0.099)
-adult+male+speaking(0.098)
-coaching(0.050)

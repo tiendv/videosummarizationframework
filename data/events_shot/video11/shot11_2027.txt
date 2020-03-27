@@ -1,5 +1,0 @@
-stacking(0.575)
-playing(0.025)
-tapping(0.020)
-painting(0.013)
-adult+male+speaking(0.008)

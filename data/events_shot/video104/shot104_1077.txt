@@ -1,5 +1,0 @@
-exiting(0.105)
-smiling(0.055)
-entering(0.052)
-closing(0.045)
-adult+female+speaking(0.038)

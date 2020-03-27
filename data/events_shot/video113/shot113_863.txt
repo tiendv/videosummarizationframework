@@ -1,5 +1,0 @@
-shrugging(0.055)
-crying(0.053)
-smiling(0.036)
-frowning(0.028)
-playing+videogames(0.027)

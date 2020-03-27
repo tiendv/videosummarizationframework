@@ -1,5 +1,0 @@
-opening(0.041)
-closing(0.030)
-combing(0.030)
-adult+female+speaking(0.027)
-dressing(0.024)

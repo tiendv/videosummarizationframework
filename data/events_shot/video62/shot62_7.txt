@@ -1,5 +1,0 @@
-painting(0.333)
-packing(0.067)
-inflating(0.062)
-wrapping(0.052)
-crafting(0.023)

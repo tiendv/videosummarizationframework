@@ -1,5 +1,0 @@
-painting(0.034)
-opening(0.033)
-closing(0.029)
-packaging(0.028)
-crawling(0.024)

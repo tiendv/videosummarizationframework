@@ -1,5 +1,0 @@
-crying(0.143)
-opening(0.049)
-closing(0.036)
-slapping(0.031)
-adult+female+speaking(0.028)

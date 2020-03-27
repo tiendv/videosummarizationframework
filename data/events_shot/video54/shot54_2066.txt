@@ -1,5 +1,0 @@
-riding(0.143)
-driving(0.057)
-bicycling(0.038)
-snowing(0.037)
-boarding(0.035)

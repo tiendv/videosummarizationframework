@@ -1,5 +1,0 @@
-waking(0.062)
-talking(0.044)
-adult+female+speaking(0.044)
-sneezing(0.042)
-sitting(0.034)

@@ -1,5 +1,0 @@
-adult+male+singing(0.141)
-adult+female+singing(0.137)
-stomping(0.099)
-playing+music(0.046)
-bowing(0.045)

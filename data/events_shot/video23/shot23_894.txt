@@ -1,5 +1,0 @@
-walking(0.133)
-hiking(0.075)
-standing(0.030)
-laughing(0.027)
-child+singing(0.021)

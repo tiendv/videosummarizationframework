@@ -1,5 +1,0 @@
-teaching(0.108)
-reading(0.090)
-handwriting(0.090)
-instructing(0.040)
-adult+female+speaking(0.039)

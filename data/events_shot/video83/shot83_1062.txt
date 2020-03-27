@@ -1,5 +1,0 @@
-drinking(0.649)
-pouring(0.031)
-dipping(0.017)
-manicuring(0.014)
-cooking(0.011)

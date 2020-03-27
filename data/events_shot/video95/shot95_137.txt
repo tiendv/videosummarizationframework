@@ -1,5 +1,0 @@
-adult+female+speaking(0.039)
-adult+male+speaking(0.029)
-handcuffing(0.028)
-crying(0.023)
-discussing(0.021)

@@ -1,5 +1,0 @@
-climbing(0.565)
-hiking(0.210)
-snowing(0.047)
-rising(0.010)
-standing(0.009)

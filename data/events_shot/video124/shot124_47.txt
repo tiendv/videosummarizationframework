@@ -1,5 +1,0 @@
-smoking(0.142)
-knocking(0.073)
-slapping(0.048)
-asking(0.040)
-adult+male+speaking(0.038)

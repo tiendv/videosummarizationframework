@@ -1,5 +1,0 @@
-adult+female+speaking(0.070)
-asking(0.056)
-adult+male+speaking(0.052)
-driving(0.037)
-towing(0.025)

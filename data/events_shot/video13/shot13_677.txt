@@ -1,5 +1,0 @@
-hugging(0.073)
-queuing(0.066)
-roaring(0.042)
-riding(0.035)
-driving(0.035)

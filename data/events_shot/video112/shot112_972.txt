@@ -1,5 +1,0 @@
-smiling(0.054)
-walking(0.046)
-slapping(0.041)
-laughing(0.037)
-shrugging(0.036)

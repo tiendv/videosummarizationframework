@@ -1,5 +1,0 @@
-reading(0.693)
-talking(0.049)
-playing(0.039)
-sitting(0.029)
-studying(0.010)

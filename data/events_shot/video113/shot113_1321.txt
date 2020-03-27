@@ -1,5 +1,0 @@
-inflating(0.133)
-cleaning(0.092)
-mopping(0.043)
-dusting(0.030)
-baking(0.025)

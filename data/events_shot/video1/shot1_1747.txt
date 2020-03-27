@@ -1,5 +1,0 @@
-fencing(0.308)
-walking(0.104)
-queuing(0.097)
-slapping(0.026)
-hugging(0.024)

@@ -1,5 +1,0 @@
-camping(0.097)
-packing(0.057)
-unpacking(0.032)
-climbing(0.025)
-squatting(0.024)

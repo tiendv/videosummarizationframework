@@ -1,5 +1,0 @@
-slapping(0.124)
-smiling(0.047)
-hugging(0.035)
-signing(0.031)
-child+speaking(0.029)

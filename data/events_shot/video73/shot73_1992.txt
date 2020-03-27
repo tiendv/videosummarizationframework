@@ -1,5 +1,0 @@
-drinking(0.120)
-dining(0.036)
-playing+music(0.033)
-drumming(0.032)
-walking(0.025)

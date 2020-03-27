@@ -1,5 +1,0 @@
-opening(0.095)
-hugging(0.079)
-laughing(0.076)
-playing(0.058)
-closing(0.035)

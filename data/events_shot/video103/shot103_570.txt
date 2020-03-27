@@ -1,5 +1,0 @@
-telephoning(0.130)
-arresting(0.107)
-walking(0.062)
-calling(0.053)
-handcuffing(0.032)

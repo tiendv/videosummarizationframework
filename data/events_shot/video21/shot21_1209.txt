@@ -1,5 +1,0 @@
-slapping(0.200)
-knocking(0.104)
-imitating(0.030)
-adult+male+speaking(0.025)
-blocking(0.018)

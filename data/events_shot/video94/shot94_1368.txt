@@ -1,5 +1,0 @@
-drying(0.050)
-stealing(0.043)
-adult+female+singing(0.040)
-slapping(0.035)
-rocking(0.020)

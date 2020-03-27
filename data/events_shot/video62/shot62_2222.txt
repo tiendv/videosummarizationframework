@@ -1,5 +1,0 @@
-spinning(0.411)
-sliding(0.101)
-rolling(0.051)
-turning(0.049)
-racing(0.024)

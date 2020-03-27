@@ -1,5 +1,0 @@
-chewing(0.117)
-sitting(0.105)
-child+speaking(0.048)
-tapping(0.038)
-discussing(0.032)

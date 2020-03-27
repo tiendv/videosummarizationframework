@@ -1,5 +1,0 @@
-standing(0.191)
-guarding(0.117)
-laughing(0.071)
-saluting(0.047)
-waving(0.030)

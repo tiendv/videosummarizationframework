@@ -1,5 +1,0 @@
-hugging(0.092)
-sleeping(0.050)
-adult+male+speaking(0.043)
-cuddling(0.034)
-filming(0.022)

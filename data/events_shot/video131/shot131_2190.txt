@@ -1,5 +1,0 @@
-queuing(0.195)
-adult+female+speaking(0.108)
-marrying(0.046)
-standing(0.041)
-discussing(0.037)

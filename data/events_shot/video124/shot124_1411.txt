@@ -1,5 +1,0 @@
-walking(0.740)
-standing(0.027)
-talking(0.013)
-carrying(0.010)
-whistling(0.010)

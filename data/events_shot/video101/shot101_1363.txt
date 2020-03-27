@@ -1,5 +1,0 @@
-laughing(0.054)
-walking(0.052)
-barking(0.051)
-talking(0.038)
-howling(0.034)

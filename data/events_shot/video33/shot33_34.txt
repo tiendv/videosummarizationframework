@@ -1,5 +1,0 @@
-adult+female+singing(0.707)
-adult+female+speaking(0.095)
-singing(0.029)
-crying(0.013)
-whistling(0.011)

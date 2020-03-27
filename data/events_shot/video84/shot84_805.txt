@@ -1,5 +1,0 @@
-adult+female+speaking(0.125)
-crying(0.040)
-slapping(0.036)
-asking(0.035)
-chewing(0.032)

@@ -1,5 +1,0 @@
-smoking(0.043)
-coughing(0.034)
-playing+videogames(0.034)
-hammering(0.027)
-reading(0.027)

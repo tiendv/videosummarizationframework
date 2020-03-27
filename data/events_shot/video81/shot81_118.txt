@@ -1,5 +1,0 @@
-baking(0.096)
-cooking(0.084)
-packing(0.036)
-folding(0.030)
-wrapping(0.025)

@@ -1,5 +1,0 @@
-dining(0.122)
-asking(0.087)
-autographing(0.070)
-queuing(0.053)
-socializing(0.032)

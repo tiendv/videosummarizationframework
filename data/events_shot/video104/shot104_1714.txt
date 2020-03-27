@@ -1,5 +1,0 @@
-adult+male+speaking(0.124)
-adult+female+speaking(0.058)
-discussing(0.049)
-queuing(0.039)
-filming(0.035)

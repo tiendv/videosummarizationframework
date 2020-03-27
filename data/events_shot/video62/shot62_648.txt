@@ -1,5 +1,0 @@
-fencing(0.903)
-guarding(0.014)
-hanging(0.012)
-gripping(0.008)
-cleaning(0.006)

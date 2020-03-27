@@ -1,5 +1,0 @@
-rising(0.075)
-ascending(0.049)
-descending(0.032)
-talking(0.031)
-adult+female+singing(0.026)

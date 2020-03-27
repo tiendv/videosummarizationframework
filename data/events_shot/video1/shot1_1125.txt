@@ -1,5 +1,0 @@
-gripping(0.080)
-exercising(0.060)
-reaching(0.045)
-adult+male+speaking(0.032)
-standing(0.031)

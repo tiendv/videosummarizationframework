@@ -1,5 +1,0 @@
-fencing(0.204)
-barking(0.106)
-slapping(0.083)
-imitating(0.070)
-laughing(0.027)

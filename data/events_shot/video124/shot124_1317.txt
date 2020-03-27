@@ -1,5 +1,0 @@
-standing(0.060)
-talking(0.054)
-adult+female+speaking(0.046)
-slapping(0.035)
-imitating(0.032)

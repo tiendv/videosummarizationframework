@@ -1,5 +1,0 @@
-praying(0.108)
-queuing(0.074)
-walking(0.058)
-cooking(0.036)
-adult+male+speaking(0.031)

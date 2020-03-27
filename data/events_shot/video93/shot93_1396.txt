@@ -1,5 +1,0 @@
-adult+female+speaking(0.100)
-crying(0.061)
-cooking(0.029)
-frowning(0.023)
-asking(0.022)

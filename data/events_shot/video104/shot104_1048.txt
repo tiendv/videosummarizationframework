@@ -1,5 +1,0 @@
-fencing(0.158)
-boxing(0.038)
-building(0.034)
-assembling(0.029)
-adult+male+speaking(0.027)

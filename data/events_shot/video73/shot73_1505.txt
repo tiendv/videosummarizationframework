@@ -1,5 +1,0 @@
-bicycling(0.104)
-skating(0.052)
-flying(0.027)
-riding(0.027)
-fishing(0.024)

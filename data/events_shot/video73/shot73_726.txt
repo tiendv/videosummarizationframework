@@ -1,5 +1,0 @@
-painting(0.081)
-drawing(0.031)
-standing(0.027)
-autographing(0.023)
-drying(0.022)

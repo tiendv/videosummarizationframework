@@ -1,5 +1,0 @@
-marrying(0.206)
-entering(0.079)
-dressing(0.062)
-exiting(0.051)
-walking(0.048)

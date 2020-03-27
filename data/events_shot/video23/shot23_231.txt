@@ -1,5 +1,0 @@
-filming(0.085)
-photographing(0.045)
-adult+female+speaking(0.041)
-painting(0.032)
-adult+male+speaking(0.030)

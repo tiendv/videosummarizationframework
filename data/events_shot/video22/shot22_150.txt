@@ -1,5 +1,0 @@
-bowing(0.053)
-falling(0.039)
-drinking(0.038)
-adult+male+speaking(0.026)
-crying(0.026)

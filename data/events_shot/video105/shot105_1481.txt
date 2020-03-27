@@ -1,5 +1,0 @@
-baking(0.386)
-cooking(0.133)
-standing(0.041)
-working(0.036)
-turning(0.027)

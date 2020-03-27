@@ -1,5 +1,0 @@
-dipping(0.180)
-cooking(0.155)
-baking(0.107)
-poking(0.036)
-slicing(0.027)

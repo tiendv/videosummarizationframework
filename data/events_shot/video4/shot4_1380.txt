@@ -1,5 +1,0 @@
-telephoning(0.090)
-asking(0.066)
-adult+female+speaking(0.058)
-calling(0.043)
-pointing(0.036)

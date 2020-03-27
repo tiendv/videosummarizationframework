@@ -1,5 +1,0 @@
-cooking(0.124)
-stirring(0.048)
-baking(0.033)
-frying(0.021)
-adult+male+speaking(0.019)

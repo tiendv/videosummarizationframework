@@ -1,5 +1,0 @@
-cooking(0.049)
-talking(0.048)
-standing(0.045)
-pointing(0.031)
-slapping(0.028)

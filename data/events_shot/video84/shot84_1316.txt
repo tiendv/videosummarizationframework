@@ -1,5 +1,0 @@
-stacking(0.050)
-drinking(0.037)
-adult+male+speaking(0.035)
-dining(0.034)
-punching(0.028)

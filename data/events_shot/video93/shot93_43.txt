@@ -1,5 +1,0 @@
-drying(0.049)
-walking(0.036)
-standing(0.035)
-talking(0.029)
-adult+male+speaking(0.024)

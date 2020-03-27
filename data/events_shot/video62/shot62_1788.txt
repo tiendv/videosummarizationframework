@@ -1,5 +1,0 @@
-raining(0.132)
-performing(0.050)
-adult+female+singing(0.044)
-dancing(0.039)
-walking(0.035)

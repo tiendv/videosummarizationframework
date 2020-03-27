@@ -1,5 +1,0 @@
-walking(0.082)
-shopping(0.050)
-selling(0.038)
-standing(0.024)
-playing+videogames(0.023)

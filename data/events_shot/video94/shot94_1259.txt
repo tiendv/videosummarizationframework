@@ -1,5 +1,0 @@
-punching(0.055)
-slapping(0.037)
-squatting(0.026)
-sneezing(0.024)
-bowing(0.021)

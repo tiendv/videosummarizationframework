@@ -1,5 +1,0 @@
-queuing(0.883)
-walking(0.015)
-boarding(0.012)
-protesting(0.012)
-asking(0.011)

@@ -1,5 +1,0 @@
-arresting(0.104)
-walking(0.077)
-talking(0.055)
-driving(0.045)
-raining(0.036)

@@ -1,5 +1,0 @@
-waving(0.083)
-walking(0.032)
-pointing(0.027)
-filming(0.023)
-smiling(0.023)

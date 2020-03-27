@@ -1,5 +1,0 @@
-rising(0.088)
-adult+female+singing(0.075)
-floating(0.062)
-playing(0.049)
-singing(0.042)

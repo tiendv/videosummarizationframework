@@ -1,5 +1,0 @@
-adult+male+speaking(0.131)
-bowing(0.033)
-assembling(0.032)
-lecturing(0.029)
-adult+female+speaking(0.023)

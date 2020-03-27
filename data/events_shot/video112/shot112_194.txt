@@ -1,5 +1,0 @@
-tapping(0.350)
-chewing(0.149)
-reading(0.030)
-studying(0.029)
-knitting(0.026)

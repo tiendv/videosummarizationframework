@@ -1,5 +1,0 @@
-towing(0.169)
-driving(0.161)
-fueling(0.079)
-arresting(0.078)
-riding(0.063)

@@ -1,5 +1,0 @@
-crying(0.193)
-walking(0.041)
-coughing(0.040)
-carrying(0.031)
-locking(0.028)

@@ -1,5 +1,0 @@
-waking(0.057)
-telephoning(0.053)
-adult+male+speaking(0.049)
-sneezing(0.048)
-calling(0.047)

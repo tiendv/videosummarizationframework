@@ -1,5 +1,0 @@
-arresting(0.245)
-handcuffing(0.047)
-playing+videogames(0.038)
-attacking(0.032)
-stealing(0.031)

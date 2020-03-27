@@ -1,5 +1,0 @@
-walking(0.136)
-hiking(0.110)
-drying(0.086)
-playing+videogames(0.039)
-diving(0.025)

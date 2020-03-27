@@ -1,5 +1,0 @@
-shopping(0.123)
-stealing(0.079)
-walking(0.048)
-sitting(0.030)
-entering(0.030)

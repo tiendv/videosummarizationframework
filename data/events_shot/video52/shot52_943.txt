@@ -1,5 +1,0 @@
-hitchhiking(0.152)
-walking(0.096)
-talking(0.057)
-asking(0.056)
-discussing(0.051)

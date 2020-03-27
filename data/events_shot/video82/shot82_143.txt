@@ -1,5 +1,0 @@
-loading(0.058)
-towing(0.049)
-unloading(0.043)
-closing(0.032)
-fueling(0.031)

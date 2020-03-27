@@ -1,5 +1,0 @@
-punching(0.065)
-boxing(0.044)
-tattooing(0.035)
-hugging(0.032)
-adult+female+singing(0.023)

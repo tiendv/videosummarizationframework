@@ -1,5 +1,0 @@
-spinning(0.136)
-stacking(0.051)
-pressing(0.046)
-turning(0.036)
-starting(0.029)

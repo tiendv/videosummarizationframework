@@ -1,5 +1,0 @@
-crying(0.373)
-frowning(0.040)
-walking(0.035)
-arresting(0.032)
-fighting(0.028)

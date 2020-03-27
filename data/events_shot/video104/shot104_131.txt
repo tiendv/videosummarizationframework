@@ -1,5 +1,0 @@
-selling(0.050)
-adult+female+speaking(0.049)
-giving(0.039)
-dining(0.037)
-laughing(0.036)

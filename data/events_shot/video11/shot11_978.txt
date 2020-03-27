@@ -1,5 +1,0 @@
-telephoning(0.061)
-working(0.055)
-typing(0.036)
-sitting(0.033)
-adult+male+speaking(0.030)

@@ -1,5 +1,0 @@
-frowning(0.124)
-discussing(0.093)
-crying(0.089)
-talking(0.047)
-adult+female+speaking(0.039)

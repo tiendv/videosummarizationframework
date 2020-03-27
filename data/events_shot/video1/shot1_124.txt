@@ -1,5 +1,0 @@
-sneezing(0.112)
-brushing(0.037)
-coughing(0.034)
-eating(0.033)
-child+speaking(0.024)

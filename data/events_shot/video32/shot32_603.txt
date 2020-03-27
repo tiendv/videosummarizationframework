@@ -1,5 +1,0 @@
-walking(0.217)
-turning(0.068)
-spinning(0.040)
-carrying(0.025)
-calling(0.019)

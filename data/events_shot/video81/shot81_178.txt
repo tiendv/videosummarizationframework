@@ -1,5 +1,0 @@
-digging(0.353)
-burying(0.079)
-shoveling(0.042)
-sowing(0.025)
-cracking(0.023)

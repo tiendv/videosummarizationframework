@@ -1,5 +1,0 @@
-painting(0.042)
-adult+male+speaking(0.032)
-playing+videogames(0.029)
-standing(0.027)
-slapping(0.025)

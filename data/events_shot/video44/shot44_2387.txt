@@ -1,5 +1,0 @@
-reading(0.372)
-sitting(0.050)
-talking(0.044)
-opening(0.031)
-closing(0.025)

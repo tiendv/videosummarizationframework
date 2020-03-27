@@ -1,5 +1,0 @@
-crying(0.405)
-falling(0.047)
-dropping(0.033)
-slapping(0.030)
-sneezing(0.025)

@@ -1,5 +1,0 @@
-cleaning(0.075)
-sneezing(0.032)
-adult+female+singing(0.031)
-coughing(0.026)
-rocking(0.025)

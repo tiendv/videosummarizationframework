@@ -1,5 +1,0 @@
-stirring(0.090)
-cooking(0.083)
-pointing(0.035)
-hugging(0.026)
-pouring(0.022)

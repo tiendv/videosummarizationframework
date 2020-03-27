@@ -1,5 +1,0 @@
-drying(0.590)
-turning(0.029)
-sliding(0.020)
-falling(0.020)
-scratching(0.016)

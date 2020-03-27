@@ -1,5 +1,0 @@
-arresting(0.301)
-guarding(0.285)
-aiming(0.134)
-handcuffing(0.108)
-playing+videogames(0.018)

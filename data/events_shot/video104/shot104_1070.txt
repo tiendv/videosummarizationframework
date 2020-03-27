@@ -1,5 +1,0 @@
-walking(0.240)
-running(0.063)
-cooking(0.054)
-dining(0.053)
-entering(0.032)

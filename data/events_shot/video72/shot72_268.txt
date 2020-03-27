@@ -1,5 +1,0 @@
-skiing(0.038)
-standing(0.025)
-aiming(0.020)
-flying(0.019)
-walking(0.015)

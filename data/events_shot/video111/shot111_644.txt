@@ -1,5 +1,0 @@
-exiting(0.042)
-entering(0.038)
-mopping(0.033)
-vacuuming(0.030)
-playing+videogames(0.023)

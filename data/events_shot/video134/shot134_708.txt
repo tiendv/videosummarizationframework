@@ -1,5 +1,0 @@
-crying(0.778)
-hugging(0.022)
-frowning(0.022)
-laughing(0.016)
-adult+female+speaking(0.016)

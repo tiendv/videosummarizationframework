@@ -1,5 +1,0 @@
-rising(0.129)
-clipping(0.070)
-dropping(0.040)
-falling(0.036)
-playing+videogames(0.036)

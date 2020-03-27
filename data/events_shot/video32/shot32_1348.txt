@@ -1,5 +1,0 @@
-waving(0.095)
-smiling(0.083)
-slapping(0.042)
-hugging(0.042)
-pointing(0.039)

@@ -1,5 +1,0 @@
-standing(0.063)
-raining(0.052)
-laughing(0.037)
-talking(0.031)
-preaching(0.029)

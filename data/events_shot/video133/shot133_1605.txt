@@ -1,5 +1,0 @@
-dining(0.511)
-adult+female+speaking(0.025)
-bowling(0.024)
-gambling(0.024)
-eating(0.021)

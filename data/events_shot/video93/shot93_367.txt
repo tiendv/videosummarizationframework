@@ -1,5 +1,0 @@
-crying(0.095)
-slapping(0.085)
-adult+male+speaking(0.036)
-shooting(0.028)
-adult+female+speaking(0.024)

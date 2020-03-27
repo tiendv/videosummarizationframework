@@ -1,5 +1,0 @@
-driving(0.056)
-talking(0.047)
-snowing(0.037)
-adult+male+speaking(0.035)
-raining(0.035)

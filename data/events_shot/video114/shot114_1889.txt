@@ -1,5 +1,0 @@
-hugging(0.331)
-walking(0.043)
-standing(0.031)
-cuddling(0.031)
-filming(0.030)

@@ -1,5 +1,0 @@
-raising(0.129)
-reaching(0.069)
-pointing(0.068)
-slapping(0.039)
-adult+male+speaking(0.031)

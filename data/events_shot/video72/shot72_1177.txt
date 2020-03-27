@@ -1,5 +1,0 @@
-hanging(0.169)
-guarding(0.035)
-shooting(0.029)
-swinging(0.026)
-standing(0.026)

@@ -1,5 +1,0 @@
-sanding(0.050)
-snowing(0.049)
-cleaning(0.035)
-aiming(0.028)
-drying(0.023)

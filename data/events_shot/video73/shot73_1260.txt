@@ -1,5 +1,0 @@
-drinking(0.209)
-dining(0.049)
-pouring(0.026)
-sitting(0.024)
-hanging(0.023)

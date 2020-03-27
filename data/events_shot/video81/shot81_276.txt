@@ -1,5 +1,0 @@
-sneezing(0.063)
-combing(0.051)
-brushing(0.041)
-drying(0.038)
-adult+female+speaking(0.032)

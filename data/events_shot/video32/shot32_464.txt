@@ -1,5 +1,0 @@
-frowning(0.047)
-shrugging(0.044)
-talking(0.044)
-discussing(0.039)
-shopping(0.032)

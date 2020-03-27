@@ -1,5 +1,0 @@
-crafting(0.133)
-painting(0.103)
-drawing(0.050)
-adult+male+speaking(0.033)
-assembling(0.027)

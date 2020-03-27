@@ -1,5 +1,0 @@
-standing(0.085)
-reaching(0.069)
-imitating(0.035)
-pointing(0.034)
-shrugging(0.027)

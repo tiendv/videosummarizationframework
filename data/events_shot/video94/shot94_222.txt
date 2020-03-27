@@ -1,5 +1,0 @@
-gripping(0.078)
-aiming(0.039)
-removing(0.031)
-putting(0.028)
-locking(0.027)

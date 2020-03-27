@@ -1,5 +1,0 @@
-arresting(0.177)
-guarding(0.135)
-adult+male+speaking(0.064)
-discussing(0.062)
-interviewing(0.055)

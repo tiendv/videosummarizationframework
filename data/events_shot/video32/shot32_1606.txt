@@ -1,5 +1,0 @@
-eating(0.053)
-sitting(0.052)
-crying(0.048)
-calling(0.042)
-praying(0.039)

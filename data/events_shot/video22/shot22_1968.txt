@@ -1,5 +1,0 @@
-constructing(0.262)
-building(0.224)
-drilling(0.139)
-hammering(0.107)
-carving(0.022)

@@ -1,5 +1,0 @@
-driving(0.063)
-skiing(0.062)
-riding(0.052)
-talking(0.046)
-sitting(0.045)

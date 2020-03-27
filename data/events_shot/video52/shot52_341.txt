@@ -1,5 +1,0 @@
-opening(0.094)
-closing(0.079)
-bowling(0.035)
-loading(0.016)
-aiming(0.016)

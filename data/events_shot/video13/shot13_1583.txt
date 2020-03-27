@@ -1,5 +1,0 @@
-sliding(0.091)
-rolling(0.066)
-chasing(0.052)
-dragging(0.045)
-running(0.037)

@@ -1,5 +1,0 @@
-drinking(0.142)
-adult+female+speaking(0.059)
-adult+male+speaking(0.037)
-discussing(0.032)
-tattooing(0.029)

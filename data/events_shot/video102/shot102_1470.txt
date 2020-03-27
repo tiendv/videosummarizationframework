@@ -1,5 +1,0 @@
-adult+female+speaking(0.108)
-washing(0.100)
-brushing(0.082)
-drying(0.068)
-rinsing(0.048)

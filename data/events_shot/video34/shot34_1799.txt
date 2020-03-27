@@ -1,5 +1,0 @@
-sliding(0.200)
-playing+sports(0.085)
-dunking(0.057)
-jumping(0.047)
-slipping(0.041)

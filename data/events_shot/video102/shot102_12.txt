@@ -1,5 +1,0 @@
-adult+female+speaking(0.091)
-painting(0.082)
-adult+male+speaking(0.064)
-drawing(0.043)
-discussing(0.035)

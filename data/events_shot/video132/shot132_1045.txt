@@ -1,5 +1,0 @@
-draining(0.145)
-flowing(0.106)
-bubbling(0.061)
-flooding(0.043)
-balancing(0.041)

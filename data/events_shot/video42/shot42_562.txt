@@ -1,5 +1,0 @@
-brushing(0.225)
-drinking(0.061)
-sneezing(0.050)
-combing(0.033)
-coughing(0.032)

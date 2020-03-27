@@ -1,5 +1,0 @@
-child+speaking(0.035)
-spraying(0.031)
-running(0.031)
-walking(0.030)
-aiming(0.026)

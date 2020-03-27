@@ -1,5 +1,0 @@
-standing(0.072)
-dressing(0.042)
-hugging(0.030)
-walking(0.029)
-stretching(0.026)

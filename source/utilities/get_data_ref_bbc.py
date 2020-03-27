@@ -1,4 +1,10 @@
 def get_data_ref_bbc(path_ref_bbc):
+    '''
+        This function will return the information about video id, and time of each shot in BBC dataset
+        input: path_ref_bbc - the path of the master processed of bbc file
+        output: ret - a dictionary with the key and value is the video_id and video_name, respectively
+                dict_time - a dictionary with the key and value is the shot_id and its time, respectively
+    '''
     ret = dict()
     dict_time = dict()
     with open(path_ref_bbc, 'r') as f:

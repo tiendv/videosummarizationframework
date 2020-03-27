@@ -1,5 +1,0 @@
-folding(0.706)
-tearing(0.100)
-dressing(0.043)
-buttoning(0.027)
-massaging(0.008)

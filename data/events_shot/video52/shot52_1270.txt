@@ -1,5 +1,0 @@
-praying(0.108)
-preaching(0.095)
-queuing(0.073)
-officiating(0.066)
-adult+male+speaking(0.051)

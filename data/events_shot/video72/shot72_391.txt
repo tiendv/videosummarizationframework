@@ -1,5 +1,0 @@
-arresting(0.129)
-discussing(0.071)
-handcuffing(0.060)
-guarding(0.045)
-working(0.031)

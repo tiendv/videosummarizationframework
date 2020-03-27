@@ -1,5 +1,0 @@
-asking(0.065)
-autographing(0.062)
-adult+male+speaking(0.058)
-standing(0.031)
-walking(0.024)

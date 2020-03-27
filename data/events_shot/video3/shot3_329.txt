@@ -1,5 +1,0 @@
-standing(0.065)
-interviewing(0.043)
-saluting(0.043)
-guarding(0.043)
-discussing(0.040)

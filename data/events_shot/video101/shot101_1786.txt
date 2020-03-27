@@ -1,5 +1,0 @@
-standing(0.141)
-raising(0.059)
-smiling(0.048)
-saluting(0.041)
-shrugging(0.024)

@@ -1,5 +1,0 @@
-carving(0.698)
-stacking(0.025)
-sanding(0.019)
-pressing(0.016)
-flipping(0.015)

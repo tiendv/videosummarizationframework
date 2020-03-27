@@ -1,5 +1,0 @@
-talking(0.105)
-arresting(0.056)
-standing(0.056)
-opening(0.040)
-closing(0.040)

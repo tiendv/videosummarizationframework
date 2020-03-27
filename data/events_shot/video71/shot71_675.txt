@@ -1,5 +1,0 @@
-fighting(0.096)
-packing(0.090)
-unpacking(0.075)
-waking(0.059)
-attacking(0.034)

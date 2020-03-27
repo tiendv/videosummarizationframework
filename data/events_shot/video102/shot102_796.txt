@@ -1,5 +1,0 @@
-singing(0.238)
-adult+female+singing(0.105)
-sneezing(0.069)
-performing(0.053)
-child+singing(0.040)

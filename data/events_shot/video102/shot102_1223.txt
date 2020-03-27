@@ -1,5 +1,0 @@
-talking(0.146)
-pointing(0.067)
-adult+male+speaking(0.057)
-whistling(0.039)
-shaking(0.037)

@@ -1,5 +1,0 @@
-autographing(0.054)
-packing(0.036)
-unpacking(0.036)
-packaging(0.026)
-hugging(0.023)

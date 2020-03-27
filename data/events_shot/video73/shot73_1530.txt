@@ -1,5 +1,0 @@
-hunting(0.056)
-drinking(0.051)
-aiming(0.045)
-standing(0.030)
-adult+male+singing(0.022)

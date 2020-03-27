@@ -1,5 +1,0 @@
-bowling(0.109)
-drinking(0.053)
-standing(0.050)
-sitting(0.037)
-talking(0.036)

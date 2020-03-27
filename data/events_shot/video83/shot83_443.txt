@@ -1,5 +1,0 @@
-sitting(0.183)
-interviewing(0.174)
-talking(0.070)
-discussing(0.057)
-walking(0.046)

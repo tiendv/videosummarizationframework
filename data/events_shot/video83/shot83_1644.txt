@@ -1,5 +1,0 @@
-hugging(0.129)
-walking(0.065)
-cuddling(0.030)
-adult+male+speaking(0.030)
-autographing(0.029)

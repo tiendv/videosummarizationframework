@@ -1,5 +1,0 @@
-opening(0.051)
-closing(0.037)
-walking(0.031)
-slapping(0.026)
-child+singing(0.023)

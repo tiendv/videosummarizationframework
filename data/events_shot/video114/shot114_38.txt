@@ -1,5 +1,0 @@
-adult+male+speaking(0.126)
-playing+videogames(0.106)
-talking(0.027)
-aiming(0.027)
-knocking(0.026)

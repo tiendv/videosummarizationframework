@@ -1,5 +1,0 @@
-raining(0.126)
-walking(0.063)
-filming(0.047)
-carrying(0.044)
-standing(0.036)

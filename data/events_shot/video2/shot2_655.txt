@@ -1,5 +1,0 @@
-mopping(0.083)
-folding(0.082)
-dusting(0.081)
-hammering(0.058)
-unpacking(0.051)

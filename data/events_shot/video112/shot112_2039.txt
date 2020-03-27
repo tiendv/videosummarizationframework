@@ -1,5 +1,0 @@
-handcuffing(0.178)
-dressing(0.077)
-adult+female+speaking(0.062)
-arresting(0.045)
-adult+male+speaking(0.038)

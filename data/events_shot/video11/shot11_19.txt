@@ -1,5 +1,0 @@
-sliding(0.057)
-running(0.047)
-falling(0.039)
-hanging(0.035)
-climbing(0.033)

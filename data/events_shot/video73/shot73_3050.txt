@@ -1,5 +1,0 @@
-rising(0.064)
-blowing(0.052)
-dropping(0.041)
-dancing(0.039)
-adult+female+singing(0.038)

@@ -1,5 +1,0 @@
-pointing(0.062)
-coughing(0.060)
-hugging(0.055)
-telephoning(0.037)
-standing(0.025)

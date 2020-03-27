@@ -1,5 +1,0 @@
-opening(0.092)
-closing(0.074)
-cleaning(0.031)
-working(0.023)
-dusting(0.021)

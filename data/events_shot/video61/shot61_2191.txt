@@ -1,5 +1,0 @@
-hitchhiking(0.158)
-adult+male+singing(0.129)
-adult+male+speaking(0.031)
-laughing(0.031)
-shooting(0.028)

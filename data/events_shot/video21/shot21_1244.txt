@@ -1,5 +1,0 @@
-walking(0.065)
-mowing(0.048)
-adult+male+speaking(0.030)
-standing(0.026)
-sitting(0.024)

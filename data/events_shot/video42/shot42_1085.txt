@@ -1,5 +1,0 @@
-howling(0.069)
-barking(0.042)
-talking(0.028)
-playing+videogames(0.020)
-whistling(0.020)

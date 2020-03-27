@@ -1,5 +1,0 @@
-sneezing(0.251)
-coughing(0.106)
-slapping(0.029)
-laughing(0.028)
-kissing(0.028)

@@ -1,5 +1,0 @@
-hugging(0.033)
-painting(0.030)
-dressing(0.022)
-shaving(0.020)
-putting(0.017)

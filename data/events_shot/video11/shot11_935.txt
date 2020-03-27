@@ -1,5 +1,0 @@
-dressing(0.203)
-walking(0.045)
-tying(0.044)
-standing(0.043)
-packing(0.035)

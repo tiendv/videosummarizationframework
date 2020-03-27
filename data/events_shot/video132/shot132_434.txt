@@ -1,5 +1,0 @@
-crying(0.213)
-smiling(0.027)
-adult+female+speaking(0.024)
-cooking(0.022)
-baking(0.022)

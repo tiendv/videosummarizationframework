@@ -1,5 +1,0 @@
-cracking(0.855)
-climbing(0.016)
-flooding(0.012)
-covering(0.011)
-storming(0.010)

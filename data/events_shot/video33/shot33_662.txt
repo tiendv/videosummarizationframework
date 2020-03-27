@@ -1,5 +1,0 @@
-knocking(0.101)
-raining(0.089)
-talking(0.060)
-walking(0.048)
-locking(0.034)

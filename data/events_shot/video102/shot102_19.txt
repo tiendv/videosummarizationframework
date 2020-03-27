@@ -1,5 +1,0 @@
-hammering(0.031)
-squatting(0.022)
-starting(0.021)
-attacking(0.017)
-smashing(0.017)

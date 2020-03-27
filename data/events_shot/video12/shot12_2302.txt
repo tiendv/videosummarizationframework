@@ -1,5 +1,0 @@
-skiing(0.075)
-flying(0.063)
-sliding(0.054)
-descending(0.043)
-ascending(0.042)

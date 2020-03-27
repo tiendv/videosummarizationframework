@@ -1,5 +1,0 @@
-rising(0.067)
-raining(0.033)
-climbing(0.022)
-roaring(0.021)
-starting(0.021)

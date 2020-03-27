@@ -1,5 +1,0 @@
-sneezing(0.085)
-stacking(0.054)
-adult+female+speaking(0.033)
-laughing(0.027)
-chewing(0.022)

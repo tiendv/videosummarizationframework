@@ -1,5 +1,0 @@
-burying(0.182)
-digging(0.031)
-starting(0.031)
-snapping(0.022)
-adult+male+speaking(0.020)

@@ -1,5 +1,0 @@
-barking(0.331)
-chewing(0.100)
-standing(0.078)
-walking(0.058)
-playing(0.045)

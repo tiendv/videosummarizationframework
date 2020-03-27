@@ -1,5 +1,0 @@
-arresting(0.059)
-fighting(0.050)
-hugging(0.035)
-playing+videogames(0.028)
-attacking(0.025)

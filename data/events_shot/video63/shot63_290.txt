@@ -1,5 +1,0 @@
-hugging(0.048)
-adult+male+speaking(0.040)
-cuddling(0.034)
-filming(0.032)
-smiling(0.030)

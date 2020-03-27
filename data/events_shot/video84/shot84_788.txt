@@ -1,5 +1,0 @@
-drinking(0.949)
-smoking(0.034)
-adult+female+singing(0.005)
-adult+female+speaking(0.002)
-eating(0.001)

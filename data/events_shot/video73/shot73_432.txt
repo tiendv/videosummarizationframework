@@ -1,5 +1,0 @@
-adult+female+singing(0.130)
-marching(0.094)
-adult+male+singing(0.070)
-standing(0.061)
-parading(0.036)

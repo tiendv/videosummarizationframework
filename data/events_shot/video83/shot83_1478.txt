@@ -1,5 +1,0 @@
-mopping(0.040)
-cooking(0.038)
-cleaning(0.028)
-stirring(0.027)
-laughing(0.022)

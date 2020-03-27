@@ -1,5 +1,0 @@
-walking(0.038)
-rocking(0.026)
-spinning(0.024)
-laughing(0.022)
-whistling(0.021)

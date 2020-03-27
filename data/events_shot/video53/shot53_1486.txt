@@ -1,5 +1,0 @@
-rolling(0.082)
-crawling(0.047)
-sleeping(0.029)
-sitting(0.026)
-crushing(0.025)

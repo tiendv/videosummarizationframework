@@ -1,5 +1,0 @@
-kicking(0.087)
-opening(0.042)
-punching(0.039)
-standing(0.037)
-hugging(0.030)

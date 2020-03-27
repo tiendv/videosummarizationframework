@@ -1,5 +1,0 @@
-squatting(0.115)
-crouching(0.020)
-standing(0.018)
-fighting(0.017)
-adult+male+speaking(0.017)

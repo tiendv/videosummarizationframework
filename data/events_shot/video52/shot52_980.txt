@@ -1,5 +1,0 @@
-driving(0.096)
-riding(0.058)
-towing(0.056)
-exiting(0.047)
-hitchhiking(0.044)

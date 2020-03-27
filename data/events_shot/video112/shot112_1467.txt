@@ -1,5 +1,0 @@
-starting(0.069)
-walking(0.058)
-asking(0.037)
-boating(0.036)
-fencing(0.031)
