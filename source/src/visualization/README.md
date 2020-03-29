@@ -47,6 +47,7 @@ All the information for visualization is saved as json file in *static/json*.
 ```
 
 * Json file format for segment visualization
+```
 {
     "localisation": [
         {
@@ -78,3 +79,4 @@ All the information for visualization is saved as json file in *static/json*.
     "processed": 0,
     "version": 1
 }
+```
