@@ -61,6 +61,7 @@ function load_video(file_id){
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/jane.json",
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/jack.json",
                 'json/TRECVID_BBC_EastEnders/events/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
+                'json/TRECVID_BBC_EastEnders/events_emotion/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
 
             ],
             list: [
@@ -137,13 +138,20 @@ function load_video(file_id){
                                 pointNav: true
                             },
                             {
+                                title: 'Emotions',
+                                type: 'cuepoint',
+                                metadataId: 'emotions',
+                                color: "#3CF",
+                                pointNav: true
+                            },
+                            {
                                 title: 'Shot[GT]',
                                 type: 'cuepoint',
                                 metadataId: 'events-amalia01',
                                 color: "#3CF",
                                 pointNav: true
                             },
-				                    {
+				            {
                                 title: 'Sum[GT]',
                                 type: 'segment',
                                 metadataId: 'seg_GT',

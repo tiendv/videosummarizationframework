@@ -18,7 +18,7 @@ def run_GT_TVSum():
         pro = Process(target=main_baseline,args=(p,cfg.PATH_JSON_SHOT_GT,cfg.PATH_JSON_SELECT_GT,"shot_gt","seg_gt"))
         pro.start()
 
-def create_json_for_bbc_event(path_dir_event,path_json_save,topK=5):
+def create_json_for_bbc_event(path_dir_event,path_json_save,topK=5,id_json='event_bbc'):
     '''
         This function uses to create json file for events detected
         input: path_dir_event - the event directory path
@@ -44,14 +44,12 @@ def create_json_for_bbc_event(path_dir_event,path_json_save,topK=5):
                 title = title + "{}({})\n".format(ev,round(sc,3))
             list_title.append(title)
             list_begin.append(time_shots[os.path.basename(s).split(".")[0]][0])
-        create_json4shots(path_json_save, name_vid, list_begin, list_title, 'event_bbc')
+        create_json4shots(path_json_save, name_vid, list_begin, list_title, id_json)
 
 if __name__ == '__main__':
     # run_GT_TVSum()
-    create_json_for_bbc_event(cfg.PATH_EVENT_SHOT_BBC,cfg.PATH_JSON_EVENT_BBC)
+    create_json_for_bbc_event(cfg.PATH_EVENT_EMOTION_BBC,cfg.PATH_JSON_EVENT_EMOTION_BBC,7,'emotions')
     # ref_id, time_shots = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
     # print(ref_id['121'])
     # path_face = os.path.join(cfg.PATH_FACES_SHOT_BBC,"video1/shot1_1790.pickle")
-    # with open(path_face, 'rb') as f:
-    #     data = pickle.load(f)
-    # print(len(data))
+
