@@ -161,7 +161,47 @@ function load_video(file_id){
                     }
                 }
             ]
-        }
+        },
+
+        controlBar:{
+                     sticky: true,
+                     autohide: false,
+                     enableProgressBar: false,
+                     height: 100,
+                     widgets:
+                             {
+                                 left: {
+                                     'timelabelWidget': 'fr.ina.amalia.player.plugins.controlBar.widgets.TimeLabel',
+                                     'playWidget': 'fr.ina.amalia.player.plugins.controlBar.widgets.PlayButton',
+                                     'pauseWidget': 'fr.ina.amalia.player.plugins.controlBar.widgets.PauseButton'
+                                 },
+                                 mid: {
+                                     'JogShuttle': 'fr.ina.amalia.player.plugins.controlBar.widgets.JogShuttleButton'
+                                 },
+                                 right: {
+                                     'volume': 'fr.ina.amalia.player.plugins.controlBar.widgets.ChannelVolumeControlBar',
+                                     'full': 'fr.ina.amalia.player.plugins.controlBar.widgets.FullscreenButton'
+                                 },
+                                 settings: {
+                                     timelabelWidget: {
+                                         timeFormat: 's',
+                                         framerate: 30
+                                     },
+                                     sample: {
+                                         style: 'fa fa-eye fa-2x',
+                                         callback: 'myCallback'
+                                     },
+                                     secNext: {
+                                         style: 'ajs-icon ajs-icon-control-forward',
+                                         callback: 'myCallbackControl',
+                                         action: 'next'
+                                     },
+                                     volume: {
+                                         channelMerger: false
+                                     }
+                                 }
+                             }
+                 }
       });
   }
 }

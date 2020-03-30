@@ -30,7 +30,8 @@ function load_video(file_id){
         plugins: {
             dataServices: [
                 'json/TVSum/shots/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
-                'json/TVSum/shots/BL/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                // 'json/TVSum/shots/BL/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/shots/SBD/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/kf/'+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/BL/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -79,7 +80,46 @@ function load_video(file_id){
                     }
                 }
             ]
-        }
+        },
+        controlBar:{
+                     sticky: true,
+                     autohide: false,
+                     enableProgressBar: false,
+                     height: 100,
+                     widgets:
+                             {
+                                 left: {
+                                     'timelabelWidget': 'fr.ina.amalia.player.plugins.controlBar.widgets.TimeLabel',
+                                     'playWidget': 'fr.ina.amalia.player.plugins.controlBar.widgets.PlayButton',
+                                     'pauseWidget': 'fr.ina.amalia.player.plugins.controlBar.widgets.PauseButton'
+                                 },
+                                 mid: {
+                                     'JogShuttle': 'fr.ina.amalia.player.plugins.controlBar.widgets.JogShuttleButton'
+                                 },
+                                 right: {
+                                     'volume': 'fr.ina.amalia.player.plugins.controlBar.widgets.ChannelVolumeControlBar',
+                                     'full': 'fr.ina.amalia.player.plugins.controlBar.widgets.FullscreenButton'
+                                 },
+                                 settings: {
+                                     timelabelWidget: {
+                                         timeFormat: 's',
+                                         framerate: 30
+                                     },
+                                     sample: {
+                                         style: 'fa fa-eye fa-2x',
+                                         callback: 'myCallback'
+                                     },
+                                     secNext: {
+                                         style: 'ajs-icon ajs-icon-control-forward',
+                                         callback: 'myCallbackControl',
+                                         action: 'next'
+                                     },
+                                     volume: {
+                                         channelMerger: false
+                                     }
+                                 }
+                             }
+                 }
       });
   }
 }

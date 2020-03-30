@@ -7,7 +7,7 @@ from multiprocessing import Process
 
 from utilities.convert_time import sec2time
 from utilities.get_data_ref_bbc import get_data_ref_bbc
-from src.baseline.segmentation.create_json_from_time_shots import create_json4shots
+from src.baseline.segmentation.create_json_from_time_shots import create_json4shots,create_json4shots_file
 # from src.baseline.selection.get_data_to_selection import create_json_selection_file,selection_shot_knapsack_file,get_data_to_selection,selection_shot_knapsack, create_json_selection
 from config.config import cfg
 from main_baseline import main_baseline
@@ -46,10 +46,14 @@ def create_json_for_bbc_event(path_dir_event,path_json_save,topK=5,id_json='even
             list_begin.append(time_shots[os.path.basename(s).split(".")[0]][0])
         create_json4shots(path_json_save, name_vid, list_begin, list_title, id_json)
 
+def create_json_for_shot_boundary(path_dir_sbd,path_json_save,id_json='shot_bl'):
+    for path, subdirs, files in os.walk(path_dir_sbd):
+        for name in files:
+            create_json4shots_file(os.path.join(path,name),path_json_save,name.split(".")[0],id_json)
 if __name__ == '__main__':
     # run_GT_TVSum()
-    create_json_for_bbc_event(cfg.PATH_EVENT_EMOTION_BBC,cfg.PATH_JSON_EVENT_EMOTION_BBC,7,'emotions')
+    create_json_for_shot_boundary(cfg.PATH_TIME_SHOTS_BL,cfg.PATH_JSON_SHOT_BL,'shot_bl')
+    # create_json_for_bbc_event(cfg.PATH_EVENT_EMOTION_BBC,cfg.PATH_JSON_EVENT_EMOTION_BBC,7,'emotions')
     # ref_id, time_shots = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
     # print(ref_id['121'])
     # path_face = os.path.join(cfg.PATH_FACES_SHOT_BBC,"video1/shot1_1790.pickle")
-
