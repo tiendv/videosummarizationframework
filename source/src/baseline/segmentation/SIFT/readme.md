@@ -17,7 +17,7 @@ opencv-python==3.4.2.16
 ## Usage code
 
 ```bash
-python Main_SBD.py name-dataset
+python MainSIFT.py name-dataset
 ```
 name-dataset = [bbc, tvsum, summe] 
 
