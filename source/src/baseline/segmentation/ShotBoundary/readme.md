@@ -28,3 +28,6 @@ HH:MM:SS.FFFF HH:MM:SS.FFFF float (2nd shot)
 HH:MM:SS.FFFF HH:MM:SS.FFFF float (nth shot)
 ```
 
+#### Paper
+[1]Caia, Cheng & Lam, Kin-Man & Tan, Zheng. (2005). TRECVID2005 Experiments in The Hong Kong Polytechnic University: Shot Boundary Detection Based on a Multi-Step Comparison Scheme. 
+
