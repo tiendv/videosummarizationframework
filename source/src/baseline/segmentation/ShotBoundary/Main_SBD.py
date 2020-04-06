@@ -7,10 +7,20 @@ from ShotBoundaryDetection import ShotBoundaryDetection
 from config.config import cfg
 from utilities.convert_time import sec2time
 
+##Path of data-set and output
+path_out = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data'
+bbc =['/mmlabstorage/datasets/TRECVID/TRECVID_BBC_EastEnders/videos',path_out+'/BBC_processed_data/time_shots_bbc/SBD']
+tvsum = ['/mmlabstorage/datasets/TVSum50/ydata-tvsum50-v1_1/video',path_out+'/TVSum_processed_data/time_shots_tvsum50/SBD']
+summe = ['/mmlabstorage/datasets/SumMe/videos',path_out+'/SumMe_processed_data/time_shots_summe/SBD']
 
-data_path = '/mmlabstorage/datasets/TRECVID/TRECVID_BBC_EastEnders/videos'
-#cfg.PATH_VIDEOS
-output_path = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/time_shots_bbc/SBD/'
+dic = {'bbc':bbc,'tvsum':tvsum,'summe':summe}
+
+#input name of dataset
+_input = sys.argv[1]
+
+data_path = dic[_input][0]
+output_path = dic[_input][1]
+print(data_path,output_path)
 
 listnames =[f for f in os.listdir(data_path) if f.endswith(".mp4")]
 
