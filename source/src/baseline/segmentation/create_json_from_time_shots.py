@@ -35,7 +35,7 @@ def create_json4shots(path_json, name_vid,list_begin,list_score=None,id="shot_gt
     for i in range(len(list_begin)):
         dict_data = {}
         if list_score:
-            dict_data["label"] = list_score[i]
+            dict_data["label"] = str(round(float(list_score[i]),3))
         else:
             dict_data["label"] = 1
 

@@ -12,7 +12,7 @@ path_out = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data
 
 bbc =['/mmlabstorage/datasets/TRECVID/TRECVID_BBC_EastEnders/videos',path_out+'/BBC_processed_data/time_shots_bbc/SIFT']
 tvsum = ['/mmlabstorage/datasets/TVSum50/ydata-tvsum50-v1_1/video',path_out+'/TVSum_processed_data/time_shots_tvsum50/SIFT']
-summe = ['/mmlabstorage/datasets/SumMe/videos',path_out+'/SumMe_processed_data/time_shots_summe/SIFT']
+path_out = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data'
 
 dic = {'bbc':bbc,'tvsum':tvsum,'summe':summe}
 _input = sys.argv[1]

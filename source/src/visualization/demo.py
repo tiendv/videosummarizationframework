@@ -23,6 +23,7 @@ app.config['ALLOWED_EXTENSIONS'] = set(['mp4','webm'])
 filename= ''
 tvsum50_temp = []
 bbc_temp = []
+summe_temp = []
 
 def create_dictionary_tvsum50(path_thumbnails,link_path,matlab_gt):
     f = h5py.File(matlab_gt,'r')
@@ -52,19 +53,38 @@ def create_dictionary_tvsum50(path_thumbnails,link_path,matlab_gt):
 
 def create_dictionary_bbc(path_videos,path_thumbnails,link_path):
     path_videos = glob.glob(static_folder+"/"+path_videos+"/*.mp4")
-    path_videos.sort(key=lambda x: float(os.path.basename(x).split(".")[0]))
+    path_videos.sort(key=lambda x: os.path.basename(x).split(".")[0])
 
     path_thumbnails = glob.glob(static_folder+"/"+path_thumbnails+"*.jpg")
-    path_thumbnails.sort(key=lambda x: float(os.path.basename(x).split(".")[0]))
+    path_thumbnails.sort(key=lambda x: os.path.basename(x).split(".")[0])
 
     data_list = []
     link_video = []
     for i in path_videos :
         link = link_path + i.split("/")[len(i.split("/"))-1]
         link_video.append(link)
-    for i in range(len(path_videos)):
+    for i in range(len(path_thumbnails)):
         dict_temp = {}
         dict_temp['video'] = link_video[i].replace("static/","")
+        dict_temp['thumbnail'] = path_thumbnails[i].replace("static/","")
+        data_list.append(dict_temp)
+    return data_list
+
+def create_dictionary_summe(path_videos,path_thumbnails,link_path):
+    path_videos = glob.glob(static_folder+"/"+path_videos+"/*.mp4")
+    path_videos.sort(key=lambda x: os.path.basename(x).split(".")[0])
+
+    path_thumbnails = glob.glob(static_folder+"/"+path_thumbnails+"*.jpg")
+    path_thumbnails.sort(key=lambda x: os.path.basename(x).split(".")[0])
+
+    data_list = []
+    link_video = []
+    for i in path_videos :
+        link = link_path + i.split("/")[len(i.split("/"))-1]
+        link_video.append(link)
+    for i in range(len(path_thumbnails)):
+        dict_temp = {}
+        dict_temp['video'] = (link_video[i].replace("static/","")).replace(" ","@")
         dict_temp['thumbnail'] = path_thumbnails[i].replace("static/","")
         data_list.append(dict_temp)
     return data_list
@@ -99,10 +119,26 @@ def homepage():
 def TVSum50():
     return render_template('TVSum50.html',data_list = tvsum50_temp )
 
+@app.route('/evaluation',methods=['GET','POST'])
+def evaluation():
+    return render_template('evaluation.html')
+
+@app.route('/eval_summary',methods=['GET','POST'])
+def eval_summary():
+    if request.method == 'POST':
+        data = {}
+        data['dataset'] = request.form['dataset']
+        data['method'] = request.form['method']
+
+    return render_template('evaluateTVSum50.html', data_config = data)
 
 @app.route('/TRECVID_BBC_EastEnders',methods=['GET','POST'])
 def TRECVID_BBC_EastEnders():
     return render_template('TRECVID_BBC_EastEnders.html',data_list = bbc_temp )
+
+@app.route('/SumMe',methods=['GET','POST'])
+def SumMe():
+    return render_template('SumMe.html',data_list = summe_temp )
 
 
 @app.route('/visualTVSum50',methods=['GET','POST'])
@@ -113,7 +149,12 @@ def visual_TVSum50():
 def visual_TRECVID_BBC_EastEnders():
     return render_template('TRECVID_BBC_EastEnders_video.html')
 
+@app.route('/visualSumMe',methods=['GET','POST'])
+def visual_SumMe():
+    return render_template('SumMe_video.html')
+
 if __name__ == "__main__":
     tvsum50_temp = create_dictionary_tvsum50(path_thumbnails_tvsum,"/visualTVSum50?file_id=",path_matlab_gt)
     bbc_temp = create_dictionary_bbc("TRECVID_BBC_EastEnders/videos/","thumbnails_BBC/","/visualTRECVID_BBC_EastEnders?file_id=")
+    summe_temp = create_dictionary_summe("SumMe/videos/","thumbnails_SumMe/","/visualSumMe?file_id=")
     app.run(host="0.0.0.0", port=5000,debug=True)

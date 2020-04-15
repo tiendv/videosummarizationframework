@@ -6,19 +6,23 @@ $(function() {
      console.log(file_id);
      // console.log(para_title)
      load_video(file_id);
-     document.getElementById("title").innerHTML =  para_title
+     document.getElementById("title").innerHTML =  para_title;
+     getResult("evaluation/TVSum/","Random",file_id);
+     getResult("evaluation/TVSum/","SuperF",file_id);
+     getResult("evaluation/TVSum/","vsum_dsf",file_id);
 
-     $.getJSON( "evaluation/"+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json", function( data ) {
-
-        var items = [];
-        var eval_text = ""
-        $.each( data, function( key, val ) {
-             eval_text = eval_text + key + ": " + val + "     "
-        });
-        $('#eval').text(eval_text)
-
-      });
 });
+
+
+function getResult(path,method_name,file_id)
+{
+     name_file = file_id.split(".")[0]
+     $.getJSON(path + method_name +"/"+method_name+".json", function( data ) {
+
+        var result_data = data['result'][name_file];
+        $('#result tr:last').after('<tr><th>'+method_name+'</th><td>'+result_data['pre']+'</td><td>'+result_data['rc']+'</td><td>'+result_data['f1']+'</td></tr>');
+      });
+}
 
 function load_video(file_id){
   if(file_id != null){
@@ -30,11 +34,15 @@ function load_video(file_id){
         plugins: {
             dataServices: [
                 'json/TVSum/shots/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
-                // 'json/TVSum/shots/BL/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
-                'json/TVSum/shots/SBD/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/shots/Random/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/shots/SuperF/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/kf/'+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
-                'json/TVSum/selected/BL/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/Random/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/SuperF/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/vsum_dsf/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/dsf_only_vgg16/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/dsf_resnet50/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
 
             ],
             list: [
@@ -51,7 +59,7 @@ function load_video(file_id){
                                 pointNav: true
                             },
                             {
-                                title: 'Shot seg[Baseline]',
+                                title: 'Shot seg[superframe]',
                                 type: 'cuepoint',
                                 metadataId: 'shot_bl',
                                 color: "#3CF",
@@ -64,9 +72,33 @@ function load_video(file_id){
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[Base line]',
+                                title: 'Sum[Random]',
                                 type: 'segment',
-                                metadataId: 'seg_bl',
+                                metadataId: 'seg_rd',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[superframe]',
+                                type: 'segment',
+                                metadataId: 'seg_sf',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[vsum_dsf]',
+                                type: 'segment',
+                                metadataId: 'seg_vsum_dsf',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[vsum_dsf_vgg16]',
+                                type: 'segment',
+                                metadataId: 'seg_vsum_dsf_rgb_only_vgg16',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[vsum_dsf_resnet50]',
+                                type: 'segment',
+                                metadataId: 'seg_vsum_dsf_rgb_resnet50',
                                 color: '#F00'
                             },
                             {

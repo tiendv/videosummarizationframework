@@ -22,9 +22,9 @@ def concat_video_bbc(id_st,id_ed,path_save_result="/mmlabstorage/workingspace/Vi
             for d in data:
                 path_save = os.path.join(path_video,'video{}'.format(id))
                 f.write('file {}.mp4\n'.format(os.path.join(path_save,d.rstrip())))
-    # os.system("ffmpeg -f concat -safe 0 -i temp.txt -c copy {}/video{}_{}.mp4".format(path_save_result,id_st,id_ed))
-    # os.system("rm temp.txt")
-    # print("the result video be saved at {}/videp{}_{}.mp4".format(path_save_result,id_st,id_ed))
+    os.system("ffmpeg -f concat -safe 0 -i temp.txt -c copy {}/video{}_{}.mp4".format(path_save_result,id_st,id_ed))
+    os.system("rm temp.txt")
+    print("the result video be saved at {}/videp{}_{}.mp4".format(path_save_result,id_st,id_ed))
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Optional description')

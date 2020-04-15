@@ -1,0 +1,31 @@
+<!-- Example video summarization results for a vsum run  -->
+<!DOCTYPE videoSummarizationResults SYSTEM "https://www-nlpir.nist.gov/projects/tv2020/dtds/videoSummarizationResults.dtd">
+<videoSummarizationResults>
+
+<videoSummarizationRunResult desc="this method" pid="uitnii" priority="3">
+
+<videoSummarizationTopicResult summTime="29.7" target="Heather">
+<item seqNum="1" shotId="shot4324_2" />
+<item seqNum="2" shotId="shot484_4" />
+<item seqNum="3" shotId="shot459_43" />
+<item seqNum="4" shotId="shot1663_34" />
+<item seqNum="5" shotId="shot2415_16" />
+<item seqNum="6" shotId="shot7_765" />
+<item seqNum="7" shotId="shot35_4" />
+<item seqNum="8" shotId="shot3246_54" />
+<item seqNum="9" shotId="shot22_255" />
+<item seqNum="10" shotId="shot432_24" />
+</videoSummarizationTopicResult>
+
+
+
+<videoSummarizationTopicResult summTime="2.14" target="heather">
+<item seqNum="0" shotId="shot1_1790" />
+<item seqNum="1" shotId="shot1_15" />
+<item seqNum="2" shotId="shot1_17" />
+<item seqNum="3" shotId="shot1_19" />
+<item seqNum="4" shotId="shot1_154" />
+</videoSummarizationTopicResult>
+</videoSummarizationRunResult>
+
+</videoSummarizationResults>

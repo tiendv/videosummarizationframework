@@ -96,6 +96,8 @@ def create_segments_tvsum(path_gt_tvsum50):
     for i in range(nframes.shape[0]):
         a=0
         temp = second_per_frame[i]*list_shot[i]
+        print (list_name[i])
+        print (temp)
         #with open(os.path.join(path_time_shots,"{}/{}.txt".format(list_name[i],list_name[i])),"w") as f:
         list_begin_seg_temp= []
         list_end_seg_temp = []
@@ -112,16 +114,21 @@ def create_segments_tvsum(path_gt_tvsum50):
     return list_name, list_begin_seg , list_end_seg , list_score_seg
 
 def save_time_shots(name , begin , end ,score,path_time_shots):
-    path_save = os.path.join(path_time_shots,"GT",name)
+    path_save = os.path.join(path_time_shots,name)
     if not os.path.isdir(path_save):
           os.makedirs(path_save)
     with open(os.path.join(path_save ,"{}.txt".format(name)),"w") as f:
-        #print(os.path.join(path_save ,"{}.txt".format(name)))
+        print(os.path.join(path_save ,"{}.txt".format(name)))
+        print(begin)
+        print (end)
+        print (score)
+        input()
         for i in range(len(begin)):
             f.write("{} {} {}\n".format(begin[i],end[i],score[i]))
 
 def create_segment(path_gt_tvsum50,path_time_shots):
     names, begin , end ,score = create_segments_tvsum(path_gt_tvsum50)
+    
     for i in range(len(names)) :
         save_time_shots(names[i] , begin[i] , end[i] ,score[i],path_time_shots)
 

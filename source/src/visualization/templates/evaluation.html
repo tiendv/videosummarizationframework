@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Evaluation</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="amaliajs/bower_components/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="amaliajs/bower_components/jquery-ui/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="amaliajs/bower_components/raphael/raphael.js"></script>
+    <script type="text/javascript" src="js/eval_main.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <form class="config" action="/eval_summary" method="post">
+              <div class="form-group">
+                <label for="selectDataset">Select Dataset</label>
+                <select class="form-control" id="selectDataset" name = "dataset">
+                  <option>TVSum50</option>
+                  <option>SumMe</option>
+                  <option>BBC EastEnders</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="selectMethod">Select Method</label>
+                <select class="form-control" id="selectMethod" name = "method">
+                  <option>Random</option>
+                  <option>SuperFrame</option>
+                  <option>VSumDSF</option>
+                  <option>DSF_vgg16</option>
+                  <option>DSFvgg16m</option>
+                  <option>DSFresnet50</option>
+                </select>
+              </div>
+              <button type="submit" class="btn btn-primary">Show</button>
+        </form>
+
+      </div>
+
+      <div class="row">
+        <div class="col-ml">
+
+          <table id="result_tvsum" class="table">
+            <caption>TVSum50</caption>
+          <thead>
+            <tr>
+              <th scope="col">Method</th>
+              <th scope="col">Precision</th>
+              <th scope="col">Recall</th>
+              <th scope="col">Fscore</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <div class="col-ml">
+
+          <table id="result_summe" class="table">
+            <caption>SumMe</caption>
+          <thead>
+            <tr>
+              <th scope="col">Method</th>
+              <th scope="col">Precision</th>
+              <th scope="col">Recall</th>
+              <th scope="col">Fscore</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>

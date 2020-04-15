@@ -50,6 +50,10 @@ function load_video(file_id){
             dataServices: [
                 'json/TRECVID_BBC_EastEnders/shots/'+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TRECVID_BBC_EastEnders/kf/'+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TRECVID_BBC_EastEnders/selected/event_seg_vsum_dsf/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
+                'json/TRECVID_BBC_EastEnders/selected/event_seg_vsum_dsf_fix/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
+                'json/TRECVID_BBC_EastEnders/selected/dsf_seg_vsum_rgb/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
+                'json/TRECVID_BBC_EastEnders/selected/dsf_seg_vsum_rgb_vgg16/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/chelsea.json",
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/darrin.json",
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/garry.json",
@@ -62,6 +66,7 @@ function load_video(file_id){
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/jack.json",
                 'json/TRECVID_BBC_EastEnders/events/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
                 'json/TRECVID_BBC_EastEnders/events_emotion/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
+                'json/TRECVID_BBC_EastEnders/audio_event/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
 
             ],
             list: [
@@ -145,6 +150,13 @@ function load_video(file_id){
                                 pointNav: true
                             },
                             {
+                                title: 'Audio event',
+                                type: 'cuepoint',
+                                metadataId: 'audio_event',
+                                color: "#3CF",
+                                pointNav: true
+                            },
+                            {
                                 title: 'Shot[GT]',
                                 type: 'cuepoint',
                                 metadataId: 'events-amalia01',
@@ -155,6 +167,24 @@ function load_video(file_id){
                                 title: 'Sum[GT]',
                                 type: 'segment',
                                 metadataId: 'seg_GT',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[RGB_vsum_dsf]',
+                                type: 'segment',
+                                metadataId: 'seg_vsum_dsf_rgb',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[RGB_vsum_dsf_vgg16]',
+                                type: 'segment',
+                                metadataId: 'seg_vsum_dsf_rgb_only_vgg16',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[Events_vsum_dsf]',
+                                type: 'segment',
+                                metadataId: 'event_seg_vsum_dsf_fix',
                                 color: '#F00'
                             },
                         ]
