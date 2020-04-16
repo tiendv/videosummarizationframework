@@ -1,35 +1,21 @@
 $(function(){
-  $.getJSON("evaluation/TVSum/Random/Random.json", function( data ) {
-        var val = data['result']['mean'];
-        $('#result_tvsum tr:last').after('<tr><td>Random</td><td>'+val['pre']+'</td><td>'+val['rc']+'</td><td>'+val['f1']+'</td><td></tr>');
-     });
- $.getJSON("evaluation/TVSum/SuperF/SuperF.json", function( data ) {
-       var val = data['result']['mean'];
-       $('#result_tvsum tr:last').after('<tr><td>SuperFrame</td><td>'+val['pre']+'</td><td>'+val['rc']+'</td><td>'+val['f1']+'</td><td></tr>');
-    });
-  $.getJSON("evaluation/TVSum/vsum_dsf/vsum_dsf.json", function( data ) {
-        var val = data['result']['mean'];
-        $('#result_tvsum tr:last').after('<tr><td>vsum_dsf</td><td>'+val['pre']+'</td><td>'+val['rc']+'</td><td>'+val['f1']+'</td><td></tr>');
-     });
- $.getJSON("evaluation/TVSum/dsf_vgg16_m/dsf_vgg16_m.json", function( data ) {
-       var val = data['result']['mean'];
-       $('#result_tvsum tr:last').after('<tr><td>dsf_vgg16</td><td>'+val['pre']+'</td><td>'+val['rc']+'</td><td>'+val['f1']+'</td><td></tr>');
-    });
-  $.getJSON("evaluation/TVSum/dsf_resnet50/dsf_resnet50.json", function( data ) {
-        var val = data['result']['mean'];
-        $('#result_tvsum tr:last').after('<tr><td>dsf_resnet50</td><td>'+val['pre']+'</td><td>'+val['rc']+'</td><td>'+val['f1']+'</td><td></tr>');
-     });
+  // TVSum50
+  showEval("evaluation/TVSum/Random/Random.json","Random","result_tvsum");
+  showEval("evaluation/TVSum/SuperF/SuperF.json","SuperFrame","result_tvsum");
+  showEval("evaluation/TVSum/vsum_dsf/vsum_dsf.json","vsum_dsf","result_tvsum");
+  showEval("evaluation/TVSum/dsf_vgg16_m/dsf_vgg16_m.json","dsf_vgg16","result_tvsum");
+  showEval("evaluation/TVSum/dsf_resnet50/dsf_resnet50.json","dsf_resnet50","result_tvsum");
+  // SumMe
+  showEval("evaluation/SumMe/Random/Random.json","Random","result_summe");
+  showEval("evaluation/SumMe/vsum_dsf/vsum_dsf.json","vsum_dsf","result_summe");
+  showEval("evaluation/SumMe/dsf_vgg16/dsf_vgg16.json","dsf_vgg16","result_summe");
 
-   $.getJSON("evaluation/SumMe/Random/Random.json", function( data ) {
-         var val = data['result']['mean'];
-         $('#result_summe tr:last').after('<tr><td>Random</td><td>'+val['pre']+'</td><td>'+val['rc']+'</td><td>'+val['f1']+'</td><td></tr>');
-      });
-  $.getJSON("evaluation/SumMe/vsum_dsf/vsum_dsf.json", function( data ) {
-        var val = data['result']['mean'];
-        $('#result_summe tr:last').after('<tr><td>vsum_dsf</td><td>'+val['pre']+'</td><td>'+val['rc']+'</td><td>'+val['f1']+'</td><td></tr>');
-     });
-   $.getJSON("evaluation/SumMe/dsf_vgg16/dsf_vgg16.json", function( data ) {
-         var val = data['result']['mean'];
-         $('#result_summe tr:last').after('<tr><td>dsf_vgg16</td><td>'+val['pre']+'</td><td>'+val['rc']+'</td><td>'+val['f1']+'</td><td></tr>');
-      });
 });
+
+function showEval(json_path,mt,id)
+{
+  $.getJSON(json_path, function( data ) {
+        var val = data['result']['mean'];
+        $('#'+id+' tr:last').after('<tr><td>'+mt+'</td><td>'+val['pre']+'</td><td>'+val['rc']+'</td><td>'+val['f1']+'</td><td></tr>');
+     });
+}
