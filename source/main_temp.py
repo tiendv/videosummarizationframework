@@ -68,7 +68,7 @@ if __name__ == '__main__':
 # output: .json
 #                                ####     BECAREFULL IDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD          ####
 #resnet50
-    for path, subdirs, files in os.walk("/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/dsf_seg_rgb"):
+    for path, subdirs, files in os.walk("/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/event_seg_vsum_dsf_fix"):
         for name in files:
             with open(os.path.join(path,name)) as f:
                 lines = list(f)
@@ -78,4 +78,4 @@ if __name__ == '__main__':
                 for line in lines :
                     list_begin.append(line.split(" ")[0])
                     list_ending.append(line.split(" ")[1])
-            create_json_selection( name_vid, list_begin,list_ending,path_json="/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/json/TRECVID_BBC_EastEnders/selected/dsf_seg_vsum_rgb",id="seg_vsum_dsf_rgb")
+            create_json_selection( name_vid, list_begin,list_ending,path_json="/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/json/TRECVID_BBC_EastEnders/selected/event_seg_vsum_dsf_fix",id="event_seg_vsum_dsf_fix")

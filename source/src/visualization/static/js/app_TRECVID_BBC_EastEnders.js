@@ -52,6 +52,7 @@ function load_video(file_id){
                 'json/TRECVID_BBC_EastEnders/kf/'+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TRECVID_BBC_EastEnders/selected/event_seg_vsum_dsf/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
                 'json/TRECVID_BBC_EastEnders/selected/event_seg_vsum_dsf_fix/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
+                'json/TRECVID_BBC_EastEnders/selected/emotion_seg_vsum_dsf_fix/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
                 'json/TRECVID_BBC_EastEnders/selected/dsf_seg_vsum_rgb/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
                 'json/TRECVID_BBC_EastEnders/selected/dsf_seg_vsum_rgb_vgg16/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/chelsea.json",
@@ -185,6 +186,12 @@ function load_video(file_id){
                                 title: 'Sum[Events_vsum_dsf]',
                                 type: 'segment',
                                 metadataId: 'event_seg_vsum_dsf_fix',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[Emotions_vsum_dsf]',
+                                type: 'segment',
+                                metadataId: 'emotion_seg_vsum_dsf_fix',
                                 color: '#F00'
                             },
                         ]
