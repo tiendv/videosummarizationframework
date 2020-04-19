@@ -5,3 +5,4 @@ libs/moments_models/moments_RGB_resnet50_imagenetpretrained.pth.tar
 data
 data/
 data/*
+*.mp4

@@ -30,9 +30,7 @@ $(function() {
         var items = [];
         var eval_text = ""
         console.log(data["date"]);
-        // $.each( data, function( key, val ) {
-        //      eval_text = eval_text + key + ": " + val + "     "
-        // });
+
         $('#date_bbc').text("Date: "+data["date"])
 
       });

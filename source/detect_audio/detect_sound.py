@@ -26,12 +26,12 @@ from fastai.vision.data import *
 from config.config import cfg
 import argparse
 models_list = (
-    (Path('../libs/freesound-audio-tagging-2019/weights/cnn-model-1/work'), 'stage-2_fold-{fold}.pkl'),
-    (Path('../libs/freesound-audio-tagging-2019/weights/cnn-model-1/work'), 'stage-10_fold-{fold}.pkl'),
-    (Path('../libs/freesound-audio-tagging-2019/weights/cnn-model-1/work'), 'stage-11_fold-{fold}.pkl'),
-    (Path('../libs/freesound-audio-tagging-2019/weights/vgg16/work'), 'stage-2_fold-{fold}.pkl'),
-    (Path('../libs/freesound-audio-tagging-2019/weights/vgg16/work'), 'stage-10_fold-{fold}.pkl'),
-    (Path('../libs/freesound-audio-tagging-2019/weights/vgg16/work'), 'stage-11_fold-{fold}.pkl'),
+    (Path('../../libs/freesound-audio-tagging-2019/weights/cnn-model-1/work'), 'stage-2_fold-{fold}.pkl'),
+    (Path('../../libs/freesound-audio-tagging-2019/weights/cnn-model-1/work'), 'stage-10_fold-{fold}.pkl'),
+    (Path('../../libs/freesound-audio-tagging-2019/weights/cnn-model-1/work'), 'stage-11_fold-{fold}.pkl'),
+    (Path('../../libs/freesound-audio-tagging-2019/weights/vgg16/work'), 'stage-2_fold-{fold}.pkl'),
+    (Path('../../libs/freesound-audio-tagging-2019/weights/vgg16/work'), 'stage-10_fold-{fold}.pkl'),
+    (Path('../../libs/freesound-audio-tagging-2019/weights/vgg16/work'), 'stage-11_fold-{fold}.pkl'),
 )
 
 parser = argparse.ArgumentParser(description='Optional description')
@@ -50,7 +50,7 @@ TTA_SHIFT = 48  # TTA: predict every TTA_SHIFT
 n_splits = 10
 DATA = Path(cfg.PATH_AUDIO_SHOT_BBC)
 DATA_TEST = DATA/'video{}'.format(id_vid)
-CSV_SUBMISSION = '../data/BBC_processed_data/reference_bbc/audio_csv/audio{}.csv'.format(id_vid)
+CSV_SUBMISSION = '../../data/BBC_processed_data/reference_bbc/audio_csv/audio{}.csv'.format(id_vid)
 test_df = pd.read_csv(CSV_SUBMISSION)
 
 
@@ -451,10 +451,10 @@ test_df_multi['fname'] = test_df_multi.fname.apply(lambda x: x.split('!')[0])
 
 submission = test_df_multi.infer_objects().groupby('fname').mean().reset_index()
 
-with open('log/log_audio.txt','w+') as f:
+with open('../log/log_audio.txt','w+') as f:
     for i in range(len(CUR_X_FILES)):
         data = submission.iloc[i][1:]
         data = data.sort_values(ascending=False)
         name = CUR_X_FILES[i].split(".")[0]
         data.to_csv(os.path.join(path_save,'{}.csv'.format(name)),header=False)
-        f.write(name+"\n")
+    f.write(CUR_X_FILES[i].split(".")[0])
