@@ -64,7 +64,7 @@ function load_video(file_id){
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/jane.json",
                 'json/TRECVID_BBC_EastEnders/selected/GT/'+file_id.split(".")[0]+"/jack.json",
                 'json/TRECVID_BBC_EastEnders/events/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
-                'json/TRECVID_BBC_EastEnders/events_emotion/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
+                'json/TRECVID_BBC_EastEnders/emotion/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
                 'json/TRECVID_BBC_EastEnders/audio_event/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
 
             ],

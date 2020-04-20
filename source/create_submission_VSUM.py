@@ -7,8 +7,6 @@ from utilities.convert_time import time2sec
 def getSelectedBBCShot(selected_shot_path,vid_id,ref_id, time_shots):
     shot_list = []
     name_vid = ref_id[str(vid_id)]
-    print(name_vid)
-    input()
     with open(os.path.join(selected_shot_path,"{n}/{n}.json".format(n=name_vid)),'r') as f:
         data = json.load(f)
 
@@ -34,6 +32,7 @@ def getSelectedBBCShot(selected_shot_path,vid_id,ref_id, time_shots):
 
 
 def gen_video_sum(file_name,shot_list,bbc_video_path,save_path):
+
     if not os.path.isdir(save_path):
         os.makedirs(save_path)
 
@@ -70,11 +69,11 @@ def create_submission_vsum(shot_list,char,summTime,method,team_name,prior,name_x
 
 if __name__ == '__main__':
     vid_id = 1
-    method = "dsf_seg_vsum_rgb"
+    method = os.path.basename(cfg.PATH_JSON_SHOT_RGB_SUM_DSF_BBC)
+
     ref_id, time_shots = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
 
     shot_list = getSelectedBBCShot(cfg.PATH_JSON_SHOT_RGB_SUM_DSF_BBC,vid_id,ref_id, time_shots)
-
     file_name = "{n}_{m}.mp4".format(m=method,n=ref_id[str(vid_id)])
-    gen_video_sum(file_name,shot_list,cfg.PATH_SHOT_BBC,cfg.PATH_RESULT_VSUM_BBC)
+    gen_video_sum(file_name,shot_list,cfg.PATH_SHOT_BBC,os.path.join(cfg.PATH_RESULT_VSUM_BBC,method))
     # create_submission_vsum(shot_list,'heather',2.14,'this method','uitnii',3)

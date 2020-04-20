@@ -1,9 +1,16 @@
 window.onload = function() {
   var vid_name = $("#Vname").text()
   console.log(vid_name);
-  addVideo("this is title","/result/TRECVID_BBC_EastEnders/dsf_seg_vsum_rgb/5136783892766027774_dsf_seg_vsum_rgb.mp4","video/mp4")
-  addVideo("this is title","/result/TRECVID_BBC_EastEnders/dsf_seg_vsum_rgb/5136783892766027774_dsf_seg_vsum_rgb.mp4","video/mp4")
+  addResult(vid_name,"dsf_seg_vsum_rgb");
+  addResult(vid_name,"dsf_seg_vsum_rgb_vgg16");
+  addResult(vid_name,"emotion_seg_vsum_dsf_fix");
+  addResult(vid_name,"event_seg_vsum_dsf_fix");
 
+
+}
+
+function addResult(vidname,method) {
+  addVideo(method,"/result/TRECVID_BBC_EastEnders/"+method+"/"+ vidname+"_"+method+".mp4","video/mp4")
 }
 
 function addVideo(_title,_src,_type) {

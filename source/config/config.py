@@ -38,8 +38,8 @@ __C.PATH_JSON_SELECT_BBC = BASIC_DIR + "source/src/visualization/static/json/TRE
 __C.PATH_JSON_EVENT_BBC = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/events"
 __C.PATH_JSON_EVENT_EMOTION_BBC = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/events_emotion"
 __C.PATH_JSON_SHOT_EVENTS_SUM_DSF_BBC = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/selected/event_seg_vsum_dsf"
-__C.PATH_JSON_SHOT_RGB_SUM_DSF_BBC = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/selected/dsf_seg_vsum_rgb"
-__C.PATH_RESULT_VSUM_BBC = BASIC_DIR + "source/src/visualization/static/result/TRECVID_BBC_EastEnders/dsf_seg_vsum_rgb"
+__C.PATH_JSON_SHOT_RGB_SUM_DSF_BBC = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/selected/event_seg_vsum_dsf_fix"
+__C.PATH_RESULT_VSUM_BBC = BASIC_DIR + "source/src/visualization/static/result/TRECVID_BBC_EastEnders"
 
 #params for SumMe
 __C.PATH_TIME_SHOTS_GT_SUMME = BASIC_DIR + "data/SumMe_processed_data/time_shots_summe/GT"
