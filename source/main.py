@@ -1,80 +1,107 @@
 import cv2
 import os,sys,glob
 import random
-import pandas as pd
-import pickle
+import argparse
 from multiprocessing import Process
 
 from utilities.convert_time import sec2time
-from utilities.get_data_ref_bbc import get_data_ref_bbc
-from src.baseline.segmentation.create_json_from_time_shots import create_json4shots,create_json4shots_file
-from src.baseline.selection.get_data_to_selection import selection_shot_knapsack,create_json_selection,get_data_from_time_shot_file
-from src.baseline.segmentation.segment_video import create_segment,create_segments_tvsum
+from src.baseline.segmentation.create_json_from_time_shots import create_json4shots
+from src.baseline.segmentation.segment_video import create_segments_tvsum
+
+from src.baseline.selection.get_data_to_selection import get_data_to_selection,selection_shot_knapsack, create_json_selection
 from config.config import cfg
-from main_baseline import main_baseline
+def split_shots(path_video):
+    '''
+       This function uses to get time of shots of the input video
+       input: path of a video
+       output: name(srt), begining time of shots (list), ending time of shots (list)
+    '''
+    name_vid = os.path.basename(path_video).split(".")[0]
+    begining_shots = []
+    ending_shots = []
 
-def run_GT_TVSum():
-    paths = glob.glob("src/visualization/static/TVSum50/ydata-tvsum50-v1_1/video/*.mp4")
+    vid =cv2.VideoCapture(path_video)
+    fps = vid.get(cv2.CAP_PROP_FPS)
+    frames_cnt = vid.get(cv2.CAP_PROP_FRAME_COUNT)
+    duration = frames_cnt/fps
+    k = duration
+    step = 2
+    begining_shots.append(0)
+
+    while k > 0:
+        t = begining_shots[-1]+step
+        k=k-step
+        if t <=duration:
+            begining_shots.append(t)
+            ending_shots.append(t)
+        else:
+            ending_shots.append(duration)
+    if len(begining_shots) > len(ending_shots):
+        del begining_shots[-1]
+    return name_vid, list(map(sec2time, begining_shots)), list(map(sec2time,ending_shots))
+
+def calc_score(list_begin,list_ending):
+    '''
+        This function uses to create scores for shots randomly
+        input:
+            list_begin - the list of start time of each shot
+            list_ending - the list of end time of each shot
+        output:
+            A list score for each shot
+    '''
+    list_score = []
+    for _ in range(len(list_begin)):
+        list_score.append(round(random.randint(10,50)/10,1))
+    return list_score
+
+def sum_video(path_video,path_saved_json_shot="./",path_saved_json_segment='./',path_result_segment_txt=None,id_shot="shot_gt",id_seg="seg_gt"):
+    '''
+        This function uses to summarize a video and export json files for visualization
+        input: path_save - path of a input video_duration
+               path_saved_json_shot - path to save json file for visualizing shots
+               path_saved_json_segment -  path to save json file for visualizing segments
+               path_result_segment_txt - path to save result file for  segments
+               id_shot - id of shot json for visualizing
+               id_seg - id of seg json for visualizing
+        output: None
+    '''
+    #shot detection
+    name_video,list_begin, list_ending = split_shots(path_video)
+    # #cacl score
+    list_score = calc_score(list_begin,list_ending) ##list score for BL
+
+    if os.path.isdir(os.path.join(path_saved_json_segment,name_video)):
+        print("Done shot and segment for video{}".format(name_video))
+        return
+
+    #create json to visual shots
+    create_json4shots(path_saved_json_shot,name_video,list_begin,list_score, id_shot)
+
+    #excuting knapsack to select the shots for summarize
+    result = selection_shot_knapsack(list_begin,list_ending,list_score)
+    create_json_selection(name_video,list_begin,list_ending,result,path_saved_json_segment,path_result_segment_txt,id_seg)
+    print("Done shot and segment for video{}".format(name_video))
+
+def sum_multi_video():
+    paths = glob.glob(cfg.PATH_SUMME_VIDEOS+"/*.mp4")
     for p in paths:
-        main_baseline(p,cfg.PATH_JSON_SHOT_BL,cfg.PATH_JSON_SELECT_BL,"shot_rd","seg_rd")
-        # pro = Process(target=main_baseline,args=(p,cfg.PATH_JSON_SHOT_BL,cfg.PATH_JSON_SELECT_BL,"shot_rd","seg_rd"))
-        # pro.start()
-
-def create_json_for_bbc_event(path_dir_event,path_json_save,topK=5,id_json='event_bbc'):
-    '''
-        This function uses to create json file for events detected
-        input: path_dir_event - the event directory path
-               path_json_save - the directory path that the json file will be saved
-               topK - the value of the k-top you want to write
-        output: none
-    '''
-    event_videos = glob.glob(os.path.join(path_dir_event,"*"))
-    event_videos.sort(key=lambda x: int(os.path.basename(x).replace("video","")))
-    ref_id, time_shots = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
-    for p in event_videos:
-        name_vid = ref_id[os.path.basename(p).replace("video","")]
-        print(p)
-        shots = glob.glob(os.path.join(p,"*.csv"))
-        list_title = []
-        list_begin = []
-        for s in shots:
-            data = pd.read_csv(s,header=None,nrows=topK)
-            title=''
-            for i in range(topK):
-                ev = data.iloc[i][0] #get event
-                sc = data.iloc[i][1] #get score
-                title = title + "{}({})\n".format(ev,round(sc,3))
-            list_title.append(title)
-            list_begin.append(time_shots[os.path.basename(s).split(".")[0]][0])
-        create_json4shots(path_json_save, name_vid, list_begin, list_title, id_json)
-
-def create_json_for_shot_boundary(path_dir_sbd,path_json_save,id_json='shot_bl'):
-    for path, subdirs, files in os.walk(path_dir_sbd):
-        for name in files:
-            create_json4shots_file(os.path.join(path,name),path_json_save,name.split(".")[0],id_json)
-
+        sum_video(p,cfg.PATH_JSON_SHOT_RANDOM_SUMME,cfg.PATH_JSON_SELECT_RANDOM_SUMME,cfg.PATH_TIME_SEG_RANDOM_SUMME,"shot_rd","seg_rd")
 
 
 if __name__ == '__main__':
-    run_GT_TVSum()
-    # create_json_for_shot_boundary(cfg.PATH_TIME_SHOTS_GT_SUMME,cfg.PATH_JSON_SHOT_GT_SUMME,'shot_gt_summe')
-    # create_json_for_bbc_event(cfg.PATH_EVENT_EMOTION_BBC,cfg.PATH_JSON_EVENT_EMOTION_BBC,7,'emotions')
-    # ref_id, time_shots = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
-    # print(ref_id['121'])
-    # path_face = os.path.join(cfg.PATH_FACES_SHOT_BBC,"video1/shot1_1790.pickle")
-
-# create video segment selection:
-# input: tcin,tcout
-# output: .json
-
-    # for path, subdirs, files in os.walk(cfg.PATH_TIME_SHOTS_RGB_VSUM_DSF_BBC):
-    #     for name in files:
-    #         with open(os.path.join(path,name)) as f:
-    #             lines = list(f)
-    #             list_begin = []
-    #             list_ending = []
-    #             name_vid = name.split(".txt")[0]
-    #             for line in lines :
-    #                 list_begin.append(line.split(" ")[0])
-    #                 list_ending.append(line.split(" ")[1])
-    #         create_json_selection( name_vid, list_begin,list_ending,path_json=cfg.PATH_JSON_SHOT_RGB_SUM_DSF_BBC,id="seg_vsum_dsf_rgb")
+    #path_video = "src/visualization/static/TVSum50/ydata-tvsum50-v1_1/video/sTEELN-vY30.mp4"
+    parser = argparse.ArgumentParser(description='Optional description')
+    parser.add_argument('path_video', type=str,
+                    help='path of input video')
+    parser.add_argument('--jshot', type=str,
+                    help='path to save json file for visualizing shots')
+    parser.add_argument('--jseg', type=str,
+                    help='path to save json file for visualizing segments')
+    parser.add_argument('--fres', type=str,
+                    help='path to save result file for segments')
+    parser.add_argument('--shotid', type=str,
+                    help='id for visualizing shots')
+    parser.add_argument('--segid', type=str,
+                    help='id for visualizing segments')
+    args = parser.parse_args()
+    sum_video(args.path_video,args.jshot,args.jseg,args.fres,args.shotid,args.segid)

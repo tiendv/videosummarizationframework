@@ -41,7 +41,7 @@ def gen_video_sum(file_name,shot_list,bbc_video_path,save_path):
             id = shot.split("_")[0].replace("shot","")
             path_save = os.path.join(bbc_video_path,'video{}'.format(id))
             f.write('file {}.mp4\n'.format(os.path.join(path_save,shot.rstrip())))
-
+    input("CC")
     os.system("ffmpeg -f concat -safe 0 -i temp.txt -c copy {}".format(os.path.join(save_path,file_name)))
     os.system("rm temp.txt")
     print("the result video be saved at"+os.path.join(save_path,file_name))

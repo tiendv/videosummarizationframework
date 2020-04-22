@@ -19,6 +19,16 @@ def compute_shot_iou(gt_shot,pd_shot):
     union = latest_end - earliest_start
     return round(inter/union,2)
 
+def check_inside(gt_shot,pd_shot):
+    x_gt = time2sec(gt_shot['tcin'])
+    y_gt = time2sec(gt_shot['tcout'])
+
+    x_pd = time2sec(pd_shot['tcin'])
+    y_pd = time2sec(pd_shot['tcout'])
+    if x_gt<=x_pd and y_pd<=y_gt:
+        return True
+    return False
+
 def evaluate(gt_path,pd_path,thres=0.5):
     with open(gt_path,'r') as f:
         gt_data = json.load(f)
@@ -38,7 +48,8 @@ def evaluate(gt_path,pd_path,thres=0.5):
     while i < len(pd_shot_data):
         j=0
         while (j < len(gt_shot_data)) and (time2sec(pd_shot_data[i]['tcout']) > time2sec(gt_shot_data[j]['tcin'])):
-            if compute_shot_iou(pd_shot_data[i],gt_shot_data[j]) >= thres:
+            # if compute_shot_iou(pd_shot_data[i],gt_shot_data[j]) >= thres: #check via IoU
+            if compute_shot_iou(pd_shot_data[i],gt_shot_data[j]) >= thres:  #check vis inside
                 correct_cnt = correct_cnt + 1
                 break
             j = j + 1
