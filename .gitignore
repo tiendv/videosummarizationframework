@@ -1,7 +1,3 @@
-libs/TRN-pytorch/pretrain/TRN_moments_RGB_InceptionV3_TRNmultiscale_segment8_best.pth.tar
-libs/TRN-pytorch/pretrain/TRN_something_RGB_BNInception_TRNmultiscale_segment8_best.pth.tar
-libs/moments_models/moments_RGB_imagenet_resnet3d50_segment16.pth.tar
-libs/moments_models/moments_RGB_resnet50_imagenetpretrained.pth.tar
 data
 data/
 data/*
