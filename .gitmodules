@@ -1,3 +1,6 @@
 [submodule "libs/Video-Segment_Toolkit"]
 	path = libs/Video-Segment_Toolkit
 	url = https://github.com/zeroQiaoba/Video-Segment-Toolkit.git
+[submodule "libs/freesound_audio_tagging_2019"]
+	path = libs/freesound_audio_tagging_2019
+	url = https://github.com/ebouteillon/freesound-audio-tagging-2019.git
