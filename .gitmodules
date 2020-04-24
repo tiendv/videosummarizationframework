@@ -1,0 +1,3 @@
+[submodule "libs/Video-Segment_Toolkit"]
+	path = libs/Video-Segment_Toolkit
+	url = https://github.com/zeroQiaoba/Video-Segment-Toolkit.git
