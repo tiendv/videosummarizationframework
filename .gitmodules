@@ -7,3 +7,9 @@
 [submodule "libs/_moments_models"]
 	path = libs/_moments_models
 	url = https://github.com/zhoubolei/moments_models.git
+[submodule "libs/TransNet"]
+	path = libs/TransNet
+	url = https://github.com/soCzech/TransNet.git
+[submodule "libs/TransNets"]
+	path = libs/TransNets
+	url = https://github.com/soCzech/TransNet.git

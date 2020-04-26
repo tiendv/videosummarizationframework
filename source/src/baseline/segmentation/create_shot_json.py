@@ -74,7 +74,6 @@ def create_json4shots_file(path_data,path_json,name_vid,id_json="shot_gt"):
 
     create_json4shots(path_json, name_vid,list_begin,list_score,id_json)
 
-
 def create_multi_json(path_time_shots,path_json_shot):
     print(path_time_shots)
     for path, subdirs, files in os.walk(path_time_shots):

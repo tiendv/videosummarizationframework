@@ -17,5 +17,16 @@ def sec2time(sec, n_msec=4):
     return ('%d days, ' + pattern) % (d, h, m, s)
 def time2sec(times):
     x = time.strptime(times.split('.')[0],'%H:%M:%S')
-    return float(datetime.timedelta(hours=x.tm_hour,minutes=x.tm_min,seconds=x.tm_sec).total_seconds() +float(times.split(".")[1])/10000)
+    range_mili = 1
+    mili = 0
+    if len(times.split(".")) == 2 :
+        if times.split(".")[1] != '':
+            for i in range(len(times.split(".")[1])):
+                range_mili = 10*range_mili
+            mili = float(times.split(".")[1])/range_mili
+        else:
+            mili =0
+    else:
+        mili = 0
+    return float(datetime.timedelta(hours=x.tm_hour,minutes=x.tm_min,seconds=x.tm_sec).total_seconds() + mili)
 

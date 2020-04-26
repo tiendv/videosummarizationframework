@@ -75,70 +75,68 @@ def selection_shot_knapsack(list_begin,list_ending,list_score,L=0.15):
     #result is a tuple (max of sum score, index of shot having sum durarion less than sum_video )
     return result
 
-
-def create_json_selection_file(path_data, path_json='',id="seg_GT"):
-    with open(path_data,'r') as f:
-        data = f.readlines()
-    dicts_data = []
-    for d in data:
-	    dict_data = {}
-	    dict_data["tcin"] = d.split()[0]
-	    dict_data["tcout"] = d.split()[1]
-	    dict_data["tclevel"] = 1
-	    dicts_data.append(dict_data)
-
-    name_vid =  path_data.split("/")[-1]
-    name_file = name_vid.split(".")[0]
-    name_vid =  path_data.split("/")[-2]
-    create_json_selection(name_file,list_begin,list_ending,result,path_json,id)
-
-def create_json_selection(name_vid, list_begin,list_ending,result_selection=None, path_json='./',path_result_txt=None,id = 'seg_GT'):
+def create_selection_file(name_vid, list_begin,list_ending,result_selection=None,file_path="./"):
     '''
         This function uses to create a json for vusializing the selection
         input: name_vid - name of the input video
                list_begin - list the begining time of each shot
                list_ending - list the ending time of each shot
-               result_selection - the output after using knapsack for selection. (None if not have)
-               path_json - the path of json file being saved
-               path_result_txt - the path where the result txt be saved at
+               result_selection - the output after using knapsack for selection. (None if not available)
+               file_path - the path where the result txt be saved at
         output: None
     '''
 
     dicts_data = []
     if result_selection:
 	    for i in result_selection:
-		    dict_data = {}
-		    dict_data["tcin"] = list_begin[i]
-		    dict_data["tcout"] = list_ending[i]
-		    dict_data["tclevel"] = i
-		    dicts_data.append(dict_data)
+		    dicts_data.append([list_begin[i],list_ending[i]])
     else:
 	    for i in range(len(list_begin)):
-		    dict_data = {}
-		    dict_data["tcin"] = list_begin[i]
-		    dict_data["tcout"] = list_ending[i]
-		    dict_data["tclevel"] = 1
-		    dicts_data.append(dict_data)
+		    dicts_data.append([list_begin[i],list_ending[i]])
+
+    saved_path = os.path.join(file_path,name_vid)
+    if not os.path.isdir(saved_path):
+          os.makedirs(saved_path)
+
+    with open(os.path.join(saved_path,"{}.txt".format(name_vid)),'w+') as f:
+        for d in dicts_data:
+            f.write("{} {}\n".format(d[0],d[1]))
+
+    print("The result file is saved at {}".format(os.path.join(path_save,"{}.json".format(name_vid))))
+
+def create_json_selection(selected_file_path, saved_json_path='./',id_json = 'seg_GT'):
+    '''
+        This function uses to create a json for vusializing the selection
+        input: selected_file_path - the path of the selected shot file
+               saved_json_path - the path of json file will be saved
+               id_json - id of the json file for visualizing
+        output: None
+    '''
+
+    vid_name = os.path.basename(selected_file_path).split(".")[0]
+    with open(selected_file_pathm,'r') as f:
+        shot_data = f.readlines()
+
+    dicts_data = []
+    for i,d in enumerate(shot_data):
+	    dict_data = {}
+	    dict_data["tcin"] = d[0]
+	    dict_data["tcout"] = d[1]
+	    dict_data["tclevel"] = i
+	    dicts_data.append(dict_data)
 
     data_json["localisation"][0]["sublocalisations"]["localisation"] = dicts_data
     data_json["id"] = id
     data_json["type"] = "segments"
-    data_json["localisation"][0]["tclevel"]= len(list_begin)
+    data_json["localisation"][0]["tclevel"]= len(shot_data)
 
-    if path_result_txt:
-        path_save_txt = os.path.join(path_result_txt,name_vid)
-        if not os.path.isdir(path_save_txt):
-              os.makedirs(path_save_txt)
-        with open(os.path.join(path_save_txt,"{}.txt".format(name_vid)),'w+') as f:
-            for d in dicts_data:
-                f.write("{} {}\n".format(d['tcin'],d['tcout']))
+    saved_path = os.path.join(saved_json_path,vid_name)
+    if not os.path.isdir(saved_path):
+        os.makedirs(saved_path)
 
-    if not os.path.isdir(path_save):
-        os.makedirs(path_save)
-    path_save = os.path.join(path_json,name_vid)
-    with open(os.path.join(path_save,"{}.json".format(name_vid)),'w+') as f:
+    with open(os.path.join(saved_path,"{}.json".format(vid_name)),'w+') as f:
         json.dump(data_json, f)
-    print("The json file is saved at {}".format(os.path.join(path_save,"{}.json".format(name_vid))))
+    print("The json file is saved at {}".format(os.path.join(saved_path,"{}.json".format(vid_name))))
 
 
 def create_json_for_bbc_event(path_dir_event,path_json_save,topK=5,id_json='event_bbc'):
