@@ -114,7 +114,7 @@ def create_json_selection(selected_file_path, saved_json_path='./',id_json = 'se
     '''
 
     vid_name = os.path.basename(selected_file_path).split(".")[0]
-    with open(selected_file_pathm,'r') as f:
+    with open(selected_file_path,'r') as f:
         shot_data = f.readlines()
 
     dicts_data = []
@@ -127,6 +127,39 @@ def create_json_selection(selected_file_path, saved_json_path='./',id_json = 'se
 
     data_json["localisation"][0]["sublocalisations"]["localisation"] = dicts_data
     data_json["id"] = id
+    data_json["type"] = "segments"
+    data_json["localisation"][0]["tclevel"]= len(shot_data)
+
+    saved_path = os.path.join(saved_json_path,vid_name)
+    if not os.path.isdir(saved_path):
+        os.makedirs(saved_path)
+
+    with open(os.path.join(saved_path,"{}.json".format(vid_name)),'w+') as f:
+        json.dump(data_json, f)
+    print("The json file is saved at {}".format(os.path.join(saved_path,"{}.json".format(vid_name))))
+
+def create_json_selections(selected_file_path, saved_json_path='./',id_json = 'seg_GT'):
+    '''
+        This function uses to create a json for vusializing the selection
+        input: selected_file_path - the path of the selected shot file
+               saved_json_path - the path of json file will be saved
+               id_json - id of the json file for visualizing
+        output: None
+    '''
+
+    vid_name = os.path.basename(selected_file_path).split(".")[0]
+    with open(selected_file_path,'r') as f:
+        shot_data = f.readlines()
+
+    dicts_data = []
+    for i in shot_data:
+	    dict_data = {}
+	    dict_data["tcin"] = i.split(" ")[0]
+	    dict_data["tcout"] =(i.split(" ")[1]).replace("\n","")
+	    dict_data["tclevel"] = 1
+	    dicts_data.append(dict_data)
+    data_json["localisation"][0]["sublocalisations"]["localisation"] = dicts_data
+    data_json["id"] = id_json
     data_json["type"] = "segments"
     data_json["localisation"][0]["tclevel"]= len(shot_data)
 

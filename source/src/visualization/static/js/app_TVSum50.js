@@ -34,6 +34,7 @@ function load_video(file_id){
         plugins: {
             dataServices: [
                 'json/TVSum/shots/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/shots/KTS_VGG/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/shots/Random/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/shots/SuperF/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/kf/'+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -102,12 +103,18 @@ function load_video(file_id){
                                 color: '#F00'
                             },
                             {
+                                title: 'Segment boundaries[KTS_VGG]',
+                                type: 'cuepoint',
+                                metadataId: 'KTS_VGG_seg_boundaries',
+                                color: "#3CF",
+                                pointNav: true
+                            },
+                            {
                                 title: 'Keyframe',
                                 type: 'image',
                                 metadataId: 'kf-amalia01',
                                 pointNav: true
                             },
-
                         ]
                     }
                 }

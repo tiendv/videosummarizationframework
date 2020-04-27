@@ -6,14 +6,15 @@ sys.path.append("/mmlabstorage/workingspace/VideoSum/videosummarizationframework
 from transnet import TransNetParams, TransNet
 from transnet_utils import draw_video_with_predictions, scenes_from_predictions
 
-# initialize the network
-params = TransNetParams()
-params.CHECKPOINT_PATH = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/libs/TransNet/model/transnet_model-F16_L3_S2_D256"
 
-net = TransNet(params)
 
 def run_trainsnet(vid_path):
-    global net
+    # initialize the network
+    params = TransNetParams()
+    params.CHECKPOINT_PATH = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/libs/TransNet/model/transnet_model-F16_L3_S2_D256"
+
+    net = TransNet(params)
+
     video_stream, err = (
         ffmpeg
         .input(vid_path)

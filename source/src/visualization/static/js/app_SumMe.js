@@ -19,7 +19,18 @@ function load_video(file_id){
         plugins: {
             dataServices: [
                 'json/SumMe/shots/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/shots/Rethinking/score_random_sample/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/shots/Rethinking/segment_boundaries/KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/shots/Rethinking/segment_boundaries/one-peak/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/shots/Rethinking/segment_boundaries/two-peak/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/shots/Rethinking/segment_boundaries/randomized-KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/shots/Rethinking/segment_boundaries/uniform/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/selected/Rethinking/KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/selected/Rethinking/one-peak/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/selected/Rethinking/two-peak/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/selected/Rethinking/randomized-KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/selected/Rethinking/uniform/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/Random/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/vsum_dsf/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/dsf_vgg16/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -60,6 +71,78 @@ function load_video(file_id){
                                 title: 'Sum[vsum_dsf_vgg16]',
                                 type: 'segment',
                                 metadataId: 'seg_vsum_dsf_rgb_only_vgg16',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Random score',
+                                type: 'cuepoint',
+                                metadataId: 'rethinking_score_random',
+                                color: "#3CF",
+                                pointNav: true
+                            } ,
+                            {
+                                title: 'Shot boundaries[uniform]',
+                                type: 'cuepoint',
+                                metadataId: 'rethinking_uniform_seg_boundaries',
+                                color: "#3CF",
+                                pointNav: true
+                            },
+                            {
+                                title: 'Sum[uniform]',
+                                type: 'segment',
+                                metadataId: 'rethinking_uniform_seg',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Shot boundaries[one-peak]',
+                                type: 'cuepoint',
+                                metadataId: 'rethinking_one-peak_seg_boundaries',
+                                color: "#3CF",
+                                pointNav: true
+                            },
+                            {
+                                title: 'Sum[one-peak]',
+                                type: 'segment',
+                                metadataId: 'rethinking_one-peak_seg',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Shot boundaries[two-peak]',
+                                type: 'cuepoint',
+                                metadataId: 'rethinking_two-peak_seg_boundaries',
+                                color: "#3CF",
+                                pointNav: true
+                            },
+                            {
+                                title: 'Sum[two-peak]',
+                                type: 'segment',
+                                metadataId: 'rethinking_two-peak_seg',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Segment boundaries[KTS_GoogLeNet]',
+                                type: 'cuepoint',
+                                metadataId: 'rethinking_KTS_seg_boundaries',
+                                color: "#3CF",
+                                pointNav: true
+                            },
+                            {
+                                title: 'Sum[KTS_GoogLeNet]',
+                                type: 'segment',
+                                metadataId: 'rethinking_KTS_seg',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Segment boundaries[randomized-KTS_GoogLeNet]',
+                                type: 'cuepoint',
+                                metadataId: 'rethinking_randomized-KTS_seg_boundaries',
+                                color: "#3CF",
+                                pointNav: true
+                            },
+                            {
+                                title: 'Sum[randomized-KTS_GoogLeNet]',
+                                type: 'segment',
+                                metadataId: 'rethinking_randomized-KTS_seg',
                                 color: '#F00'
                             },
                         ]

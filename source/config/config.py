@@ -6,6 +6,8 @@ cfg = __C
 
 BASIC_DIR = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/"
 
+__C.VIDEO_CSV_PATH = BASIC_DIR + "data/input_data/TVSum.csv"
+
 #params for visualization TVSum50
 __C.PATH_VIDEO_TVSUM = "/mmlabstorage/datasets/TVSum50/ydata-tvsum50-v1_1/video"
 __C.PATH_TIME_SHOTS_GT= BASIC_DIR + "data/TVSum_processed_data/time_shots_tvsum50/GT"
@@ -15,7 +17,7 @@ __C.PATH_VIDEOS = BASIC_DIR + "source/src/visualization/static/TVSum50/ydata-tvs
 __C.PATH_KF = BASIC_DIR + "source/src/visualization/static/keyframes/TVSum"
 __C.PATH_JSON_KF = BASIC_DIR + "source/src/visualization/static/json/TVSum/kf"
 __C.PATH_JSON_SHOT_GT = BASIC_DIR + "source/src/visualization/static/json/TVSum/shots/GT"
-__C.PATH_JSON_SHOT_BL = BASIC_DIR + "source/src/visualization/static/json/TVSum/shots/Random"
+__C.PATH_JSON_SHOT_BL = BASIC_DIR + "source/src/visualization/static/json/TVSum/shots/TransNet"
 __C.PATH_JSON_SHOT_SUM_DSF_TVSUM = BASIC_DIR + "source/src/visualization/static/json/TVSum/selected/vsum_dsf"
 __C.PATH_JSON_SELECT_GT = BASIC_DIR + "source/src/visualization/static/json/TVSum/selected/GT"
 __C.PATH_JSON_SELECT_BL = BASIC_DIR + "source/src/visualization/static/json/TVSum/selected/dsf_vgg16_m"
