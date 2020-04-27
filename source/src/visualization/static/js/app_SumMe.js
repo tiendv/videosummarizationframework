@@ -81,46 +81,46 @@ function load_video(file_id){
                                 pointNav: true
                             } ,
                             {
-                                title: 'Shot boundaries[uniform]',
+                                title: 'Shot seg[Uniform]',
                                 type: 'cuepoint',
                                 metadataId: 'rethinking_uniform_seg_boundaries',
                                 color: "#3CF",
                                 pointNav: true
                             },
                             {
-                                title: 'Sum[uniform]',
+                                title: 'Sum[Uniform]',
                                 type: 'segment',
                                 metadataId: 'rethinking_uniform_seg',
                                 color: '#F00'
                             },
                             {
-                                title: 'Shot boundaries[one-peak]',
+                                title: 'Shot seg[One-peak]',
                                 type: 'cuepoint',
                                 metadataId: 'rethinking_one-peak_seg_boundaries',
                                 color: "#3CF",
                                 pointNav: true
                             },
                             {
-                                title: 'Sum[one-peak]',
+                                title: 'Sum[One-peak]',
                                 type: 'segment',
                                 metadataId: 'rethinking_one-peak_seg',
                                 color: '#F00'
                             },
                             {
-                                title: 'Shot boundaries[two-peak]',
+                                title: 'Shot seg[Two-peak]',
                                 type: 'cuepoint',
                                 metadataId: 'rethinking_two-peak_seg_boundaries',
                                 color: "#3CF",
                                 pointNav: true
                             },
                             {
-                                title: 'Sum[two-peak]',
+                                title: 'Sum[Two-peak]',
                                 type: 'segment',
                                 metadataId: 'rethinking_two-peak_seg',
                                 color: '#F00'
                             },
                             {
-                                title: 'Segment boundaries[KTS_GoogLeNet]',
+                                title: 'Shot seg[KTS_GoogLeNet]',
                                 type: 'cuepoint',
                                 metadataId: 'rethinking_KTS_seg_boundaries',
                                 color: "#3CF",
@@ -133,14 +133,14 @@ function load_video(file_id){
                                 color: '#F00'
                             },
                             {
-                                title: 'Segment boundaries[randomized-KTS_GoogLeNet]',
+                                title: 'Shot seg[Randomized-KTS_GoogLeNet]',
                                 type: 'cuepoint',
                                 metadataId: 'rethinking_randomized-KTS_seg_boundaries',
                                 color: "#3CF",
                                 pointNav: true
                             },
                             {
-                                title: 'Sum[randomized-KTS_GoogLeNet]',
+                                title: 'Sum[Randomized-KTS_GoogLeNet]',
                                 type: 'segment',
                                 metadataId: 'rethinking_randomized-KTS_seg',
                                 color: '#F00'

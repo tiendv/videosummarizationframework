@@ -1,14 +1,20 @@
 $(function(){
+
   // TVSum50
-  showEval("evaluation/TVSum/Random/Random.json","Random","result_tvsum");
-  showEval("evaluation/TVSum/SuperF/SuperF.json","SuperFrame","result_tvsum");
-  showEval("evaluation/TVSum/vsum_dsf/vsum_dsf.json","vsum_dsf","result_tvsum");
-  showEval("evaluation/TVSum/dsf_vgg16_m/dsf_vgg16_m.json","dsf_vgg16","result_tvsum");
-  showEval("evaluation/TVSum/dsf_resnet50/dsf_resnet50.json","dsf_resnet50","result_tvsum");
+  showEval("evaluation/TVSum/Uniform_Random_Knapsack/Uniform_Random_Knapsack.json","Uniform_Random_Knapsack","result_tvsum");
+  showEval("evaluation/TVSum/SuperFrame_Knapsack/SuperFrame_Knapsack.json","SuperFrame_Knapsack","result_tvsum");
+  showEval("evaluation/TVSum/DSF_Kmedoids/DSF_Kmedoids.json","DSF_Kmedoids","result_tvsum");
+  showEval("evaluation/TVSum/DSF_Resnet50_Kmedoids/DSF_Resnet50_Kmedoids.json","DSF_Resnet50_Kmedoids","result_tvsum");
+  showEval("evaluation/TVSum/DSF_VGG16_Kmedoids/DSF_VGG16_Kmedoids.json","DSF_VGG16_Kmedoids","result_tvsum");
   // SumMe
-  showEval("evaluation/SumMe/Random/Random.json","Random","result_summe");
-  showEval("evaluation/SumMe/vsum_dsf/vsum_dsf.json","vsum_dsf","result_summe");
-  showEval("evaluation/SumMe/dsf_vgg16/dsf_vgg16.json","dsf_vgg16","result_summe");
+  showEval("evaluation/SumMe/Uniform_Random_Knapsack/Uniform_Random_Knapsack.json","Uniform_Random_Knapsack","result_summe");
+  showEval("evaluation/SumMe/DSF_Kmedoids/DSF_Kmedoids.json","DSF_Kmedoids","result_summe");
+  showEval("evaluation/SumMe/DSF_VGG16_Kmedoids/DSF_VGG16_Kmedoids.json","DSF_VGG16_Kmedoids","result_summe");
+  showEval("evaluation/SumMe/Rethinking_Uniform_Random_Knapsack/Rethinking_Uniform_Random_Knapsack.json","Rethinking_Uniform_Random_Knapsack","result_summe");
+  showEval("evaluation/SumMe/Randomized-KTS_Random_Knapsack/Randomized-KTS_Random_Knapsack.json","Randomized-KTS_Random_Knapsack","result_summe");
+  showEval("evaluation/SumMe/KTS_GoogLeNet_Random_Knapsack/KTS_GoogLeNet_Random_Knapsack.json","KTS_GoogLeNet_Random_Knapsack","result_summe");
+  showEval("evaluation/SumMe/One-peak_Random_Knapsack/One-peak_Random_Knapsack.json","One-peak_Random_Knapsack","result_summe");
+  showEval("evaluation/SumMe/Two-peak_Random_Knapsack/Two-peak_Random_Knapsack.json","Two-peak_Random_Knapsack","result_summe");
 
 });
 

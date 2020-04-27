@@ -169,25 +169,25 @@ function load_video(file_id){
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[RGB_vsum_dsf]',
+                                title: 'Sum[DSF_Kmedoids]',
                                 type: 'segment',
                                 metadataId: 'seg_vsum_dsf_rgb',
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[RGB_vsum_dsf_vgg16]',
+                                title: 'Sum[DSF_VGG16_Kmedoids]',
                                 type: 'segment',
                                 metadataId: 'seg_vsum_dsf_rgb_only_vgg16',
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[Events_vsum_dsf]',
+                                title: 'Sum[Events_Kmedoids]',
                                 type: 'segment',
                                 metadataId: 'event_seg_vsum_dsf_fix',
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[Emotions_vsum_dsf]',
+                                title: 'Sum[Emotions_Kmedoids]',
                                 type: 'segment',
                                 metadataId: 'emotion_seg_vsum_dsf_fix',
                                 color: '#F00'

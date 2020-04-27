@@ -67,6 +67,13 @@ function load_video(file_id){
                                 pointNav: true
                             },
                             {
+                                title: 'Shot seg[KTS_VGG]',
+                                type: 'cuepoint',
+                                metadataId: 'KTS_VGG_seg_boundaries',
+                                color: "#3CF",
+                                pointNav: true
+                            },
+                            {
                                 title: 'Sum[GT]',
                                 type: 'segment',
                                 metadataId: 'seg_gt',
@@ -85,29 +92,22 @@ function load_video(file_id){
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[vsum_dsf]',
+                                title: 'Sum[Dsf]',
                                 type: 'segment',
                                 metadataId: 'seg_vsum_dsf',
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[vsum_dsf_vgg16]',
+                                title: 'Sum[Dsf_vgg16]',
                                 type: 'segment',
                                 metadataId: 'seg_vsum_dsf_rgb_only_vgg16',
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[vsum_dsf_resnet50]',
+                                title: 'Sum[Dsf_resnet50]',
                                 type: 'segment',
                                 metadataId: 'seg_vsum_dsf_rgb_resnet50',
                                 color: '#F00'
-                            },
-                            {
-                                title: 'Segment boundaries[KTS_VGG]',
-                                type: 'cuepoint',
-                                metadataId: 'KTS_VGG_seg_boundaries',
-                                color: "#3CF",
-                                pointNav: true
                             },
                             {
                                 title: 'Keyframe',

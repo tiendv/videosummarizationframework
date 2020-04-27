@@ -72,8 +72,8 @@ if __name__ == '__main__':
      ''' PATHS ''' 
      HOMEDATA='/mmlabstorage/datasets/SumMe/GT/'
      path_video = '/mmlabstorage/datasets/SumMe/videos'
-     data ="/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/time_shots_summe/dsf_vgg16"
-     path_save = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/evaluation/SumMe/dsf_vgg16/dsf_vgg16.json"
+     data ="/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/time_segment/Rethinking/uniform"
+     path_save = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/evaluation/SumMe/Rethinking/uniform/uniform.json"
      json_summe = {}
      videos = glob.glob(os.path.join(HOMEDATA,"*"))
      for i in range (len(videos)):
@@ -137,8 +137,8 @@ if __name__ == '__main__':
      data_json["mean"] = temp
      json_summe["result"] = data_json
      json_summe["thres"] = 0.5
-#     with open(path_save, 'w') as outfile:
-#         json.dump(json_summe, outfile)
+     with open(path_save, 'w') as outfile:
+         json.dump(json_summe, outfile)
 
 
 

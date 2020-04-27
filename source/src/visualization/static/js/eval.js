@@ -6,35 +6,17 @@ $(function() {
 
     if (dataset=='TVSum50')
     {
-      if (method=='Random')
-        getResult("evaluation/TVSum/Random/Random.json",0);
-      else if (method == "SuperFrame" )
-        getResult("evaluation/TVSum/SuperF/SuperF.json",0);
-      else if (method == "VSumDSF" )
-        getResult("evaluation/TVSum/vsum_dsf/vsum_dsf.json",0);
-      else if (method == "DSFvgg16m" )
-        getResult("evaluation/TVSum/dsf_vgg16_m/dsf_vgg16_m.json",0);
-      else if (method == "DSFresnet50" )
-        getResult("evaluation/TVSum/dsf_resnet50/dsf_resnet50.json",0);
+        getResult("evaluation/TVSum/"+method+"/"+method+".json",0);
     }
     else if (dataset=='SumMe')
     {
-      if (method=='Random')
-        getResult("evaluation/SumMe/Random/Random.json",1);
-      else if (method == "SuperFrame" )
-        getResult("evaluation/SumMe/SuperF/SuperF.json",1);
-      else if (method == "VSumDSF" )
-        getResult("evaluation/SumMe/vsum_dsf/vsum_dsf.json",1);
-      else if (method == "DSF_vgg16" )
-        getResult("evaluation/SumMe/dsf_vgg16/dsf_vgg16.json",1);
-
+        getResult("evaluation/SumMe/"+method+"/"+method+".json",0);
     }
 
 });
 
 
-function getResult(json_path,k)
-{
+function getResult(json_path,k){
      $.getJSON(json_path, function( data ) {
 
         var result = data['result'];
