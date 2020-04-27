@@ -37,7 +37,7 @@ def sampling_shot(path_video,len_shot=2):
         del begining_shots[-1]
     return name_vid, list(map(sec2time, begining_shots)), list(map(sec2time,ending_shots))
 
-def doTrainsnet(vid_path):
+def do_trainsnet(vid_path):
     shots,total_frame = run_trainsnet(vid_path)
     vid_name = os.path.basename(vid_path)
 

@@ -4,45 +4,47 @@ import random
 import argparse
 from multiprocessing import Process
 
-from utilities.convert_time import sec2time
-from src.baseline.segmentation.create_json_from_time_shots import create_json4shots
-from src.baseline.segmentation.segment_video import create_segments_tvsum
-
-from src.baseline.selection.get_data_to_selection import get_data_to_selection,selection_shot_knapsack, create_json_selection
 from config.config import cfg
-from UIT.mmlab.vsum.segment import segment_shot
-from UIT.mmlab.vsum.selection import select_shot
-from UIT.mmlab.vsum.scoring import score_shot
-from UIT.mmlab.vsum.visualization import create_json
+from uit.mmlab.vsum.segment import segment_shot
+from uit.mmlab.vsum.selection import select_shot
+from uit.mmlab.vsum.scoring import score_shot
+from uit.mmlab.vsum.visualization import create_json
 
 
-def sum_video(path_video,path_saved_json_shot="./",path_saved_json_segment='./',path_result_segment_txt="./",id_shot="shot_gt",id_seg="seg_gt"):
+def sum_video(vid_path,saved_shot_json_path="./",saved_seg_json_path='./',result_seg_file_path="./",shot_id="shot_gt",seg_id="seg_gt"):
     '''
         This function uses to summarize a video and export json files for visualization
-        input: path_save - path of a input video_duration
-               path_saved_json_shot - path to save json file for visualizing shots
-               path_saved_json_segment -  path to save json file for visualizing segments
-               path_result_segment_txt - path to save result file for  segments
+        input: vid_path - path of a input video
+               saved_shot_json_path - path to save json file for visualizing shots
+               saved_seg_json_path -  path to save json file for visualizing segments
+               result_seg_file_path - path to save result file for  segments
                id_shot - id of shot json for visualizing
                id_seg - id of seg json for visualizing
         output: None
     '''
     #shot detection
-    video_name, begin_list, end_list = segment_shot.doTrainsnet(path_video)
+    video_name, begin_list, end_list = segment_shot.do_trainsnet(vid_path)
 
     # #cacl score
     score_list = score_shot.random_score(begin_list) ##list score for BL
 
     #create json to visual shots
-    create_json.create_shot_json(shot_json_path,video_name,begin_list,score_list, shot_id)
+    create_json.create_shot_json(saved_shot_json_path,video_name,begin_list,score_list, shot_id)
 
     #excuting knapsack to select the shots for summarize
-    select_shot.doKnapsack(video_name,begin_list, end_list,score_list,path_result_segment_txt)
+    select_shot.do_knapsack(video_name,begin_list, end_list,score_list,result_seg_file_path)
 
-def sum_multi_video():
-    paths = glob.glob(cfg.PATH_SUMME_VIDEOS+"/*.mp4")
+    #create json to visual segments
+    create_json.create_shot_json_from_file(result_seg_file_path,saved_seg_json_path)
+
+def sum_multi_video(videos_file_path):
+    with open(videos_file_path,'r') as f:
+        paths = f.readlines()
     for p in paths:
         sum_video(p,cfg.PATH_JSON_SHOT_RANDOM_SUMME,cfg.PATH_JSON_SELECT_RANDOM_SUMME,cfg.PATH_TIME_SEG_RANDOM_SUMME,"shot_rd","seg_rd")
+
+
+
 
 def main():
     parser = argparse.ArgumentParser(description='Optional description')
