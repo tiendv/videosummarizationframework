@@ -1,12 +1,11 @@
 import sys
-
 import argparse
 import cv2
 import os
-import errno
 import glob
-
 import time
+sys.path.append("source/config")
+from config_extractframes import cfg
 
 def KeyframeExtraction(input_path, output_path, sampling_rate=None, max_frame_per_shot=None):
     #************************************************************************
@@ -18,7 +17,7 @@ def KeyframeExtraction(input_path, output_path, sampling_rate=None, max_frame_pe
     # - max_frame_per_shot: if this is set, the numbers of keyframes extracted must satisfied this value
     # Returns: None
     # Author: Hung Vo
-    # Modified: Dugmn
+    # Modified: Dungmn
     #************************************************************************
 
     cap = cv2.VideoCapture(input_path)
@@ -58,10 +57,10 @@ def KeyframeExtraction(input_path, output_path, sampling_rate=None, max_frame_pe
     cv2.destroyAllWindows()
 
 def run_extract(id):
-    frames_folder = "/mmlabstorage/workingspace/InstaceSearch/hungvq/data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Keyframes_5fps/"
+    frames_folder = cfg.FRAMES_DIR_PATH
     total_time = 0
     extracted_shot = 0
-    with open("shot_input/video{}.txt".format(id)) as f:
+    with open(cfg.INPUT_BBC_SHOT_PATH+"/video{}.txt".format(id)) as f:
         data = f.readlines()
 
     for shot in data:
@@ -76,7 +75,7 @@ def run_extract(id):
             break
 
         begin = time.time()
-        KeyframeExtraction(shot, frames_folder, 5)
+        KeyframeExtraction(shot, frames_folder, cfg.SAMPLING_RATE)
         end = time.time()
 
         total_time += (end - begin)
@@ -84,7 +83,7 @@ def run_extract(id):
         extracted_shot += 1
         # print('[+] Number of extracted shots: %d' % (extracted_shot))
 
-        os.system("echo {} >> ../../logs/extract_frame_log.txt".format(shot))
+        os.system("echo {} >> {}/extract_frame_log.txt".format(shot,cfg.LOG_DIR_PATH))
         # print('Total Elapsed Time: %f minutes and %d seconds' % (
         # total_time/60, total_time % 60))
 
@@ -98,4 +97,4 @@ def main():
 
 if __name__ == '__main__':
     # main()
-    KeyframeExtraction("/mmlabstorage/workingspace/VideoSum/videosummarizationframework/test_data/input/video1/shot1_18.mp4","/mmlabstorage/workingspace/VideoSum/videosummarizationframework/test_data/keyframes",sampling_rate=5)
+    KeyframeExtraction(cfg.EXAMPLE_VIDEO,cfg.EXAMPLE_FRAME_PATH,sampling_rate=cfg.SAMPLING_RATE)

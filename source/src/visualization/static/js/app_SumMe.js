@@ -62,13 +62,13 @@ function load_video(file_id){
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[vsum_dsf]',
+                                title: 'Sum[DSF]',
                                 type: 'segment',
                                 metadataId: 'seg_vsum_dsf',
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[vsum_dsf_vgg16]',
+                                title: 'Sum[DSF_VGG16]',
                                 type: 'segment',
                                 metadataId: 'seg_vsum_dsf_rgb_only_vgg16',
                                 color: '#F00'
