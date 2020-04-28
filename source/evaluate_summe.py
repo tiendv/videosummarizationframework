@@ -72,8 +72,8 @@ if __name__ == '__main__':
      ''' PATHS ''' 
      HOMEDATA='/mmlabstorage/datasets/SumMe/GT/'
      path_video = '/mmlabstorage/datasets/SumMe/videos'
-     data ="/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/time_segment/Rethinking/uniform"
-     path_save = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/evaluation/SumMe/Rethinking/uniform/uniform.json"
+     data ="/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/time_segment/Rethinking/randomized-KTS"
+     path_save = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/evaluation/SumMe/Randomized-KTS_Random_Knapsack/Randomized-KTS_Random_Knapsack.json"
      json_summe = {}
      videos = glob.glob(os.path.join(HOMEDATA,"*"))
      for i in range (len(videos)):

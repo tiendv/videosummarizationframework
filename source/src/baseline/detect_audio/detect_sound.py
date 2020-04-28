@@ -359,7 +359,17 @@ def open_fat2019_image(fn,convert_mode, after_open)->Image:
     # standardize
     return Image(torch.from_numpy(x.astype(np.float32, copy=False)).div_(255))
 
+
+
+
 def detect_audio(id_vid):
+    '''
+        This function uses to detect events from audio
+        input: id_vid -- The id of the input video
+        output: 
+
+
+    '''
     path_save = os.path.join(cfg.PATH_EVENT_AUDIO_BBC,'video{}'.format(id_vid))
     if os.path.isdir(path_save):
         return True

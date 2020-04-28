@@ -19,6 +19,7 @@ function load_video(file_id){
         plugins: {
             dataServices: [
                 'json/SumMe/shots/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/shots/KTS_VGG/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/shots/Rethinking/score_random_sample/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/shots/Rethinking/segment_boundaries/KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/shots/Rethinking/segment_boundaries/one-peak/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -49,6 +50,13 @@ function load_video(file_id){
                                 color: "#3CF",
                                 pointNav: true
                             } ,
+                            {
+                                title: 'Shot seg[KTS_VGG]',
+                                type: 'cuepoint',
+                                metadataId: 'KTS_VGG_seg_boundaries',
+                                color: "#3CF",
+                                pointNav: true
+                            },
                             {
                                 title: 'Sum[GT]',
                                 type: 'segment',

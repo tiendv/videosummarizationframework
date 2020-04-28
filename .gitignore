@@ -10,3 +10,5 @@ source/src/baseline/detect_emotion/VGG_S_cyclic_lbp_10/EmotiW_VGG_S.caffemodel
 source/src/baseline/detect_emotion/VGG_S_rgb/EmotiW_VGG_S.caffemodel
 source/src/baseline/detect_emotion/VGG_S_cyclic_lbp_5/EmotiW_VGG_S.caffemodel
 source/src/baseline/detect_emotion/VGG_S_cyclic_lbp/EmotiW_VGG_S.caffemodel
+source/src/baseline/deep_semantic_feature/data.zip
+source/src/baseline/detect_emotion/VGG_S_rgb/EmotiW_VGG_S.caffemodel
