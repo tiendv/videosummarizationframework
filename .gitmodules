@@ -10,6 +10,3 @@
 [submodule "libs/TransNet"]
 	path = libs/TransNet
 	url = https://github.com/soCzech/TransNet.git
-[submodule "libs/TransNets"]
-	path = libs/TransNets
-	url = https://github.com/soCzech/TransNet.git
