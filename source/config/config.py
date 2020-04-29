@@ -6,7 +6,9 @@ cfg = __C
 
 BASIC_DIR = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/"
 
-__C.VIDEO_CSV_PATH = BASIC_DIR + "data/input_data/TVSum.csv"
+__C.VIDEO_CSV_TVSUM_PATH = BASIC_DIR + "data/input_data/TVSum.csv"
+__C.VIDEO_CSV_SUMME_PATH = BASIC_DIR + "data/input_data/SumMe.csv"
+__C.VIDEO_CSV_BBC_PATH = BASIC_DIR + "data/input_data/BBC_EastEnder/BBC_video.csv"
 
 #params for visualization TVSum50
 __C.PATH_VIDEO_TVSUM = "/mmlabstorage/datasets/TVSum50/ydata-tvsum50-v1_1/video"
