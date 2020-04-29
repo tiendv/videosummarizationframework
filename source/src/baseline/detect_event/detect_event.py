@@ -14,6 +14,12 @@ def run_detect_event(vid_id):
     # Output: the result csv file stored in cfg.OUTPUT_PATH
     # Author: Dungmn
     #************************************************************************
+    #Check permission
+    try:
+        os.system("echo test > {}/test.txt".format(cfg.OUTPUT_PATH))
+        os.remove("{}/test.txt".format(cfg.OUTPUT_PATH))
+    except Exception as e:
+        raise "permission deny to write in {}".format(cfg.OUTPUT_PATH)
 
     with open(os.path.join(cfg.BBC_SHOT_PATH,"video{}.txt".format(vid_id)),'r') as f:
         data = f.readlines()
