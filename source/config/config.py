@@ -6,13 +6,9 @@ cfg = __C
 
 BASIC_DIR = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/"
 
-__C.VIDEO_CSV_PATH = BASIC_DIR + "data/input_data/TVSum.csv"
-__C.BBC_SHOT_PATH = BASIC_DIR + "data/input_data/BBC_EastEnder/input_shot"
-__C.OUTPUT_PATH = BASIC_DIR + "data/BBC_processed_data/shot_event"
-__C.LOG_DIR_PATH = BASIC_DIR + "source/log"
-__C.EXAMPLE_BBC_SHOT_PATH = "../../../../test_data/shots/shot1_18.mp4"
-__C.EXAMPLE_OUTPUT_PATH = "../../../../test_data/bbc_event"
-
+__C.VIDEO_CSV_TVSUM_PATH = BASIC_DIR + "data/input_data/TVSum.csv"
+__C.VIDEO_CSV_SUMME_PATH = BASIC_DIR + "data/input_data/SumMe.csv"
+__C.VIDEO_CSV_BBC_PATH = BASIC_DIR + "data/input_data/BBC_EastEnder/BBC_video.csv"
 
 #params for visualization TVSum50
 __C.PATH_VIDEO_TVSUM = "/mmlabstorage/datasets/TVSum50/ydata-tvsum50-v1_1/video"
@@ -36,9 +32,12 @@ __C.PATH_VIDEO_BBC = "/mmlabstorage/datasets/TRECVID/TRECVID_BBC_EastEnders/vide
 __C.PATH_TIME_SHOTS_BBC_GT= BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/GT"
 __C.PATH_TIME_SHOTS_BBC_BL= BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/SBD"
 __C.PATH_DATA_REF_BBC_FILE = BASIC_DIR + "data/BBC_processed_data/reference_bbc/master_shot_reference.txt"
+__C.PATH_EVENT_SHOT_BBC = BASIC_DIR + "data/BBC_processed_data/events_shot"
 __C.PATH_EVENT_EMOTION_BBC = BASIC_DIR + "data/BBC_processed_data/events_emotion"
+__C.PATH_EVENT_AUDIO_BBC = BASIC_DIR + "data/BBC_processed_data/audio_event"
 __C.PATH_FACES_SHOT_BBC = BASIC_DIR + "data/BBC_processed_data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Faces"
 __C.PATH_AUDIO_SHOT_BBC = BASIC_DIR + "data/BBC_processed_data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Shots_Audios"
+__C.PATH_SHOT_BBC = BASIC_DIR + "data/BBC_processed_data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Shots"
 __C.PATH_TIME_SHOTS_EVENTS_VSUM_DSF_BBC = BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/event_seg_vsum_dsf"
 __C.PATH_TIME_SHOTS_RGB_VSUM_DSF_BBC = BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/event_seg_rgb"
 __C.PATH_JSON_SELECT_BBC = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/selected"
