@@ -46,15 +46,6 @@ if __name__ == '__main__':
         os.makedirs(out_dir)
     print dataset_root
     dataset = json.load(open(dataset_root + 'dataset.json'))
-
-#image
-#videoID
-#length
-#score
-#fps
-#imgID
-#fnum
-
     video_id = [d['videoID'] for d in dataset]
 
     # load embedding model

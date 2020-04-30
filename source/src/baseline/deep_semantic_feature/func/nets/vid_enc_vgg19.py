@@ -4,8 +4,8 @@ from chainer import Chain
 
 class Model(Chain):
 
-    def __init__(self):
-        self.b_size = {'video': 5}
+    def __init__(self, b_size={'video': 2}):
+        self.b_size = b_size
 
     def __call__(self, x_seg):
         '''

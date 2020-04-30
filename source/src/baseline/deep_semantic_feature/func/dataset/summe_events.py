@@ -12,10 +12,8 @@ def time2sec(times):
     mili = 0
     if len((times.split(".")[1]).replace("\n","")) == 1:
         mili =float(float(times.split(".")[1])/10)
-#        print float(float(times.split(".")[1])/10)
     else:
         mili =float(float(times.split(".")[1])/100)
-#        print float(float(times.split(".")[1])/100)
     x = time.strptime(times.split('.')[0],'%H:%M:%S')
     return float(datetime.timedelta(hours=x.tm_hour,minutes=x.tm_min,seconds=x.tm_sec).total_seconds() + mili)
 
@@ -25,7 +23,6 @@ def time2sec(times):
 class SUMME():
 
     def __init__(self, video_id,fps,datatype, duration,path_npy,fnum,path_reference,feat_type='vgg'):
-        #self.feat = np.load(path_npy+"/"+video_id + '.npy').astype(np.float32)
         print "***OK***",video_id
         file_json= []
         dictionary = {}
@@ -75,13 +72,6 @@ class SUMME():
                     total +=int(end-start)
                 if int(((line.split("    ")[1]).split("_")[0]).replace("shot","")) == int(video_id.replace("video","")) :
                     total_shot = int((line.split("    ")[1]).split("_")[1])
-
-
-#                print float(time2sec((line.split("    ")[3])))
-#                print float(time2sec(line.split("    ")[2]))
-#                print time_filter
-#                print float(time2sec((line.split("    ")[3])))-float(time2sec(line.split("    ")[2]))-int(float(time2sec((line.split("    ")[3])))-float(time2sec(line.split("    ")[2])))
-#                raw_input()
         list_events = []
         for paths, subdirs, files in os.walk(path_npy):
             for name in files:
@@ -94,13 +84,8 @@ class SUMME():
                 break
         totals = 0
         for i in range (1,total_shot+1):
-#        for name in onlyfiles:
             name_shot = str("shot"+video_id.replace("video","")+"_"+str(i))
             key_frames = dict_refer[str(video_id)+str(name_shot)]
-            #print name_shot
-            #print key_frames
-            #print os.path.join(path_keyframes,video_id,name_shot)
-            #print key_frames
             temp = [0] * len(list_events)
             try:
                 f=  pandas.read_csv(os.path.join(path,name_shot+".csv"),header=None)             
@@ -109,8 +94,6 @@ class SUMME():
                     for event  in f[0]:
                         if event == list_events[j]:
                             temp[j] = f[1][id]
-                            #print event
-                            #print temp[i]
                         id+=1
             except:
                 a = 0
@@ -119,14 +102,12 @@ class SUMME():
                 vector.append(temp)
         self.feat = np.array(vector)
 
-#                print np.array(vector).shape
-#                raw_input()
 
     def sampleFrame(self):
         fps = self.data['fps']
         fnum = self.data['fnum']
 
-        idx = np.arange(fps, fnum, fps) # duration - 5s +1
+        idx = np.arange(fps, fnum, fps) 
         idx = np.floor(idx)
         idx = idx.tolist()
         idx = map(int, idx)

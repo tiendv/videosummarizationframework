@@ -1,5 +1,4 @@
 import sys, os
-sys.path.append('/mmlabstorage/workingspace/VideoSum/trivlm/vsum_dsf')
 import gm_submodular
 import gm_submodular.example_objectives as ex
 from gm_submodular import leskovec_maximize
@@ -14,8 +13,7 @@ class VSUM(gm_submodular.DataElement):
 
     def __init__(self, videoID, model,fps,datatype,duration,path_npy,total_frames,path_reference,
                  dataset='summe',
-                 featType='vgg',
-                 seg_l=4,):
+                 seg_l=5):
         # load dataset data
         self.dataset = SUMME(videoID,fps,datatype,duration,path_npy,total_frames,path_reference)
 
@@ -53,7 +51,7 @@ class VSUM(gm_submodular.DataElement):
     def getDistances(self):
         return np.multiply(self.dist_e, self.dist_e)
 
-    def summarizeRep(self, weights=[1.0, 0.0], seg_l=4):
+    def summarizeRep(self, weights=[1.0, 0.0], seg_l=5):
 
         objectives = [representativeness(self),
                       uniformity(self)]
@@ -69,59 +67,28 @@ class VSUM(gm_submodular.DataElement):
         gt_score = []
         for i in selected:
             frames.append(self.frame[i:i + seg_l])
-            #print self.frame[i:i + seg_l]
+            print self.frame[i:i + seg_l]
             gt_score.append(self.score[i:i + seg_l])
 
         return selected, frames, gt_score
 
 
-def encodeSeg(data, model, seg_size=4):
+def encodeSeg(data, model, seg_size=5):
     feat_temp = data.feat     #shape : fnum
     feat = []
-    print feat_temp.shape[0]
     print feat_temp.shape
-    for i in range(feat_temp.shape[0]-4):
+    for i in range(feat_temp.shape[0]-seg_size):
         temp = []
         for j in range(feat_temp.shape[1]):
-            temp.append((feat_temp[i][j]+feat_temp[i+1][j]+feat_temp[i+2][j]+feat_temp[i+3][j]/4))
+            total = 0
+            for k in range(seg_size):
+                total += feat_temp[i+k][j]
+            total=total/seg_size
+            temp.append(total)
         feat.append(temp)
     feat=np.array(feat)
-    print feat.shape   
+
     return feat
-#    img, img_id, score = data.sampleFrame()
-    
-#    segs = [img_id[i:i + seg_size] for i in range(len(img_id) - seg_size + 1)]    ###5s per shot = duration -5s +1
-
-#    segs = reduce(lambda x, y: x + y, segs)
-    #x.shape((duration -5s +1)*5,4096)
-    
-#    x = feat[segs]
-#    print x.shape
-
-    #shape(x.shape[0],4096)
-    # embedding
-#    enc_x = model(x)
-#    alist = []
-#    for i in range(98):
-#        alist.append(0.5)
-#    print len(alist)
-#    alist=np.array(alist)
-#    print enc_x.data.shape
-#    enc_x.append(enc_x[0])
-#    enc_x.data=  np.concatenate((enc_x.data, alist[:,None]),axis=1)
-#    enc_x.data = np.append(enc_x.data,[enc_x.data[0]],axis=1)
-#    print enc_x.data.shape
-    #shape (enc_x.shape[0],300)   # enc_x.shape[0] = x.shape[0] / 5
-#    return np.array(enc_x.data)
-
-    # embedding
-#    enc_x = model(x)
-#   enc_x.append(enc_x[0])
-#    enc_x.data = np.append(enc_x.data,[i for i in enc_x.data][:],axis=0)
-#    print enc_x.data.shape
-#    shape (np.foor(duration -5s +1),300)   
-#    return np.array(enc_x.data)
-
 
 ################################################
 # objectives

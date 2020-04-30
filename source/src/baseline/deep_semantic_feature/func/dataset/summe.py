@@ -33,8 +33,6 @@ class SUMME():
     def sampleFrame(self):
         fps = self.data['fps']
         fnum = self.data['fnum']
-        print fps
-        print fnum
         idx = np.arange(fps, fnum, fps)
         idx = np.floor(idx)
         idx = idx.tolist()

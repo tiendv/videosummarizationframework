@@ -1,5 +1,4 @@
 import sys, os
-sys.path.append('/mmlabstorage/workingspace/VideoSum/trivlm/vsum_dsf')
 import gm_submodular
 import gm_submodular.example_objectives as ex
 from gm_submodular import leskovec_maximize
@@ -78,22 +77,7 @@ def encodeSeg(data, model, seg_size=5):
     segs = [img_id[i:i + seg_size] for i in range((len(img_id) - seg_size + 1))]
     segs = reduce(lambda x, y: x + y, segs)
     x = feat[segs]
-
-    #shape(x.shape[0],4096)
-    # embedding
     enc_x = model(x)
-#    alist = []
-#    for i in range(98):
-#        alist.append(0.5)
-#    print len(alist)
-#    alist=np.array(alist)
-#    print enc_x.data.shape
-#    enc_x.append(enc_x[0])
-#    enc_x.data=  np.concatenate((enc_x.data, alist[:,None]),axis=1)
-#    enc_x.data = np.append(enc_x.data,[enc_x.data[0]],axis=1)
-#    print enc_x.data.shape
-    #shape (enc_x.shape[0],300)   # enc_x.shape[0] = x.shape[0] / 5
-    #print np.array(enc_x.data).shape
     return np.array(enc_x.data)
 
 
