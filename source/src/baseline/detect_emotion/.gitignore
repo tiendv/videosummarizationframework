@@ -1,0 +1,9 @@
+data
+data/
+data/*
+*.mp4
+*.tar
+*.zip
+*.npy
+VGG_S_rgb/*
+
