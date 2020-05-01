@@ -6,6 +6,7 @@ import argparse
 sys.path.append("../../../config")
 sys.path.append("../../../../libs/detect_emotion/")
 from config import cfg
+import load_model_and_processing
 from load_model_and_processing import detect_emotion
 
 def main():
@@ -13,7 +14,7 @@ def main():
     # Purpose: detect emotion from shots of a bbc video
     # Inputs:
     # - vid_id: id of the bbc video
-    # Output: the result csv file stored in path_emotions
+    # Output: the result csv file stored in cfg.PATH_EMOTION_SHOT_BBC
     # Author: Trivlm
     #************************************************************************
 
@@ -24,9 +25,9 @@ def main():
 
     list_name_video = []
     for i in range(args.start,args.end +1):
-        name_video = "video"+str(i)
-        list_name_video.append(name_video)
-    detect_emotion(PATH_FACES_SHOT_BBC,PATH_KF_SHOT_BBC,PATH_EMOTION_SHOT_BBC,list_name_video)
+        vid_id = "video"+str(i)
+        detect_emotion(cfg.PATH_FACES_SHOT_BBC,cfg.PATH_KF_SHOT_BBC,cfg.PATH_EMOTION_SHOT_BBC,vid_id)
+        os.system("echo {} >> {}/logemotion.txt".format(vid_id,cfg.LOG_DIR_PATH))
 
 if __name__ == '__main__':
     # CUDA_VISIBLE_DEVICES=1 python3 detect_emotion.py 0 243
