@@ -59,7 +59,8 @@ def write_data_bbc(label,time_per_frames,path_save_txt,real_name):
                 time_end = 0
                 in_seg = False
 
-def run_kmedoids(path_save_txt,path_video,path_csv,path_reference,seg_l,feat_type,video_id):
+def run_kmedoids(path_save_txt,path_video,path_csv,path_reference,seg_l,video_id):
+    feat_type="vgg"
     video_id = "video"+str(video_id)
     # Load model
     if feat_type == 'smt_feat':

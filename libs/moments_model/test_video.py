@@ -32,14 +32,13 @@ from multiprocessing import Process
 import pickle
 
 
-def test_model(video_file,arch="resnet3d50",num_segments=16):
-    path_save = video_file.replace("TRECVID_processed_data/TRECVID_BBC_EastEnders_Shots","events_shot")
-    path_save = path_save.replace("mp4","csv")
-
+def test_model(video_file, save_path,arch="resnet3d50",num_segments=16):
+    shot_name = os.path.basename(video_file).split(".")[0]
+    vid_name = shot_name.split("_")[0].replace("shot","video")
+    path_save = os.path.join(save_path,vid_name,shot_name+".csv")
+    print(path_save)
     if os.path.isfile(path_save):
-        pass
-    if not os.path.isdir(os.path.dirname(path_save)):
-        os.makedirs(os.path.dirname(path_save))
+        return
 
     device = torch.device("cuda")
 
@@ -54,12 +53,13 @@ def test_model(video_file,arch="resnet3d50",num_segments=16):
     transform = models.load_transform()
 
     # Obtain video frames
-    print(video_file)
+
+
     # frames = extract_frames(video_file, num_segments)
     try:
         frames = extract_frames(video_file, num_segments)
     except Exception as e:
-        os.system("echo {} >> logs_error_detect.txt".format(video_file))
+        os.system("echo {} >> /mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/logs_error_detect.txt".format(video_file))
         return
 
     # Prepare input tensor
@@ -78,16 +78,14 @@ def test_model(video_file,arch="resnet3d50",num_segments=16):
         h_x = F.softmax(logits, 1).mean(dim=0)
         probs, idx = h_x.sort(0, True)
 
+
+    if not os.path.isdir(os.path.dirname(path_save)):
+        os.makedirs(os.path.dirname(path_save))
+
     # Output the prediction.
     with open(path_save,'w+') as f:
         for i in range(0, len(probs)):
             f.write('{},{:.3f}\n'.format(categories[idx[i]],probs[i]))
-
-def main(st,ed):
-    for id in range(st,ed+1):
-        path_vids = glob.glob("../../data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Shots/video{}/*.mp4".format(id))
-        for p in path_vids:
-            test_model(p)
 
 if __name__ == '__main__':
     # parser = argparse.ArgumentParser(description='Optional description')
