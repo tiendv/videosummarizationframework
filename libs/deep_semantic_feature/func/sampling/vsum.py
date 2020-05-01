@@ -10,12 +10,12 @@ import scipy.spatial.distance as dist
 
 class VSUM(gm_submodular.DataElement):
 
-    def __init__(self, videoID, model,fps,datatype,duration,path_npy,
+    def __init__(self, videoID, model,fps,duration,path_npy,
                  dataset='summe',
                  featType='vgg',
                  seg_l=5):
         # load dataset data
-        self.dataset = SUMME(videoID,fps,datatype,duration,path_npy)
+        self.dataset = SUMME(videoID,fps,duration,path_npy)
 
         # budget 15% of orig
         self.budget = int(0.15 * self.dataset.data['length'] / seg_l)

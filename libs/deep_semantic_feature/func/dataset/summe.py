@@ -6,7 +6,7 @@ datasetRoot = 'data/summe/'
 
 class SUMME():
 
-    def __init__(self, video_id,fps,datatype, duration,path_npy,feat_type='vgg'):
+    def __init__(self, video_id,fps, duration,path_npy,feat_type='vgg'):
         self.feat = np.load(path_npy+"/"+video_id + '.npy').astype(np.float32)
         print "***OK***",video_id
         fnum = self.feat.shape[0]

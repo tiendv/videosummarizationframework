@@ -22,7 +22,7 @@ def time2sec(times):
 
 class SUMME():
 
-    def __init__(self, video_id,fps,datatype, duration,path_npy,fnum,path_reference,feat_type='vgg'):
+    def __init__(self, video_id,fps, duration,path_npy,fnum,path_reference,feat_type='vgg'):
         print "***OK***",video_id
         file_json= []
         dictionary = {}
