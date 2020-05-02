@@ -13,6 +13,7 @@ from func.sampling.vsum import VSUM
 from func.nets import vid_enc
 from func.nets import vid_enc_vgg19
 import chainer
+import pandas
 from chainer import configuration
 import datetime
 import time
@@ -156,7 +157,7 @@ def write_data_tvsum(label,time_per_frames,path_save_txt,v_id,fps,duration):
             print("{} {} {}\n".format(begin[i],end[i],score[i]))
 
 
-def run_dsf(path_save_txt,path_video,datatype,path_npy,seg_l,feat_type,video_id):
+def run_dsf(path_save_txt,path_bbc_info,datatype,path_npy,seg_l,feat_type,video_id):
     # Load model
     if feat_type == 'smt_feat':
         model = vid_enc.Model(b_size = {'video': seg_l})
@@ -167,14 +168,14 @@ def run_dsf(path_save_txt,path_video,datatype,path_npy,seg_l,feat_type,video_id)
         raise RuntimeError('[invalid feat_type] use smt_feat or vgg')
 
     fps = 0
-    video =  cv2.VideoCapture(os.path.join(path_video,video_id+".mp4"))
-    total_frames = video.get(cv2.CAP_PROP_FRAME_COUNT)
-    (major_ver, minor_ver, subminor_ver) = (cv2.__version__).split('.')
-    if int(major_ver)  < 3 :
-        fps = video.get(cv2.cv.CV_CAP_PROP_FPS)
-    else :
-        fps = video.get(cv2.CAP_PROP_FPS)
-    duration = total_frames/fps
+    total_frames = 0
+    duration = 0
+    data = pandas.read_csv(os.path.join(path_bbc_info),header=None)
+    for i in range(data.shape[0]):
+        if data[0][i] == real_name:
+            fps = float(data[2][i])
+            total_frames = int(float(data[3][i]))
+            duration = float(data[4][i])
 
     with configuration.using_config('train', False):
         with chainer.no_backprop_mode():

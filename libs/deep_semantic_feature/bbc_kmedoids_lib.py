@@ -15,6 +15,7 @@ from func.nets import vid_enc_vgg19
 import chainer
 from chainer import configuration
 import datetime
+import pandas
 import time
 
 def sec2time(sec, n_msec=4):
@@ -59,7 +60,7 @@ def write_data_bbc(label,time_per_frames,path_save_txt,real_name):
                 time_end = 0
                 in_seg = False
 
-def run_kmedoids(path_save_txt,path_video,path_csv,path_reference,seg_l,video_id):
+def run_kmedoids(path_save_txt,path_bbc_info,path_csv,path_reference,seg_l,video_id):
     feat_type="vgg"
     video_id = "video"+str(video_id)
     # Load model
@@ -80,14 +81,14 @@ def run_kmedoids(path_save_txt,path_video,path_csv,path_reference,seg_l,video_id
     real_name = dict_refer[video_id]
 
     fps = 0
-    video =  cv2.VideoCapture(os.path.join(path_video,real_name))
-    total_frames = video.get(cv2.CAP_PROP_FRAME_COUNT)
-    (major_ver, minor_ver, subminor_ver) = (cv2.__version__).split('.')
-    if int(major_ver)  < 3 :
-        fps = video.get(cv2.cv.CV_CAP_PROP_FPS)
-    else :
-        fps = video.get(cv2.CAP_PROP_FPS)
-    duration = total_frames/fps
+    total_frames = 0
+    duration = 0
+    data = pandas.read_csv(os.path.join(path_bbc_info),header=None)
+    for i in range(data.shape[0]):
+        if data[0][i] == real_name:
+            fps = float(data[2][i])
+            total_frames = int(float(data[3][i]))
+            duration = float(data[4][i])
 
     with configuration.using_config('train', False):
         with chainer.no_backprop_mode():
