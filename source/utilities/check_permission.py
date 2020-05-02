@@ -16,10 +16,10 @@ def check_permission_to_write(outdir):
 		file.close()
 	if (os.path.isfile(path)) is True:
 		os.remove(path)
-		print('Check status: True (can write file)')
+		print('\tCHECK STATUS: True (can write file)')
 		return True
 	else:
-		print('Check status: Faile (check your directory')
+		print('\tCHECK STATUS: Faile (check your directory')
 		return False
 
 def main():

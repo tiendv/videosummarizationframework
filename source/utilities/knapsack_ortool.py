@@ -3,6 +3,15 @@ from ortools.algorithms import pywrapknapsack_solver
 
 
 def knapsackGG(weights,values,capacities):
+    #************************************************************************
+    # Purpose: using Knapsack from google ortool to select shot
+    # Inputs:
+    # - weights: a list of duration of shots
+    # - values: a list of shot score
+    # - capacities: the duration that you want to summary
+    # Output: a list of index of selected shot
+    # Author: Dungmn
+    #************************************************************************
     solver = pywrapknapsack_solver.KnapsackSolver(
         pywrapknapsack_solver.KnapsackSolver.
         KNAPSACK_MULTIDIMENSION_BRANCH_AND_BOUND_SOLVER, 'KnapsackExample')
