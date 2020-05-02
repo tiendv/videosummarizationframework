@@ -16,6 +16,7 @@ import cv2
 from PIL import Image
 from tqdm import tqdm
 import logging
+import time
 
 from keras.preprocessing import image
 from keras.applications import vgg16,vgg19,resnet,inception_v3,resnet_v2
@@ -23,8 +24,8 @@ from keras.models import Model
 from keras.layers import Layer
 
 import torch
-from googlenet_pytorch import GoogLeNet
 from torchvision import transforms
+import torchvision
 
 VIDEOSUM_FW_PATH ="/mmlabstorage/workingspace/VideoSum/videosummarizationframework/"
 sys.path.append(os.path.join(VIDEOSUM_FW_PATH,'source/config')) #config path append
@@ -40,9 +41,10 @@ logging.basicConfig(level=logging.DEBUG,
                     filename=os.path.join(VIDEOSUM_FW_PATH,'source/log','feature-extract-log.txt'),
                     filemode='a')
 
-#class for inceptionv1 pytorch
+
+inceptv1 = torchvision.models.googlenet(pretrained=True)
 class extract(torch.nn.Module):
-    def __init__(self, googlenet=googlenet):
+    def __init__(self, googlenet=inceptv1):
         super().__init__()
         self.net = torch.nn.Sequential(*list(googlenet.children())[:-2])
     def forward(self, x):
@@ -151,14 +153,58 @@ class ExtractFeatureVideo(Feature):
     
     def InceptionV1(self):
         self.method = 'inceptionv1'
+        dev = self._device.split(':')
+        if dev[1]=="GPU" or dev[1]=="gpu":
+            self._device='cuda:'+dev[2]
+        elif dev[1]=='CPU' or dev[1]=="cpu":
+            self._device='cpu:'+dev[2]
+        
         googlenet = torchvision.models.googlenet(pretrained=True)
         preprocess = transforms.Compose([            #[1]
             transforms.Resize(256),                    #[2]
             transforms.CenterCrop(224),                #[3]
             transforms.ToTensor()                    #[4]
         ])
-        
-        
+        self.model = googlenet
+        self.preinput = preprocess
+        return self.__process_for_inceptionv1()
+    
+    def _compute_time_to_run(self):
+        path = cfg.EXAMPLE_BBC_SHOT_PATH
+        cv2
+        #output bao nhiêu thời gian cho 1 frames 
+        pass
+    def __process_for_inceptionv1(self):
+        vidcap = cv2.VideoCapture(self._path)
+        if (vidcap.isOpened()== False):
+            #check opened?
+            logging.error("Fail to open video %s"%(video))
+        sam = self._sampling_rate
+        nFrame = vidcap.get(cv2.CAP_PROP_FRAME_COUNT)
+        pbar = tqdm(total = nFrame)
+        it = 0
+        imgs = []
+        while(vidcap.isOpened()):
+            pbar.update(1)
+            suc, img = vidcap.read()
+            it+=1
+            if(suc == False):
+                break
+            if ((it-1)%sam) != 0:
+                continue
+            img = Image.fromarray(img)
+            imgs.append(img)
+
+        imgs = [self.preinput(im) for im in imgs]
+        ts = torch.stack(imgs,0)
+        print(self._device)
+        device = self._device
+        self.model = extract().to(device)
+        with torch.no_grad():
+            x = self.model(ts.to(device))
+        #convert to numpy
+        x = x.data.cpu().numpy()
+        return Feature(x,self._namefile,self.method,self._sampling_rate)
 
     def _process(self):
         """Fuction for run process
@@ -209,7 +255,7 @@ class ExtractFeatureVideo(Feature):
 
 
 class ExtractFeatureDataSet(ExtractFeatureVideo):
-    def __init__(self,dataset_name,output_path,sampling_rate=1,device_name='GPU:0'): 
+    def __init__(self,dataset_name,output_path,x=None,y=None,sampling_rate=1,device_name='GPU:0'): 
         """[Init fuction]]
 
         Arguments:
@@ -222,19 +268,72 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
             device_name {str} -- [Device to run] (default: {'GPU:0'})
         """        
         #super().__init__(sampling_rate=sampling_rate,device_name=device_name)
-        self.dataset = dataset_name
-        self.output = output_path
-        self.device = '/device:'+device_name
-        self.samplingRate = sampling_rate
-        if check_permission_to_write(self.output) is False:
+        self._dataset = dataset_name
+        self._output = output_path
+        self._device = '/device:'+device_name
+        self._x = x
+        self._y = y
+        self._samplingRate = sampling_rate
+        if check_permission_to_write(self._output) is False:
             sys.exit()
+    def InceptionV1(self):
+        self.method = 'inceptionv1'
+        dev = self._device.split(':')
+        if dev[1]=="GPU" or dev[1]=="gpu":
+            self._device='cuda:'+dev[2]
+        elif dev[1]=='CPU' or dev[1]=="cpu":
+            self._device='cpu:'+dev[2]
+        
+        googlenet = torchvision.models.googlenet(pretrained=True)
+        preprocess = transforms.Compose([            #[1]
+            transforms.Resize(256),                    #[2]
+            transforms.CenterCrop(224),                #[3]
+            transforms.ToTensor()                    #[4]
+        ])
+        self.model = googlenet
+        self.preinput = preprocess
+        return self.__process_for_inceptionv1()
 
+    def __process_for_inceptionv1(self):
+        videoName,videoPathLists,_,nFrame,_ = self._read_meta_data()
+        for idx,video in enumerate(videoName):
+            imgs = []
+            print("%s/%s : %s with sampling rate is %d"%(idx+1,len(videoName),video,self._samplingRate))
+            path = videoPathLists[idx]
+            vidcap = cv2.VideoCapture(path)
+            if (vidcap.isOpened()== False):
+                #check opened?
+                logging.error("Fail to open video %s"%(video))
+            sam = self._samplingRate
+            pbar = tqdm(total = nFrame[idx])
+            it = 0
+            device = self._device
+            self.model=extract().to(device)
+            while(vidcap.isOpened()):
+                pbar.update(1)
+                suc, img = vidcap.read()
+                it+=1
+                if(suc == False):
+                    break
+                if ((it-1)%sam) != 0:
+                    continue
+                img1 = Image.fromarray(img)
+                img1 = self.preinput(img1)
+                inputt = img1.unsqueeze(0)
+                with torch.no_grad():
+                    x = self.model(inputt.to(device))
+                x = x.data.cpu().numpy()
+                imgs.append(x)
+                
+            namefile = os.path.splitext(os.path.basename(video))[0]
+            self._write_to_file(namefile,imgs)
+            #Feature(x,self._namefile,self.method,self._sampling_rate).save(self.)
     def _process(self):
         """Fuction for run process
         Check input is video folder or frame folder
         """
         try:
-            with tf.device(self.device):
+            with tf.device(self._device):
                 self.__process_video()
         except RuntimeError as e:
             logging.error(e)
@@ -243,13 +342,13 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
         videoName,videoPathLists,_,nFrame,_ = self._read_meta_data()
         for idx,video in enumerate(videoName):
             feat = []
-            print("%s/%s : %s with sampling rate is %d"%(idx+1,len(videoName),video,self.samplingRate))
-            path = videoPathLists[idx]
+            print("%s/%s : %s with sampling rate is %d"%(idx+1,len(videoName),video,self._samplingRate))
+            path = videoPathLists[idx+x]
             vidcap = cv2.VideoCapture(path)
             if (vidcap.isOpened()== False):
                 #check opened?
                 logging.error("Fail to open video %s"%(video))
-            sam = self.samplingRate
+            sam = self._samplingRate
             pbar = tqdm(total = nFrame[idx])
             it = 0
             while(vidcap.isOpened()):
@@ -269,25 +368,26 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
 
     def _read_meta_data(self):
         #read data from file csv
-        dn = self.dataset   #dataset name
+        dn = self._dataset   #dataset name
         if dn == 'bbc' or dn =='BBC' or dn == 'BBC EastEnders':
             namevid,path,fps,nFrame,duration = get_metadata('bbc')
         elif dn == 'summe' or dn =='SumMe' or dn == 'SUMME':
             namevid,path,fps,nFrame,duration = get_metadata('summe')
         else:
             namevid,path,fps,nFrame,duration = get_metadata(dn)
-
-        return namevid,path,fps,nFrame,duration
+        x = self._x
+        y = self._y
+        return namevid[x:y],path[x:y],fps[x:y],nFrame[x:y],duration[x:y]
 
     def _write_to_file(self,name,data):
         #Write feature data to file
         self.__write_to_file_npy(name,data)
 
     def __write_to_file_npy(self,name,data):
-        path = os.path.join(self.output,self.method+'_'+
-                            name+'_'+str(self.samplingRate)+'.npy')
+        path = os.path.join(self._output,self.method+'_'+
+                            name+'_'+str(self._samplingRate)+'.npy')
         np.save(path,data)
-        logging.info("Dataset: %s Video: %s with sampling rate %d is save at %s"%(self.dataset,name,self.samplingRate,path))
+        logging.info("Dataset: %s Video: %s with sampling rate %d is save at %s"%(self._dataset,name,self._samplingRate,path))
 
     def __extract(self,input_image):
             #Extract feature from image                    
@@ -298,11 +398,14 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
         img_data = self.preinput(img_data)
         _feature = self.model.predict(img_data)
         return _feature
+xx = int(sys.argv[1])
+yy = int(sys.argv[2])
 def main():
     #Example for runing
-    feat = ExtractFeatureVideo('./test.mp4',20).VGG16()
-    feat.save('./')
-    #data = ExtractFeatureDataSet('tvsum','./',sampling_rate=50).VGG16()
+    #feat = ExtractFeatureVideo('./test.mp4',1,device_name='GPU:0').InceptionV1()
+    #feat.save('./')
+    out = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/feature/googlenet'
+    data = ExtractFeatureDataSet('bbc',out,x=xx,y=yy,sampling_rate=1).InceptionV1()
 
 
 if __name__ == '__main__':

@@ -15,7 +15,7 @@ def KeyframeExtraction(input_path, output_path, sampling_rate=None, max_frame_pe
     # - output_path: directory path to store keyframes
     # - sampling_rate: the number of frames per second
     # - max_frame_per_shot: if this is set, the numbers of keyframes extracted must satisfied this value
-    # Returns: None
+    # Returns: The result will se save at output_path
     # Author: Hung Vo
     # Modified: Dungmn
     #************************************************************************
@@ -57,6 +57,14 @@ def KeyframeExtraction(input_path, output_path, sampling_rate=None, max_frame_pe
     cv2.destroyAllWindows()
 
 def run_extract(id):
+    #************************************************************************
+    # Purpose: Extract keyframes for BBC
+    # Inputs:
+    # - input_path: video id
+    # - output_path: directory path to store keyframes
+    # Returns: The result will se save at output_path
+    # Author: Dungmn
+    #************************************************************************
     frames_folder = cfg.FRAMES_DIR_PATH
     total_time = 0
     extracted_shot = 0
