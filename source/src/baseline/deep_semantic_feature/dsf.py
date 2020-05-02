@@ -32,13 +32,16 @@ def dsf(vid_id,seg_l,feat_type,datatype):
             data = f.readlines()
         for real_name in data:
             real_name = (real_name.rstrip()).replace(".mp4","")
-            run_dsf(cfg.PATH_DSF_BBC,cfg.PATH_VIDEO_BBC,datatype,cfg.PATH_FEATURE_VGG19_BBC,seg_l,feat_type,real_name)
+            run_dsf(cfg.PATH_DSF_BBC,cfg.VIDEO_CSV_BBC_PATH,datatype,cfg.PATH_FEATURE_VGG19_BBC,seg_l,feat_type,real_name)
             os.system("echo video{} >> {}/log_dsf.txt".format(vid_id,cfg.LOG_DIR_PATH))
     
     # Tvsum and SumMe
     else:
-        run_dsf(cfg.PATH_DSF_RESNET50_TVSUM,cfg.PATH_VIDEO_TVSUM,datatype,cfg.PATH_FEATURE_RESNET50_TVSUM,seg_l,feat_type,vid_id)
-        os.system("echo {} >> {}/log_dsf.txt".format(vid_id,path_log))
+        data = pandas.read_csv(os.path.join(cfg.VIDEO_CSV_TVSUM_PATH),header=None)
+        for i in range(1,data.shape[0]):
+            vid_id = (data[0][i]).replace(".mp4","")
+            run_dsf(cfg.PATH_DSF_RESNET50_TVSUM,cfg.VIDEO_CSV_TVSUM_PATH,datatype,cfg.PATH_FEATURE_RESNET50_TVSUM,seg_l,feat_type,vid_id)
+            os.system("echo {} >> {}/log_dsf.txt".format(vid_id,cfg.LOG_DIR_PATH))
 
 def main():
     parser = argparse.ArgumentParser(description='Optional description')
@@ -53,9 +56,7 @@ def main():
         for i in range(args.st,args.en+1):
             dsf(i,args.seg_l,args.feat_type,args.datatype)
     else:
-        for v_id in glob.glob(os.path.join(path_video,"*.mp4")):
-            v_id = (v_id.split("/")[-1]).replace(".mp4","")
-            dsf(v_id,args.seg_l,args.feat_type,args.datatype)
+        dsf("",args.seg_l,args.feat_type,args.datatype)
 
 if __name__ == "__main__":
     main()
