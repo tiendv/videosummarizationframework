@@ -14,14 +14,17 @@ def dsf(vid_id,seg_l,feat_type,datatype):
     # Purpose: select shots from shots of a bbc video base on feature and sub-networks
     # Inputs:
     # - vid_id: id of the bbc video
+    # - seg_l: segment length (uniform segment - Ex: 4 or 5 seconds ...)
+    # - feat_type: vgg or smt_feat (smt_feat: using pretrained model || vgg: not using pretrained model)
+    # - datatype: bbc or tvsum or summe (get output fit with dataset)
     # Output: the result time selection for summarization will be store in path_save
     # Author: Trivl
     #************************************************************************
     try:
-        os.system("echo test > {}/test.txt".format(path_save))
-        os.remove("{}/test.txt".format(path_save))
+        os.system("echo test > {}/test.txt".format(cfg.PATH_DSF_BBC))
+        os.remove("{}/test.txt".format(cfg.PATH_DSF_BBC))
     except Exception as e:
-        raise "permission deny to write in {}".format(path_save)
+        raise "permission deny to write in {}".format(cfg.PATH_DSF_BBC)
     
     # Real_name of bbc_dataset
     if datatype == "bbc":
@@ -29,13 +32,13 @@ def dsf(vid_id,seg_l,feat_type,datatype):
             data = f.readlines()
         for real_name in data:
             real_name = (real_name.rstrip()).replace(".mp4","")
-            run_dsf(cfg.PATH_FEATURE_VGG19_BBC,cfg.PATH_VIDEO_BBC,datatype,cfg.PATH_FEATURE_VGG19_BBC,seg_l,feat_type,real_name)
-            os.system("echo video{} >> {}/logemotion.txt".format(vid_id,cfg.LOG_DIR_PATH))
+            run_dsf(cfg.PATH_DSF_BBC,cfg.PATH_VIDEO_BBC,datatype,cfg.PATH_FEATURE_VGG19_BBC,seg_l,feat_type,real_name)
+            os.system("echo video{} >> {}/log_dsf.txt".format(vid_id,cfg.LOG_DIR_PATH))
     
     # Tvsum and SumMe
     else:
         run_dsf(cfg.PATH_DSF_RESNET50_TVSUM,cfg.PATH_VIDEO_TVSUM,datatype,cfg.PATH_FEATURE_RESNET50_TVSUM,seg_l,feat_type,vid_id)
-        os.system("echo {} >> {}/logemotion.txt".format(vid_id,path_log))
+        os.system("echo {} >> {}/log_dsf.txt".format(vid_id,path_log))
 
 def main():
     parser = argparse.ArgumentParser(description='Optional description')
