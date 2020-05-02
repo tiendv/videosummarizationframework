@@ -1,50 +1,28 @@
-# vsum_dsf
-The implementation of the paper "Video Summarization using Deep Semantic Features" in ACCV'16 [[arXiv](arxiv.org/abs/1609.08758)]
+# Create docker images base on Dockerfile: Accessing the working directory :
+https://github.com/tiendv/videosummarizationframework/tree/master/source/src/baseline/deep_semantic_feature
+Build images: docker build -t Name_image:Tag_image -f Dockerfile .
+Ex: docker build -t deep_semantic_feature:v1 -f Dockerfile .
+Ex: docker run --name videosum_test2 --runtime=nvidia -v /mmlabstorage:/mmlabstorage -it deep_semantic_feature:v1 bash
 
-## How to set it up
+# Input:
+- Path directory .npy extract feature from video with vgg or resnet:
+/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/frames_feature/VGG16
 
-	git clone https://github.com/mayu-ot/vsum_dsf.git
+- Path directory .csv feature:
+/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/input_data/SumMe.csv
 
-### Install dependency
+- Path save output time:
+/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/time_segment/vsum_dsf
 
-You can install required python packages using conda:
+# Accessing the working directory :
+https://github.com/tiendv/videosummarizationframework/tree/master/source/src/baseline/deep_semantic_feature
+# Run: 
+-   BBC dataset: 0: video_id starting || 244: video_id ending || 4: length uniform segment || 'smt_feat': using pretrained model or 'vgg': not using pretrained model || 'bbc': set output fit with dataset.
+Ex: python dsf.py 0 244 4 smt_feat bbc
 
-	conda env create -f vsum_dsf/environment.yml
-	
-Requirements:
-- numpy=1.11
-- scipy
-- scikit learn
-- chainer=2.0
+-   TVSum dataset: no need video_id starting and ending.
+Ex: python dsf.py 0 244 2 vgg tvsum
 
-Optional:
-- scikit video ( for exporting video )
+-   SumMe dataset: no need video_id starting and ending.
+Ví dụ: python dsf.py 0 244 5 smt_feat summe
 
-This code utilizes tools provided by M. Gygli *et al.* [1].
-You can set it up by:
-
-	cd vsum_dsf
-	git clone https://github.com/gyglim/gm_submodular.git
-	cd gm_submodular
-	python setup.py install --user
-
-[1] Gygli, Grabner & Van Gool. Video Summarization by Learning Submodular Mixtures of Objectives. CVPR 2015.
-
-### Download dataset and model parameters
-
-To test the model in the paper, download a `data.zip` [**HERE**](https://www.dropbox.com/s/zxp8dq18t0tqlk2/data.zip?dl=0) and extract it in the folder `vsum_dsf`.
-
-The demo performs video summarization on the SumMe dataset ([project page](https://people.ee.ethz.ch/~gyglim/vsum/index.php)).
-
-You can download the dataset as: 
-
-	cd data/summe
-	wget https://data.vision.ee.ethz.ch/cvl/SumMe/SumMe.zip
-	unzip SumMe.zip
-
-## Example
-
-See the [notebook](https://github.com/mayu-ot/vsum_dsf/blob/master/Demo.ipynb) or:
-
-	python script/summarize.py
-	python script/evaluate.py results/summe/smt_feat
