@@ -10,13 +10,13 @@ Build images: `docker build -t Name_image:Tag_image -f Dockerfile .`
 
 Create container:
 
-- Ex: `docker run --name videosum_test2 --runtime=nvidia -v /mmlabstorage:/mmlabstorage -it deep_semantic_feature:v1 bash`
+- Ex: `docker run --name dsf_kemdoids --runtime=nvidia -v /mmlabstorage:/mmlabstorage -it deep_semantic_feature:v1 bash`
 # Deep semantic feature
 ### Input
-- Path of folder (' .npy')  extract feature from video with vgg or resnet:
+- Path of folder extract feature from video with vgg or resnet (' .npy'):
 Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/frames_feature/VGG16`
 
-- Path of folder (' .csv') information of dataset:
+- Path of folder information of dataset (' .csv'):
 Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/input_data/SumMe.csv`
 
 - Path save output:
@@ -50,7 +50,7 @@ Ex: `python dsf.py 0 244 5 smt_feat summe`
 # K-medoids
 
 ### Input
-- Path of '.csv' of emotion or event:
+- Path of folder emotion or event ('.csv'):
 Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/shot_event`
 
 - Path of save output:
