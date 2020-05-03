@@ -14,12 +14,15 @@ Create container:
 # Deep semantic feature
 ### Input
 - Path of folder extract feature from video with vgg or resnet (' .npy'):
+
 Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/frames_feature/VGG16`
 
 - Path of folder information of dataset (' .csv'):
+
 Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/input_data/SumMe.csv`
 
 - Path save output:
+
 Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/time_segment/vsum_dsf`
 
 ### Output
@@ -51,9 +54,11 @@ Ex: `python dsf.py 0 244 5 smt_feat summe`
 
 ### Input
 - Path of folder emotion or event ('.csv'):
+
 Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/shot_event`
 
 - Path of save output:
+
 Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/dsf_seg_rgb`
 
 Accessing the working directory:
