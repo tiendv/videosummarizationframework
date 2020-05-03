@@ -1,5 +1,5 @@
 # Deep semantic feature and K-medoids
-[Original code](https://github.com/mayu-ot/vsum_dsf) - "Video Summarization using Deep Semantic Features" in ACCV'16 [arXiv](https://arxiv.org/abs/1609.08758)
+[Original code](https://github.com/mayu-ot/vsum_dsf) - "Video Summarization using Deep Semantic Features" in ACCV'16-[[arXiv](https://arxiv.org/abs/1609.08758)]
 ### Create docker images base on Dockerfile
 Accessing the working directory: 
 [deep_semantic_feature](https://github.com/tiendv/videosummarizationframework/tree/master/source/src/baseline/deep_semantic_feature)
