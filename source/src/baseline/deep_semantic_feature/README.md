@@ -61,9 +61,11 @@ Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_pr
 
 Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/dsf_seg_rgb`
 
+###Run code:
 Accessing the working directory:
 [deep_semantic_feature](https://github.com/tiendv/videosummarizationframework/tree/master/source/src/baseline/deep_semantic_feature)
-Run: `python bbc_kmedoids.py 0 243 1000` : `0: video_id starting || 243: video_id ending || 1000: Value K of K-medoids.`
+
+Ex: `python bbc_kmedoids.py 0 243 1000` : `0: video_id starting || 243: video_id ending || 1000: Value K of K-medoids.`
 
 ### Output
 ```
