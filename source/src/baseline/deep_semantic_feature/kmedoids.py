@@ -6,14 +6,15 @@ import argparse
 sys.path.append("../../../config")
 sys.path.append("../../../../libs/deep_semantic_feature/")
 from bbc_kmedoids_lib import run_kmedoids
+from bbc_kmedoids_lib import write_data
 from config import cfg
 
-def run_bbc_kmedoids(vid_id,seg_l):
+def run_bbc_kmedoids(vid_id,k):
     #************************************************************************
     # Purpose: select shots from shots of a bbc video base on emotion
     # Inputs:
     # - vid_id: id of the bbc video
-    # - seg_l: segment length (uniform segment - Ex: 4 or 5 seconds ...)
+    # - k: Value K in K-medoids
     # Output: the result time selection for summarization will be store in path_save
     # Author: Trivlm
     #************************************************************************
@@ -23,7 +24,12 @@ def run_bbc_kmedoids(vid_id,seg_l):
         os.remove("{}/test.txt".format(cfg.PATH_EMOTION_KMEDOIDS_BBC))
     except Exception as e:
         raise "permission deny to write in {}".format(cfg.PATH_EMOTION_KMEDOIDS_BBC)
-    run_kmedoids(cfg.PATH_EMOTION_KMEDOIDS_BBC,cfg.VIDEO_CSV_BBC_PATH,cfg.PATH_EVENT_EMOTION_BBC,cfg.PATH_DATA_REF_BBC_FILE,seg_l,vid_id)
+    with open(os.path.join(cfg.PATH_VIDEO_LIST_BBC,"video{}.txt".format(vid_id)),'r') as f:
+        data = f.readlines()
+    for real_name in data:
+        real_name = real_name.rstrip()
+    selected = run_kmedoids(cfg.PATH_EVENT_EMOTION_BBC,k,vid_id)
+    write_data(selected,cfg.PATH_DATA_REF_BBC_FILE,cfg.PATH_EVENT_EMOTION_BBC,real_name)
     os.system("echo video{} >> {}/emotion_kmedoids.txt".format(vid_id,cfg.LOG_DIR_PATH))
 
 
@@ -31,16 +37,16 @@ def main():
     parser = argparse.ArgumentParser(description='Optional description')
     parser.add_argument('st', type=int, help='ID of start video')
     parser.add_argument('en', type=int, help='ID of end video')
-    parser.add_argument('seg_l', type=int, help='Length shot')
+    parser.add_argument('k', type=int, help='Value K in K-medoids')
 
     args = parser.parse_args()
     for i in range(args.st,args.en+1):
-        run_bbc_kmedoids(i,args.seg_l)
+        run_bbc_kmedoids(i,args.k)
 
 
 if __name__ == "__main__":
     main()
-    # python bbc_emotions.py start end seg_l || EX: python bbc_kmedoids.py 0 243 4 
+    # python bbc_emotions.py start end seg_l || EX: python bbc_kmedoids.py 0 243 10
     # or
     # run_kmedoids(path_save,path_video,path_csv,path_reference,seg_l,vid_id=0) replace  main() line 42
 
