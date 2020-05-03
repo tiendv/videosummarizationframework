@@ -61,7 +61,7 @@ Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_pr
 
 Ex: `/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/dsf_seg_rgb`
 
-###Run code:
+### Run code:
 Accessing the working directory:
 [deep_semantic_feature](https://github.com/tiendv/videosummarizationframework/tree/master/source/src/baseline/deep_semantic_feature)
 
