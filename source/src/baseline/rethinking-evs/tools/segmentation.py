@@ -2,53 +2,20 @@ import numpy as np
 from tools.io import load_tvsum_mat
 import scipy.io as sio
 
-def get_segment(N,video_id,datatype,method= 'uniform'):
-    if datatype == "summe":
-        return get_segment_summe(N,video_id,method)
-    if datatype == "tvsum":
-        return get_segment_tvsum(N,video_id,method)
-    if datatype == "bbc":
-        return get_segment_bbc(N,video_id,method)
-
-
-
-def get_segment_bbc(N, video_id, method='one-peak'):
-    if method == 'one-peak':
-        return poisson_segment(N)
-    elif method == 'two-peak':
-        return two_peak_segment(N, lam_1=30, lam_2=90)
-    elif method == 'uniform':
-        return np.arange(0, N, 60).astype('i')
-    else:
-        raise RuntimeError
-    
-def get_segment_summe(N, video_id, method='one-peak'):
+def get_segment(N,boundaries=[],method= 'uniform'):
     if method == 'one-peak':
         return poisson_segment(N)
     elif method == 'two-peak':
         return two_peak_segment(N, lam_1=30, lam_2=90)
     elif method == 'KTS':
-        return summe_kts_segment(video_id)
+        return boundaries
     elif method == 'randomized-KTS':
-        return summe_random_kts_segment(video_id)
+        return random_kts(boundaries)
     elif method == 'uniform':
         return np.arange(0, N, 60).astype('i')
     else:
         raise RuntimeError
-        
-def get_segment_tvsum(N, video_id, method='one-peak'):
-    if method == 'one-peak':
-        return poisson_segment(N)
-    elif method == 'two-peak':
-        return two_peak_segment(N, lam_1=30, lam_2=90)
-    elif method == 'KTS':
-        return tvsum_kts_segment(video_id)
-    elif method == 'randomized-KTS':
-        return tvsum_random_kts_segment(video_id)
-    elif method == 'uniform':
-        return np.arange(0, N, 60).astype('i')
-    else:
-        raise RuntimeError
+
         
 def get_summe_video2idx():
     videos = ['Air_Force_One',
@@ -103,21 +70,7 @@ def poisson_segment(n_fr, lam=60):
         segment.append(cur_pos)
     return segment
 
-def tvsum_kts_segment(v_id):
-    return _tvsum_shot_boundaries[_tvsum_video2idx[v_id]][0].ravel()
-
-def tvsum_random_kts_segment(v_id):
-    boundaries = _tvsum_shot_boundaries[_tvsum_video2idx[v_id]][0].ravel()
-    seg_l = [boundaries[i+1] - boundaries[i] for i in range(boundaries.size - 1)]
-    seg_l = np.random.permutation(seg_l)
-    boundaries = np.add.accumulate(seg_l)
-    return np.hstack(([0], boundaries))
-
-def summe_kts_segment(v_id):
-    return _summe_shot_boundaries[_summe_video2idx[v_id]][0].ravel()
-
-def summe_random_kts_segment(v_id):
-    boundaries = _summe_shot_boundaries[_summe_video2idx[v_id]][0].ravel()
+def random_kts(boundaries):
     seg_l = [boundaries[i+1] - boundaries[i] for i in range(boundaries.size - 1)]
     seg_l = np.random.permutation(seg_l)
     boundaries = np.add.accumulate(seg_l)

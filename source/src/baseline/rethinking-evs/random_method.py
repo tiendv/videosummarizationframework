@@ -41,7 +41,8 @@ def run_methods(vid_id,method,datatype):
             data = f.readlines()
         for real_name in data:
             real_name = (real_name.rstrip()).replace(".mp4","")
-            run_random_methods(cfg.ONE-PEAK_BBC,cfg.VIDEO_CSV_BBC_PATH,real_name,datatype,path_score="",method=method)
+            boundaries = np.load(os.path.join(cfg.BOUNDARIES_BBC,vid_id+".npy"))
+            run_random_methods(cfg.ONE-PEAK_BBC,cfg.VIDEO_CSV_BBC_PATH,real_name,boundaries,path_score="",method=method)
             os.system("echo video{} >> {}/log_dsf.txt".format(vid_id,cfg.LOG_DIR_PATH))
     
     # Tvsum and SumMe
@@ -49,9 +50,10 @@ def run_methods(vid_id,method,datatype):
         data = pandas.read_csv(os.path.join(cfg.VIDEO_CSV_TVSUM_PATH),header=None)
         for i in range(1,data.shape[0]):
             vid_id = (data[0][i]).replace(".mp4","")
-            run_random_methods(ONE-PEAK_TVSUM,cfg.VIDEO_CSV_TVSUM_PATH,vid_id,datatype,path_score="",method=method)
+            boundaries = np.load(os.path.join(cfg.BOUNDARIES_TVSUM,vid_id+".npy"))
+            run_random_methods(cfg.ONE-PEAK_TVSUM,cfg.VIDEO_CSV_TVSUM_PATH,vid_id,boundaries,path_score="",method=method)
             os.system("echo {} >> {}/log_dsf.txt".format(vid_id,cfg.LOG_DIR_PATH))
-
+    
 def main():
     parser = argparse.ArgumentParser(description='Optional description')
     parser.add_argument('st', type=int, help='ID of start video')
@@ -68,7 +70,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # python random_method.py 0 243 one-peak bbc || python dsf.py 1 1 2 vgg tvsum || python dsf.py 1 1 5 vgg summe
+    # python random_method.py 0 243 one-peak bbc || python dsf.py 1 1 uniform tvsum || python dsf.py 1 1 two-peak summe
     # or 
     # run_dsf(path_save,path_video,datatype,path_npy,path_reference,seg_l,feat_type,real_name)
 
