@@ -1,7 +1,7 @@
 rethinking-evs
 ==============================
 
-[Original code](https://github.com/mayu-ot/rethinking-evs)Scripts of our CVPR'19 paper "Rethinking the Evaluation of Video Summaries" [[arXiv](https://arxiv.org/abs/1903.11328)]
+[Original code](https://github.com/mayu-ot/rethinking-evs) - Scripts of CVPR'19 paper "Rethinking the Evaluation of Video Summaries" [[arXiv](https://arxiv.org/abs/1903.11328)]
 
 ### Create docker images base on Dockerfile
 Accessing the working directory: 
@@ -18,7 +18,7 @@ Create container:
 # Data
 Optional: For KTS segmentation results provided [here](https://github.com/kezhang-cs/Video-Summarization-with-LSTM).
 
-Convet boundaries each video to name_video.npy
+Convet boundaries of video to name_video.npy
 ### Input
     
 - Path of folder information of dataset (' .csv'):
