@@ -9,9 +9,14 @@ BASIC_DIR = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/"
 __C.VIDEO_CSV_TVSUM_PATH = BASIC_DIR + "data/input_data/TVSum.csv"
 __C.VIDEO_CSV_SUMME_PATH = BASIC_DIR + "data/input_data/SumMe.csv"
 __C.VIDEO_CSV_BBC_PATH = BASIC_DIR + "data/input_data/BBC_EastEnder/BBC_video.csv"
+__C.BBC_SHOT_PATH = BASIC_DIR + "/data/input_data/BBC_EastEnder/input_shot"
+__C.OUTPUT_PATH = BASIC_DIR + "/data/BBC_processed_data/shot_event"
+__C.LOG_DIR_PATH = BASIC_DIR + "source/log"
 
 #params for visualization TVSum50
 __C.PATH_VIDEO_TVSUM = "/mmlabstorage/datasets/TVSum50/ydata-tvsum50-v1_1/video"
+__C.PATH_FEATURE_RESNET50_TVSUM= BASIC_DIR + "/data/TVSum_processed_data/frames_feature/resnet50"
+__C.PATH_DSF_RESNET50_TVSUM = BASIC_DIR + "/data/TVSum_processed_data/time_segment/res_net50"
 __C.PATH_TIME_SHOTS_GT= BASIC_DIR + "data/TVSum_processed_data/time_shots_tvsum50/GT"
 __C.PATH_TIME_SHOTS_BL= BASIC_DIR + "data/TVSum_processed_data/time_shots_tvsum50/SuperF"
 __C.PATH_TIME_SHOTS_VSUM_DSF_TVSUM = BASIC_DIR + "data/TVSum_processed_data/time_shots_tvsum50/vsum_dsf"
@@ -28,7 +33,13 @@ __C.PATH_EVALUATE_TVSUM = BASIC_DIR + "source/src/visualization/static/evaluatio
 __C.PATH_GT_TVSUM50 = BASIC_DIR + "source/src/visualization/static/TVSum50/ydata-tvsum50-v1_1/ydata-tvsum50-matlab/matlab/ydata-tvsum50.mat"
 
 #params for visualization BBC
+__C.EXAMPLE_BBC_SHOT_PATH = "../../../../test_data/shots/shot1_18.mp4"
+__C.EXAMPLE_OUTPUT_PATH = "../../../../test_data/events"
+
 __C.PATH_VIDEO_BBC = "/mmlabstorage/datasets/TRECVID/TRECVID_BBC_EastEnders/videos"
+__C.PATH_EMOTION_KMEDOIDS_BBC =  BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/emotion_seg_vsum_dsf_fix"
+__C.PATH_DSF_BBC =  BASIC_DIR + "/data/BBC_processed_data/time_shots_bbc/dsf_seg_rgb"
+__C.PATH_FEATURE_VGG19_BBC =  BASIC_DIR + "/data/BBC_processed_data/time_shots_bbc/feature/VGG19"
 __C.PATH_TIME_SHOTS_BBC_GT= BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/GT"
 __C.PATH_TIME_SHOTS_BBC_BL= BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/SBD"
 __C.PATH_DATA_REF_BBC_FILE = BASIC_DIR + "data/BBC_processed_data/reference_bbc/master_shot_reference.txt"

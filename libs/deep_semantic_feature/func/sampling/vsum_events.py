@@ -11,18 +11,16 @@ import scipy.spatial.distance as dist
 
 class VSUM(gm_submodular.DataElement):
 
-    def __init__(self, videoID, model,fps,duration,path_npy,total_frames,path_reference,
-                 dataset='summe',
-                 seg_l=5):
+    def __init__(self, videoID,data,total_frames,k,fps=1,dataset='summe'):
         # load dataset data
-        self.dataset = SUMME(videoID,fps,duration,path_npy,total_frames,path_reference)
+        self.dataset = SUMME(videoID,fps,data,total_frames)
 
         # budget 15% of orig
-        self.budget = int(0.15 * self.dataset.data['length'] / seg_l)
+        self.budget = int(k)
         #print 'budget: ', self.budget
 
         # embed video segments
-        seg_feat = encodeSeg(self.dataset, model, seg_size=seg_l)
+        seg_feat = encodeSeg(self.dataset)
 
         # store segment features
         self.x = seg_feat
@@ -51,7 +49,7 @@ class VSUM(gm_submodular.DataElement):
     def getDistances(self):
         return np.multiply(self.dist_e, self.dist_e)
 
-    def summarizeRep(self, weights=[1.0, 0.0], seg_l=5):
+    def summarizeRep(self, weights=[1.0, 0.0]):
 
         objectives = [representativeness(self),
                       uniformity(self)]
@@ -66,29 +64,14 @@ class VSUM(gm_submodular.DataElement):
         frames = []
         gt_score = []
         for i in selected:
-            frames.append(self.frame[i:i + seg_l])
-            print self.frame[i:i + seg_l]
-            gt_score.append(self.score[i:i + seg_l])
+            frames.append(self.frame[i])
+            gt_score.append(self.score[i])
 
         return selected, frames, gt_score
 
 
-def encodeSeg(data, model, seg_size=5):
-    feat_temp = data.feat     #shape : fnum
-    feat = []
-    print feat_temp.shape
-    for i in range(feat_temp.shape[0]-seg_size):
-        temp = []
-        for j in range(feat_temp.shape[1]):
-            total = 0
-            for k in range(seg_size):
-                total += feat_temp[i+k][j]
-            total=total/seg_size
-            temp.append(total)
-        feat.append(temp)
-    feat=np.array(feat)
-
-    return feat
+def encodeSeg(data):
+    return data.feat
 
 ################################################
 # objectives

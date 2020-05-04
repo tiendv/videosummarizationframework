@@ -38,5 +38,5 @@ def main():
         run_detect_event(i)
 
 if __name__ == '__main__':
-    # main()
-    detect_event(cfg.EXAMPLE_BBC_SHOT_PATH,cfg.EXAMPLE_OUTPUT_PATH)
+    main()
+    # detect_event(cfg.EXAMPLE_BBC_SHOT_PATH,cfg.EXAMPLE_OUTPUT_PATH)

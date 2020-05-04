@@ -55,8 +55,6 @@ def write_data_bbc(label,time_per_frames,path_save_txt,real_name):
                 in_seg = False
             if i+1 == len(label) and in_seg ==True:
                 time_end = i*time_per_frames
-                end.append(str(sec2time(time_end)))
-                score.append(1)
                 time_start=0
                 time_end = 0
                 in_seg = False
@@ -157,7 +155,7 @@ def write_data_tvsum(label,time_per_frames,path_save_txt,v_id,fps,duration):
             print("{} {} {}\n".format(begin[i],end[i],score[i]))
 
 
-def run_dsf(path_save_txt,path_bbc_info,datatype,path_npy,seg_l,feat_type,video_id):
+def run_dsf(path_save_txt,path_infor,datatype,path_npy,seg_l,feat_type,video_id):
     # Load model
     if feat_type == 'smt_feat':
         model = vid_enc.Model(b_size = {'video': seg_l})
@@ -170,7 +168,7 @@ def run_dsf(path_save_txt,path_bbc_info,datatype,path_npy,seg_l,feat_type,video_
     fps = 0
     total_frames = 0
     duration = 0
-    data = pandas.read_csv(os.path.join(path_bbc_info),header=None)
+    data = pandas.read_csv(os.path.join(path_infor),header=None)
     for i in range(data.shape[0]):
         if data[0][i] == real_name:
             fps = float(data[2][i])

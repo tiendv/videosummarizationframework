@@ -295,17 +295,20 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
         return self.__process_for_inceptionv1()
 
     def __process_for_inceptionv1(self):
+        x = self._x
+        if x is None:
+            x=0
         videoName,videoPathLists,_,nFrame,_ = self._read_meta_data()
         for idx,video in enumerate(videoName):
             imgs = []
             print("%s/%s : %s with sampling rate is %d"%(idx+1,len(videoName),video,self._samplingRate))
-            path = videoPathLists[idx]
+            path = videoPathLists[idx+x]
             vidcap = cv2.VideoCapture(path)
             if (vidcap.isOpened()== False):
                 #check opened?
                 logging.error("Fail to open video %s"%(video))
             sam = self._samplingRate
-            pbar = tqdm(total = nFrame[idx])
+            pbar = tqdm(total = nFrame[idx+x])
             it = 0
             device = self._device
             self.model=extract().to(device)
@@ -321,9 +324,9 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
                 img1 = self.preinput(img1)
                 inputt = img1.unsqueeze(0)
                 with torch.no_grad():
-                    x = self.model(inputt.to(device))
-                x = x.data.cpu().numpy()
-                imgs.append(x)
+                    feat = self.model(inputt.to(device))
+                feat = feat.data.cpu().numpy()
+                imgs.append(feat)
                 
             namefile = os.path.splitext(os.path.basename(video))[0]
             self._write_to_file(namefile,imgs)
@@ -339,6 +342,9 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
             logging.error(e)
 
     def __process_video(self):
+        x = self._x
+        if x is None:
+            x=0
         videoName,videoPathLists,_,nFrame,_ = self._read_meta_data()
         for idx,video in enumerate(videoName):
             feat = []
@@ -349,7 +355,7 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
                 #check opened?
                 logging.error("Fail to open video %s"%(video))
             sam = self._samplingRate
-            pbar = tqdm(total = nFrame[idx])
+            pbar = tqdm(total = nFrame[idx+x])
             it = 0
             while(vidcap.isOpened()):
                 pbar.update(1)

@@ -6,7 +6,7 @@ from scipy.io import savemat
 
 
 def get_flabel(frames, fnum, fps, seg_l):
-    s_i = [int(seg_fn[0][:-4]) for seg_fn in frames]
+    s_i = [int(seg_fn) for seg_fn in frames]
     e_i = [s + fps * seg_l for s in s_i]
     e_i = map(round, e_i)
     e_i = map(int, e_i)

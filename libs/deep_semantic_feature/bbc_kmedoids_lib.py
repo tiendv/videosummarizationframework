@@ -17,6 +17,26 @@ from chainer import configuration
 import datetime
 import pandas
 import time
+from os import listdir
+from os.path import isfile, join
+
+def get_data_ref_bbc(path_ref_bbc):
+    '''
+        This function will return the information about video id, and time of each shot in BBC dataset
+        input: path_ref_bbc - the path of the master processed of bbc file
+        output: ret - a dictionary with the key and value is the video_id and video_name, respectively
+                dict_time - a dictionary with the key and value is the shot_id and its time, respectively
+    '''
+    ret = dict()
+    dict_time = dict()
+    with open(path_ref_bbc, 'r') as f:
+        for line in f:
+            video_name, shot_id, st, ed = line.rstrip().split()
+            video_name = video_name.split('.')[0]
+            video_id = shot_id.split('_')[0][4:]
+            ret[video_id] = video_name
+            dict_time[shot_id] = [st,ed]
+    return ret,dict_time
 
 def sec2time(sec, n_msec=4):
     ''' Convert seconds to 'D days, HH:MM:SS.FFF' '''
@@ -33,77 +53,67 @@ def sec2time(sec, n_msec=4):
         return pattern % (h, m, s)
     return ('%d days, ' + pattern) % (d, h, m, s)
 
-def write_data_bbc(label,time_per_frames,path_save_txt,real_name):
-    time_start=0
-    time_end = 0
-    in_seg = False
-    if not os.path.isdir(os.path.join(path_save_txt,real_name.replace(".mp4",""))):
-        os.makedirs(os.path.join(path_save_txt,real_name.replace(".mp4","")))
-    with open(os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"),"w+") as f:
-        print os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt")
-        for i in range(len(label)):
-            if label[i]==True and in_seg==False:
-                time_start = i*time_per_frames
-                in_seg=True
-            if label[i]==False and in_seg==True:
-                time_end = i*time_per_frames
-                print(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + " 1\n")
-                f.write(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + " 1\n")
-                time_start=0
-                time_end = 0
-                in_seg = False
-            if i+1 == len(label) and in_seg ==True:
-                time_end = i*time_per_frames
-                end.append(str(sec2time(time_end)))
-                score.append(1)
-                time_start=0
-                time_end = 0
-                in_seg = False
+def time2sec(times):
+    x = time.strptime(times.split('.')[0],'%H:%M:%S')
+    range_mili = 1
+    mili = 0
+    if len(times.split(".")) == 2 :
+        if times.split(".")[1] != '':
+            for i in range(len(times.split(".")[1])):
+                range_mili = 10*range_mili
+            mili = float(times.split(".")[1])/range_mili
+        else:
+            mili =0
+    else:
+        mili = 0
+    return float(datetime.timedelta(hours=x.tm_hour,minutes=x.tm_min,seconds=x.tm_sec).total_seconds() + mili)
 
-def run_kmedoids(path_save_txt,path_bbc_info,path_csv,path_reference,seg_l,video_id):
+def write_data(selected,path_refer,path_save,real_name):
+    real_name = real_name.replace(".mp4","")
+    ret,time = get_data_ref_bbc(path_refer)
+    if not os.path.isdir(os.path.join(path_save,real_name)):
+        os.makedirs(os.path.join(path_save,real_name))
+    for shot in selected:
+        with open(os.path.join(path_save,real_name,real_name+".txt"),"a") as f:
+            f.write(sec2time(time2sec(time[shot][0])) + " " + sec2time(time2sec(time[shot][1]))+"\n")
+
+
+def run_kmedoids(path_csv,k,video_id):
     feat_type="vgg"
     video_id = "video"+str(video_id)
     # Load model
-    if feat_type == 'smt_feat':
-        model = vid_enc.Model(b_size = {'video': seg_l})
-        serializers.load_npz('data/trained_model/model_par', model)
-    elif feat_type == 'vgg':
-        model = vid_enc_vgg19.Model(b_size = {'video': seg_l})
-    else:
-        raise RuntimeError('[invalid feat_type] use smt_feat or vgg')
-
-    # Load a dictionary: { 'video_id' : 'real name of video' }
-    dict_refer= {}
-    with open(path_reference,"r") as f:
-        Lines = f.readlines() 
-        for line in Lines:
-            dict_refer[str("video"+((line.split("    ")[1]).split("_")[0]).replace("shot",""))] = str(line.split("    ")[0])
-    real_name = dict_refer[video_id]
-
-    fps = 0
-    total_frames = 0
-    duration = 0
-    data = pandas.read_csv(os.path.join(path_bbc_info),header=None)
-    for i in range(data.shape[0]):
-        if data[0][i] == real_name:
-            fps = float(data[2][i])
-            total_frames = int(float(data[3][i]))
-            duration = float(data[4][i])
-
+    data = []
+    file_csv = [f for f in listdir(os.path.join(path_csv,video_id)) if isfile(join(os.path.join(path_csv,video_id), f))]
+    temp = []
+    for i in file_csv:
+        temp.append(int((i.split("_")[1]).split(".")[0]))
+    temp=sorted(temp)
+    file_csv = []
+    for i in temp:
+        file_csv.append("shot"+str(video_id.replace("video",""))+"_"+str(i)+".csv")
+    list_name_feature = []
+    list_name_file = []
+    for i in file_csv:
+        f = pandas.read_csv(os.path.join(os.path.join(path_csv,video_id,i)),header=None)
+        for name_feature in f[0]:
+            list_name_feature.append(name_feature)
+        if len(list_name_feature) != 0 :
+            break
+    for i in file_csv:
+        f = pandas.read_csv(os.path.join(os.path.join(path_csv,video_id,i)),header=None)
+        list_name_file.append(i)
+        data.append(list(f[1]))
     with configuration.using_config('train', False):
         with chainer.no_backprop_mode():
-            vsum = VSUM( video_id, model,fps,duration,path_csv,int(total_frames),path_reference,dataset='summe',seg_l=seg_l)
+            vsum = VSUM( video_id,data,int(np.array(data).shape[0]),k)
 
-    _, frames, _ = vsum.summarizeRep(seg_l=seg_l, weights=[1.0, 0.0])
-
+    _, frames, _ = vsum.summarizeRep(weights=[1.0, 0.0])
 
     # get 0/1 label for each frame
     fps = vsum.dataset.data['fps']
     fnum = vsum.dataset.data['fnum']
-    label = get_flabel(frames, fnum, fps, seg_l=seg_l)
-
-
+    label = get_flabel(frames, fnum, fps, seg_l=1)
     label = label.ravel().astype(np.bool)
-    time_per_frames = duration/total_frames
-    write_data_bbc(label,time_per_frames,path_save_txt,real_name)
+    return [(list_name_file[i]).replace(".csv","")  for i in range(len(label)) if label[i] == 1]
+#    write_data_bbc(label,time_per_frames,path_save_txt,real_name)
 

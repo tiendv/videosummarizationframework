@@ -45,10 +45,11 @@ def get_metadata(namevid):
 def main():
     example_datasetname = 'SUmMe'
     name,path,fps,nf,d= get_metadata(example_datasetname)
+    #print(name)
     a = name[4:9]
+    x = 4
     for idx,video in enumerate(a):
-        print(a[idx+4])
-    print(a.prefix)
+        print(a[idx+x])
 
 if __name__ == '__main__':
     main()
