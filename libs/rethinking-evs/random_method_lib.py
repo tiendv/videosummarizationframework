@@ -56,7 +56,7 @@ def sec2time(sec, n_msec=4):
         return pattern % (h, m, s)
     return ('%d days, ' + pattern) % (d, h, m, s)
 
-def run_random_methods(path_save,path_infor,video_id,datatype,path_score="",method='uniform'):
+def run_random_methods(path_save,path_infor,video_id,boundaries=[],path_score="",method='uniform'):
     fps = 0
     total_frames = 0
     duration = 0
@@ -71,9 +71,7 @@ def run_random_methods(path_save,path_infor,video_id,datatype,path_score="",meth
         rand_score = np.random.random((total_frames,))
     else:
         rand_score = np.load(os.path.join(path_score,video_id+".npy"))
-    segment = get_segment(total_frames,video_id,datatype,method)
+    segment = get_segment(total_frames,boundaries,method)
     rand_summary = summarize(rand_score, segment, int(float(total_frames) * .15))
     time_per_frames = duration / total_frames
     write_data(rand_summary,time_per_frames,path_save,video_id)
-
-
