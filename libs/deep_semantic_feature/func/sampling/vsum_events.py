@@ -11,7 +11,7 @@ import scipy.spatial.distance as dist
 
 class VSUM(gm_submodular.DataElement):
 
-    def __init__(self, videoID,data,total_frames,k,fps=1,dataset='summe'):
+    def __init__(self, videoID,data,total_frames,k,seg_l,fps,dataset='summe'):
         # load dataset data
         self.dataset = SUMME(videoID,fps,data,total_frames)
 
@@ -20,7 +20,7 @@ class VSUM(gm_submodular.DataElement):
         #print 'budget: ', self.budget
 
         # embed video segments
-        seg_feat = encodeSeg(self.dataset)
+        seg_feat = encodeSeg(self.dataset,seg_size=seg_l)
 
         # store segment features
         self.x = seg_feat
@@ -49,7 +49,7 @@ class VSUM(gm_submodular.DataElement):
     def getDistances(self):
         return np.multiply(self.dist_e, self.dist_e)
 
-    def summarizeRep(self, weights=[1.0, 0.0]):
+    def summarizeRep(self, weights=[1.0, 0.0], seg_l=4):
 
         objectives = [representativeness(self),
                       uniformity(self)]
@@ -64,15 +64,29 @@ class VSUM(gm_submodular.DataElement):
         frames = []
         gt_score = []
         for i in selected:
-            frames.append(self.frame[i])
-            gt_score.append(self.score[i])
+            frames.append(self.frame[i:i + seg_l])
+            print self.frame[i:i + seg_l]
+            gt_score.append(self.score[i:i + seg_l])
 
         return selected, frames, gt_score
 
 
-def encodeSeg(data):
-    return data.feat
-
+def encodeSeg(data, seg_size=4):
+    feat_temp = data.feat     #shape : fnum
+    feat = []
+    print feat_temp.shape[0]
+    print feat_temp.shape
+    for i in range(feat_temp.shape[0]-seg_size):
+        temp = []
+        for j in range(feat_temp.shape[1]):
+            total = 0
+            for k in range(seg_size):
+                total += feat_temp[i+k][j] 
+            temp.append(total/seg_size)
+        feat.append(temp)
+    feat=np.array(feat)
+    print feat.shape   
+    return feat
 ################################################
 # objectives
 ################################################

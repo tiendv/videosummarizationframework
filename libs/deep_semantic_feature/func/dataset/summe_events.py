@@ -20,7 +20,7 @@ class SUMME():
         dictionary['score']= []
         dictionary['imgID']= []
         for i in range(fnum):
-            dictionary['image'].append(str(i))
+            dictionary['image'].append(str(i).zfill(6) + '.jpg')
             dictionary['score'].append(0)
             dictionary['imgID'].append(i)
         file_json.append(dictionary)
