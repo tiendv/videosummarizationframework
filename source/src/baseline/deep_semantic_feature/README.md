@@ -4,26 +4,22 @@
 Accessing the working directory: 
 [deep_semantic_feature](https://github.com/tiendv/videosummarizationframework/tree/master/source/src/baseline/deep_semantic_feature)
 
+Download Dockerfile : "Dockerfile_dsf_kmedoids" [[Dockerfile](https://drive.google.com/drive/u/1/folders/1xSGkUZpzZ8TjCthL-kgvtj77WIY_FOhc)]
+
 Build images: `docker build -t Name_image:Tag_image -f Dockerfile .`
 
-- Ex: `docker build -t deep_semantic_feature:v1 -f Dockerfile .`
+- Ex: `docker build -t deep_semantic_feature:v1 -f Dockerfile_dsf_kmedoids .`
 
 Create container:
 
 - Ex: `docker run --name dsf_kemdoids --runtime=nvidia -v /mmlabstorage:/mmlabstorage -it deep_semantic_feature:v1 bash`
 # Deep semantic feature
 ### Input
-- Path of folder extract feature from video with vgg or resnet (' .npy'):
+- Path of folder extract feature from video with vgg or resnet (' .npy')
 
-`/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/frames_feature/VGG16`
-
-- Path of folder information of dataset (' .csv'):
-
-`/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/input_data/SumMe.csv`
+- Path of folder information of dataset (' .csv')
 
 - Path save output:
-
-`/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/time_segment/vsum_dsf`
 
 ### Output
 ```
@@ -55,11 +51,7 @@ Ex: `python dsf.py 0 244 5 smt_feat summe`
 ### Input
 - Path of folder emotion or event ('.csv'):
 
-`/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/shot_event`
-
 - Path of save output:
-
-`/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/dsf_seg_rgb`
 
 ### Run code:
 Accessing the working directory:

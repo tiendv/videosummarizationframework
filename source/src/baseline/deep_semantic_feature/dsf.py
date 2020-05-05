@@ -16,7 +16,7 @@ def dsf(vid_id,seg_l,feat_type,datatype):
     # - vid_id: id of the bbc video
     # - seg_l: segment length (uniform segment - Ex: 4 or 5 seconds ...)
     # - feat_type: vgg or smt_feat (smt_feat: using pretrained model || vgg: not using pretrained model)
-    # - datatype: bbc or tvsum or summe (get output fit with dataset)
+    # - datatype: bbc or tvsum or summe (get real_name for bbc dataset)
     # Output: the result time selection for summarization will be store in path_save
     # Author: Trivl
     #************************************************************************

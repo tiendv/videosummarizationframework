@@ -4,9 +4,11 @@ More information original paper and github: https://talhassner.github.io/home/pu
 Accessing the working directory: 
 [detect_emotion](https://github.com/tiendv/videosummarizationframework/blob/master/source/src/baseline/detect_emotion)
 
+Download Dockerfile : "Dockerfile_detect_emotion" [[Dockerfile](https://drive.google.com/drive/u/1/folders/1xSGkUZpzZ8TjCthL-kgvtj77WIY_FOhc)]
+
 Build images: `docker build -t Name_image:Tag_image -f Dockerfile .`
 
-Ex: `docker build -t emotion:v1 -f Dockerfile .`
+Ex: `docker build -t emotion:v1 -f Dockerfile_detect_emotion .`
 
 Create container:
 
@@ -14,15 +16,10 @@ Ex: `docker run --name emotion --runtime=nvidia -v /mmlabstorage:/mmlabstorage -
 ### Input:
 - Path of folder keyframes:
 
-`/mmlabstorage/workingspace/InstaceSearch/hungvq/data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Keyframes_5fps`
-
 - Path of folder face coordinates (' .csv'):
-
-`/mmlabstorage/workingspace/InstaceSearch/hungvq/data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Faces`
 
 - Path save output emotion:
 
-`/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/events_emotion`
 ### Run code:
 Accessing the working directory :
 [detect_emotion](https://github.com/tiendv/videosummarizationframework/blob/master/source/src/baseline/detect_emotion)

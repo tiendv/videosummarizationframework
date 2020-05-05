@@ -12,7 +12,7 @@ from config import cfg
 
 def run_bbc_kmedoids(vid_id,k):
     #************************************************************************
-    # Purpose: select shots from shots of a bbc video base on emotion
+    # Purpose: select shots from shots of a bbc video base on emotion or event
     # Inputs:
     # - vid_id: id of the bbc video
     # - k: Value K in K-medoids

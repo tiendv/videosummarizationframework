@@ -20,13 +20,12 @@ from random_method_lib import run_random_methods
 
 def run_methods(vid_id,method,datatype):
     #************************************************************************
-    # Purpose: select shots from shots of a bbc video base on feature and sub-networks
+    # Purpose: select shots for video base on random method
     # Inputs:
     # - vid_id: id of the bbc video
-    # - seg_l: segment length (uniform segment - Ex: 4 or 5 seconds ...)
-    # - feat_type: vgg or smt_feat (smt_feat: using pretrained model || vgg: not using pretrained model)
-    # - datatype: bbc or tvsum or summe (get output fit with dataset)
-    # Output: the result time selection for summarization will be store in path_save
+    # - method: Methods: one-peak || two-peak || KTS || randomized-KTS || uniform
+    # - datatype: bbc or tvsum or summe (get real_name for bbc dataset)
+    # Output: the result time selection for summarization will be stored
     # Author: Trivl
     #************************************************************************
     try:
@@ -43,7 +42,7 @@ def run_methods(vid_id,method,datatype):
             real_name = (real_name.rstrip()).replace(".mp4","")
             boundaries = np.load(os.path.join(cfg.BOUNDARIES_BBC,vid_id+".npy"))
             run_random_methods(cfg.ONE-PEAK_BBC,cfg.VIDEO_CSV_BBC_PATH,real_name,boundaries,path_score="",method=method)
-            os.system("echo video{} >> {}/log_dsf.txt".format(vid_id,cfg.LOG_DIR_PATH))
+            os.system("echo video{} >> {}/log_random_method.txt".format(vid_id,cfg.LOG_DIR_PATH))
     
     # Tvsum and SumMe
     else:
@@ -52,7 +51,7 @@ def run_methods(vid_id,method,datatype):
             vid_id = (data[0][i]).replace(".mp4","")
             boundaries = np.load(os.path.join(cfg.BOUNDARIES_TVSUM,vid_id+".npy"))
             run_random_methods(cfg.ONE-PEAK_TVSUM,cfg.VIDEO_CSV_TVSUM_PATH,vid_id,boundaries,path_score="",method=method)
-            os.system("echo {} >> {}/log_dsf.txt".format(vid_id,cfg.LOG_DIR_PATH))
+            os.system("echo {} >> {}/log_random_method.txt".format(vid_id,cfg.LOG_DIR_PATH))
     
 def main():
     parser = argparse.ArgumentParser(description='Optional description')

@@ -7,9 +7,11 @@ rethinking-evs
 Accessing the working directory: 
 [rethinking-evs](https://github.com/tiendv/videosummarizationframework/tree/master/source/src/baseline/rethinking-evs)
 
+Download Dockerfile : "Dockerfile_random_method" [[Dockerfile](https://drive.google.com/drive/u/1/folders/1xSGkUZpzZ8TjCthL-kgvtj77WIY_FOhc)]
+
 Build images: `docker build -t Name_image:Tag_image -f Dockerfile .`
 
-- Ex: `docker build -t rethinking-evs:v1 -f Dockerfile .`
+- Ex: `docker build -t rethinking-evs:v1 -f Dockerfile_random_method .`
 
 Create container:
 
@@ -21,15 +23,11 @@ Optional: For KTS segmentation results provided [here](https://github.com/kezhan
 Convet boundaries of video to name_video.npy
 ### Input
     
-- Path of folder information of dataset (' .csv'):
-
-`/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/input_data/BBC_EastEnder/BBC_video.csv`
+- Path of folder information of dataset (' .csv')
 
 - Path of folder boundaries (' .npy')
 
-- Path save output:
-
-`/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/One-peak_Random_Knapsack`
+- Path save output
 
 ### Run code
 Accessing the working directory: 
