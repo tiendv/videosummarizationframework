@@ -14,11 +14,11 @@ Create container:
 
 Ex: `docker run --name emotion --runtime=nvidia -v /mmlabstorage:/mmlabstorage -it emotion:v1 bash`
 ### Input:
-- Path of folder keyframes:
+- Path of folder keyframes
 
-- Path of folder face coordinates (' .csv'):
+- Path of folder face coordinates (' .csv')
 
-- Path save output emotion:
+- Path save output emotion
 
 ### Run code:
 Accessing the working directory :

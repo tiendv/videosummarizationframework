@@ -19,7 +19,7 @@ Create container:
 
 - Path of folder information of dataset (' .csv')
 
-- Path save output:
+- Path save output
 
 ### Output
 ```
@@ -49,9 +49,9 @@ Ex: `python dsf.py 0 244 5 smt_feat summe`
 # K-medoids
 
 ### Input
-- Path of folder emotion or event ('.csv'):
+- Path of folder emotion or event ('.csv')
 
-- Path of save output:
+- Path of save output
 
 ### Run code:
 Accessing the working directory:
