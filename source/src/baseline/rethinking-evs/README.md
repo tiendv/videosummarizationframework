@@ -45,8 +45,7 @@ Ex: `python random_method.py 0 243 uniform`
 ```
     Method: one-peak, two-peak, KTS, randomized-KTS, uniform
 ```
-Ex: `python random_method.py  one-peak`
-Ex: `python random_method.py randomized-KTS`
+Ex: `python random_method.py  one-peak` or `python random_method.py randomized-KTS`
 
 
 ### Output
