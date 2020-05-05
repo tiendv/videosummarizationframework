@@ -33,7 +33,7 @@ Convet boundaries of video to name_video.npy
 Accessing the working directory: 
 [rethinking-evs](https://github.com/tiendv/videosummarizationframework/tree/master/source/src/baseline/rethinking-evs)
 
--   BBC dataset: `0: video_id starting || 244: video_id ending || uniform: method(one-peak or two-peak or KTS or randomized-KTS or uniform) || 'bbc': set dataset to get real_name video.`
+-   BBC dataset: `0: video_id starting || 244: video_id ending || uniform: method(one-peak or two-peak or KTS or randomized-KTS or uniform) || 'bbc': set dataset to get video_name video.`
 
 Ex: `python random_method.py 0 244 uniform bbc`
 

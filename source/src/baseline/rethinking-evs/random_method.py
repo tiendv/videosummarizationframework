@@ -24,7 +24,7 @@ def run_methods(vid_id,method,datatype):
     # Inputs:
     # - vid_id: id of the bbc video
     # - method: Methods: one-peak || two-peak || KTS || randomized-KTS || uniform
-    # - datatype: bbc or tvsum or summe (get real_name for bbc dataset)
+    # - datatype: bbc or tvsum or summe (get video_name for bbc dataset)
     # Output: the result time selection for summarization will be stored
     # Author: Trivl
     #************************************************************************
@@ -34,14 +34,14 @@ def run_methods(vid_id,method,datatype):
     except Exception as e:
         raise "permission deny to write in {}".format(cfg.PATH_DSF_BBC)
     
-    # Real_name of bbc_dataset
+    # video_name of bbc_dataset
     if datatype == "bbc":
         with open(os.path.join(cfg.INPUT_VIDEO_LIST_BBC,"video{}.txt".format(vid_id)),'r') as f:
             data = f.readlines()
-        for real_name in data:
-            real_name = (real_name.rstrip()).replace(".mp4","")
+        for video_name in data:
+            video_name = (video_name.rstrip()).replace(".mp4","")
             boundaries = np.load(os.path.join(cfg.BOUNDARIES_BBC,vid_id+".npy"))
-            run_random_methods(cfg.ONE-PEAK_BBC,cfg.VIDEO_CSV_BBC_PATH,real_name,boundaries,path_score="",method=method)
+            run_random_methods(cfg.ONE-PEAK_BBC,cfg.VIDEO_CSV_BBC_PATH,video_name,boundaries,path_score="",method=method)
             os.system("echo video{} >> {}/log_random_method.txt".format(vid_id,cfg.LOG_DIR_PATH))
     
     # Tvsum and SumMe
@@ -71,5 +71,5 @@ if __name__ == "__main__":
     main()
     # python random_method.py 0 243 one-peak bbc || python dsf.py 1 1 uniform tvsum || python dsf.py 1 1 two-peak summe
     # or 
-    # run_dsf(path_save,path_video,datatype,path_npy,path_reference,seg_l,feat_type,real_name)
+    # run_dsf(path_save,path_video,datatype,path_npy,path_reference,seg_l,feat_type,video_name)
 

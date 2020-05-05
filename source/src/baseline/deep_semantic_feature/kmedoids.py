@@ -27,11 +27,11 @@ def run_bbc_kmedoids(vid_id,k):
         raise "permission deny to write in {}".format(cfg.PATH_EMOTION_KMEDOIDS_BBC)
     with open(os.path.join(cfg.INPUT_VIDEO_LIST_BBC,"video{}.txt".format(vid_id)),'r') as f:
         data = f.readlines()
-    for real_name in data:
-        real_name = real_name.rstrip()
+    for video_name in data:
+        video_name = video_name.rstrip()
     feature = create_feature(cfg.PATH_EVENT_EMOTION_BBC,cfg.PATH_DATA_REF_BBC_FILE,"video"+str(vid_id))
     selected = run_kmedoids(feature,k,vid_id)
-    write_data(selected,cfg.PATH_EVENT_EMOTION_BBC,real_name)
+    write_data(selected,cfg.PATH_EVENT_EMOTION_BBC,video_name)
     os.system("echo video{} >> {}/emotion_kmedoids.txt".format(vid_id,cfg.LOG_DIR_PATH))
 
 

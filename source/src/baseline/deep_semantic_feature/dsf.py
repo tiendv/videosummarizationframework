@@ -16,7 +16,7 @@ def dsf(vid_id,seg_l,feat_type,datatype):
     # - vid_id: id of the bbc video
     # - seg_l: segment length (uniform segment - Ex: 4 or 5 seconds ...)
     # - feat_type: vgg or smt_feat (smt_feat: using pretrained model || vgg: not using pretrained model)
-    # - datatype: bbc or tvsum or summe (get real_name for bbc dataset)
+    # - datatype: bbc or tvsum or summe (get video_name for bbc dataset)
     # Output: the result time selection for summarization will be store in path_save
     # Author: Trivl
     #************************************************************************
@@ -26,13 +26,13 @@ def dsf(vid_id,seg_l,feat_type,datatype):
     except Exception as e:
         raise "permission deny to write in {}".format(cfg.PATH_DSF_BBC)
     
-    # Real_name of bbc_dataset
+    # video_name of bbc_dataset
     if datatype == "bbc":
         with open(os.path.join(cfg.BBC_SHOT_PATH,"video{}.txt".format(vid_id)),'r') as f:
             data = f.readlines()
-        for real_name in data:
-            real_name = (real_name.rstrip()).replace(".mp4","")
-            run_dsf(cfg.PATH_DSF_BBC,cfg.VIDEO_CSV_BBC_PATH,datatype,cfg.PATH_FEATURE_VGG19_BBC,seg_l,feat_type,real_name)
+        for video_name in data:
+            video_name = (video_name.rstrip()).replace(".mp4","")
+            run_dsf(cfg.PATH_DSF_BBC,cfg.VIDEO_CSV_BBC_PATH,datatype,cfg.PATH_FEATURE_VGG19_BBC,seg_l,feat_type,video_name)
             os.system("echo video{} >> {}/log_dsf.txt".format(vid_id,cfg.LOG_DIR_PATH))
     
     # Tvsum and SumMe
@@ -62,5 +62,5 @@ if __name__ == "__main__":
     main()
     # python dsf.py 0 244 4 smt_feat bbc || python dsf.py 1 1 2 vgg tvsum || python dsf.py 1 1 5 vgg summe
     # or 
-    # run_dsf(path_save,path_video,datatype,path_npy,path_reference,seg_l,feat_type,real_name)
+    # run_dsf(path_save,path_video,datatype,path_npy,path_reference,seg_l,feat_type,video_name)
 
