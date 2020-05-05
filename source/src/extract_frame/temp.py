@@ -183,7 +183,9 @@ class ExtractFeatureVideo(Feature):
         nFrame = vidcap.get(cv2.CAP_PROP_FRAME_COUNT)
         pbar = tqdm(total = nFrame)
         it = 0
-        imgs = []
+        feature = []
+        device = self._device
+        self.model = extract().to(device)
         while(vidcap.isOpened()):
             pbar.update(1)
             suc, img = vidcap.read()
@@ -192,19 +194,16 @@ class ExtractFeatureVideo(Feature):
                 break
             if ((it-1)%sam) != 0:
                 continue
-            img = Image.fromarray(img)
-            imgs.append(img)
+            img1 = Image.fromarray(img)
+            img1 = self.preinput(img1)
+            inputt = img1.unsqueeze(0)
+            with torch.no_grad():
+                fea = self.model(inputt.to(device))
+            #convert to numpy
+            fea = fea.data.cpu().numpy()
+            feature.append(fea)
 
-        imgs = [self.preinput(im) for im in imgs]
-        ts = torch.stack(imgs,0)
-        print(self._device)
-        device = self._device
-        self.model = extract().to(device)
-        with torch.no_grad():
-            x = self.model(ts.to(device))
-        #convert to numpy
-        x = x.data.cpu().numpy()
-        return Feature(x,self._namefile,self.method,self._sampling_rate)
+        return Feature(feature,self._namefile,self.method,self._sampling_rate)
 
     def _process(self):
         """Fuction for run process
@@ -404,12 +403,13 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
         img_data = self.preinput(img_data)
         _feature = self.model.predict(img_data)
         return _feature
-xx = int(sys.argv[1])
-yy = int(sys.argv[2])
+
 def main():
     #Example for runing
     #feat = ExtractFeatureVideo('./test.mp4',1,device_name='GPU:0').InceptionV1()
     #feat.save('./')
+    xx = int(sys.argv[1])
+    yy = int(sys.argv[2])
     out = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/feature/googlenet'
     data = ExtractFeatureDataSet('bbc',out,x=xx,y=yy,sampling_rate=1).InceptionV1()
 
