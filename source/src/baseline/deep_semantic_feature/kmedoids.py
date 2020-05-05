@@ -7,6 +7,7 @@ sys.path.append("../../../config")
 sys.path.append("../../../../libs/deep_semantic_feature/")
 from bbc_kmedoids_lib import run_kmedoids
 from bbc_kmedoids_lib import write_data
+from bbc_kmedoids_lib import create_feature
 from config import cfg
 
 def run_bbc_kmedoids(vid_id,k):
@@ -24,12 +25,13 @@ def run_bbc_kmedoids(vid_id,k):
         os.remove("{}/test.txt".format(cfg.PATH_EMOTION_KMEDOIDS_BBC))
     except Exception as e:
         raise "permission deny to write in {}".format(cfg.PATH_EMOTION_KMEDOIDS_BBC)
-    with open(os.path.join(cfg.PATH_VIDEO_LIST_BBC,"video{}.txt".format(vid_id)),'r') as f:
+    with open(os.path.join(cfg.INPUT_VIDEO_LIST_BBC,"video{}.txt".format(vid_id)),'r') as f:
         data = f.readlines()
     for real_name in data:
         real_name = real_name.rstrip()
-    selected = run_kmedoids(cfg.PATH_EVENT_EMOTION_BBC,k,vid_id)
-    write_data(selected,cfg.PATH_DATA_REF_BBC_FILE,cfg.PATH_EVENT_EMOTION_BBC,real_name)
+    feature = create_feature(cfg.PATH_EVENT_EMOTION_BBC,cfg.PATH_DATA_REF_BBC_FILE,"video"+str(vid_id))
+    selected = run_kmedoids(feature,k,vid_id)
+    write_data(selected,cfg.PATH_EVENT_EMOTION_BBC,real_name)
     os.system("echo video{} >> {}/emotion_kmedoids.txt".format(vid_id,cfg.LOG_DIR_PATH))
 
 
@@ -46,7 +48,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # python bbc_emotions.py start end seg_l || EX: python bbc_kmedoids.py 0 243 10
+    # python kmedoids.py start end seg_l || EX: python kmedoids.py 0 243 10
     # or
     # run_kmedoids(path_save,path_video,path_csv,path_reference,seg_l,vid_id=0) replace  main() line 42
 
