@@ -34,17 +34,22 @@ Create container:
 Accessing the working directory :
 [deep_semantic_feature](https://github.com/tiendv/videosummarizationframework/tree/master/source/src/baseline/deep_semantic_feature)
 
--   BBC dataset: `0: video_id starting || 244: video_id ending || 4: length uniform segment || 'smt_feat': using pretrained model or 'vgg': not using pretrained model || 'bbc': set output fit with dataset.`
+-   BBC dataset 
+```
+    Video_id starting: 0 to 243 
+    Video_id ending: 0 to 243
+    Length of uniform segment: 4(5,6,..)
+    Use pretrained model: smt_feat or not: vgg
+```
+Ex: `python dsf.py 0 244 4 smt_feat`
 
-Ex: `python dsf.py 0 244 4 smt_feat bbc`
+-   TVSum, SumMe and another dataset
+```
+    Length uniform segment: 4(5,6,...)
+    Use pretrained model: smt_feat or not: vgg
+```
+EX: `python dsf.py 2 vgg` or `python dsf.py 5 smt_feat`
 
--   TVSum dataset: `no need video_id starting and ending.`
-
-Ex: `python dsf.py 0 244 2 vgg tvsum`
-
--   SumMe dataset: `no need video_id starting and ending.`
-
-Ex: `python dsf.py 0 244 5 smt_feat summe`
 
 # K-medoids
 

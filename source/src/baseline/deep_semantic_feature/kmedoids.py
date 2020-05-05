@@ -31,8 +31,9 @@ def run_bbc_kmedoids(vid_id,k):
         video_name = video_name.rstrip()
     feature = create_feature(cfg.PATH_EVENT_EMOTION_BBC,cfg.PATH_DATA_REF_BBC_FILE,"video"+str(vid_id))
     selected = run_kmedoids(feature,k,vid_id)
-    write_data(selected,cfg.PATH_EVENT_EMOTION_BBC,video_name)
-    os.system("echo video{} >> {}/emotion_kmedoids.txt".format(vid_id,cfg.LOG_DIR_PATH))
+    print()
+#    write_data(selected,cfg.PATH_EVENT_EMOTION_BBC,video_name)
+#    os.system("echo video{} >> {}/emotion_kmedoids.txt".format(vid_id,cfg.LOG_DIR_PATH))
 
 
 def main():
