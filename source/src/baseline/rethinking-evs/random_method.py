@@ -18,13 +18,12 @@ sys.path.append("../../../../libs/rethinking-evs/")
 from config import cfg
 from random_method_lib import run_random_methods
 
-def run_methods(vid_id,method,datatype):
+def run_methods(vid_id,method):
     #************************************************************************
     # Purpose: select shots for video base on random method
     # Inputs:
     # - vid_id: id of the bbc video
     # - method: Methods: one-peak || two-peak || KTS || randomized-KTS || uniform
-    # - datatype: bbc or tvsum or summe (get video_name for bbc dataset)
     # Output: the result time selection for summarization will be stored
     # Author: Trivl
     #************************************************************************
@@ -35,7 +34,7 @@ def run_methods(vid_id,method,datatype):
         raise "permission deny to write in {}".format(cfg.PATH_DSF_BBC)
     
     # video_name of bbc_dataset
-    if datatype == "bbc":
+    if vid_id != "":
         with open(os.path.join(cfg.INPUT_VIDEO_LIST_BBC,"video{}.txt".format(vid_id)),'r') as f:
             data = f.readlines()
         for video_name in data:
@@ -55,21 +54,20 @@ def run_methods(vid_id,method,datatype):
     
 def main():
     parser = argparse.ArgumentParser(description='Optional description')
-    parser.add_argument('st', type=int, help='ID of start video')
-    parser.add_argument('en', type=int, help='ID of end video')
+    parser.add_argument('--st', type=int, help='ID of start video')
+    parser.add_argument('--en', type=int, help='ID of end video')
     parser.add_argument('method', type=str, help='Methods: one-peak || two-peak || KTS || randomized-KTS || uniform')
-    parser.add_argument('datatype', type=str, help='Dataset: summe or tvsum or bbc')
     args = parser.parse_args()
 
-    if args.datatype =="bbc":
+    if args.st and args.en:
         for i in range(args.st,args.en+1):
-            run_methods(i,args.method,args.datatype)
+            run_methods(i,args.method)
     else:
-        run_methods("",args.method,args.datatype)
+        run_methods("",args.method)
 
 if __name__ == "__main__":
     main()
-    # python random_method.py 0 243 one-peak bbc || python dsf.py 1 1 uniform tvsum || python dsf.py 1 1 two-peak summe
+    # python random_method.py 0 243 one-peak bbc || python random_method.py 1 1 uniform tvsum || python random_method.py 1 1 two-peak summe
     # or 
     # run_dsf(path_save,path_video,datatype,path_npy,path_reference,seg_l,feat_type,video_name)
 
