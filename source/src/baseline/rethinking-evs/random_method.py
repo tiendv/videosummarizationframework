@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+sys.path.append("../../../../libs/rethinking-evs/")
 from tools.summarizer import summarize
 from tools.io import load_summe_mat
 from tools.io import load_tvsum_mat
@@ -14,7 +14,6 @@ import pandas
 import os,sys,glob
 import argparse
 sys.path.append("../../../config")
-sys.path.append("../../../../libs/rethinking-evs/")
 from config import cfg
 from random_method_lib import run_random_methods
 
@@ -39,7 +38,9 @@ def run_methods(vid_id,method):
             data = f.readlines()
         for video_name in data:
             video_name = (video_name.rstrip()).replace(".mp4","")
-            boundaries = np.load(os.path.join(cfg.BOUNDARIES_BBC,vid_id+".npy"))
+            boundaries = ""
+            if method == "KTS" or "randomized-KTS:
+                boundaries = np.load(os.path.join(cfg.BOUNDARIES_BBC,vid_id+".npy"))
             run_random_methods(cfg.ONE-PEAK_BBC,cfg.VIDEO_CSV_BBC_PATH,video_name,boundaries,path_score="",method=method)
             os.system("echo video{} >> {}/log_random_method.txt".format(vid_id,cfg.LOG_DIR_PATH))
     
@@ -48,7 +49,9 @@ def run_methods(vid_id,method):
         data = pandas.read_csv(os.path.join(cfg.VIDEO_CSV_TVSUM_PATH),header=None)
         for i in range(1,data.shape[0]):
             vid_id = (data[0][i]).replace(".mp4","")
-            boundaries = np.load(os.path.join(cfg.BOUNDARIES_TVSUM,vid_id+".npy"))
+            boundaries = ""
+            if method == "KTS" or "randomized-KTS:
+                boundaries = np.load(os.path.join(cfg.BOUNDARIES_TVSUM,vid_id+".npy"))
             run_random_methods(cfg.ONE-PEAK_TVSUM,cfg.VIDEO_CSV_TVSUM_PATH,vid_id,boundaries,path_score="",method=method)
             os.system("echo {} >> {}/log_random_method.txt".format(vid_id,cfg.LOG_DIR_PATH))
     
