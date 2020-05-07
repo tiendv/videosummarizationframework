@@ -6,6 +6,8 @@ cfg = __C
 
 BASIC_DIR = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/"
 
+
+__C.VIDEO_CSV_PATH = BASIC_DIR + "data/input_data"
 __C.VIDEO_CSV_TVSUM_PATH = BASIC_DIR + "data/input_data/TVSum.csv"
 __C.VIDEO_CSV_SUMME_PATH = BASIC_DIR + "data/input_data/SumMe.csv"
 __C.VIDEO_CSV_BBC_PATH = BASIC_DIR + "data/input_data/BBC_EastEnder/BBC_video.csv"
@@ -38,6 +40,7 @@ __C.EXAMPLE_OUTPUT_PATH = "../../../../test_data/events"
 
 __C.PATH_VIDEO_BBC = "/mmlabstorage/datasets/TRECVID/TRECVID_BBC_EastEnders/videos"
 __C.PATH_EMOTION_KMEDOIDS_BBC =  BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/emotion_seg_vsum_dsf_fix"
+__C.PATH_EVENT_KMEDOIDS_BBC =  BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/event_seg_vsum_dsf_fix"
 __C.PATH_DSF_BBC =  BASIC_DIR + "/data/BBC_processed_data/time_shots_bbc/dsf_seg_rgb"
 __C.PATH_FEATURE_VGG19_BBC =  BASIC_DIR + "/data/BBC_processed_data/time_shots_bbc/feature/VGG19"
 __C.PATH_TIME_SHOTS_BBC_GT= BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/GT"

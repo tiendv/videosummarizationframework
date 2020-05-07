@@ -1,5 +1,5 @@
 import os
-
+import argparse
 def check_permission_to_write(outdir):
 	"""[This function to check permission to write file before save file]
     Arguments:
@@ -10,21 +10,24 @@ def check_permission_to_write(outdir):
     """
     
 	path = os.path.join(outdir,'check.txt')
-	print('Checking permission to write file at path: %s'%(path))
+	print('Checking permission to write file at path: %s'%(outdir))
 	with open(path,'w') as file:
 		file.write('checked')
 		file.close()
 	if (os.path.isfile(path)) is True:
 		os.remove(path)
-		print('\tCHECK STATUS: True (can write file)')
+		print('\tCHECK STATUS: True (can write file).')
 		return True
 	else:
-		print('\tCHECK STATUS: Faile (check your directory')
+		print('\tCHECK STATUS: Faile (check your directory again.')
 		return False
 
 def main():
-	example_path = './'
-	check_permission_to_write(example_path)
+	parser = argparse.ArgumentParser()
+	parser.add_argument('outdir',
+					help='Path to check')
+	args = parser.parse_args()
+	check_permission_to_write(args.outdir)
 
 if __name__ == '__main__':
     main()

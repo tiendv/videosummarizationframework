@@ -8,6 +8,7 @@ sys.path.append("../../../../libs/deep_semantic_feature/")
 from bbc_kmedoids_lib import run_kmedoids
 from bbc_kmedoids_lib import write_data
 from bbc_kmedoids_lib import create_feature
+from joblib import Parallel, delayed
 from config import cfg
 
 def run_bbc_kmedoids(vid_id,k):
@@ -21,30 +22,31 @@ def run_bbc_kmedoids(vid_id,k):
     #************************************************************************
     #Check permission
     try:
-        os.system("echo test > {}/test.txt".format(cfg.PATH_EMOTION_KMEDOIDS_BBC))
-        os.remove("{}/test.txt".format(cfg.PATH_EMOTION_KMEDOIDS_BBC))
+        os.system("echo test > {}/test.txt".format(cfg.PATH_EVENT_KMEDOIDS_BBC))
+        os.remove("{}/test.txt".format(cfg.PATH_EVENT_KMEDOIDS_BBC))
     except Exception as e:
-        raise "permission deny to write in {}".format(cfg.PATH_EMOTION_KMEDOIDS_BBC)
-    with open(os.path.join(cfg.INPUT_VIDEO_LIST_BBC,"video{}.txt".format(vid_id)),'r') as f:
+        raise "permission deny to write in {}".format(cfg.PATH_EVENT_KMEDOIDS_BBC)
+    with open(os.path.join("/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/test","video{}.txt".format(vid_id)),'r') as f:
         data = f.readlines()
     for video_name in data:
         video_name = video_name.rstrip()
-    feature = create_feature(cfg.PATH_EVENT_EMOTION_BBC,cfg.PATH_DATA_REF_BBC_FILE,"video"+str(vid_id))
+    print(video_name)
+    feature = create_feature(cfg.OUTPUT_PATH,cfg.PATH_DATA_REF_BBC_FILE,"video"+str(vid_id))
     selected = run_kmedoids(feature,k,vid_id)
-    print()
-#    write_data(selected,cfg.PATH_EVENT_EMOTION_BBC,video_name)
-#    os.system("echo video{} >> {}/emotion_kmedoids.txt".format(vid_id,cfg.LOG_DIR_PATH))
+    write_data(selected,cfg.PATH_EVENT_KMEDOIDS_BBC,video_name)
+    os.system("echo video{} >> {}/events_kmedoids.txt".format(vid_id,cfg.LOG_DIR_PATH))
 
 
 def main():
     parser = argparse.ArgumentParser(description='Optional description')
     parser.add_argument('st', type=int, help='ID of start video')
     parser.add_argument('en', type=int, help='ID of end video')
-    parser.add_argument('k', type=int, help='Value K in K-medoids')
+    parser.add_argument('--k', type=int, help='Value K in K-medoids')
 
     args = parser.parse_args()
-    for i in range(args.st,args.en+1):
-        run_bbc_kmedoids(i,args.k)
+#    for i in range(args.st,args.en+1):
+#        run_bbc_kmedoids(i,args.k)
+    Parallel(n_jobs=10)( [delayed(run_bbc_kmedoids)(i,args.k) for i in range(args.st,args.en+1)] )
 
 
 if __name__ == "__main__":

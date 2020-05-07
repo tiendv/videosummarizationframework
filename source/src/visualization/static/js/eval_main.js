@@ -8,7 +8,7 @@ $(function(){
   showEval("TVSum","DSF_VGG16_Kmedoids","result_tvsum");
   showEval("TVSum","KTS_GoogLeNet_Random_Knapsack","result_tvsum");
   showEval("TVSum","One-peak_Random_Knapsack","result_tvsum");
-  showEval("TVSum","Randomized-KTS_Random_Knapsack","result_tvsum");
+  showEval("TVSum","Randomized-KTS_GoogLeNet_Random_Knapsack","result_tvsum");
   showEval("TVSum","Rethinking_Uniform_Random_Knapsack","result_tvsum");
   showEval("TVSum","Two-peak_Random_Knapsack","result_tvsum");
 
@@ -22,7 +22,7 @@ $(function(){
   showEval("SumMe","DSF_Kmedoids","result_summe");
   showEval("SumMe","DSF_VGG16_Kmedoids","result_summe");
   showEval("SumMe","Rethinking_Uniform_Random_Knapsack","result_summe");
-  showEval("SumMe","Randomized-KTS_Random_Knapsack","result_summe");
+  showEval("SumMe","Randomized-KTS_GoogLeNet_Random_Knapsack","result_summe");
   showEval("SumMe","KTS_GoogLeNet_Random_Knapsack","result_summe");
   showEval("SumMe","One-peak_Random_Knapsack","result_summe");
   showEval("SumMe","Two-peak_Random_Knapsack","result_summe");

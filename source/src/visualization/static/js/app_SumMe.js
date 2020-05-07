@@ -70,13 +70,13 @@ function load_video(file_id){
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[DSF]',
+                                title: 'Sum[DSF_Kmedoids]',
                                 type: 'segment',
                                 metadataId: 'seg_vsum_dsf',
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[DSF_VGG16]',
+                                title: 'Sum[DSF_VGG16_Kmedoids]',
                                 type: 'segment',
                                 metadataId: 'seg_vsum_dsf_rgb_only_vgg16',
                                 color: '#F00'
@@ -96,7 +96,7 @@ function load_video(file_id){
                                 pointNav: true
                             },
                             {
-                                title: 'Sum[Uniform]',
+                                title: 'Sum[Uniform_Random_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'rethinking_uniform_seg',
                                 color: '#F00'
@@ -109,7 +109,7 @@ function load_video(file_id){
                                 pointNav: true
                             },
                             {
-                                title: 'Sum[One-peak]',
+                                title: 'Sum[One-peak_Random_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'rethinking_one-peak_seg',
                                 color: '#F00'
@@ -122,7 +122,7 @@ function load_video(file_id){
                                 pointNav: true
                             },
                             {
-                                title: 'Sum[Two-peak]',
+                                title: 'Sum[Two-peak_Random_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'rethinking_two-peak_seg',
                                 color: '#F00'
@@ -135,7 +135,7 @@ function load_video(file_id){
                                 pointNav: true
                             },
                             {
-                                title: 'Sum[KTS_GoogLeNet]',
+                                title: 'Sum[KTS_GoogLeNet_Random_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'rethinking_KTS_seg',
                                 color: '#F00'
@@ -148,7 +148,7 @@ function load_video(file_id){
                                 pointNav: true
                             },
                             {
-                                title: 'Sum[Randomized-KTS_GoogLeNet]',
+                                title: 'Sum[Randomized-KTS_GoogLeNet_Random_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'rethinking_randomized-KTS_seg',
                                 color: '#F00'

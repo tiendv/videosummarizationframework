@@ -68,16 +68,16 @@ if __name__ == '__main__':
     # path_video = "src/visualization/static/TVSum50/ydata-tvsum50-v1_1/video/sTEELN-vY30.mp4"  
     # sum_video(path_video)
 
-    path_txt = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/TVSum_processed_data/time_shots_tvsum50/KTS'
-    path_json = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/json/TVSum/shots/KTS_VGG'
+    path_txt = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/event_seg_vsum_dsf_fix'
+    path_json = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/json/TRECVID_BBC_EastEnders/selected/event_seg_vsum_dsf_fix'
 #create_shot_json(json_path, vid_name,begin_list,score_list=None,json_id="shot_gt")
     for path, subdirs, files in os.walk(path_txt):
         for name in files:
             name = name.replace(".txt","")
 #            print (name)
 #            print (os.path.join(path_txt,name,name+".txt"))
-#            create_json.create_json_selections(os.path.join(path_txt,name,name+".txt"), saved_json_path=path_json,id_json = 'rethinking_randomized-KTS_seg')
-
+#            create_json.create_json_selections(os.path.join(path_txt,name,name+".txt"), saved_json_path=path_json,id_json = 'event_seg_vsum_dsf_fix')
+            """
             with open(os.path.join(path_txt,name+".txt") ,"r") as f:
                 Lines = f.readlines() 
                 list_begin = []
@@ -90,4 +90,4 @@ if __name__ == '__main__':
                 create_json.create_shot_json(path_json,name,list_begin,list_score,json_id = 'KTS_VGG_seg_boundaries')
 #                    print(line.split(" ")[0]+ " " +line.split(" ")[1] + " "+ line.split(" ")[2])
 #        create_json.create_shot_json('score_random_sample')rethinking_score_random,rethinking_KTS_seg_boundaries
-
+            """

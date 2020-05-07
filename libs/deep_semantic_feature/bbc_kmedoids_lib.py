@@ -76,7 +76,6 @@ def write_data(label,path_save_txt,real_name):
     if not os.path.isdir(os.path.join(path_save_txt,real_name.replace(".mp4",""))):
         os.makedirs(os.path.join(path_save_txt,real_name.replace(".mp4","")))
     with open(os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"),"w+") as f:
-        print os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt")
         for i in range(len(label)):
             if label[i]==True and in_seg==False:
                 time_start = i*time_per_frames
@@ -93,7 +92,7 @@ def write_data(label,path_save_txt,real_name):
                 time_start=0
                 time_end = 0
                 in_seg = False
-
+        print (os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"))
 def create_feature(path_csv,path_reference,video_id):
     data = []
     file_csv = [f for f in listdir(os.path.join(path_csv,video_id)) if isfile(join(os.path.join(path_csv,video_id), f))]
@@ -162,7 +161,6 @@ def run_kmedoids(data,k,video_id):
 
     duration = int(np.array(data).shape[0])
     k = int(data.shape[0]*0.15/seg_l)
-    print k
     with configuration.using_config('train', False):
         with chainer.no_backprop_mode():
             ### k-medoids
