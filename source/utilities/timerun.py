@@ -1,5 +1,5 @@
 """Calcutate execution time
-Author: ThinhplgThinhplg
+Author: Thinhplg
 """
 import time
 import cv2
@@ -53,5 +53,5 @@ def exec_time_func_videotest(func,*args):
     total_time = time.time() - start_time
     #Total frame of video test is 1440. Check it on config file or ../test_data/video4test/video.mp4
     #calculate time for exctute 1 frame
-    t1fps = total_time/144
+    t1fps = total_time/1440
     return total_time,t1fps
