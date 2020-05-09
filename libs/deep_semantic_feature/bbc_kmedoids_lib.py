@@ -19,7 +19,6 @@ import pandas
 import time
 from os import listdir
 from os.path import isfile, join
-
 def get_data_ref_bbc(path_ref_bbc):
     '''
         This function will return the information about video id, and time of each shot in BBC dataset
@@ -52,7 +51,6 @@ def sec2time(sec, n_msec=4):
     if d == 0:
         return pattern % (h, m, s)
     return ('%d days, ' + pattern) % (d, h, m, s)
-
 def time2sec(times):
     x = time.strptime(times.split('.')[0],'%H:%M:%S')
     range_mili = 1
@@ -68,31 +66,17 @@ def time2sec(times):
         mili = 0
     return float(datetime.timedelta(hours=x.tm_hour,minutes=x.tm_min,seconds=x.tm_sec).total_seconds() + mili)
 
-def write_data(label,path_save_txt,real_name):
-    time_per_frames = 1
-    time_start=0
-    time_end = 0
-    in_seg = False
+def write_data(label,path_save_txt,path_reference,real_name):
     if not os.path.isdir(os.path.join(path_save_txt,real_name.replace(".mp4",""))):
         os.makedirs(os.path.join(path_save_txt,real_name.replace(".mp4","")))
-    with open(os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"),"w+") as f:
-        for i in range(len(label)):
-            if label[i]==True and in_seg==False:
-                time_start = i*time_per_frames
-                in_seg=True
-            if label[i]==False and in_seg==True:
-                time_end = i*time_per_frames
-                print(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + "\n")
-                f.write(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + "\n")
-                time_start=0
-                time_end = 0
-                in_seg = False
-            if i+1 == len(label) and in_seg ==True:
-                time_end = i*time_per_frames
-                time_start=0
-                time_end = 0
-                in_seg = False
-        print (os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"))
+    with open(os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"),"w") as f:
+            with open(path_reference,"r") as refer:        
+                Lines = refer.readlines() 
+                for line in Lines:
+                    if line.split("    ")[1] in label:
+                        f.write(sec2time(time2sec(line.split("    ")[2]))+" "+sec2time(time2sec((line.split("    ")[3]).replace("\n","")))+"\n")
+                        print(sec2time(time2sec(line.split("    ")[2]))+" "+sec2time(time2sec((line.split("    ")[3]).replace("\n","")))+"\n")
+    print(os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"))
 def create_feature(path_csv,path_reference,video_id):
     data = []
     file_csv = [f for f in listdir(os.path.join(path_csv,video_id)) if isfile(join(os.path.join(path_csv,video_id), f))]
@@ -116,7 +100,7 @@ def create_feature(path_csv,path_reference,video_id):
             if int(((line.split("    ")[1]).split("_")[0]).replace("shot","")) != int(video_id.replace("video","")) :
                 continue
             start = end
-            end = float(time2sec(line.split("    ")[3]))
+            end = float(time2sec((line.split("    ")[3]).replace("\n","")))
             if time_filter + ((end-start)-int(end-start)) >= 1 :
                 time_filter  =  ((end-start)-int(end-start)) + time_filter -1
                 dict_refer[str("video"+((line.split("    ")[1]).split("_")[0]).replace("shot",""))+str(line.split("    ")[1])] = (int(end-start)+1)
@@ -128,13 +112,13 @@ def create_feature(path_csv,path_reference,video_id):
             if int(((line.split("    ")[1]).split("_")[0]).replace("shot","")) == int(video_id.replace("video","")) :
                 total_shot = int((line.split("    ")[1]).split("_")[1])
     list_events = []
+    totals = 0
     for i in file_csv:
         f = pandas.read_csv(os.path.join(os.path.join(path_csv,video_id,i)),header=None)
         for name_feature in f[0]:
             list_events.append(name_feature)
         if len(list_events) != 0 :
             break
-    totals = 0
     for i in range (1,total_shot+1):
         name_shot = str("shot"+video_id.replace("video","")+"_"+str(i))
         key_frames = dict_refer[str(video_id)+str(name_shot)]
@@ -149,30 +133,36 @@ def create_feature(path_csv,path_reference,video_id):
                     id+=1
         except:
             a = 0
-        for k in range(key_frames):
-            totals+=1
+        for k in range(1):
+            totals+=key_frames
             vector.append(temp)
-    return np.array(vector)
+    return np.array(vector),totals
 
-def run_kmedoids(data,k,video_id):
-    seg_l = 4
+def run_kmedoids(data,k,video_id,totals):
+    seg_l = 1
     fps = 1
     video_id = "video"+str(video_id)
 
     duration = int(np.array(data).shape[0])
-    k = int(data.shape[0]*0.15/seg_l)
+    k = int(totals*0.15/float(totals/float(np.array(data).shape[0])))
     with configuration.using_config('train', False):
         with chainer.no_backprop_mode():
             ### k-medoids
             vsum = VSUM( video_id,data,duration,k,seg_l,fps)
 
     _, frames, _ = vsum.summarizeRep(weights=[1.0, 0.0],seg_l=seg_l)
+    temp = []
 
+    for i in range(len(frames)):
+        if (len(frames[i])>0):
+            temp.append("shot"+str(video_id.replace("video",""))+"_"+str(int(frames[i][0][0:-4])))
+    frames = temp
+    return frames
     # get 0/1 label for each frame
     fps = vsum.dataset.data['fps']
     fnum = vsum.dataset.data['fnum']
     label = get_flabel(frames, fnum, fps, seg_l=seg_l)
     label = label.ravel().astype(np.bool)
-    return label
+
 
 

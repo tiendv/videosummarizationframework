@@ -3,7 +3,9 @@ import os
 import cv2
 from utilities.convert_time import sec2time
 sys.path.append("/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/baseline/segmentation/")
+sys.path.append("../../../../../libs/rethinking-evs/")
 from TransNet.run_trainsnet import run_trainsnet
+from random_method_lib import run_random_methods
 
 def sampling_shot(path_video,len_shot=2):
     '''
@@ -38,6 +40,12 @@ def sampling_shot(path_video,len_shot=2):
     return name_vid, list(map(sec2time, begining_shots)), list(map(sec2time,ending_shots))
 
 def do_trainsnet(vid_path):
+    '''
+        Segment shot using TransNet Method
+        input: path of a input video
+        output: name(srt), begining time of shots (list), ending time of shots (list)
+    '''
+
     shots,total_frame = run_trainsnet(vid_path)
     vid_name = os.path.basename(vid_path)
 
@@ -49,3 +57,27 @@ def do_trainsnet(vid_path):
         begins.append(sec2time(s[0]/fps))
         ends.append(sec2time(s[1]/fps))
     return vid_name,begins,ends
+
+def do_onepeak(save_path,input_path,video_name,boundaries=[],score_path=""):
+    '''
+        Using one-peak method to segment a video
+        input:
+            save_path -- path saving the result
+            input_path -- path of input csv file
+            video_name -- name of a video
+        output:
+            the result file is saved at save_path
+    '''
+    run_random_methods(save_path,input_path,video_name,boundaries,score_path="",method='one-peak')
+
+def do_twopeak(save_path,input_path,video_name,boundaries=[],score_path=""):
+    '''
+        Using two-peak method to segment a video
+        input:
+            save_path -- path saving the result
+            input_path -- path of input csv file
+            video_name -- name of a video
+        output:
+            the result file is saved at save_path
+    '''
+    run_random_methods(save_path,input_path,video_name,boundaries,score_path="",method='two-peak')

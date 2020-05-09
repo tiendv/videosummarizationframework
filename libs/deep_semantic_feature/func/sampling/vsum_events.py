@@ -76,7 +76,7 @@ def encodeSeg(data, seg_size=4):
     feat = []
     print feat_temp.shape[0]
     print feat_temp.shape
-    for i in range(feat_temp.shape[0]-seg_size):
+    for i in range(feat_temp.shape[0]-seg_size+1):
         temp = []
         for j in range(feat_temp.shape[1]):
             total = 0

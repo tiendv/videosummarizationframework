@@ -33,3 +33,5 @@ source/src/baseline/rethinking-evs/data/*
 libs/rethinking-evs/data/*
 libs/rethinking-evs/data/
 libs/rethinking-evs/data
+__pycache__
+temp.*

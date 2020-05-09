@@ -31,9 +31,9 @@ def run_bbc_kmedoids(vid_id,k):
     for video_name in data:
         video_name = video_name.rstrip()
     print(video_name)
-    feature = create_feature(cfg.OUTPUT_PATH,cfg.PATH_DATA_REF_BBC_FILE,"video"+str(vid_id))
-    selected = run_kmedoids(feature,k,vid_id)
-    write_data(selected,cfg.PATH_EVENT_KMEDOIDS_BBC,video_name)
+    feature,total_time = create_feature(cfg.OUTPUT_PATH,cfg.PATH_DATA_REF_BBC_FILE,"video"+str(vid_id))
+    selected = run_kmedoids(feature,k,vid_id,total_time)
+    write_data(selected,cfg.PATH_EVENT_KMEDOIDS_BBC,cfg.PATH_DATA_REF_BBC_FILE,video_name)
     os.system("echo video{} >> {}/events_kmedoids.txt".format(vid_id,cfg.LOG_DIR_PATH))
 
 
@@ -46,7 +46,7 @@ def main():
     args = parser.parse_args()
 #    for i in range(args.st,args.en+1):
 #        run_bbc_kmedoids(i,args.k)
-    Parallel(n_jobs=10)( [delayed(run_bbc_kmedoids)(i,args.k) for i in range(args.st,args.en+1)] )
+    Parallel(n_jobs=-1)( [delayed(run_bbc_kmedoids)(i,args.k) for i in range(args.st,args.en+1)] )
 
 
 if __name__ == "__main__":
