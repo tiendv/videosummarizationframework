@@ -21,6 +21,8 @@ $(function(){
   showEval("SumMe","Uniform_Random_Knapsack","result_summe");
   showEval("SumMe","DSF_Kmedoids","result_summe");
   showEval("SumMe","DSF_VGG16_Kmedoids","result_summe");
+  showEval("SumMe","KTS_DSF_Kmedoids","result_summe");
+  showEval("SumMe","KTS_DSF_VGG16_Kmedoids","result_summe");
   showEval("SumMe","Rethinking_Uniform_Random_Knapsack","result_summe");
   showEval("SumMe","Randomized-KTS_GoogLeNet_Random_Knapsack","result_summe");
   showEval("SumMe","KTS_GoogLeNet_Random_Knapsack","result_summe");

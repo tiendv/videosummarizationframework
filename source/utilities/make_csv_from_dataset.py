@@ -19,7 +19,7 @@ def make_args():
 
     subparsers = parser.add_subparsers()
 
-    # A delete command
+
     new_dataset = subparsers.add_parser(
         '+newdataset', help='To create csv file for new dataset')
     new_dataset.add_argument(

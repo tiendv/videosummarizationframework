@@ -72,8 +72,8 @@ if __name__ == '__main__':
      ''' PATHS ''' 
      HOMEDATA='/mmlabstorage/datasets/SumMe/GT/'
      path_video = '/mmlabstorage/datasets/SumMe/videos'
-     data ="/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/time_segment/Rethinking/randomized-KTS"
-     path_save = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/evaluation/SumMe/Randomized-KTS_Random_Knapsack/Randomized-KTS_Random_Knapsack.json"
+     data ="/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/time_segment/dsf_kts_vgg16"
+     path_save = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/evaluation/SumMe/KTS_DSF_VGG16_Kmedoids/KTS_DSF_VGG16_Kmedoids.json"
      json_summe = {}
      videos = glob.glob(os.path.join(HOMEDATA,"*"))
      for i in range (len(videos)):
@@ -134,6 +134,7 @@ if __name__ == '__main__':
      temp["pre"] = "{:.2f}".format(float(sum(p)/len(p)))
      temp["rc"] = "{:.2f}".format(float(sum(r)/len(r)))
      temp["f1"] = "{:.2f}".format(float(sum(f1)/len(f1)))
+     print "***MEAN*** Pre:",temp["pre"],"Recall:",temp["rc"],"F1:",temp["f1"]
      data_json["mean"] = temp
      json_summe["result"] = data_json
      json_summe["thres"] = 0.5

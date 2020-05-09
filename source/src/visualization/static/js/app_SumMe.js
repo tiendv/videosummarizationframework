@@ -27,6 +27,8 @@ function load_video(file_id){
                 'json/SumMe/shots/Rethinking/segment_boundaries/randomized-KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/shots/Rethinking/segment_boundaries/uniform/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/selected/dsf_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/selected/dsf_vgg16_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/Rethinking/KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/Rethinking/one-peak/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/Rethinking/two-peak/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -138,6 +140,18 @@ function load_video(file_id){
                                 title: 'Sum[KTS_GoogLeNet_Random_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'rethinking_KTS_seg',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[KTS_GoogLeNet_DSF_Kmedoids]',
+                                type: 'segment',
+                                metadataId: 'dsf_kts',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[KTS_GoogLeNet_DSF_VGG16_Kmedoids]',
+                                type: 'segment',
+                                metadataId: 'dsf_kts_vgg16',
                                 color: '#F00'
                             },
                             {
