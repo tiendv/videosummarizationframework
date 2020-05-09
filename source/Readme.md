@@ -1,44 +1,39 @@
 # How to run a baseline for summarizing a video
 
-### Summarize a input video
-To summarize a input video using the following command
-```python
-python main_baseline.py <path_input_video> --jshot <path_json_shot> --jseg <path_json_segment>
-```
-* <path_input_video> (required) : the path of a video you want to summarize
-* <path_json_shot> (optional) : the path that the json for visualizing the shots will be saved at (default "./")
-* <path_json_segment> (optional) : the path that the json for visualizing the shots will be saved at (default "./")
+### Step 1: Segmenting video into shots
+Output: - video_name -- the name of the input video
+        - begin_list --  a begin time list of each shot
+        - endn_list --  a end time list of each shot
+        
+Import module: *from uit.mmlab.vsum.segment import segment_shot*
+* **Sampling method:**
+  
+  Call the function: *segment_shot.sampling_shot(vid_path,shot_len=2)*, where vid_path is a input video path and shot_len is the length of each shot
+* **Superframe method:**
 
-### Change the method segmenting to shots
-Replace the **spli_shot** function in *main_baseline* function with your segment function
+  Call the function: *segment_shot.do_superframe(vid_path)*, where vid_path is a input video path 
+* **Transnet method**
 
-### Change the method calculating the score for shots
-Replace the **calc_score** function in *main_baseline* function with your score function
+  Call the function: *segment_shot.do_transnet(vid_path)*, where vid_path is a input video path
 
-### Create json for visualizing shots from file
-#### File format
-The information of each shot is written in a file with the following format
-```
-<start time of shot> <end time of shot> <score of shot>
-HH:MM:SS.FFFF HH:MM:SS.FFFF float (1st shot)
-HH:MM:SS.FFFF HH:MM:SS.FFFF float (2nd shot)
-...
-HH:MM:SS.FFFF HH:MM:SS.FFFF float (nth shot)
-```
-
-example:
-```
-00:00:00.0000 00:00:02.0402 1.15
-00:00:02.0402 00:00:04.0404 1.7
-00:00:04.0404 00:00:06.0406 1.45
-00:00:06.0406 00:00:08.0407 1.55
-00:00:08.0407 00:00:10.0409 1.35
-00:00:10.0409 00:00:12.0411 1.45
-00:00:12.0411 00:00:14.0413 1.5
-00:00:14.0413 00:00:18.0417 1.55
-00:00:18.0417 00:00:20.0418 1.65
-```
-#### Using the **create_json4shots** function to create json from the above file
-```python
-from src.baseline.segmentation.create_json_from_time_shots import create_json4shots
-```
+### Step 2: Scoring for each shot
+ Import module: *from uit.mmlab.vsum.segment import score_shot*
+  output: A score list of each shot
+* **Random method:**
+  Call the function: *segment_shot.random_score(begin_list)*, where begin_list is a begin time list of each shot
+### Step3: Selecting shot for summarization using Knapsack0/1
+ Import module:  *from uit.mmlab.vsum.selection import select_shot*
+ 
+ Call the function: *select_shot.do_knapsack(vid_name,begin_list,end_list,score_list,selected_shot_file_path)* 
+ 
+ where:
+ 
+       - vid_name -- the name of the input video
+       
+       - begin_list -- a begin time list of each shot
+       
+       - end_list -- a end time list of each shot
+       
+       - score_list -- a score  list of each shot
+       
+       - selected_shot_file_path -- the path saving result json
