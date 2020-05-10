@@ -7,6 +7,7 @@ sys.path.append("../../../config")
 sys.path.append("../../../../libs/deep_semantic_feature/")
 from bbc_kmedoids_lib import run_kmedoids
 from bbc_kmedoids_lib import write_data
+from bbc_kmedoids_lib import write_name_shot
 from bbc_kmedoids_lib import create_feature
 from joblib import Parallel, delayed
 from config import cfg
@@ -21,11 +22,13 @@ def run_bbc_kmedoids(vid_id,k):
     # Author: Trivlm
     #************************************************************************
     #Check permission
+    """
     try:
         os.system("echo test > {}/test.txt".format(cfg.PATH_EVENT_KMEDOIDS_BBC))
         os.remove("{}/test.txt".format(cfg.PATH_EVENT_KMEDOIDS_BBC))
     except Exception as e:
         raise "permission deny to write in {}".format(cfg.PATH_EVENT_KMEDOIDS_BBC)
+    """
     with open(os.path.join("/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/test","video{}.txt".format(vid_id)),'r') as f:
         data = f.readlines()
     for video_name in data:
@@ -33,7 +36,7 @@ def run_bbc_kmedoids(vid_id,k):
     print(video_name)
     feature,total_time = create_feature(cfg.OUTPUT_PATH,cfg.PATH_DATA_REF_BBC_FILE,"video"+str(vid_id))
     selected = run_kmedoids(feature,k,vid_id,total_time)
-    write_data(selected,cfg.PATH_EVENT_KMEDOIDS_BBC,cfg.PATH_DATA_REF_BBC_FILE,video_name)
+    write_name_shot(selected,cfg.PATH_EVENT_KMEDOIDS_BBC,cfg.PATH_DATA_REF_BBC_FILE,video_name)
     os.system("echo video{} >> {}/events_kmedoids.txt".format(vid_id,cfg.LOG_DIR_PATH))
 
 

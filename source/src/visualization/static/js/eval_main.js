@@ -6,6 +6,11 @@ $(function(){
   showEval("TVSum","DSF_Kmedoids","result_tvsum");
   showEval("TVSum","DSF_Resnet50_Kmedoids","result_tvsum");
   showEval("TVSum","DSF_VGG16_Kmedoids","result_tvsum");
+  showEval("TVSum","KTS_DSF_Kmedoids","result_tvsum");
+  showEval("TVSum","KTS_DSF_VGG16_Kmedoids","result_tvsum");
+  showEval("TVSum","KTS_DSF_RESNET50_Kmedoids","result_tvsum");
+  showEval("TVSum","KTS_DSF_RESNET152_Kmedoids","result_tvsum");
+  showEval("TVSum","KTS_DSF_INCEPTIONV3_Kmedoids","result_tvsum");
   showEval("TVSum","KTS_GoogLeNet_Random_Knapsack","result_tvsum");
   showEval("TVSum","One-peak_Random_Knapsack","result_tvsum");
   showEval("TVSum","Randomized-KTS_GoogLeNet_Random_Knapsack","result_tvsum");

@@ -45,6 +45,11 @@ function load_video(file_id){
                 'json/TVSum/shots/SuperF/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/kf/'+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/dsf_inceptionv3_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/dsf_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/dsf_resnet50_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/dsf_resnet152_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/dsf_vgg16_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/Rethinking/uniform/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/Rethinking/one-peak/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/Rethinking/two-peak/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -177,6 +182,36 @@ function load_video(file_id){
                                 title: 'Sum[KTS_GoogLeNet_Random_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'rethinking_KTS_seg',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[KTS_DSF_Kmedoids]',
+                                type: 'segment',
+                                metadataId: 'dsf_kts',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[KTS_DSF_VGG16_Kmedoids]',
+                                type: 'segment',
+                                metadataId: 'dsf_vgg16_kts',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[KTS_DSF_RESNET50_Kmedoids]',
+                                type: 'segment',
+                                metadataId: 'dsf_resnet50_kts',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[KTS_DSF_RESNET152_Kmedoids]',
+                                type: 'segment',
+                                metadataId: 'dsf_resnet152_kts',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[KTS_DSF_INCEPTIONV3_Kmedoids]',
+                                type: 'segment',
+                                metadataId: 'dsf_inceptionv3_kts',
                                 color: '#F00'
                             },
                             {

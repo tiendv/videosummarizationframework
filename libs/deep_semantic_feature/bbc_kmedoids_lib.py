@@ -77,6 +77,13 @@ def write_data(label,path_save_txt,path_reference,real_name):
                         f.write(sec2time(time2sec(line.split("    ")[2]))+" "+sec2time(time2sec((line.split("    ")[3]).replace("\n","")))+"\n")
                         print(sec2time(time2sec(line.split("    ")[2]))+" "+sec2time(time2sec((line.split("    ")[3]).replace("\n","")))+"\n")
     print(os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"))
+def write_name_shot(label,path_save_txt,path_reference,real_name):
+    path_save_txt = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/event-kmedoids-name-shot"
+    if not os.path.isdir(os.path.join(path_save_txt,real_name.replace(".mp4",""))):
+        os.makedirs(os.path.join(path_save_txt,real_name.replace(".mp4","")))
+    with open(os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"),"w") as f:
+        for i in label:
+            f.write(i+"\n")
 def create_feature(path_csv,path_reference,video_id):
     data = []
     file_csv = [f for f in listdir(os.path.join(path_csv,video_id)) if isfile(join(os.path.join(path_csv,video_id), f))]
