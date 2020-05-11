@@ -1,16 +1,16 @@
 $(function(){
 
   // TVSum50
-  showEval("TVSum","Uniform_Random_Knapsack","result_tvsum");
+  showEval("TVSum","Uniform2s_Random_Knapsack","result_tvsum");
   showEval("TVSum","SuperFrame_Knapsack","result_tvsum");
   showEval("TVSum","DSF_Kmedoids","result_tvsum");
-  showEval("TVSum","DSF_Resnet50_Kmedoids","result_tvsum");
-  showEval("TVSum","DSF_VGG16_Kmedoids","result_tvsum");
+  showEval("TVSum","DSF-Resnet50_Kmedoids","result_tvsum");
+  showEval("TVSum","DSF-VGG16_Kmedoids","result_tvsum");
   showEval("TVSum","KTS_DSF_Kmedoids","result_tvsum");
-  showEval("TVSum","KTS_DSF_VGG16_Kmedoids","result_tvsum");
-  showEval("TVSum","KTS_DSF_RESNET50_Kmedoids","result_tvsum");
-  showEval("TVSum","KTS_DSF_RESNET152_Kmedoids","result_tvsum");
-  showEval("TVSum","KTS_DSF_INCEPTIONV3_Kmedoids","result_tvsum");
+  showEval("TVSum","KTS_DSF-VGG16_Kmedoids","result_tvsum");
+  showEval("TVSum","KTS_DSF-RESNET50_Kmedoids","result_tvsum");
+  showEval("TVSum","KTS_DSF-RESNET152_Kmedoids","result_tvsum");
+  showEval("TVSum","KTS_DSF-INCEPTIONV3_Kmedoids","result_tvsum");
   showEval("TVSum","KTS_GoogLeNet_Random_Knapsack","result_tvsum");
   showEval("TVSum","One-peak_Random_Knapsack","result_tvsum");
   showEval("TVSum","Randomized-KTS_GoogLeNet_Random_Knapsack","result_tvsum");
@@ -23,11 +23,11 @@ $(function(){
 
 
   // SumMe
-  showEval("SumMe","Uniform_Random_Knapsack","result_summe");
+  showEval("SumMe","Uniform2s_Random_Knapsack","result_summe");
   showEval("SumMe","DSF_Kmedoids","result_summe");
-  showEval("SumMe","DSF_VGG16_Kmedoids","result_summe");
+  showEval("SumMe","DSF-VGG16_Kmedoids","result_summe");
   showEval("SumMe","KTS_DSF_Kmedoids","result_summe");
-  showEval("SumMe","KTS_DSF_VGG16_Kmedoids","result_summe");
+  showEval("SumMe","KTS_DSF-VGG16_Kmedoids","result_summe");
   showEval("SumMe","Rethinking_Uniform_Random_Knapsack","result_summe");
   showEval("SumMe","Randomized-KTS_GoogLeNet_Random_Knapsack","result_summe");
   showEval("SumMe","KTS_GoogLeNet_Random_Knapsack","result_summe");
