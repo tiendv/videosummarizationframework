@@ -5,6 +5,8 @@ import os,sys,glob
 import argparse
 sys.path.append("../../../config")
 sys.path.append("../../../../libs/deep_semantic_feature/")
+sys.path.append("../../../../source/utilities/")
+from convert_time import sec2time
 from func.nets import vid_enc, vid_enc_vgg19
 from chainer import serializers
 from bbc_kmedoids_lib import run_kmedoids
@@ -12,6 +14,7 @@ from joblib import Parallel, delayed
 from config import cfg
 import pandas
 import numpy as np
+
 
 def create_feature(boundaries,feature,pretrained_model):
     #************************************************************************
@@ -67,6 +70,7 @@ def run_KTS_DSF_Kmedoids():
     path_npy = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/TVSum_processed_data/frames_feature/VGG16/'
     path_boundaries = '/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/boundaries/TVSum/'
     pretrained_model = True
+    path_save_txt = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/TVSum_processed_data/time_segment/dsf_vgg16_kts'
 
     # read data
     data = pandas.read_csv(os.path.join(cfg.VIDEO_CSV_TVSUM_PATH),header=None)
@@ -85,8 +89,29 @@ def run_KTS_DSF_Kmedoids():
 
         # run kmedoids for feature
         selected = run_kmedoids(feature,k,vid_id)
-
         print selected
+
+        # code save label 0/1 each video for evaluate
+        # label = np.zeros(boundaries[-1])
+        # for i in selected:
+        #     label[boundaries[i-1]:boundaries[i]] = 1
+        # np.save(path_label+"/"+vid_id,label)
+
+        # read dataset information to get fps 
+        fps = 0
+        data = pandas.read_csv(os.path.join(cfg.VIDEO_CSV_TVSUM_PATH),header=None)
+        for i in range(data.shape[0]):
+            if data[0][i] == vid_id+".mp4":
+                fps = float(data[2][i])
+
+        # save time output
+        if not os.path.isdir(os.path.join(path_save_txt,vid_id)):
+            os.makedirs(os.path.join(path_save_txt,vid_id))
+        with open(os.path.join(path_save_txt,vid_id,vid_id+".txt"),"w+") as f:
+            for i in selected:
+                f.write(sec2time((boundaries[i-1])/fps)+" "+sec2time(boundaries[i]/fps)+"\n")
+                print(sec2time((boundaries[i-1])/fps)+" "+sec2time(boundaries[i]/fps)+"\n")
+
 
 
 if __name__ == "__main__":
