@@ -1,7 +1,7 @@
 import os,sys,glob
 sys.path.append("../../../../libs/rethinking-evs/")
 from tools.summarizer import summarize
-from tools.io import load_tvsum_mat
+from tools.io import load_summe_mat
 from joblib import Parallel, delayed
 import pandas as pd
 from sklearn.metrics import f1_score
@@ -11,21 +11,38 @@ import numpy as np
 sys.path.append("../../../config")
 from config import cfg
 
+def get_summe_gssummary(path_gt):
+    summe_data = load_summe_mat(path_gt)
+    
+    gold_standard = []
+    for item in summe_data:
+        user_anno = item['user_anno']
+        user_anno = user_anno.T
+        user_anno = user_anno.astype(np.bool)
+        
+        gold_standard.append(
+            {
+                'gs_summary': user_anno,
+                'video': item['video'],
+                'length' : item['length'][0][0],
+                'nframes' : item['nframes'][0][0]
+            }
+        )
+        
+    return gold_standard
 
-def eval_random_summary(path_gt= '',path_label_predicted='', path_boundaries='',sum_len=.15, use_sum=False):
+def eval_random_summary(path_gt='',path_label_predicted='',sum_len=.15):
     #************************************************************************
-    # Purpose: evaluation of KTS method for dataset TVSum
+    # Purpose: evaluation of KTS method for dataset SumMe
     # Inputs:
-    # - path_gt: path ground truth of dataset TVSum
+    # - path_gt: path ground truth of dataset SumMe
     # - path_label_predicted: path file ' .npy' of label 0/1 for each frame of each video
-    # - path_boundaries: path file ' .npy' of boundaries
     # - sum_len: video length summary
-    # - use_sum: True or False || True: sum scores all frames in segment || False: average scores all frames in segment
     # Output: The dictionary save the result of evaluation
     # Author: Trivl
     #************************************************************************
-    # load dataset tvsum
-    tvsum_data = load_tvsum_mat(path_gt)
+    # load dataset summe
+    gt_summary = get_summe_gssummary(path_gt)
     result = []
     p=[]
     r=[]
@@ -33,19 +50,13 @@ def eval_random_summary(path_gt= '',path_label_predicted='', path_boundaries='',
     list_videos = []
 
     # evaluate each video
-    for item in tvsum_data:
-        user_anno = item['user_anno'].T
-        n_fr = user_anno.shape[1]
-        
-        # get segment
-        segment = np.load(path_boundaries+"/"+item['video']+".npy")
-        
+    for item in gt_summary:
         # get 0/1 label for each frame from all user_annotation
-        gs_summary = [summarize(x, segment, int(n_fr * sum_len), use_sum=use_sum) for x in user_anno]
-        gs_summary = np.vstack(gs_summary)
+        gs_summary = item['gs_summary']
+        n_fr = gs_summary.shape[1]
 
         # get 0/1 label for each frame which was predicted
-        rand_summary =  np.load(path_label_predicted+"/"+item['video']+".npy")
+        rand_summary = np.load(path_label_predicted+"/"+item['video']+".npy")
 
         # get precision , recall and f1 score
         score = [f1_score(x, rand_summary) for x in gs_summary]
@@ -63,7 +74,7 @@ def eval_random_summary(path_gt= '',path_label_predicted='', path_boundaries='',
 
     # save the evaluation as json
     data_json= {}
-    json_tvsum = {}
+    json_summe = {}
     for i in range(len(list_videos)):
          temp = {}
          temp["pre"] = "{:.2f}".format(p[i])
@@ -75,11 +86,9 @@ def eval_random_summary(path_gt= '',path_label_predicted='', path_boundaries='',
     temp["rc"] = "{:.2f}".format(float(sum(r)/len(r)))
     temp["f1"] = "{:.2f}".format(float(sum(f1)/len(f1)))
     data_json["mean"] = temp
-    json_tvsum["result"] = data_json
-    json_tvsum["thres"] = 0.5
-    print (json_tvsum)
-
+    json_summe["result"] = data_json
+    json_summe["thres"] = 0.5
+    print (json_summe)
 
 if __name__=='__main__':
-    eval_random_summary(path_gt = cfg.PATH_GT_TVSUM50,path_label_predicted=cfg.PATH_LABEL_PREDICTED,path_boundaries= cfg.PATH_BOUNDARIES,sum_len=.15, use_sum=False)
-
+    eval_random_summary(path_gt=cfg.PATH_GT_SUMME,path_label_predicted=cfg.PATH_LABEL_PREDICTED,sum_len=.15)
