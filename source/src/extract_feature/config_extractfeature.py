@@ -1,1 +1,1 @@
-/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/config/config_extractfeature.py
+videosummarizationframework/source/config/config_extractfeature.py
