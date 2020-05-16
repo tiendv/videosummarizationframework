@@ -46,6 +46,7 @@ This class is inheritance of ExtractFeatureVideo.
 ``
 
 ### Extract Feature Folder Images
+
 This class is inheritance of ExtractFeatureVideo.
 
 `` module = ExtractFeatureFolderImages(folder_images,sampling_rate=int,device_name='str')
@@ -57,7 +58,8 @@ This class is inheritance of ExtractFeatureVideo.
 `` feature.save(path_to_save)
 ``
 
-### Extract Feature Folder Images
+### Extract Feature Images
+
 This class is inheritance of ExtractFeatureVideo.
 
 `` module = ExtractFeatureImages(list_image,name_of_file,sampling_rate=int,device_name='str')
@@ -68,6 +70,7 @@ This class is inheritance of ExtractFeatureVideo.
 
 `` feature.save(path_to_save)
 ``
+
 ---
 
 ## Usage CNN.py script
@@ -109,7 +112,7 @@ Use command ``python CNN.py --help`` or ``python CNN.py -h``  for see full argum
 
 Include positional arguments, and have three optional ``+Video`` and ``+Dataset`` and ``+Images``
 
-``+Video``
+#### ``+Video``
 
 + __*Method**__ : Name of CNN
 
@@ -124,7 +127,7 @@ Include positional arguments, and have three optional ``+Video`` and ``+Dataset`
 + __*-s or --save*__: Path to save feature data to file, default=None.
     + Example: ``python CNN.py video -uts +Video resnet152 /path/to/video.mp4 -sr 2 -d 1 -s path/to/folder/save/ -l fc1``
 
-``+DataSet``
+#### ``+DataSet``
 
 + _*Method*_ : Name of CNN
 
@@ -147,7 +150,7 @@ _*To use on another dataset. Try to use file utilities/make_csv_from_dataset.py 
 ``python make_csv_from_dataset.py +newdataset dataset_name /path/to/folder/video /path/to/folder/out``
 
 
-``+Images``
+#### ``+Images``
 
 + __*Method**__ : Name of CNN
 
@@ -162,6 +165,14 @@ _*To use on another dataset. Try to use file utilities/make_csv_from_dataset.py 
 + __*-s or --save*__: Path to save feature data to file, default=None.
 
     + Example: ``python CNN.py images -uts +Images inceptionv1 /path/to/folder -sr 2 -d 1 -s path/to/folder/save/ -l fc1``
+
+#### Example full command:
+
+-  ``python CNN.py video -uts +Video resnet152 /path/to/video.mp4 -sr 2 -d 1 -s path/to/folder/save/ -l fc1``
+
+- ``python CNN.py dataset -uts +DataSet resnet152 bbc /path/folder/out -f 12 -e 35 -sr 2 -d 2``
+
+- ``python CNN.py images -uts +Images inceptionv1 /path/to/folder -sr 2 -d 1 -s path/to/folder/save/ -l fc1``
 
 ---
 
