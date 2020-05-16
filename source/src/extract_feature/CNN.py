@@ -1,6 +1,6 @@
 """
 Code Feature Extract VGG-ResNet-Inception
-Version: 0.3
+Version: 0.4
 Author: ThinhPLG - 29/04/2020
 ++++++++++++++++++++++++++++++
 Log update:
@@ -9,27 +9,32 @@ Log update:
 
     0.3 Update:
     + Add class for pytorch pretrain model
-"""
 
+    0.4 Update:
+    + Add class ExtractFeatureFolderImages and ExtractFeatureImages
+    + Add config file on /mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/config
+    + Modify main function: Can use this script or load from config file above
+"""
 import sys
-import tensorflow as tf
 import os
+
 import numpy as np
 import cv2 
 from PIL import Image
 from tqdm import tqdm
 import logging
 import time
-#import datetime
+from tabulate import tabulate
 import argparse
 
 #keras import
+import tensorflow as tf
 from keras.preprocessing import image
 from keras.applications import vgg16,vgg19,resnet,inception_v3,resnet_v2
 from keras.models import Model
 from keras.layers import Layer
 
-#torch import 
+#torch import
 import torch
 import torchvision
 import torch.nn as nn
@@ -41,11 +46,11 @@ from torch.cuda import set_device
 VIDEOSUM_FW_PATH ="/mmlabstorage/workingspace/VideoSum/videosummarizationframework/"
 sys.path.append(os.path.join(VIDEOSUM_FW_PATH,'source/config')) #config path append
 sys.path.append(os.path.join(VIDEOSUM_FW_PATH,'source/utilities'))
-from config import cfg
+from config_extractfeature import cfg_ef
 from check_permission import check_permission_to_write
 from parse_csv import get_metadata
 from timerun import exec_time_func
-
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = cfg_ef.TENSORFLOW_DEBUGGING_CODE
 #make log file
 
 logging.basicConfig(level=logging.DEBUG,
@@ -195,7 +200,7 @@ class ExtractFeatureVideo(Feature):
         Returns:
             [Feature Object] -- Return Feature Object from function _process. 
         """ 
-        self.method = 'resnet50'
+        self._method = 'resnet50'
         self._framework = 'tensorflow'
         self._device = '/device:'+self._device
         base_model = resnet.ResNet50(weights='imagenet')
@@ -280,7 +285,7 @@ class ExtractFeatureVideo(Feature):
             #    logging.error(e)
         elif self._framework == 'pytorch':  #check if framework is pytorch and call tensorflow function
             feat = self.__process_video_pytorch()
-        return Feature(feat,self._namefile,self.method,self._sampling_rate)  #Feature class
+        return Feature(feat,self._namefile,self._method,self._sampling_rate)  #Feature class
 
     def __process_video_pytorch(self):
         """Process video if it is pytorch pretrain model
@@ -312,7 +317,7 @@ class ExtractFeatureVideo(Feature):
             frame_feat = res_pool5.cpu().data.numpy().flatten()     #Convert from tensor(pytorch) to numpy array
             feature.append(frame_feat) 
 
-        return Feature(feature,self._namefile,self.method,self._sampling_rate)
+        return Feature(feature,self._namefile,self._method,self._sampling_rate)
 
     def __process_video_tensorflow(self):
         """Process video if it is pytorch pretrain model
@@ -401,7 +406,7 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
             #    logging.error(e)
         elif self._framework is 'pytorch':
             feat = self.__process_dataset_pytorch()
-        return Feature(feat,self._namefile,self.method,self._sampling_rate)
+        return Feature(feat,self._namefile,self._method,self._sampling_rate)
 
     def __process_dataset_pytorch(self):
         #overwrite function process of class ExtractFeatureVideo
@@ -517,20 +522,186 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
         _feature = self.model.predict(img_data)
         return _feature
 
+#This class use to extract feature for all frame from a folder. Inheritance class ExtractFeatureVideo
+class ExtractFeatureFolderImages(ExtractFeatureVideo):
+    def __init__(self,folder_images,sampling_rate=1,device_name='0'):
+        """Init function
+
+        Arguments:
+            ExtractFeatureVideo {Class} -- Inheritance Class
+            folder_images {string} -- folder storage all images
+
+        Keyword Arguments:
+            sampling_rate {int} -- sampling rate (default: {1})
+            device_name {str} -- device to run (default: {'0'})
+        """
+        
+        os.environ['CUDA_VISIBLE_DEVICES']=device_name      #Set device envroment to use if system have multi device
+        self._folder_images = folder_images
+        self._namefile = os.path.basename(self._folder_images)  #get file name: Folder name      
+        self._samplingRate = sampling_rate
+        self._device = 'GPU:'+device_name           #Return tensorflow form device GPU:x with x is index of GPU
+
+    def _process(self):
+        #overwrite function process of class ExtractFeatureVideo
+        if self._framework is 'tensorflow':
+            #try:
+            #    with tf.device(self._device):
+            feat = self.__process_dataset_tensorflow()
+            #except RuntimeError as e:
+            #    logging.error(e)
+        elif self._framework is 'pytorch':
+            feat = self.__process_dataset_pytorch()
+        return Feature(feat,self._namefile,self._method,self._samplingRate)
+
+    def __process_dataset_pytorch(self):
+        #overwrite function process of class ExtractFeatureVideo
+        listImages = self._read_infomation_from_folder()    #get name of all frames (sorted)
+        feature = []
+        sam = self._samplingRate
+        it = 0
+        for image in tqdm(listImages):
+            path = os.path.join(self._folder_images,image)
+            img = cv2.imread(path)        #read image
+            it+=1
+            if ((it-1)%sam) != 0:
+                continue
+            frame = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)    #convert RGB
+            frame = cv2.resize(frame, self.imageSize)       #Resize image
+            frame_feature = self.model(frame)                   #Extract from model
+            frame_feat = frame_feature.cpu().data.numpy().flatten()     #Convert from tensor(pytorch) to numpy array
+            feature.append(frame_feat)
+        return feature
+
+    def __process_dataset_tensorflow(self):
+        #overwrite function process of class ExtractFeatureVideo
+        listImages = self._read_infomation_from_folder()
+        feature = []
+        sam = self._samplingRate
+        it = 0
+        for image in tqdm(listImages):
+            path = os.path.join(self._folder_images,image)
+            img = cv2.imread(path)        #read image
+            it+=1
+            if ((it-1)%sam) != 0:
+                continue
+            _feat = self.__extract(img)      #extract 
+            feature.append(_feat)
+        result = np.asarray(feature)
+        result = np.squeeze(result)
+        return result
+
+    def _read_infomation_from_folder(self):
+        #Read all name of images on folder and sort them
+        frames = [f for f in os.listdir(self._folder_images)]
+        frames.sort(key= lambda x: os.path.splitext(os.path.basename(x))[0])
+        return frames
+
+    def __extract(self,input_image):
+        #overwrite function process of class ExtractFeatureVideo
+        #Extract feature from image                
+        img = Image.fromarray(input_image)
+        img = img.resize(self.imageSize)
+        img_data = image.img_to_array(img)
+        img_data = np.expand_dims(img_data, axis=0)
+        img_data = self.preinput(img_data)
+        _feature = self.model.predict(img_data)
+        return _feature
+
+class ExtractFeatureImages(ExtractFeatureVideo):
+    def __init__(self,list_image,name_of_file,sampling_rate=1,device_name='0'):
+        """Init function
+
+        Arguments:
+            ExtractFeatureVideo {Class} -- Inheritance Class
+            folder_images {string} -- folder storage all images
+
+        Keyword Arguments:
+            sampling_rate {int} -- sampling rate (default: {1})
+            device_name {str} -- device to run (default: {'0'})
+        """
+        os.environ['CUDA_VISIBLE_DEVICES']=device_name      #Set device envroment to use if system have multi device
+        self._list_images = list_images
+        self._namefile = name_of_file     
+        self._samplingRate = sampling_rate
+        self._device = 'GPU:'+device_name           #Return tensorflow form device GPU:x with x is index of GPU
+
+    def _process(self):
+        #overwrite function process of class ExtractFeatureVideo
+        if self._framework is 'tensorflow':
+            #try:
+            #    with tf.device(self._device):
+            feat = self.__process_dataset_tensorflow()
+            #except RuntimeError as e:
+            #    logging.error(e)
+        elif self._framework is 'pytorch':
+            feat = self.__process_dataset_pytorch()
+        return Feature(feat,self._namefile,self._method,self._samplingRate)
+
+    def __process_dataset_pytorch(self):
+        #overwrite function process of class ExtractFeatureVideo
+        listImages = self._list_images    #get name of all frames (sorted)
+        feature = []
+        sam = self._samplingRate
+        it = 0
+        for image in tqdm(listImages):
+            #path = os.path.join(self._folder_images,image)
+            img = cv2.imread(image)        #read image
+            it+=1
+            if ((it-1)%sam) != 0:
+                continue
+            frame = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)    #convert RGB
+            frame = cv2.resize(frame, self.imageSize)       #Resize image
+            frame_feature = self.model(frame)                   #Extract from model
+            frame_feat = frame_feature.cpu().data.numpy().flatten()     #Convert from tensor(pytorch) to numpy array
+            feature.append(frame_feat)
+        return feature
+
+    def __process_dataset_tensorflow(self):
+        #overwrite function process of class ExtractFeatureVideo
+        listImages = self._list_images
+        feature = []
+        sam = self._samplingRate
+        it = 0
+        for image in tqdm(listImages):
+            #path = os.path.join(self._folder_images,image)
+            img = cv2.imread(image)        #read image
+            it+=1
+            if ((it-1)%sam) != 0:
+                continue
+            _feat = self.__extract(img)      #extract 
+            feature.append(_feat)
+        result = np.asarray(feature)
+        result = np.squeeze(result)
+        return result
+
+    def __extract(self,input_image):
+        #overwrite function process of class ExtractFeatureVideo
+        #Extract feature from image                
+        img = Image.fromarray(input_image)
+        img = img.resize(self.imageSize)
+        img_data = image.img_to_array(img)
+        img_data = np.expand_dims(img_data, axis=0)
+        img_data = self.preinput(img_data)
+        _feature = self.model.predict(img_data)
+        return _feature
+
+
 def args_define():
     """Fuction to define arguments
     """    
     parser = argparse.ArgumentParser(description='EXTRACT FEATURE TOOLs')
 
     parser.add_argument(
-        'Method', action='store',type=str, help='Method use to extract. Example: Inceptionv1, ResNet50, ResNet151, VGG16, VGG19')
+        'DataType', action='store',type=str, help='Choose data type to run. Dataset, Video, Images')
     parser.add_argument(
-        'InputType', action='store',type=str, help='Choose input type:Video or Dataset. Example: video, v, V, Dataset')    
+        '-uts','--Use_This_Script', action='store_true',default=False, help='Flag, If wanna use this script to run')
     subparsers = parser.add_subparsers()
-
 
     video = subparsers.add_parser(
         '+Video', help='Extract Feature for a VIDEO')
+    video.add_argument(
+        'Method', action='store',type=str, help='Method use to extract. Example: Inceptionv1, ResNet50, ResNet151, VGG16, VGG19')    
     video.add_argument(
         'VideoPath', action='store',type=str, help='Path to video')
     video.add_argument(
@@ -546,6 +717,8 @@ def args_define():
     dataset = subparsers.add_parser(
         '+DataSet', help='Extract Feature for a DataSet')
     dataset.add_argument(
+        'Method', action='store',type=str, help='Method use to extract. Example: Inceptionv1, ResNet50, ResNet151, VGG16, VGG19')
+    dataset.add_argument(
         'DataSetName', action='store',type=str, help='Name of dataset')
     dataset.add_argument(
         'OutputPath', action='store',type=str, help='Folder output path')
@@ -559,6 +732,22 @@ def args_define():
         '-d','--device', action='store',type=str,default='0', help='Device use to run')
     dataset.add_argument(
         '-l','--layer', action='store',type=str,default=None, help='Layer of CNN. (Optional: Only support Keras model)')
+    
+    images = subparsers.add_parser(
+        '+Images', help='Extract Feature for a folder of images')
+    images.add_argument(
+        'Method', action='store',type=str, help='Method use to extract. Example: Inceptionv1, ResNet50, ResNet151, VGG16, VGG19')
+    images.add_argument(
+        'DataFolder', action='store',type=str, help='Folder store images')
+    images.add_argument(
+        '-sr','--samplingRate', action='store',default=1,type=int, help='Sampling Rate')
+    images.add_argument(
+        '-d','--device', action='store',type=str,default='0', help='Device use to run')
+    images.add_argument(
+        '-s','--save', action='store',type=str, help='Path to save result')
+    images.add_argument(
+        '-l','--layer', action='store',type=str,default=None, help='Layer of CNN. (Optional: Only support Keras model)')
+
     args = parser.parse_args()
     return args
 
@@ -604,10 +793,9 @@ def choose_method(module,name_method,lay):
             return module.VGG19()
     else:
         print("Error on function `choose_method`: Check name method again!!!")
-def main():
-    args = args_define()
-    print(args)
-    if args.InputType == 'v' or args.InputType == 'V' or args.InputType == 'Video':
+
+def run_this_script(args):
+    if args.DataType == 'v' or args.DataType == 'V' or args.DataType == 'Video'or args.DataType == 'video':
         try:
             if args.VideoPath is not None:
                 module = ExtractFeatureVideo(args.VideoPath,sampling_rate=args.samplingRate,device_name=args.device)
@@ -616,15 +804,83 @@ def main():
                     feature.save(args.save)
         except NameError as e:
             print(e,'Error: Must to input VideoPath')
-    else:
+    elif args.DataType == 'D' or args.DataType == 'd' or args.DataType == 'Dataset' or args.DataType == 'dataset':
         try:
             print(args.DataSetName,args.OutputPath)
             if args.DataSetName != '':#and args.OutputPath != None:
                 module = ExtractFeatureDataSet(args.DataSetName,args.OutputPath,from_id=args.fromid,to_id=args.endid,sampling_rate=args.samplingRate,device_name=args.device)
                 choose_method(module,args.Method,args.layer)
-                print("da co dataset")
         except NameError as e:
             print(e,'Error: Must to input DataSetName and OutputPath')
+    elif args.DataType == 'I' or args.DataType == 'i' or args.DataType == 'images' or args.DataType == 'Images':
+        try:
+            if args.DataFolder is not None:
+                module = ExtractFeatureFolderImages(args.DataFolder,sampling_rate=args.samplingRate,device_name=args.device)
+                feature = choose_method(module,args.Method,args.layer)
+                if args.save is not None:
+                    feature.save(args.save)
+        except NameError as e:
+            print(e,'Error: Must to input VideoPath')
+    else:
+        print("Error: Check again parameter for run or use --help for more infomation.")
+         
+
+def print_config_value(type):
+
+    if type == 'dataset':
+        print(tabulate([['NAME_CNN', cfg_ef.NAME_CNN], 
+                        ['LAYER_CNN', cfg_ef.LAYER_CNN],
+                        ['DATASET_NAME',cfg_ef.DATASET_NAME],
+                        ['DATASET_OUTPUT_PATH',cfg_ef.DATASET_OUTPUT_PATH],
+                        ['DATASET_FROM_VIDEO',cfg_ef.DATASET_FROM_VIDEO],
+                        ['DATASET_TO_VIDEO',cfg_ef.DATASET_TO_VIDEO],
+                        ['DATASET_SAMPLING_RATE',cfg_ef.DATASET_SAMPLING_RATE],
+                        ['DATASET_DEVICE_NAME',cfg_ef.DATASET_DEVICE_NAME]], 
+            headers=['Variable Name', 'Value'], tablefmt='orgtbl'))
+    elif type == 'video':
+        print(tabulate([['NAME_CNN', cfg_ef.NAME_CNN], 
+                ['LAYER_CNN', cfg_ef.LAYER_CNN],
+                ['VIDEO_PATH',cfg_ef.VIDEO_PATH],
+                ['VIDEO_SAMPLING_RATE',cfg_ef.VIDEO_SAMPLING_RATE],
+                ['VIDEO_OUTPUT_PATH',cfg_ef.VIDEO_OUTPUT_PATH],
+                ['VIDEO_DEVICE_NAME',cfg_ef.VIDEO_DEVICE_NAME]],
+            headers=['Variable Name', 'Value'], tablefmt='orgtbl'))
+    elif type == 'images':
+        print(tabulate([['NAME_CNN', cfg_ef.NAME_CNN], 
+                ['LAYER_CNN', cfg_ef.LAYER_CNN],
+                ['IMAGES_FOLDER',cfg_ef.IMAGES_FOLDER],
+                ['IMAGES_OUTPUT_PATH',cfg_ef.IMAGES_OUTPUT_PATH],
+                ['IMAGES_SAMPLING_RATE',cfg_ef.IMAGES_SAMPLING_RATE],
+                ['IMAGES_DEVICE_NAME',cfg_ef.IMAGES_DEVICE_NAME]],
+            headers=['Variable Name', 'Value'], tablefmt='orgtbl')) 
+    else:
+        print("Error: Check name of DataType again. [Dataset, Video, Images]")
+        sys.exit()
+
+def main():
+    args = args_define()
+    if args.Use_This_Script == False:
+        name_type = str(args.DataType).lower()
+        print_config_value(name_type)
+        if name_type == 'dataset':
+            module = ExtractFeatureDataSet(cfg_ef.DATASET_NAME,cfg_ef.DATASET_OUTPUT_PATH,cfg_ef.DATASET_FROM_VIDEO,cfg_ef.DATASET_TO_VIDEO,cfg_ef.DATASET_SAMPLING_RATE, cfg_ef.DATASET_DEVICE_NAME)
+            choose_method(module,cfg_ef.NAME_CNN,cfg_ef.LAYER_CNN)
+        elif name_type == 'video':
+            module = ExtractFeatureVideo(cfg_ef.VIDEO_PATH,cfg_ef.VIDEO_SAMPLING_RATE, cfg_ef.VIDEO_DEVICE_NAME)
+            feature = choose_method(module,cfg_ef.NAME_CNN,cfg_ef.LAYER_CNN)
+            feature.save(cfg_ef.VIDEO_OUTPUT_PATH)
+        elif name_type == 'images':
+            module = ExtractFeatureFolderImages(cfg_ef.IMAGES_FOLDER, cfg_ef.IMAGES_SAMPLING_RATE, cfg_ef.IMAGES_DEVICE_NAME)
+            feature = choose_method(module,cfg_ef.NAME_CNN,cfg_ef.LAYER_CNN)
+            feature.save(cfg_ef.IMAGES_OUTPUT_PATH)
+        else:
+            print("Error: Check name of DataType again. [Dataset, Video, Images]")
+            sys.exit()
+    else:
+        print(args)
+        run_this_script(args)
+
+
 
 if __name__ == '__main__':
     main()
