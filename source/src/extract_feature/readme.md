@@ -1,5 +1,5 @@
 # CNN.py (Convolutional Neural Network Feature Extractor)
-__Version__: 0.3
+__Version__: 1.0
 ## Requirements
 The main library
 ``` bash
@@ -13,7 +13,9 @@ and more . . .
 ````
 ___
 ## Usage on another script
-Two class ``ExtractFeatureVideo`` and ``ExtractFeatureDataSet``
+Four class ``ExtractFeatureVideo``,  ``ExtractFeatureDataSet``, 
+``ExtractFeatureFolderImages``, 
+``ExtractFeatureImages``, 
 
 Import to use
 
