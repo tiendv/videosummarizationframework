@@ -1,12 +1,10 @@
+import h5py
+import scipy.io as sio
 
-def  add(a,b):
-    return a+b
+path = "/mmlabstorage/workingspace/VideoSum/thinhplg/LSTM/data/Data_TVSum_google_p5.h5"
+kts_tvsum = "/mmlabstorage/workingspace/VideoSum/thinhplg/LSTM/data/shot_TVSum.mat"
 
-def  mul(a,b,c):
-    return a*b*c
-
-def test(func,*argv):
-    print(func(*argv))
-
-test(add,5,7)
-test(mul,4,5,6)
+f = h5py.File(path, 'r')
+# print(list(f.keys()))
+_tvsum_shot_boundaries = sio.loadmat(kts_tvsum)
+print(list(_tvsum_shot_boundaries.keys()))

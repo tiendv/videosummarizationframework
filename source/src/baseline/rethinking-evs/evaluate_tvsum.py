@@ -10,7 +10,7 @@ from sklearn.metrics import recall_score
 import numpy as np
 sys.path.append("../../../config")
 from config import cfg
-
+import json
 
 def eval_random_summary(path_gt= '',path_label_predicted='', path_boundaries='',sum_len=.15, use_sum=False):
     #************************************************************************
@@ -78,8 +78,9 @@ def eval_random_summary(path_gt= '',path_label_predicted='', path_boundaries='',
     json_tvsum["result"] = data_json
     json_tvsum["thres"] = 0.5
     print (json_tvsum)
-
+#    with open('/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/evaluation/TVSum/Two-Peak_VASNet_Knapsack/Two-Peak_VASNet_Knapsack.json', 'w') as f:
+#        json.dump(json_tvsum, f)
 
 if __name__=='__main__':
-    eval_random_summary(path_gt = cfg.PATH_GT_TVSUM50,path_label_predicted=cfg.PATH_LABEL_PREDICTED,path_boundaries= cfg.PATH_BOUNDARIES,sum_len=.15, use_sum=False)
+    eval_random_summary(path_gt = cfg.PATH_GT_TVSUM50,path_label_predicted="/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/label/tvsum_kts_vasnet_knapsack",path_boundaries= "/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/boundaries/TVSum/KTS",sum_len=.15, use_sum=False)
 

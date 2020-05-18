@@ -3,19 +3,29 @@ $(function(){
   // TVSum50
   showEval("TVSum","Uniform2s_Random_Knapsack","result_tvsum");
   showEval("TVSum","SuperFrame_Knapsack","result_tvsum");
-  showEval("TVSum","DSF_Kmedoids","result_tvsum");
-  showEval("TVSum","DSF-Resnet50_Kmedoids","result_tvsum");
-  showEval("TVSum","DSF-VGG16_Kmedoids","result_tvsum");
+  showEval("TVSum","Uniform2s_DSF_Kmedoids","result_tvsum");
+  showEval("TVSum","Uniform2s_DSF-Resnet50_Kmedoids","result_tvsum");
+  showEval("TVSum","Uniform2s_DSF-VGG16_Kmedoids","result_tvsum");
   showEval("TVSum","KTS_DSF_Kmedoids","result_tvsum");
   showEval("TVSum","KTS_DSF-VGG16_Kmedoids","result_tvsum");
   showEval("TVSum","KTS_DSF-RESNET50_Kmedoids","result_tvsum");
   showEval("TVSum","KTS_DSF-RESNET152_Kmedoids","result_tvsum");
   showEval("TVSum","KTS_DSF-INCEPTIONV3_Kmedoids","result_tvsum");
   showEval("TVSum","KTS_GoogLeNet_Random_Knapsack","result_tvsum");
+  showEval("TVSum","KTS_GoogLeNet_DR-DSN_Knapsack","result_tvsum");
+  showEval("TVSum","KTS_GoogLeNet_VASNet_Knapsack","result_tvsum");
   showEval("TVSum","One-peak_Random_Knapsack","result_tvsum");
-  showEval("TVSum","Randomized-KTS_GoogLeNet_Random_Knapsack","result_tvsum");
-  showEval("TVSum","Rethinking_Uniform_Random_Knapsack","result_tvsum");
+  showEval("TVSum","One-peak_DR-DSN_Knapsack","result_tvsum");
+  showEval("TVSum","One-peak_VASNet_Knapsack","result_tvsum");
   showEval("TVSum","Two-peak_Random_Knapsack","result_tvsum");
+  showEval("TVSum","Two-peak_DR-DSN_Knapsack","result_tvsum");
+  showEval("TVSum","Two-peak_VASNet_Knapsack","result_tvsum");
+  showEval("TVSum","Randomized-KTS_GoogLeNet_Random_Knapsack","result_tvsum");
+  showEval("TVSum","Randomized-KTS_GoogLeNet_DR-DSN_Knapsack","result_tvsum");
+  showEval("TVSum","Randomized-KTS_GoogLeNet_VASNet_Knapsack","result_tvsum");
+  showEval("TVSum","Rethinking_Uniform_Random_Knapsack","result_tvsum");
+  showEval("TVSum","Rethinking_Uniform_DR-DSN_Knapsack","result_tvsum");
+  showEval("TVSum","Rethinking_Uniform_VASNet_Knapsack","result_tvsum");
 
 
 
@@ -29,10 +39,20 @@ $(function(){
   showEval("SumMe","KTS_DSF_Kmedoids","result_summe");
   showEval("SumMe","KTS_DSF-VGG16_Kmedoids","result_summe");
   showEval("SumMe","Rethinking_Uniform_Random_Knapsack","result_summe");
+  showEval("SumMe","Rehinking_Uniform_DR-DSN_Knapsack","result_summe");
+  showEval("SumMe","Rethinking_Uniform_VASNet_Knapsack","result_summe");
   showEval("SumMe","Randomized-KTS_GoogLeNet_Random_Knapsack","result_summe");
+  showEval("SumMe","Randomized-KTS_GoogLeNet_DR-DSN_Knapsack","result_summe");
+  showEval("SumMe","Randomized-KTS_GoogLeNet_VASNet_Knapsack","result_summe");
   showEval("SumMe","KTS_GoogLeNet_Random_Knapsack","result_summe");
+  showEval("SumMe","KTS_GoogLeNet_DR-DSN_Knapsack","result_summe");
+  showEval("SumMe","KTS_GoogLeNet_VASNet_Knapsack","result_summe");
   showEval("SumMe","One-peak_Random_Knapsack","result_summe");
+  showEval("SumMe","One-peak_DR-DSN_Knapsack","result_summe");
+  showEval("SumMe","One-peak_VASNet_Knapsack","result_summe");
   showEval("SumMe","Two-peak_Random_Knapsack","result_summe");
+  showEval("SumMe","Two-peak_DR-DSN_Knapsack","result_summe");
+  showEval("SumMe","Two-peak_VASNet_Knapsack","result_summe");
 
 });
 

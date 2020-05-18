@@ -1,3 +1,19 @@
 {
-    "python.pythonPath": "/home/sum/anaconda3/envs/deep-vsum/bin/python"
+    "terminal.integrated.inheritEnv": false,
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "window.zoomLevel": 0,
+    "terminal.explorerKind": "external",
+    "workbench.colorTheme": "Dracula Refined",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontFamily": "'SourceCodePro', 'monospace', monospace, 'SourceCodePro'",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "sync.gist": "b9ae9103599d556bd126b62db874dd62",
+    "editor.quickSuggestions": true,
+    "vsintellicode.modify.editor.suggestSelection":"enabled",
+    "vsintellicode.python.completionsEnabled": true,
+    "python.terminal.activateEnvironment": false
 }

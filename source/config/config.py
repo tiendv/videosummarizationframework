@@ -76,3 +76,4 @@ __C.PATH_JSON_SELECT_GT_SUMME = BASIC_DIR + "source/src/visualization/static/jso
 __C.PATH_JSON_SELECT_RANDOM_SUMME = BASIC_DIR + "source/src/visualization/static/json/SumMe/selected/Random"
 __C.PATH_JSON_SELECT_DSF_VGG16_SUMME = BASIC_DIR + "source/src/visualization/static/json/SumMe/selected/dsf_vgg16"
 __C.PATH_EVALUATE_SUMME = BASIC_DIR + "source/src/visualization/static/evaluation/SumMe"
+__C.PATH_GT_SUMME = BASIC_DIR + "source/src/visualization/static/SumMe/GT"

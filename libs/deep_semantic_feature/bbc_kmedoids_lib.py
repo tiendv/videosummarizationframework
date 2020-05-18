@@ -77,12 +77,14 @@ def write_data(label,path_save_txt,path_reference,real_name):
                         f.write(sec2time(time2sec(line.split("    ")[2]))+" "+sec2time(time2sec((line.split("    ")[3]).replace("\n","")))+"\n")
                         print(sec2time(time2sec(line.split("    ")[2]))+" "+sec2time(time2sec((line.split("    ")[3]).replace("\n","")))+"\n")
     print(os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"))
+
 def write_name_shot(label,path_save_txt,path_reference,real_name):
     path_save_txt = "/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/time_shots_bbc/event-kmedoids-name-shot"
     if not os.path.isdir(os.path.join(path_save_txt,real_name.replace(".mp4",""))):
         os.makedirs(os.path.join(path_save_txt,real_name.replace(".mp4","")))
     with open(os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"),"w") as f:
         for i in label:
+            print(i+"\n")
             f.write(i+"\n")
 def create_feature(path_csv,path_reference,video_id):
     data = []
@@ -145,12 +147,13 @@ def create_feature(path_csv,path_reference,video_id):
             vector.append(temp)
     return np.array(vector),totals
 
+"""
 def run_kmedoids(data,k,video_id,totals):
     seg_l = 1
     fps = 1
     video_id = "video"+str(video_id)
 
-    duration = int(np.array(data).shape[0])
+    duration = int(np.array(data).shape[0]+1)
     k = int(totals*0.15/float(totals/float(np.array(data).shape[0])))
     with configuration.using_config('train', False):
         with chainer.no_backprop_mode():
@@ -159,17 +162,25 @@ def run_kmedoids(data,k,video_id,totals):
 
     _, frames, _ = vsum.summarizeRep(weights=[1.0, 0.0],seg_l=seg_l)
     temp = []
-
+    print frames
     for i in range(len(frames)):
         if (len(frames[i])>0):
             temp.append("shot"+str(video_id.replace("video",""))+"_"+str(int(frames[i][0][0:-4])))
     frames = temp
     return frames
-    # get 0/1 label for each frame
-    fps = vsum.dataset.data['fps']
-    fnum = vsum.dataset.data['fnum']
-    label = get_flabel(frames, fnum, fps, seg_l=seg_l)
-    label = label.ravel().astype(np.bool)
+"""
+def run_kmedoids(data,k,video_id):
+    seg_l = 1
+    fps = 1
 
+    duration = int(np.array(data).shape[0]+1)
 
+    with configuration.using_config('train', False):
+        with chainer.no_backprop_mode():
+            ### k-medoids
+            vsum = VSUM( video_id,data,duration,k,seg_l,fps)
+
+    _, frames, _ = vsum.summarizeRep(weights=[1.0, 0.0],seg_l=seg_l)
+    selected = [int(i[0][0:-4]) for i in frames]
+    return selected
 

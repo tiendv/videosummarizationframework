@@ -68,17 +68,17 @@ if __name__ == '__main__':
     # path_video = "src/visualization/static/TVSum50/ydata-tvsum50-v1_1/video/sTEELN-vY30.mp4"  
     # sum_video(path_video)
 
-    path_txt = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/TVSum_processed_data/time_segment/dsf_vgg16_kts'
-    path_json = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/json/TVSum/selected/dsf_vgg16_kts'
+    path_txt = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/time_segment/KTS_VASNet_Knapsack'
+    path_json = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/json/SumMe/selected/KTS_VASNet_Knapsack'
 #create_shot_json(json_path, vid_name,begin_list,score_list=None,json_id="shot_gt")
     for path, subdirs, files in os.walk(path_txt):
         for name in files:
             name = name.replace(".txt","")
 #            print (name)
 #            print (os.path.join(path_txt,name,name+".txt"))
-#            create_json.create_json_selections(os.path.join(path_txt,name,name+".txt"), saved_json_path=path_json,id_json = 'dsf_vgg16_kts')
+            create_json.create_json_selections(os.path.join(path_txt,name,name+".txt"), saved_json_path=path_json,id_json = 'KTS_VASNet_Knapsack')
             """
-            with open(os.path.join(path_txt,name+".txt") ,"r") as f:
+            with open(os.path.join(path_txt,name,name+".txt") ,"r") as f:
                 Lines = f.readlines() 
                 list_begin = []
 #                list_end = []
@@ -86,8 +86,8 @@ if __name__ == '__main__':
                 for line in Lines:
                     list_begin.append(line.split(" ")[0])
 #                    list_end.append(line.split(" ")[1])
-                    list_score.append((line.split(" ")[-1]).replace("\n",""))
-                create_json.create_shot_json(path_json,name,list_begin,list_score,json_id = 'KTS_VGG_seg_boundaries')
+                    list_score.append(str(float((line.split(" ")[-1]).replace("\n",""))*5))
+                create_json.create_shot_json(path_json,name,list_begin,list_score,json_id = 'VASNet_Score')
 #                    print(line.split(" ")[0]+ " " +line.split(" ")[1] + " "+ line.split(" ")[2])
 #        create_json.create_shot_json('score_random_sample')rethinking_score_random,rethinking_KTS_seg_boundaries
             """

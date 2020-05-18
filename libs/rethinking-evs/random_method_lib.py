@@ -17,7 +17,7 @@ sys.path.append("../../../config")
 sys.path.append("../../../../libs/deep_semantic_feature/")
 from config import cfg
 
-def write_data(label,time_per_frames,path_save_txt,real_name):
+def write_data(label,fps,path_save_txt,real_name):
     time_start=0
     time_end = 0
     in_seg = False
@@ -26,20 +26,19 @@ def write_data(label,time_per_frames,path_save_txt,real_name):
     with open(os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"),"w+") as f:
         for i in range(len(label)):
             if label[i]==True and in_seg==False:
-                time_start = i*time_per_frames
+                time_start = i/fps
                 in_seg=True
             if label[i]==False and in_seg==True:
-                time_end = i*time_per_frames
-                print(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + " 1\n")
-                f.write(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + " 1\n")
+                time_end = i/fps
+                print(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + "\n")
+                f.write(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + "\n")
                 time_start=0
                 time_end = 0
                 in_seg = False
             if i+1 == len(label) and in_seg ==True:
-                time_end = i*time_per_frames
-                time_start=0
-                time_end = 0
-                in_seg = False
+                time_end = (i+1)/fps
+                print(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + "\n")
+                f.write(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + "\n")
         print (os.path.join(path_save_txt,real_name.replace(".mp4",""),real_name.replace(".mp4","")+".txt"))
 def sec2time(sec, n_msec=4):
     ''' Convert seconds to 'D days, HH:MM:SS.FFF' '''
@@ -71,7 +70,12 @@ def run_random_methods(path_save,path_infor,video_id,boundaries=[],path_score=""
         rand_score = np.random.random((total_frames,))
     else:
         rand_score = np.load(os.path.join(path_score,video_id+".npy"))
-    segment = get_segment(total_frames,boundaries,method)
+    if len(boundaries)>1:
+        segment = boundaries
+    else:
+        segment = get_segment(total_frames,boundaries,method)
+    print(segment)
+#    np.save("/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/boundaries/SumMe/randomized-KTS/"+video_id,np.array(segment))
     rand_summary = summarize(rand_score, segment, int(float(total_frames) * .15))
-    time_per_frames = duration / total_frames
-    write_data(rand_summary,time_per_frames,path_save,video_id)
+    np.save("/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/label/summe_uniform_vsumm_knapsack/"+video_id,np.array(rand_summary))
+#    write_data(rand_summary,fps,path_save,video_id)

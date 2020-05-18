@@ -16,7 +16,20 @@ def get_segment(N,boundaries=[],method= 'uniform'):
     else:
         raise RuntimeError
 
-        
+def get_segment_tvsum(N, video_id, method='one-peak'):
+    if method == 'one-peak':
+        return poisson_segment(N)
+    elif method == 'two-peak':
+        return two_peak_segment(N, lam_1=30, lam_2=90)
+    elif method == 'KTS':
+        return tvsum_kts_segment(video_id)
+    elif method == 'randomized-KTS':
+        return tvsum_random_kts_segment(video_id)
+    elif method == 'uniform':
+        return np.arange(0, N, 60).astype('i')
+    else:
+        raise RuntimeError
+
 def get_summe_video2idx():
     videos = ['Air_Force_One',
     'Base jumping',
@@ -71,6 +84,16 @@ def poisson_segment(n_fr, lam=60):
     return segment
 
 def random_kts(boundaries):
+    seg_l = [boundaries[i+1] - boundaries[i] for i in range(boundaries.size - 1)]
+    seg_l = np.random.permutation(seg_l)
+    boundaries = np.add.accumulate(seg_l)
+    return np.hstack(([0], boundaries))
+
+def tvsum_kts_segment(v_id):
+    return _tvsum_shot_boundaries[_tvsum_video2idx[v_id]][0].ravel()
+
+def tvsum_random_kts_segment(v_id):
+    boundaries = _tvsum_shot_boundaries[_tvsum_video2idx[v_id]][0].ravel()
     seg_l = [boundaries[i+1] - boundaries[i] for i in range(boundaries.size - 1)]
     seg_l = np.random.permutation(seg_l)
     boundaries = np.add.accumulate(seg_l)

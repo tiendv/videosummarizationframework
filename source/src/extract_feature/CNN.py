@@ -67,8 +67,8 @@ class GoogleNet(nn.Module):
         super(GoogleNet, self).__init__()
         # rescale and normalize transformation
         self.transform = transforms.Compose([
-            transforms.ToTensor(),
-            transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
+            transforms.ToTensor()
+            #,transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
         ])
         
         googlnet = models.googlenet(pretrained=True)
@@ -115,8 +115,8 @@ class Feature:
             return
         try:
             self.__write_to_file_npy(output_path,self._namefile,self._feature)
-        except:
-            print("Error (save-Feature): try to extract feature before save")
+        except NameError as e:
+            print("Error (save-Feature): try to extract feature before save",e)
 
     def __write_to_file_npy(self,output_path,name,data):
         """Use to write data to numpy file extension - `.NPY`
@@ -128,7 +128,9 @@ class Feature:
         """        
         path = os.path.join(output_path,
                             name+'_'+self._method+'_'+str(self._sampling_rate)+'.npy')
-        np.save(path,data)
+        data_feat = np.asarray(data)
+        print(type(data_feat))
+        np.save(path,data_feat)
         print("Video: %s with sampling rate %d is save at %s"%(name,self._sampling_rate,path))
 
 #This class use to extract feature from a video. Inheritance class Feature

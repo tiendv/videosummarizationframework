@@ -31,7 +31,7 @@ class VSUM(gm_submodular.DataElement):
 
         # compute chronological distance
         self.frame, img_id, self.score = self.dataset.sampleFrame()
-
+#        print self.frame
 #        print(len(self.score))
         fno_arr = np.expand_dims(np.array(img_id), axis=1)
         self.dist_c = dist.pdist(fno_arr, 'sqeuclidean')
@@ -65,7 +65,7 @@ class VSUM(gm_submodular.DataElement):
         gt_score = []
         for i in selected:
             frames.append(self.frame[i:i + seg_l])
-            print self.frame[i:i + seg_l]
+#            print self.frame[i:i + seg_l]
             gt_score.append(self.score[i:i + seg_l])
 
         return selected, frames, gt_score
@@ -74,7 +74,6 @@ class VSUM(gm_submodular.DataElement):
 def encodeSeg(data, seg_size=4):
     feat_temp = data.feat     #shape : fnum
     feat = []
-    print feat_temp.shape[0]
     print feat_temp.shape
     for i in range(feat_temp.shape[0]-seg_size+1):
         temp = []
@@ -85,7 +84,6 @@ def encodeSeg(data, seg_size=4):
             temp.append(total/seg_size)
         feat.append(temp)
     feat=np.array(feat)
-    print feat.shape   
     return feat
 ################################################
 # objectives

@@ -19,6 +19,8 @@ function load_video(file_id){
         plugins: {
             dataServices: [
                 'json/SumMe/shots/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/shots/DR-DSN_Score/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/shots/VASNet_Score/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/shots/KTS_VGG/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/shots/Rethinking/score_random_sample/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/shots/Rethinking/segment_boundaries/KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -27,6 +29,8 @@ function load_video(file_id){
                 'json/SumMe/shots/Rethinking/segment_boundaries/randomized-KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/shots/Rethinking/segment_boundaries/uniform/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/selected/KTS_VASNet_Knapsack/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/selected/kts_dr-dsn_knapsack/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/dsf_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/dsf_vgg16_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/Rethinking/KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -140,6 +144,32 @@ function load_video(file_id){
                                 title: 'Sum[KTS_GoogLeNet_Random_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'rethinking_KTS_seg',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'DR-DSN_Score',
+                                type: 'cuepoint',
+                                metadataId: 'KTS_DR-DSN_Knapsack_score',
+                                color: "#3CF",
+                                pointNav: true
+                            } ,
+                            {
+                                title: 'Sum[KTS_GoogLeNet_DR-DSN_Knapsack]',
+                                type: 'segment',
+                                metadataId: 'kts_dr-dsn_knapsack',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'VASNet_Score',
+                                type: 'cuepoint',
+                                metadataId: 'VASNet_Score',
+                                color: "#3CF",
+                                pointNav: true
+                            } ,
+                            {
+                                title: 'Sum[KTS_GoogLeNet_VASNet_Knapsack]',
+                                type: 'segment',
+                                metadataId: 'KTS_VASNet_Knapsack',
                                 color: '#F00'
                             },
                             {

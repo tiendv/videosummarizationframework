@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+import os,sys,glob
 sys.path.append("../../../../libs/rethinking-evs/")
 from tools.summarizer import summarize
 from tools.io import load_summe_mat
@@ -11,7 +12,6 @@ import numpy as np
 import json
 from joblib import Parallel, delayed
 import pandas
-import os,sys,glob
 import argparse
 sys.path.append("../../../config")
 from config import cfg
@@ -39,22 +39,33 @@ def run_methods(vid_id,method):
         for video_name in data:
             video_name = (video_name.rstrip()).replace(".mp4","")
             boundaries = []
-            if method == "KTS" or "randomized-KTS:
+            if method == "KTS" or method ==  "randomized-KTS":
                 boundaries = np.load(os.path.join(cfg.BOUNDARIES_BBC,vid_id+".npy"))
             run_random_methods(cfg.ONE-PEAK_BBC,cfg.VIDEO_CSV_BBC_PATH,video_name,boundaries,path_score="",method=method)
             os.system("echo video{} >> {}/log_random_method.txt".format(vid_id,cfg.LOG_DIR_PATH))
+    else:
+        data = pandas.read_csv(os.path.join(cfg.VIDEO_CSV_SUMME_PATH),header=None)
+        for i in range(1,data.shape[0]):
+            vid_id = (data[0][i]).replace(".mp4","")
+            boundaries = []
+            #if method == "KTS" or method ==  "randomized-KTS":
+            boundaries = np.load(os.path.join("/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/boundaries/SumMe/Uniform",vid_id+".npy"))
+            run_random_methods("",cfg.VIDEO_CSV_SUMME_PATH,vid_id,boundaries,path_score="/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/data/vsumm-reinforce",method=method)
     
     # Tvsum and SumMe
+    """
     else:
         data = pandas.read_csv(os.path.join(cfg.VIDEO_CSV_TVSUM_PATH),header=None)
         for i in range(1,data.shape[0]):
             vid_id = (data[0][i]).replace(".mp4","")
             boundaries = []
-            if method == "KTS" or "randomized-KTS:
-                boundaries = np.load(os.path.join(cfg.BOUNDARIES_TVSUM,vid_id+".npy"))
-            run_random_methods(cfg.ONE-PEAK_TVSUM,cfg.VIDEO_CSV_TVSUM_PATH,vid_id,boundaries,path_score="",method=method)
-            os.system("echo {} >> {}/log_random_method.txt".format(vid_id,cfg.LOG_DIR_PATH))
-    
+            #if method == "KTS" or method == "randomized-KTS":
+            boundaries = np.load(os.path.join("/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/boundaries/TVSum/randomized-KTS",vid_id+".npy"))
+            run_random_methods("",cfg.VIDEO_CSV_TVSUM_PATH,vid_id,boundaries,path_score="/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/data/VASNet",method=method)
+#            os.system("echo {} >> {}/log_random_method.txt".format(vid_id,cfg.LOG_DIR_PATH))
+    """
+
+
 def main():
     parser = argparse.ArgumentParser(description='Optional description')
     parser.add_argument('--st', type=int, help='ID of start video')
@@ -70,7 +81,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # python random_method.py 0 243 one-peak bbc || python random_method.py 1 1 uniform tvsum || python random_method.py 1 1 two-peak summe
+    # python random_method.py 0 243 one-peak bbc || python random_method.py uniform || python random_method.py two-peak
     # or 
     # run_dsf(path_save,path_video,datatype,path_npy,path_reference,seg_l,feat_type,video_name)
 

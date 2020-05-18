@@ -58,6 +58,8 @@ def write_data_bbc(label,time_per_frames,path_save_txt,real_name):
                 time_start=0
                 time_end = 0
                 in_seg = False
+                print(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + " 1\n")
+                f.write(str(sec2time(time_start))+ " " +str(sec2time(time_end)) + " 1\n")
 def write_data_tvsum(label,time_per_frames,path_save_txt,v_id,fps,duration):
     mat_lab = "/mmlabstorage/datasets/TVSum50/ydata-tvsum50-v1_1/ydata-tvsum50-matlab/matlab/ydata-tvsum50.mat"
     f = h5py.File(mat_lab,'r')

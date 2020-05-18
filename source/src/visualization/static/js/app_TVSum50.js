@@ -34,6 +34,8 @@ function load_video(file_id){
         plugins: {
             dataServices: [
                 'json/TVSum/shots/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/shots/VASNet_Score/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/shots/DR-DSN_Score/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/shots/Rethinking/score_random_sample/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/shots/Rethinking/segment_boundaries/uniform/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/shots/Rethinking/segment_boundaries/one-peak/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -45,6 +47,8 @@ function load_video(file_id){
                 'json/TVSum/shots/SuperF/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/kf/'+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/kts_dr-dsn_knapsack/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/KTS_VASNet_Knapsack/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/dsf_inceptionv3_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/dsf_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/dsf_resnet50_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -182,6 +186,32 @@ function load_video(file_id){
                                 title: 'Sum[KTS_GoogLeNet_Random_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'rethinking_KTS_seg',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'DR-DSN_Score',
+                                type: 'cuepoint',
+                                metadataId: 'KTS_DR-DSN_Knapsack_score',
+                                color: "#3CF",
+                                pointNav: true
+                            } ,
+                            {
+                                title: 'Sum[KTS_GoogLeNet_DR-DSN_Knapsack]',
+                                type: 'segment',
+                                metadataId: 'kts_dr-dsn_knapsack',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'VASNet_Score',
+                                type: 'cuepoint',
+                                metadataId: 'VASNet_Score',
+                                color: "#3CF",
+                                pointNav: true
+                            } ,
+                            {
+                                title: 'Sum[KTS_GoogLeNet_VASNet_Knapsack]',
+                                type: 'segment',
+                                metadataId: 'KTS_VASNet_Knapsack',
                                 color: '#F00'
                             },
                             {
