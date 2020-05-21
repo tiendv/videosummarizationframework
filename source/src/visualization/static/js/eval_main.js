@@ -26,6 +26,8 @@ $(function(){
   showEval("TVSum","Rethinking_Uniform_Random_Knapsack","result_tvsum");
   showEval("TVSum","Rethinking_Uniform_DR-DSN_Knapsack","result_tvsum");
   showEval("TVSum","Rethinking_Uniform_VASNet_Knapsack","result_tvsum");
+  showEval("TVSum","KTS_dppLSTM_Knapsack","result_tvsum");
+
 
 
 
