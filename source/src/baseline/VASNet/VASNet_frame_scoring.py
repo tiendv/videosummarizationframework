@@ -15,8 +15,8 @@ if __name__ == '__main__':
     # Author: Trivl
     #************************************************************************
 
-    path_feature = "/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/data/feature/googlenet_summe"
-    path_pretrained_model="/mmlabstorage/workingspace/VideoSum/trivlm/VASNet/data/models/summe_aug_splits_0_0.5122454899922037.tar.pth"
+    path_pretrained_model = cfg.PATH_DRDSN_PRETRAINED_MODEL
+    path_feature = cfg.PATH_FEATURE_GOOGLENET
     from os import walk
     f = []
     for (dirpath, dirnames, filenames) in walk(path_feature):
