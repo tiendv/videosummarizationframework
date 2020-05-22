@@ -15,10 +15,8 @@ if __name__ == '__main__':
     # Author: Trivl
     #************************************************************************
 
-#    path_pretrained_model = cfg.PATH_DRDSN_PRETRAINED_MODEL
-#    path_feature = cfg.PATH_FEATURE_GOOGLENET
-    path_pretrained_model = "/mmlabstorage/workingspace/VideoSum/trivlm/pytorch-vsumm-reinforce/log/tvsum-split0/model_epoch60.pth.tar"
-    path_feature = "/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/data/feature/googlenet_summe"
+    path_pretrained_model = cfg.PATH_DRDSN_PRETRAINED_MODEL
+    path_feature = cfg.PATH_FEATURE_GOOGLENET
     from os import walk
     f = []
     for (dirpath, dirnames, filenames) in walk(path_feature):
