@@ -7,11 +7,11 @@ sys.path.append(os.path.join(VIDEOSUM_FW_PATH,'source/config')) #config path app
 from config import cfg
 
 
-def get_metadata(namevid):
+def get_metadata(name_dataset):
     """[Fuction to get metadata of each dataset]
 
     Args:
-        namevid ({string}): [Name of dataset ]
+        name_dataset ({string}): [Name of dataset ]
 
     Returns:
     name_video [string]: [Array of name video]
@@ -23,12 +23,14 @@ def get_metadata(namevid):
     Author: thinhplg - 28/04/2020
 
     """
-    namevid = namevid.lower()
-    if namevid == 'bbc':
+    name_dataset = name_dataset.lower()
+    if name_dataset == 'bbc':
         csvpath = cfg.VIDEO_CSV_BBC_PATH
-    elif namevid == 'tvsum':
+    elif name_dataset == 'tvsum':
         csvpath = cfg.VIDEO_CSV_TVSUM_PATH
-    elif namevid == 'summe':
+    elif name_dataset == 'tvsum_raw' or name_dataset == 'tvsumraw':
+        csvpath = cfg.VIDEO_CSV_TVSUM_RAW_PATH
+    elif name_dataset == 'summe':
         csvpath = cfg.VIDEO_CSV_SUMME_PATH
     else:
         print('Error (parse_csv.py): Check name dataset again')

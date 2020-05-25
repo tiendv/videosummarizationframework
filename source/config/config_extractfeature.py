@@ -31,8 +31,8 @@ __C.NAME_CNN = 'inceptionv1'
 __C.LAYER_CNN = None
 
 #Params for ExtractFeartureDataSet
-__C.DATASET_NAME = 'summe'     #bbc or summe or tvsum
-__C.DATASET_OUTPUT_PATH= '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/SumMe_processed_data/frames_feature/inceptionv1_without_nor'
+__C.DATASET_NAME = 'tvsum'     #bbc or summe or tvsum
+__C.DATASET_OUTPUT_PATH= '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/TVSum_processed_data/frames_feature/inceptionv1'
 __C.DATASET_FROM_VIDEO = None
 __C.DATASET_TO_VIDEO = None
 __C.DATASET_SAMPLING_RATE = 1

@@ -36,6 +36,10 @@ def TVSum50():
 def evaluation():
     return render_template('evaluation.html')
 
+@app.route('/evaluation_chart',methods=['GET','POST'])
+def evaluation_chart():
+    return render_template('evaluation_chart.html')
+
 @app.route('/eval_summary',methods=['GET','POST'])
 def eval_summary():
     if request.method == 'POST':

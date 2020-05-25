@@ -47,6 +47,7 @@ function load_video(file_id){
                 'json/TVSum/shots/SuperF/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/kf/'+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/TVSum/selected/dppLSTM/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/kts_dr-dsn_knapsack/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/KTS_VASNet_Knapsack/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/TVSum/selected/dsf_inceptionv3_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -212,6 +213,12 @@ function load_video(file_id){
                                 title: 'Sum[KTS_GoogLeNet_VASNet_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'KTS_VASNet_Knapsack',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[KTS_GoogLeNet_dppLSTM_Knapsack]',
+                                type: 'segment',
+                                metadataId: 'KTS_dppLSTM_Knapsack',
                                 color: '#F00'
                             },
                             {

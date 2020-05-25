@@ -29,6 +29,7 @@ function load_video(file_id){
                 'json/SumMe/shots/Rethinking/segment_boundaries/randomized-KTS/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/shots/Rethinking/segment_boundaries/uniform/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+                'json/SumMe/selected/dppLSTM/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/KTS_VASNet_Knapsack/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/kts_dr-dsn_knapsack/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
                 'json/SumMe/selected/dsf_kts/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -170,6 +171,12 @@ function load_video(file_id){
                                 title: 'Sum[KTS_GoogLeNet_VASNet_Knapsack]',
                                 type: 'segment',
                                 metadataId: 'KTS_VASNet_Knapsack',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[KTS_GoogLeNet_dppLSTM_Knapsack]',
+                                type: 'segment',
+                                metadataId: 'KTS_dppLSTM_Knapsack',
                                 color: '#F00'
                             },
                             {

@@ -12,6 +12,7 @@ __C.VIDEO_TEST_PATH = BASIC_DIR + 'test_data/video4test/video.mp4'
 #Params for dataset metadata
 __C.VIDEO_CSV_PATH = BASIC_DIR + "data/input_data"
 __C.VIDEO_CSV_TVSUM_PATH = BASIC_DIR + "data/input_data/TVSum.csv"
+__C.VIDEO_CSV_TVSUM_RAW_PATH = BASIC_DIR + "data/input_data/TVSum_RAW.csv"
 __C.VIDEO_CSV_SUMME_PATH = BASIC_DIR + "data/input_data/SumMe.csv"
 __C.VIDEO_CSV_BBC_PATH = BASIC_DIR + "data/input_data/BBC_EastEnder/BBC_video.csv"
 __C.BBC_SHOT_PATH = BASIC_DIR + "/data/input_data/BBC_EastEnder/input_shot"
