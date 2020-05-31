@@ -74,8 +74,8 @@ def run_random_methods(path_save,path_infor,video_id,boundaries=[],path_score=""
         segment = boundaries
     else:
         segment = get_segment(total_frames,boundaries,method)
-    print(segment)
 #    np.save("/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/boundaries/SumMe/randomized-KTS/"+video_id,np.array(segment))
     rand_summary = summarize(rand_score, segment, int(float(total_frames) * .15))
-    np.save("/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/label/summe_uniform_vsumm_knapsack/"+video_id,np.array(rand_summary))
+    return rand_summary, segment
+#    np.save("/mmlabstorage/workingspace/VideoSum/trivlm/rethinking-evs/label/summe_uniform_vsumm_knapsack/"+video_id,np.array(rand_summary))
 #    write_data(rand_summary,fps,path_save,video_id)
