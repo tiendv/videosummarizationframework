@@ -10,7 +10,7 @@ $(function() {
     }
     else if (dataset=='SumMe')
     {
-        getResult("evaluation/SumMe/"+method+"/"+method+".json",0);
+        getResult("evaluation/SumMe/"+method+"/"+method+".json",1);
     }
 
 });
