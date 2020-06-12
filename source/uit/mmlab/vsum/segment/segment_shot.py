@@ -1,11 +1,10 @@
 import sys
 import os
 import cv2
+import numpy as np
 from utilities.convert_time import sec2time
 sys.path.append("/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/baseline/segmentation/")
-sys.path.append("../../../../../libs/rethinking-evs/")
-from TransNet.run_trainsnet import run_trainsnet
-from random_method_lib import run_random_methods
+sys.path.append("/mmlabstorage/workingspace/VideoSum/videosummarizationframework/libs/rethinking-evs/")
 
 def sampling_shot(path_video,len_shot=2):
     '''
@@ -39,45 +38,20 @@ def sampling_shot(path_video,len_shot=2):
         del begining_shots[-1]
     return name_vid, list(map(sec2time, begining_shots)), list(map(sec2time,ending_shots))
 
-def do_trainsnet(vid_path):
-    '''
-        Segment shot using TransNet Method
-        input: path of a input video
-        output: name(srt), begining time of shots (list), ending time of shots (list)
-    '''
-
-    shots,total_frame = run_trainsnet(vid_path)
-    vid_name = os.path.basename(vid_path)
-
-    cap=cv2.VideoCapture(vid_path)
-    fps = cap.get(cv2.CAP_PROP_FPS)
-    begins = []
-    ends = []
-    for s in shots:
-        begins.append(sec2time(s[0]/fps))
-        ends.append(sec2time(s[1]/fps))
-    return vid_name,begins,ends
-
-def do_onepeak(save_path,input_path,video_name,boundaries=[],score_path=""):
-    '''
-        Using one-peak method to segment a video
-        input:
-            save_path -- path saving the result
-            input_path -- path of input csv file
-            video_name -- name of a video
-        output:
-            the result file is saved at save_path
-    '''
-    run_random_methods(save_path,input_path,video_name,boundaries,score_path="",method='one-peak')
-
-def do_twopeak(save_path,input_path,video_name,boundaries=[],score_path=""):
+def do_twopeak(n_fr, lam_1=40, lam_2=80):
     '''
         Using two-peak method to segment a video
         input:
             save_path -- path saving the result
             input_path -- path of input csv file
-            video_name -- name of a video
         output:
             the result file is saved at save_path
     '''
-    run_random_methods(save_path,input_path,video_name,boundaries,score_path="",method='two-peak')
+    segment = []
+    cur_pos = 0
+    while(True):
+        cur_pos += np.random.choice([np.random.poisson(lam_1), np.random.poisson(lam_2)])
+        if cur_pos > n_fr-1:
+            break
+        segment.append(cur_pos)
+    return segment
