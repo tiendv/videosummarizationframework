@@ -32,6 +32,9 @@ function load_video(file_id){
               // 'json/TRECVID_BBC/selected/VASNet_GT_Knapsack/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_random_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_vasnet_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC/selected/bbc_vasnet_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC/selected/bbc_drdsn_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC/selected/bbc_drdsn_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
 
             ],
             list: [
@@ -64,13 +67,31 @@ function load_video(file_id){
                             {
                                 title: 'Sum[bbc_random_knapsack_150s]',
                                 type: 'segment',
-                                metadataId: 'bbc_rand_1',
+                                metadataId: 'bbc_random_1',
                                 color: '#F00'
                             },
                             {
                                 title: 'Sum[bbc_vasnet_knapsack_150s]',
                                 type: 'segment',
                                 metadataId: 'bbc_vasnet_1',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[bbc_drdsn_knapsack_150s]',
+                                type: 'segment',
+                                metadataId: 'bbc_drdsn_1',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[bbc_vasnet_knapsack_600s]',
+                                type: 'segment',
+                                metadataId: 'bbc_vasnet_4',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[bbc_drdsn_knapsack_600s]',
+                                type: 'segment',
+                                metadataId: 'bbc_drdsn_4',
                                 color: '#F00'
                             },
                         ]
