@@ -1,27 +1,7 @@
-import hdf5storage
-import numpy as np
-from config.config import cfg
-from uit.mmlab.vsum.visualization import create_json
+from itertools import groupby
 
-def preprocess():
-    with open("dppLSTM",'r') as f:
-        data = f.readlines()
-    data = list(map(lambda x: list(map(float,x.split()))[:-1],data))
-    data = np.array(data)
-    f1s = data[:,0]
-    rcs = data[:,1]
-    pres = data[:,2]
-
-    f = hdf5storage.loadmat(cfg.PATH_GT_TVSUM50, variable_names=['tvsum50'])
-    tvsum_data = f['tvsum50'].ravel()
-    vid_names = []
-    for item in tvsum_data:
-        video,_,_,_,_,_,_ = item
-        vid_names.append(video[0,0])
-    return vid_names,pres,rcs,f1s
-
-def main():
-    vid_names,precisions,recalls,fscores = preprocess()
-    create_json.write_eval_result(cfg.PATH_EVALUATE_TVSUM,'KTS_dppLSTM_Knapsack',vid_names,precisions,recalls,fscores)
-
-main()
+a = ['shot1_18','shot2_19','shot3_1','shot1_158','shot3_18','shot2_128','shot4_18','shot1_1899']
+# a = ['geek_1', 'coder_2', 'geek_4', 'coder_3', 'pro_3']
+a.sort()
+a = [list(i) for j,i in groupby(a,lambda x: x.partition('_')[0])]
+print(a)
