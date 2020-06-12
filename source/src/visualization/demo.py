@@ -62,10 +62,13 @@ def result_BBC_video():
 def TRECVID_BBC_EastEnders():
     return render_template('BBC/TRECVID_BBC_EastEnders.html',data_list = bbc_temp )
 
+@app.route('/BBC_TRECVID',methods=['GET','POST'])
+def BBC_TRECVID():
+    return render_template('BBC_TRECVID/BBC_TRECVID.html',data_list = bbc_trecvid )
+
 @app.route('/SumMe',methods=['GET','POST'])
 def SumMe():
     return render_template('Summe/SumMe.html',data_list = summe_temp )
-
 
 @app.route('/visualTVSum50',methods=['GET','POST'])
 def visual_TVSum50():
@@ -74,6 +77,10 @@ def visual_TVSum50():
 @app.route('/visualTRECVID_BBC_EastEnders',methods=['GET','POST'])
 def visual_TRECVID_BBC_EastEnders():
     return render_template('BBC/TRECVID_BBC_EastEnders_video.html')
+
+@app.route('/visual_BBC_TRECVID',methods=['GET','POST'])
+def visual_BBC_TRECVID():
+    return render_template('BBC_TRECVID/BBC_TRECVID_video.html')
 
 @app.route('/visualSumMe',methods=['GET','POST'])
 def visual_SumMe():
@@ -86,4 +93,5 @@ if __name__ == "__main__":
     tvsum50_temp = create_dictionary_tvsum50(path_thumbnails_tvsum,"/visualTVSum50?file_id=",path_matlab_gt)
     bbc_temp = create_dictionary_bbc("TRECVID_BBC_EastEnders/videos/","thumbnails_BBC/","/visualTRECVID_BBC_EastEnders?file_id=")
     summe_temp = create_dictionary_summe("SumMe/videos/","thumbnails_SumMe/","/visualSumMe?file_id=")
+    bbc_trecvid = create_bbc_trecvid_dict("thumbnails_BBC/","/visual_BBC_TRECVID?file_id=")
     app.run(host="0.0.0.0", port=5000,debug=True)
