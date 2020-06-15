@@ -1,4 +1,4 @@
-import os
+import os,glob
 import numpy as np
 import pandas as pd
 from itertools import groupby
@@ -10,7 +10,6 @@ from config.config import cfg
 from uit.mmlab.vsum.segment import segment_shot
 from uit.mmlab.vsum.scoring import score_shot
 from uit.mmlab.vsum.selection import select_shot
-
 
 def cal_iou(shot,segment):
     latest_start = max(shot[0], segment[0])
@@ -42,6 +41,7 @@ def summarize(seg_data, sum_lenght, use_sum=False):
     # for i in selected_cut:
     #     total = total + seg_data[i].size
     # print(total)
+    # input("CC")
     return selected_cut
 
 def get_bbc_segment(vid_id):
@@ -55,18 +55,19 @@ def get_bbc_segment(vid_id):
         segment.append(int(time2sec(time_shot[s][1])/0.04))
     return segment
 
-def get_shot_id(st_id,en_id):
-    _,time_shot = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
-    shots = []
-    for id in range(st_id,en_id+1):
-        tmp = []
-        for s in time_shot:
-            if 'shot{}'.format(id) in s:
-                tmp.append(s)
-        shots.append(tmp)
-    shots = sum(shots,[])
+def get_shot_id(path):
+    with open(path,'r') as f:
+        shots = f.read().splitlines()
     return shots
 
+
+def get_skipped_shot(path):
+    skips = {}
+    with open(path,'r') as f:
+        for l in f:
+            p = l.rstrip().split(" ")
+            skips[p[0]] = {'st':int(p[1]), 'en': int(p[2])}
+    return skips
 
 def write_time_shot(vid_id,seg_data,save_path):
     gName,time_shot = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
@@ -96,44 +97,91 @@ def write_selected_shot(selected_shot,save_path):
                 shot = time_shot[s]
                 st = shot[0]
                 en = shot[1]
-                f.write('{} {}\n'.format(st,en))
+                f.write('{} {} {}\n'.format(s,st,en))
+    print("the result will be saved at " + save_path)
 
 def gen_segment_score(vid_id,df):
     data = df.loc[vid_id]
     nFrames = int(data['nFrames'])
-    segment = get_bbc_segment(vid_id)
-    score = score_shot.random_score(nFrames)
-    np.save(os.path.join(cfg.TRECVID_SEGMENT_PATH,str(vid_id)),segment)
-    np.save(os.path.join(cfg.TRECVID_SCORE_PATH,str(vid_id)),score)
+    # score = score_shot.random_score(nFrames)
+    # print("The result score will be saved at {}".format(cfg.TRECVID_SCORE_PATH))
+    # np.save(os.path.join(cfg.TRECVID_SCORE_PATH,str(vid_id)),score)
 
-def get_segment_score(vid_id):
+    segment = get_bbc_segment(vid_id)
+    # segment = segment_shot.do_onepeak(nFrames)
+    print("The result segment will be saved at {}".format(cfg.TRECVID_SEGMENT_PATH))
+    np.save(os.path.join(cfg.TRECVID_SEGMENT_PATH,str(vid_id)),segment)
+
+
+def get_segment_data(vid_id,skip_shot=None):
+    '''
+        return a segment of a video with score frames
+        input:
+            vid_id -- id of bbc video
+            skip_shot -- skipped shot file
+        output:
+            a segment of a video with score frames
+    '''
+    print("load segment from " + cfg.TRECVID_SEGMENT_PATH)
     segment = np.load(os.path.join(cfg.TRECVID_SEGMENT_PATH,'{}.npy'.format(vid_id)))
-    score = np.load(os.path.join(cfg.TRECVID_SCORE_PATH,'{}.npy'.format(vid_id)))[:-2]
+
+    print("load score from " + cfg.TRECVID_SCORE_PATH)
+    score = np.load(os.path.join(cfg.TRECVID_SCORE_PATH,'{}.npy'.format(vid_id)))
 
     seg_data = np.split(score,segment)
     seg_data = list(filter(lambda x: x.size, seg_data))
-    write_time_shot(vid_id,seg_data,cfg.PATH_TIME_SHOTS_BBC)
+
+    if skip_shot:
+        for i in range(skip_shot['st']):
+            seg_data[i][:]=0
+        for i in range(1,skip_shot['en']+1):
+            seg_data[-i][:]=0
+
+    #write_time_shot(vid_id,seg_data,cfg.PATH_TIME_SHOTS_BBC)
     return seg_data
 
-def main():
-    df = pd.read_csv(cfg.VIDEO_CSV_BBC_PATH)
-    shots = get_shot_id(175,185)
-    seg_data = []
-    for i in range(175,186):
-        seg_data = seg_data + get_segment_score(i)
+def gen_trecvid_vsum(selected_shot_path,length):
+    '''
+        generate trecvid video summarization
+        input:
+            selected_shot_path -- path saving the selected shot
+            method -- name of method
+            length -- lenght of vsum
+        output:
+            mp4 video summarization
+    '''
+    method = os.path.basename(selected_shot_path)
+    file_name = "{}_{}s.mp4".format(method,length)
 
-    select_shot_idx = summarize(seg_data,150)
-    selected_shot_id = list(map(shots.__getitem__,select_shot_idx))
+    paths = glob.glob(os.path.join(selected_shot_path+"_{}s".format(length),"*/*.txt"))
+    paths.sort(key=lambda x: float(x.split("/")[-2]))
 
-    write_selected_shot(selected_shot_id,cfg.PATH_TIME_SELECTION_BBC)
-
-    method = 'bbc_vasnet_knapsack'
-    file_name = method+'.mp4'
+    selected_shot_id = []
+    for path in paths:
+        with open(path,'r') as f:
+            for l in f:
+                selected_shot_id.append(l.split(" ")[0])
     gen_video_sum(file_name,selected_shot_id,cfg.PATH_SHOT_BBC,os.path.join(cfg.PATH_RESULT_VSUM_BBC,method))
 
+def main(time_shot_path):
+    shots = get_shot_id(cfg.TRECVID_SHOT_ID_PATH)
+    skip_shot = get_skipped_shot(cfg.SKIPPED_TRECVID_SHOT_PATH)
+    print(len(shots))
+
+    seg_data = []
+    for i in range(175,186):
+        seg_data = seg_data + get_segment_data(i,skip_shot[str(i)])
+
+    select_shot_idx = summarize(seg_data,300)
+    selected_shot_id = list(map(shots.__getitem__,select_shot_idx))
+
+    write_selected_shot(selected_shot_id,time_shot_path)
+
+
 if __name__ == '__main__':
-    main()
-    # get_shot_id(175,185)
+    # main(cfg.PATH_TIME_SELECTION_BBC)
+    for t in [150,300,450,600]:
+        gen_trecvid_vsum(cfg.PATH_TIME_SELECTION_BBC,t)
     # df = pd.read_csv(cfg.VIDEO_CSV_BBC_PATH)
-    # for i in range(176,186):
+    # for i in range(175,186):
     #     gen_segment_score(i,df)

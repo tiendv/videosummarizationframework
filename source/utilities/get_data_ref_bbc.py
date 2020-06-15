@@ -1,4 +1,3 @@
-from .config.config import cfg
 def get_data_ref_bbc(path_ref_bbc):
     '''
         This function will return the information about video id, and time of each shot in BBC dataset
@@ -17,7 +16,6 @@ def get_data_ref_bbc(path_ref_bbc):
             dict_time[shot_id] = [st,ed]
     return ret,dict_time
 
-if __name__ == '__main__':
-    ref_id, time_shots = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
-    print(time_shots['shot62.1975'])
-
+# if __name__ == '__main__':
+#     ref_id, time_shots = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
+#     print(time_shots['shot62.1975'])

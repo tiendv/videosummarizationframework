@@ -8,7 +8,10 @@ def _output(typeout,shot,length_feture):
     if typeout == 0:
         return shot
     elif typeout == 1:
-        change_points = np.concatenate(([0], shot, [length_feture-1]))
+        if shot[0]!= 0:
+            change_points = np.concatenate(([0], shot))
+        if shot[len(shot)-1]!= length_feture-1:
+            change_points = np.concatenate((shot ,[length_feture-1]))
         return change_points
     elif typeout == 2:
         change_points = np.concatenate(([0], shot, [length_feture-1]))

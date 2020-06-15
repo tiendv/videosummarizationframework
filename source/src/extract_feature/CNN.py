@@ -70,7 +70,7 @@ class GoogleNet(nn.Module):
             transforms.ToTensor()
             ,transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
         ])
-        
+        print(device)
         googlnet = models.googlenet(pretrained=True)
         set_device(device) #set device
         googlnet.float()
@@ -386,7 +386,7 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
             to_id {int} -- To video y on dataset. y>=x (default: {None})
             sampling_rate {int} -- Sampling rate (default: {1})
             device_name {str} -- Name of device (default: {'0'})
-        """ 
+        """
         #super().__init__(sampling_rate=sampling_rate,device_name=device_name)
         os.environ['CUDA_VISIBLE_DEVICES']=device_name      #Set device envroment to use if system have multi device
         self._dataset = dataset_name         
@@ -408,7 +408,7 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
             #    logging.error(e)
         elif self._framework is 'pytorch':
             feat = self.__process_dataset_pytorch()
-        return Feature(feat,self._namefile,self._method,self._sampling_rate)
+        #return Feature(feat,self._namefile,self._method,self._sampling_rate)
 
     def __process_dataset_pytorch(self):
         #overwrite function process of class ExtractFeatureVideo
@@ -442,6 +442,8 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
                 feature.append(frame_feat)
                     
             namefile = os.path.splitext(os.path.basename(video))[0]
+            feature = np.array(feature)
+            print(feature.shape)
             self._write_to_file(namefile,feature)               #write to file
 
     def __process_dataset_tensorflow(self):
@@ -496,7 +498,7 @@ class ExtractFeatureDataSet(ExtractFeatureVideo):
         x = self._x
         y = self._y
         return namevid[x:y],path[x:y],fps[x:y],nFrame[x:y],duration[x:y]
-
+    
     def _write_to_file(self,name,data):
         #Write feature data to file
         self.__write_to_file_npy(name,data)

@@ -27,22 +27,22 @@ __C.TENSORFLOW_DEBUGGING_CODE = '3'
 	3 = INFO, WARNING, and ERROR messages are not printed
 """
 #Params for choose CNN
-__C.NAME_CNN = 'inceptionv1'
+__C.NAME_CNN = 'resnet50'
 __C.LAYER_CNN = None
 
 #Params for ExtractFeartureDataSet
-__C.DATASET_NAME = 'tvsum'     #bbc or summe or tvsum
-__C.DATASET_OUTPUT_PATH= '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/TVSum_processed_data/frames_feature/inceptionv1'
-__C.DATASET_FROM_VIDEO = None
-__C.DATASET_TO_VIDEO = None
+__C.DATASET_NAME = 'bbc'     #bbc or summe or tvsum
+__C.DATASET_OUTPUT_PATH= '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/frames_feature/resnet50'
+__C.DATASET_FROM_VIDEO = 175
+__C.DATASET_TO_VIDEO = 185
 __C.DATASET_SAMPLING_RATE = 1
-__C.DATASET_DEVICE_NAME = '0'
+__C.DATASET_DEVICE_NAME = '1'
 
 #Params for ExtractFeartureVideo
 __C.VIDEO_PATH = '/mmlabstorage/datasets/SumMe/videos/Air_Force_One.mp4'
 __C.VIDEO_SAMPLING_RATE = 1
 __C.VIDEO_DEVICE_NAME = '0'
-__C.VIDEO_OUTPUT_PATH = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/test_data'
+__C.VIDEO_OUTPUT_PATH = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/inceptionv1'
 
 #Params for ExtractFeartureImages
 __C.IMAGES_FOLDER = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/test_data/keyframes/video1/shot1_18'

@@ -153,11 +153,12 @@ def create_json_selections(selected_file_path, saved_json_path='./',id_json = 's
 
     dicts_data = []
     for i in shot_data:
-	    dict_data = {}
-	    dict_data["tcin"] = i.split(" ")[0]
-	    dict_data["tcout"] =(i.split(" ")[1]).replace("\n","")
-	    dict_data["tclevel"] = 1
-	    dicts_data.append(dict_data)
+        d = i.rstrip().split(" ")
+        dict_data = {}
+        dict_data["tcin"] = d[1]
+        dict_data["tcout"] =d[2]
+        dict_data["tclevel"] = d[0]
+        dicts_data.append(dict_data)
     data_json["localisation"][0]["sublocalisations"]["localisation"] = dicts_data
     data_json["id"] = id_json
     data_json["type"] = "segments"

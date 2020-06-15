@@ -26,10 +26,6 @@ function load_video(file_id){
         src : "TRECVID_BBC_EastEnders/videos/"+file_id,
         plugins: {
             dataServices: [
-              // 'json/TRECVID_BBC/shots/random_score/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
-              // 'json/TRECVID_BBC/shots/VASNet_Score/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
-              // 'json/TRECVID_BBC/shots/VASNet_GT/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
-              // 'json/TRECVID_BBC/selected/VASNet_GT_Knapsack/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_random_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_vasnet_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_vasnet_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -43,55 +39,35 @@ function load_video(file_id){
                     'container': '#myplayer-timeline-timeline',
                     'parameters': {
                         listOfLines: [
-                          // {
-                          //     title: 'BBC_Shot[random_score]',
-                          //     type: 'cuepoint',
-                          //     metadataId: 'shot_bbc',
-                          //     color: "#3CF",
-                          //     pointNav: true
-                          // },
-                            // {
-                            //     title: 'VASNet_Score',
-                            //     type: 'cuepoint',
-                            //     metadataId: 'VASNet_Score',
-                            //     color: "#3CF",
-                            //     pointNav: true
-                            // } ,
-                            // {
-                            //     title: 'BBC_Shot[VASNet_Score]',
-                            //     type: 'cuepoint',
-                            //     metadataId: 'VASNet_GT',
-                            //     color: "#3CF",
-                            //     pointNav: true
-                            // } ,
+
                             {
                                 title: 'Sum[bbc_random_knapsack_150s]',
                                 type: 'segment',
-                                metadataId: 'bbc_random_1',
+                                metadataId: 'bbc_random_knapsack_150',
                                 color: '#F00'
                             },
                             {
                                 title: 'Sum[bbc_vasnet_knapsack_150s]',
                                 type: 'segment',
-                                metadataId: 'bbc_vasnet_1',
+                                metadataId: 'bbc_vasnet_knapsack_150',
                                 color: '#F00'
                             },
                             {
                                 title: 'Sum[bbc_drdsn_knapsack_150s]',
                                 type: 'segment',
-                                metadataId: 'bbc_drdsn_1',
+                                metadataId: 'bbc_drdsn_knapsack_150',
                                 color: '#F00'
                             },
                             {
                                 title: 'Sum[bbc_vasnet_knapsack_600s]',
                                 type: 'segment',
-                                metadataId: 'bbc_vasnet_4',
+                                metadataId: 'bbc_vasnet_knapsack_600',
                                 color: '#F00'
                             },
                             {
                                 title: 'Sum[bbc_drdsn_knapsack_600s]',
                                 type: 'segment',
-                                metadataId: 'bbc_drdsn_4',
+                                metadataId: 'bbc_drdsn_knapsack_600',
                                 color: '#F00'
                             },
                         ]

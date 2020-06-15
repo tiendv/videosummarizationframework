@@ -42,6 +42,21 @@ __C.PATH_GT_TVSUM50 = BASIC_DIR + "source/src/visualization/static/TVSum50/ydata
 __C.EXAMPLE_BBC_SHOT_PATH = "../../../../test_data/shots/shot1_18.mp4"
 __C.EXAMPLE_OUTPUT_PATH = "../../../../test_data/events"
 
+#####----config for segment and score----#####
+__C.TRECVID_SHOT_ID_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/trecvid_shot_id.txt"
+__C.SKIPPED_TRECVID_SHOT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/skipped_trecvid_shot.txt"
+####----VSUM----####
+__C.TRECVID_SCORE_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/score/DR-DSN_scores"
+__C.TRECVID_SEGMENT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/segment/bbc_seg"
+__C.PATH_TIME_SELECTION_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc_drdsn_knapsack"
+__C.TRECVID_SEGMENT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/selected/bbc_drdsn_knapsack"
+#####----config for shot and selection time----#####
+__C.PATH_TIME_SHOTS_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_shot_time/bbc_random"
+#config for visualization
+__C.TRECVID_SHOT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/shots/bbc_random"
+
+
+
 __C.PATH_VIDEO_BBC = "/mmlabstorage/datasets/TRECVID/TRECVID_BBC_EastEnders/videos"
 __C.PATH_EMOTION_KMEDOIDS_BBC =  BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/emotion_seg_vsum_dsf_fix"
 __C.PATH_EVENT_KMEDOIDS_BBC =  BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/event_seg_vsum_dsf_fix"
@@ -55,7 +70,9 @@ __C.PATH_EVENT_EMOTION_BBC = BASIC_DIR + "data/BBC_processed_data/events_emotion
 __C.PATH_EVENT_AUDIO_BBC = BASIC_DIR + "data/BBC_processed_data/audio_event"
 __C.PATH_FACES_SHOT_BBC = BASIC_DIR + "data/BBC_processed_data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Faces"
 __C.PATH_AUDIO_SHOT_BBC = BASIC_DIR + "data/BBC_processed_data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Shots_Audios"
-__C.PATH_SHOT_BBC = BASIC_DIR + "data/BBC_processed_data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Shots"
+__C.PATH_SHOT_BBC = BASIC_DIR + "data/BBC_processed_data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Shots_VSUM"
+__C.PATH_SHOT_BBC_TRECVID = BASIC_DIR + "data/BBC_processed_data/TRECVID_processed_data/TRECVID_BBC_EastEnders_Shots_VSUM"
+
 __C.PATH_TIME_SHOTS_EVENTS_VSUM_DSF_BBC = BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/event_seg_vsum_dsf"
 __C.PATH_TIME_SHOTS_RGB_VSUM_DSF_BBC = BASIC_DIR + "data/BBC_processed_data/time_shots_bbc/event_seg_rgb"
 __C.PATH_JSON_SELECT_BBC = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/selected"

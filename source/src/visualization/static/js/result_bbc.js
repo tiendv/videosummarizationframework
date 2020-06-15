@@ -1,29 +1,35 @@
 window.onload = function() {
   var vid_name = $("#Vname").text()
   console.log(vid_name);
-  addResult(vid_name,"dsf_seg_vsum_rgb");
-  addResult(vid_name,"dsf_seg_vsum_rgb_vgg16");
-  addResult(vid_name,"emotion_seg_vsum_dsf_fix");
-  addResult(vid_name,"event_seg_vsum_dsf_fix");
+  addResult("#listvideo",vid_name,"bbc_random_knapsack","150s");
+  addResult("#listvideo",vid_name,"bbc_random_knapsack","300s");
+  addResult("#listvideo",vid_name,"bbc_random_knapsack","450s");
+  addResult("#listvideo",vid_name,"bbc_random_knapsack","600s");
+  addResult("#listvideo1",vid_name,"bbc_vasnet_knapsack","150s");
+  addResult("#listvideo1",vid_name,"bbc_vasnet_knapsack","300s");
+  addResult("#listvideo1",vid_name,"bbc_vasnet_knapsack","450s");
+  addResult("#listvideo1",vid_name,"bbc_vasnet_knapsack","600s");
+
+
 
 
 }
 
-function addResult(vidname,method) {
-  addVideo(method,"/result/TRECVID_BBC_EastEnders/"+method+"/"+ vidname+"_"+method+".mp4","video/mp4")
+function addResult(_id,vidname,method,len) {
+  addVideo(_id,method+"_"+len,"/result/TRECVID_BBC_EastEnders/"+method+"/"+ method+"_"+len+".mp4","video/mp4")
 }
 
-function addVideo(_title,_src,_type) {
-  var video = $('<video />', {
+function addVideo(_id,_title,_src,_type) {
+  var video = $('<video/>', {
       width: 320,
       height:240,
       src: _src,
       type: _type,
       controls: true
   });
-  video.appendTo($('#listvideo'));
+  video.appendTo($(_id));
   var title = $('<p />', {
       text: _title
   });
-  title.appendTo($('#listvideo'));
+  title.appendTo($(_id));
 }

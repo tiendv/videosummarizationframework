@@ -55,3 +55,13 @@ def do_twopeak(n_fr, lam_1=40, lam_2=80):
             break
         segment.append(cur_pos)
     return segment
+
+def do_onepeak(n_fr, lam=60):
+    segment = []
+    cur_pos = 0
+    while(True):
+        cur_pos += np.random.poisson(lam)
+        if cur_pos > n_fr-1:
+            break
+        segment.append(cur_pos)
+    return segment
