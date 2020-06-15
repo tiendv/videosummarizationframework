@@ -26,6 +26,12 @@ function load_video(file_id){
         src : "TRECVID_BBC_EastEnders/videos/"+file_id,
         plugins: {
             dataServices: [
+              'json/TRECVID_BBC/selected/person_shot/'+file_id.split(".")[0]+'/janine.json',
+              'json/TRECVID_BBC/selected/person_shot/'+file_id.split(".")[0]+'/ryan.json',
+              'json/TRECVID_BBC/selected/person_shot/'+file_id.split(".")[0]+'/stacey.json',
+
+              'json/TRECVID_BBC/selected/bbc_random_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC/selected/bbc_random_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_random_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_vasnet_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_vasnet_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
@@ -39,7 +45,24 @@ function load_video(file_id){
                     'container': '#myplayer-timeline-timeline',
                     'parameters': {
                         listOfLines: [
-
+                            {
+                                title: 'JANINE',
+                                type: 'segment',
+                                metadataId: 'janine',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'RYAN',
+                                type: 'segment',
+                                metadataId: 'ryan',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'STACEY',
+                                type: 'segment',
+                                metadataId: 'stacey',
+                                color: '#F00'
+                            },
                             {
                                 title: 'Sum[bbc_random_knapsack_150s]',
                                 type: 'segment',

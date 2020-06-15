@@ -147,7 +147,9 @@ def create_json_selections(selected_file_path, saved_json_path='./',id_json = 's
         output: None
     '''
 
-    vid_name = os.path.basename(selected_file_path).split(".")[0]
+    file_name = os.path.basename(selected_file_path).split(".")[0]
+    vid_name = selected_file_path.split("/")[-2]
+
     with open(selected_file_path,'r') as f:
         shot_data = f.readlines()
 
@@ -168,9 +170,9 @@ def create_json_selections(selected_file_path, saved_json_path='./',id_json = 's
     if not os.path.isdir(saved_path):
         os.makedirs(saved_path)
 
-    with open(os.path.join(saved_path,"{}.json".format(vid_name)),'w+') as f:
+    with open(os.path.join(saved_path,"{}.json".format(file_name)),'w') as f:
         json.dump(data_json, f)
-    print("The json file is saved at {}".format(os.path.join(saved_path,"{}.json".format(vid_name))))
+    print("The json file is saved at {}".format(os.path.join(saved_path,"{}.json".format(file_name))))
 
 
 def create_json_for_bbc_event(path_dir_event,path_json_save,topK=5,id_json='event_bbc'):

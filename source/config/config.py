@@ -49,9 +49,11 @@ __C.SKIPPED_TRECVID_SHOT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVI
 __C.TRECVID_SCORE_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/score/DR-DSN_scores"
 __C.TRECVID_SEGMENT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/segment/bbc_seg"
 __C.PATH_TIME_SELECTION_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc_drdsn_knapsack"
-__C.TRECVID_SEGMENT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/selected/bbc_drdsn_knapsack"
+__C.TRECVID_SEGMENT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/selected/person_shot"
 #####----config for shot and selection time----#####
 __C.PATH_TIME_SHOTS_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_shot_time/bbc_random"
+__C.PATH_PERSON_SHOTS_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_person_segment"
+
 #config for visualization
 __C.TRECVID_SHOT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/shots/bbc_random"
 
