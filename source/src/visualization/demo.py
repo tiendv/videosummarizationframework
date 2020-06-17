@@ -94,4 +94,4 @@ if __name__ == "__main__":
     bbc_temp = create_dictionary_bbc("TRECVID_BBC_EastEnders/videos/","thumbnails_BBC/","/visualTRECVID_BBC_EastEnders?file_id=")
     summe_temp = create_dictionary_summe("SumMe/videos/","thumbnails_SumMe/","/visualSumMe?file_id=")
     bbc_trecvid = create_bbc_trecvid_dict("thumbnails_BBC/","/visual_BBC_TRECVID?file_id=")
-    app.run(host="0.0.0.0", port=5000,debug=True)
+    app.run(host="0.0.0.0", port=80,debug=True)
