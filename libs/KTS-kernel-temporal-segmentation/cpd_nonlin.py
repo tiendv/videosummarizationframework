@@ -6,16 +6,25 @@ def calc_scatters(K):
     Calculate scatter matrix:
     scatters[i,j] = {scatter of the sequence with starting frame i and ending frame j}
     """
+    print("1")
     n = K.shape[0]
+    print("2")
     K1 = np.cumsum([0] + list(np.diag(K)))
+    print("3")
     K2 = np.zeros((n+1, n+1))
-    K2[1:, 1:] = np.cumsum(np.cumsum(K, 0), 1) # TODO: use the fact that K - symmetric
-
+    print("4")
+    temp = np.cumsum(K, 0)
+    print("5")
+    K2[1:, 1:] = np.cumsum(temp, 1) # TODO: use the fact that K - symmetric
+    print("kill temp")
+    del temp
+    print("6")
     scatters = np.zeros((n, n))
-
+    print("7")
     diagK2 = np.diag(K2)
-
+    print("8")
     i = np.arange(n).reshape((-1,1))
+    print("9")
     j = np.arange(n).reshape((1,-1))
     scatters = (K1[1:].reshape((1,-1))-K1[:-1].reshape((-1,1))
                 - (diagK2[1:].reshape((1,-1)) + diagK2[:-1].reshape((-1,1)) - K2[1:,:-1].T - K2[:-1,1:]) / ((j-i+1).astype(float) + (j==i-1).astype(float)))
