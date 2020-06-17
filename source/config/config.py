@@ -48,8 +48,8 @@ __C.SKIPPED_TRECVID_SHOT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVI
 ####----VSUM----####
 __C.TRECVID_SCORE_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/score/VASNet_scores"
 __C.TRECVID_SEGMENT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/segment/bbc_seg"
-__C.PATH_TIME_SELECTION_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc_janine_knapsack"
-__C.TRECVID_SEGMENT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/selected/person_shot"
+__C.PATH_TIME_SELECTION_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc_vasnetjanine_knapsack"
+__C.TRECVID_SEGMENT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/selected/bbc_vasnetjanine_knapsack"
 __C.PATH_RESULT_VSUM_BBC = BASIC_DIR + "source/src/visualization/static/result/TRECVID_BBC_EastEnders"
 #####----config for shot and selection time----#####
 __C.PATH_TIME_SHOTS_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_shot_time/bbc_random"

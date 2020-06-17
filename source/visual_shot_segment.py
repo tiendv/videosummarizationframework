@@ -8,10 +8,10 @@ def visual_shot():
         vid_name = p.split("/")[-2]
         create_json.create_shot_json_from_file(p,cfg.TRECVID_SHOT_JSON_PATH,vid_name,"shot_bbc")
 
-def visual_segment(lenght):
-    paths = glob.glob(cfg.PATH_TIME_SELECTION_BBC+"_{}s".format(i)+"/*/*.txt")
+def visual_segment(time_selection_path,lenght,json_id):
+    paths = glob.glob(time_selection_path+"_{}s".format(i)+"/*/*.txt")
     for p in paths:
-        create_json.create_json_selections(p,cfg.TRECVID_SEGMENT_JSON_PATH+"_{}s".format(lenght),"bbc_drdsn_knapsack_{}".format(lenght))
+        create_json.create_json_selections(p,cfg.TRECVID_SEGMENT_JSON_PATH+"_{}s".format(lenght),json_id)
 
 def visual_person_segment():
     paths = glob.glob(cfg.PATH_PERSON_SHOTS_BBC+"/*/*.txt")
@@ -20,6 +20,6 @@ def visual_person_segment():
         create_json.create_json_selections(p,cfg.TRECVID_SEGMENT_JSON_PATH,char_name)
 
 if __name__ == '__main__':
-    # for i in [150,300,450,600]:
-    #     visual_segment(i)
-    visual_person_segment()
+    for i in [150,300,450,600]:
+        visual_segment(cfg.PATH_TIME_SELECTION_BBC,i,"{}_{}".format(os.path.basename(cfg.PATH_TIME_SELECTION_BBC),i))
+    # visual_person_segment()
