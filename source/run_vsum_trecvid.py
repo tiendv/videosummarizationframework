@@ -11,24 +11,10 @@ from uit.mmlab.vsum.segment import segment_shot
 from uit.mmlab.vsum.scoring import score_shot
 from uit.mmlab.vsum.selection import select_shot
 
-def cal_iou(shot,segment):
-    latest_start = max(shot[0], segment[0])
-    earliest_end = min(shot[1], segment[1])
-    delta_o = earliest_end - latest_start + 1
-    overlap = max(0,delta_o)
+def select_ranking(data,capacity):
+    pass
 
-    earliest_start = min(shot[0], segment[0])
-    latest_end = max(shot[1], segment[1])
-    intersec = latest_end - earliest_start
-    print(overlap)
-    print(overlap/intersec)
-
-def mapping_shot(vid_id,time_shots,rand_summary):
-        for s in time_shots:
-            if 'shot{}'.format(vid_id) in s:
-                print(time_shots[s])
-
-def summarize(seg_data, sum_lenght, use_sum=False):
+def summarize(seg_data, shot_score, sum_lenght, use_sum=False):
     capacity = int(sum_lenght/0.04)
     weights = [x.size for x in seg_data]
 
@@ -36,6 +22,13 @@ def summarize(seg_data, sum_lenght, use_sum=False):
         values = [x.sum() for x in seg_data]
     else:
         values = [x.mean() for x in seg_data]
+    # values = np.asarray(values) + shot_score
+    values = shot_score
+
+
+    # print(values)
+    # input("CC")
+
     _, selected_cut = select_shot.knapsack([(v, w) for v, w in zip(values, weights)], capacity)
     # total = 0
     # for i in selected_cut:
@@ -83,10 +76,11 @@ def write_time_shot(vid_id,seg_data,save_path):
             sc = t.mean()
             f.write('{} {} {}\n'.format(st,en,sc))
 
-def write_selected_shot(selected_shot,save_path):
+def write_selected_shot(selected_shot,save_path,sum_len):
     gName,time_shot = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
     selected_shot = [list(i) for j,i in groupby(selected_shot,lambda x: x.partition('_')[0])]
 
+    save_path = save_path+"_{}s".format(sum_len)
     for item in selected_shot:
         vid_id = item[0].split('_')[0][4:]
         vid_name = gName[vid_id]
@@ -98,7 +92,7 @@ def write_selected_shot(selected_shot,save_path):
                 st = shot[0]
                 en = shot[1]
                 f.write('{} {} {}\n'.format(s,st,en))
-    print("the result will be saved at " + save_path)
+    print("the result is saved at " + save_path)
 
 def gen_segment_score(vid_id,df):
     data = df.loc[vid_id]
@@ -109,7 +103,7 @@ def gen_segment_score(vid_id,df):
 
     segment = get_bbc_segment(vid_id)
     # segment = segment_shot.do_onepeak(nFrames)
-    print("The result segment will be saved at {}".format(cfg.TRECVID_SEGMENT_PATH))
+    print("The result segment is saved at {}".format(cfg.TRECVID_SEGMENT_PATH))
     np.save(os.path.join(cfg.TRECVID_SEGMENT_PATH,str(vid_id)),segment)
 
 
@@ -131,6 +125,7 @@ def get_segment_data(vid_id,skip_shot=None):
     seg_data = np.split(score,segment)
     seg_data = list(filter(lambda x: x.size, seg_data))
 
+    #set skipped shot score is zero
     if skip_shot:
         for i in range(skip_shot['st']):
             seg_data[i][:]=0
@@ -140,7 +135,7 @@ def get_segment_data(vid_id,skip_shot=None):
     #write_time_shot(vid_id,seg_data,cfg.PATH_TIME_SHOTS_BBC)
     return seg_data
 
-def gen_trecvid_vsum(selected_shot_path,length):
+def gen_trecvid_vsum(selected_shot_path,length,save_path):
     '''
         generate trecvid video summarization
         input:
@@ -161,27 +156,33 @@ def gen_trecvid_vsum(selected_shot_path,length):
         with open(path,'r') as f:
             for l in f:
                 selected_shot_id.append(l.split(" ")[0])
-    gen_video_sum(file_name,selected_shot_id,cfg.PATH_SHOT_BBC,os.path.join(cfg.PATH_RESULT_VSUM_BBC,method))
+    gen_video_sum(file_name,selected_shot_id,cfg.PATH_SHOT_BBC,os.path.join(save_path,method))
 
-def main(time_shot_path):
+def main(time_shot_path,char_name):
     shots = get_shot_id(cfg.TRECVID_SHOT_ID_PATH)
     skip_shot = get_skipped_shot(cfg.SKIPPED_TRECVID_SHOT_PATH)
+
     print(len(shots))
 
     seg_data = []
+    person_scores = np.empty(0)
+
     for i in range(175,186):
         seg_data = seg_data + get_segment_data(i,skip_shot[str(i)])
+        person_scores = np.hstack((person_scores,np.load(os.path.join(cfg.PERSON_SCORE_PATH,"{}/video{}.npy".format(char_name,i)))))
+        # print(np.load(os.path.join(cfg.PERSON_SCORE_PATH,"{}/video{}.npy".format(char_name,i))).shape[0])
+    for sum_len in [150,300,450,600]:
+        select_shot_idx = summarize(seg_data,person_scores,sum_len)
+        selected_shot_id = list(map(shots.__getitem__,select_shot_idx))
 
-    select_shot_idx = summarize(seg_data,300)
-    selected_shot_id = list(map(shots.__getitem__,select_shot_idx))
-
-    write_selected_shot(selected_shot_id,time_shot_path)
-
+        write_selected_shot(selected_shot_id,time_shot_path,sum_len)
 
 if __name__ == '__main__':
-    # main(cfg.PATH_TIME_SELECTION_BBC)
+    # main(cfg.PATH_TIME_SELECTION_BBC,'janine')
     for t in [150,300,450,600]:
-        gen_trecvid_vsum(cfg.PATH_TIME_SELECTION_BBC,t)
+       gen_trecvid_vsum(cfg.PATH_TIME_SELECTION_BBC,t,cfg.PATH_RESULT_VSUM_BBC)
+
     # df = pd.read_csv(cfg.VIDEO_CSV_BBC_PATH)
     # for i in range(175,186):
     #     gen_segment_score(i,df)
+    # gen_video_sum('aa.mp4',['shot175_1101','shot175_1102','shot175_1103','shot175_1104','shot175_1105','shot175_1106','shot175_1107','shot175_1108'],cfg.PATH_SHOT_BBC,'./')

@@ -46,14 +46,15 @@ __C.EXAMPLE_OUTPUT_PATH = "../../../../test_data/events"
 __C.TRECVID_SHOT_ID_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/trecvid_shot_id.txt"
 __C.SKIPPED_TRECVID_SHOT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/skipped_trecvid_shot.txt"
 ####----VSUM----####
-__C.TRECVID_SCORE_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/score/DR-DSN_scores"
+__C.TRECVID_SCORE_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/score/VASNet_scores"
 __C.TRECVID_SEGMENT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/segment/bbc_seg"
-__C.PATH_TIME_SELECTION_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc_drdsn_knapsack"
+__C.PATH_TIME_SELECTION_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc_janine_knapsack"
 __C.TRECVID_SEGMENT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/selected/person_shot"
+__C.PATH_RESULT_VSUM_BBC = BASIC_DIR + "source/src/visualization/static/result/TRECVID_BBC_EastEnders"
 #####----config for shot and selection time----#####
 __C.PATH_TIME_SHOTS_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_shot_time/bbc_random"
 __C.PATH_PERSON_SHOTS_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_person_segment"
-
+__C.PERSON_SCORE_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/vsum_scores"
 #config for visualization
 __C.TRECVID_SHOT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/shots/bbc_random"
 
@@ -82,7 +83,6 @@ __C.PATH_JSON_EVENT_BBC = BASIC_DIR + "source/src/visualization/static/json/TREC
 __C.PATH_JSON_EVENT_EMOTION_BBC = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/events_emotion"
 __C.PATH_JSON_SHOT_EVENTS_SUM_DSF_BBC = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/selected/event_seg_vsum_dsf"
 __C.PATH_JSON_SHOT_RGB_SUM_DSF_BBC = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/selected/dsf_seg_vsum_rgb"
-__C.PATH_RESULT_VSUM_BBC = BASIC_DIR + "source/src/visualization/static/result/TRECVID_BBC_EastEnders"
 
 #params for SumMe
 __C.PATH_SUMME_VIDEOS = BASIC_DIR + "source/src/visualization/static/SumMe/videos"

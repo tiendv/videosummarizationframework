@@ -1,7 +1,13 @@
-from itertools import groupby
+import numpy as np
 
-a = ['shot1_18','shot2_19','shot3_1','shot1_158','shot3_18','shot2_128','shot4_18','shot1_1899']
-# a = ['geek_1', 'coder_2', 'geek_4', 'coder_3', 'pro_3']
-a.sort()
-a = [list(i) for j,i in groupby(a,lambda x: x.partition('_')[0])]
-print(a)
+c = np.empty(0)
+a = np.array([1,2,3])
+b = np.array([5,6,7,8,9,10])
+d = np.array([11,12])
+
+
+c = np.hstack((c,a))
+c = np.hstack((c,b))
+c = np.hstack((c,d))
+
+print(c)
