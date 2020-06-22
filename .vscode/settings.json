@@ -16,5 +16,6 @@
     "vsintellicode.modify.editor.suggestSelection":"enabled",
     "vsintellicode.python.completionsEnabled": true,
     "python.terminal.activateEnvironment": false,
-    "python.pythonPath": "/home/sum/anaconda3/envs/deep-vsum/bin/python"
+    "python.pythonPath": "/home/sum/anaconda3/envs/deep-vsum/bin/python",
+    "python.languageServer": "Microsoft"
 }

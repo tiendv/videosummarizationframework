@@ -4,6 +4,8 @@ window.onload = function() {
   addResult("#listvideo",vid_name,"bbc_vasnet_knapsack");
   addResult("#listvideo1",vid_name,"bbc_vasnetjanine_knapsack");
   addResult("#listvideo2",vid_name,"bbc_janine_knapsack");
+  addResult("#listvideo3",vid_name,"twopeak_vasnet_knapsack");
+
 }
 
 function addResult(_id,vidname,method) {

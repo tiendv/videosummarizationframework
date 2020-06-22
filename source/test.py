@@ -1,13 +1,14 @@
 import numpy as np
 
-c = np.empty(0)
-a = np.array([1,2,3])
-b = np.array([5,6,7,8,9,10])
-d = np.array([11,12])
+def func(x):
+    # b = x[:]
+    # x[0]=x[0]/2
+    for i,m in enumerate(x):
+        m=m/2
+if __name__ == '__main__':
 
-
-c = np.hstack((c,a))
-c = np.hstack((c,b))
-c = np.hstack((c,d))
-
-print(c)
+    a = [np.array([1,2,3]),np.array([4,5])]
+    print(a)
+    func(a)
+    print(a)
+    b = [22,55,66]

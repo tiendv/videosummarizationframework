@@ -10,8 +10,9 @@ def visual_shot():
 
 def visual_segment(time_selection_path,lenght,json_id):
     paths = glob.glob(time_selection_path+"_{}s".format(i)+"/*/*.txt")
+    dir_name = os.path.basename(time_selection_path)
     for p in paths:
-        create_json.create_json_selections(p,cfg.TRECVID_SEGMENT_JSON_PATH+"_{}s".format(lenght),json_id)
+        create_json.create_json_selections(p,os.path.join(cfg.TRECVID_SEGMENT_JSON_PATH,"{}_{}s").format(dir_name,lenght),json_id)
 
 def visual_person_segment():
     paths = glob.glob(cfg.PATH_PERSON_SHOTS_BBC+"/*/*.txt")

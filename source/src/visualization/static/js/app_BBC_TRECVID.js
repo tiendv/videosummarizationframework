@@ -33,6 +33,7 @@ function load_video(file_id){
               'json/TRECVID_BBC/selected/bbc_vasnet_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_vasnetjanine_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_janine_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC/selected/twopeak_vasnet_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
 
             ],
             list: [
@@ -76,6 +77,12 @@ function load_video(file_id){
                                 title: 'Sum[bbc_janine_knapsack_150s]',
                                 type: 'segment',
                                 metadataId: 'bbc_janine_knapsack_150',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[twopeak_vasnet_knapsack_150s]',
+                                type: 'segment',
+                                metadataId: 'twopeak_vasnet_knapsack_150',
                                 color: '#F00'
                             },
                         ]
