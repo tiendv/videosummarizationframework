@@ -30,10 +30,11 @@ function load_video(file_id){
               'json/TRECVID_BBC/selected/person_shot/'+file_id.split(".")[0]+'/ryan.json',
               'json/TRECVID_BBC/selected/person_shot/'+file_id.split(".")[0]+'/stacey.json',
 
-              'json/TRECVID_BBC/selected/bbc_vasnet_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
-              'json/TRECVID_BBC/selected/bbc_vasnetjanine_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
-              'json/TRECVID_BBC/selected/bbc_janine_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
-              'json/TRECVID_BBC/selected/twopeak_vasnet_knapsack_150s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC/selected/bbc_vasnet_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC/selected/bbc_vasnetjanine_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC/selected/bbc_janine_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC/selected/twopeak_vasnet_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              //'json/TRECVID_BBC_EastEnders/shots/c3d/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
 
             ],
             list: [
@@ -42,6 +43,7 @@ function load_video(file_id){
                     'container': '#myplayer-timeline-timeline',
                     'parameters': {
                         listOfLines: [
+
                             {
                                 title: 'JANINE',
                                 type: 'segment',
@@ -62,29 +64,30 @@ function load_video(file_id){
                             },
 
                             {
-                                title: 'Sum[bbc_vasnet_knapsack_150s]',
+                                title: 'Sum[bbc_vasnet_knapsack_600s]',
                                 type: 'segment',
-                                metadataId: 'bbc_vasnet_knapsack_150',
+                                metadataId: 'bbc_vasnet_knapsack_600',
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[bbc_vasnetjanine_knapsack_150s]',
+                                title: 'Sum[bbc_vasnetjanine_knapsack_600s]',
                                 type: 'segment',
-                                metadataId: 'bbc_vasnetjanine_knapsack_150',
+                                metadataId: 'bbc_vasnetjanine_knapsack_600',
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[bbc_janine_knapsack_150s]',
+                                title: 'Sum[bbc_janine_knapsack_600s]',
                                 type: 'segment',
-                                metadataId: 'bbc_janine_knapsack_150',
+                                metadataId: 'bbc_janine_knapsack_600',
                                 color: '#F00'
                             },
                             {
-                                title: 'Sum[twopeak_vasnet_knapsack_150s]',
+                                title: 'Sum[twopeak_vasnet_knapsack_600s]',
                                 type: 'segment',
-                                metadataId: 'twopeak_vasnet_knapsack_150',
+                                metadataId: 'twopeak_vasnet_knapsack_600',
                                 color: '#F00'
                             },
+
                         ]
                     }
                 }

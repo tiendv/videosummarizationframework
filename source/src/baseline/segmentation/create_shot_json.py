@@ -35,7 +35,7 @@ def create_json4shots(path_json, name_vid,list_begin,list_score=None,id="shot_gt
     for i in range(len(list_begin)):
         dict_data = {}
         if list_score:
-            dict_data["label"] = str(round(float(list_score[i]),3))
+            dict_data["label"] = list_score[i]
         else:
             dict_data["label"] = 1
 
@@ -69,7 +69,7 @@ def create_json4shots_file(path_data,path_json,name_vid,id_json="shot_gt"):
         for line in f:
             dict_data = {}
             line = line.split()
-            list_begin.append(line[0])
+            list_begin.append(line[1])
             list_score.append(line[-1])
 
     create_json4shots(path_json, name_vid,list_begin,list_score,id_json)

@@ -72,6 +72,12 @@ def write_time_shot(vid_id,seg_data,save_path):
             sc = t.mean()
             f.write('{} {} {}\n'.format(st,en,sc))
 
+def write_trecvid_score(values,save_path):
+    shots = get_shot_id(cfg.TRECVID_SHOT_ID_PATH)
+    with open(os.path.join(save_path,"bbc_janine.csv"),'w') as f:
+        for s,v in zip(shots,values):
+            f.write("{},{}\n".format(s,v))
+
 def write_selected_shot(selected_shot,save_path,sum_len):
     gName,time_shot = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
     selected_shot = [list(i) for j,i in groupby(selected_shot,lambda x: x.partition('_')[0])]

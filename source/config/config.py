@@ -46,18 +46,20 @@ __C.EXAMPLE_OUTPUT_PATH = "../../../../test_data/events"
 __C.TRECVID_SHOT_ID_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/trecvid_shot_id.txt"
 __C.SKIPPED_TRECVID_SHOT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/skipped_trecvid_shot.txt"
 ####----VSUM----####
+#---------config to run a baseline-----------#
+__C.TRECVID_SEGMENT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/segment/bbc_seg"
 __C.TRECVID_SCORE_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/score/VASNet_scores"
+__C.PATH_TIME_SELECTION_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc2.32_vasnet_knapsack"
+####
 __C.TRECVID_BBC_SEGMENT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/segment/bbc_seg/trecvid_bbc_shot.npy"
-__C.TRECVID_SEGMENT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/segment/twopeak"
-__C.PATH_TIME_SELECTION_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/twopeak_vasnet_knapsack"
 __C.TRECVID_SEGMENT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/selected"
 __C.PATH_RESULT_VSUM_BBC = BASIC_DIR + "source/src/visualization/static/result/TRECVID_BBC_EastEnders"
 #####----config for shot and selection time----#####
-__C.PATH_TIME_SHOTS_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_shot_time/bbc_random"
 __C.PATH_PERSON_SHOTS_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_person_segment"
 __C.PERSON_SCORE_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/vsum_scores"
 #config for visualization
-__C.TRECVID_SHOT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/shots/bbc_random"
+__C.PATH_TIME_SHOTS_BBC = BASIC_DIR + "data/BBC_processed_data/c3d_scores_first500"
+__C.TRECVID_SHOT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC_EastEnders/shots/c3d"
 
 
 

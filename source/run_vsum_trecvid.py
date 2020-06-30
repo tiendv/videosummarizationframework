@@ -23,7 +23,7 @@ def mapping_bbc_shot(seg_data,selected_idx,thres=0.5):
     print("len",len(selected_bbc_idx))
     return selected_bbc_idx
 
-def summarize(seg_data, shot_score, sum_lenght, use_sum=False):
+def summarize(seg_data, shot_score, sum_lenght, use_sum=False, thres = 2.32):
     capacity = int(sum_lenght/0.04)
     weights = [x.size for x in seg_data]
 
@@ -32,7 +32,16 @@ def summarize(seg_data, shot_score, sum_lenght, use_sum=False):
     else:
         values = [x.mean() for x in seg_data]
     # values = np.asarray(values) + shot_score
-    # values = shot_score
+
+    values = shot_score
+    for i,x in enumerate(seg_data):
+        if x.size < thres//0.04:
+            values[i] = 0
+    # print(values[:10])
+    # input("CC")
+
+    # write_trecvid_score(values,'./')
+    # input("DONE+CC")
     _, selected_cut = select_shot.knapsack([(v, w) for v, w in zip(values, weights)], capacity)
 
     return selected_cut
@@ -92,8 +101,6 @@ def main(time_shot_path,char_name,write_shot=True):
     shots = get_shot_id(cfg.TRECVID_SHOT_ID_PATH)
     skip_shot = get_skipped_shot(cfg.SKIPPED_TRECVID_SHOT_PATH)
 
-    print(len(shots))
-
     seg_data = []
     person_scores = np.empty(0)
 
@@ -101,8 +108,8 @@ def main(time_shot_path,char_name,write_shot=True):
         seg_data = seg_data + get_segment_data(i,skip_shot[str(i)])
         person_scores = np.hstack((person_scores,np.load(os.path.join(cfg.PERSON_SCORE_PATH,"{}/video{}.npy".format(char_name,i)))))
 
-    for sum_len in [150,300,450,600]:
-        select_shot_idx = summarize(seg_data,person_scores,sum_len)
+    for sum_len in [600]:
+        select_shot_idx = summarize(seg_data,person_scores,sum_len,use_sum=False, thres = 2.32)
 
         select_shot_idx = mapping_bbc_shot(seg_data,select_shot_idx,thres=0.25)
 
@@ -112,12 +119,18 @@ def main(time_shot_path,char_name,write_shot=True):
             write_selected_shot(selected_shot_id,time_shot_path,sum_len)
 
 if __name__ == '__main__':
+    #change TRECVID_SEGMENT_PATH and TRECVID_SCORE_PATH in config dir
     # main(cfg.PATH_TIME_SELECTION_BBC,'janine')
 
-    for t in [150,300,450,600]:
+    for t in [600]:
        gen_trecvid_vsum(cfg.PATH_TIME_SELECTION_BBC,t,cfg.PATH_RESULT_VSUM_BBC)
 
     # df = pd.read_csv(cfg.VIDEO_CSV_BBC_PATH)
     # for i in range(175,186):
     #     gen_segment_score(i,df)
-    # gen_video_sum('aa.mp4',['shot175_1101','shot175_1102','shot175_1103','shot175_1104','shot175_1105','shot175_1106','shot175_1107','shot175_1108'],cfg.PATH_SHOT_BBC,'./')
+    # shot_list = [
+    #
+    # ]
+    # shot_list.sort(key=lambda x: int(x.split("_")[0][4:])*10000 + int(x.split("_")[-1]))
+    # print(shot_list)
+    # gen_video_sum('bbc_vasnetjanine_top20.mp4',shot_list,cfg.PATH_SHOT_BBC,cfg.PATH_RESULT_VSUM_BBC)
