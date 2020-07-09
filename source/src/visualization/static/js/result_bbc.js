@@ -11,6 +11,8 @@ window.onload = function() {
   addResult("#listvideo2",vid_name,"bbc2.32_vasnet_knapsack",0);
   addResult("#listvideo2",vid_name,"bbc2.32_vasnetjanine_knapsack",0);
   addResult("#listvideo2",vid_name,"bbc2.32_janine_knapsack",0);
+  addVideo("#listvideo3","bbc_feature_kmedoids_20s","/result/TRECVID_BBC_EastEnders/bbc_feature_kmedoids/bbc_feature_kmedoids_20s.mp4","video/mp4")
+  addResult("#listvideo3",vid_name,"bbc175_vasnetjanine_knapsack",2);
 
 }
 
@@ -24,6 +26,13 @@ function addResult(_id,vidname,method,type) {
   {
     var len = 'top20'
     addVideo(_id,method+"_"+len,"/result/TRECVID_BBC_EastEnders/"+method+"/"+ method+"_"+len+".mp4","video/mp4")
+  }
+  else if (type == 2)
+  {
+    for (len of ['60s','120s','180s'])
+    {
+      addVideo(_id,method+"_"+len,"/result/TRECVID_BBC_EastEnders/"+method+"/"+ method+"_"+len+".mp4","video/mp4")
+    }
   }
 }
 

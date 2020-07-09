@@ -31,9 +31,9 @@ def summarize(seg_data, shot_score, sum_lenght, use_sum=False, thres = 2.32):
         values = [x.sum() for x in seg_data]
     else:
         values = [x.mean() for x in seg_data]
-    # values = np.asarray(values) + shot_score
+    values = np.asarray(values) + shot_score
 
-    values = shot_score
+    # values = shot_score
     for i,x in enumerate(seg_data):
         if x.size < thres//0.04:
             values[i] = 0
@@ -104,14 +104,14 @@ def main(time_shot_path,char_name,write_shot=True):
     seg_data = []
     person_scores = np.empty(0)
 
-    for i in range(175,186):
+    for i in range(175,176):
         seg_data = seg_data + get_segment_data(i,skip_shot[str(i)])
         person_scores = np.hstack((person_scores,np.load(os.path.join(cfg.PERSON_SCORE_PATH,"{}/video{}.npy".format(char_name,i)))))
 
-    for sum_len in [600]:
+    for sum_len in [60,120,180]:
         select_shot_idx = summarize(seg_data,person_scores,sum_len,use_sum=False, thres = 2.32)
 
-        select_shot_idx = mapping_bbc_shot(seg_data,select_shot_idx,thres=0.25)
+        # select_shot_idx = mapping_bbc_shot(seg_data,select_shot_idx,thres=0.25)
 
         selected_shot_id = list(map(shots.__getitem__,select_shot_idx))
 
@@ -122,7 +122,7 @@ if __name__ == '__main__':
     #change TRECVID_SEGMENT_PATH and TRECVID_SCORE_PATH in config dir
     # main(cfg.PATH_TIME_SELECTION_BBC,'janine')
 
-    for t in [600]:
+    for t in [60,120,180]:
        gen_trecvid_vsum(cfg.PATH_TIME_SELECTION_BBC,t,cfg.PATH_RESULT_VSUM_BBC)
 
     # df = pd.read_csv(cfg.VIDEO_CSV_BBC_PATH)

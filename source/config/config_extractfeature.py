@@ -27,14 +27,14 @@ __C.TENSORFLOW_DEBUGGING_CODE = '3'
 	3 = INFO, WARNING, and ERROR messages are not printed
 """
 #Params for choose CNN
-__C.NAME_CNN = 'resnet50'
+__C.NAME_CNN = 'resnet152'
 __C.LAYER_CNN = None
 
 #Params for ExtractFeartureDataSet
 __C.DATASET_NAME = 'bbc'     #bbc or summe or tvsum
-__C.DATASET_OUTPUT_PATH= '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/frames_feature/resnet50'
+__C.DATASET_OUTPUT_PATH= '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/frames_feature/resnet152'
 __C.DATASET_FROM_VIDEO = 175
-__C.DATASET_TO_VIDEO = 185
+__C.DATASET_TO_VIDEO = 186
 __C.DATASET_SAMPLING_RATE = 1
 __C.DATASET_DEVICE_NAME = '1'
 

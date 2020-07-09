@@ -49,7 +49,7 @@ __C.SKIPPED_TRECVID_SHOT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVI
 #---------config to run a baseline-----------#
 __C.TRECVID_SEGMENT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/segment/bbc_seg"
 __C.TRECVID_SCORE_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/score/VASNet_scores"
-__C.PATH_TIME_SELECTION_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc2.32_vasnet_knapsack"
+__C.PATH_TIME_SELECTION_BBC = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc175_vasnetjanine_knapsack"
 ####
 __C.TRECVID_BBC_SEGMENT_PATH = BASIC_DIR + "data/BBC_processed_data/VSUM_TRECVID/segment/bbc_seg/trecvid_bbc_shot.npy"
 __C.TRECVID_SEGMENT_JSON_PATH = BASIC_DIR + "source/src/visualization/static/json/TRECVID_BBC/selected"

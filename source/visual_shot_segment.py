@@ -10,6 +10,7 @@ def visual_shot(shot_time_path,json_path,json_id):
 
 def visual_segment(time_selection_path,lenght,json_id):
     paths = glob.glob(time_selection_path+"_{}s".format(i)+"/*/*.txt")
+
     dir_name = os.path.basename(time_selection_path)
     for p in paths:
         create_json.create_json_selections(p,os.path.join(cfg.TRECVID_SEGMENT_JSON_PATH,"{}_{}s").format(dir_name,lenght),json_id)
@@ -21,6 +22,7 @@ def visual_person_segment():
         create_json.create_json_selections(p,cfg.TRECVID_SEGMENT_JSON_PATH,char_name)
 
 if __name__ == '__main__':
-    # for i in [150,300,450,600]:
-        # visual_segment(cfg.PATH_TIME_SELECTION_BBC,i,"{}_{}".format(os.path.basename(cfg.PATH_TIME_SELECTION_BBC),i))
-    visual_shot(cfg.PATH_TIME_SHOTS_BBC,cfg.TRECVID_SHOT_JSON_PATH,'c3d')
+    for i in [20]:
+        visual_segment(cfg.PATH_TIME_SELECTION_BBC,i,"{}_{}".format(os.path.basename(cfg.PATH_TIME_SELECTION_BBC),i))
+    # visual_shot(cfg.PATH_TIME_SHOTS_BBC,cfg.TRECVID_SHOT_JSON_PATH,'c3d')
+    # print("AAA")

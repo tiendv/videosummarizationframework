@@ -3,7 +3,6 @@
 import numpy as np
 import os
 import json
-import cv2
 import glob
 import sys
 from chainer import serializers
@@ -147,28 +146,7 @@ def create_feature(path_csv,path_reference,video_id):
             vector.append(temp)
     return np.array(vector),totals
 
-"""
-def run_kmedoids(data,k,video_id,totals):
-    seg_l = 1
-    fps = 1
-    video_id = "video"+str(video_id)
 
-    duration = int(np.array(data).shape[0]+1)
-    k = int(totals*0.15/float(totals/float(np.array(data).shape[0])))
-    with configuration.using_config('train', False):
-        with chainer.no_backprop_mode():
-            ### k-medoids
-            vsum = VSUM( video_id,data,duration,k,seg_l,fps)
-
-    _, frames, _ = vsum.summarizeRep(weights=[1.0, 0.0],seg_l=seg_l)
-    temp = []
-    print frames
-    for i in range(len(frames)):
-        if (len(frames[i])>0):
-            temp.append("shot"+str(video_id.replace("video",""))+"_"+str(int(frames[i][0][0:-4])))
-    frames = temp
-    return frames
-"""
 def run_kmedoids(data,k,video_id):
     seg_l = 1
     fps = 1

@@ -71,9 +71,10 @@ class VSUM(gm_submodular.DataElement):
         return selected, frames, gt_score
 
 
-def encodeSeg(data, seg_size=4):
+def encodeSeg(data, seg_size=1):
     feat_temp = data.feat     #shape : fnum
     feat = []
+    '''
     print feat_temp.shape
     for i in range(feat_temp.shape[0]-seg_size+1):
         temp = []
@@ -83,7 +84,8 @@ def encodeSeg(data, seg_size=4):
                 total += feat_temp[i+k][j] 
             temp.append(total/seg_size)
         feat.append(temp)
-    feat=np.array(feat)
+    '''
+    feat=np.array(feat_temp)
     return feat
 ################################################
 # objectives

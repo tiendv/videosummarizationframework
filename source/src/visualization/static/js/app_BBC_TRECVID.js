@@ -29,11 +29,15 @@ function load_video(file_id){
               'json/TRECVID_BBC/selected/person_shot/'+file_id.split(".")[0]+'/janine.json',
               'json/TRECVID_BBC/selected/person_shot/'+file_id.split(".")[0]+'/ryan.json',
               'json/TRECVID_BBC/selected/person_shot/'+file_id.split(".")[0]+'/stacey.json',
+              'json/TRECVID_BBC_EastEnders/selected/emotion_seg_vsum_dsf_fix/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
+              'json/TRECVID_BBC_EastEnders/selected/event_seg_vsum_dsf_fix/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
 
               'json/TRECVID_BBC/selected/bbc_vasnet_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_vasnetjanine_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/bbc_janine_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
               'json/TRECVID_BBC/selected/twopeak_vasnet_knapsack_600s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC/selected/bbc_feature_kmedoids_20s/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
+              'json/TRECVID_BBC_EastEnders/events/'+file_id.split(".")[0]+"/"+file_id.split(".")[0]+".json",
               //'json/TRECVID_BBC_EastEnders/shots/c3d/'+file_id.split(".")[0]+"/"+file_id.replace(file_id.split(".")[file_id.split(".").length-1],'json'),
 
             ],
@@ -85,6 +89,19 @@ function load_video(file_id){
                                 title: 'Sum[twopeak_vasnet_knapsack_600s]',
                                 type: 'segment',
                                 metadataId: 'twopeak_vasnet_knapsack_600',
+                                color: '#F00'
+                            },
+                            {
+                                title: 'Sum[bbc_vasnet_kmedoid_20s]',
+                                type: 'segment',
+                                metadataId: 'bbc_feature_kmedoids_20',
+                                color: '#F00'
+                            },
+
+                            {
+                                title: 'Sum[Events_Kmedoids]',
+                                type: 'segment',
+                                metadataId: 'event_seg_vsum_dsf_fix',
                                 color: '#F00'
                             },
 
