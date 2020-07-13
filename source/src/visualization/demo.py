@@ -86,6 +86,14 @@ def visual_BBC_TRECVID():
 def visual_SumMe():
     return render_template('Summe/SumMe_video.html')
 
+@app.route('/result_175',methods=['GET','POST'])
+def result_175():
+    return render_template('BBC/BBC_TRECVID_video175.html')
+
+@app.route('/result_video175',methods=['GET','POST'])
+def result_video175():
+    return render_template('BBC/BBC_TRECVID_result_video175.html')
+
 if __name__ == "__main__":
     path_thumbnails_tvsum = "TVSum50/ydata-tvsum50-v1_1/thumbnail"
     path_matlab_gt='static/TVSum50/ydata-tvsum50-v1_1/ydata-tvsum50-matlab/matlab/ydata-tvsum50.mat'

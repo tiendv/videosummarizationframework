@@ -4,7 +4,8 @@ from uit.mmlab.vsum.visualization import create_json
 from utilities.convert_time import time2sec
 import numpy as np
 if __name__ == '__main__':
-    score = np.load("/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/VSUM_TRECVID/vsum_scores/janine/video175.npy")
-    with open("./175_janine_score.txt",'w') as f:
-        for s in score:
-            f.write("{}\n".format(s))
+    shot_data = [(2,2),(4,0),(1,11),(6,777),(9,9),(7,75)]
+
+    sorted_idx = [i[0] for i in sorted(enumerate(shot_data), key=lambda x: x[1][0])]
+
+    print(sorted_idx)
