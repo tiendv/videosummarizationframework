@@ -9,6 +9,7 @@ def visual_shot(shot_time_path,json_path,json_id):
     paths = glob.glob(shot_time_path+"/*/*.txt")
 
     for p in paths:
+        print(p)
         vid_name = p.split("/")[-3]
 
         # create_json_from_result_VSUM(p,json_path,vid_name,json_id)

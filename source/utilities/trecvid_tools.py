@@ -165,7 +165,8 @@ def create_json_from_result_event(path_data,path_json,name_vid,id_json="shot_gt"
         for line in f:
             dict_data = {}
             line = line.split()
-            df = pd.read_csv(os.path.join(cfg.TRECVID_EVENT_SHOT_PATH,"{}.csv".format(line[0])),header=None)
+            n_vid = line[0].split("_")[0].replace("shot","video")
+            df = pd.read_csv(os.path.join(cfg.TRECVID_EVENT_SHOT_PATH,"{}/{}.csv".format(n_vid,line[0])),header=None)
 
             list_sec.append(round(time2sec(line[2])-time2sec(line[1]),2))
             label=""
@@ -177,5 +178,6 @@ def create_json_from_result_event(path_data,path_json,name_vid,id_json="shot_gt"
     for s in list_sec:
         list_begin.append(sec2time(t))
         t = t + s;
+
 
     create_json4shots(path_json, name_vid,list_begin,list_score,id_json)

@@ -131,15 +131,34 @@ if __name__ == '__main__':
     #change TRECVID_SEGMENT_PATH and TRECVID_SCORE_PATH in config dir
     # main(cfg.PATH_TIME_SELECTION_BBC,'janine',write_shot=True)
 
-    for t in [150]:
-       gen_trecvid_vsum(cfg.PATH_TIME_SELECTION_BBC,t,cfg.PATH_RESULT_VSUM_BBC)
+    # for t in [150]:
+       # gen_trecvid_vsum(cfg.PATH_TIME_SELECTION_BBC,t,cfg.PATH_RESULT_VSUM_BBC)
 
     # df = pd.read_csv(cfg.VIDEO_CSV_BBC_PATH)
     # for i in range(175,186):
     #     gen_segment_score(i,df)
-    # shot_list = [
-    #
-    # ]
-    # shot_list.sort(key=lambda x: int(x.split("_")[0][4:])*10000 + int(x.split("_")[-1]))
-    # print(shot_list)
-    # gen_video_sum('bbc_vasnetjanine_top20.mp4',shot_list,cfg.PATH_SHOT_BBC,cfg.PATH_RESULT_VSUM_BBC)
+    shot_list = [
+'shot175_1774',
+'shot176_109',
+'shot179_1154',
+'shot182_630',
+'shot182_1303',
+'shot182_1431',
+'shot182_1515',
+'shot182_1545',
+'shot183_881',
+'shot183_1143',
+'shot183_1719',
+'shot183_1819',
+'shot183_1965',
+'shot183_2014',
+'shot184_248',
+'shot184_821',
+'shot184_1156',
+'shot184_1640',
+'shot185_367',
+'shot185_531',
+    ]
+    shot_list.sort(key=lambda x: int(x.split("_")[0][4:])*10000 + int(x.split("_")[-1]))
+    print(shot_list)
+    gen_video_sum('major_event.mp4',shot_list,cfg.PATH_SHOT_BBC,cfg.PATH_RESULT_VSUM_BBC)
