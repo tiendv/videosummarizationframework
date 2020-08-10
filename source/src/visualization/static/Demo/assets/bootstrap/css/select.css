@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+
+
+#select-header-container {
+	display: block;
+  position: absolute;
+	width: 320px;
+  height: 55px;
+	left: 50%;
+  top: 50%;
+	margin-left: -160px;
+  margin-top: -87px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px; 
+}
+
+/* Select style here */
+
+select {
+	margin: 0 auto;
+	color: white;
+	width: 310px;
+	padding: 15px;
+	height: 25px;
+	cursor: pointer;
+	background: white;
+}
+
+select:hover {
+	background-color: transparent;
+	color: white;
+	padding: 15px 5px 15px 25px;
+}
+
+select option {
+	background-color: white;
+	color: gray;
+	width: 310px;
+	padding: 10px 15px;
+	height: 20px;
+	cursor: pointer;
+}
+
+select option:hover {
+	padding-left: 25px;
+	width: 270px;
+	color: white;
+}

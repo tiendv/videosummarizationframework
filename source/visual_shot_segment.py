@@ -1,6 +1,6 @@
 import glob,os
 from config.config import cfg
-from utilities.trecvid_tools import create_json_from_result_VSUM,create_json_from_result_event
+from utilities.trecvid_tools import create_json_from_result_VSUM,create_json_from_result_event,get_bbc_shot_event
 from uit.mmlab.vsum.visualization import create_json
 
 
@@ -31,5 +31,10 @@ def visual_person_segment():
 if __name__ == '__main__':
     # for i in [20]:
         # visual_segment(cfg.PATH_TIME_SELECTION_BBC,i,"{}_{}".format(os.path.basename(cfg.PATH_TIME_SELECTION_BBC),i))
-    visual_shot(cfg.PATH_TIME_SELECTION_BBC,cfg.TRECVID_SHOT_JSON_PATH,"event_bbc")
+    # visual_shot(cfg.PATH_TIME_SELECTION_BBC,cfg.TRECVID_SHOT_JSON_PATH,"event_bbc")
     # print("AAA")
+    # get_bbc_shot_event()
+
+
+    create_json_from_result_VSUM(cfg.GT_TRECVID_PATH,cfg.TRECVID_SHOT_JSON_PATH,"GT_VSUM","shot175")
+    # create_json_from_result_event(cfg.GT_TRECVID_PATH,cfg.TRECVID_SHOT_JSON_PATH,"GT_VSUM","event_bbc")

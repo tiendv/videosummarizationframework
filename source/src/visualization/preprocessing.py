@@ -35,18 +35,17 @@ def create_dictionary_summe(path_videos,path_thumbnails,link_path):
 
     path_thumbnails = glob.glob(static_folder+"/"+path_thumbnails+"*.jpg")
     path_thumbnails.sort(key=lambda x: os.path.basename(x).split(".")[0])
-
     data_list = []
     link_video = []
     for i in path_videos :
         link = link_path + i.split("/")[len(i.split("/"))-1]
         link_video.append(link)
-        for i in range(len(path_thumbnails)):
-            dict_temp = {}
-            dict_temp['video'] = (link_video[i].replace("static/","")).replace(" ","@")
-            dict_temp['thumbnail'] = path_thumbnails[i].replace("static/","")
-            data_list.append(dict_temp)
-            return data_list
+    for j in range(len(path_thumbnails)):
+        dict_temp = {}
+        dict_temp['video'] = (link_video[j].replace("static/","")).replace(" ","@")
+        dict_temp['thumbnail'] = path_thumbnails[j].replace("static/","")
+        data_list.append(dict_temp)
+    return data_list
 
 def create_dictionary_bbc(path_videos,path_thumbnails,link_path):
     path_videos = glob.glob(static_folder+"/"+path_videos+"/*.mp4")

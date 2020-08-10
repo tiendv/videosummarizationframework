@@ -3,6 +3,14 @@ from flask_basicauth import BasicAuth
 from werkzeug.utils import secure_filename
 from datetime import timedelta
 from preprocessing import *
+import os
+from flask import Flask, flash, request, redirect, url_for
+from werkzeug.utils import secure_filename
+import sys
+sys.path.append('/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/Demo/code')
+sys.path.append('/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/Demo/code/tools')
+from frame_work import sum_video
+
 app = Flask(__name__,static_url_path='')
 app.config['SECRET_KEY'] = 'dungmn'
 app.config['BASIC_AUTH_USERNAME'] = 'admin'
@@ -13,6 +21,7 @@ basic_auth = BasicAuth(app)
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 app.config['ALLOWED_EXTENSIONS'] = set(['mp4','webm'])
+app.config['UPLOAD_FOLDER'] = '/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/Demo/video'
 filename= ''
 
 def allowed_file(filename):
@@ -35,6 +44,38 @@ def TVSum50():
 @app.route('/evaluation',methods=['GET','POST'])
 def evaluation():
     return render_template('evaluation.html')
+
+@app.route('/demokltn',methods=['GET','POST'])
+def demokltn():
+    #return render_template('Demo/thinh_test.html')
+    if request.method == 'POST':
+        segment = request.form.get('segment')
+        score = request.form.get('score')
+        selection = request.form.get('selection')
+        len_sum = int(request.form.get('lentgh_sum'))
+        len_sum = (len_sum)/100
+        print("Thinhplg", segment,score,selection,len_sum)
+        f = request.files['file']
+        f.save(os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(((((f.filename).replace(' ','_')).replace("&","and")).replace("+","")).replace("#",""))))
+        if ((((f.filename).replace(' ','_')).replace("&","and")).replace("+","")).replace("#","").split('.')[-1] != 'webm':
+            import moviepy.editor as mp
+            clip = mp.VideoFileClip('/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/Demo/video/'+((((f.filename).replace(' ','_')).replace("&","and")).replace("+","")).replace("#",""))
+            clip.write_videofile('/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/Demo/video/'+(((((f.filename).replace((f.filename).split('.')[-1],'webm')).replace(' ','_')).replace("&","and")).replace("+","")).replace("#",""))
+        with open('/mmlabstorage/workingspace/VideoSum/videosummarizationframework/source/src/visualization/static/Demo/temp.txt', 'w') as file_temp:
+            file_temp.write((((((f.filename).replace((f.filename).split('.')[-1],'webm')).replace(' ','_')).replace("&","and")).replace("+","")).replace("#",""))
+        sum_video(segment,score,len_sum)
+        list_demo = []
+        dict_demo = {}
+        dict_demo['video'] = '/visualdemo?file_id='+(((((f.filename).replace((f.filename).split('.')[-1],'webm')).replace(' ','_')).replace("&","and")).replace("+","")).replace("#","")
+        list_demo.append(dict_demo)
+        return render_template('Demo/thinh_test.html',data_list=list_demo)
+    return render_template('Demo/thinh_test.html')
+
+
+@app.route('/visualdemo',methods=['GET','POST'])
+def visual_demo():
+    return render_template('Demo/kltn_video.html')
+
 
 @app.route('/evaluation_chart',methods=['GET','POST'])
 def evaluation_chart():

@@ -32,7 +32,9 @@ def create_feature(path_feature,path_selected,video_name):
     
 if __name__ == "__main__":
     list_video_name_bbc= ['5531550228324592939', '5534228999422914578', '5539381671692122744', '5542003749222140011', '5544574287152993687', '5544620672795594434', '5547193787702629969', '5549784941472309008', '5552368364300855101', '5555325449284154780', '5555360238519252381']
-    list_events = ['playing+videogames','fighting','attacking','laughing','hitting','crying','shaking','camping','baptizing','barbecuing']
+ #   list_events = ['standing', 'playing', 'adult+male+speaking', 'fighting', 'attacking', 'talking', 'dancing', 'pointing', 'adult+female+singing', 'filming', 'hugging', 'punching', 'laughing', 'hitting', 'adult+male+singing', 'jumping', 'discussing', 'adult+female+speaking', 'crouching', 'breaking', 'singing', 'slapping', 'sitting', 'kissing', 'child+speaking', 'shouting', 'burying', 'howling', 'child+singing', 'crying', 'digging', 'shaking', 'smiling', 'shopping', 'playing+music', 'telephoning', 'giving', 'celebrating', 'dressing', 'smoking', 'biting', 'praying', 'giggling', 'studying', 'interviewing', 'sawing', 'tearing', 'baptizing', 'marrying', 'reading', 'writing', 'boiling'  ]
+    list_events = [ 'blocking', 'fighting', 'attacking', 'kicking', 'pushing', 'adult+female+singing', 'hugging', 'smashing', 'punching', 'laughing', 'hitting', 'adult+male+singing', 'jumping', 'adult+female+speaking', 'kneeling', 'barking', 'crouching', 'falling', 'breaking', 'singing', 'slapping', 'sitting', 'kissing', 'shouting', 'burying', 'howling', 'crying', 'digging', 'coughing', 'shaking', 'smiling', 'shopping', 'playing+music', 'giving', 'celebrating', 'biting', 'cuddling', 'praying', 'giggling', 'tearing', 'baptizing', 'marrying', 'licking', 'stroking' ]
+#    list_events = ['playing+videogames','fighting','attacking','laughing','hitting','crying','shaking','camping','baptizing','barbecuing']
 #    f=  pandas.read_csv('/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/events_emotion/video175/shot175_5.csv',header=None)
 #    for event in f[0]:
 #        list_events.append(event)
@@ -73,7 +75,7 @@ if __name__ == "__main__":
         for k in [5,10,15,20]:
             selected = run_kmedoids(feature,k,person)
             print (selected)
-            with open('/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc_major_life_event_kmedoids/'+str(k)+'/'+person+'.txt','w') as file_save:
+            with open('/mmlabstorage/workingspace/VideoSum/videosummarizationframework/data/BBC_processed_data/VSUM_TRECVID/bbc_segment_time/bbc_major_life_event_kmedoids(tri)/'+str(k)+'/'+person+'.txt','w') as file_save:
                 for i in selected:
                     file_save.write(name_shot_selec[i-1]+' '+time_start[i-1] + ' ' +time_end[i-1]+'\n')
                     print(name_shot_selec[i-1]+' '+time_start[i-1] + ' ' +time_end[i-1])

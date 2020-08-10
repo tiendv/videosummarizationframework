@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Demo KLTN</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="amaliajs/bower_components/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="amaliajs/bower_components/jquery-ui/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="amaliajs/bower_components/raphael/raphael.js"></script>
+    <script type="text/javascript" src="js/demokltn.js"></script>
+    <script type="text/javascript" src='https://requirejs.org/docs/release/2.3.5/minified/require.js' crossorigin="anonymous"></script>
+<script src="Demo/assets/js/utils.js"></script>
+  </head>
+  <body>
+        <div class="container">
+          <div class="row">
+
+                  <form id='formid' method=post enctype=multipart/form-data  >
+                  <div class="segmentation">
+                    <label for="selectsegment">Phân đoạn</label>
+                    <select class="form-control" id="selectsegment" name = "segment">
+                      <option id="KTS" value='KTS'>KTS</option>
+                      <option id="One-Peak" value='One-Peak'>One-Peak</option>
+                      <option id="Two-Peak" value='Two-Peak'>Two-Peak</option>
+                      <option id="Uniform" value='Uniform'>Uniform</option>
+                      <option id="Randomized-KTS" value='Randomized-KTS'>Randomized-KTS</option>
+                    </select>
+                  </div>
+                <script type="text/javascript">
+                  document.getElementById('selectsegment').onchange = function() {
+                    localStorage.setItem('selectedtem1', document.getElementById('selectsegment').value);
+                  };
+
+                  if (localStorage.getItem('selectedtem1')) {
+                    document.getElementById('selectsegment').options[localStorage.getItem('selectedtem1')].selected = true;
+                  }
+                </script>
+
+                  <div class="scoring">
+                    <label for="selectscore">Đánh giá độ quan trọng</label>
+                    <select class="form-control" id="selectscore" name = "score">
+                      <option id="VASNet" value='VASNet'>VASNet</option>
+                      <option id="DR-DSN" value='DR-DSN'>DR-DSN</option>
+                      <option id="Random" value='Random'>Random</option>
+                    </select>
+                  </div>
+                <script type="text/javascript">
+                  document.getElementById('selectscore').onchange = function() {
+                    localStorage.setItem('selectedtem2', document.getElementById('selectscore').value);
+                  };
+
+                  if (localStorage.getItem('selectedtem2')) {
+                    document.getElementById('selectscore').options[localStorage.getItem('selectedtem2')].selected = true;
+                  }
+                </script>
+
+                  <div class="selecting">
+                    <label for="selectselection">Chọn lọc</label>
+                    <select class="form-control" id="selectselection" name = "selection">
+                      <option>Knapsack</option>
+                    </select>
+                  </div>
+                  <div>
+                    <div class="form-group">
+                      <label for="formControlRange">Độ dài của video output</label>
+                      <input type="range" class="form-control-range" value="15" min='0' max='100' id="formControlRange" name='lentgh_sum'>
+                    </div>
+                  </div>
+                      <input type="file" id="myFile" name="file">  
+                      <button id= "buttonid" type="submit" onclick="loader();">Upload&Run</button>
+                      <img id='loady' src="Loader_Animation.gif" style='display:none' height="80" width="80" ></img>
+                  </form>
+
+                  <form>
+                      <button id= "showvideo" type="button" onclick="show();">Raw video</button>
+                      <button id= "showvideosum" type="button" onclick="show_sum();">Sum video</button>
+
+                <div class="video_holder">
+                      <video id="video_player" width="320" height="240" controls="controls" poster=""> 
+                        <source id="video_mp4" crossOrigin = 'anonymous' src="" type='video/mp4' codecs="avc1.42E01E, mp4a.40.2"' 
+                         muted="muted" />
+                      </video>              
+                      <video id="sum_video_player" width="320" height="240" controls="controls" poster=""> 
+                        <source id="video_mp4" crossOrigin = 'anonymous' src="" type='video/mp4' codecs="avc1.42E01E, mp4a.40.2"'
+                         muted="muted" />
+                      </video>
+                    {% for hist in data_list %}
+                    <a target="_blank" href={{hist.video}} >Show Detail</a>
+                    {% endfor %}    
+                  </form>
+                </div>
+          </div>
+        </div>
+  </body>
+</html>

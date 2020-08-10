@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<title>Công cụ giản lược video</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="Demo/assets/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="Demo/assets/bootstrap/css/animate.min.css">
+<link rel="stylesheet" href="Demo/assets/bootstrap/css/select.css">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script type="text/javascript" src="amaliajs/bower_components/jquery/dist/jquery.js"></script>
+<script type="text/javascript" src="amaliajs/bower_components/jquery-ui/jquery-ui.min.js"></script>
+<script type="text/javascript" src="amaliajs/bower_components/raphael/raphael.js"></script>
+<script type="text/javascript" src="js/demokltn.js"></script>
+<script type="text/javascript" src='https://requirejs.org/docs/release/2.3.5/minified/require.js' crossorigin="anonymous"></script>
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3,h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 2px;
+}
+</style>
+
+<script src="Demo/assets/js/utils.js"></script>
+
+<body>
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">Công cụ giản lược video</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#architecture" class="w3-bar-item w3-button">Kiến trúc</a>
+      <a href="#tool" class="w3-bar-item w3-button">Công Cụ</a>
+      <a href="#contact" class="w3-bar-item w3-button">Nhóm thực hiện</a>
+    </div>
+  </div>
+</div>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px">
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="architecture">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="Demo/image/io.png" class="w3-round w3-image" alt="Table Setting" width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">Kiến trúc hệ thống</h1><br>
+      <h5 class="w3-center">Hệ thống giản lược video bao gồm có ba module</h5>
+      <p class="w3-large">Segmentation: bla bla bla</p>
+      <p class="w3-large">Scoring: bla bla bla</p>
+      <p class="w3-large">Selecting: bla bla bla</p>
+    </div>
+  </div>
+
+ <!-- Architecture--> 
+ <div class="w3-row w3-padding-32" id="tool"></div>
+ <h1>Công cụ</h1>
+
+<section class="features-icons text-center"><div>
+    <form id='formid' method=post enctype=multipart/form-data>
+    <div class="container">
+        <div class="row" style="width: 1200px;margin-left: -50px;">
+          <!-- form -->
+         
+            <div class="col-lg-4">
+                <div class="mx-auto features-icons-item mb-5 mb-lg-0 mb-lg-3">
+                    <div class="d-flex features-icons-icon"><img class="rounded w3-center" data-bs-hover-animate="pulse" style="width: 125px;height: 100px;margin: 7px;margin-left: 90px;" src="Demo/image/segment.png"></div>
+                    <div class="segmentation">
+                      <h4 class="w3-center">Phân Đoạn</h4>
+                      
+                      <div>
+                      <select class="form-control select" id="selectsegment" name = "segment">
+                        <option id="KTS" value='KTS'>KTS</option>
+                        <option id="One-Peak" value='One-Peak'>One-Peak</option>
+                        <option id="Two-Peak" value='Two-Peak'>Two-Peak</option>
+                        <option id="Uniform" value='Uniform'>Uniform</option>
+                        <option id="Randomized-KTS" value='Randomized-KTS'>Randomized-KTS</option>
+                      </select>
+                      <!-- <script src="/Demo/assets/bootstrap/js/select.js" ></script> -->
+                      </div>
+
+                    </div>
+                    <!--segmentation-->
+                    <script type="text/javascript">
+                      document.getElementById('selectsegment').onchange = function() {
+                        localStorage.setItem('selectedtem1', document.getElementById('selectsegment').value);
+                      };
+                  
+                      if (localStorage.getItem('selectedtem1')) {
+                        document.getElementById('selectsegment').options[localStorage.getItem('selectedtem1')].selected = true;
+                      }
+                    </script>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="mx-auto features-icons-item mb-5 mb-lg-0 mb-lg-3">
+                    <div class="d-flex features-icons-icon"><img data-bs-hover-animate="pulse" src="Demo/image/scoring.png" style="width: 125px;height: 100px;margin: 7px;margin-left: 90px;"></div>
+                    <div class="scoring">
+                      <h4 class="w3-center">Đánh giá độ quan trọng</h4>
+                      <select class="form-control" id="selectscore" name = "score">
+                        <option id="VASNet" value='VASNet'>VASNet</option>
+                        <option id="DR-DSN" value='DR-DSN'>DR-DSN</option>
+                        <option id="Random" value='Random'>Random</option>
+                      </select>
+                    </div>
+                    <!--scoring-->
+                  <script type="text/javascript">
+                    document.getElementById('selectscore').onchange = function() {
+                      localStorage.setItem('selectedtem2', document.getElementById('selectscore').value);
+                    };
+                
+                    if (localStorage.getItem('selectedtem2')) {
+                      document.getElementById('selectscore').options[localStorage.getItem('selectedtem2')].selected = true;
+                    }
+                  </script>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="mx-auto features-icons-item mb-5 mb-lg-0 mb-lg-3">
+                    <div class="d-flex features-icons-icon"><img data-bs-hover-animate="pulse" src="Demo/image/select.png" style="width: 125px;height: 100px;margin: 7px;margin-left: 90px;"></div>
+                    <div class="selecting">
+                      <h4 class="w3-center">Chọn lọc</h4>
+                      <select class="form-control" id="selectselection" name = "selection">
+                        <option>Knapsack</option>
+                      </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+          <div style='margin-top: 50px;margin-bottom: 50px;'>
+            <h4 for="formControlRange">Độ dài của video output</h4>
+            <input type="range" class="form-control-range" value="15" min='0' max='100' id="formControlRange" name='lentgh_sum'>
+          </div>
+        </div>
+            <input type="file" id="myFile" name="file">  
+            <button id= "buttonid" type="submit" onclick="loader();">Upload&Run</button>
+            <img id='loady' src="Loader_Animation.gif" style='display:none' height="80" width="80" ></img>
+        </form>
+        
+        <form>
+            <button id= "showvideo" type="button" onclick="show();">Raw video</button>
+            <button id= "showvideosum" type="button" onclick="show_sum();">Sum video</button>
+        
+        <div class="video_holder">
+            <video id="video_player" width="320" height="240" controls="controls" poster=""> 
+              <source id="video_mp4" crossOrigin = 'anonymous' src="" type='video/mp4' codecs="avc1.42E01E, mp4a.40.2"' 
+               muted="muted" />
+            </video>              
+            <video id="sum_video_player" width="320" height="240" controls="controls" poster=""> 
+              <source id="video_mp4" crossOrigin = 'anonymous' src="" type='video/mp4' codecs="avc1.42E01E, mp4a.40.2"'
+               muted="muted" />
+            </video>
+          {% for hist in data_list %}
+          <a target="_blank" href={{hist.video}} >Show Detail</a>
+          {% endfor %}    
+        </form>
+        </div>
+        
+    </div>
+</section>
+
+
+  
+
+  <!-- Contact Section -->
+  <div class="w3-container w3-padding-64" id="contact">
+    <h1>Contact</h1><br>
+    <p class="w3-center w3-text-blue-grey w3-large"><b>Phạm Lê Gia Thịnh - 16521183</b></p>
+    <p class="w3-center w3-text-blue-grey w3-large"><b>Võ Lê Minh Trí - 16521291</b></p>
+    </div>
+  
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<script src="Demo/assets/js/jquery.min.js"></script>
+<script src="Demo/assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="Demo/assets/js/bs-init.js"></script>
+</body>
+</html>

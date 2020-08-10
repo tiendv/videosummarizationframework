@@ -100,26 +100,23 @@ def write_trecvid_score(values,save_path):
         for s,v in zip(shots,values):
             f.write("{},{}\n".format(s,v))
 
-def write_selected_shot(selected_shot,selected_score,save_path,sum_len):
+def write_selected_shot(selected_shot,selected_score,save_path,file_name):
     gName,time_shot = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
 
     selected_shot = [list(i) for j,i in groupby(selected_shot,lambda x: x.partition('_')[0])]
 
-    save_path = save_path+"_{}s".format(sum_len)
     for item in selected_shot:
-        vid_id = item[0].split('_')[0][4:]
-        vid_name = gName[vid_id]
-        if not os.path.isdir(os.path.join(save_path,vid_name)):
-            os.makedirs(os.path.join(save_path,vid_name))
-        with open(os.path.join(save_path,'{n}/{n}.txt'.format(n=vid_name)),'w') as f:
+        if not os.path.isdir(save_path):
+            os.makedirs(save_path)
+        with open(os.path.join(save_path,'{n}.txt'.format(n=file_name)),'w') as f:
             for ind,s in enumerate(item):
                 shot = time_shot[s]
                 st = shot[0]
                 en = shot[1]
-                sc = round(selected_score[ind][0],2)
+                sc = round(selected_score[ind][0],8)
 
                 f.write('{} {} {} {}\n'.format(s,st,en,sc))
-    print("the result is saved at " + save_path)
+    print("the result is saved at " + os.path.join(save_path,'{n}.txt'.format(n=file_name)))
 
 def create_json_from_result_VSUM(path_data,path_json,name_vid,id_json="shot_gt"):
     '''
@@ -138,8 +135,10 @@ def create_json_from_result_VSUM(path_data,path_json,name_vid,id_json="shot_gt")
         for line in f:
             dict_data = {}
             line = line.split()
-            list_sec.append(round(time2sec(line[2])-time2sec(line[1]),2))
-            list_score.append(line[3])
+            gName,time_shot = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
+
+            list_sec.append(round(time2sec(time_shot[line[0]][1])-time2sec(time_shot[line[0]][0]),2))
+            list_score.append("1")
 
     t = 0
     for s in list_sec:
@@ -147,6 +146,17 @@ def create_json_from_result_VSUM(path_data,path_json,name_vid,id_json="shot_gt")
         t = t + s;
 
     create_json4shots(path_json, name_vid,list_begin,list_score,id_json)
+
+def get_bbc_shot_event(shot_id):
+    n_vid = shot_id.split("_")[0].replace("shot","video")
+    event_csv = os.path.join(cfg.TRECVID_EVENT_SHOT_PATH,"{}/{}.csv".format(n_vid,shot_id))
+    if not os.path.exists(event_csv):
+        df = pd.DataFrame()
+        return df
+
+    df = pd.read_csv(event_csv,header=None)
+
+    return df
 
 def create_json_from_result_event(path_data,path_json,name_vid,id_json="shot_gt"):
     '''
@@ -165,13 +175,17 @@ def create_json_from_result_event(path_data,path_json,name_vid,id_json="shot_gt"
         for line in f:
             dict_data = {}
             line = line.split()
-            n_vid = line[0].split("_")[0].replace("shot","video")
-            df = pd.read_csv(os.path.join(cfg.TRECVID_EVENT_SHOT_PATH,"{}/{}.csv".format(n_vid,line[0])),header=None)
+            gName,time_shot = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
 
-            list_sec.append(round(time2sec(line[2])-time2sec(line[1]),2))
-            label=""
-            for i in range(5):
-                label = label + "{}({:0.3f})\n".format(df.loc[i][0],df.loc[i][1])
+            list_sec.append(round(time2sec(time_shot[line[0]][1])-time2sec(time_shot[line[0]][0]),2))
+            df = get_bbc_shot_event(line[0])
+
+            if df.empty:
+                label = "None"
+            else:
+                label=""
+                for i in range(5):
+                    label = label + "{}({:0.3f})\n".format(df.loc[i][0],df.loc[i][1])
             list_score.append(label)
 
     t = 0
@@ -181,3 +195,11 @@ def create_json_from_result_event(path_data,path_json,name_vid,id_json="shot_gt"
 
 
     create_json4shots(path_json, name_vid,list_begin,list_score,id_json)
+
+
+def get_shot_lenght(shot_list):
+    gName,time_shot = get_data_ref_bbc(cfg.PATH_DATA_REF_BBC_FILE)
+    sec = []
+    for s in shot_list:
+        sec.append(time2sec(time_shot[s][1]) - time2sec(time_shot[s][0]))
+    return sec
